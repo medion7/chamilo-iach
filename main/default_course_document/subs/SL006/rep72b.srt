@@ -1,0 +1,1531 @@
+﻿1
+00:00:25,040 --> 00:00:37,160
+Problem je, priznam in zdaj bomo govorili o možnih rešitvah, o možnih orodjih za iskanje informacij.
+
+2
+00:00:38,645 --> 00:00:46,460
+Najprej, veste, da je repertorij zgrajen kot poglavje znotaj poglavja, po abecednem redu. Ta imajo modalitete, razširitve in vse to, to vse poznate.
+
+3
+00:00:46,560 --> 00:01:04,203
+Ni mi treba razlagati, da je namen strukture v repertoriju iskanje informacij. O tem ne bom govoril, če nimate vprašanj.
+
+4
+00:01:05,547 --> 00:01:29,355
+Drugi način, ki pomaga uporabnikom repertorija pri iskanju informacij, je standardiziran jezik.
+
+5
+00:01:31,253 --> 00:01:38,976
+S tem je mišljeno, da če govorite in govorite o simptomu, to ne bo šlo kot tako v repertorij.
+
+6
+00:01:40,384 --> 00:01:51,563
+Ampak bo vnešeno kot pogovorni jezik. V repertoriju ni govor, ampak je pogovor. Razumete, kaj vam skušam povedati?
+
+7
+00:01:52,800 --> 00:02:01,600
+Število besed je omejeno in med govorom ne uporabljamo vseh sinonimov. Vedno uporabljamo pogovorni jezik.
+
+8
+00:02:03,061 --> 00:02:18,997
+Drug primer. Ko se nekaj izboljša s položajem ali določenim ukrepanjem, rečemo.... amel. (izboljšanje). Ne rečemo ...sem boljše, mi je olajšalo, ne. Uporabimo besedo .... amel. (izboljšanje)
+
+9
+00:02:20,064 --> 00:02:26,464
+Jezik je torej standardiziran.
+
+10
+00:02:28,107 --> 00:02:37,429
+V Kentovem repertoriju je jezik manj standardiziran in z vsako naslednjo verzijo Synthesisa, imamo (?) linije, je jezik repertorija vedno bolj standardiziran.
+
+11
+00:02:38,731 --> 00:02:48,032
+In lahko bi bil (?) še bolj, to moramo narediti. Vendar je to tako velika naloga, da je še v teku.
+
+12
+00:02:49,440 --> 00:02:56,757
+Do sedaj je bilo to delo nekoga, ki je vnašal simptome.
+
+13
+00:02:59,403 --> 00:03:11,477
+Vendar imamo potem za uporabnike veliko  različnih možnosti glede jezika in prva, kot veste, so sinonimi.
+
+14
+00:03:14,485 --> 00:03:22,272
+Zavržen, zapuščen (abandoned) je sinonim za zapuščen (forsaken). To vidite na ekranu.
+
+15
+00:03:23,253 --> 00:03:38,293
+To pomeni, da ne dodajamo zdravil (?), ne vnašamo jih v rubriko zavržen (abandoned), ko želimo izraziti nekaj glede občutka zavrženosti. To bomo dodali k zapuščen (forsaken), saj sta znotraj repertorija abandoned in forsaken ista stvar.
+
+16
+00:03:38,763 --> 00:03:53,056
+Očitno se bo vedno našel nekdo, ki bo rekel, zame pa abandoned in forsaken ni isto. Razlika je, da je forsaken globlje ranjen in...
+
+17
+00:03:53,675 --> 00:04:05,536
+To je razlaga, vendar skušamo na splošno uporabljati sinonime in lahko celo rečem, da imamo raje čim več sinonimov in ne diferenciramo preveč.
+
+18
+00:04:06,368 --> 00:04:13,771
+Kajti v nasprotnem primeru boste postali preveč odvisni od iskanja pravih besed.
+
+19
+00:04:14,560 --> 00:04:24,309
+Moram pa priznati, da je dejansko stvar razprave, stvar okusa skoraj, ali dve besedi smatramo za sinonim ali ne.
+
+20
+00:04:25,141 --> 00:04:37,792
+In če ju ne smatramo za sinonima, potem je to nekaj, kar imenujemo navzkrižna referenca.
+
+21
+00:04:38,667 --> 00:04:49,703
+Ljubosumje in zavist sta si zelo podobna. Nekateri bodo mogoče rekli, da sta ljubosumje in zavist bolj ali manj eno in isto. Označili ju bodo kot sinonima.
+
+22
+00:04:49,803 --> 00:04:58,613
+Vendar smo v repertorijskem jeziku, ki je  malo drugačen od naravnega jezika, to moram priznati, definirali razliko med ljubosumjem in zavistjo, to veste.
+
+23
+00:04:59,787 --> 00:05:09,984
+Mi lahko kdo razloži razliko med ljubosumjem in zavistjo?
+
+24
+00:05:16,320 --> 00:05:23,222
+-Ne vem, če imam prav, a mogoče je ljubosumje usmerjeno bolj proti ljubimcu ali nekaj takega in zavist je,
+
+25
+00:05:23,322 --> 00:05:28,123
+če vidite, da ima nekdo lepše stvari in ste zato ljubosumni. Takšno je moje mnenje.
+
+26
+00:05:29,440 --> 00:05:35,036
+-Ja, odlično. Ljubosumje je na emocionalni ravni in zavist je na materialni ravni.
+
+27
+00:05:35,136 --> 00:05:42,624
+Jasno torej razlikujemo ljubosumje in zavist. Vendar sta si zelo podobna, včasih se celo pojavljata skupaj,
+
+28
+00:05:42,724 --> 00:05:50,112
+včasih bi mogoče radi združili dve rubriki v eno, novo, večjo rubriko ipd.
+
+29
+00:05:56,107 --> 00:06:16,992
+Vidite, da če ste v repertoriju, v Radarju, pozicionirani na "abandoned", je dovolj, da kliknete enkrat "enter" na vaši tipkovnici in skočilo bo na "forsaken".
+
+30
+00:06:17,920 --> 00:06:26,507
+Kliknem torej in sem že na "forsaken" v repertoriju. Tako lahko skačete.
+
+31
+00:06:30,091 --> 00:06:35,979
+Tokrat bom govoril z angleškim, ker moram uporabiti jezikovne primere.
+
+32
+00:06:39,243 --> 00:06:47,015
+Isto je z navzkrižnimi referencami. Upam, da veste, da je to občutek zapuščenosti (forsaken feeling) in želite pogledati v rubriko želi družbo (desire for company),
+
+33
+00:06:47,115 --> 00:06:55,095
+dvakrat kliknete na "desire company" (želi družbo) z levo tipko in ste na "desire company".
+
+34
+00:06:56,907 --> 00:07:05,856
+To so torej skoki znotraj knjige, kot vidite je v računalniku veliko lažje skakati na različna mesta in premišljevati o zdravilih, o pomenu
+
+35
+00:07:05,956 --> 00:07:14,805
+in se odločiti za pravilno rubriko v okviru navzkrižnih referenc ter z upoštevanjem sinonimov.
+
+36
+00:07:15,893 --> 00:07:18,923
+To je torej ena raven.
+
+37
+00:07:20,075 --> 00:07:29,489
+Seveda je tu problem, kajti katerikoli simptom želite iskati v repertoriju...
+
+38
+00:07:29,589 --> 00:07:36,928
+Predpostavimo, da imate knjigo, samo knjigo, kaj morate najprej narediti?
+
+39
+00:07:37,803 --> 00:07:52,757
+Odločiti se, v katerem poglavju je. Včasih je to enostavno, če me srbi v ušesu, moram pogledati v moj nos in obratno.
+
+40
+00:07:53,184 --> 00:07:59,712
+Vendar je včasih to zelo težko in gre skoraj za arbitražno odločitev, v katerem poglavju je (?).
+
+41
+00:08:00,680 --> 00:08:16,401
+Pri iskanju simptoma smo torej odvisni od strukture, poglavij, ipd., abecede, modalitet in tako dalje in zato imamo funkcijo, ki je na razpolago v vseh homeopatskih računalniških programih,
+
+42
+00:08:16,501 --> 00:08:23,328
+s katero lahko iščete simptome s ključnimi besedami.
+
+43
+00:08:26,400 --> 00:08:39,243
+Ključne besede pomenijo besedo, ki je ključ. Torej (?), ki ste jih shranili in dobite ven besedo, ki je ključ.
+
+44
+00:08:40,352 --> 00:08:49,355
+Pokazal vam bom primere v angleščini, a je enako v nemščini, lahko poskusite to tudi s katerimikoli nemškimi besedami.
+
+45
+00:08:50,464 --> 00:09:17,109
+Če želite uporabiti to orodje v tem programu, vtipkate "?" in nato nadaljujete s tipkanjem besede "snoring" (smrčanje).
+
+46
+00:09:17,621 --> 00:09:31,381
+Ker vaša tašča ves čas smrči in vi ne veste, ali morate gledati v rubriko "nose" (nos) ali (?) ali "mind ailments from" (um, težave zaradi) ali kaj drugega.
+
+47
+00:09:31,936 --> 00:09:38,955
+Ne veste, kam pogledati za smrčanje. Poznate pa ključno besedo "snoring" (smrčanje).
+
+48
+00:09:39,509 --> 00:09:58,411
+Vtipkate torej "? smrčanje" in dobite spisek 9 simptomov in vidite, da je to velik simptom z 59 zdravili, katerih (?) njegovo prisotnost v poglavju "respiration" (dihanje).
+
+49
+00:10:00,480 --> 00:10:06,901
+Z uporabo ene besede torej najdete simptom.
+
+50
+00:10:08,864 --> 00:10:16,392
+Še en primer. Se spomnite danes zjutraj, ko nisem mogel najti simptoma in ste me vsi gledali
+
+51
+00:10:16,492 --> 00:10:23,920
+in sem postal zelo živčen in potem nisem našel simptoma, moram priznati.
+
+52
+00:10:24,440 --> 00:10:32,843
+A sem vedel, da je simptom obstajal. Torej lahko uporabim isto orodje za iskanje simptoma.
+
+53
+00:10:33,717 --> 00:10:43,531
+(?) Arsenicum, ja, poznam Arsenicum, boljše je neko drugo zdravilo, ki ima simptom na zelo izražen način in je (?) malo drugačno.
+
+54
+00:10:44,440 --> 00:11:14,421
+Kaj bom torej naredil, vtipkal bom "?", vtipkal bom "death" (smrt) in (?). V tem trenutku bo program našel vse simptome, ki vsebujejo besedo "death", kjerkoli že je v strukturi repertorija.
+
+55
+00:11:18,795 --> 00:11:36,672
+In nato vidite 5 simptomov. Prvi se začne z "death when alone" (smrti, ko je sam). In to je zdravilo, za katerega sem želel, da bi ga našli.
+
+56
+00:11:45,867 --> 00:12:04,988
+-Obstaja še en način, kako priti do istega rezultata. Vedno smo delali tako, a je vaš način boljši . Če kliknete na to ikono...
+
+57
+00:12:05,088 --> 00:12:23,627
+-Miriam je klikala na to ikono, ko je bila še v Izraelu. Zdaj, ko je prišla na Alonissos pa bo tipkala "?", ker se ji to zdi boljše.
+
+58
+00:12:25,163 --> 00:12:35,403
+Če najdete nekaj boljšega, to uporabite. Če pa nekdo rad klika na ikone, lahko še naprej klika na ikone.
+
+59
+00:12:37,728 --> 00:12:42,940
+-Ne razumem, kako dobim "?". Ga samo vstavite ali imate...
+
+60
+00:12:43,040 --> 00:12:45,429
+-Vtipkate "?"
+-Brez ničesar drugega?
+
+61
+00:12:54,389 --> 00:13:07,381
+-Ko vtipkate "?" se to pojavi. To je način, kako to deluje.
+
+62
+00:13:09,429 --> 00:13:16,720
+Beseda torej za iskanje simptoma. Bodite pozorni, ker vam bom kasneje postavil vprašanje.
+
+63
+00:13:18,688 --> 00:13:26,009
+Gremo en korak naprej. Iskanje ključne besede je torej velik korak naprej
+
+64
+00:13:26,109 --> 00:13:33,329
+in se nanaša na homeopatske računalniške programe in na nek način tudi na nekatere knjige, kot (?) Index of Repertory.
+
+65
+00:13:33,429 --> 00:13:40,071
+Poznate to knjigo? Index of Repertory? To je velika knjiga, skoraj kot bi bila tudi sama repertorij.
+
+66
+00:13:40,171 --> 00:13:45,205
+Ima ključne besede in za vsako ključno besedo so navedene vse strani, na katerih se ta nahaja.
+
+67
+00:13:45,760 --> 00:13:53,227
+Seveda je s programom, kjer takoj dobite rezultat, veliko lažje.
+
+68
+00:13:54,400 --> 00:14:02,840
+To naredi beseda "search" (išči) v repertoriju in računalniškem programu, kar je velik korak naprej, saj ne potrebujemo več strukture.
+
+69
+00:14:03,787 --> 00:14:10,485
+Simptom lahko najdemo ne glede na strukturo.
+
+70
+00:14:11,701 --> 00:14:15,627
+Naslednji korak, ki vam bo pomagal najti simptome je, da  zavedate, da kljub sinonimom,
+
+71
+00:14:15,727 --> 00:14:19,552
+več navzkrižnim referencam, iskanju s ključnimi besedami, s slovničnimi sinonimi,
+
+72
+00:14:32,501 --> 00:14:40,608
+s splošnimi jezikovnimi sinonimi ipd, kljub vsemu potrebujemo še več orodij za iskanje simptomov.
+
+73
+00:14:41,547 --> 00:14:57,781
+In zato smo uvedli koncepte, glede na Synthesis je to približno 2-3 leta nazaj.
+
+74
+00:15:03,349 --> 00:15:22,016
+Koncept je ideja in je kot škatla. V konceptu, v škatli, so repertorijski simptomi, ki izražajo neko idejo; potem je to koncept.
+
+75
+00:15:22,848 --> 00:15:28,224
+Imate torej koncept na različne načine, na več različnih načinov.
+
+76
+00:15:29,056 --> 00:15:36,849
+Ne bom preveč širil tega in vam bom dovolil, da to odkrijete  sami, dal vam bom le nekaj primerov.
+
+77
+00:15:42,005 --> 00:15:58,219
+Nekdo je vprašal glede nosečnosti. Prestrukturirajte repertorij in naredite poglavje "pregnancy" (nosečnost). To je mogoče narediti, a s konceptom imamo novo orodje.
+
+78
+00:15:59,051 --> 00:16:10,961
+Ker mi je všeč pajkova mreža nad repertorijem, ki povezuje simptome iz zelo različnih delov in z zelo različnim pomenom,
+
+79
+00:16:11,061 --> 00:16:16,721
+jih veliko bolj loči kot navzkrižne reference.
+
+80
+00:16:16,821 --> 00:16:24,395
+Pri navzkrižnih referencah imate dva simptoma, ki sta povezana; pri konceptu imate lahko veliko simptomov, ki sploh niso
+
+81
+00:16:24,821 --> 00:16:29,749
+med seboj povezani, samo pripadajo isti ideji.
+
+82
+00:16:30,267 --> 00:16:37,643
+Dal vam bom nekaj primerov, da boste lažje razumeli.
+
+83
+00:16:38,440 --> 00:16:50,919
+Za dostop do ključnih besed uporabimo en "?". Za dostop do konceptov pa uporabimo dva "??".
+
+84
+00:16:51,019 --> 00:16:55,584
+To smo naredili posebej za ljudi iz Izraela.
+
+85
+00:16:56,736 --> 00:17:15,872
+Vtipkam torej ?? nosečnost in dobim seznam konceptov, kot vidite pri Zulianu in Fonseci, imamo koncept "pregnancy" (nosečnost).
+
+86
+00:17:16,853 --> 00:17:31,595
+In če kliknem na knjigico tukaj, na ikono Synthesisa, bom videl vse simptome, ki so povezani z nosečnostjo.
+
+87
+00:17:32,469 --> 00:17:39,836
+Jeza med nosečnostjo, anksioznost-nosečnost, ne želi družbe v nosečnosti, delirij po splavu...
+
+88
+00:17:39,936 --> 00:17:44,337
+Torej ni potrebno, da je beseda nosečnost ves čas prisotna.
+
+89
+00:17:44,437 --> 00:17:48,945
+Obup med porodom tudi ni rezultat iskanja po besedah, to ni iskanje s kjučnimi besedami.
+
+90
+00:17:49,045 --> 00:18:00,608
+Strah pred pretečim abortusom in žalost, ker je izginilo mleko.
+
+91
+00:18:02,187 --> 00:18:10,955
+Vidite simptome, v katerih ni besede nosečnost. To je pač karkoli, kar ima povezavo z nosečnostjo.
+
+92
+00:18:11,808 --> 00:18:17,547
+To torej poimenujemo ID, koncept nosečnost.
+
+93
+00:18:19,552 --> 00:18:27,445
+To je samo en primer konceptov. Koncept lahko uporabljamo tudi za druge zanimive zadeve.
+
+94
+00:18:28,427 --> 00:18:38,261
+Mogoče imate koga v vaši družini z Alzheimerjevo boleznijo.
+
+95
+00:18:39,755 --> 00:18:51,019
+To besedo je težko uporabiti na homeopatski način. Lažje bi bilo reči, da obstaja rubrika: splošno, Alzheimer, 25 zdravil.
+
+96
+00:18:51,957 --> 00:19:01,479
+Ali kot dobro izučeni homeopati res verjamete, da je to tako enostavno? Samo pogledate in vidite 25 zdravil za Alzheimerjevo, ga predpišete in končano?
+
+97
+00:19:04,565 --> 00:19:16,021
+Narediti morate celotno anamnezo in biti bolj natančni. To so torej homeopatski simptomi, ki jih lahko uporabite, če vtipkate Alzheimer.
+
+98
+00:19:17,792 --> 00:19:33,344
+Vtipkam torej ??Alzheimer, kar pomeni, da iščem idejo, koncept Alzheimer in program mi tukaj pokaže
+
+99
+00:19:34,176 --> 00:19:53,681
+škatlo; kliknem nanjo in vidim 24 simptomov iz celega repertorija, um in ostale, nerazločen govor. Ah, ja, OK.
+
+100
+00:19:53,781 --> 00:20:02,912
+Najdete torej homeopatske simptome, za katere niste vedeli, ko ste razmišljali o Alzheimerju.
+
+101
+00:20:03,936 --> 00:20:18,848
+Kot tole, v Radarju imamo koncepte za 180 različnih bolezni in vsaka bolezen je koncept, škatla, ki vsebuje 10, 20, 30, 40 simptomov,
+
+102
+00:20:19,701 --> 00:20:25,355
+ki so zanimivi, da se spomnimo nanje ali da povprašamo po njih, ko imamo primer s to boleznijo.
+
+103
+00:20:32,864 --> 00:20:37,329
+To so torej koncepti bolezni, samo da si predstavljate, kakšen je lahko koncept.
+
+104
+00:20:37,429 --> 00:20:49,675
+Tu je torej ta pajkova mreža Alzheimerjeve bolezni in v repertoriju poišče vse simptome, ki so povezani z Alzheimerjevo boleznijo.
+
+105
+00:20:57,717 --> 00:21:09,800
+-Od katere verzije to deluje?
+-Od 7 naprej.
+
+106
+00:21:21,589 --> 00:21:30,592
+Tehnično plat bom tako ali tako pogledal med odmorom. Naj vam najprej razložim idejo o konceptih in ta nov pristop k repertoriju.
+
+107
+00:21:33,515 --> 00:21:40,839
+To so različni koncepti, Radar in akutne bolezni, ki sem vam jih razložil.
+
+108
+00:21:51,392 --> 00:22:05,792
+Imamo Fonseca koncepte. Razložil vam bom Fonseca koncepte. Dva Brazilca sta naredila velikansko delo na mentalnem področju.
+
+109
+00:22:06,624 --> 00:22:12,647
+Ponavadi je težko najti pravi mentalni simptom.
+
+110
+00:22:12,747 --> 00:22:17,063
+Stvar sta zastavila z različnimi pristopi, jaz bom govoril o analogni skupini.
+
+111
+00:22:17,163 --> 00:22:28,192
+V osnovi sta razdelila vse mentalne simptome na 3 analogne skupine, koncepte.
+
+112
+00:22:29,173 --> 00:22:40,032
+Ena skupina, vsi mentalni simptomi, povezani z drugimi, vsi mentalni simptomi, povezani z osebo samo in vsi mentalni simptomi, povezani z okolico.
+
+113
+00:22:41,056 --> 00:22:47,776
+Iščete torej mentalni simptom, tudi če ne veste besede, ki jo iščete, če torej ne poznate ključne besede.
+
+114
+00:22:48,843 --> 00:23:04,288
+Veste pa, da je ta simpton povezan z osebo samo. Izberete torej koncept, škatlo "mental symptoms related to himself" (mentalni simptomi, povezani z osebo samo).
+
+115
+00:23:04,800 --> 00:23:13,803
+Greste en korak navzdol in v tej škatli imate naslednjo serijo škatel, pod-konceptov.
+
+116
+00:23:24,491 --> 00:23:31,111
+Smo v Synthesisu, razložil vam bom, kako začeti. Pojdite v repertorij.
+
+117
+00:23:37,312 --> 00:23:50,475
+"Search" (poišči) in na dnu imate "Find Concepts" (najdi koncepte). Pogrešam lepe ikonice, a vseeno.
+
+118
+00:23:55,019 --> 00:24:12,661
+Izberem torej Fonseca. Poišči, najdi koncepte, tukaj ste. Grem nazaj v moji analogni skupini, v povezavi z njim samim.
+
+119
+00:24:13,451 --> 00:24:20,412
+Nato sta ustvarila pod-koncepte, skupine simptomov, povezanih z osebo samo.
+
+120
+00:24:20,512 --> 00:24:28,533
+smrt, zdravje, intelekt..ipd. Dal vam bom samo en primer, da vidite, kako deluje.
+
+121
+00:24:31,520 --> 00:24:35,324
+Samo kliknem na tisto, za kar sem se odločil.
+
+122
+00:24:35,424 --> 00:24:47,392
+Če je torej simptom v povezavi s samim sabo, kliknem na povezano z njim samim.
+
+123
+00:24:49,464 --> 00:24:55,669
+-Ne razumem, kako ste to dobili? Dobil sem samo analogno, iluzije...
+
+124
+00:24:56,800 --> 00:25:11,819
+-Kliknite na analogne skupine. Če hočete kaj dobiti, morate klikniti nanje. To je zelo pomembno pravilo pri vseh računalniških programih.
+
+125
+00:25:12,331 --> 00:25:22,208
+Izberite besedo, kliknite nanjo. To je v procesorjih besed. Če želite dobiti v Radarju informacijo o čem, kliknete nanjo.
+
+126
+00:25:24,939 --> 00:25:35,733
+Kakorkoli, če hočete dobiti analogne skupine, kliknite nanje. Če hočete dobiti vse tiste, ki so v povezavi s samim sabo, kliknite nanje.
+
+127
+00:25:36,331 --> 00:25:46,144
+Potem je tu skupina, na primer samozavest, to je simptom, ki je povezan s samozavestjo
+
+128
+00:25:46,699 --> 00:25:55,253
+in spet vidite skupino pod-škatel, imamo nizko samopodobo, egotizem, lahko je hiper ali hipo,
+
+129
+00:25:55,723 --> 00:25:57,152
+cel um je torej razdeljen na koncepte in pod-koncepte.
+
+130
+00:25:59,051 --> 00:26:08,032
+Pomikate se lahko navzdol, korak navzdol v hierarhiji, greste na nizko samozavest
+
+131
+00:26:08,132 --> 00:26:17,013
+na primer, nezadovoljstvo s samim seboj, samo-razvrednotenje in nato ni več škatel.
+
+132
+00:26:18,827 --> 00:26:30,795
+In nato rečete OK, imate škatlo samo-razvrednotenja in znotraj nje seznam 16 repertorijskih simptomov, ki izražajo samo-razvrednotenje.
+
+133
+00:26:31,733 --> 00:26:39,548
+Vedeli ste za jezo zaradi napak in jezo na samega sebe, mogoče ste imeli v glavi nezadovoljstvo s samim sabo,
+
+134
+00:26:39,648 --> 00:26:56,352
+ker je to velika rubrika, ko pa se pomaknete navzdol, vidite prepirljivost s samim sabo in zanimiv simptom, ki ga še nisem videl, žalost z občutkom, da je vsem odveč.
+
+135
+00:26:58,677 --> 00:27:06,869
+To je zdaj del koncepta in način, kako najti simptom, ki ga doslej sploh nisem poznal, še besed zanj nisem poznal.
+
+136
+00:27:07,659 --> 00:27:13,745
+Imam idejo o povezavi in s koncepti dobim tole.
+
+137
+00:27:13,845 --> 00:27:27,584
+Pomaknimo se še naprej. Žalost z občutkom, da je vsem odveč je sicer zelo blizu, a zanima vas, če morda obstaja simptom, ki je še bližje.
+
+138
+00:27:28,843 --> 00:27:40,412
+Če potrebujete idejo, kliknete na to žarnico in dobite zanimivo idejo,
+
+139
+00:27:40,512 --> 00:27:48,113
+kajti tu ste prišli do rubrike žalost, občutek, da je vsem odveč in vidimo, da je ta v povezavi s številnimi koncepti,
+
+140
+00:27:49,472 --> 00:28:00,757
+tistimi, ki smo jih pravkar gledali, nizka samopodoba, ipd., pa tudi predanost odgovornosti.
+
+141
+00:28:01,675 --> 00:28:08,800
+In mogoče bi želeli pogledati še druge simptome o odgovornosti.
+
+142
+00:28:09,632 --> 00:28:28,683
+In nato najdete 23 simptomov, ki so zdaj na nek način povezani z občutkom, da je vsem odveč in odločite se, da je končno pravi simptom otopelost za skrbi glede njegove službe.
+
+143
+00:28:32,800 --> 00:28:39,520
+Torej ne gre za eno mrežo čez cel repertorij, pač pa za veliko pajkovih mrež, resnično strašljivo.
+
+144
+00:28:40,736 --> 00:28:48,693
+Skačete lahko z ene mreže na drugo. Zapomniti si morate samo klik na žarnico, ta vas pripelje v koncepte.
+
+145
+00:28:50,123 --> 00:28:55,712
+Če kliknete na ikono Synthesis, vas ta pripelje do repertorijskih simptomov konceptov.
+
+146
+00:28:56,565 --> 00:29:00,512
+In takole se lahko pomikate skozi repertorij.
+
+147
+00:29:01,493 --> 00:29:08,128
+Preden vam bom dal kratko vajo, imate kaj vprašanj glede tega?
+
+148
+00:29:11,093 --> 00:29:16,661
+Potem bomo takoj nadaljevali z vajo.
+
+149
+00:29:17,667 --> 00:29:24,832
+-(?) Radar 7.3 in torej ne morem narediti ničesar od tega.
+
+150
+00:29:25,515 --> 00:29:27,605
+-Potem je bolje, da greste domov.
+
+151
+00:29:28,437 --> 00:29:32,021
+-Ne, mislim, pravim, da je to primer drugih.
+-Kakorkoli.
+
+152
+00:29:32,960 --> 00:29:46,400
+Bistveno je, da je to na razpolago od verzije 7 naprej. Vendar vam jih bom dal za vajo, da lahko vse te uporabljate.
+
+153
+00:29:46,997 --> 00:29:52,352
+Tisti, ki imajo koncepte, se bodo z veseljem poigrali z njimi, če pa jih nimate, kaj naj rečem?
+
+154
+00:29:53,035 --> 00:30:01,995
+Lahko samo rečem, da smo razvili, mislim da okoli 3000 različnih konceptov, 3000 različnih pajkovih mrež čez repertorij
+
+155
+00:30:03,445 --> 00:30:08,672
+in ko enkrat spoznate, kako se jih uporablja, je to res fantastično.
+
+156
+00:30:19,275 --> 00:30:26,037
+Kako sem ga dobil? Od kje sem prišel? Kliknem na žarnico, v Radarju je to zelo enostavno. Kliknete na žarnico za idejo,
+
+157
+00:30:26,699 --> 00:30:30,780
+kliknete na ikono Synthesis za simptome repertorija. To so osnove.
+
+158
+00:30:30,880 --> 00:30:43,445
+-...kdor ima celoten program, ali obstaja možnost, da se ga dopolni z novimi stvarmi ali samo z eno (?) in se jo pripne k stari verziji?
+
+159
+00:30:44,192 --> 00:30:56,508
+-Nikoli ne mislite, da ste zaključili. V primeru tehnike in računalnikov imenujemo to nadgradnja.
+
+160
+00:30:56,608 --> 00:31:01,963
+Torej ga lahko nadgradite.
+
+161
+00:31:03,029 --> 00:31:12,309
+To je lepa lastnost. Zdaj vam bom dal vajo za iskanje simptomov v repertoriju, tudi če imate samo knjigo, lahko naredite to vajo.
+
+162
+00:31:13,397 --> 00:31:19,392
+Pravim vam samo, kaj je danes na voljo, mislim, da je to velik korak naprej v pomoči ljudem pri iskanju simptomov,
+
+163
+00:31:19,492 --> 00:31:25,387
+a karkoli že imate, zdaj bomo začeli z iskanjem simptoma.
+
+164
+00:31:32,149 --> 00:31:44,224
+Predstavljajte si nekoga, ki ga zelo dobro poznate, otroka, vašo taščo, soseda, šefa...
+
+165
+00:31:44,971 --> 00:31:53,824
+in kar morate vedeti o tej osebi je strah, strah, ki ga imajo.
+
+166
+00:31:54,891 --> 00:31:58,837
+Povejo vam torej zgodbo...bojim se....a ta mora biti oprijemljiva, poznati morate osebo, ne smete si tega samo predstavljati,
+
+167
+00:32:03,403 --> 00:32:13,408
+ker (?) vas bomo spraševali o strahu, ki ga ima, recimo, vaš otrok.
+
+168
+00:32:14,155 --> 00:32:27,232
+Od vas pričakujem, lahko si med seboj pomagate, da najdete eno ali mogoče dve ali tri rubrike, ki izražajo ta strah v jeziku repertorija.
+
+169
+00:32:28,683 --> 00:32:37,749
+In če pridete do strahu ali do enega vidika strahu, za katerega ne veste, kje bi ga našli v repertoriju,
+
+170
+00:32:37,849 --> 00:32:42,187
+si to zapišite in to bo vprašanje.
+
+171
+00:32:44,363 --> 00:32:56,224
+Zdaj pa si prosim predstavljajte osebo, ki jo dobro poznate, strah ga/jo je, mogoče se boji živali, zakaj pa ne.
+
+172
+00:32:57,035 --> 00:33:05,760
+Nato opišite ta strah in Betty mora najti natanko takšne simptome v repertoriju.
+
+173
+00:33:06,955 --> 00:33:13,760
+Anya pravi, da težko najde besedo, ki opiše ta strah, to ni samo strah pred temo.
+
+174
+00:33:18,069 --> 00:33:27,051
+Povedati morate zgodbo, zgodbo o strahu. Imam otroka, ki se boji teme in vi poiščete rubriko strah pred temo. Ne, ne govorim o tem.
+
+175
+00:33:30,763 --> 00:33:58,283
+Še eno stvar bi vam rad povedal, preden začnemo. Imejte v mislih, da strahovi v repertoriju niso prisotni samo v poglavju o strahovih, pač pa tudi pri iluzijah (delusion), tesnobah (anxiety) in skrbeh (care) ipd.
+
+176
+00:34:00,080 --> 00:34:04,981
+Torej, če je prelahko, je to odvisno od vas.
+
+177
+00:34:07,072 --> 00:34:18,129
+Rad bi šel hitro skozi celoto. Poveste zgodbo in dodate 1,2,ali 3 repertorijske simptome.
+
+178
+00:34:18,229 --> 00:34:36,305
+Najprej zgodba, nato 1,2 ali 3 repertorijski simptomi. Pacient torej pove zgodbo, listate po repertoriju in si mislite, mogoče pa je to rubrika strah pred vodo (?)
+
+179
+00:34:36,405 --> 00:34:48,800
+Predstavljati si morate strah pred vodo, greste nazaj v (?) in si mislite, je to res strah pred vodo? Je zgodba mojega pacienta skladna s simptomom v repertoriju?
+
+180
+00:34:49,909 --> 00:35:03,605
+Zdaj sem že pri naslednji temi, to je izbira pravih simptomov. Ena od točk pri izbiri pravega simptoma je torej skladnost simptoma.
+
+181
+00:35:04,672 --> 00:35:13,440
+Kar pomeni, da mora simptom iz repertorija izražati točno to, kar vam pacient pripoveduje in predvsem ne sme biti nič več, pa tudi ne manj.
+
+182
+00:35:14,357 --> 00:35:19,669
+Strah pred vodo torej ni točno to, kar pacient pripoveduje.
+
+183
+00:35:20,736 --> 00:35:26,197
+Zdaj lahko to poiščemo v repertoriju, vidite, tam so simptomi, ki so podobni stranu pred vodo. To so strah pred pitjem, strah pred tekočinami, hidrofobija.
+
+184
+00:35:27,392 --> 00:35:33,398
+Kolikor vem, do sedaj v repertoriju ni bilo rubrik, ki bi specificirale strah, ko je glava pod vodo,
+
+185
+00:35:33,498 --> 00:35:39,403
+lahko torej rečete, da je v tem trenutku strah pred vodo najboljši zadetek.
+
+186
+00:35:41,088 --> 00:35:53,056
+Vendar se zavedajte, da to ni najboljši zadetek. Je samo najbolj podoben in ne poudarjajte preveč te rubrike v vaši analizi, ker se ne sklada popolnoma.
+
+187
+00:35:54,272 --> 00:36:05,472
+Če razmišljamo, katere simptome vzeti v repertoriziranje, je prvi kriterij skladnost.
+
+188
+00:36:10,592 --> 00:36:16,949
+Torej je to že druga tema, o kateri sem imel lepo priložnost spregovoriti.
+
+189
+00:36:17,739 --> 00:36:22,844
+Naslednji repertorijski simptom...
+
+190
+00:36:22,944 --> 00:36:40,715
+-(?) v številčni družbi in včasih mora govoriti v javnosti in ga je tega zelo strah, a ko je v to prisiljen, to lahko naredi.
+
+191
+00:36:43,637 --> 00:36:47,719
+Torej je to strah pred govorjenjem v javnosti, a to zmore narediti.
+
+192
+00:36:47,819 --> 00:36:52,277
+-Kaj je v tem primeru simptom v repertoriju?
+
+193
+00:36:53,429 --> 00:37:05,717
+-Strah pred govorjenjem v javnosti, a to zmore. (Fear of speaking in public, but capable)
+
+194
+00:37:24,021 --> 00:37:37,440
+-Lahko prosim točno ponovite simptom, ker ni kot...
+
+195
+00:37:38,272 --> 00:37:45,852
+-Vidite, kaj sem naredil? Ste sledili, kaj sem naredil? Opravičujem se, če sem bil prehiter, a bom počasi ponovil.
+
+196
+00:37:46,016 --> 00:37:56,839
+Povedala nam je sintakso simptoma, vtipkal sem ga, a ga računalnik ni našel. Nekje je bilo torej nekaj narobe s strukturo repertorija. Težave.
+
+197
+00:37:56,939 --> 00:38:08,053
+Simptom iščem ne glede na strukturo repertorija, iskal sem ga na osnovi ključne besede ?javnosti (?public).
+
+198
+00:38:10,507 --> 00:38:17,980
+In povedalo mi je, da je tu tudi strah pred pojavljanjem v javnosti in strah pred nastopanjem ipd.
+
+199
+00:38:19,467 --> 00:38:26,535
+torej je strah pred pojavljanjem v javnosti najbližji in mislim, si, OK, zanimivo. Vidim tudi 
+
+200
+00:38:26,635 --> 00:38:31,755
+podoben simptom, ki me usmerja proti sramežljivosti v javnosti. Kliknem na navzkrižne reference
+
+201
+00:38:32,608 --> 00:38:40,693
+in vidim sramežljivost glede pojavljanja v javnosti, pogledam v pod-rubriko in najdem
+
+202
+00:38:41,248 --> 00:38:54,240
+pod-rubriko sramežljivost glede pojavljanja v javnosti, a to zmore.
+
+203
+00:38:55,072 --> 00:39:00,619
+Uporabim torej iskanje s ?, skočim s navzkrižnimi referencami in v nekaj sekundah najdem pravo rubriko.
+
+204
+00:39:03,840 --> 00:39:08,064
+To je simptom, ki je povezan z vašo zgodbo. Hvala.
+
+205
+00:39:09,792 --> 00:39:14,060
+Še kakšna zgodba?
+
+206
+00:39:17,557 --> 00:39:30,492
+-Ona mi je povedala o odrasli gospe, ki vedno želi ljudi (?)
+
+207
+00:39:30,592 --> 00:39:38,705
+Ona je neke vrste svetnica, saj je vse, kar naredi, v redu in to je opisala kot strah.
+
+208
+00:39:38,805 --> 00:39:48,625
+Torej sem najprej pogledal pod strah pred mnenjem drugih, kjer sem našel Nux vomica in Pulsatilla
+
+209
+00:39:48,725 --> 00:39:52,340
+in rad bi vam pokazal različne rubrike. Enostavno jih je bilo najti v repertoriju.
+
+210
+00:39:55,765 --> 00:40:03,943
+Nato sem našel puščico, ki kaže na iluzijo (delusion), da ni cenjena,
+
+211
+00:40:04,043 --> 00:40:13,201
+kjer je Palladium, Platina, Pulsatilla in (?). Potem je bila še ena puščica,
+
+212
+00:40:13,301 --> 00:40:24,593
+ki je kazala na rubriko pritoževanje, ker se ne počuti cenjena in tam sem našel puščico na rubriko hrepenenje po tem, da imajo drugi dobro mnenje o njej, kar je točno to,
+
+213
+00:40:24,693 --> 00:40:28,348
+kar je ona opisovala in tam je samo Palladium.
+
+214
+00:40:29,557 --> 00:40:32,081
+Bil je pa to lep način iskanja po repertoriju.
+
+215
+00:40:32,181 --> 00:40:38,119
+Uporabila je torej, skakala je skozi repertorij v glavnem z uporabo navzkrižnih referenc.
+
+216
+00:40:38,219 --> 00:40:42,599
+En miselni preskok v vašem razmišljanju, če smem, ali nekaj, kar lahko izboljša,
+
+217
+00:40:42,699 --> 00:40:47,740
+je zgodba, da ključna beseda ni strah, pač pa dobro mnenje.
+
+218
+00:40:49,504 --> 00:40:55,264
+In če bi iskali dobro mnenje, bi se vam ta simptom takoj pojavil.
+
+219
+00:40:56,267 --> 00:41:02,197
+Toda kakorkoli ste ga dobili, dobili ste ga na drug način in to je zelo lepo.
+
+220
+00:41:05,120 --> 00:41:09,664
+Še kakšna zgodba mogoče?
+
+221
+00:41:20,032 --> 00:41:21,333
+Povejte zgodbo.
+
+222
+00:41:22,592 --> 00:41:33,387
+-Poskušal sem, kot ste rekli, uporabiti ? in uporabiti dobro mnenje...
+
+223
+00:41:40,533 --> 00:41:44,907
+-Ima še kdo kakšno zgodbo?
+
+224
+00:42:04,085 --> 00:42:09,504
+-Rad bi vedel, kako najti simptom strah pred tem, da ga bodo živega pokopali?
+
+225
+00:42:10,400 --> 00:42:18,492
+-Kaj je ključna beseda v simptomu?
+Pokopali.
+
+226
+00:42:20,768 --> 00:42:30,432
+Vtipkate torej pokopali in v eni sekundi vidite, da ta simptom ni pod strahovi, pač pa po iluzijami.
+
+227
+00:42:41,867 --> 00:42:50,912
+V sanjah, sanja, da so ga živega pokopali.
+
+228
+00:42:52,917 --> 00:43:00,213
+Če hočete najti simptome, v bistvu če hočete razumeti pacientove besede, morate izluščiti, kaj je najpomembnejše.
+
+229
+00:43:04,437 --> 00:43:13,141
+To je bilo nekaj primerov in upam, da vam je bilo iskanje simptomov v repertoriju zanimivo.
+
+230
+00:43:15,104 --> 00:43:22,507
+Sedaj bom govoril o drugem delu predstavitve VES.
+
+231
+00:43:22,880 --> 00:43:29,504
+Danes zjutraj sem vam razložil različne repertorizacijske zadeve in naučil sem vas osnov, kako deluje VES.
+
+232
+00:43:30,400 --> 00:43:39,367
+Ta obravnava različne repertorizacijske zadeve in v bistvu obravnava različne repertorizacijske zadeve
+
+233
+00:43:39,467 --> 00:43:42,027
+za vsak korak, ki ga istočasno naredite, vse.
+
+234
+00:43:42,837 --> 00:43:51,435
+Gleda na 11 simptomov, na vse načine in nato poda uravnotežen predlog.
+
+235
+00:43:53,461 --> 00:44:02,549
+Preden gremo na dodatne obrazložitve glede VES, vam moram pokazati še en korak.
+
+236
+00:44:02,600 --> 00:44:14,439
+Razložiti vam moram malo več o izbiri pravilnih simptomov za repertoriziranje.
+
+237
+00:44:17,589 --> 00:44:27,211
+Potem ko ste jih dobili, lahko repertorizirate, a najprej morate ugotoviti, kateri simptomi so zanimivi, katere potrebujete.
+
+238
+00:44:30,304 --> 00:44:44,199
+Rad bi vas torej najprej spomnil, da ste bili zunaj, na plaži, v restavraciji
+
+239
+00:44:44,299 --> 00:44:49,760
+in je bilo lepo na svežem zraku.
+
+240
+00:44:50,507 --> 00:44:56,764
+Vsem je všeč (?) skupaj štiri ure. Torej ste vsi želeli biti zunaj na svežem zraku.
+
+241
+00:44:59,467 --> 00:45:05,717
+Mogoče so nekateri že prej šli ven, ker niso mogli počakati.
+
+242
+00:45:09,195 --> 00:45:13,824
+Ali prepoznate kakšen simptom v tej enostavni zgodbi?
+
+243
+00:45:18,389 --> 00:45:23,765
+-Želja po svežem zraku.
+
+244
+00:45:35,947 --> 00:45:45,525
+-Nepotrpežjivost in tudi pričakovanje, komaj čaka, da bo zunaj.
+
+245
+00:45:48,800 --> 00:45:52,288
+-Mislite željo, da bi pobegnil.
+
+246
+00:45:55,829 --> 00:46:06,112
+Kakorkoli. Prva stvar, ki bi jo rad poudaril je, da je simptom samo simptom, ko gre za simptom.
+
+247
+00:46:07,755 --> 00:46:11,320
+Razumete to?
+
+248
+00:46:15,285 --> 00:46:28,256
+Tu imate torej intenziteto in željo po svežem zraku. Vsi imamo do neke mere željo po svežem zraku,
+
+249
+00:46:28,356 --> 00:46:30,439
+ki se bo ponovila v nekaj minutah.
+
+250
+00:46:32,053 --> 00:46:41,547
+Da bi želja po odprtem zraku postala simptom, pa mora biti nad določenim nivojem.
+
+251
+00:46:42,677 --> 00:46:44,775
+V nasprotnem primeru to ni simptom.
+
+252
+00:46:44,875 --> 00:46:52,780
+Če torej poslušate zgodbo, je res, šli smo ven in bilo nam je lepo na svežem zraku gledati morje,
+
+253
+00:46:52,880 --> 00:47:01,195
+globoko sem vdihnil....ah, simptom, dihanje, globoko dihanje, želja po teh globokih vdihih,
+
+254
+00:47:03,904 --> 00:47:10,773
+a bodite previdni. Biti mora nad določenim nivojem, da lahko smatrate to kot simptom.
+
+255
+00:47:13,717 --> 00:47:22,880
+Določen nivo. In tega ne moremo definirati. Ne morem povedati, koliko želje po svežem zraku morate imeti, kajti to je relativno.
+
+256
+00:47:24,555 --> 00:47:36,480
+Relativno je tudi za temperaturo v sobi, za zunanje okoliščine in relativno je za vaš način pogovarjanja z mano.
+
+257
+00:47:38,656 --> 00:47:44,999
+Če nikoli nič ne rečete in ste ves čas tiho, nato pa rečete, zdaj grem ven na sveži zrak,
+
+258
+00:47:45,099 --> 00:47:52,096
+želim si svežega zraku, je to za vašo zgodbo, za način, na katerega se izražate,
+
+259
+00:47:53,120 --> 00:47:59,115
+bolj simptom kot za nekoga, ki ves čas govori, da dela to, da ne mara tega...
+
+260
+00:48:00,139 --> 00:48:02,300
+imate (?) simptomov, morate biti zelo previdni.
+
+261
+00:48:10,464 --> 00:48:14,268
+Torej na določenem nivoju postanejo pacientove besede homeopatski simptom.
+
+262
+00:48:14,368 --> 00:48:17,184
+Biti mora nad določenim nivojem.
+
+263
+00:48:17,696 --> 00:48:23,804
+Zato se torej med Georgevim spraševanjem ali spraševanjem vsakogar, ki se zaveda, kako je potrebno delati anamnezo,
+
+264
+00:48:27,339 --> 00:48:33,532
+ob simptomu (?) biti zanimiv, ustavi in reče, počakajte malo, kdaj ste to naredili? Kako pogosto ste to počeli?
+
+265
+00:48:36,149 --> 00:48:39,612
+Ali je to zelo pomembno za vas in kaj se zgodi, če ne geste na sveži zrak?
+
+266
+00:48:39,712 --> 00:48:44,028
+Vprašali boste, zakaj moram vse to vedeti? Tega ni v repertoriju.
+
+267
+00:48:44,128 --> 00:48:49,788
+Želja po svežem zraku enkrat dnevno, enkrat tedensko, enkrat na uro? Ne.
+
+268
+00:48:49,888 --> 00:48:54,396
+Vedeti moramo, ali je to simptom. To je prvi korak.
+
+269
+00:48:56,821 --> 00:49:04,401
+Prepričajte se torej, ali je bilo to samo danes, tukaj, da ste si želeli na sveži zrak,
+
+270
+00:49:04,501 --> 00:49:10,176
+ko pa pridete domov ste spet samo noter? Imate velik vrt, vendar sedite noter, kajti dejansko ste raje v hiši.
+
+271
+00:49:11,160 --> 00:49:19,889
+Previdni morate biti pri vrednotenju intenzitete simptoma.
+
+272
+00:49:19,989 --> 00:49:25,536
+To je druga pomembna stvar.
+
+273
+00:49:30,549 --> 00:49:34,560
+Je to simptom?
+
+274
+00:49:36,779 --> 00:49:43,697
+Zdaj imate simptom in pogledate v repertorij in tako kot smo se učili že zjutraj, 
+
+275
+00:49:45,141 --> 00:49:59,463
+tukaj bom napisal, imate lepo pod-rubriko, kot na primer, vzel bom zelo lahek primer, glavobol zjutraj.
+
+276
+00:49:59,563 --> 00:50:05,621
+Kajti to vam oseba pripoveduje, imam glavobol zjutraj.
+
+277
+00:50:06,000 --> 00:50:08,999
+Boste torej vzeli pod-rubriko ali boste vzeli glavobol?
+
+278
+00:50:09,099 --> 00:50:14,823
+Recimo, da imate v glavi bolečine zbadajoče zjutraj. Boste vzeli glava bolečine zbadajoče zjutraj ali glava bolečine zbadajoče?
+
+279
+00:50:15,477 --> 00:50:17,703
+Boste vzeli pod-rubriko ali super rubriko?
+
+280
+00:50:20,384 --> 00:50:30,972
+Ne da se reči, da je to ali ono treba narediti. Lahko pa vam povem, da je to v prvi vrsti odvisno od skladnosti.
+
+281
+00:50:31,072 --> 00:50:39,569
+Če vzamete rubriko glava bolečine zbadajoče zjutraj, to pomeni, da je zbadajoč glavobol zjutraj.
+
+282
+00:50:39,669 --> 00:50:43,601
+Zjutraj, skoraj vedno.
+
+283
+00:50:43,701 --> 00:50:49,717
+Če greste nazaj k vašemu pacientu in ga vprašate, ali ima glavobol vsakokrat zjutraj? In on pritrdi, ja, zjutraj,
+
+284
+00:50:50,272 --> 00:50:56,764
+pa tudi zvečer in ko se usedem v avto ipd.
+
+285
+00:50:56,864 --> 00:51:00,028
+To ni več primerno za pod-rubriko.
+
+286
+00:51:00,128 --> 00:51:05,739
+Pod-rubriko uporabljate torej glede na skladnost.
+
+287
+00:51:06,741 --> 00:51:14,257
+Drugi razlog je velikost. Ne vem na pamet, koliko zdravil je v rubriki glava bolečine zbadajoče zjutraj,
+
+288
+00:51:14,357 --> 00:51:21,632
+a mislim, da jih je samo 5.
+
+289
+00:51:22,229 --> 00:51:27,740
+Potem bodite previdni, ker bi lahko bilo bolj zanimivo uporabiti glava bolečine zbadajoče, če je to res pomembno,
+
+290
+00:51:27,840 --> 00:51:32,860
+če je glavobol vedno zbadajoč, potem uporabimo to pod-rubriko.
+
+291
+00:51:32,960 --> 00:51:39,829
+Ker imate več zdravil, ki pokrivajo ta del informacije.
+
+292
+00:51:40,725 --> 00:51:43,072
+Odločite se torej med pod in super rubriko.
+
+293
+00:51:43,627 --> 00:51:47,808
+Drugi razlog, ki pomaga pri odločitvi med pod in super rubriko je naslednji. Skušate rešiti primer 
+
+294
+00:51:48,597 --> 00:51:56,277
+in nikakor ne najdete ustreznega zdravila. Druge možnosti dobimo tako, da zamenjamo
+
+295
+00:51:57,429 --> 00:52:06,972
+bolj podrobne simptome z manj podrobnimi.
+
+296
+00:52:07,072 --> 00:52:11,025
+Glava bolečina zbadajoča zjutraj zamenjamo z glava bolečina zbadajoča.
+
+297
+00:52:12,427 --> 00:52:16,629
+Ljubosumje med menstruacijo z ljubosumjem.
+
+298
+00:52:49,184 --> 00:53:02,180
+To me je pripeljalo do naslednje točke, na katero morate biti pri repertorizaciji pozorni, to je
+
+299
+00:53:02,280 --> 00:53:08,192
+da nimate dveh podobnih rubrik.
+
+300
+00:53:09,664 --> 00:53:13,020
+Dal vam bom primer.
+
+301
+00:53:13,120 --> 00:53:19,761
+Če bi uporabili glava bolečina zbadajoča in glava bolečina zbadajoča zjutraj, potem je bolje
+
+302
+00:53:19,861 --> 00:53:25,351
+iz tega narediti eno kombinirano rubriko.
+
+303
+00:53:25,451 --> 00:53:28,587
+Ustvarite torej novo rubriko, ki vsebuje vsa zdravila.
+
+304
+00:53:29,120 --> 00:53:36,999
+Kajti sicer se lahko pri vseh analitičnih metodah vključno z VES na nek način zgodi ,
+
+305
+00:53:37,099 --> 00:53:43,399
+da se zdravila iz rubrik glava bolečina zbadajoča zjutraj ali ljubosumje med menstruacijo
+
+306
+00:53:44,971 --> 00:53:50,380
+verjetno, v veliki meri ponovijo v super rubriki.
+
+307
+00:53:50,480 --> 00:53:55,445
+In ta zdravila s tem preveč poudarite. To ni prav razširjeno.
+
+308
+00:53:56,789 --> 00:54:01,297
+Kajti (?) sta dva argumenta. En argument imate za Pulsatillo zaradi ljubosumja
+
+309
+00:54:01,397 --> 00:54:05,799
+in še argument za Pulsatillo zaradi ljubosumja med menstruacijo.
+
+310
+00:54:07,669 --> 00:54:15,463
+Naredite torej kombinirano rubriko, ki vsebuje vsa zdravila ali 1,2,3,4 pod-rubrike.
+
+311
+00:54:21,387 --> 00:54:28,860
+En razlog, najpomembnejši razlog, zakaj ljudje pogosto dobijo dva Carcinosinuma, veste kaj je?
+
+312
+00:54:28,960 --> 00:54:37,735
+Tole. Rubrike vzamejo prepogosto in večinoma so celo enake.
+
+313
+00:54:40,587 --> 00:54:51,623
+Obstajajo rubrike za hrano in Carcinosinum izstopa v nekaj zelo zanimivih rubrikah glede hrane.
+
+314
+00:54:51,765 --> 00:54:58,549
+Če torej uporabite rubrike s hrano, to pomeni, kaj radi jeste. To in to in maslo in jajca in meso in maščobo ipd.
+
+315
+00:54:59,381 --> 00:55:05,620
+Uporabite to in nato še nekaj odporov do hrane, saj pravijo, da moramo imeti uravnoteženo repertorizacijo.
+
+316
+00:55:05,720 --> 00:55:11,719
+Ne samo 5 želja, 2 odpora in 1 poslabšanje zaradi hrane, tu se preveč govori o hrani.
+
+317
+00:55:11,819 --> 00:55:17,713
+Morda radi govorite o hrani, a ne delajte tega pri repertorizaciji.
+
+318
+00:55:17,813 --> 00:55:29,397
+Če vam nekdo pove 10, 15 simptomov glede hrane, morate biti zelo previdni in izbrati mogoče 1, 2 ali 3, ne pa uporabiti vsega.
+
+319
+00:55:31,616 --> 00:55:38,257
+In ker ljudje prepogosto uporabljajo te rubrike s hrano, dobijo veliko Carcinosinumov.
+
+320
+00:55:38,357 --> 00:55:46,215
+Izločite torej ali vsaj skombinirajte želje po jajcih in mesu in siru in karkoli drugega
+
+321
+00:55:46,315 --> 00:55:51,036
+iz beljakovin, mogoče v eno rubriko in Carcinosinum bo šel dol.
+
+322
+00:55:54,827 --> 00:56:07,249
+-Če vzamem pod-rubriko in jih skombiniram skupaj v super rubriko, imam zdaj različne stopnje istega zdravila.
+
+323
+00:56:07,349 --> 00:56:13,607
+Mogoče Sulphur zjutraj, zbadajoče bolečine ena stopnja in v super rubriki tri stopnje.
+
+324
+00:56:13,707 --> 00:56:17,973
+S kombiniranjem se stopnja spremeni in čutim intenziteto.
+
+325
+00:56:18,827 --> 00:56:29,415
+-Kar se tiče stopnje, program vzame najvišjo stopnjo.
+
+326
+00:56:34,891 --> 00:56:44,796
+Bodite torej previdni s preveč podobnimi rubrikami. Bistveno je, da za pokrivanje primera nimate veliko rubrik, ampak da imate ustrezne rubrike.
+
+327
+00:56:56,267 --> 00:57:06,592
+-Lahko prosim ponovno razložite, kako narediti kombinacijo, bi bila z a, b ali iščete en simptom?
+
+328
+00:57:11,712 --> 00:57:16,540
+-Prav kmalu vam bom pokazal, kajti to je spet malce bolj tehnično.
+
+329
+00:57:16,640 --> 00:57:31,132
+Mislim, da je to različno v različnih programih. Izbral bom pač naključni primer.
+
+330
+00:57:33,621 --> 00:57:49,479
+Imam dva simptoma, torej ne prave kombinacije, a vseeno. Izberem dva simptoma in nato
+
+331
+00:57:49,579 --> 00:58:05,237
+dodam te dodane kvalifikacije in ustvarim skupino, ki je označena s črko, na primer A.
+
+332
+00:58:06,027 --> 00:58:11,440
+In v tem trenutku sta ta dva simptoma mišljena kot en simptom A.
+
+333
+00:58:12,171 --> 00:58:18,827
+Če vam to dela težave, bi vam raje razložil med odmorom.
+
+334
+00:58:22,816 --> 00:58:29,131
+Kako izbrati pravilen simptom za repertorizacijo?
+
+335
+00:58:33,824 --> 00:58:38,460
+Ja, to je še ena pomembna točka. Mogoče ste premišljevali, medtem ko sem zjutraj govoril,
+
+336
+00:58:38,560 --> 00:58:46,780
+ko sem vam povedal, kako je Kent repertoriziral in se mogoče mnogi med vami veste, kako repertorizirati z uporabo knjige.
+
+337
+00:58:46,880 --> 00:58:53,749
+In če še ne veste, vas bom danes prepričal, da boste vedeli.
+
+338
+00:58:54,624 --> 00:59:02,240
+Veste, kaj narediti? Poslušajte pacienta, ta vam bo povedal eno stvar za drugo
+
+339
+00:59:03,243 --> 00:59:22,343
+in nato vam pove, da je zapravljiv.
+
+340
+00:59:22,443 --> 00:59:31,851
+Zanimivo, pravim. Zakaj? Ker je to rubrika z 20 zdravili in mi je všeč.
+
+341
+00:59:32,789 --> 00:59:38,407
+Zakaj imam to rad? Ker potem nimam veliko dela s primerjanjem zdravil
+
+342
+00:59:38,507 --> 00:59:42,161
+s 50 zdravili iz druge rubrike.
+
+343
+00:59:42,261 --> 00:59:49,436
+To je to, kar je Kent delal z eliminacijo. In zgodba gre dalje in slišite vse, kar razlaga
+
+344
+00:59:49,536 --> 00:59:53,632
+in potem reče, strah pred duhovi. Še eden.
+
+345
+00:59:54,144 --> 01:00:06,759
+Samo 27 zdravil, to zmorem. In iz pacientove zgodbe potegnite ne primerne, pač pa naj bodo to točne informacije,
+
+346
+01:00:06,859 --> 01:00:10,507
+take, ki jih lahko uporabite za repertorizacijo.
+
+347
+01:00:11,061 --> 01:00:14,304
+In niste opazili, da je bil pacient nemiren. Mogoče ste opazili.
+
+348
+01:00:15,157 --> 01:00:19,253
+Ampak, seveda, kaj naj počnem z nemirom, 450 zdravil.
+
+349
+01:00:20,192 --> 01:00:31,377
+Vprašate ga torej, ali je samo zjutraj nemiren. In on pravi, ne, stalno sem nemiren. Zvečer, podnevi, znotraj, zunaj, nemiren.
+
+350
+01:00:31,477 --> 01:00:39,505
+Toda, ali ste nemirni tudi, ko sedite, kot recimo danes tukaj? Ne, ne, nemiren sem ko sedim, ko vstanem,
+
+351
+01:00:39,605 --> 01:00:45,329
+ko hodim okoli. Nič modalitet.
+
+352
+01:00:45,429 --> 01:00:52,263
+Kaj počnejo vsi delovni junaki? Pravite, da si zapomnimo nemir, ko gledamo sliko,
+
+353
+01:00:52,363 --> 01:00:56,181
+a ta ne gre v repertorizacijo.
+
+354
+01:00:56,501 --> 01:01:04,544
+Torej, tudi če je to glavna značilnost in je zelo močna značilnost, nemir, je ne uporabite pri reperotrizaciji s knjigo.
+
+355
+01:01:05,291 --> 01:01:09,713
+Zdaj, ko imamo računalnike, pa lahko razmišljamo bolj pravilno.
+
+356
+01:01:09,813 --> 01:01:31,047
+Če gre za nemir ali za katerokoli drugo pomembno, veliko rubriko, uporabite veliko ali majhno rubriko.
+
+357
+01:01:31,147 --> 01:01:37,340
+In si mislite, prav, ampak ta vsebuje vse te (?), zato je ne bom uporabil na tak način.
+
+358
+01:01:37,440 --> 01:01:43,477
+Napačno. Ne se izogibati trdemu delu.
+
+359
+01:01:46,912 --> 01:01:54,492
+Kajti, če pogledamo vseh teh 450 slavnih zdravil za nemir, kaj vidimo?
+
+360
+01:01:54,592 --> 01:02:00,956
+Vidimo Anacardium, Arsenicum, Belladonna, Camphora, Calcarea ipd.,
+
+361
+01:02:01,056 --> 01:02:09,873
+vidimo pa med temi 450 zdravili tudi Asarum, Asafoetida, Arum Triphyllum ipd.
+
+362
+01:02:10,123 --> 01:02:18,300
+Torej so tudi majhna zdravila zraven in če v vaši repertorizaciji upoštevate to rubriko,
+
+363
+01:02:18,400 --> 01:02:29,628
+in imate še en simptom Arum Triphylluma, vam bo nemir pomagal prepoznati, da je to primer za Arum Triphyllum.
+
+364
+01:02:34,336 --> 01:02:47,932
+V preteklosti sem ročno repertoriziral 20, 30, 40, 50 minut, ker sem se zavedal te igre, ki (?) se jo gremo
+
+365
+01:02:48,032 --> 01:02:55,356
+z uporabo zanimivih rubrik za repertorizacijo in s tem preskočimo realnost.
+
+366
+01:02:56,288 --> 01:03:02,481
+Repertoriziranje z uporabo računalnika ima prednosti, lahko se osredotočimo na to, kaj pacient resnično govori,
+
+367
+01:03:02,581 --> 01:03:05,461
+ni treba, da nam je velikost rubrike všeč na nek način.
+
+368
+01:03:06,357 --> 01:03:14,023
+Če je skladno, če ni preveč podobno, če smo se odločili, ali bomo upoštevali modalitete ali ne,
+
+369
+01:03:14,123 --> 01:03:19,783
+lahko uporabimo primerno rubriko, ne glede na njeno velikost.
+
+370
+01:03:19,883 --> 01:03:24,881
+In ta nam bo celo pomagala najti majhno zdravilo.
+
+371
+01:03:24,981 --> 01:03:29,873
+Kajti za veliko majhnih zdravil ob branju materije medike ne boste zasledili rubrik 
+
+372
+01:03:29,973 --> 01:03:35,847
+nemir, ki se izboljša ob gibanju, nemir, da mora vstati iz postelje, nimamo vseh teh modalitet.
+
+373
+01:03:36,075 --> 01:03:41,244
+Torej se ve, da so majhna zdravila zelo nemirna. 
+
+374
+01:03:41,344 --> 01:03:47,957
+Nemir je ena od močnih lastnosti zdravila. In druga takšna značilnost je šibkost.
+
+375
+01:03:48,683 --> 01:03:53,995
+Šibkost zjutraj, zvečer, med pitjem, med jedjo, med spanjem, med igranjem golfa ni šibkosti.
+
+376
+01:03:54,507 --> 01:03:59,569
+Gre za kombinacijo šibkosti, izčrpanosti in nemira.
+
+377
+01:03:59,669 --> 01:04:11,979
+Na katera zdravila ste pomislili? Arsenicum. Še ena možnost. Veliko drugih možnosti imamo, veliko (?) bo prišlo ven.
+
+378
+01:04:12,811 --> 01:04:23,697
+Ampak veste, ta kombinacija nemira, izčrpanosti in šibkosti, ta kombinacija je tipična tudi za (?),
+
+379
+01:04:23,797 --> 01:04:33,084
+(?) ne boste našli. Poiščite določene modalitete za nemir in šibkost in ugotovili boste, da sta ti dve veliki temi,
+
+380
+01:04:33,184 --> 01:04:40,849
+nemir in nervozna izčrpanost v kombinaciji, tipični za (?).
+
+381
+01:04:49,803 --> 01:04:55,115
+Vendar se vam bo pokazalo veliko zdravil in potreben bo še en simptom.
+
+382
+01:04:57,803 --> 01:05:05,568
+Želim samo to, da naredite primer brez poigravanja med repertorizacijo.

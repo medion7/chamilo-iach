@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL02a3ff47481c39eeb9f6f49f47b32e8d</ID>
+  <patient>
+    <case_date>2015-04-28 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α.Σ</patient_initials>
+    <age>44</age>
+    <circumstances>Εγγαμη,με 2 παιδιά.Ιδιωτική υπάλληλος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ελληψη διάθεσης(3),κλαίει με το παραμικρό(3),νιώθει θυμό(2) μεσα της τον οποίο δεν εξωτερικεύει,νιώθει οτι καταπιέζεται(2)</origin>
+        <causative_factors>Πριν ένα χρόνο έχασε τον πατέρα της και έκτοτε έχει χάσει την διάθεση της για όλα.</causative_factors>
+        <modalities>Αισθάνεται καλύτερα με το περπάτημα,της αρέσει ο ήλιος(3) (amel),της αρέσει η θάλασσα(3)(amel)</modalities>
+        <occurrence_time>&lt; το πρωι όταν ξυπνάει,δεν θέλει να σηκωθεί απο το κρεβάτι.</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>τριχόπτωση(2)  η οποία ξεκίνησε οταν ήταν 13 ετων</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>ο θάνατος του πατέρα της πριν ένα χρόνο</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ:αναιμία,χοληστερίνη ,ΠΑΤΕΡΑΣ:πέθανε απο νεφρική ανεπάρκεια.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει(3),την ενοχλούν τα ρευματα αέρα(3)</reactions>
+        <sleeping_habits>νιωθει μονιμα μια υπνηλία(2),κοιμαται ανάσκελα και στο πλαι</sleeping_habits>
+        <food_modalities>επιθυμία για junk food (3),απέχθεια στο λίπος(2),δεν τρωει φρουτα(3),δεν διψαει(πινει 1-2 ποτηρια νερο την ημέρα),τρώει γιαούρτι και την πειράζει στο στομάχι</food_modalities>
+        <menstruation>σταθερή περίοδος κάθε 28 ημέρες,διάρκεια 5-6 ημέρες ,ροή κανονική με πήγματα.Δεν πονάει στην περίοδο.</menstruation>
+      </physical>
+      <mental_emotional>Ελληψη διάθεσης(3),κλαίει με το παραμικρό(3),νιώθει θυμό(2) μεσα της τον οποίο δεν εξωτερικεύει,νιώθει οτι καταπιέζεται(2).Φοβάται την αρρώστια (3),το θανατο(3),το υψος(3),δεν θελαι τα φιδια.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>δεν κανει πυρετο</personal_medical_history>
+        <family_medical_history>ΜΗΤΕΡΑ:αναιμία,χοληστερίνη ,ΠΑΤΕΡΑΣ:πέθανε απο νεφρική ανεπάρκεια.</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>ΤΕΛΕΥΤΑΙΑ ΦΟΡΑ ΠΟΥ ΕΚΑΝΕ ΠΥΡΕΤΟ ΗΤΑΝ ΠΡΙΝ ΠΟΛΛΑ ΧΡΟΝΙΑ,ΔΕΝ ΘΥΜΑΤΑΙ,ΟΠΟΤΕ ΑΝΗΚΕΙ ΣΕ ΧΑΜΗΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Νιώθει ενα σφιξιμο στο λαιμό(3),αναστενάζει πολυ το τελευταιο 3μηνο(4),την ενοχλεί οταν καπνιζει ο άλλος(2)</peculiar>
+        <intense>Νιώθει ενα σφιξιμο στο λαιμό(3),αναστενάζει πολυ το τελευταιο 3μηνο(4)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>ignatia,baryta carbonica,argentum nitricum,calcarea carbonica,stramonium,stafisagria.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>δινω ignatia διοτι η συμπτωματολογια της ασθενους ξεκινησε μετα το θανατο του πατερα της,αναστεναζει,νιωθει το σφυξιμο στο λαιμο και δεν θέλει τα φρουτα.</remedies_differentiation>
+      <prescription>
+        <remedy>IGNATIA</remedy>
+        <potency>200CH</potency>
+        <regimen>1 X200CH KAI 30 X 6X</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-18 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΔΕΝ ΕΚΑΝΕ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ,ΕΦΥΓΕ ΤΟ ΣΦΥΞΙΜΟ ΣΤΟ ΛΑΙΜΟ,ΕΦΥΓΕ Η ΑΤΟΝΙΑ,ΑΡΧΙΣΕ ΝΑ ΒΛΕΠΕΙ ΤΑ ΠΡΑΓΜΑΤΑ ΠΙΟ ΑΙΣΙΟΔΟΞΑ,ΚΛΑΙΕΙ ΛΙΓΟΤΕΡΟ,ΣΤΑΜΑΤΗΣΕ ΝΑ ΑΝΑΣΤΕΝΑΖΕΙ,ΕΠΙΚΟΙΝΩΝΕΙ ΚΑΛΥΤΕΡΑ ΜΕ ΤΑ ΠΑΙΔΙΑ ΤΗΣ,ΕΠΙΘΥΜΕΙ ΠΙΟ ΥΓΕΙΙΝΑ ΓΕΥΜΑΤΑ,ΤΡΩΕΙ ΦΡΟΥΤΑ.ΑΙΣΘΑΝΕΤΑΙ ΚΑΛΑ,ΝΙΩΘΕΙ ΕΥΕΞΙΑ ΚΑΙ ΚΟΙΜΑΤΑΙ ΚΑΛΑ.</reaction>
+      <analysis>ΔΕΝ ΕΚΑΝΕ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ,ΤΟ ΦΑΡΜΑΚΟ ΕΔΡΑΣΕ ΣΤΟ ΨΥΧΟΔΙΑΝΟΗΤΙΚΟ ΕΠΙΠΕΔΟ ΘΕΡΑΠΕΥΤΙΚΑ.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-14 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

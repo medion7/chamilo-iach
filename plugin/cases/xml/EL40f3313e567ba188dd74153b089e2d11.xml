@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL40f3313e567ba188dd74153b089e2d11</ID>
+  <patient>
+    <case_date>2015-04-17 19:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Α Β</patient_initials>
+    <age>54</age>
+    <circumstances>Παντρεμένος με 4 παιδιά&#13;
+Φυσικοθεραπευτής,διορισμένος στο δημόσιο</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πάθαινε κρίσεις πανικού και ως έφηβος. Αργότερα και ως φοιτητής και φαντάρος δεν έμπαινε σε μέσα μεταφοράς εύκολα,ούτε στον υπόγειο,δεν μπορούσε καθόλου να οδηγεί σε κίνηση,πανικοβαλλόταν αν έπεφτε σε μποτιλιάρισμα και δεν είχε δρόμο να περάσει.Έχει αφήσει και το αυτοκίνητο μια φορά που έτυχε αυτό. Η πρώτη κρίση που θυμάται ήταν στο λύκειο,αλλά δεν μπορεί να τη συνδέσει με κάποιο συγκεκριμένο γεγονός.</origin>
+        <causative_factors>Δεν φαίνεται καθαρός αιτιολογικός παράγοντας.</causative_factors>
+        <modalities>Η κατάσταση έχει επιδεινωθεί τα τελευταία 4 χρόνια που περνάει κρίση ο γάμος του. Η γυναίκα του τον έχει αποκλείσει από κάθε είδους επαφή,η μόνη τους επικοινωνία είναι ως προς τα βασικά θέματα. Ο ίδιος θέλει πολύ να σώσει το γάμο του και γι΄αυτό έχει καταπιέσει τη σεξουαλική του ανάγκη (είναι και πολύ της εκκλησίας, με το παλιό ημερολόγιο) αλλά δεν παύει να περνάει μια πολύ δύσκολη φάση της ζωής του. Διαβάζει συνεχώς θεολογικά βιβλία και προσπαθεί να δώσει μια εξήγηση μέσα από αυτά για ό,τι του συμβαίνει.</modalities>
+        <occurrence_time>---</occurrence_time>
+        <body_side>γενικά όταν έχει σωματικούς πόνους αφορούν συνήθως την αριστερή πλευρά του σώματος</body_side>
+        <appearence_frequency>σχεδόν καθημερινές κρίσεις πανικού πια , και στη δουλειά και στο σπίτι,που ξεκινούν σαν σφίξιμο στο στομάχι και μετά θέλει να βγει έξω,να περπατήσει μόνος του και αφού ηρεμήσει,να επιστρέψει.</appearence_frequency>
+        <pain_desc>πόνος στο στομάχι όταν αγχώνεται , που τον ξυπνάει το βράδυ με αίσθημα πείνας και ανακουφίζεται με κρύο γάλα με φρυγανιά, κρύο νερό</pain_desc>
+        <complaint_ext>----</complaint_ext>
+        <other_complaints>ψωρίαση από 20 ετών μόνο σε αγκώνες και πήχεις .Παλιότερα έβαζε αλοιφές κορτιζόνης τα τελευταία 10 τουλάχιστο χρόνια -τίποτε.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Πρώτη επίσκεψη 17 Απριλίου 2015&#13;
+Κρίσεις πανικού - καταθλιπτικά στοιχεία .Φόβος ότι θα πεθάνει,δεν βρίσκει χαρά σε τίποτα.&#13;
+Πριν 2 εβδομάδες πήρε από άλλον ομοιοπαθητικό Ignatia 1M,Staphysagria 1M και Phosphorus 1M ,το ένα τη μία μέρα , το άλλο την άλλη και το τρίτο την τρίτη ημέρα. Δεν είχε αποτέλεσμα.</conv_med_presc>
+        <lab_tests>
+          <desc>----</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Έχει πάρει πάρα πολλά φάρμακα από προηγούμενο ομοιοπαθητικό τα τελευταία 6-7 χρόνια.Λέει ότι το Argentum nitricum τον έχει βοηθήσει στο παρελθόν,αλλά ο άλλος ομοιοπαθητικός του έχει πει πως το φάρμακό του είναι ο Φώσφορος.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>----</therapies_vaccination>
+          <traumas>Τροχαίο το 2000 που τον ακινητοποίησε για μεγάλο χρονικό διάστημα.Του πήρε περίπου δύο περίπου χρόνια για να αποκατασταθεί πλήρως.</traumas>
+          <infections>----</infections>
+          <other>----</other>
+        </personal>
+        <family>
+          <diseases>πατέρας ΑΥ&#13;
+μητέρα  κολπική μαρμαρυγή , ΑΥ,&#13;
+Παππούς γιαγιά (από τη μητέρα) καρκίνο και οι δύο (πνεύμονα ,ήπαρ)&#13;
+Ο πατέρας μεγάλωσε σε ορφανοτροφείο,δεν γνωρίζει το ιστορικό τον προγόνων του</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει 2&#13;
+κρύα χέρια,κρύα πόδια 2&#13;
+ιδρώτας κφ&#13;
+δεν αντέχει τα ρεύματα 3</reactions>
+        <sleeping_habits>κοιμάται στο πλάι ,όνειρα σπάνια,ξυπνάει γύρω στις 4 με την ενόχληση στο στομάχι ,γενικά ξυπνάει εύκολα.</sleeping_habits>
+        <food_modalities>επιθυμεί γλυκά 3,αλλά γενικά θέλει "νοσοκομειακό φαγητό" όπως λέει ο ίδιος,βραστά λαχανικά,φρούτα,ψάρια ψητά ή βραστά&#13;
+απεχθάνεται το αλάτι 3,το λίπος 3,τα μπαχαρικά ,τις σάλτσες ,τα πικάντικα,τα αλλαντικά ,το κρέας &#13;
+δίψα συχνά και λίγο, για κρύο νερό 2</food_modalities>
+        <menstruation>---</menstruation>
+      </physical>
+      <mental_emotional>Φοβάται ότι πεθαίνει 3,ειδικά όταν είναι μόνος του&#13;
+Φοβάται ότι θα σταματήσει η καρδιά του 3&#13;
+στο φόβο του θέλει να περπατάει μόνος του 2 , δεν το έχει μοιραστεί ούτε με τη γυναίκα του&#13;
+ενώ έχει πάει σε καρδιολόγο μου ζητάει να τον ξαναεξετάσω γιατί πιστεύει πως τώρα κάτι έχει&#13;
+θέλει να είναι πολύ συνεπής στη δουλειά του 2,στα ραντεβού του 2,αγχώνεται όταν πρόκειται να κάνει κάτι&#13;
+φοβάται να παρουσιάσει κάτι μπροστά σε άλλους&#13;
+έχει νεύρα και θυμό με τη γυναίκα του γιατί δεν τον καταλαβαίνει 2&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Διαταραχή κυρίως στο ψυχοδιανοητικό επίπεδο.Στο σωματικό κρατιέται ακόμη στο δέρμα.&#13;
+Τελευταίος πυρετός : δεν θυμάται.Μάλλον πάνω από 10 χρόνια.&#13;
+Μάλλον ανήκει στο γκρούπ  C .</personal_medical_history>
+        <family_medical_history>Προδιάθεση για καρδιακά προβλήματα και καρκίνο , από τη μητέρα. </family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Αν το φάρμακο είναι σωστό,άμεση βελτίωση,χωρίς επιδείνωση.&#13;
+Επανεμφάνιση οξέος θα είναι καλό προγνωστικό σημείο.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>φοβάται ότι θα πεθάνει όταν είναι μόνος του 3,και μάλιστα φοβάται ότι θα πεθάνει από την καρδιά του 3&#13;
+είναι πρησμένο τα κάτω βλέφαρα 3&#13;
+ξυπνάει γύρω στις 4 με ενόχληση στο στομάχι 2</peculiar>
+        <intense>κρίσεις πανικού 3&#13;
+άγχος υγείας 3&#13;
+κρυώνει 2,κρύα πόδια 2&#13;
+επιθυμεί γλυκά 3&#13;
+χειροτερεύει με το κρύο 2 και δεν αντέχει τα ρεύματα 2&#13;
+άγχος προσμονής 2 και διάρροια όταν πρόκειται να κάνει κάτι 2&#13;
+πόνος στο στομάχι που βελτιώνεται με το κρύο γάλα 2 και το κρύο νερό 2&#13;
+άνθρωπος του καθήκοντος και της συνέπειας 2&#13;
+είναι κλειστός χαρακτήρας&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Apr 17, 2015 ­ Analysis :&#13;
+Symptom Degree&#13;
+MIND ­ FEAR ­ heart ­ disease of 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+STOMACH ­ ACIDITY (Hyperchlorhydria) 3&#13;
+STOMACH ­ ANXIETY 3&#13;
+STOMACH ­ DISTENTION 2&#13;
+MIND ­ ANTICIPATION ­ ailments from 2&#13;
+RECTUM ­ DIARRHOEA ­ anticipation, after 2&#13;
+GENERALITIES ­ SIDE ­ left 2&#13;
+GENERALITIES ­ AIR ­ draft ­ agg. 3&#13;
+STOMACH ­ APPETITE ­ increased ­ night 3&#13;
+STOMACH ­ PAIN (Gastralgia) ­ cold drinks, after ­ amel. 2&#13;
+STOMACH ­ PAIN (Gastralgia) ­ milk ­ amel. 2&#13;
+STOMACH ­ EMPTINESS (weak feeling, faintness, goneness, hungry feeling) ­ night 3&#13;
+MIND ­ DUTY ­ too much sense of duty 2&#13;
+MIND ­ RESPONSIBILITY ­ taking responsibility too seriously 2&#13;
+EXTREMITIES ­ COLDNESS ­ Foot 2&#13;
+MIND ­ ANXIETY ­ health, about 3&#13;
+MIND ­ FEAR ­ death, of ­ alone, when 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cold ­ drinks, water ­ amel. 2&#13;
+MIND ­ FEAR ­ sudden (panic attacks) 3&#13;
+MIND ­ FEAR ­ death, of ­ heart symptoms ­ during 3&#13;
+GENERALITIES ­ COLD ­ becoming ­ agg. 2&#13;
+MIND ­ FEAR 2&#13;
+MIND ­ FEAR ­ late, of being 2&#13;
+MIND ­ HURRY ­ time, for the appointed, to arrive 2&#13;
+GENERALITIES ­ SIDE ­ symptoms on one side 2&#13;
+EYE ­ SWOLLEN ­ lids ­ lower lids 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>έχει στοιχεία από Kali arsenicosum,Kali carbonicum,Arsenicum,Argentum nitricum,Phosphorus&#13;
+Phosphorus όχι γιατί δεν είναι τόσο ανοιχτός , δεν συμπάσχει,είναι πολύ της ευθύνης και του καθήκοντος&#13;
+Κali carbonicum ταιριάζει πολύ αλλά δεν έχει τόσο μεγάλο φόβο για την καρδιά του&#13;
+Argentum nitricum επίσης πολλά συμπτώματα αλλά δεν ζεσταίνεται,αντίθετα κρυώνει,και δεν έχει παρορμητικότητα.Πιθανώς να ήταν όντως παλιότερα όπου αναφέρει ότι είχε βελτιωθεί όταν το πήρε&#13;
+Arsenicum έχει φοβίες,διψάει συχνά και για κρύο,κρυώνει είναι υποχόνδριος,δεν χειροτερεύει όμως τις ώρες του arsenicum,αλλά αργότερα και δεν μοιράζεται το φόβο του,προτιμάει να το περνάει μόνος του.</remedies_differentiation>
+      <prescription>
+        <remedy>Kali arsenicosum</remedy>
+        <potency>30 και 200ch</potency>
+        <regimen>μία caps 30ch απόγευμα και μία 200ch το επόμενο πρωί.</regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-05-29 18:00:00</followup_date>
+      <conv_med_presc>Έχει πάρει Kali arsenicosum 30/200ch</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Βελτιώθηκε το στομάχι,δεν ξυπνάει πια τη νύχτα,και γενικά ο ύπνος του είναι καλύτερος (δεν ξυπνάει εύκολα),οι κρίσεις πανικού έχουν περιοριστεί κατά μεγάλο ποσοστό-αυτό το μήνα μόνο μια δυο φορές,και τώρα όχι συγκεκριμένα για την καρδιά του. Τον έπιασαν μόνο στη δουλειά που τον ενοχλούσε το κλειστό περιβάλλον και ο κόσμος. Λέει : "είμαι καλύτερα αλλά όχι εντελώς καλά ".Ψωρίαση -ίδια.</reaction>
+      <analysis>Βελτίωση στο βασικό σύμπτωμα. Δεν είχε αρχική επιδείνωση.</analysis>
+      <conclusion>Σωστό φάρμακο.Περιμένω.</conclusion>
+      <repertorization>
+        <desc>---</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δίνω άλλο φάρμακο.</remedy>
+        <potency>---</potency>
+        <regimen>---</regimen>
+        <other_notes>Τώρα μου αναφέρει ότι τον ενοχλούν όλα στο σπίτι. Οι μυρωδιές της κουζίνας,ακόμη και η μυρωδιά του καφέ,οι θόρυβοι .&#13;
+Ζητάω να δω κάποιον δικό του και κανονίζω συνάντηση με την κόρη του.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-07-15 20:00:00</followup_date>
+      <conv_med_presc>έχει πάρει μόνο το αρχικό kali arsenicosum</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η αντίδραση στην πρώτη συνταγογράφηση ήταν καλή. Ο άρρωστος όμως λέει πως ακόμη δεν είναι εντελώς καλά.Δεν έχω δώσει άλλο φάρμακο για 2 μήνες.&#13;
+Συναντήθηκα  με την κόρη η οποία μου περιέγραψε τον μπαμπά της ως υποχόνδριο, σχολαστικό με την τάξη και την καθαριότητα,τσιγγούνη,και γενικά μίζερο με τα χρήματα,ειρωνικό και σαρκαστικό στη συμπεριφορά του. Στοιχεία που δεν είχα από τον ίδιο.&#13;
+Άρα τα συμπτώματα του Arsenicum είναι τελικά πολύ περισσότερα από όσα αρχικά είχα καταγράψει.Οπότε όταν ξαναβλέπω τον άρρωστο επιμένω περισσότερο για το Arsenicum . Τελικά επιβεβαιώνονται όλα τα προηγούμενα και επιπλέον μου αναφέρει πως τώρα έχει συχνά τη γεύση αίματος στο στόμα του χωρίς να αιμορραγεί και πως έχει έντονη φαγούρα στην ψωρίαση .Peculiar symptom : "mouth taste bloody " το arsenicum είναι όντως από τα φάρμακα της ρουμπρικας .</reaction>
+      <analysis>Καλή αντίδραση στο πρώτο φάρμακο.Δείχνει μάλλον καθαρά το επόμενο .</analysis>
+      <conclusion>Το πρώτο φάρμακο είχε καλή αντίδραση γιατί έδειξε καθαρά το επόμενο.</conclusion>
+      <repertorization>
+        <desc>MIND ­ FEAR ­ sudden (panic attacks) 3&#13;
+HEAD ­ PAIN (headache) ­ Occiput 3&#13;
+MIND ­ SENSITIVE, oversensitive ­ odors, to 4&#13;
+NOSE ­ SMELL ­ acute ­ sensitive to the odor of ­ coffee 4&#13;
+MIND ­ ANXIETY ­ health, about 2&#13;
+MIND ­ ANXIETY ­ hypochondriacal 3&#13;
+MIND ­ SENSES ­ acute 3&#13;
+NOSE ­ SMELL ­ acute ­ everything smells too strong 2&#13;
+NOSE ­ SMELL ­ acute 3&#13;
+MIND ­ STARTING, startled ­ noise, from 2&#13;
+MIND ­ FASTIDIOUS 3&#13;
+MIND ­ CENSORIOUS, critical 3&#13;
+MIND ­ SADNESS, mental depression ­ sexual desire ­ after suppressed 2&#13;
+MIND ­ AVARICE 3&#13;
+MIND ­ MOCKING 3&#13;
+MIND ­ MOCKING ­ sarcasm 3&#13;
+MIND ­ COMPLAINING 2&#13;
+MIND ­ DISCONTENTED, displeased, dissatisfied, etc. 3&#13;
+MIND ­ DISCONTENTED, displeased, dissatisfied, etc. ­ everything, with 2&#13;
+SKIN ­ ITCHING ­ scratching ­ agg. 2&#13;
+MIND ­ FEAR ­ death, of 3&#13;
+GENERALITIES ­ PAIN ­ burning 2&#13;
+MOUTH ­ TASTE ­ bloody 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Arsenicum</remedy>
+        <potency>30/200 ch</potency>
+        <regimen>Μία caps 30 και μία 200 ch</regimen>
+        <other_notes>Η καταπίεση  στο σεξ εξακολουθεί να υπάρχει,και γενικά το οικογενειακό του πρόβλημα είναι ένα εμπόδιο στη θεραπεία.&#13;
+Μου τηλεφωνεί ενδιάμεσα πως δεν είναι καλά, πως τον πιάνουν κρίσεις πανικού αλλά πολύ μικρές και σπάνια,πως έχει πονοκέφαλο και γυρίζει το κεφάλι του,και μπαίνω στον πειρασμό να σκεφτώ το Conium.Αλλά αποφασίζω να τον περιμένω τουλάχιστον ένα μήνα , ταυτόχρονα έχουν ξεκινήσει με τη γυναίκα του να βλέπουν μαζί ψυχολόγο.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-10-10 20:00:00</followup_date>
+      <conv_med_presc>Πήρε Arsenicum πριν περίπου τρεις μήνες.</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Έχει μεγάλη βελτίωση στο ψυχοδιανοητικό,δεν τον ενοχλεί πια τίποτα στο σπίτι,δεν νευριάζει εύκολα,δεν έχει τις εμμονές με τα χρήματα που είχε και η φοβία του μήπως πεθάνει τώρα είναι σχεδόν ανύπαρκτη. Θέλει ακόμα και να πάει μόνος του στο εξοχικό τους,που μέχρι τώρα το απέφευγε. Η σχέση με τη γυναίκα του παραμένει κακή παρά τις συνεδρίες στον ψυχολόγο,αλλά τώρα το αντιμετωπίζει πιο στωικά.Δεν την ειρωνεύεται πια και δεν της μιλάει άσχημα.</reaction>
+      <analysis>Καλή αντίδραση στο φάρμακο.Υπάρχουν εμπόδια στη θεραπεία.&#13;
+</analysis>
+      <conclusion>Σωστό και το δεύτερο φάρμακο,αλλά παραμένει το οικογενειακό πρόβλημα εμπόδιο στη θεραπεία. Αν αυτό δεν λυθεί,κάθε φορά θα είναι καλύτερα , αλλά ποτέ εντελώς καλά.Ίσως χρειαστεί και τρίτο φάρμακο. Το γεγονός ότι μέχρι τώρα (8 μήνες μετά) δεν έχει κάνει οξύ , σημαίνει ότι ακόμη δεν έχει μεταπηδήσει επίπεδο.&#13;
+Η βελτίωση ωστόσο είναι τέτοια που δεν μου επιτρέπει να συνταγογραφήσω άλλο φάρμακο.Περιμένω αν εμφανιστεί εικόνα νέου φαρμάκου (πχ το Conium) ή υποτροπή.</conclusion>
+      <repertorization>
+        <desc>---</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα φάρμακο.Περιμένω</remedy>
+        <potency>---</potency>
+        <regimen>----</regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

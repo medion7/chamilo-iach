@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELec8a4a0b216f0499e27d630ac34999b2</ID>
+  <patient>
+    <case_date>2015-02-05 09:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΑΑ</patient_initials>
+    <age>10</age>
+    <circumstances>Κοριτσι 10 χρονών. Λήψη ιστορικού 5/2/15</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αυπνία(3) εδώ και 6 μήνες.Παραμένει ξύπνια 2-3 ώρες αφότου πέσει στο κρεβάτι και στριφογυρίζει μη μπορώντας να βρει μια θέση για ύπνο.</origin>
+        <causative_factors>Δεν αναφέρουν κάτι ιδιαίτερο εκτός από το οτι η μικρή ήταν πάντα ανήσυχη,έκλαιγε πολύ σαν μωρό και ήθελε την προσοχή των άλλων όπως άλλωστε και τώρα.</causative_factors>
+        <modalities>Γενικά κουράζεται εύκολα(2).Είναι αδύνατη(2) και μικροκαμωμένη.'Εχει σκολίωση και πονάνε τα πόδια της ιδίως όταν περπατάει περισσότερο.Ο παιδίατρος το αποδίδει σε πόνους ανάπτυξης(2)</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>Κάθε νύχτα</appearence_frequency>
+        <pain_desc>Πόνοι στα πόδια όταν περπατάει αρκετά</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>-</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>φυσιολογικές</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει κάνει όλα τα εμβόλια.</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Η μητέρα της έχει κάνει σπονδυλοδεσία</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Δεν κρυώνει η ζεσταίνεται ιδιαίτερα</reactions>
+        <sleeping_habits>Κοιμάται πιο πολύ ανάσκελα,καμμιά φορά παραμιλάει από όνειρα</sleeping_habits>
+        <food_modalities>Επιθυμεί σαλάμι(3) ,κρέας με λίπος(2) ,ελιές(2)        Δεν θέλει τα λαχανικά(2)        Δίψα αρκετή(2)</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Είναι ντροπαλή. Βαριέται και εκνευρίζεται εύκολα (2) ειδικά αν δεν βρίσκει πράγματα να κάνει ή επικρατεί ηρεμία στο σπίτι. Θέλει να αποσχολείται συνέχεια με διαφορετικά πράγματα όπως να αλλάζει ρούχα, να την πηγαίνουν βόλτες με το αυτοκίνητο (2). Τελειώνει τα μαθήματά της μόνο και μόνο για να την πάνε βόλτα με το αυτοκίνητο ή να της υποσχεθούν μια εκδρομή την κυριακή. Είναι πεισματάρα (3) και φοβάται το σκοτάδι (2). Ήθελε πολύ να αρχίσει την ορθοδοντική θεραπεία αλλά σε ένα μήνα είχε βαρεθεί και ήθελε να βγάλει τα σιδεράκια.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η αυπνία, κατά πάσα πιθανότητα να οφείλεται στην αίσθηση ανικανοποίητου αν την συνδιάσουμε με την γενικότερη διαταραχή στο συναισθηματικό επίπεδο. Απο το οικογενειακό ιστορικό δεν προκύπτει παρόμοια προδιάθεση. Το παιδί αρρωσταίνει το χειμώνα με υψηλό πυρετό επομένως ανήκει στο επίπεδο 2-3</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Αφού το επίπεδο υγείας είναι καλό η πρόγνωση είναι καλή.Το πρόβλημα εντοπίζεται στο συναισθηματικό επίπεδο αλλά και στο σωματικό(πόνοι ανάπτυξης)</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-Λεπτή ,μικροκαμωμένη (2)     &#13;
+-Ευερέθιστη όταν βαριέται (3) &#13;
+-Πόνοι ανάπτυξης στα πόδια (2) &#13;
+-Τρώει πολύ το σαλάμι(3)</peculiar>
+        <intense>-Αυπνία (3)   &#13;
+-Πεισματάρα(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Βαθμός&#13;
+MIND CHANGE&#13;
+desire&#13;
+for 3&#13;
+MIND DISCONTENTED,&#13;
+displeased, dissatisfied, etc. 2&#13;
+MIND FEAR&#13;
+dark&#13;
+2&#13;
+MIND OBSTINATE&#13;
+3&#13;
+MIND TRAVEL&#13;
+desire&#13;
+to 2&#13;
+STOMACH THIRST&#13;
+2&#13;
+EXTREMITIES PAIN&#13;
+Leg&#13;
+growing&#13;
+pains 2&#13;
+SLEEP SLEEPLESSNESS&#13;
+evening&#13;
+3&#13;
+GENERALITIES DWARFISHNESS&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS fat&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS olives&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS salami&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS vegetables&#13;
+aversion&#13;
+2&#13;
+GENERALITIES LEAN&#13;
+people</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Μεταξύ calc.phosph. και tuber.: και τα δύο έχουν επιθυμία για καπνιστά, σαλάμι κλπ, επιθυμία για ταξίδια και αίσθημα ανικανοποίητου. Αλλα το tuber θα εκφραστεί έντονα, θα είναι αγενή και με καταστροφική τάση ενώ η calc. phosph. δεν ξέρει τι θέλει και γκρινιάζει.</remedies_differentiation>
+      <prescription>
+        <remedy>CALCAREA PHOSPHORICA</remedy>
+        <potency>2OOCH</potency>
+        <regimen>1 κάψουλα</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-05 08:00:00</followup_date>
+      <conv_med_presc>-Το 1ο FOLLOW UP έγινε στις 5-2-15</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Tις πρώτες 3 μέρες ένοιωθε πολύ κουρασμένη και δεν πήγε σχολείο.Μετά άρχισε να κοιμάται καλά .Επίσης άλλαξε η διάθεσή της,είναι λιγότερο ευερέθιστη και πεισματαρα.Οι πόνοι ανάπτυξης εξαφανίστηκαν.Η αντιμετώπηση της ορθοδοντικης θεραπείας άλλαξε και τώρα δείχνει ιδιαίτερο ενδιαφέρον.</reaction>
+      <analysis>Η αρχική επιδείνωση ήταν αναμενόμενη(άμεση έμφάνιση,μικρή διάρκεια,σωματικό επίπεδο)  και μαζί με την εξέλιξη επιβεβαίωσε την ορθότητα του φαρμάκου.</analysis>
+      <conclusion>Δεν υπάρχει λόγος να επαναληφθεί το φάρμακο ούτε υπάρχουν ενδείξεις για άλλο φαρμακο</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-06-05 08:00:00</followup_date>
+      <conv_med_presc>   2ο  FOLLOW UP  στις 5-6-15</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Το παιδί πήρε calc.phos. στις 5-2-15.Σήμερα 5-6-15 οι γονείς αναφέρουν υποτροπή με γκρίνια ,πείσμα.Δεν θέλει να πηγαίνει για ύπνο παρά μόνο αργά τη νύχτα.Το αποδίδουν σε πίεση από τα μαθήματα της κιθάρας του τέλους της χρονιάς.</reaction>
+      <analysis>Για 5 μήνες ήταν καλά.Φαίνεται ότι ι ο οργανισμός βρισκόταν ακόμα σε πορεία ομαλοποίησης όταν άρχισε και το στρες της κιθάρας οπότε υπήρξε αντιδότηση και μερική υποτροπή.Ισως και να χρειάζονταν μεγαλύτερη δυναμοποίηση. </analysis>
+      <conclusion>Ο οργανισμος χρειάζεται μια ώθηση οπότε επαναλαμβάνουμε το φάρμακο σε μεγαλύτερη δυναμοποίηση</conclusion>
+      <repertorization>
+        <desc>Η εικόνα του φαρμάκου δεν έχει αλλάξει καθότι πρόκειται για υψηλό επίπεδο υγείας.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>CALC.PHOSP.</remedy>
+        <potency> 1Μ X 1</potency>
+        <regimen>-</regimen>
+        <other_notes>Το παιδί επανήλθε στη συμπεριφορα και στον ύπνο.Οι πόνοι ανάπτυξης δεν έχουν εμφανιστεί από τον Φεβρουάριο.Μέχρι σήμερα 15/10/15 είναι καλά</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

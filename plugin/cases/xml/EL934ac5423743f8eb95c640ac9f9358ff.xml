@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL934ac5423743f8eb95c640ac9f9358ff</ID>
+  <patient>
+    <case_date>2016-02-15 09:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>απ</patient_initials>
+    <age>65</age>
+    <circumstances>παντρεμενη&#13;
+1 παιδι(αγορι)&#13;
+συνταξιουχος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>πονοκεφαλοι-&gt;απο μικρη&#13;
+στεναχωρια-&gt;απο θανατο αδελφου κ μητερασ&#13;
+αυπνια&#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>πονοκεφαλος:&lt;οταν αλλαζει οκαιρος&#13;
+                    &lt;στεναγχωρια/συγκινηση&#13;
+                    &gt;υπνο&#13;
+     </modalities>
+        <occurrence_time>μετα απο καποια συναισθηματικη ενταση/συγκινηση</occurrence_time>
+        <body_side>πονικεφαλοι-&gt;δεν μπορει να το περιγραψει</body_side>
+        <appearence_frequency>πολυ συχνα-&gt;δεν μπορει να το απαντησει συγκεκριμενα</appearence_frequency>
+        <pain_desc>αναφερει οτι ποναει ολο το κεφαλι κ εχεο ζαλαδα/θολουρα</pain_desc>
+        <complaint_ext>δεν υπαρχει</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>1.μικρη την ειχαν παει ολο το καλοκαιρι στο πικπα,επειδη ηταν πολυ αδυνατη σε προγραμμα να παχυνει.&#13;
+ενιωθα οτι λειπει η μαμα.&#13;
+2.θανατος της μητερς κ του αδελφου&#13;
+''μια πληγη που αιμορραγει'',''ειναι πολυ ζωντανα ,λες κ εγιναν χθες'',''</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>μητερα:ca στομαχι,παραμορφωτικη αρθριτιδα(πεθανε 57 ετων)&#13;
+πατερας:σακχαρωδη διαβητη(πεθανε 97ετων)&#13;
+αδελφος:οξυ εμφραγμα μυοκαρδιου(πεθανε 48 ετων)</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ειμαι πολυ συναισθηματικη.&#13;
+την στεναχωρια δεν ην λεω σε κανενα.&#13;
+τα κραταω μεσα μου.εχω μονο μια φιλη 50 χρονια που λεω τα παντα.κυριως μιλαμε απο το τηλεφωνο.&#13;
+δεν μπορω να κλαψω ποτε.τα κραταω μεσα μου.αν πιω λιγο τοτε κλαιω.τα θυμαμαι ολα,τημ μαμα ,τον αδελφο μου.&#13;
+&#13;
+μεγαλη ευαισθησια στον πονο του αλλου,το ζω κ γω&#13;
+&#13;
+ειμαι ερωτευμενη με ττον αντρα απο το δημοτικο μεχρι τωρα ακομα.&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>θυροειδη(κλιμακτηριο)&#13;
+πτωση μητρας&#13;
+χοληστερινη&#13;
+</personal_medical_history>
+        <family_medical_history>μητερα:ca στομαχι,παραμορφωτικη αρθριτιδα(πεθανε 57 ετων)&#13;
+πατερας:σακχαρωδη διαβητη(πεθανε 97ετων). -αδελφος του πατερα:γεροντικη σχιζοφρενεια&#13;
+αδελφος:οξυ εμφραγμα μυοκαρδιου(πεθανε 48 ετων)</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>καλη προγνωση.\&#13;
+το φαρμακο φαινεται καθαρο</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>nat-mur</remedies_differentiation>
+      <prescription>
+        <remedy>natr-mur</remedy>
+        <potency>200ch</potency>
+        <regimen>1caps</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2012-09-15 08:00:00</followup_date>
+      <conv_med_presc>δεν χορηγηθηκε 2η φαρμακευτικη αγωγη</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-'δεν ειμαι τοσο ευαισθητη,δεν στεναχωριεμαι τοσο οταν σκεφτομαι/θυμαμαι τον αδελφο μου'.&#13;
+αυτο συμβαινει πρωτη φορα μετα απο 26 χρονια.&#13;
+-οταν σκεφτομαι τα παλια τα διαχειριζομαι καλυτερα.&#13;
+-αποφευγω πραγματα που με στεναχωρουν.&#13;
+-αρχισα να βλεπω τα πραγματα με αισιοδοξια&#13;
+-&gt;πονοκεφαλοι(3)&#13;
+-&gt;σεξ.διαθεση&#13;
+-&gt;ο φοβοσ μην παθει κατι ο γιοσ μοθ</reaction>
+      <analysis>το φαρμακο ειναι σωστο.&#13;
+</analysis>
+      <conclusion>δεν χορηγω 2η συνταγογραφηση.&#13;
+περιμενω κ παρακολουθω.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

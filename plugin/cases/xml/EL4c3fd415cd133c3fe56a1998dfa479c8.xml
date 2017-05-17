@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4c3fd415cd133c3fe56a1998dfa479c8</ID>
+  <patient>
+    <case_date>2016-02-29 21:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α.Σ.</patient_initials>
+    <age>53</age>
+    <circumstances>παντρεμένη ,2 παιδιά , καπνίστρια , δημόσιος υπάλληλος </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin> Το τελευταίο έτος νιώθει δυστυχισμένη χωρίς διέξοδο  λόγω επίτασης των προβλημάτων που έχει με το σύζυγό της</origin>
+        <causative_factors>δεν αναφέρονται </causative_factors>
+        <modalities>οχι</modalities>
+        <occurrence_time>δεν υπάρχει συσχετισμός </occurrence_time>
+        <body_side>οχι</body_side>
+        <appearence_frequency>οχι</appearence_frequency>
+        <pain_desc>οχι</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>τίποτε</conv_med_presc>
+        <lab_tests>
+          <desc>οχι</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>natrium mureaticum</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εμβολιασμοί ναι &#13;
+</therapies_vaccination>
+          <traumas>δεν αναφέρει</traumas>
+          <infections>οχι</infections>
+          <other>οχι</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα  θανούσα με ιστορικό Ca αιδοίου και παγκρεατίτιδας&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται(3)</reactions>
+        <sleeping_habits>ξυπνά καλά το πρωί&#13;
+</sleeping_habits>
+        <food_modalities>  Επιθυμεί κρέας (2),τυρί(3),αλάτι(2),σοκολάτα(2).λίπος(2),φρούτα(1),ψάρι(1),δίψα (1),ζεστό φαγητό(2). απεχθάνεται το γάλα(3) &#13;
+</food_modalities>
+        <menstruation>κ.φ</menstruation>
+      </physical>
+      <mental_emotional>Στεναχώρια(3),καταπιεσμένος θυμός(3),δεν μπορεί να εκφράσει τα συναισθήματά της,ενοχική(2), ντροπαλή(3) , τρυφερή(3),,θέλει παρηγοριά(2),ενίοτε καυγάδες πετά αντικείμενα(2),προσβάλλεται εύκολα(2),μπορεί να τρέμει από θυμό(2),  την ταπεινώνει ο σύζυγος)(3)&#13;
+Φόβοι: φίδια(3)&#13;
+Ο ήλιος της αρέσει(2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>πυρετός 39,5 προ 10ετίας</personal_medical_history>
+        <family_medical_history>Επιβαρυντικό ιστορικό καρκίνου</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Έχει να κάνει πυρετό πολλά χρόνια κι αυτό την κατατάσσει σε χαμηλό επίπεδο υγείας.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>τρόμος όταν θυμώνει(2),σε καυγά πετάει πράγματα(2)</peculiar>
+        <intense>μη εκπεφρασμένος θυμός(3),στεναχώρια(3),δειλή(3),φόβος φιδιών(3),απέχθεια στο γάλα(3),επιδείνωση με τη ζέστη(3)επιθυμία για τυρί(3),αίσθάνεται ταπεινωμένη(3),ττρυφερός άνθρωπος(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>ailment from suppressed anger(3),sadness(3),timidity(3),affectionate(3),consolidation ameliorates(2);throwing things around  in anger(2),trembling from anger((2),offended easily(2),feeling humiliated(3).fear of snakes(3).desires:meat (2) salt(2),chocolate(2) fruit(1),fat(2),cheese(3),fish(1),warm food(2),aversion milk(3), warm aggravates(3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>οχι</remedies_differentiation>
+      <prescription>
+        <remedy>staphysagria</remedy>
+        <potency>1M</potency>
+        <regimen>1 CAP ΜΙΑ ΦΟΡΑ</regimen>
+        <other_notes>όχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-29 20:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν υπήρξε αρχική επιδείνωση </reaction>
+      <analysis>απουσία αρχικής επιδείνωσης ίσως λόγω του χαμηλού επιπέδου υγείας </analysis>
+      <conclusion>Η βελτίωση που αναφέρει στο επίπεδο ενέργειας και στο συναισθηματικό μας υποχρεώνει να περιμένουμε</conclusion>
+      <repertorization>
+        <desc>Στο τέλος του μήνα όμως εμφανίζει καλυτέρευση του επιπέδου ενέργειας κι αναφέρει χαρακτηριστικά οτι κατάφερε να διεκδικήσει και να υπερασπίσει τη θέση της σε δύσκολη επαγγελματική συνθήκη.Στο σπίτι λέει ότι αρχίζει να χειραφετείται κάπως.&#13;
+ailments from suppressed anger (2), sadness(2),trembling from anger(2),humiliated feeling(2),offended easily(1),tmidity(2),affectionate(3),throwing things around on anger(0) τα λοιπά ως είχαν.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>-οχι</potency>
+        <regimen>-οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-29 20:00:00</followup_date>
+      <conv_med_presc>όχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>3 μήνες μετά τη λήψη του φαρμάκου λέει πως βελτιώνεται αργά αλλά σταθερά</reaction>
+      <analysis>λόγω του χαμηλού επιπέδου υγείας οφείλουμε να περιμένουμε εφόσον η ασθενής βελτιώνεται νοητικά συναισθηματικά και στην ενέργειά της.Εμφανίζει εντάσεις αλλά λέει πως είναι στα πλαίσια σωστής πια διεκδίκησης.Παρακολούθηση για πιθανή ανάδυση επόμενου φαρμάκου.</analysis>
+      <conclusion>αναμονή</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>όχι</remedy>
+        <potency>όχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

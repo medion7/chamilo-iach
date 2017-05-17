@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL42fe991738254978637b49b69d0106ae</ID>
+  <patient>
+    <case_date>2016-04-14 17:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>OM</patient_initials>
+    <age>39</age>
+    <circumstances>ΕΓΓΑΜΗ&#13;
+2 ΠΑΙΔΙΑ&#13;
+ΜΕΤΑΦΡΑΣΤΡΙΑ-ΞΕΝΑΓΟΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>2009</origin>
+        <causative_factors>ΠΡΙΝ 5ΕΤΙΑ ΨΥΞΗ ΔΕΞΙΑ ΠΛΕΥΡΑ ΠΡΟΣΩΠΟΥ</causative_factors>
+        <modalities>ΧΕΙΡΟΤΕΡΑ :ΟΤΑΝ ΣΚΥΒΕΙ ΜΠΡΟΣΤΑ-1 , ΚΡΥΟ-3&#13;
+&#13;
+ΚΑΛΥΤΕΡΑ : ΟΤΑΝ ΤΟ ΑΓΓΙΖΕΙ-2 , ΟΤΑΝ ΞΑΠΛΩΝΕΙ ΣΤΗΝ ΠΑΣΧΟΥΣΑ ΠΛΕΥΡΑ-2,ΖΕΣΤΗ-3</modalities>
+        <occurrence_time>ΣΤΗΝ ΩΟΡΡΗΞΙΑ ΧΕΙΡΟΤΕΡΕΥΕΙ&#13;
+ΧΕΙΜΩΝΑΣ</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΔΕΞΙΑ</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ΤΟ ΧΕΙΜΩΝΑ 1 ΦΟΡΑ ΤΟΝ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΠΡΟΗΓΟΥΝΤΑΙ ΓΙΑ 1-2 ΩΡΕΣ ΕΝΤΟΝΑ ΦΤΕΡΝΙΣΜΑΤΑ ΚΑΙ&#13;
+ΑΡΧΙΖΕΙ ΩΣ ΜΟΥΔΙΑΣΜΑ ΔΕΞΙΑ ΜΕΤΑ ΑΠΟ ΕΚΘΕΣΗ ΣΤΟ ΚΡΥΟ ΚΑΙ ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΓΙΝΕΤΑΙ ΔΥΝΑΤΟΣ , ΑΦΟΡΗΤΟΣ ΚΑΙ ΠΟΝΑΕΙ ΚΑΙ ΤΟ ΔΕΞΙ ΜΑΤΙ, ΚΑΘΩΣ ΜΠΟΥΚΩΝΕΙ ΚΑΙ ΤΟ ΔΕΞΙ ΡΟΥΘΟΥΝΙ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ΜΑΤΙ ΔΕ&#13;
+ΜΥΤΗ ΔΕ</complaint_ext>
+        <other_complaints>ΕΝΤΟΝΟΙ ΚΟΙΛΙΑΛΟΙ ΠΟΝΟΙ , 2 ΦΟΡΕΣ ΤΗΝ ΕΒΔΟΜΑΔΑ , ΟΙ ΟΠΟΙΟΙ ΚΑΛΥΤΕΡΕΥΟΥΝ ΜΕΤΑ ΑΠΟ ΑΠΟΒΟΛΗ ΑΕΡΙΩΝ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΝΕΥΡΑΛΓΙΑ ΤΡΙΔΥΜΟΥ ΔΕΞΙΑ&#13;
+ΑΝΑΛΓΗΤΙΚΑ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΥΠΑΡΧΟΥΝ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΟΧΙ</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+ΟΧΙ</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΟΧΙ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΑ ΙΔΙΟΣΥΓΚΡΑΣΙΑ&#13;
+ΠΟΔΙΑ ΚΡΥΑ&#13;
+</reactions>
+        <sleeping_habits>ΚΑΛΟΣ ΥΠΝΟΣ&#13;
+ΔΕΞΙ ΠΛΑΙ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΙΕΣ :ΑΛΑΤΙ-3&#13;
+ΑΠΕΧΘΕΙΕΣ : ΠΙΚΡΑ-3 , ΧΟΙΡΙΝΟ-2 , ΨΑΡΙ-2 , ΞΙΝΑ-1&#13;
+&#13;
+ΕΠΙΔΕΙΝΩΣΗ: ΠΡΑΣΟ-3 , ΨΑΡΙ-3</food_modalities>
+        <menstruation>ΦΥΣΙΟΛΟΓΙΚΗ</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+ΥΠΟΧΩΡΗΤΙΚΗ&#13;
+ΑΝΕΚΤΙΚΗ&#13;
+ΗΡΕΜΗ&#13;
+ΕΣΩΣΤΡΕΦΗΣ&#13;
+ΤΑΚΤΙΚΗ ΜΕ ΤΗΝ ΚΑΘΑΡΙΟΤΗΤΑ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+1993 ΣΚΩΛΗΚΟΕΙΔΕΚΤΟΜΗ&#13;
+2005 ΕΞΩΜΗΤΡΙΟΣ ΚΥΗΣΗ&#13;
+2008 ΑΦΑΙΡΕΣΗ ΙΝΟΜΥΩΜΑΤΟΣ ΜΗΤΡΑΣ </personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΕΛΕΥΘΕΡΟ</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+ΕΧΟΥΜΕ ΜΙΑ ΑΣΘΕΝΗ ΠΟΥ ΛΟΓΩ ΥΠΟΧΩΡΗΤΙΚΟΤΗΤΑΣ ΔΕΝ ΕΚΦΡΑΖΕΙ ΤΑ ΣΥΝΑΙΣΘΗΜΑΤΑ ΤΗΣ ,ΜΕ ΑΠΟΤΕΛΕΣΜΑ Η ΑΣΘΕΝΕΙΑ ΕΚΔΗΛΩΝΕΤΑΙ ΣΤΟ ΣΥΝΑΙΣΘΗΜΑΤΙΚΟ ΕΠΙΠΕΔΟ ΜΕ ΤΗΝ ΝΕΥΡΑΛΓΙΑ ΚΑΙ ΤΟ ΚΟΙΛΙΑΚΟ ΑΛΓΟΣ.&#13;
+&#13;
+  &#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΠΟΝΟΣ ΠΡΟΣΩΠΟΥ ΔΕ ΣΤΗΝ ΩΟΡΡΗΞΙΑ -2&#13;
+ΚΟΙΛΙΑΚΟ ΑΛΓΟΣ -3 , ΜΕ ΑΠΟΒΟΛΗ ΑΕΡΙΩΝ ΚΑΛΥΤΕΡΑ-2&#13;
+ΣΤΑΣΗ ΥΠΝΟΥ :ΔΕΞΙ ΠΛΑΙ-3&#13;
+&#13;
+</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΠΟΝΟΣ ΠΡΟΣΩΠΟΥ ΔΕΞΙΑ-3&#13;
+ΚΡΥΟ ΧΕΙΡΟΤΕΡΑ-2&#13;
+ΣΚΥΨΙΜΟ ΧΕΙΡΟΤΕΡΑ-3&#13;
+ΖΕΣΤΑ ΕΠΙΘΕΜΑΤΑ ΚΑΛΥΤΕΡΑ-2&#13;
+ΠΙΕΣΗ ΚΑΛΥΤΕΡΑ-2&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>silicea 9/15&#13;
+magnesia phosphorica 6/15&#13;
+phosphorus 9/15&#13;
+pulsatilla 8/15&#13;
+calcarea phosphorica 8/15&#13;
+carcinosin 4/15&#13;
+sepia 10/15&#13;
+natrum muriaticum 6/15&#13;
+carbo vegetabilis 7/15&#13;
+veratrum 5/15&#13;
+argentum nitricum 6/15&#13;
+belladonna 7/15&#13;
+calcarea carbonica 7/15&#13;
+spigelia anthelmia 7/15&#13;
+arsenicum album 6/15&#13;
+magnesia carbonica 6/15&#13;
+iris versicolor 5/15&#13;
+lycopodium 7/15&#13;
+sulphur 9/15&#13;
+plumbum mettalicum 7/15</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+ΜΕ ΤΗΝ ΠΙΕΣΗ ΣΤΗΝ ΠΑΣΧΟΥΣΑ ΠΛΕΥΡΑ ΚΑΛΥΤΕΡΕΥΕΙ Η MAG-PH ΚΑΙ H BRY.&#13;
+ΜΕ ΤΑ ΘΕΡΜΑ Η MAG-PH&#13;
+ </remedies_differentiation>
+      <prescription>
+        <remedy>magnesia phosphorica</remedy>
+        <potency>1M</potency>
+        <regimen>1 καψουλα ,εφαπαξ</regimen>
+        <other_notes>Please enter other notes&#13;
+οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-04-14 15:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+δεν έλαβε</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+την τρίτη ημέρα είχε κεφαλαλγία για λίγες ώρες.&#13;
+η νευραλγία εξαφανίστηκε &#13;
+αισθάνεται πάρα πολύ καλά&#13;
+επίσης εξαφανίστηκαν και τα κοιλιακά άλγη</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+το φάρμακο ήταν το σωστό&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+αφού είχαμε θετική αντίδραση , περιμένουμε</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+αναμονή</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδέν</remedy>
+        <potency>0</potency>
+        <regimen>0</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-04-14 16:40:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELa000f57dcc5cf25a5919cc21c560afb9</ID>
+  <patient>
+    <case_date>2015-12-19 23:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΝΑ</patient_initials>
+    <age>10</age>
+    <circumstances>Pease enter the personal circumstances ΑΓΟΡΑΚΙ 10 ΕΤΩΝ ΜΟΝΑΧΟΠΑΙΔΙ.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>lease enter the Origin of the complaint (since when it appeared)ΑΠΟ 4ΜΗΝΟΥ ΕΡΥΓΕΣ ΔΥΣΠΕΨΙΑ ΔΙΑΡΡΟΙΚΕΣ ΚΕΝΩΣΕΙΣ ΠΕΡΙΠΟΥ 2 ΜΕ 3ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ</origin>
+        <causative_factors>Please enter any possible causative factorsΠΡΟΗΓΗΘΗΚΕ ΜΙΑ ΙΟΓΕΝΗΣ ΛΟΙΜΩΞΗ ΤΟΥ ΑΝΑΠΝΕΥΣΤΙΚΟΥ</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)ΕΠΙΔΕΙΝΩΣΗ ΜΕ ΤΟ STRESS TO ΠΡΩΙ  ΜΕΤΑ ΤΟ ΠΡΩΙΝΟ ΞΥΠΝΗΜΑ ΚΑΙ ΤΟ ΑΠΟΓΕΥΜΑ ΕΠΙΣΗΣ ΜΕΤΑ ΑΠΟ ΚΑΤΑΝΑΛΩΣΗ ΦΡΟΥΤΩΝ ΚΑΙ ΚΡΥΩΝ ΡΟΦΗΜΑΤΩΝ.</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or ameliorationΕΠΙΔΕΙΝΩΣΗ ΜΕΤΑ ΤΟ ΠΡΩΙΝΟ ΞΥΠΝΗΜΑ ΚΑΙ ΤΙΣ ΑΠΟΓΕΥΜΑΤΙΝΕΣ ΩΡΕΣ ΒΕΛΤΙΩΣΗ ΤΟ ΒΡΑΔΥ</occurrence_time>
+        <body_side>Please enter side of the body ΚΟΙΛΙΑΚΑ ΑΛΓΗ ΦΟΥΣΚΩΜΑ ΚΥΡΙΩΣ ΔΕΞΙΑ</body_side>
+        <appearence_frequency>Please enter frequency of appearanceΕΡΥΓΕΣ ΚΟΙΛΙΑΚΑ ΑΛΓΗ ΣΧΕΔΟΝ ΚΑΘΗΜΕΡΙΝΑ ΔΙΑΡΡΟΙΕΣ 2/ΗΜΕΡΑ</appearence_frequency>
+        <pain_desc>Please enter a description of the painΚΟΙΛΙΑΚΟ ΑΛΓΟΣ ΚΩΛΙΚΟΕΙΔΕΣ ΚΥΡΙΩΣ ΣΤΗΝ ΔΕΞΙΑ ΠΛΕΥΡΑ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical PrescriptionsΓΑΣΤΡΙΤΙΣ ΕΛΑΒΕ ΣΙΡΟΠΙ EPADOREN(ΡΑΝΙΤΙΔΙΝΗ) ΓΙΑ 1 ΜΗΝΑ ΠΡΟ 2ΜΗΝΟΥ</conv_med_presc>
+        <lab_tests>
+          <desc>ΥΠΕΡΗΧΟΓΡΑΦΗΜΑ ΑΝΩ ΚΑΤΩ ΚΟΙΛΙΑΣ ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ ΓΕΝΙΚΗ ΑΙΜΑΤΟΣ ΒΙΟΧΗΜΙΚΟΣ ΕΛΕΓΧΟΣ ΦΥΣΙΟΛΟΓΙΚΟΣ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>PODOPHYLLIUM 200CH ΠΡΟ 1ΜΗΝΟΣ ΛΟΓΩ ΔΙΑΡΡΟΙΚΩΝ ΚΕΝΩΣΕΩΝ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations ΠΡΟΒΛΕΠΟΜΕΝΟΙ ΕΜΒΟΛΙΑΣΜΟΙ ΕΩΣ 5 ΕΤΩΝ .ΕΛΑΒΕ ΡΑΝΙΤΙΔΙΝΗ ΓΙΑ 1ΜΗΝΑ ΔΙΑΙΤΑ ΜΕ ΑΠΟΚΛΕΙΣΜΟ ΓΑΛΑΚΤΟΚΟΜΙΚΩΝ ΓΙΑ 3 ΜΗΝΕΣ ΜΕ ΜΙΚΡΗ ΟΜΩΣ ΒΕΛΤΙΩΣΗ</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the familyΜΑΜΑ ΑΛΛΕΡΓΙΑ ΣΤΟ ΓΑΛΑ ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΜΠΑΜΠΑΣ ΜΕ ΕΛΕΥΘΕΡΟ ΙΣΤΟΡΙΚΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ</reactions>
+        <sleeping_habits>ΚΑΚΟΣ ΥΠΝΟΣ ΦΟΒΑΤΑΙ ΤΟ ΣΚΟΤΑΔΙ ΕΠΙΣΚΕΠΤΕΤΑΙ ΣΥΧΝΑ ΤΟ ΚΡΕΒΒΑΤΙ ΤΩΝ ΓΟΝΙΩΝ ΤΟΥ.ΠΡΟΤΙΜΑΕΙ ΑΝΑΣΚΕΛΑ ΚΑΙ ΣΤΟ ΔΕΞΙ ΠΛΕΥΡΟ.</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΓΛΥΚΑ ΣΟΥΠΕΣ ΚΟΤΟΠΟΥΛΟ ΖΕΣΤΟ ΓΑΛΑ ΖΕΣΤΗ ΣΟΚΟΛΑΤΑ .ΑΠΕΧΘΕΙΑ ΛΑΧΑΝΙΚΑ ΨΑΡΙ.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptomsΕΙΝΑΙ ΜΑΖΕΜΕΝΟΣ ΔΕΙΛΟΣ ΣΤΟ ΣΧΟΛΕΙΟ ΣΤΙΣ ΣΥΝΑΝΑΣΤΡΟΦΕΣ  ΑΠΟΦΕΥΓΕΙ ΗΓΕΤΙΚΟΥΣ ΡΟΛΟΥΣ .ΑΝΤΙΘΕΤΑ ΣΤΟ ΣΠΙΤΙ ΜΕ ΤΟΥΣ ΓΟΝΕΙΣ ΑΠΑΙΤΗΤΙΚΟΣ ΓΚΡΙΝΙΑΡΗΣ ΟΞΥΘΥΜΟΣ.ΦΟΒΑΤΑΙ  ΤΟ ΣΚΟΤΑΔΙ ΔΕΝ ΘΕΛΕΙ ΝΑ ΜΕΝΕΙ ΜΟΝΟΣ ΣΤΟ ΣΠΙΤΙ ΟΥΤΕ ΓΙΑ ΛΙΓΟ.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical historyΙΩΣΕΙΣ ΤΟΥΣ ΧΕΙΜΕΡΙΝΟΥΣ ΜΗΝΕΣ</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predispositionΜΑΜΑ ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΑΛΛΕΡΓΙΑ ΣΤΟ ΓΑΛΑ ΣΕ ΠΙΔΙΚΗ ΗΛΙΚΙΑ ΤΗΝ ΕΧΕΙ ΞΕΠΕΡΑΣΕΙ ΠΙΑ.</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter ConclusionΠΟΛΥ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ  ΚΑΘΑΡΗ ΕΙΚΟΝΑ ΦΑΡΜΑΚΟΥ ΣΥΜΠΤΩΜΑΤΑ ΚΥΡΙΩΣ ΣΤΟ ΣΩΜΑΤΙΚΟ ΕΠΙΠΕΔΟ ΑΡΑ Η ΠΡΟΓΝΩΣΗ ΕΙΝΑΙ ΚΑΛΗ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar> ΦΟΒΟΣ ΣΚΟΤΑΔΙΟΥ ΚΑΙ ΝΑ ΜΕΙΝΕΙ ΜΟΝΟΣ3 ΔΕΙΛΟΣ ΣΤΟ ΣΧΟΛΕΙΟ ΑΠΑΙΤΗΤΙΚΟΣ ΣΤΟ ΣΠΙΤΙ3</peculiar>
+        <intense>ΕΡΥΓΕΣ3 ΚΟΙΛΙΑΚΑ ΑΛΓΗ ΔΕΞΙΑ3 ΦΟΥΣΚΩΜΑΤΑ 2 ΔΙΑΡΡΟΙΕΣ3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>LYCOPODIUM NATRIUM MURIATICUM</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>LYCOPODIUM</remedy>
+        <potency>200CH KAI 1M</potency>
+        <regimen>1CAPS 200CHΤΗΝ 1 ΗΜΕΡΑ ΚΑΙ 1CAPS 1M THN EΠOMENH .</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-01 22:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΤΙΣ ΠΡΩΤΕΣ 2ΗΜΕΡΕΣ ΠΑΡΟΥΣΙΑΣΕ ΕΠΙΔΕΙΝΩΣΗ ΤΗΣ ΔΥΣΠΕΨΙΑΣ ΚΑΙ ΤΩΝ ΔΙΑΡΡΟΙΚΩΝ ΚΕΝΩΣΕΩΝ  ΑΛΛΑ ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΣΧΕΔΟΝ ΠΛΗΡΗ ΥΦΕΣΗ ΤΩΝ ΣΥΜΤΩΜΑΤΩΝ ΚΑΘΩΣ ΚΑΙ ΒΕΛΤΙΩΣΗ ΤΟΥ ΥΠΝΟΥ.</reaction>
+      <analysis>ΛΟΓΩ ΚΑΛΟΥ ΕΠΙΠΕΔΟΥ ΥΓΕΙΑΣ  ΚΑΙ ΣΩΣΤΗΣ ΕΠΙΛΟΓΗΣ ΦΑΡΜΑΚΟΥ ΕΙΧΑΜΕ ΑΡΧΙΚΗ ΘΕΡΑΠΕΥΤΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΚΑΙ ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΠΟΛΥ ΜΕΓΑΛΗ ΒΕΛΤΙΩΣΗ ΤΩΝ ΣΥΜΠΤΩΜΑΤΩΝ ΠΟΥ ΑΝΑΜΕΝΕΤΑΙ ΝΑ ΚΡΑΤΗΣΕΙ ΓΙΑ ΜΕΓΑΛΟ ΧΡΟΝΙΚΟ ΔΙΑΣΤΗΜΑ.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

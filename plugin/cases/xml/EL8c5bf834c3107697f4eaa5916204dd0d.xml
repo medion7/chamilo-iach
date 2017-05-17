@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL8c5bf834c3107697f4eaa5916204dd0d</ID>
+  <patient>
+    <case_date>2016-05-27 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>χβ</patient_initials>
+    <age>40</age>
+    <circumstances>ανυπαντροσ,εχει εναν αδελφο,οι γονεισ ειναι χωρισμενοι απο το 2000.&#13;
+ιδιωτικοσ υπαλληλοσ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αλλεργια στην σκονη,γυρη κ στην μελισσα.απο μικροσ ειχε βρογχικο ασθμα,που οταν πηγε στρατο σταματησε. ψυχικα περιγραφει πωσ νιψθει κλειστοσ κ ντροπαλοσ κ δειλοσ.αυτο τον εμποδιζει να κανει σχεση με καποια γυναικα.</origin>
+        <causative_factors>δεν μπορει να το προσδιορισει ουτε στα σωματικα,ουτε στα ψυχικα.</causative_factors>
+        <modalities>η αλλεργια επιδεινωνεται πολυ στην σκονη.ψυχικα νιωθει μεγαλη πιεση οταν γνωριζει καποια γυναικα που τον ενδιαφερει ερωτικα κ τοτε νιωθει ντροπαλοσ κ δειλοσ.</modalities>
+        <occurrence_time>η αλλεργι στην γυρη εντοπιζεται χρονικα την ανοιξη.για τα υπολοιπα δεν υπαρχει χρονικοσ προσδιορισμοσ.</occurrence_time>
+        <body_side>δεν υπαρχει τετοιο θεμα</body_side>
+        <appearence_frequency>η αλλεργια καθε ανοιξη</appearence_frequency>
+        <pain_desc>δεν υπαρχει πονοσ πουθενα στον ασθενη</pain_desc>
+        <complaint_ext>δεν υπαρχει επεκταση πουθενα στον ασθενη</complaint_ext>
+        <other_complaints>δεν υπαρχουν αλλα προβληματα</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>αντιισταμινικο κ κορτιζονη οταν χρειαζεται στην αλλεργια.</conv_med_presc>
+        <lab_tests>
+          <desc>δεν υπαρχουν</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>δεν υπαρχει</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παιδικοι εμβολιασμοι.κορτιζονη οταν χρειαζεται στην αλλεργια.</therapies_vaccination>
+          <traumas>δεν αναφερει </traumas>
+          <infections>δεν μπορει να θυμηθει.</infections>
+          <other>ρινορραγιεσ οταν ηταν παιδι.</other>
+        </personal>
+        <family>
+          <diseases>πατερας-&gt;ουρικο οξυ,ο πατερας του ca πνευμονα,</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταινεται</reactions>
+        <sleeping_habits>στο δεξι πλαι.6 ωρεσ,ξεκουραζει,ησυχοσ υπνοσ.</sleeping_habits>
+        <food_modalities>θαλασισινα (θα ηθελε να τρωει κ καθε μερα).ψαρι.γλυκα.αλατι δεν το θελει πολυ.πολυ νερο μεχρι κ 2lt την ημερα παγωμενο κ τον χειμωνα.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>καλοσ&#13;
+φιλοτιμοσ &#13;
+εργασιομαμησ&#13;
+θελω να βοηθαω&#13;
+ειμαι νοικοκυρησ,οταν βλεπω κατι το βαζω στην θεση του&#13;
+δεν νευριαζω/θυμωνω ευκολα&#13;
+στεναχωριεμαι αλλα δεν θα κλαψω ,θα παω καπου ησυχα με το αυτοκινητο να χαλαρωσω.αν εχω καποιο προβλμα θα το πω στουσ γονεισ μου οχι σε καποιον φιλο.&#13;
+δεν ζηλευω&#13;
+ντροπαλοσ.κυριωσ με τισ γυναικεσ.δεμ ξεκιναω συζητηση ,αν ξεκινησει ο αλλοσ μετα μπορω να μιλησω.&#13;
+γνωριζω ευκολα κοσμο κ ειναι αγσπητοσ&#13;
+δειλος&#13;
+πολυ υπομονη&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>αλλεργια στην σκονη-&gt;δυσπνοια,στην μελισσα(?),στην γυρη-&gt;επιπεφ/δα.&#13;
+βρογχικο ασθμα-&gt;μεχρι τον σρτατο μετα σταματησε.μικροσ ειχε νοσηλευτει 2 φορεσ.&#13;
+ρινορραγιεσ μικροσ.</personal_medical_history>
+        <family_medical_history>πατερας-&gt;ουρικο οξυ,ο πατερας του ca πνευμονα,</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>το ιστορικο του ασθενουσ δινει κατα την κριση μου καθαρη εικονα φαρμακου,αυτο μασ οδηγει στο συμπερασμα οτι ανηκει σε υψηλο επιπεδο υγειασ .η προγνωσξ τησ θεραπειασ υπολογιζεται καλη.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>πινει πολυ νεραο(4),νερο παγωμενο(4) κ τον χειμωνα,επιθυμια για θαλασσινα(4),ρινορραγιεσ(3),φοβο μηπωσ αρρωστησω(3),πολυ αγαπητοσ(3),</peculiar>
+        <intense>πινει πολυ νεραο(4),νερο παγωμενο(4) κ τον χειμωνα,επιθυμια για θαλασσινα(4),ρινορραγιεσ(3),φοβο μηπωσ αρρωστησω(3),πολυ αγαπητοσ(3),</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>phos&#13;
+nat-mur</remedies_differentiation>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>30ch-200ch</potency>
+        <regimen>1caps 30 ch το πρωι 1caps 200ch το βραδυ.</regimen>
+        <other_notes>ληψη φαρμακου 6-12-11&#13;
+επανεξεταση σε ενα μηνα.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2012-01-16 06:00:00</followup_date>
+      <conv_med_presc>δεν πηρε καποια νεα αγωγη</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ο ασθενης αναφερει οτι μετα την λξψη της αγωγης νιωθει απελευθερωμενος 'σαν να με αγγιξες με μαγικο ραβδι'&#13;
+νιωθω πιο ελευθερος.παρα πολυ καλα.&#13;
+ειναι κατι που δεν μπορουσα μονος να πετυχω .εδω κ πολλα χρονια&#13;
+</reaction>
+      <analysis>το φαρμακο εχει ξεκινησει να δρα κ ειναι σωστο.</analysis>
+      <conclusion>αφηνουμε τον ασθενη χωρισ συνταγογραφηση νεα.το φαρμακο συνεχιζει να δρα.περιμενουμε κιαλλο.οριζουμε νεα επανεξεταση.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>phos </remedy>
+        <potency>placebo</potency>
+        <regimen>1 caps την ημερα για 1 μηνα</regimen>
+        <other_notes>επανεξεταση σε τρεισ μηνεσ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2012-05-20 07:00:00</followup_date>
+      <conv_med_presc>δεν υπαρχει</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ο ασθενησ αναφερει οτι ειναι ενασ νεοσ ανθρωποσ.προσπαθει κ κατυαφερνει πραγματα που δεν μπορουσε παλια λογω ντροπαλοτητσ.δεν θεωρουσε οτι επρεπε να ξαναρθει στο ιατρειο γιατι δεν νιωθει οτι χρειαζεται πια βοηθεια.</reaction>
+      <analysis>το φαρμακο ειναι το σωστο .το αφησα να δρασει σολη του την εκταση.πιθανον να συνεχισει να δρα για καποιο χρονικο διαστημα ακομα.</analysis>
+      <conclusion>το φαρμακο ειναι το σωστο .</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>δεν δινω νεα συνταγογραφηση</remedy>
+        <potency>δεν δινω νεα συνταγογραφηση</potency>
+        <regimen>δεν δινω νεα συνταγογραφηση</regimen>
+        <other_notes>δεν δινω νεα συνταγογραφηση</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

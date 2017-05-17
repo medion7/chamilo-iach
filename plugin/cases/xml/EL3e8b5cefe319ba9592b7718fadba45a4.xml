@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3e8b5cefe319ba9592b7718fadba45a4</ID>
+  <patient>
+    <case_date>2015-06-03 11:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΑΑ</patient_initials>
+    <age>11</age>
+    <circumstances>ΑΓΟΡΙ 10 ΕΤΩΝ ΔΕΥΤΕΡΟ ΠΑΙΔΙ ΤΗΣ ΟΙΚΟΓΕΝΕΙΑΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ 1 ΕΤΟΥΣ ΒΡΟΓΧΙΤΙΔΕΣ </origin>
+        <causative_factors>ΙΩΣΕΙΣ ΠΑΙΔΙΚΟΣ ΣΤΑΘΜΟΣ</causative_factors>
+        <modalities>Ο ΒΗΧΑΣ ΧΕΙΡΟΤΕΡΕΥΕΙ ΣΤΗΝ ΥΓΡΑΣΙΑ ΜΕ ΤΗΝ ΑΣΚΗΣΗ ΚΑΙ ΤΟ ΒΡΑΔΥ4ΠΜ ΤΟΝ ΞΥΠΝΑΕΙ ΑΠΟ ΤΟΝ ΥΠΝΟ</modalities>
+        <occurrence_time>ΕΠΙΔΕΙΝΩΣΗ ΤΗΝ ΝΥΧΤΑ 3-4</occurrence_time>
+        <body_side>ΟΤΑΝ ΒΗΧΕΙ ΠΟΝΑΕΙ ΣΤΗΝ ΤΡΑΧΕΙΑ</body_side>
+        <appearence_frequency>ΚΡΙΣΕΙΣ ΒΗΧΑ ΓΙΑ ΠΕΡΙΠΟΥ 1 ΕΒΔΟΜΑΔΑ 2 ΦΟΡΕΣ ΤΟΝ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>ΒΗΧΑΣ ΞΗΡΟΣ ΕΝΙΟΤΕ ΠΑΡΑΓΩΓΙΚΟΣ ΚΥΡΙΩΣ ΤΗΝ ΝΥΧΤΑ</pain_desc>
+        <complaint_ext>ΔΕΝ ΥΠΑΡΧΟΥΝ</complaint_ext>
+        <other_complaints> ΑΝΟΡΕΞΙΑ ΜΥΡΜΗΓΚΙΕΣ ΠΡΟ ΕΤΟΥΣ ΔΥΣΚΟΙΛΙΟΤΗΤΑ ΚΟΥΡΑΖΕΤΑΙ ΕΥΚΟΛΑ ΔΕΡΜΑΤΙΤΙΔΕΣ  ΜΕΧΡΙ 5 ΕΤΩΝ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>AEROLIN FLIXOTIDE </conv_med_presc>
+        <lab_tests>
+          <desc>ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΕΛΕΓΧΟΣ ΚΑΙ ΑΚΤΙΝΟΓΡΑΦΙΑ ΘΩΡΑΚΟΣ ΚΦ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΑΝΤΙΒΙΟΤΙΚΑ  ΣΥΝΗΘΕΙΣ ΕΜΒΟΛΙΑΣΜΟΙ</therapies_vaccination>
+          <traumas>ΑΛΛΑΓΗ ΠΟΛΗΣ ΚΑΙ ΣΧΟΛΕΙΟΥ ΠΡΟ 3ΕΤΙΑΣ ΟΙΚΟΓΕΝΕΙΑΚΟΙ ΚΑΥΓΑΔΕΣ</traumas>
+          <infections>ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΑΣΘΜΑ Ο ΠΑΤΕΡΑΣ ΔΕΡΜΑΤΙΤΙΔΕΣ ΠΟΝΟΚΕΦΑΛΟΥΣ Η ΜΗΤΕΡΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΧΕΙΡΟΤΕΡΑ ΜΕ ΤΗΝ ΑΛΛΑΓΗ ΤΟΥ ΚΑΙΡΟΥ ΚΑΙ ΤΗΝ ΥΓΡΑΣΙΑ</reactions>
+        <sleeping_habits>ΜΠΡΟΥΜΥΤΑ  ΞΥΠΝΑΕΙ ΣΥΧΝΑ ΣΤΙΣ 4ΠΜ ΛΟΓΩ ΒΗΧΑ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΓΛΥΚΑ ΑΛΜΥΡΑ ΚΡΕΑΣ ΠΑΤΑΤΕΣ ΤΗΓΑΝΗΤΕΣ  ΑΥΓΑ ΜΕΛΑΤΑ ΑΠΕΧΘΕΙΑ ΘΑΛΑΣΣΙΝΑ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional> ΚΟΙΝΩΝΙΚΟΣ ΑΝΟΙΚΤΟΣ ΠΕΙΣΜΑΤΑΡΗΣ ΦΟΒΑΤΑΙ ΛΙΓΟ ΤΟ ΣΚΟΤΑΔΙ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΛΟΓΩ ΤΩΝ ΚΑΤΑΣΤΑΛΤΙΚΩΝ ΘΕΡΑΠΕΙΩΝ ΑΝΤΙΒΙΟΤΙΚΑ  AEROLIN FLIXOTIDE  ΕΧΕΙ ΚΑΤΕΒΕΙ ΤΟ ΕΠΙΠΕΔΟ ΥΓΕΑΣ 3-4</personal_medical_history>
+        <family_medical_history>ΣΤΟ ΟΙΚΟΓΕΝΕΙΑΚΟ ΙΣΤΟΡΙΚΟ ΥΠΑΡΧΕΙ ΑΛΛΕΡΓΙΚΗ ΠΡΟΔΙΑΘΕΣΗ</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>ΣΧΕΤΙΚΑ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΚΑΘΑΡΟ ΦΑΡΜΑΚΟ ΑΡΑ ΚΑΛΗ ΠΡΟΓΝΩΣΗ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΒΗΧΑΣ ΜΕ ΕΠΙΔΕΙΝΩΣΗ 3-4ΤΟ ΠΡΩΙ ΚΑΙ ΣΤΗΝ ΥΓΡΑΣΙΑ3</peculiar>
+        <intense>ΒΗΧΑΣ4 ΔΕΡΜΑΤΙΤΙΣ2ΜΥΡΜΗΓΚΙΕΣ 2ΔΥΣΚΟΙΛΙΟΤΗΤΑ2ΚΟΠΩΣΗ2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>NATRIUM SULPHURICUM CALCAREA CARBONICA COCCUS CACTI</remedies_differentiation>
+      <prescription>
+        <remedy>NATRIUM SULPHURICUM</remedy>
+        <potency>200CH KAI 1M</potency>
+        <regimen>1CAPS 200CH KAI THN EΠOMENH 1M</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-12 10:00:00</followup_date>
+      <conv_med_presc>AEROLIN ΠΕΡΙΣΤΑΣΙΑΚΑ2 ΦΟΡΕΣ ΓΙΑ 5 ΗΜΕΡΕΣ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΕΤΑ ΑΠΟ 2ΜΕΡΕΣ ΠΑΡΟΥΣΙΑΣΕ ΒΕΛΤΙΩΣΗ ΤΟΥ ΒΗΧΑ ΚΑΙ ΤΗΣ ΚΑΤΑΒΟΛΗΣ ΕΞΑΡΣΗ ΤΗΣ ΔΕΡΜΑΤΙΤΙΔΑΣ Η   Ο ΠΟΙΑ ΑΡΧΙΣΕ ΝΑ ΒΕΛΤΙΩΝΕΤΑΙ  ΜΕΤΑ ΠΟ 1ΜΗΝΑ.</reaction>
+      <analysis>ΚΑΘΑΡΟ ΦΑΡΜΑΚΟ ΣΕ ΣΧΕΤΙΚΑ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΑΝΑΜΕΝΟΜΕΝΗ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ</analysis>
+      <conclusion>ΚΑΛΗ ΑΝΤΑΠΟΚΡΙΣΗ ΠΟΥ ΕΑΝ ΔΕΝ ΑΝΤΙΔΟΤΗΘΕΙ Η ΔΕΝ ΕΠΗΣΕΛΘΕΙ ΚΑΠΟIO ΣΟΒΑΡΟ STRESS ΘΑ ΔΙΑΡΚΕΣΕΙ ΑΡΚΕΤΟ ΧΡΟΝΟ..</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΚΑΝΕΝΑ ΦΑΡΜΑΚΟ</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

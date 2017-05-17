@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELeeff284ce46b53cb12ce21d134e6aa03</ID>
+  <patient>
+    <case_date>2015-06-08 15:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Μ.</patient_initials>
+    <age>22</age>
+    <circumstances>Πρώτη επίσκεψη 8 Ιουνίου 2015&#13;
+Ελεύθερη, τελειόφοιτος νοσηλευτικής.&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πονούσε πάντα στην περίοδο.Δεν θυμάται ποτέ να μην πονάει.Απλά με τα χρόνια δεν την ανακουφίζουν τα κοινά παυσίπονα και χρειάζεται όλο και πιο ισχυρά.</origin>
+        <causative_factors>Δεν υπάρχει σαφής αιτία </causative_factors>
+        <modalities>Βελτιώνεται ξαπλωμένη,με ζεστές κομπρέσες, με παρέα.</modalities>
+        <occurrence_time>---</occurrence_time>
+        <body_side>---</body_side>
+        <appearence_frequency>Σε κάθε έμμηνα</appearence_frequency>
+        <pain_desc>χαμηλά στην κοιλιά , σαν κράμπα</pain_desc>
+        <complaint_ext>---</complaint_ext>
+        <other_complaints>Aκμή για την οποία βάζει μόνο μια λοσιόν με οξέα φρούτων.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Προεμμηνορυσιακό σύνδρομο&#13;
+Πέρνει στην περίοδο πολύ ισχυρά παυσίπονα (neurofen,buscopan plus) τα κοινά παυσίπονα δεν την ανακουφίζουν</conv_med_presc>
+        <lab_tests>
+          <desc>---</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>----</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα υποχρεωτικά εμβόλια  + Gardasil</therapies_vaccination>
+          <traumas>Δεν αναφέρει</traumas>
+          <infections>----</infections>
+          <other>----</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας καρδιολογικό ιστορικό&#13;
+Μητέρα ελεύθερο ιστορικό</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει 2&#13;
+χέρια και πόδια πάντα ζεστά-δεν τα ξεσκεπάζει&#13;
+δεν την πειράζουν οι αλλαγές στη θερμοκρασία&#13;
+σπάνια ιδρώνει ,ούτε στο γυμναστήριο</reactions>
+        <sleeping_habits>στο πλάι,κυρίως αριστερά&#13;
+σπάνια όνειρα&#13;
+δεν μπορεί όμως να κοιμηθεί ποτέ μεσημέρι γιατί αν κοιμηθεί έστω και λίγο ξυπνάει με τρομερό πονοκέφαλο</sleeping_habits>
+        <food_modalities>Απεχθάνεται το γάλα 3, τα όσπρια 2, το τυρί 2,τα γλυκά 1&#13;
+Επιθυμεί τα φρούτα 3, το αλάτι 2&#13;
+Δίψα κφ</food_modalities>
+        <menstruation>κύκλος σταθερός κάθε 30 μέρες,πολύ αίμα τις πρώτες 3, διαρκεί 6-7 μέρες, πονάει πολύ στην κοιλιά χαμηλά ,σαν κράμπα τις πρώτες μέρες</menstruation>
+      </physical>
+      <mental_emotional>εύθικτη 3&#13;
+δεν αντέχει τις προσβολές 3&#13;
+δεν εκφράζει αυτά που την πειράζουν,τα κρατάει μέσα της 3&#13;
+φοβάται τα ύψη 2&#13;
+θυμώνει και αγανακτεί αλλά δεν ξεσπάει </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ακμή χωρίς καταπιεστικές θεραπείες,χρησιμοποιεί μόνο μια λοσιόν με οξέα φρούτων.&#13;
+Δεν έχει άλλη παθολογία.&#13;
+Πυρετούς κάνει τουλάχιστο μία φορά το χρόνο,κυρίως αμυγδαλίτιδες ή κοινά κρυολογήματα και δεν παίρνει πάντα αντιβίωση.Γενικά, παρότι νοσηλεύτρια αποφεύγει τα φάρμακα,μόνο στην περίοδο που πονάει πολύ δεν μπορεί να τα αποφύγει.</personal_medical_history>
+        <family_medical_history>βεβαρυμένο κληρονομικό ιστορικό από την πλευρά του πατέρα.&#13;
+Αν η ίδια έχει ισχυρό αμυντικό μηχανισμό και αποφύγει και στο μέλλον τις καταπιεστικές θεραπείες,θα καταφέρει να ισορροπήσει σε ένα καλό επίπεδο υγείας</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Καλό επίπεδο υγείας,όχι σοβαρή παθολογία. Καλή πρόγνωση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>πονοκεφάλους έχει μόνο όταν στενοχωριέται 3&#13;
+σιχαίνεται το γάλα 3&#13;
+</peculiar>
+        <intense>χειροτερεύει με τον απογευματινό ύπνο 2&#13;
+έχει χαμηλή αυτοπεποίθηση 2&#13;
+φοβάται τα ύψη 2&#13;
+επιθυμεί το λίπος 2&#13;
+καταπιέζεται 2&#13;
+προσβάλλεται εύκολα 2&#13;
+αισθάνεται άσχημα μετά από θυμό ή αγανάκτηση 2&#13;
+είναι πολύ ήπιος χαρακτήρας 2&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENERALITIES ­ COLD ­ agg. 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ aversion 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ aversion 2&#13;
+PERSPIRATION ­ SCANTY 3&#13;
+HEAD ­ PAIN (headache) ­ grief, from 3&#13;
+GENERALITIES ­ SLEEP ­ afternoon ­ agg. 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ desire 2&#13;
+MIND ­ CONFIDENCE ­ want of self­confidence (low) 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ painful (Dysmenorrhoea) 3&#13;
+MIND ­ FEAR ­ high places, of 2&#13;
+ABDOMEN ­ PAIN ­ warmth amel. 3&#13;
+ABDOMEN ­ PAIN ­ bending double ­ amel. 2&#13;
+MIND ­ EMOTIONS ­ suppressed 2&#13;
+MIND ­ ANGER, irascibility ­ ailments after anger, vexation, etc. ­ indignation, with 2&#13;
+MIND ­ MORTIFICATION, ailments after 2&#13;
+MIND ­ OFFENDED, easily 2&#13;
+MIND ­ INDIGNATION ­ bad effects following 2&#13;
+MIND ­ MILDNESS 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>staphysagria - pulsatila-ignatia&#13;
+Η pulsatila έχει απέχθεια στο λίπος ενώ στην ασθενή αρέσει,και επίσης η pulsatila βρίσκει διέξοδο στο κλάμα πράγμα που δεν συμβαίνει εδώ,αντιθέτως δεν εκφράζεται καθόλου.Επίσης,δεν ζεσταίνεται,δεν ξεσκεπάζει τα πόδια της.&#13;
+ignatia-δεν αναστενάζει , θέλει πολύ τα φρούτα,</remedies_differentiation>
+      <prescription>
+        <remedy>Staphysagria </remedy>
+        <potency>200 και 1M </potency>
+        <regimen>Μία caps 200ch και μία κάψουλα 1Μ (πρωί - απόγευμα)</regimen>
+        <other_notes>----</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-07-14 14:00:00</followup_date>
+      <conv_med_presc>Πήρε μόνο staphysagria (200/!Μ)&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>----</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Επιδεινώθηκε η ακμή.&#13;
+Αυτό διήρκεσε περίπου μια εβδομάδα.Την είχα προειδοποιήσει και δεν φοβήθηκε. Την επόμενη εβδομάδα άρχισε να καλυτερεύει πάλι.&#13;
+Η περίοδος της ήρθε χωρίς να το καταλάβει.Δεν χρειάστηκε κανένα παυσίπονο.&#13;
+</reaction>
+      <analysis>Βελτίωση μετά από αρχική επιδείνωση. </analysis>
+      <conclusion>Σωστό φάρμακο- πράγματι καλό επίπεδο υγείας-καλή πρόγνωση. Δεν δίνω άλλο φάρμακο. Περιμένω.</conclusion>
+      <repertorization>
+        <desc>---</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>---</remedy>
+        <potency>---</potency>
+        <regimen>---</regimen>
+        <other_notes>Είχε την αναμενόμενη αντίδραση , για το επίπεδο υγείας που είχα εκτιμήσει,δεδομένου ότι το φάρμακο ήταν σωστό.&#13;
+Δεν συνταγογραφώ κανένα άλλο φάρμακο.Περιμένω.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-15 15:10:00</followup_date>
+      <conv_med_presc>Μετά τη Staphysagria τον Ιούνιο δεν έχει πάρει άλλο φάρμακο.</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνεχίζει να μην πονάει στην περίοδο,για έβδομο μήνα τώρα.&#13;
+Έχει πια αρχίσει και την πρακτική της ως νοσηλεύτρια και μου αναφέρει από μόνη της ότι έχει γίνει και πιο διεκδικητική. Δηλαδή,όταν ως νέα την βάζουν να κάνει περισσότερα από όσα πρέπει ή την υποτιμούν ή δεν της δίνουν σημασία,δεν την πειράζει πια όπως παλιότερα.Μάλιστα μου είπε ότι πια εκφράζει πιο ελεύθερα αυτό που την ενοχλεί.&#13;
+Η ακμή έχει βελτιωθεί επίσης.</reaction>
+      <analysis>Συνεχίζει να δρα το φάρμακο. Δεν έχει υποτροπιάσει,δεν χρειάζεται επανάληψη.</analysis>
+      <conclusion>Σωστό φάρμακο,σωστή δυναμοποίηση.Δεν έχει αντιδοτήσει.</conclusion>
+      <repertorization>
+        <desc>----</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>----</remedy>
+        <potency>----</potency>
+        <regimen>Δεν δίνω ακόμα άλλο φάρμακο,ούτε καν επανάληψη του ίδιου. Το αρχικό φάρμακο έδρασε και συνεχίζει τη δράση του.</regimen>
+        <other_notes>----</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

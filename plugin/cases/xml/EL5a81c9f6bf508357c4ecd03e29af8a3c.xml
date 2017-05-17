@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL5a81c9f6bf508357c4ecd03e29af8a3c</ID>
+  <patient>
+    <gender>male</gender>
+    <patient_initials>Χ.Π</patient_initials>
+    <age>2</age>
+    <circumstances>αγαμος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>υψηλος πυρετος-39,7 χωρις να πεφτει</origin>
+        <causative_factors>ιωση (πατερας γενικος ιατρος)</causative_factors>
+        <modalities>δν μπορει ουτε να σταθει στα ποδια του, αδυναμο</modalities>
+        <occurrence_time>τελευταιες 3 μερες</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>πεφτει στο 38 κ μετα παλι μεχρι 40</appearence_frequency>
+        <pain_desc>φαινεται ανησυχο και να ποναει</pain_desc>
+        <complaint_ext>δν φαινεται να ποναει καπου συγκεκριμενα</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>αντιπυρετικα, αντιβιωτικα 3 φορες σε εναν χρονο</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εκανε εμβολιο πριν 1 μηνα</therapies_vaccination>
+          <traumas>επεσε απ την κουνια και εκανε 'καρουμπαλο' στο κεφαλι</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>-</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>τα ποδαρακια του ειναι κρυα , το κεφαλακι του πολυ ζεστο</reactions>
+        <sleeping_habits>κοιμαται ανασκελα κ ανησυχα </sleeping_habits>
+        <food_modalities>τις τελευταιες 3 μερες δν τρωει απολυτως τιποτα, παρα μονο μερικες γουλιες γαλα με το ζορι</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>δν θελει να παιξει, γκρινιαζει</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>καλη</personal_medical_history>
+        <family_medical_history>καλη</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>αγνος οργανισμος, δυσκολα να παραμεινει γτ ο πατερας ειναι λιγο αρνητικος στην ομοιοπαθητικη , φαινεται να προτιμα να του δινει αντιβιωσεις</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>-</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>belladonna</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>belladonna</remedies_differentiation>
+      <prescription>
+        <remedy>belladonna</remedy>
+        <potency>1M</potency>
+        <regimen>s:1x1 (διαλυμενο στο γαλα του)</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>αντιπυρετικα, αντιβιωτικα 3 φορες σε εναν χρονο</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>σε 5 ωρες απο τοτε που πηρε το φαρμακο, επεσε ο πυρετος κ εφαγε γιαουρτι με μπανανα. το επομενο 12ωρο αρχισε να ειναι δραστηριος και να παιζει παλι με τα παιγνιδια του</reaction>
+      <analysis>πολυ καλη  αντιδραση, εντυπωσιαστηκε κ ο πατερας που ειχε αμφιβολιες</analysis>
+      <conclusion>δν συνεστησα συνεχιση της αγωγης</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>η μητερα ειπε θα επικοινωνησει παλι τον επομενο μηνα</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

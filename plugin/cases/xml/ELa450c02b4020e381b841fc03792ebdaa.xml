@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELa450c02b4020e381b841fc03792ebdaa</ID>
+  <patient>
+    <case_date>2014-11-19 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ρ.Δ.</patient_initials>
+    <age>35</age>
+    <circumstances>Ανύπαντρη, χωρίς παιδιά, φαρμακοποιός.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από την πρώτη έμμηνο ρύση, ο κύκλος της ασθενούς παραμένει ασταθής. Το μεγαλύτερο διάστημα είναι 3 μήνες και το μικρότερο 20 ημέρες. Ποτέ παραπάνω από 3 μήνες.</origin>
+        <causative_factors>Η ασθενής έχει επισκεφθεί πολλούς γυναικολόγους, οι περισσότεροι των οποίων δεν εντοπίζουν κάποιο οργανικό πρόβλημα και συστήνουν αγωγή με αντισυλληπτικά δισκία.</causative_factors>
+        <modalities>Η ασθενής δεν εντοπίζει τροποιητικούς παράγοντες της διάρκειας του κύκλου της. Αναφέρει ότι πιθανόν όταν είναι περισσότερο αγχωμένη με τη δουλειά της ή τα προσωπικά της, ο κύκλος της να παρατείνεται.</modalities>
+        <occurrence_time>Δεν αναφέρει χρονική εντόπιση καλυτέρευσης/επιδείνωσης του προβλήματος.</occurrence_time>
+        <body_side>Ν/Α</body_side>
+        <appearence_frequency>Από την πρώτη έμμηνο ρύση, ο κύκλος της ασθενούς παραμένει ασταθής.</appearence_frequency>
+        <pain_desc>Ν/Α</pain_desc>
+        <complaint_ext>Φυσιολογική ανάπτυξη σύμφωνα με τη βιολογική ηλικία της ασθενούς.&#13;
+Λοιπά συστήματα: κ.φ.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Η ασθενής προσέρχεται διότι δεν θέλει να λάβει αντισυλληπτικά χάπια που της συνέστησε ο γυναικολόγος της για τη ρύθμιση του κύκλου της.</conv_med_presc>
+        <lab_tests>
+          <desc>U/S κάτω κοιλίας: χωρίς παθολογικά ευρήματα.&#13;
+Ενδοσκοπικό U/S: χωρίς παθολογικά ευρήματα.&#13;
+Γενική εξέταση αίματος, βιοχημικός έλεγχος, θυρεοειδικός έλεγχος και ορμόνες γυναικείου αναπαραγωγικού συστήματος: κ.φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει λάβει τον πλήρη προβλεπόμενο εμβολιασμό της παιδικής ηλικίας και το εμβόλιο της HepB.</therapies_vaccination>
+          <traumas>Δεν αναφέρει. </traumas>
+          <infections>Δεν αναφέρει.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Η μητέρα της ασθενούς (η οποία τη συνοδεύει στη συνεδρία) αντιμετώπιζε το ίδιο πρόβλημα (πλέον είναι στην εμμηνόπαυση).&#13;
+Δεν λαμβάνει φαρμακευτική αγωγή για κάποιο λόγο. Ο πατέρας της ασθενούς λαμβάνει αντιϋπερτασική αγωγή (μονή) με καλή ρύθμιση της αρτηριακής του πίεσης.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεστή ιδιοσυστασία, ζεσταίνεται πάρα πολύ (το καλοκαίρι είναι η χειρότερή της εποχή, το κλιματιστικό είναι συνεχώς σε λειτουργία).</reactions>
+        <sleeping_habits>Κακή ποιότητα ύπνου, ανήσυχος ύπνος τις πρώτες ώρες, κοιμάται βαθιά όταν πρέπει να ξυπνήσει το πρωί. Ξυπνάει κουρασμένη. Δεν θυμάται τα όνειρά της, Κοιμάται ανάσκελα, ξεσκεπάζει τα πόδια της ("καίνε").</sleeping_habits>
+        <food_modalities>Επιθυμία για παγωτό (2), για γλυκα (2), δροσερές σαλάτες (3), αυγά (2).&#13;
+Απέχθεια στα λιπαρά (3).</food_modalities>
+        <menstruation>Ασταθής έμμηνος ρύση σε διάρκεια, ποιότητα, κύκλους.</menstruation>
+      </physical>
+      <mental_emotional>Δάκρυσε πολλές φορές κατά τη διάρκεια της συζήτησης, Όταν περιέγραφε το πρόβλημά της, εξέφρασε μεγάλη ανησυχία για το αν θα την εμποδίσει να κάνει παιδιά. Αγαπάει πολύ την οικογένειά της και θέλει να δημιουργήσει δική της με πολλά παιδιά. Ανησυχεί που έχει φτάσει 35 ετών και δεν έχει παντρευτεί. "Το όνειρο της μεγάλης οικογένειας απομακρύνεται" λέει συνέχεια και δακρύζει. Σε όλο το διάστημα αναζητά τη βλεμματική επαφή με την μητέρα της (στην οποία μοιάζει πολύ εξωτερικά) και την καθησυχάζει αυτόματα. Φοβάται πολύ την άνοια και την σχιζοφρένεια.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η ασθενής δεν λαμβάνει φαρμακευτική αγωγή για κάποιο λόγο. &#13;
+Ευρυαγγείες κάτω άκρων (επιδείνωση λόγω της δουλειάς της που απαιτεί ορθοστασία).&#13;
+Δεν κρυολογεί εύκολα αλλά όταν αρρωσταίνει κάνει υψηλό πυρετό (40 C). Τελευταία λοίμωξη πριν από 1.5 χρόνο. Ανάρρωσε λόγω την ανάγκη λήψης αντιβίωσης. Ξεχνάει να πιει νερό (δεν διψάει καθόλου).</personal_medical_history>
+        <family_medical_history>Η μητέρα της ασθενούς (η οποία τη συνοδεύει στη συνεδρία) αντιμετώπιζε το ίδιο πρόβλημα (πλέον είναι στην εμμηνόπαυση).</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Το φάρμακο είναι καθαρό και το επίπεδο υγείας της ασθενούς είναι καλό. Πιστεύω ότι η ομοιοπαθητική αγωγή θα την βοηθήσει αρκετά.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>STOMACH THIRSTLESS (3)&#13;
+GENERALITIES FOOD and DRINKS cold food desire (3)&#13;
+MIND WEEPING, tearful mood, etc. (3)&#13;
+EXTREMITIES UNCOVER, inclination to Feet (2)</peculiar>
+        <intense>GENITALIAFEMALE MENSES irregular (3)&#13;
+STOMACH THIRSTLESS (3)&#13;
+MIND WEEPING, tearful mood, etc. (3)&#13;
+MIND MILDNESS (3)&#13;
+GENERALITIES WARM agg. (3)&#13;
+GENERALITIES FOOD and DRINKS fat aversion (3)&#13;
+GENERALITIES FOOD and DRINKS cold food desire (3)&#13;
+GENERALITIES FOOD and DRINKS icecream desire (2)&#13;
+GENERALITIES FOOD and DRINKS sweets desire (2)&#13;
+GENERALITIES FOOD and DRINKS eggs desire (2)&#13;
+EXTREMITIES VARICES (VARICOSE VEINS) Lower limbs (2)&#13;
+EXTREMITIES UNCOVER, inclination to Feet (2)&#13;
+MIND FEAR insanity, of (2)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENITALIAFEMALE MENSES irregular (3)&#13;
+STOMACH THIRSTLESS (3)&#13;
+MIND WEEPING, tearful mood, etc. (3)&#13;
+MIND FEAR insanity, of (2)&#13;
+MIND MILDNESS (3)&#13;
+EXTREMITIES VARICES (VARICOSE VEINS) Lower limbs (2)&#13;
+EXTREMITIES UNCOVER, inclination to Feet (2)&#13;
+GENERALITIES WARM agg. (3)&#13;
+GENERALITIES FOOD and DRINKS icecream desire (2)&#13;
+GENERALITIES FOOD and DRINKS sweets desire (2)&#13;
+GENERALITIES FOOD and DRINKS fat aversion (3)&#13;
+GENERALITIES FOOD and DRINKS cold food desire (3)&#13;
+GENERALITIES FOOD and DRINKS eggs desire (2)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Δ.Δ. Calc-carb, natr-mur.</remedies_differentiation>
+      <prescription>
+        <remedy>Pulatilla</remedy>
+        <potency>1M</potency>
+        <regimen>1 χαπάκι εφάπαξ.</regimen>
+        <other_notes>Περιμένω καλή ανταπόκριση στο φάρμακο, η ασθενής δεν πίνει καφέ και δεν καπνίζει, θέλει να αποφύγει πάση θυσία τα αντισυλληπτικά και θα συμμορφωθεί με τις σχετικές οδηγίες της ομοιοπαθητικής αγωγής.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-22 19:00:00</followup_date>
+      <conv_med_presc>Followup #1: Η ασθενής στη διάρκεια των δύο πρώτων ενβομάδων, είχε πολύ ευμετάβλητη διάθεση, αισθανόταν κουρασμένη και είχε την ανάγκη να κοιμηθεί πολύ περσισσότερο. Η περίοδος της ήρθε στις 40 ημέρες (προηγούμενος κύκλος:  διάρκεια 75 ημερών).&#13;
+Στο τέλος του μήνα, δεν είχε πολλά κυκλοθυμικά ξεσπάσματα και η ίδια ασιθανόταν περισσότερη ενέργεια. Μου έιπε τηλεφωνικά ότι αισθάνεται "πιο δυνατή και αισιόδοξη". Επειδή μένει στην επαρχία νέο followup σε 2 μήνες.&#13;
+Followup #2: Δύο κύκλοι 45 ημερών. Ενθουσιασμένη η ασθενής! &#13;
+Δέκα ημέρες μετά το δεύτερο followup η ασθενής μου τηλεφωνεί 7 το πρωί να μου πει ότι είναι έγκυος! </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Καλή αντίδραση, το φάρμακο ήταν το σωστό.</reaction>
+      <analysis>Το καλό επίπεδο υγείας της ασθενούς επέτρεψε τη γρήγορη δράση του σωστού φαρμάκου.</analysis>
+      <conclusion>Είμαι πολύ ευχαριστημένη με την εξέλιξη αυτού του περιστατικού.</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ν/Α</remedy>
+        <potency>Ν/Α</potency>
+        <regimen>Ν/Α</regimen>
+        <other_notes>Ν/Α</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

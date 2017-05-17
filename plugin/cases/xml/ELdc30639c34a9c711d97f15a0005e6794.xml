@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELdc30639c34a9c711d97f15a0005e6794</ID>
+  <patient>
+    <case_date>2014-07-20 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Γ.Π.</patient_initials>
+    <age>45</age>
+    <circumstances>Άγαμη ,νηπιαγωγός, ζεί με τους γονείς της  ,68kg,  1,62ύψος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Τα τελευταία 7 χρόνια, δεν έχει καλό ύπνο.&#13;
+Τα πρωινά , έχει βαρύ κεφάλι σχεδόν καθημερινά2.&#13;
+2-3 φορές το μήνα έχει έντονο πονοκέφαλο, σαν βελόνες, μέσα στο κρανίο3.&#13;
+Πονάει στη μέση2&#13;
+Αισθάνεται ατονία2.&#13;
+</origin>
+        <causative_factors>Δέχεται, πολλή πίεση, στη δουλειά της.  &#13;
+Δουλεύει σε ιδιωτικό σχολείο και την πιέζει πολύ, η διευθύντρια της!&#13;
+</causative_factors>
+        <modalities>&lt;με το στρες2&#13;
+&lt;με το έντονο φως2</modalities>
+        <occurrence_time>&gt;το απόγευμα1</occurrence_time>
+        <body_side>Ο πονοκέφαλος, ξεκινά από την ινιακή περιοχή και επεκτείνεται στα μάτια.&#13;
+</body_side>
+        <appearence_frequency>Ο πονοκέφαλος, 2-3 φορές το μήνα.</appearence_frequency>
+        <pain_desc>Είναι το κεφάλι της βαρύ και αισθάνεται σαν βελόνες μέσα στο κρανίο2.</pain_desc>
+        <complaint_ext>Κάποιες φορές, αισθάνεται πιάσιμο, στον αυχένα της2.</complaint_ext>
+        <other_complaints>Πολλά σφραγίσματα3.&#13;
+Aναιμία.&#13;
+Σπάζουν τα νύχια2&#13;
+Πόνος, στην οσφυική περιοχή, κυρίως, όταν είναι πολλές ώρες, όρθια2.&#13;
+2-3 φορές τον χρόνο, προσβάλλεται από ίωση και 1 φορά το χρόνο, μπορεί να κάνει αμυγδαλίτιδα με όχι ιδιαίτερα υψηλό πυρετό  (38)&#13;
+Δυσκοιλιότητα, χωρίς να νοιώθει δυσφορία2.&#13;
+&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ponstan ,  όταν έχει πονοκέφαλο.&#13;
+Legofer,περιστασιακά, για την αναιμία.</conv_med_presc>
+        <lab_tests>
+          <desc>Αιματοκρίτης 37, φερριτίνη 25,  Fe63</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Είχε πάρει αντιβίωση, ένα 3μηνο για την ακμή της και διάφορες αλοιφές με κορτιζόνη τοπικά.&#13;
+Κάποιες φορές πήρε αντιβίωση για την αμυγδαλίτιδα.</therapies_vaccination>
+          <traumas>Την ενοχλεί2  που ζει, ακόμη,  με τους γονείς της, (λόγω οικονομικών προβλημάτων).&#13;
+Έχει έντονο, επαγγελματικό άγχος2.&#13;
+Την ενοχλεί3, που δεν έχει μια σοβαρή σχέση.</traumas>
+          <infections>Κάνει οξέα, περιστασιακά με όχι πολύ υψηλό πυρετό(38)</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητέρα :σάκχαρο&#13;
+Πατέρας :Υπέρταση, έμφραγμα.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει 2, κρύα πόδια3 - κάλτσες στο κρεβάτι2,  &#13;
+Ιδρώνει2&#13;
+Iδρώνει, στο κεφάλι2 &#13;
+Ιδρώνει στο κεφάλι , στον ύπνο2</reactions>
+        <sleeping_habits>Δεν ξεκουράζεται με τον ύπνο.&#13;
+Ξυπνάει ενδιάμεσα 2-3 φορές.&#13;
+Κοιμάται, κυρίως, στο πλάι.</sleeping_habits>
+        <food_modalities>des:αυγά μελάτα2&#13;
+des:γλυκά3&#13;
+des:παγωμένο νερό2&#13;
+av.   φρούτα1&#13;
+av.  γάλα1</food_modalities>
+        <menstruation>κ.φ.</menstruation>
+      </physical>
+      <mental_emotional>Φόβος για σκυλιά2&#13;
+Άγχος υγείας 3,&#13;
+Άγχος υγείας δικών της2&#13;
+Φόβος τρέλλας 1,&#13;
+Φόβος μοναξιάς2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Είναι μια κοπέλα με κάποια, όχι ιδιαίτερα σημαντικά σωματικά προβλήματα.&#13;
+Έχει πιεσθεί ψυχολογικά από την συμβίωση με την οικογένεια της,αλλά πιέζεται καθημερινά και στη  δουλειά της.</personal_medical_history>
+        <family_medical_history>Υπάρχει μια μικρή κληρονομική επιβάρυνση από τους γονείς, αλλά δεν νομίζω, ότι θα μπλοκάρει την θεραπεία μας.&#13;
+Κάνει οξέα,  οπότε είναι σε σχετικά, υψηλό επίπεδο υγείας.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Πιστεύω ότι ο οργανισμός της, μπορεί  να βελτιωθεί.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Πονοκέφαλος2  πόνος στη μέση2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Mind - anxiety - health, about2&#13;
+Mind - anxiety - pain in head, with2&#13;
+Mind - fear - dogs,of2&#13;
+Mind- fear - insanity ,of1&#13;
+Perspiration  - perspiration in general2&#13;
+Head - perspiration - scalp - sleep , during2&#13;
+Head - pain - stitching3&#13;
+Head - pain - light - daylight2&#13;
+Βack - pain - lumbar region2&#13;
+Teeth - caries, decayed, hollow 2&#13;
+Throat - inflammation -  tonsils1&#13;
+Rectum - constipation -stool remains long in the rectum with no urging2&#13;
+Extrimities -  coldness -  foot2&#13;
+Extrimities  - coldness- foot - evening -bed, in2&#13;
+Extrimities - nails - brittle2&#13;
+Generalities - food and drinks -cold - drinks, water - desire2&#13;
+Generalities - food and drinks - eggs - desire - boiled - soft 2&#13;
+Generalities - food and drinks- sweets desire3    &#13;
+Generalities - food and drinks - milk aversion3  &#13;
+Generalities - food and drinks - vegetables aversion1&#13;
+Generalities - weakness2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Tα φάρμακο, που σκέφτηκα είναι η Calcarea carbonica, γιατί συνδιάζει αρκετά σωματικά και ψυχικά χαρακτηριστικά  της ασθενούς.</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Την πρώτη μέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-09-01 08:00:00</followup_date>
+      <conv_med_presc>Ponstan  κάποιες φορές,για τον πόνο.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Από την 3η ημέρα εμφάνισε έντονο πονοκέφαλο2, που δεν μπορούσε να ελεγχθεί εύκολα με παυσίπονο.&#13;
+Αυτό διήρκεσε περίπου 5 ημέρες και μετά άρχισε &gt;.&#13;
+Οι σωματικές δυνάμεις της&gt;2&#13;
+Ψυχικά επίσης&gt;1&#13;
+Η μέση συνέχισε να την ενοχλεί 1, όταν κουραζόταν.</reaction>
+      <analysis>Ο έντονος πονοκέφαλος, ήταν αρχική επιδείνωση και αφού έχουμε και σωματική και ψυχική βελτίωση, το φάρμακο ήταν σωστό.  Περιμένουμε, όσο το φάρμακο δρα.</analysis>
+      <conclusion>Η ασθενής πάει καλά και περιμένουμε να βελτιωθεί και ο πόνος στη μέση.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6x placebo</potency>
+        <regimen>Να λαμβάνει 1 caps κάθε πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού ,για 2μήνες.</regimen>
+        <other_notes>Για ψυχολογικούς λόγους εδόθησαν.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-11-12 16:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Οι φοβίες της βελτιώθηκαν και αισθάνεται &gt; στις σωματικές δυνάμεις.  Πονάει στη μέση(lubago)2         Δεν έχει αυπνία , αλλά όταν πονάει στη μέση δεν μπορεί  να ησυχάσει στο κρεβάτι2.  Έγινε πιο ευαίσθητη στη έκθεση στο κρύο αέρα3.  Πιάνεται και &lt; όταν εκτεθεί σε κρύο καιρό3    Την πιάνει πονοκέφαλος2 σαν βελόνες       Τρίζουν οι αρθρώσεις της2     Άρχισε να πίνει δροσερό γάλα1,ενώ δεν ήθελε γάλα παλαιότερα</reaction>
+      <analysis>¨Εχει αλλάξει η εικόνα της. Ψάχνω για νέο φάρμακο.</analysis>
+      <conclusion>Έχει αλλάξει η εικόνα της και βγάζει εικόνα Rhus tox.</conclusion>
+      <repertorization>
+        <desc>Mind -restlessness - nervousness - bed  - driving out of 2          Head - pain - stiching -2         Back - pain - lumbar region - (lubago)2            Extrimities - cracking - joints in2          Extrimities - stiffness - chill - during 3         Generalities - weather - cold wet - agg.3           Generalities - motion - amel2                 Generalities - food and drinks - milk desire cold1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy> Rhus tox.</remedy>
+        <potency>200ch</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Να ληφθεί το  πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-01-04 19:00:00</followup_date>
+      <conv_med_presc>Σπανιότατα παυσίπονο</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις πρώτες ημέρες αυξήθηκε λίγο ο πόνος της μέσης και μετά άρχισε &gt;   Δεν έβγαλε νέα εικόνα</reaction>
+      <analysis>Το φάρμακο μας, έδρασε και συνεχίζει να δρα.</analysis>
+      <conclusion>Περιμένω, δεν επαναλαμβάνω.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Επανεξέταση σε 2 μήνες.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

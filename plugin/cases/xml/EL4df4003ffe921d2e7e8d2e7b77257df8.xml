@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4df4003ffe921d2e7e8d2e7b77257df8</ID>
+  <patient>
+    <case_date>2015-01-07 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Κ.Π.</patient_initials>
+    <age>5</age>
+    <circumstances>Αγόρι 5 ετών ζει με τους γονείς του και τον μικρότερο αδελφό ηλικίας 8 μηνών</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Βήχας από 5μήνου</origin>
+        <causative_factors>Εμφανίστηκε μετά την γέννηση του μικρότερου αδελφού</causative_factors>
+        <modalities>χειρότερα :όταν ξαπλώνει, την νύχτα , όταν είναι μόνος, στο σκοτάδι (2),όταν ασχολείται η μητέρα του με τον αδελφό&#13;
+καλύτερα:στην αγκαλιά της μητέρας(3), την ημέρα, όταν είναι έξω με τους φίλους  του</modalities>
+        <occurrence_time>χειρότερα την νύχτα (3) , καλύτερα την ημέρα</occurrence_time>
+        <body_side>Στο λαιμό</body_side>
+        <appearence_frequency>Σχεδόν καθημερινός </appearence_frequency>
+        <pain_desc>Δεν έχει πόνο&#13;
+Βήχας που εμφανίζεται την νύχτα όταν ξαπλώνει.(2) Είναι ξηρός άγριος βήχας που χειροτερεύει όταν ξαπλώνει (2) και βελτιώνεται στην αγκαλιά της μητέρας.&#13;
+Κατά τη διάρκεια της ημέρας σπάνια βήχει κυρίως όταν η μητέρα ασχολείται με τον μικρό.</pain_desc>
+        <complaint_ext>όχι</complaint_ext>
+        <other_complaints>όχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>τώρα όχι, μέχρι πριν 10 μέρες αντιβηχικά για 2 μήνες</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παιδικά εμβόλια </therapies_vaccination>
+          <traumas>όχι άλλα πέραν του παρόντος δηλαδή της γέννησης του μικρού αδελφού</traumas>
+          <infections>σπάνια (1 φορά σε ηλικία 2 ετών έπαθε ωτίτιδα ωτίτιδα με ψηλό πυρετό και πήρε αντιβίωση)&#13;
+Έκτοτε δεν αρρώστησε ξανά.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Δεν αναφέρουν κάτι ιδιαίτερο </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>καλύτερα στον ανοιχτό αέρα (2), κοιμάται με λίγα ρούχα, δεν θέλει να τον σκεπάζουν.Ακόμα και τον χειμώνα δεν θέλει να φορά πολλά ρούχα.</reactions>
+        <sleeping_habits>παλιά κοιμόταν πολύ καλά, τώρα λόγω του βήχα δεν κοιμάται καλά.&#13;
+Ξυπνά συχνά στη διάρκεια της νύχτας  και ζητά την μητέρα του.(3)&#13;
+Θέλει φως όταν κοιμάται(2).</sleeping_habits>
+        <food_modalities>Του αρέσουν πολύ όλα τα γλυκά (3)  και το παγωτό (κρέμα)(2)  και τα ζυμαρικά&#13;
+Δεν του αρέσουν τα κρέατα (2) και τα φρούτα(2).&#13;
+Τρώει αυγά χωρίς κάποια ιδιαίτερη προτίμηση</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Ζήλια για τον αδελφό (3). Δεν την εκφράζει με λόγια αλλά θέλει να είναι πάντα δίπλα στην μητέρα του&#13;
+Η δασκάλα στον παιδικό σταθμό λέει ότι ότι κλαίει εύκολα (2), ενώ πριν όχι.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Όχι ιδιαίτερο ιατρικό ιστορικό, σπάνια αρρωσταίνει και όταν συμβεί κάνει ψηλό πυρετό.Φανερώνει πολύ ψηλό επίπεδο υγείας</personal_medical_history>
+        <family_medical_history>Δεν υπάρχει  κάποια κληρονομική προδιάθεση, ούτε επιβαρυντικό οικογενειακό ιστορικό</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Άριστο επίπεδο υγείας, χωρίς προδιάθεση, με σαφή αιτιολογικό παράγοντα της διαταραχής.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Βήχας ξηρός που παρουσιάζεται μόνο το βράδυ (3)&#13;
+Καλυτέρευση του βήχα σε ανοιχτούς χώρους (2)&#13;
+Ζήλια μετά την γέννηση του αδελφού (3)&#13;
+Κλαίει εύκολα (2)&#13;
+βήχας που χειροτερεύει όταν ξαπλώνει (2)</peculiar>
+        <intense>Επιθυμεί γλυκά(3)&#13;
+Επιθυμεί παγωτά (2)&#13;
+Απέχθεια σε φρούτα (2)&#13;
+Απέχθεια σε κρέας (2)&#13;
+Επιθυμεί παρέα  (3)&#13;
+Φόβος στο σκοτάδι(2)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>1. cough dry night (3)&#13;
+2. cough lying bed aggravation (2)&#13;
+3.cough air open amelioration (2)&#13;
+4.mind fear dark (2)&#13;
+5 mind company desire for (3)&#13;
+6. mind jealousy children between (2)&#13;
+7.mind consolation amelioration (2)&#13;
+8.mind weeping tearfulmood (2)&#13;
+9.gener. food and drinks sweets desire (3)&#13;
+10. gener. food ice cream desire (2)&#13;
+11.gener. fruits aversion (2)&#13;
+12 gener. meat aversion (2)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>1. pulsatilla  ( κλαίει εύκολα, καλύτερα με παρηγοριά, βήχας ξερός το βράδυ που καλυτερεύει σε ανοιχτό αέρα, απέχθεια σε κρέαs, ζήλια)&#13;
+2.phosphorus (φοβάται το σκοτάδι, επιθυμεί παρέα, θέλει παγωτό)&#13;
+&#13;
+Και τα 2 έχουν πολλά κοινά αλλά η pulsatilla υπερτερεί στα totalitty,στον αιτιολογικό παράγοντα και στο essence</remedies_differentiation>
+      <prescription>
+        <remedy>pulsatilla</remedy>
+        <potency>1M</potency>
+        <regimen>εφάπαξ</regimen>
+        <other_notes>καθαρό φάρμακο</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-18 14:00:00</followup_date>
+      <conv_med_presc>όχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>18/2/15&#13;
+Σημαντική βελτίωση από την δεύτερη ημέρα χωρίς αρχική επιδείνωση. Βήχει  ακόμα αλλά πολύ λιγότερο και ο βήχας δεν είναι ξερός αλλά μαλακός και μπορεί και κοιμάται καλύτερα. Δεν κλαίει και παίζει  με τον μικρότερο αδελφό του.&#13;
+Ακόμα θέλει την μητέρα του όταν πάει να κοιμηθεί και μερικές φορές και στη διάρκεια της νύχτας</reaction>
+      <analysis>Γρήγορη βελτίωση συμπτωμάτων χωρίς αρχική επιδείνωση.Έχουμε βελτίωση σε όλα τα επίπεδα και στην διάθεση.</analysis>
+      <conclusion>Επιβεβαιώνεται το ψηλό επίπεδο υγείας του ασθενή (βελτίωση χωρίς αρχική επιδείνωση). το φάρμακο ήταν το σωστό. Δεν χρειάζεται περαιτέρω θεραπεία.περιμένουμε περαιτέρω βελτίωση</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>όχι</remedy>
+        <potency>όχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>Επανεκτίμηση σε 3 με 4 μήνες</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-18 14:00:00</followup_date>
+      <conv_med_presc>όχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>30/5/15&#13;
+Δεν βήχει καθόλου, κοιμάται πολύ καλά, νοιώθει βέβαια καλύτερα όταν έχει κοντά την μητέρα του &#13;
+Δεν κλαίει συχνά και στο σχολείο η δασκάλα το επιβεβαιώνει.</reaction>
+      <analysis>Συνεχίστηκε η θεραπευτική δράση του φαρμάκου σε όλα τα επίπεδα</analysis>
+      <conclusion>Ο ασθενής είναι πολύ καλά τόσο στο σωματικό (βήχας) όσο και στο συναισθηματικό (ζήλια).&#13;
+Δεν χρειάζεται περαιτέρω παρακολούθηση.</conclusion>
+      <repertorization>
+        <desc>Δεν βήχει, κλαίει λιγότερο, κοιμάται καλά </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>όχι</remedy>
+        <potency>όχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>καμμία</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

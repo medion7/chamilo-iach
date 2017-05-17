@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6485e9177cbcbfc982be5ee68ee409f5</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>ΜΔ</patient_initials>
+    <age>49</age>
+    <circumstances>Έγγαμη, χήρα από 2μήνου, με 3 παιδιά&#13;
+νοσηλεύτριαPlease enter the personal circumstances</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ψυχικό τραύμα με τον αιφνίδιο θάνατο του συζύγου &#13;
+έκλαψε (1), κλαίει ακόμα κάποιες μέρες (1)&#13;
+αισθάνεται πλάκωμα στο στήθος (2), ειδικά μέσα στο σπίτι&#13;
+αναστεναγμοί  (2), ειδικά μέσα στο σπίτι</origin>
+        <causative_factors>αιφνίδιος θάνατος του συζύγου </causative_factors>
+        <modalities>&gt;όταν είναι απασχολημένη βρίσκεται στη δουλειά &#13;
+</modalities>
+        <occurrence_time>δεν υπάρχει απάντηση</occurrence_time>
+        <body_side>         δεν υπάρχει απάντηση            </body_side>
+        <appearence_frequency>δεν υπάρχει απάντηση</appearence_frequency>
+        <pain_desc>δεν υπάρχει απάντηση</pain_desc>
+        <complaint_ext>δεν υπάρχει απάντηση</complaint_ext>
+        <other_complaints>όζοι θυρεοειδούς, θυρεοειδεκτομή προ 3ετίας</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>δεν έχει απευθυνθεί σε αλλοπαPlease enter the conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>συνήθεις εμβολιασμοί στην παιδική ηλικία &#13;
+ Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>συναισθηματικό από τον αιφνίδιο θάνατο του συζύγου </traumas>
+          <infections>δεν θυμάται</infections>
+          <other>σκωληκοειδεκτομή στα 26 έτη</other>
+        </personal>
+        <family>
+          <diseases>πατέρας 75 υγιής, παππούς Ca πνεύμονα &#13;
+μητέρα 70 υγιής&#13;
+1 αδελφός υγιής</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

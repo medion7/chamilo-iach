@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL84fa253da0534757e2d1d7bd29a52267</ID>
+  <patient>
+    <case_date>2014-11-07 12:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Τ.</patient_initials>
+    <age>0</age>
+    <circumstances>Παντρεμενη με ενα παιδι ,υπαλληλος γραφειου</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ξηροδερμια χεριων χρονια</origin>
+        <causative_factors>Επειδη υποφερει απο τοτε που θυμαται τον εαυτο της προφανως κατι συνεβη σε παιδικη ηλικια το οποιο δε μπορει να ανακαλεσει.</causative_factors>
+        <modalities>χειμωνιατικοι μηνες, κρυο προκαλουν επιδεινωση</modalities>
+        <occurrence_time>χειμωνιατικοι μηνες, κρυο προκαλουν επιδεινωση</occurrence_time>
+        <body_side>ραχιαιες επιφανιες χεριων αμφω</body_side>
+        <appearence_frequency>καθε χειμωνα</appearence_frequency>
+        <pain_desc>ξηροδερμια </pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>περιστασιακα κρεμες απο δερματολογο</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παιδικοι εμβολιασμοι, διαφορα σκευασματα αντιμετωπισης της ξηροδερμιας φαρμακευτικα και μη_δε θυμαται αν περιειχαν κορτιζονη</therapies_vaccination>
+          <traumas>οταν ηταν παιδι ειχε σπασει το ποδι της</traumas>
+          <infections>οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατερας με στεφανιαια νοσο υπο αγωγη, μητερα ανευ ιστορικου</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>τα χερια της χειροτερευουν με το κρυο</reactions>
+        <sleeping_habits>πλαι ΔΕ ή ΑΡ</sleeping_habits>
+        <food_modalities>Επιθυμει μεγαλες ποσοτητες φαγητου, γλυκα++,λιπαρα++,σοκολατα++πικαντικα+&#13;
+απεχθανεται γαλα++,φρουτα++</food_modalities>
+        <menstruation>κφ</menstruation>
+      </physical>
+      <mental_emotional>Μνημη οχι και τοσο καλη++ μπορει να ξεχασει ακομη και που ηταν χθες&#13;
+Ατομο ευχαριστο με χιουμορ αλλα εκνευριζεται ευκολα</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Απο τοτε που θυμαται τον εαυτο της καθε χειμωνα τα χερια της υποφερουν απο το κρυο. Ξηραινονται τοσο πολυ που πονανε, σκανε και γεμιζουν πληγες+++.Καμια κρεμα δε τη βοηθαει οση ποσοτητα και να βαλει. Τα χερια της ειναι σα γυαλοχαρτο τραχια+++.&#13;
+Χρησιμοποιησε ειδικα σκευασματα απο δερματολογους αλλα χωρος κανενα αποτελεσμα.Βαζελινη δε δοκιμασε ποτε να βαλει.&#13;
+Το καλοκαιρι τα χερια της γθνοντα φυσιολογικα.&#13;
+Ειναι ατομο ευχαριστο με χιουμορ αλλα εκνευριζεται ευκολα&#13;
+Περιοδος κφ&#13;
+Κολλαει γριπη καθε χειμωνα αλλα χωρις υψηλο πυρετο&#13;
+Χωρις λοιπα προβληματα υγειας&#13;
+Επιθυμει μεγαλες ποσοτητες φαγητου, γλυκα++,λιπαρα++,σοκολατα++πικαντικα+&#13;
+Απεχθανεται γαλα++,φρουτα++&#13;
+Διψα κφ&#13;
+Υπνος κφ παντα σε ΔΕ πλαι&#13;
+Μνημη καθολου καλη, ξεχναει συνεχεια, μπορει να ξεχασει ακομη και που ηταν χθες&#13;
+ </personal_medical_history>
+        <family_medical_history>ανευ</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Petroleum</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Επιθυμει μεγαλες ποσοτητες φαγητου, γλυκα++,λιπαρα++,σοκολατα++πικαντικα+&#13;
+Απεχθανεται γαλα++,φρουτα++</peculiar>
+        <intense>Απο τοτε που θυμαται τον εαυτο της καθε χειμωνα τα χερια της υποφερουν απο το κρυο. Ξηραινονται τοσο πολυ που πονανε, σκανε και γεμιζουν πληγες+++.Καμια κρεμα δε τη βοηθαει οση ποσοτητα και να βαλει. Τα χερια της ειναι σα γυαλοχαρτο τραχια+++.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Petroleum</remedies_differentiation>
+      <prescription>
+        <remedy>Petroleum</remedy>
+        <potency>200ch</potency>
+        <regimen>1caps εφαπαξ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-21 11:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν παρατηρησε βελτιωση στα χερια αλλα αισθανεται οτι γενικα κρυωνει περισσοτερο.Λοιπα συμπτωματα ομοιως</reaction>
+      <analysis>καλη</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>αναμονη</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-02-02 12:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τα χερια εχουν μεγαλη βελτιωση. Δε σκανε πλεον τοσο πολυ και η επαλειψη με μια απλη ενυδατικη κρεμα ειναι αρκετη πλεον</reaction>
+      <analysis>καλη</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-06-03 12:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ειναι χαρουμενη που θραπευθηκε και τα χερια της δεν ηταν σα γυαλοχαρτα το χειμωνα</reaction>
+      <analysis>καλη</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

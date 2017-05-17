@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL957ad837d4390642161487fdfc9a96b7</ID>
+  <patient>
+    <gender>female</gender>
+    <patient_initials>Θ.Ρ</patient_initials>
+    <age>35</age>
+    <circumstances>παντρεμενη, 2 παιδια,&#13;
+τραπεζικος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>βηχας εδω κ μια εβδομαδα που δν την αφηνει να κοιμηθει το βραδυ , ταση προς εμετο, βηχει τοσο πολυ που 2 φορες εκανε κ εμετο</origin>
+        <causative_factors>εγκυμοσυνη (4 μηνων)</causative_factors>
+        <modalities>βηχει για λιγη ωρα δυνατα και μετα απο 2-3 ωρες παλι και &lt;οταν ξαπλωνει, ναυτια σχεδον ολη την ημερα </modalities>
+        <occurrence_time>βηχας και ναυτια &lt;το βραδυ , αλλα ολη μερα εχει ανα διαστηματα</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>καθημερινα επι 1 εβδομαδα</appearence_frequency>
+        <pain_desc>νομιζει οτι απ τον βηχα θα κανει εμετο και δν μπορει να αναπνευσει</pain_desc>
+        <complaint_ext>πονος στο στηθος οταν βηχει για ωρα</complaint_ext>
+        <other_complaints>-</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>σιδηρο για εγκυμοσυνη</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ειχε παρει αντιβιωση τον 2ο μηνα της κυησης γτ ειχε πυρετο κ ποναγε ο λαιμος της (amoxil)</therapies_vaccination>
+          <traumas>ειχε χτυπησει πριν 7 χρονια σοβαρα τον αυχενα της στη θαλασσα και απο τοτε χρειαζεται ανα περιοδους να φοραει κολαρο</traumas>
+          <infections>δν αναφερει</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας διαβητικος, μητερα με υπερταση</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει πολυ, 2 ζευγαρια καλτσες και πουλοβερ για να κοιμηθει</reactions>
+        <sleeping_habits>συνηθως εμβρυικη σταση , κοιμαται βαθια και βλεπει ονειρα-'μυθιστορηματα' που τα εξιστορει το πρωι</sleeping_habits>
+        <food_modalities>θελει γλυκα καθε μερα, τωρα στην εγκυμοσυνη θελει να τρωει ολη την ωρα τα παντα, απο αλμυρο σε γλυκο και μετα παλι αλμυρο</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>κλαιει ευκολα τωρα αλλα γενικα ειναι σκληρη, δν θελει να κουραζει το μυαλο της γενικα(δν διαβαζει βιβλια, δν βλεπει δυσκολες ταινιες)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>καλη προγνωση</personal_medical_history>
+        <family_medical_history>προδιαθεσεις μεν αλλα δν εχει εκδηλωσει κατι</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>συνταγολογηση οξεως λογω εγκυμοσυνης, προτιθεται να συνεχισει την ομοιοπαθητικη κ αφου γεννησει</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>εκτος απο τον βηχα(3) με την ταση για εμετο(3) δν αναφερει κατι</peculiar>
+        <intense>-</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>ipecacuana</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ipecacuana</remedies_differentiation>
+      <prescription>
+        <remedy>ipecacuana</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>10 λεπτα προ του πρωινου</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>σιδηρο για εγκυμοσυνη</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ανεφερε οτι μεσα σε 12 ωρες απ την στιγμη που πηρε την καψουλα σταματησε ο βηχας και μπορεσε και κοιμηθηκε</reaction>
+      <analysis>πολυ καλη αντιδραση και αμεση</analysis>
+      <conclusion>δν συνεχιζω αλλη καψουλα, περιμενω νεα επισκεψη </conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

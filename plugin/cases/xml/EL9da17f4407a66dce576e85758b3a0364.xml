@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL9da17f4407a66dce576e85758b3a0364</ID>
+  <patient>
+    <case_date>2015-12-26 22:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Δ.Μ.</patient_initials>
+    <age>42</age>
+    <circumstances>Ανυπαντρη, ζει με τους γονεις της, ασχολειται με ενεργειακες θεραπειες, ρεικι</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>απο 25 χρονων</origin>
+        <causative_factors>δεν αναφερει κατι συγκεκριμενο, ισως ομως να οφειλεται στην σχεση που ειχε τοτε, ηταν αρραβωνιασμενη και δεν περνουσε καλα, πιεζοταν</causative_factors>
+        <modalities>&gt;χειμωνα,&lt;καλοκαιρι&#13;
+&gt;ηλιο(3)</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>αγκωνες-κεφαλη-δαχτυλα</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>οχι πονος αλλα ηδονικη φαγουρα, μεχρι να ματωσει(3)&#13;
+κνησμος &lt;μαλλινα(2)</pain_desc>
+        <complaint_ext>-δοθιηνες με πυον, πονουν, μυριζουν ασχημα, στην ηβικη περιοχη, σπανε μονα τους   &lt;πριν την περιοδο</complaint_ext>
+        <other_complaints>-πονος αριστερα στην κοιλια &lt;οταν καθεται, πριν την περιοδο(2)  &gt;περπαταει(3)   "οταν περπαταω, φευγουν τα παντα"</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ψωριαση, δεν ειναι υπο αγωγη, παλιοτερα ειχε χρησιμοποιησει αλοιφες με κορτιζονη αλλα δεν την βοηθουσαν</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>συνηθεις εμβολιασμοι&#13;
+κορτιζονουχες αλοιφες για ψωριαση&#13;
+αντιβιωτικες αγωγες για συχνες βρογχιτιδες-αμυγδαλιτιδες</therapies_vaccination>
+          <traumas>δεν αναφερει κατι συγκεκριμενο, ισως να την εχει επηρεασει η πιεση που ενιωθε στον αρραβωνα της</traumas>
+          <infections>βρογχιτιδες απο εφηβεια 2-3 φορες το χρονο μεχρι πριν 5 χρονια&#13;
+αμυγδαλιτιδες 3-4 φορες/χρονο εως 20 ετων</infections>
+          <other>δυσκοιλιοτητα: μπορει και ανα μια εβδομαδα, πονο στην κοιλια, μετεωρισμος, αερια, ηχοι απο κοιλιακη περιοχη&#13;
+&lt;κρεας, &lt;γαλακτοκομικα, &gt;λαδι,&gt;δαμασκηνα. τωρα ειναι καλυτερα λογω βελτιωσης διατροφης</other>
+        </personal>
+        <family>
+          <diseases>μητερα: πετρες στη χολη, αυξημενη χοληστερινη, υποτροπιαζον πτερυγιο οφθαλμου, υπερταση, οστεοπορωση&#13;
+    αδερφος: Ca συκωτι, μετασταση εγκεφαλο (ναυτικος)&#13;
+    αδερφη: καρδιοπαθεια&#13;
+πατερας: Σ.Δ., by-pass, stent, δεν φορα γιαλια(80 ετων), (τζογαδορος)&#13;
+     οικογενεια του: συχνα Σ.Δ.&#13;
+αδελφη: υγιης&#13;
+αδελφος:(ναυτικος)Σ.Δ., αυξημενη χοληστερινη, αλκοολισμος</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταινεται(3), προτιμα το κρυο, &gt;χειμωνα&#13;
+υγρασια προκαλει δυσπνοια</reactions>
+        <sleeping_habits>στο πλαι, καλος υπνος, ξυπνα ξεκουραστη&#13;
+σφιγγει δοντια&#13;
+ονειρα μεταφυσικα</sleeping_habits>
+        <food_modalities>επιθυμιες :αυγα(3), ζυμαρικα, φετα, ψωμι&#13;
+απεχθειες: συκωτι, ρεβυθια&#13;
+διψα: 2λτ το χειμωνα, σε θερμοκρασια δωματιου&#13;
+αλλεργια: θαλασσινα&#13;
+&lt;κρεας,αγγουρι</food_modalities>
+        <menstruation>απο 12 ετων σταθερος κυκλος καθε 21 ημερες, πολλα πηγματα&#13;
+πονος την πρωτη ημερα μεχρι να ξεκινησει η ροη</menstruation>
+      </physical>
+      <mental_emotional>-βγαζει ερπη αν καταπιεσει θυμο της(4), αν θελει να πει κατι σε καποιον και δεν το πει, &#13;
+-κανει φανταστικες συνομιλιες στο μυαλο της που ξεκινουν λογω θυμου&#13;
+-δεν μπορει να κλαψει, ακομα και αν ειναι στεναχωρημενη, θελει να κλαψει αλλα δεν μπορει(4), ακομα και αν πιεστει να κλαψει μολις βγουν τα δακρυα ποναει!!!&#13;
+-δεν εκφραζει συναισθηματα(2)&#13;
+-κλειστοφοβια(3)&#13;
+-φοβαται οταν κατεβαινει σκαλια(3)&#13;
+-υπεροπτικη(3), ειρωνικη,αιχμηρη&#13;
+-παρηγορια βελτιωνει(2)&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>θεωρω πως απο το ιστορικο της ασθενους φαινεται πως ανηκει σε σχετικα υψηλο επιπεδο υγειας, το κυριο προβλημα της εντοπιζεται στο δερμα και μαλιστα οι αλοιφες κορτιζονης που χρησιμοποιουσε δεν καταπιεζαν το προβλημα</personal_medical_history>
+        <family_medical_history>βλεπουμε ενα επιβαρημενο κληρονομικο ιστορικο με αρκετους συγγενεις να υποφερουν απο σακχαρωδη διαβητη, βεβαια οι γονεις της ειναι και οι δυο πανω απο 80 ετων και μονο ο πατερας εχει καποια σοβαρη παθηση.Η ασθενης απο μονη της μου λεει πως ο μπαμπας της ειναι γερος οργανισμος και το δικαιολογει πως μεχρι τα 70 ηταν απολυτα υγιης μεχρι που εκανε το by pass παροτι καπνιζει και τρωει υπερβολικα. επισης δεν φοραει γιαλια </family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>η ασθενης μαλλον ανηκει στο πρωτο γκρουπ υγειας, υποθετουμε στο δευτερο επιπεδο, και αν ειναι ετσι μπορει να εχουμε εντονη αρχικη επιδεινωση(ενημερωσα την ασθενη)</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-βγαζει ερπη οταν καταπιεσει το θυμο της(4)&#13;
+-δεν μπορει να κλαψει, ακομα και αν ειναι στεναχωρημενη(4) και αν τελικα καταφερει να βγει το δακρυ, την πονανε τα ματια της</peculiar>
+        <intense>mind-weeping-cannot weep , though sad (4)&#13;
+skin-eruptions-psoriasis (3)&#13;
+skin-itching-scratch must until it bleeds(3)&#13;
+abdomen-pain-walking amel(3)&#13;
+mind-anger-ailments after anger(3)&#13;
+mind-fear-narrow places in(3)&#13;
+mind-fear-downward motion of(3)&#13;
+generalities-warm-agg(3)&#13;
+generalities-food-eggs desire(3)&#13;
+skin-itching-wool-agg(2)&#13;
+skin-eruption-boils(2)&#13;
+abdomen-pain-menses bef(2)&#13;
+face-eruptions-herpes-lips-about(2)&#13;
+mind-emotions-suppressed(20&#13;
+mind-haughty(2)&#13;
+mind-consolation-amel(2)&#13;
+skin-eruption-boils-periodical(1)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>οταν μελετουσα το ιστορικο αυτο θεωρησα οτι πρωταρχικο και εντονο στοιχειο ειναι η καταπιεση, ειδικα του θυμου, που μπορει να της εμφανισει σωματικα συμπτωματα.οποτε συνταγογραφησα staph η οποια ειναι και με καπιταλ στην ψωριαση</remedies_differentiation>
+      <prescription>
+        <remedy>staphysagria</remedy>
+        <potency>200cH</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-26 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>η ασθενης δεν αναφερει καμια αλλαγη, ουτε προς το καλυτερο, ουτε προς το χειροτερο. ακομα και ενα προς ενα οταν ρωτηθηκε για τα συμπτωματα δεν αωεφερε καμια αλλαγη</reaction>
+      <analysis>δεν ειναι πολυ ενθαρρυντικη αυτη η αντιδραση, μαλλον ειναι λαθος φαρμακο αλλα για να ειμαστε σιγουροι μηπως το φαρμακο θελει λιγο χρονο ακομα για να δρασει, περιμενουμε ενα μηνα ακομα και ξαναμελεταμε το ιστορικο</analysis>
+      <conclusion>δεν δινουμε φαρμακο σε αυτη τη φαση</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>--</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-26 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>η ασθενης παλι αναφερει πως δεν αλλαξε τιποτα απο πριν, δεν καταλαβε να εχει συμβει κατι</reaction>
+      <analysis>θεωρουμε το φαρμακο λαθος και ξαναμελεταμε το ιστορικο γαι να βρουμε νεο φαρμακο</analysis>
+      <conclusion>κανοντας το repertorization στο κομπας, βγαζει πρωτο φαρμακο την Puls. λογω της βελτιωσης με την παρηγορια, την επιδεινωση απο τη ζεστη καθως υαρχει και αυτη στη ρουμπρικα της ψωριασης. ακολουθει ο Borax για τον φοβο στην προς τα κατω κινηση, το Nat-m για τον ερπη, τα συναισθηματα που δεν εκφραζονται και την θλιψη χωρις κλαμα και μετα η staph.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>pulsatilla</remedy>
+        <potency>200cH 1M</potency>
+        <regimen>πρωι και βραδυ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-12-26 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>η ασθενης αναφερει πως τις πρωτες μερες ενιωθε καταβεβλημενη και κουρασμενη και οτι οι δοθιηνες αυτον τον μηνα ηταν σε εξαρση. ηταν περισσοτεροι σε αριθμο και μεγαλυτεροι σε μεγεθος απο τους αλλους μηνες. παλι παροχετευθηκαν μονοι τους.&#13;
+μετα τις πρωτες μερες αρχισε να νιωθει μεγαλυτερη ευεξια και ενεργεια . ο πονος πριν την περιοδο ηταν αρκετα ηπιοτερος. τα υπολοιπα αμεταβλητα</reaction>
+      <analysis>τωρα η αντιδραση ειναι θετικοτερη, εχουμε αρχικη επιδεινωση που ακολουθειται απο καλυτερευση. θεωρουμε πως το φαρμακο ειναι σωστο και περιμενουμε να εξαντληθει η θεραπευτικη του δραση</analysis>
+      <conclusion>δεν δινουμε φαρμακο</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

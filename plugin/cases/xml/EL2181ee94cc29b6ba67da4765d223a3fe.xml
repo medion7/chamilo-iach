@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2181ee94cc29b6ba67da4765d223a3fe</ID>
+  <patient>
+    <gender>male</gender>
+    <patient_initials>Ν.Ζ</patient_initials>
+    <age>38</age>
+    <circumstances>αγαμος, πολιτικος μηχανικος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>φαγουρα στον πρωκτο τα τελευταια 4 χρονια</origin>
+        <causative_factors>εμφανιστηκε λιγο διαστημα αφου ειχε τελειωσει την θεραπεια για κονδυλωματα(κρυοπηξια) και αλοιφες που δν θυμαται, τα κονδυλωματα ηταν περιπρωκτικα κ στο πηγουνι σε πολυ σοβαρη μορφη κ διηρκησαν 3 μηνες</causative_factors>
+        <modalities>&lt;αν μια μερα δν κανει μπανιο</modalities>
+        <occurrence_time>&lt;το βραδυ, το ξυνει πολυ στον υπνο</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>καθημερινη</appearence_frequency>
+        <pain_desc>δν αναφερει πονο μαζι με την φαγουρα, μονο τσουξιμο απ το πολυ ξυσιμο, το πρωι οταν σηκωνεται</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>zanax τα τελευταια 2 χρονια καθημερινα, παυσιπονα (κυριως nurofen για πονοκεφαλους)</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παυσιπονα ανεκαθεν για πονοκεφαλους, εχει κανει ολα τα εμβολια της παιδικης ηλικιας, και πολλες αντιβιωσεις μεχρι που εκανε αμυγδαλεκτομη το 2008</therapies_vaccination>
+          <traumas>σοκ απο την εμφανιση λεμφωματος της αδελφης του πριν 10 χρονια</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>μητερα και πατερας αρτ.πιεση και χοληστερινη και τα δυο υπο αγωγη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>γενικα ζεσταινεται </reactions>
+        <sleeping_habits>χαλια υπνος, δν χορταινει, zanax για να κοιμηθει, ονειρα κυριως σεξουαλικου περιεχομενου χωρις ονειρωξεις (πολυ σπανια)</sleeping_habits>
+        <food_modalities>απεχθεια για γαλα,φακες, παγωτο. επιθυμει κρεας πολυ , αυγα , αλατι και καφε.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>φαινεται σαν να εχει αλλου το μυαλο του οταν μιλαει, επικριτικος, αισθανεται οτι χανεται</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>τα συμπτωματα φαινονται να εχουν παει βαθυτερα σε συναισθηματικο κ νοητικο επιπεδο ειδικα μετα την αφαιρεση των αμυγδαλων</personal_medical_history>
+        <family_medical_history>αδελφη συνδρομο sjogren k λεμφωμα, μεταμοσχευση αυτογενης πριν 1 χρονο-υποτροπη κ παει για αλλογενη. γιαγια συνδρομο sjogren</family_medical_history>
+        <level_of_health>9</level_of_health>
+        <conclusion>εχει 10 χρονια να κανει πυρετο, τα συμπτωματα εχουν προχωρησει σε πιο βαθια επιπεδα</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>οταν εχει αγχος τον πιανει υπνηλια(2)</peculiar>
+        <intense>πονοκεφαλοι(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>sulphur(φαγουρα κλπ), thuja(κονδυλωματα)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>sulphur, thuja</remedies_differentiation>
+      <prescription>
+        <remedy>sulphur</remedy>
+        <potency>200ch</potency>
+        <regimen>1 cap 10 λεπτα προ του φαγητου</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>zanax τα τελευταια 2 χρονια καθημερινα, παυσιπονα (κυριως nurofen για πονοκεφαλους)</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>υπνηλια πολυ, βαρεμαρα, πιο βαθυς υπνος, 5 μερες φαγουρα πολυ, 2 μερες πονοκεφαλοι εντονοι κ ναυτια , αισθανεται τα δοντια του παγωμενα, 3 πρωτες μερες ειδε στα κοπρανα του κατι σαν ασπρα σκουληκακια κ ειχε συχνες κενωσεις</reaction>
+      <analysis>απεβαλε ο οργανισμος πιθανα παρασιτα κ ειχαμε κ επιδεινωση κ μετα ηπια καλυτερευση </analysis>
+      <conclusion>συνεχιζουμε την ιδια αγωγη</conclusion>
+      <repertorization>
+        <desc>sulphur</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>sulphur</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

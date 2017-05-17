@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6a24b4d25442ad4780444b71a6966248</ID>
+  <patient>
+    <case_date>2015-01-05 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Enter your patient's initials</patient_initials>
+    <age>5</age>
+    <circumstances>παιδι ηλικίας 5 ετών Εχει ένα μικρότερο αδερφό 2 ετών</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Η μαμά αναφέρει πως ξεκίνησαν οι ωτίτιδες μετά την γέννηση του αδερφού της Πρώταείχε κάποια επεισόδεια λοιμώξεων που περνούσαν χωρίς αντιβίωση</origin>
+        <causative_factors>Η μεγάλη ζήλεια για τον αδερφότης Διεκδικεί συνεχώς την προσοχή της μαμάς</causative_factors>
+        <modalities>&lt; στην ζέστη &gt;στην θάλασσα και στο δροσερό αέρα</modalities>
+        <occurrence_time>&lt; το βράδυ</occurrence_time>
+        <body_side>Δεξιό αυτί</body_side>
+        <appearence_frequency>Κάθε δεκαπέντε μέρες</appearence_frequency>
+        <pain_desc>Ο πόνος την κάνει να κλαίει</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Αντιβιώσεις για υποτροπιάζουσες ωτίτιδες δεξιά</conv_med_presc>
+        <lab_tests>
+          <desc>chol220</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Εχει κάνει τέσσερεις μήνες ομοιοπαθητική  Μετά έφυγε σε άλλη πόλη ο γιατρός της και δεν μπορούσε να την παρακολουθεί Εχει πάρει natr-mur, kai calc-carb</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εχει πάρει πολλές αντιβιώσεις Ερχεται τώρα γιατί δεν την καλύπτουν πια οι αντιβιώσεις και ετοιμάζεται να βάλει στα αυτιά σωληνάκι</therapies_vaccination>
+          <traumas>Ισως τραυματική εμπειρία η γέννηση του αδερφού της και η απώλεια της αποκλειστικής προσοχής της μητέρας της,στην οποία έχει μεγάλη αδυναμία</traumas>
+          <infections>_</infections>
+          <other>Είχε δυσκοιλιότητα και ίδρωνε πολύ στον αυχένα πριν πάρει  calc-carb</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας υπερλιπιδαιμία Μητέρα υγιής</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται+++</reactions>
+        <sleeping_habits>Μπρούμητα</sleeping_habits>
+        <food_modalities>Ζεσταίνεται+++Ζηλεύει τον αδερφό της+++Παίζει με τα γεννητικά της όργανα εδώ και τρείς μήνες++ Βγάζει τα πόδια έξω από τα σκεπάσματα ++Επιθυμεί σούπες++ αυγά++ παγωτά++ ,μακαρόνια++γαριδάκια-πατατάκια ++αλλά δεν της δίνει η μαμά,φοβάται το σκοτάδι++ και τα σκυλιά++</food_modalities>
+        <menstruation>_</menstruation>
+      </physical>
+      <mental_emotional>Ζηλεύει+++ ,υπερκινητική++,φοβάται το σκοτάδι++ Σε ερωτήσεις μου απαντά σαν μωρό</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εχει πάρει για δύο χρόνια πολλές κατασταλτικές θεραπείες</personal_medical_history>
+        <family_medical_history>Η γονιδιακή της επιβάρυνση είναι μόνον ως προς την υπερλιπιδαιμία</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Το παιδί έχει επιβαρυνθεί απο κατασταλτικές θεραπείες ,όμως ακόμα κάνει πυρετό ως 38 .αρα το επίπεδο υγείας του δεν είναι πολύ χαμηλό</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ενασχόληση με τα γεννητικά όργανα keynotew του hyosciamus</peculiar>
+        <intense>mind insecurity mental+++ generalities warm agg+++Mind envy+++mind jelousy between children+++Mind fear dogs++mind fear darkness++ extremitiew uncover inclination to feet++sleep position abdomen+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind insecurity mental+++ generalitieswarmagg+++ mind jelousy between children+++ mind fear dogs++ mind fear darkness++ extremitiew uncover inclination to feet++ generalities food and drinks chocolate des++, soup des++ pasta des++</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η διαφοροποίηση θα γίνει μεταξύ HYOSCIAMUS και PULSATILA Λόγω της ενασχόλησης με τα γεννητικά όργανα, του φόβου για τα σκυλιά και το σκοτάδι καθώς και της ζήλιας για τον μικρό της αδερφό θα δωθεί ως πρώτο φάρμακο ο HYOSC</remedies_differentiation>
+      <prescription>
+        <remedy>HYOSCIAMUS</remedy>
+        <potency>1M</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>_</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-07 08:00:00</followup_date>
+      <conv_med_presc>_</conv_med_presc>
+      <lab_tests>
+        <desc>chol 200</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις δύο πρωτες μέρες εμφανίζει ωταλγία δεξιά το βράδυ που όμως υποχωρεί με παρακεταμόλη Απο την πέμπτη μέρα σταματά να βάζει τα χέρια στα γεννητικά όργανα Ξυπνά με καλύτερη διάθεση το πρωί Δεν έχει ως σήμερα παραπονεθεί για το αυτί της</reaction>
+      <analysis>Η βελτίωση μετά απο μικρή αρχική επιδείνωση δείχνη και υψηλό επίπεδο υγείας ισως 4, και σωστλη επιλογή φαρμάκου</analysis>
+      <conclusion>Το φάρμακο που επιλεχθηκε ήταν το σωστό Αυτό αποδεικνυεται και απο το ότι εκτος της βελτίωσης ως προς το κύριο σύμπτωμα υποχώρησε και η ενασχόληση με τα γεννητικά της όργανα Η προσωπικότητα του παιδιού υποδηλώνει πως κάποια στιγμή πιθανώς θα χρειαστεί  pulsatila (ανασφαλής όταν κλαέι θέλει την μαμά τηςφόβος στα σκυλιά αγάπη στα παγωτά ζεσταίνεται),τώρα όμως εφόσονείναι καλά θα περιμέμω και δεν θα δώσω κανένα φάρμακο</conclusion>
+      <repertorization>
+        <desc>_</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>_</remedy>
+        <potency>_</potency>
+        <regimen>-</regimen>
+        <other_notes>Κλείνεται ραντεβού σε δύο μήνες εκτός εάν προκύψει κατι ενδιάμεσα</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-13 08:00:00</followup_date>
+      <conv_med_presc>_</conv_med_presc>
+      <lab_tests>
+        <desc>_</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά από μια εβδομάδα είναι σε άριστη κατάσταση  Αποφασίζεται να μείνει χωρίς άλλη αγωγή και να εκτιμηθεί σε δύο μήνες Ενδιάμεσα τηλεφωνική επικοινωνία</reaction>
+      <analysis>Πόλύ καλή αντίδραση στο φάρμακο απο την δεύτερη μέρα ήταν καλά</analysis>
+      <conclusion>Το δεύτερο φάρμακο ήταν το σωστό  γιατί ανταποκρίθηκε πολύ γρήγορα η ασθενής</conclusion>
+      <repertorization>
+        <desc>_</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Επανεξέταση σε δύο μήνες</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-08-07 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>chol140</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>To παιδί μετα την λήψη της pulsatila εμφανίζει ωταλγία δε και πυρετό ως 39 για μία ημέρα που υποχώρησε χωρίς αντιπυρετικό Εκτοτε είναι εντελώς ελεύθερη συμπτωμάτων</reaction>
+      <analysis>Πολύ καλή η αντίδραση με την εμφάνιση του εμπυρέτου Η χορήγηση μεγαλύτερης δυναμοποίησης εξώθησε το ανοσοποιητικό να αντιδράση και να παράξει πυρετό και έτσι να ανεβάσει το επίπεδο υγείας του παιδιού Το ότι παραμένει ως σήμερα καλά αυτό επίσης είναι μιά ένδειξη σωστής επιλογής και δυναμοποίησης</analysis>
+      <conclusion>Το παιδί παίρνοντας  το σωστό φάρμακο στην σωστή δυναμοποίηση  όχι μόνον παραμένει καλά δύο μήνες μετά αλλά η μαμά της λέει πως έχει αλλάξει και ως παιδί Τώρα είναι πιό σίγουρη για τον εαυτό της ,παιζει με τα άλλα παιδιά και δεν ψάχνει συνέχεια την μαμά της(παλιότερα πριν κοιμηθεί την ρωτούσε αν θα είναι εκεί όταν ξυπνήσει),επίσης σταμάτησε να μιλά σαν μωρό</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Το παιδί είναι πολύ καλά και δεν δίδεται τίποτα Θα επικοινωνούμε τηλεφωνικά με την μαμά και την παιδίατρο για ότι συμβεί</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

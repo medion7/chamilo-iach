@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELc8d2817aa42ef6d9e2a04f08f6f14092</ID>
+  <patient>
+    <case_date>2015-02-01 15:30:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΚΒ</patient_initials>
+    <age>40</age>
+    <circumstances>Please enter the personal circumstances&#13;
+ΠΑΝΤΡΕΜΕΝΗ ΜΕ 2 ΠΑΙΔΙΑ ΤΑ ΟΠΟΙΑ ΒΡΙΣΚΟΝΤΑΙ ΣΤΗΝ ΕΦΗΒΕΙΑ &#13;
+ΑΝΕΡΓΗ  -ΙΔΙΩΤΙΚΟΣ ΥΠΑΛΛΗΛΟΣ&#13;
+170 cm &#13;
+65 kgr&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appearts&#13;
+ΕΡΧΕΤΑΙ ΓΙΑ ΜΙΑ ΕΝΤΟΝΗ ΚΕΦΑΛΑΛΓΙΑ ΠΟΥ ΤΗΝ ΑΠΑΣΧΟΛΕΙ ΙΔΙΑΙΤΕΡΑ ΕΔΩ ΚΑΙ ΔΥΟ ΧΡΟΝΙΑ ΚΑΙ ΑΝ ΔΕΝ ΠΑΡΕΙ ΠΑΥΣΙΠΟΝΑ ΣΤΗΝ ΑΡΧΗ ΤΗΣ ΚΡΙΣΗΣ ΠΑΙΡΝΕΙ ΠΟΛΥ ΔΥΣΚΟΛΑ &#13;
+&#13;
+&#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ΕΧΕΙ ΠΑΡΑΤΗΡΗΣΕΙ ΟΤΙ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΜΕ ΤΟ ΑΓΧΟΣ  ΤΗΝ ΣΤΕΝΑΧΩΡΙΑ  ΚΑΙ ΠΡΙΝ ΑΠΟ ΤΗΝ ΕΜΜΗΝΟ ΡΥΣΗ &#13;
+ΣΤΕΝΑΧΩΡΙΕΤΑΙ  ΠΟΥ ΕΔΩ ΚΑΙ ΔΥΟ ΧΡΟΝΙΑ  ΕΧΑΣΕ  ΤΗΝ ΕΡΓΑΣΙΑ ΤΗΣ ΚΑΙ  ΠΟΥ ΟΙ ΑΠΑΙΤΗΣΕΙΣ ΣΤΟ ΣΠΙΤΙ ΟΛΟΕΝΑ ΚΑΙ ΑΥΞΑΝΟΝΤΑΙ </causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+ΧΕΙΡΟΤΕΡΕΥΕΙ ΑΠΟ ΤΗΝ ΖΕΣΤΗ , ΤΟ ΣΤΡΕΣ ΚΑΙ   ΠΡΙΝ ΤΗΝ ΠΕΡΙΟΔΟ &#13;
+ΒΕΛΤΙΩΝΕΤΑΙ ΜΕ ΤΗΝ ΔΥΝΑΤΗ ΠΙΕΣΗ ΣΤΟ ΚΕΦΑΛΙ ΚΑΙ ΜΕ ΤΗΝ ΕΝΑΡΞΗ ΤΗΣ ΠΕΡΙΟΔΟΥ &#13;
+&#13;
+</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+ΑΝ ΚΟΙΜΗΘΕΙ ΠΟΛΥ ΕΙΤΕ ΤΟ ΜΕΣΗΜΕΡΙ , ΕΙΤΕ ΤΟ ΠΡΩΙ ΣΗΚΩΝΕΤΑΙ ΜΕ ΚΕΦΑΛΑΛΓΙΑ </occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΣΥΝΗΘΩΣ ΕΙΝΑΙ ΑΡΙΣΤΕΡΑ </body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ ΕΝΤΟΝΗ ΚΕΦΑΛΑΛΓΙΑ ΣΕ ΣΥΝΔΙΑΣΜΟ ΜΕ ΤΗΝ ΕΜΜΗΝΟ ΡΥΣΗ/ ΜΕ ΤΟ ΣΤΡΕΣ / ΚΑΙ ΤΗΝ ΖΕΣΤΗ &#13;
+&#13;
+</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΕΧΟΥΜΕ ΕΝΑ ΕΚΡΗΚΤΙΚΟ ΠΟΝΟΚΕΦΑΛΟ ΠΟΥ ΣΦΥΖΕΙ ΚΑΙ ΚΑΤΑΛΗΓΕΙ ΣΕ ΜΙΑ ΗΜΙΚΡΑΝΙΑ ΣΤΗ ΑΡΙΣΤΕΡΑ ΠΛΕΥΡΑ &#13;
+ΣΥΝΟΔΟ ΜΕ ΕΞΑΨΕΙΣ ΠΡΟΣΩΠΟΥ &#13;
+</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+Η ΚΕΦΑΛΑΓΙΑ ΣΥΝΟΔΕΥΕΤΑΙ ΑΠΟ ΩΤΑΛΓΙΑ ΑΡΙΣΤΕΡΑ &#13;
+</complaint_ext>
+        <other_complaints>ΚΥΣΤΗ ΣΤΗ ΑΡΙΣΤΕΡΑ ΩΟΘΗΚΗ&#13;
+ΕΧΕΙ ΚΑΝΕΙ ΚΩΛΙΚΟ ΝΕΦΡΟΥ ΑΡΙΣΤΕΡΑ ΠΙΘΑΝΟΝ  ΑΠΟ ΝΕΦΡΟΛΙΘΙΑΣΗ  &#13;
+ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ&#13;
+ΓΑΣΤΡΟΟΙΣΟΦΑΓΙΚΗ ΠΑΛΙΔΡΟΜΙΣΗ&#13;
+ΑΙΣΘΑΝΕΤΑΙ ΠΟΛΥ ΕΞΑΝΤΛΗΜΕΝΗ  ΚΑΙ ΚΟΥΡΑΖΕΤΑΙ ΠΟΛΥ ΕΥΚΟΛΑ </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+ΥΠΕΡΤΑΣΗ ΥΠΟ ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΓΩΓΗ ΥΠΟ OLARTAN 20 mgr κάθε μέρα&#13;
+ΥΠΕΡΘΥΡΟΕΙΔΗ ΥΠΟ Τ4  75 mgr &#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>Τ4 = 14(5.1-17) TSH =1,24(0.27-4.76)&#13;
+Hb=13  Ht=40  MCV=78(76-96) MCH =30(27-33) MCHC=35(30-36) MBW=15(11-16)  PLQ=300.000 &#13;
+ GB=7050 Nευτροφιλα=76% Λεμφοκύτταρα=20% Μονο =2%  Εοσιν=2% &#13;
+σακχ=105 ουρία =50 κρεατ=0,6 χοληστερ=220( &lt;200 )  HDL = 60(&gt;40) LDL = 140( &lt;130) τριγλυ= 130(&lt;150)  SGOT = 19(10-30) SGPT= 18 (8-20)&#13;
+ουρα = Proteines = αρν   Hb =αρν   glu= αρν άλατα + , κρύσταλλοι = αρκετοί κρύσταλλοι οξαλικού ασθεστίου Πυοσφ  = 2-3 GR = 1-2 &#13;
+Hb=12 Ht=37  MCV=78(76-96) MCH =30(27-33) MCHC=34(30-36) MBW=13(11-16)  PLQ=280.000 &#13;
+ GB=8050 Nευτροφιλα=76% Λεμφοκύτταρα=20% Μονο =2%  Εοσιν=2% &#13;
+σακχ=106 ουρία =45 κρεατ=0,7 χοληστερ=224( &lt;200 )  HDL = 60(&gt;40) LDL = 1140( &lt;130) τριγλυ= 1130&lt;150)  SGOT = 15(10-30) SGPT= 15 (8-20)&#13;
+ουρα = Proteines = αρν   Hb =αρν   glu= αρν άλατα + , κρύσταλλοι = αρκετοί κρύσταλλοι οξαλικού ασθεστίου Πυοσφ  = 2-3 GR = 1-2 &#13;
+Ο ΥΠΕΡΗΧΟΣ  ΑΝΩ -ΚΑΤΩ ΚΟΙΛΙΑΣ ΕΔΕΙΞΕ ΜΙΑ ΔΙΑΤΑΣΗ  ΑΡΙΣΤΕΡΟΥ ΠΥΕΛΟΚΑΛΥΚΟΥ ΣΥΣΤΗΜΑΤΟΣ  ΧΩΡΙΣ ΕΙΚΟΝΑ ΛΙΘΙΑΣΕΩΣ ΚΑΘΩΣ  ΚΑΙ ΤΗΝ ΥΠΑΡΞΗ ΜΙΑΣ ΚΥΣΤΕΩΣ ΣΤΗΝ ΑΡΙΣΤΕΡΗ ΩΟΘΗΚΗ &#13;
+ Ο ΥΠΕΡΗΧΟΣ ΘΥΡΟΕΙΔΟΥΣ ΚΑΙ ΠΑΡΑΘΥΡΟΕΙΔΟΥΣ ΑΔΕΝΩΝ ΕΔΕΙΞΕ   ΔΙΑΧΥΤΟΥΣ  ΟΖΟΥΣ &#13;
+ΕΚΓ =ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ &#13;
+</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΕΧΕΙ ΠΑΡΕΙ ΠΡΟΗΓΟΥΜΕΝΗ ΟΜΟΙΟΠΑΘΗΤΙΚΗ ΑΓΩΓΗ </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΕΧΕΙ ΚΑΝΕΙ ΠΛΗΡΗ ΕΜΒΟΛΙΑΣΜΟ ΟΤΑΝ ΗΤΑΝ ΠΑΙΔΙ &#13;
+ΠΑΙΡΝΕΙ ΑΓΩΓΗ ΓΙΑ ΤΟΝ ΘΥΡΟΕΙΔΗ ΚΑΙ ΓΙΑ ΤΗΝ ΥΠΕΡΤΑΣΗ ΤΗΣ </therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+ΑΝΑΦΕΡΕΙ ΟΤΙ ΚΟΥΡΑΖΕΤΑΙ ΠΑΡΑ ΠΟΛΥ ΜΕ ΤΗΝ ΑΝΑΤΡΟΦΗ ΤΩΝ ΠΑΙΔΙΩΝ ΤΗΣ ΑΦΟΥ  ΟΛΑ ΠΕΡΝΑΝΕ ΑΠΟ ΤΑ ΧΕΡΙΑ ΤΗΣ ΚΑΙ ΟΤΙ ΔΕΝ ΑΝΑΓΝΩΡΙΖΟΝΤΑΙ ΟΙ ΘΥΣΙΕΣ ΠΟΥ ΚΑΝΕΙ ΓΙΑ ΤΑ ΠΑΙΔΙΑ ΤΗΣ &#13;
+</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΚΑΝΕΙ ΟΞΕΙΑ ΕΠΕΙΣΟΔΙΑ   ΑΜΥΓΔΑΛΙΤΙΔΑΣ  ΚΥΡΙΩΣ ΑΡΙΣΤΕΡΑ 2-3 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ ΜΕ ΥΨΗΛΟ ΠΥΡΕΤΟ ΕΩΣ 40 &#13;
+</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΜΗΤΕΡΑ ΜΕ ΦΛΕΒΙΚΗ ΑΝΕΠΑΡΚΕΙΑ /ΥΠΕΡΤΑΣΗ &#13;
+ΠΑΤΕΡΑΣ ΜΕ ΣΤΕΦΑΝΙΑΙΑ ΝΟΣΟ /ΥΠΕΡΛΙΠΙΔΑΙΜΙΑ </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΑΙΝΕΤΑΙ 2 ΟΠΟΥ ΧΕΙΡΟΤΕΡΕΥΕΙ ΣΤΟ ΖΕΣΤΟ ΔΩΜΑΤΙΟ ΚΑΙ  ΒΕΛΤΙΩΝΕΤΑΙ ΜΕ ΑΝΟΙΚΤΑ ΠΑΡΑΘΥΡΑ &#13;
+ΠΟΔΙΑ ΚΡΥΑ 2 &#13;
+</reactions>
+        <sleeping_habits>ΥΠΝΟΣ ΜΠΡΟΥΜΥΤΑ -ΠΛΑΙ  ΔΕΞΙΑ &#13;
+ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΞΑΠΛΩΣΕΙ ΑΡΙΣΤΕΡΑ ΓΙΑΤΙ ΦΟΒΑΤΑΙ ΜΗΝ ΠΛΑΚΩΣΕΙ ΤΗΝ ΚΑΡΔΙΑ ΤΗΣ &#13;
+ΥΠΝΟΣ ΔΙΑΚΕΚΟΜΕΝΟΣ ΚΑΙ ΤΟ ΠΡΩΙ ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΗ &#13;
+ΠΟΛΛΕΣ ΦΟΡΕΣ ΞΥΠΝΑΕΙ ΤΟ  ΒΡΑΔΥ ΜΕ  ΑΙΣΘΗΜΑ ΠΝΙΓΜΟΝΗΣ ΚΑΙ ΣΗΚΩΝΕΤΑΙ ΓΙΑ ΝΑ ΑΝΟΙΞΕΙ ΤΑ ΠΑΡΑΘΥΡΑ 2</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΙΑ ΖΥΜΑΡΙΚΑ 2 /ΑΛΚΟΟΛ 1&#13;
+</food_modalities>
+        <menstruation>ΥΠΑΡΧΕΙ ΜΙΑ  ΔΥΣΜΗΝΟΡΡΟΙΑ ΠΟΥ ΕΛΑΤΩΝΕΤΑΙ ΜΕ ΤΗΝ ΕΝΑΡΞΗ ΤΗΣ ΠΕΡΙΟΔΟΥ   </menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+1.ΛΟΓΟΡΡΟΙΑ  3      ΕΚΕΙ ΠΟΥ ΜΑΣ ΜΙΛΑΕΙ ΠΗΔΑΕΙ ΑΠΟ ΤΟ ΕΝΑ ΘΕΜΑ ΣΤΟ ΑΛΛΟ. &#13;
+ΜΑΣ ΜΙΛΑΕΙ ΓΡΗΓΟΡΑ  ΚΑΙ ΜΕ ΑΓΧΟΣ ΣΤΟ ΣΗΜΕΙΟ ΠΟΥ ΔΕΝ ΜΠΟΡΟΥΜΕ ΝΑ  ΠΑΡΑΚΟΛΟΥΘΗΣΟΥΜΕ  ΤΙ ΜΑΣ ΛΕΕΙ&#13;
+2. ΞΥΠΝΙΑ 3       ΠΑΡΑΤΗΡΕΙ ΠΟΛΥ ΚΑΛΑ ΤΙΣ ΑΝΤΙΔΡΑΣΕΙΣ ΜΑΣ &#13;
+3. ΝΕΥΡΑ 2    ΘΥΜΩΝΕΙ  ΕΥΚΟΛΑ ΜΕ ΤΑ ΠΑΙΔΙΑ ΤΗΣ  ΚΑΙ ΦΩΝΑΖΕΙ .ΟΤΑΝ ΔΕΝ ΤΗΝ ΑΚΟΥΝΕ &#13;
+ΑΝ ΠΑΛΙ  ΚΑΠΟΙΟΣ ΤΗΝ ΠΕΙΡΑΞΕΙ ΔΕΝ ΘΑ ΤΟ ΞΕΧΑΣΕΙ ΕΥΚΟΛΑ ΘΑ ΤΟΥ ΤΟ  ΦΙΛΑΕΙ ΓΙΑ ΝΑ ΤΟΝ ΕΚΔΙΚΗΘΕΙ &#13;
+4. ΚΟΙΝΩΝΙΚΗ 2 &#13;
+5. ΤΑΚΤΙΚΗ  1 ΘΕΛΕΙ ΚΑΘΕ ΠΡΑΓΜΑ ΝΑ ΕΙΝΑΙ ΣΤΗ ΘΕΣΗ ΤΟΥ ΓΙΑΤΙ ΕΤΣΙ ΕΜΑΘΕ ΑΠΟ ΤΗΝ ΟΙΚΟΓΕΝΕΙΑ ΤΗΣ    &#13;
+6. ΦΟΒΟΙ ΓΙΑ ΤΑ ΦΙΔΙΑ  2 / ΜΗΠΩΣ ΑΡΡΩΣΤΗΣΕΙ ΑΠΟ ΤΗΝ ΚΑΡΔΙΑ ΤΗΣ &#13;
+7. ΘΕΛΕΙ ΝΑ ΠΕΡΝΑΕΙ ΤΟ ΔΙΚΟ ΤΗΣ &#13;
+8. ΕΧΕΙ ΑΥΤΟΠΕΠΟΙΘΗΣΗ 2&#13;
+&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+1. ΔΥΣΠΝΟΕΙ ΑΝ ΦΟΡΑΕΙ ΣΦΙΚΤΑ ΡΟΥΧΑ ΠΟΥ ΤΗΝ ΠΙΕΖΟΥΝ ΣΤΟ ΣΤΗΘΟΣ ΚΑΙ ΣΤΟ ΛΑΙΜΟ &#13;
+2. ΑΙΣΘΗΜΑ ΠΑΛΜΩΝ ΠΟΥ ΧΕΙΡΟΤΕΡΕΥΕΙ ΟΤΑΝ ΞΑΠΛΩΝΕΙ ΑΡΙΣΤΕΡΑ &#13;
+3. ΑΥΞΗΜΕΝΗ ΕΠΙΘΥΜΙΑ ΓΙΑ ΣΕΞ &#13;
+4. ΔΥΣΜΗΝΟΡΡΟΙΑ &#13;
+5. ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ&#13;
+&#13;
+</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΚΑΝΕΙ ΚΡΙΣΕΙΣ ΥΠΕΡΤΑΣΗΣ ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΗΣ ΚΕΦΑΛΑΛΓΙΑΣ &#13;
+ΚΑΙ ΕΧΕΙ ΜΙΑ ΥΠΕΡΛΙΠΙΔΑΙΜΙΑ &#13;
+</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+ΕΠΕΙΔΗ ΚΑΝΕΙ ΕΠΕΙΣΟΔΙΑ ΛΟΙΜΩΞΕΩΝ ΜΕ ΥΨΗΛΟ ΠΥΡΕΤΟ ΑΝΗΚΕΙ ΣΤΟ 3 ΕΠΙΠΕΔΟ </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+mind acuteness 3&#13;
+mind extrovert 2 &#13;
+mind harted -revengeful 2 &#13;
+fear snakes 3 &#13;
+sleep -position side on  left impossible &#13;
+respiration difficult(dyspnoea)-sleep -awakened to avoid suffocation must be 2 &#13;
+desire pasta 2 &#13;
+</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+loquacity 3 &#13;
+mind anger 2 &#13;
+fear heart diseases 2&#13;
+generalities warm agg 3 &#13;
+generalities warm becominga agg- air in open 3&#13;
+extremities coldness foot 3 &#13;
+sleep -position right 2 &#13;
+sleep-unrefreshing morning &#13;
+desire alcohol 1&#13;
+genitalia -female-sexual desire -increased&#13;
+chest-palpitation heart lying -side left 2&#13;
+external throat -clothing agg 3 &#13;
+head pain -sides-one 3&#13;
+kidneys stones 2 &#13;
+genitalia -female-menses-painful&#13;
+&#13;
+&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Lachesis&#13;
+Lac-caninum&#13;
+Phosporus &#13;
+Veratrum album</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+1.ΚΑΙ ΤΑ ΔΥΟ Lachesis ,  Lac-caninum ΕΧΟΥΝ ΤΟ ΦΟΒΟ ΓΙΑ ΤΑ ΦΙΔΙΑ &#13;
+ΑΛΛΑ ΣΤΟ Lac-caninum Ο ΦΟΒΟΣ ΕΙΝΑΙ ΜΕΓΑΛΥΤΕΡΟΣ ΚΑΙΙ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΠΗΓΑΙΝΟΥΝ ΑΡΙΣΤΕΡΑ -ΔΕΞΙΑ -ΑΡΙΣΤΕΡΑ ΕΝΩ ΣΤΗ Lachesis ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΠΗΓΑΙΝΟΥΝ ΑΠΟ ΑΡΙΣΤΕΡΑ ΣΤΑ ΔΕΞΙΑ &#13;
+ΕΠΙΠΛΕΟΝ ΤΟ Lac-caninum ΔΕΝ ΕΙΝΑΙ  ΕΠΙΚΟΙΝΩΝΙΑΚΟ  /ΔΕΝ ΕΧΕΙ ΤΗΝ ΛΟΓΟΡΡΟΙΑ / ΔΕΝ ΒΛΕΠΟΥΜΕ ΤΗΝ ΔΥΣΠΝΟΙΑ ΠΟΥ ΤΟΝ ΞΥΠΝΑΕΙ ΤΗΝ ΝΥΧΤΑ &#13;
+2. ΑΠΟ ΤΗ ΑΛΛΗ Ο Phosporus ΕΙΝΑΙ ΕΠΙΚΟΙΝΩΝΙΑΚΟΣ ΕΧΕΙ ΤΑΧΥΚΑΡΔΙΕΣ ΟΤΑΝ ΞΑΠΛΩΝΕΙ ΑΡΙΣΤΕΡΑ ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΗΝ ΖΕΣΤΗ ΚΑΙ ΘΕΛΕΙ ΑΝΟΙΚΤΟ ΑΕΡΑ ΑΛΑΛ ΔΕΝ ΕΧΕΙ ΦΟΒΟ ΓΙΑ ΤΑ ΦΙΔΙΑ  ΔΕΝ  ΔΥΣΠΝΟΕΙ ΜΕ ΣΦΙΚΤΑ ΡΟΥΧΑ&#13;
+ΟΥΤΕ ΞΥΠΝΑΕΙ ΤΗΝ ΝΥΧΤΑ ΜΕ ΔΥΣΠΝΟΙΑ &#13;
+3. ΟΣΟ ΑΦΟΡΑ  ΤΟ Veratrum album ΕΙΝΑΙ ΕΞΥΠΝΟ /ΕΧΕΙ ΛΟΓΟΡΡΟΙΑ /ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΗΝ ΖΕΣΤΗ - ΕΧΕΙ ΚΡΥΑ ΑΚΡΑ ΚΑΙ ΑΥΞΗΜΕΝΗ ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ ΑΛΛΑ ΔΕΝ ΕΧΕΙ ΦΟΒΟ ΓΙΑ ΤΑ ΦΙΔΙΑ ΔΕΝ ΕΙΝΑΙ ΚΟΙΝΩΝΙΚΟ /ΔΕ ΔΥΣΦΟΡΕΙ ΜΕ ΤΑ ΣΦΙΚΤΑ ΡΟΥΧΑ/ΔΕΝ ΕΧΕΙ ΤΑΧΥΚΑΡΔΙΑ ΞΑΠΛΩΝΟΝΤΑΣ ΑΡΙΣΤΕΡΑ</remedies_differentiation>
+      <prescription>
+        <remedy>Lachesis</remedy>
+        <potency>200ch    -1 M</potency>
+        <regimen>200 ch ΤΟ ΠΡΩΙ &#13;
+1Μ  ΤΟ ΜΕΣΗΜΕΡΙ </regimen>
+        <other_notes>Please enter other notes&#13;
+ΤΗΣ ΛΕΜΕ ΟΤΙ &#13;
+1.ΔΕΝ ΠΡΕΠΕΙ ΝΑ ΠΙΝΕΙ  ΚΑΦΕ ΟΥΤΕ ΚΑΙ ΝΑ ΚΑΝΕΙ ΚΑΤΑΧΡΗΣΕΙΣ ΣΕ ΤΡΟΦΕΣ ΠΟΥ ΠΕΡΙΕΧΟΥΝ &#13;
+ΚΑΦΕΙΝΗ ΟΠΩΣ ΚΟΚΑ-ΚΟΛΑ &#13;
+2. ΕΑΝ ΚΑΠΝΙΖΕΙ ΠΡΕΠΕΙ ΝΑ ΠΕΡΟΡΙΣΕΙ ΤΟ ΚΑΠΝΙΣΜΑ ΓΙΑΤΙ Ο ΚΑΠΝΟΣ ΕΜΠΟΔΙΖΕΙ ΤΗΝ ΔΡΑΣΗ ΤΟΥ ΟΜΟΙΟΠΑΘΗΤΙΟΥ ΦΑΡΜΑΚΟΥ  &#13;
+3.  ΝΑ  ΜΑΣ ΞΑΝΑΕΡΘΕΙ ΣΕ ΕΝΑ ΜΗΝΑ </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-02 14:30:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΣΥΝΕΧΙΖΕΙ ΚΑΙ ΠΑΙΡΝΕΙ ΤΗΝ ΑΝΤΙΥΠΕΡΤΑΣΙΚΗ ΑΓΩΓΗ OLARTAN 20 mgr κάθε μέρα &#13;
+ΤΟ Τ4 ΓΙΑ ΤΟΝ ΘΥΡΟΕΙΔΗ  75 mgr </conv_med_presc>
+      <lab_tests>
+        <desc>Τ4 = 13 (5.1-17) TSH =2.70(0.27-4.76)</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΤΗΝ ΠΡΩΤΗ ΗΜΕΡΑ ΕΙΧΕ ΜΙΑ ΚΡΙΣΗ ΚΕΦΑΛΑΛΓΙΑΣ ΑΛΛΑ ΔΕΝ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΑΡΕΙ ΠΑΥΣΟΠΟΝΑ ΓΙΑ ΑΥΤΗΝ &#13;
+&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΜΑΣ ΕΡΧΕΤΑΙ ΜΕΤΑ ΑΠΟ ΕΝΑ ΜΗΝΑ ΚΑΙ ΜΑΣ ΛΕΕΙ ΟΤΙ &#13;
+1. ΠΑΡΑΤΗΡΕΙ ΓΕΝΙΚΑ ΜΙΑ ΒΕΛΤΙΩΣΗ ΤΩΝ ΔΥΝΑΜΕΩΝ ΤΗΣ&#13;
+2   Η ΖΕΣΤΗ ΤΗΝ ΕΠΗΡΑΖΕΙ ΛΙΓΟΤΕΡΟ &#13;
+3. ΓΕΝΙΚΑ ΗΤΑΝ  ΠΙΟ ΗΡΕΜΗ ΜΕ ΤΑ ΠΑΙΔΙΑ ΤΗΣ ΑΦΟΥ ΔΕΝ ΕΙΧΕ ΤΟΣΑ ΝΕΥΡΑ &#13;
+4.Ο ΦΟΒΟΣ ΓΙΑ ΤΑ ΦΙΔΙΑ ΠΑΡΑΜΕΝΕΙ  Ο ΙΔΙΟΣ &#13;
+5 ΟΙ ΚΡΙΣΕΙΣ ΠΟΝΟΚΕΦΑΛΟΥ ΥΠΗΡΧΑΝ ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΟΥ ΜΗΝΑ ΑΛΛΑ ΜΕ ΠΙΟ ΗΠΙΑ ΕΝΤΑΣΗ  &#13;
+ </analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΤΟ ΦΑΡΜΑΚΟ ΠΟΥ ΔΩΣΑΜΕ ΗΤΑΝ ΣΩΣΤΟ ΓΙΑΤΙ &#13;
+1. Η ΑΣΘΕΝΗΣ ΕΙΧΕ ΘΕΡΑΠΕΥΤΙΚΗ ΕΠΙΔΕΙΝΩΣΗ &#13;
+2. ΕΙΧΕ ΜΙΑ ΒΕΛΤΙΩΣΗ ΤΗΣ ΖΩΤΙΚΗΣ ΤΗΣ ΕΝΕΡΓΕΙΑΣ &#13;
+3. ΕΙΧΕ ΒΕΛΤΙΩΣΗ ΤΟΥ ΣΥΜΠΤΩΜΑΤΟΣ ΓΙΑ ΤΟ ΟΠΟΙΟ ΕΙΧΕ ΕΡΘΕΙ ΔΗΛ ΤΗΣ ΚΕΦΑΛΑΛΓΙΑΣ&#13;
+4. ΑΙΣΘΑΝΕΤΑΙ ΚΑΛΥΤΕΡΑ ΨΥΧΙΚΑ ΑΦΟΥ ΜΠΟΡΕΙ ΘΑ ΔΙΑΧΕΙΡΙΣΤΕΙ ΚΑΛΥΤΕΡΑ ΤΑ ΝΕΥΡΑ ΤΗΣ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>-- </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΗΝ ΣΥΜΒΟΥΛΕΥΟΥΜΕ ΝΑ ΣΥΝΕΧΙΣΕΙ ΝΑ  ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ ΚΑΙ &#13;
+ΤΗΣ ΠΡΟΤΕΙΝΟΥΜΕ ΝΑ  ΤΗΝ ΕΞΕΤΑΣΟΥΜΕ Σ ΕΝΑ   ΜΗΝΑ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-03 14:30:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΤΟ ΑΝΤΙΥΠΕΡΤΑΣΙΚΟ ΤΟ ΠΑΙΡΝΕΙ ΣΥΣΤΗΜΑΤΙΚΑ  ΜΕΡΑ ΠΑΡΑ ΜΕΡΑ ΚΑΘΩΣ  ΤΗΣ ΠΡΟΚΑΛΕΙ  ΥΠΟΤΑΣΗ &#13;
+ΣΥΝΕΧΙΖΕΙ ΤΟ Τ4 75 mgr </conv_med_presc>
+      <lab_tests>
+        <desc>ΕΚΑΝΕ ΕΝΑ ΥΠΕΡΗΧΟ ΚΑΤΩ ΚΟΙΛΙΑΣ ΚΑΙ ΕΔΕΙΞΕ ΜΙΑ ΕΛΑΤΩΣΗ ΤΗΣ  ΚΥΣΤΕΩΣ ΣΤΗΝ ΑΡΙΣΤΕΡΑ  ΩΟΘΗΚΗ ΑΛΛΑ ΠΑΡΑΜΕΝΕΙ Η ΔΙΑΤΑΣΗ ΤΟΥ ΠΥΕΛΙΚΑΛΙΚΟΥ ΣΥΣΤΗΝΑΤΟΣ &#13;
+ΥΠΕΡΗΧΟ ΘΥΡΟΕΙΔΟΥΣ = ΕΔΕΙΞΕ ΜΕΙΩΣΗ ΤΩΝ ΚΥΣΤΕΩΝ ΣΤΟ ΔΕΞΙΟ ΚΑΙ ΑΡΙΣΤΕΡΟ ΤΜΗΜΑ ΤΟΥ ΘΥΡΟΕΙΔΟΥΣ </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation &#13;
+ΣΥΝΕΧΙΖΕΤΑΙ Η ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ΜΕΤΑ ΑΠΟ ΤΗΝ ΠΡΩΤΗ  ΣΥΝΤΑΓΟΓΡΑΦΗΣΗ &#13;
+&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΜΑΣ ΛΕΕΙ ΟΤΙ&#13;
+1. ΔΕΝ ΣΗΚΩΜΕΤΑΙ ΤΟ ΒΡΑΔΥ ΜΕ ΑΙΣΘΗΜΑ ΠΝΙΓΜΟΝΗΣ ΚΑΙ ΕΤΣΙ ΤΟ ΠΡΩΙ ΕΙΝΑΙ ΞΕΚΟΥΡΑΣΤΗ &#13;
+2. Η ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΠΟΥ ΕΙΧΕ  ΕΧΕΙ  ΜΕΙΩΘΕΙ ΚΑΤΑ 50%&#13;
+3. ΕΧΕΙ ΗΡΕΜΗΣΕΙ ΑΚΟΜΗ ΠΕΡΙΣΣΟΤΕΡΟ ΑΠΟ ΤΑ ΝΕΥΡΑ ΤΗΣ &#13;
+4.ΟΙ ΔΥΝΑΜΕΙΣ ΤΗΣ ΕΧΟΥΝ ΑΥΞΗΘΕΙ &#13;
+5.Ο ΦΟΒΟΣ ΓΙΑ ΝΑ ΦΙΔΙΑ ΕΧΕΙ ΜΕΙΩΘΕΙ &#13;
+6.. ΜΠΟΡΕΙ ΝΑ ΞΑΠΛΩΣΕΙ ΑΡΙΣΤΕΡΑ ΧΩΡΙΣ ΝΑ ΣΚΕΦΤΕΤΑΙ ΑΝ ΘΑ ΠΑΘΕΙ ΚΑΤΙ   Η  ΚΑΡΔΙΑ ΤΗΣ&#13;
+7.  ΤΑ ΣΦΙΚΤΑ ΡΟΥΧΑ  ΔΕΝ ΤΗΣ ΠΡΟΚΑΛΟΥΝ ΠΛΕΟΝ ΤΗΝ ΔΥΣΠΝΟΙΑ ΠΟΥ ΑΙΣΘΑΝΟΤΑΝ &#13;
+8. ΖΕΣΤΑΙΝΕΤΑΙ ΛΙΓΟΤΕΡΟ &#13;
+9  Η  ΚΕΦΑΛΑΛΓΙΑ  ΤΗΣ ΕΧΕΙ ΜΕΙΩΘΕΙ ΚΑΤΑ 70%&#13;
+10. ΕΧΕΙ ΜΕΙΩΘΕΙ Η ΕΠΙΘΥΜΙΑ ΤΗΣ ΓΙΑ ΤΑ ΖΥΜΑΡΙΚΑ </analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΠΟΛΥ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ .&#13;
+Η ΕΝΕΡΓΕΙΑ ΤΗΣ ΕΧΕΙ ΑΥΞΗΘΕΙ &#13;
+ΤΟ ΚΥΡΙΟ ΠΡΟΒΛΗΜΑ ΓΙΑ ΤΟ ΟΠΟΙΟ ΕΙΧΕ  ΗΡΘΕ ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ&#13;
+ ΥΠΑΡΧΕΙ ΜΙΑ ΨΥΧΙΚΗ ΒΕΛΤΙΩΣΗ ΑΦΟΥ ΗΡΕΜΗΣΕΙ ΑΠΟ ΤΑ ΝΕΥΡΑ ΤΗΣ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΚΑΝΕΝΑ ΦΑΡΜΑΚΟ </remedy>
+        <potency>--ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>ΤΗΝ ΣΥΜΒΟΥΛΕΥΟΥΜΕ ΝΑ ΣΥΝΕΧΙΣΕΙ ΝΑ  ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΗΣ ΛΕΜΕ ΝΑ ΜΑΣ ΞΑΝΑΕΡΘΕΙ ΣΕ 2 ΜΗΝΕΣ &#13;
+</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-06-02 14:30:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΣΤΑΜΑΤΗΣΕ ΤΟ ΑΝΤΙΥΠΕΡΤΑΣΙΚΟ ΠΟΥ ΕΠΑΙΡΝΕ ΕΝΩ &#13;
+ΣΥΝΕΧΙΖΕΙ ΤΟ Τ4  75 mgr  </conv_med_presc>
+      <lab_tests>
+        <desc>Hb=13,5  Ht=40  MCV=80(76-96) MCH =29(27-33) MCHC=34(30-36) MBW=15(11-16)  PLQ=290.000 &#13;
+Τ4 = 12(5.1-17) TSH =2,24(0.27-4.76)&#13;
+Ο ΥΠΕΡΗΧΟΣ ΤΩΝ  ΝΕΦΡΩΝ  ΕΔΕΙΞΕ ΜΙΑ ΜΕΙΩΣΗΣ ΤΗΣ ΔΙΑΤΑΣΗΣ ΤΟΥ ΑΡΙΣΤΕΡΟΥ ΠΥΕΛΟΚΑΛΙΚΟΥ ΣΥΣΤΗΜΑΤΟΣ &#13;
+Ο ΥΠΕΡΗΧΟΣ ΤΟΥ ΘΥΡΟΕΘΔΟΥΣ ΕΔΕΙΞΕ ΜΙΑ ΣΤΑΘΕΡΟΤΗΤΑ ΣΤΗ ΔΙΑΜΕΤΡΟ ΤΩΝ ΚΥΣΤΕΩΝ &#13;
+&#13;
+</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΣΥΧΕΧΙΖΕΤΑΙ Η ΚΑΛΗ ΠΟΡΕΙΑ ΤΟΥ ΑΣΘΕΝΟΥΣ ΜΑΣ ΚΑΙ ΜΑΛΙΣΤΑ ΔΕΝ ΧΡΕΙΑΣΤΗΚΕ ΝΑ &#13;
+ΔΩΣΟΥΜΕ ΚΑΝΕΝΑ  ΑΛΛΟ ΦΑΡΜΑΚΟ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+1.ΕΧΕΙ ΑΝΑΚΤΗΣΕΙ ΠΛΗΡΩΣ ΤΙΣ ΔΥΜΑΜΕΙΣ ΤΗΣ &#13;
+2. ΚΟΙΜΑΤΑΙ ΚΑΛΥΤΕΡΑ ΚΑΙ  ΤΟ ΠΡΩΙ ΔΕΝ ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΗ &#13;
+3.ΕΙΝΑΙ ΚΑΛΥΤΕΡΑ ΨΥΧΙΚΑ ΑΦΟΥ ΔΕΝ ΕΧΕΙ ΤΑ ΝΕΥΡΑ ΠΟΥ ΕΙΧΕ &#13;
+4. ΔΕΝ ΥΠΟΦΕΡΕΙ  ΠΙΑ ΑΠΟ   ΚΕΦΑΛΑΛΓΙΑ ΠΡΙΝ ΑΠΟ ΤΗΝ ΕΜΜΗΝΟ ΡΥΣΗ ΚΑΙ ΕΠΗΡΕΑΖΕΤΑΙ ΛΙΓΟΤΕΡΟ ΑΠΟ ΤΗΝ ΖΕΣΤΗ &#13;
+5.ΣΠΑΝΙΑ ΥΠΟΦΕΡΕΙ ΑΠΟ ΤΗΝ ΓΑΣΤΡΟΟΙΣΟΦΑΓΙΚΗ ΠΑΛΙΔΡΟΜΗΣΗ ΚΑΙ ΤΗΝ  ΚΟΛΙΤΙΔΑ &#13;
+6. ΕΧΕΙ ΕΛΑΤΤΩΘΕΙ Η ΔΥΣΜΗΝΟΡΡΟΙΑ ΠΟΥ ΕΙΧΕ &#13;
+7. ΑΝΤΙΜΕΤΩΠΙΖΕΙ ΠΙΟ ΨΥΧΡΑΙΜΑ ΤΙΣ ΚΑΤΑΣΤΑΣΕΙΣ ΧΩΡΙΣ ΦΩΝΕΣ ΚΑΙ ΑΓΧΟΣ  &#13;
+8. ΠΑΡΑΤΗΡΟΥΜΕ ΟΤΙ ΜΑΣ ΜΙΛΑΕΙ  ΠΙΟ ΗΡΕΜΑ </analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΑΡΑ ΤΟ ΦΑΡΜΑΚΟ ΜΑΣ ΤΗΝ ΒΟΗΘΗΣΕ ΚΑΙ ΒΑΘΙΑ ΚΑΙ ΟΥΣΙΑΣΤΙΚΑ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>---</potency>
+        <regimen>Please enter regimen&#13;
+ΤΗΣ ΛΕΜΕ ΝΑ  ΣΥΝΕΧΙΣΕΙ ΝΑ ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ ΚΑΙ ΟΤΙ  ΕΑΝ ΘΕΛΕΙ ΜΠΟΡΕΙ ΝΑ ΠΙΕΙ DECAFEINE </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΗΝ ΣΥΜΒΟΥΛΕΥΟΥΜΕ ΝΑ ΜΑΣ ΞΑΝΑΕΠΙΣΚΕΥΤΕΙ ΕΑΝ ΕΠΑΝΕΛΘΟΥΝ ΠΑΛΙ ΤΑ ΣΥΜΠΤΩΜΑΤΑ </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

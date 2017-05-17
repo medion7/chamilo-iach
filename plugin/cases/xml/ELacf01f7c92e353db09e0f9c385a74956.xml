@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELacf01f7c92e353db09e0f9c385a74956</ID>
+  <patient>
+    <case_date>2014-03-05 10:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΜΜ</patient_initials>
+    <age>31</age>
+    <circumstances>Please enter the personal circumstances&#13;
+Ανύπαντρη ,σταμάτησε τις σπουδές της όταν άρχησαν οι πανικοί</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ –ΚΑΤΑΘΛΙΨΗ&#13;
+Όλα τα συμπτώματα άρχισαν το 2006 πηγαίνοντας στην Ιταλία να σπουδάσω μέσα στο αεροπλάνο .Με ανάγκασε ο μπαμπάς μου να πάω παρά την θέληση μου. Από τότε παθαίνω κρίσεις πανικού, έκλαιγα(3) συνεχώς ,είχα ταχυκαρδία, ζάλη ,τάσεις αυτοκτονίας </origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+&#13;
+Η πίεση του πατέρα της στο θέμα των σπουδών</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+&#13;
+Όταν είναι σε κόσμο και με την σκέψη ότι θα βγεί από το σπίτι της</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+Πάντα το ίδιο</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+&#13;
+-</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+&#13;
+Συνεχώς</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+&#13;
+Πονάει στην κοιλιά και διπλώνεται όταν την ποιάνει διάρροια κατά την διάρκια των πανικών</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+&#13;
+-</complaint_ext>
+        <other_complaints>Διάρροιες(3)  με πόνο(3)  και λιποθυμούσα στην τουαλέτα. Δεν βγαίνω έξω από το σπίτι ποτέ γιατί φοβάμαι μην συμβεί αυτό (Δεν ήρθε στο ιατρείο πήγα εγώ στο σπίτι της) θέλω η να πεθάνω η να ξαναγίνω   χαρούμενη όπως ήμουν. Φουσκώματα(3), Αέρια (2) Αιμορροΐδες</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+Βαρειά κατάθλιψη,πανικοί&#13;
+Από το 2006 συνεχώς Remeron ,Zoloft, Xanax  </conv_med_presc>
+        <lab_tests>
+          <desc>Δεν έχει</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+&#13;
+Εμβολιασμοί και ψυχοφάρμακα</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+&#13;
+Δεν έχει μόνο αυτό με τις σπουδές της</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+&#13;
+οχι</infections>
+          <other>Ουδέν</other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+&#13;
+Η μητέρα της δυσκοιλιότητα ,κολίτιδα, η γιαγιά καρκίνο εντέρου, ο παππούς θρομβώσεις, η θεία έμφραγμα&#13;
+Ο μπαμπάς της πίνει πολύ κρασί κάθε μέρα, ο παππούς καρκίνο &#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνομαι(3) φορώ κοντομάνικο και τον χειμώνα Ιδρώνω (3),&lt; με την ζέστη έχω τάση λιποθυμίας καταρρέω και θέλω αέρα για να αναπνεύσω.</reactions>
+        <sleeping_habits>Με τόσα ψυχοφάρμακα που πίνω κοιμάμαι αλλά έχω εφιάλτες, δεν ξυπνώ ποτέ χαρούμενη .Δεν ξέρω που με βολεύει να κοιμάμαι</sleeping_habits>
+        <food_modalities>Σοκολάτες(4) Γλυκά(3), Παγωτό σοκολάτα(3), κρέας(3), πατατάκια(3)  κρεμμύδι(3) Ψωμιά(3) &#13;
+Δεν θέλει ψάρι, λίπος&#13;
+Δυσανεξία στο γάλα ,μελιτζάνα φακές&#13;
+</food_modalities>
+        <menstruation>Η περίοδος είναι φυσιολογική όμως όλα τα συμπτώματα &lt; πριν την περίοδο και κατά την διάρκεια της περιόδου.&#13;
+Μετά την πρώτη μου σεξουαλική επαφή είχα πολλούς πόνους και πολλές κενώσεις&#13;
+</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+&#13;
+Φόβος αεροπλάνα(3), κλειστοφοβία(3), μετρό(3) ασανσέρ(3), σεισμό(3) αστραπές(3) καταιγίδες(3) σκοτάδι (2), κλέφτες(3), Αρρώστιες(3), φόβος μοναξιάς(3), αγοραφοβία(3), μικροβιοφοβία πλένω τα χέρια μου συνέχεια(3) &#13;
+Ανησυχώ για την υγεία των δικών μου(3)&#13;
+έχω κενά μνήμης&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+&#13;
+Δεν αρρώσταινα από μικρή ποτέ δεν έκανα πυρετό</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+&#13;
+Έχει προδιάθεσει μόνο στην κολίτιδα</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+Λόγω της έλλειψης πυρετού  και των πολλών ψυχοφαρμακων η πρόγνωση δεν είναι πολύ καλή</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+-</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+Φόβος αεροπλάνα(3), κλειστοφοβία(3), μετρό(3) ασανσέρ(3), σεισμό(3) αστραπές(3) καταιγίδες(3) σκοτάδι (2), κλέφτες(3), Αρρώστιες(3), φόβος μοναξιάς(3), αγοραφοβία(3), μικροβιοφοβία πλένω τα χέρια μου συνέχεια(3) &#13;
+Ανησυχώ για την υγεία των δικών μου(3)&#13;
+Ζεσταίνομαι(3) &#13;
+κρίσεις πανικού(3)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5173/vc.vithoulkascompass.com_2015-10-29_20-26-08.jpg</file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+Το φάρμακο είναι το ΑRGENTUM NITRICUM  στο ότι είναι ζεστό φάρμακο  στην μεγάλη επιθυμία για γλυκά φόβο αεροπλάνων,πανικοί,το Acon κκαι η calc carb έχουν ευαισθησία στο κρύο</remedies_differentiation>
+      <prescription>
+        <remedy>ΑRGENTUM NITRICUM </remedy>
+        <potency>30 ch</potency>
+        <regimen>Please enter regimen&#13;
+&#13;
+Eνα κάθε μέρα για ένα μήνα</regimen>
+        <other_notes>Please enter other notes&#13;
+Να συνεχίσει τα χημικά της φάρμακα και να μην πίνει καφέ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-04-10 18:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+&#13;
+Remeron ,Zoloft, Xanax  </conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+Μόλις τα πήρα είχα μεγάλη υπνηλία  .Μετά μία εβδομάδα  έφυγε το βάρος από πάνω μου έφυγε το πρήξιμο της κοιλιάς μου και δεν ξανάκανα διάρροιες. Έχω όρεξη  είμαι ποιό αισιόδοξη. Αυξήθηκε η όρεξή μου και δεν έχω τα σκαμπανεβάσματα στην ψυχολογία μου όταν μου ήρθε η περίοδο.&#13;
+Η μαμά μου ξαναείδε στα μάτια μου την Μαρία που ήμουν πριν αρρωστήσω. Βγήκα στο super market  μία φορά και ψώνισα.&#13;
+&#13;
+&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+Το ομοιοπαθητικό ήταν το  σωστό γιατί είχε από τον νόμο του Herring την υπνηλία,και την αύξηση της όρεξης Λόγω του χαμηλού επιπέδου υγείας είχε άμεση καλυτέρευση</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+&#13;
+Το φάρμακο ήταν το σωστό περιμένω να δω μεγαλύτερη βελτίωση </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>Please enter regimen&#13;
+-</regimen>
+        <other_notes>Please enter other followup notes&#13;
+-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-09-14 18:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+&#13;
+Ο ψυχίατρος μου έκοψε το Zoloft  και μου ελάττωσε το Remeron και το Xanax&#13;
+&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+-</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+&#13;
+Η περίπτωση πάει καλά  και θα είμαστε υπό παρακολούθηση</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδέν</remedy>
+        <potency>-</potency>
+        <regimen>Please enter regimen&#13;
+-</regimen>
+        <other_notes>Please enter other followup notes&#13;
+Περιμένω για να ξεκαθαρίσει το δεύτερο φάρμακο</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,196 @@
+﻿1
+00:00:19,890 --> 00:00:36,833
+Cuando está usando el sistema VES resulta más fácil, ¿Cómo desarrolló el sistema VES? El Sistema Experto Vithoulkas.
+
+2
+00:00:39,390 --> 00:00:47,140
+Les diré las reglas con las que desarrollé le VES
+
+3
+00:00:48,200 --> 00:01:07,640
+Desarrollé el Sistema experto a través de dos reglas básicas, una fue entusiasmo
+
+4
+00:01:07,933 --> 00:01:22,900
+lo segundo fue conocimiento de lo que sabía cuando trataba un caso. 2 reglas básicas.
+
+5
+00:01:32,166 --> 00:01:46,666
+Y algunos detalles ahora, la Universidad de Namur en Bélgica, me contactaron las personas de la Universidad
+
+6
+00:01:47,266 --> 00:02:00,732
+y dijeron  hemos preparado los últimos 7 años con un equipo de programadores para construir un sistema experto
+
+7
+00:02:01,133 --> 00:02:05,133
+con las bases que hemos puesto en la computadora.
+
+8
+00:02:06,866 --> 00:02:19,966
+¿Está interesado en hacer un sistema experto? Y les dije que no, no creía que alguna computadora pudiera dar el remedio correcto.
+
+9
+00:02:20,433 --> 00:02:27,566
+porque la repertorización plana con la mayoría de los remedios, etc, no funciona.
+
+10
+00:02:28,200 --> 00:02:37,233
+Ellos dijeron, no. No es así, vamos a programar la forma en la que piensa y la pondremos en la computadora.
+
+11
+00:02:37,866 --> 00:02:52,999
+Yo dije ¿qué es esto? Ponen mi cerebro ahí y luego lo venden ¿eh? Pero está bien, si funciona
+
+12
+00:02:54,033 --> 00:03:02,966
+les daré la información, ¿qué necesitan saber? y había un equipo de programadores y comenzaron a hacer preguntas.
+
+13
+00:03:03,833 --> 00:03:12,699
+¿Qué haría en este caso? ¿Qué haría en tal caso? y yo les decía ¿cómo piensa? ¿Qué es esto ? ¿Qué es lo otro? etc.
+
+14
+00:03:12,933 --> 00:03:27,766
+Yo les daba las respuestas y escribían algunas ecuaciones matemáticas y yo decía ¿Qué están escribiendo? y decían, hable, díganos.
+
+15
+00:03:28,633 --> 00:03:40,133
+¿Por qué no dió Sulphur en este caso que cubría la mayoría de los síntomas y dió Lachesis que cubría menos? y les expliqué.
+
+16
+00:03:40,533 --> 00:03:50,266
+Y después en cierto momento entendí más o menos lo que querían y esto sucedió por una año y medio.
+
+17
+00:03:50,800 --> 00:04:01,800
+Y al final para acelerar el proceso les dije, ok. después de todo, les daré las reglas.
+
+18
+00:04:03,400 --> 00:04:14,866
+Den esto y lo otro y les di todas las reglas que les tomó un año y medio y me piden les de ahora.
+
+19
+00:04:15,266 --> 00:04:24,899
+Después de haberles dado todas las reglas, honestamente no podía recordar yo mismo que fue lo que dije todo este tiempo.
+
+20
+00:04:25,200 --> 00:04:35,166
+No era posible recordar todas las reglas pero ellos las habían escrito ¿dónde estaban ahora las pruebas
+
+21
+00:04:35,950 --> 00:04:47,566
+Si este era un sistema experto o no?. Después de terminar me pidieron que trajera 3 casos para probarlo de los que había tratado.
+
+22
+00:04:48,566 --> 00:04:59,966
+Un caso de neuralgia del trigémino donde dí Verbascum. El doctor me había dado 25, 30, síntomas
+
+23
+00:05:00,466 --> 00:05:14,999
+Prescribí Verbascum en 3 keynotes, no puedo recordar ahora, pero tomé este caso y dije no es posible que la computadora me lo diga
+
+24
+00:05:15,300 --> 00:05:26,800
+que elija el remedio Verbascum porque había 17 remedios antes de Verbascum y tomé un caso de Nux vomica y un caso de Natrum muriaticum.
+
+25
+00:05:27,133 --> 00:05:36,133
+Que fueron escogidos mayormente en keynotes , no porque fueran los primeros en la repertorización.
+
+26
+00:05:37,900 --> 00:05:50,966
+Pensé en el caso de Natrum muriaticum que tencía cerca de 40 síntomas e intentaron ponerlos en la computadora, en aquel entonces
+
+27
+00:05:51,266 --> 00:06:00,199
+era una computadora como esta puerta y la computadora casi se averiaba por los cálculos
+
+28
+00:06:00,500 --> 00:06:12,700
+ean demasiados para llevar a cabo por lo que se averió y se detuvo y el profesor y los estudiantes de la Universidad Namur que la hicieron estaban
+
+29
+00:06:13,100 --> 00:06:24,000
+ahí, los asociados, el hombre que financió el proyecto y yo junto con los programadores, se vino abajo.
+
+30
+00:06:24,433 --> 00:06:35,199
+Fueron al siguiente cuarto y abrieron la computadora más grande y la computadora dice este es un caso de Natrum muriaticum.
+
+31
+00:06:36,400 --> 00:06:47,030
+Yo dije, ok, tal vez traje un caso muy fácil.
+
+32
+00:06:51,633 --> 00:07:02,166
+Les dije, ok, pongan este caso, escribí los síntomas del caso, los pusieron, elegí Verbascum, no era posible.
+
+33
+00:07:03,633 --> 00:07:07,633
+La computadora dice, el remedio es Verbascum
+
+34
+00:07:07,866 --> 00:07:18,632
+Yo no podía creerlo ¿cómo era posible? de 32 sínotmas ahí sólo 5 eran de Verbascum.
+
+35
+00:07:19,366 --> 00:07:23,366
+¿Cómo era posible que esta computadora supiera el remedio?
+
+36
+00:07:26,633 --> 00:07:37,533
+Y por mientras que el segundo remedio era encontrado, el profesor le dijo a la secretaria vaya y traiga champagne.
+
+37
+00:07:38,766 --> 00:07:51,699
+Para celebrar, porque no creía que de 3 casos 2 eran correctos. Pusimos el tercer caso que era Nux vomica y dijo Nux vomica es el caso.
+
+38
+00:07:52,300 --> 00:07:57,966
+con gran certeza porque teníamos la certeza de los valores que todavia están ahí.
+
+39
+00:07:59,633 --> 00:08:18,433
+Hubo mucha emoción, etc y el profesor dijo nunca podía creer que el sistema funcionara porque si hubiera algún error en cualquier lugar
+
+40
+00:08:18,733 --> 00:08:30,799
+los calculos estarían tergiversadon, lo que prueba que el programa era exacto, mi pensamiento en éste repertorio.
+
+41
+00:08:32,200 --> 00:08:43,466
+No es fácil duplicar y darles todas las reglas, lo que puedo darles es lo que en año y medio hicimos juntos y dije ok.
+
+42
+00:08:43,566 --> 00:08:49,950
+Si se las arreglan para duplicar mi cereblro pueden venderlo.
+
+43
+00:08:56,233 --> 00:09:13,933
+Pero aún lo que trabajamos en el 90 era diferente de toda la basura  que se ha añadido, han puesto su imaginación en todos estos remedios
+
+44
+00:09:14,166 --> 00:09:17,700
+y por supuesto el sistema está de cabeza.
+
+45
+00:09:20,033 --> 00:09:25,233
+¿Qué opina de los puntos Kunsly de en el repertorio?
+
+46
+00:09:27,466 --> 00:09:43,599
+¿Cuáles puntos? En el repertorio de Synthesis aparece un punto rojo que es una confirmación de Kunsly, que es el síntoma.
+
+47
+00:09:43,933 --> 00:09:56,633
+Cuando ves el punto rojo significa que es una confirmación. Ok. Me preguntan si la información de Kunsly es confiable?
+
+48
+00:09:56,966 --> 00:10:10,266
+Si Kunsly fue una de esas personas que practicó la homeopatía unicista y fue capaz de dar algunas confirmaciones o adiciones.
+
+49
+00:10:10,766 --> 00:10:14,766
+Fue un muy buen homeopata.
+

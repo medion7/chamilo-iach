@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL86162c86d5c25b81503c319a4b2e43fd</ID>
+  <patient>
+    <case_date>2014-09-10 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α.Κ.</patient_initials>
+    <age>46</age>
+    <circumstances>Διαζευγμένη, δημ. υπάλ/λος, 2 παιδιά, 1,75 ύψος, 82 kg</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πριν τον χωρισμό,  υπήρχαν πολλά προβλήματα με το σύζυγο. Από τότε, άρχισε να έχει νεύρα2 και να ανεβάζει πίεση.  Με το χωρισμό, αυξήθηκαν .Εμφανίζει ημικρανίες πολύ δυνατές, 2-3 φορές το μήνα.   Αρκετές φορές κάνει ταχυκαρδία2</origin>
+        <causative_factors>Έχουν αρχίσει και προκλιμακτηριακά φαινόμενα, εδώ και 2 χρόνια.</causative_factors>
+        <modalities>&gt;με τον ερχομό της Ε.Ρ.     &lt;πριν έρθει η Ε.</modalities>
+        <occurrence_time>&lt;το πρωί1</occurrence_time>
+        <body_side>Κυρίως αριστερά, αλλά κάποιες φορές ,από αριστερά -δεξιά</body_side>
+        <appearence_frequency>Ημικρανίες πολύ δυνατές, 2-3 φορές το μήνα.</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>av:σφιχτά στο λαιμό3,           έκανε 3 φορές κρίσεις πανικού, το τελευταίο 8μηνο          </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Capoten για την πίεση,  Lexotanil για τον ύπνο,  Imigran για τις ημικρανίες</conv_med_presc>
+        <lab_tests>
+          <desc>Υπέρταση :17/9,5</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Είχε πάρει αντιβίωση για ακμή και κάποιες αμυγδαλίτιδες στο παρελθόν.</therapies_vaccination>
+          <traumas>Χωρισμός      Χολοκυστεκτομή πριν 4χρόνια</traumas>
+          <infections>Κάποιες ιώσεις.</infections>
+          <other>Σπάζουν τα νύχια2</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας:Ca παχέος εντέρου       Μητέρα:Κατάθλιψη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται 2 και τον τελευταίο χρόνο έχει εξάψεις2</reactions>
+        <sleeping_habits>Δεν την ξεκουράζει ο ύπνος           Κυρίως δεξιά2   </sleeping_habits>
+        <food_modalities>Des:ζυμαρικά2:                 Av:αλκόολ2</food_modalities>
+        <menstruation>Αρκετά προεμμηνορισιακά προβλήματα όπως ,πoνοκέφαλος που &gt;2όταν αρχίσει η ροή,    πόνος στη μέση1,  </menstruation>
+      </physical>
+      <mental_emotional>Νεύρα2   άγχος υγείας2,    άγχος υγείας δικών της3       ζηλεύει2,       φλυαρεί3               </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εμφανίζει οξέα,  χωρίς υψηλό πυρετό   Υπάρχουν κάποια προβλήματρα υγείας ,που δεν εμποδίζουν τη θεραπεία μας.</personal_medical_history>
+        <family_medical_history>Και οι γονείς ,έχουν προδιαθέσεις</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Υπάρχουν κάποια προβλήματρα υγείας, αλλά σίγουρα, μπορούμε  να έχουμε &gt;</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Κάποιες φορές, τα συμπτώματα της αρχίζουν από αριστερά και πηγαίνουν δεξιά2   Δεν μπορεί, τα σφιχτά στο λαιμό3</peculiar>
+        <intense>Εξάψεις2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Generalities - Hypertension2               Generalities - cold - agg1         Face - heat - flashes2          Mind - fear - snakes of3       Mind - loquacity3                 Mind - jealusy3     Sleep - unrefreshing2          Sleep - sleeplessness2         Generalities - food and drinks - pasta - des.2                   </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>-</remedies_differentiation>
+      <prescription>
+        <remedy>Lachesis</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Tην πρώτη μέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-10-14 18:00:00</followup_date>
+      <conv_med_presc>Capoten για τη πίεση,     Lexotanil για τον ύπνο</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την 3η ημέρα ,έκανε ημικρανία πολύ δυνατή. Μετά τη δέκατη ημέρα κοιμάται καλύτερα και η πίεση της ρυθμίζεται καλά με το Capoten.</reaction>
+      <analysis>Έκανε αρχική επιδείνωση και τώρα βελτιώνεται. </analysis>
+      <conclusion>Περιμένω δεν αλλάζω ,δεν επαναλαμβάνω.</conclusion>
+      <repertorization>
+        <desc>Δεν άλλξε εικόνα.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Για κάποιο λόγο, έχω αποθηκεύσει 4 φορές τα επόμενα Follow up .Δείχνει ότι αποθηκεύτηκαν και μετά όταν το ανοίγω δεν εμφανίζονται!!!</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-17 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

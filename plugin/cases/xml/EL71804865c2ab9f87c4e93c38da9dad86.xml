@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL71804865c2ab9f87c4e93c38da9dad86</ID>
+  <patient>
+    <case_date>2015-07-07 11:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Κ.</patient_initials>
+    <age>41</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ ΜΕ ΔΥΟ ΠΑΙΔΙΑ. ΕΠΑΓΓΕΛΜΑ ΓΥΜΝΑΣΤΡΙΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΛΛΕΡΓΙΚΗ ΒΡΟΓΧΙΤΙΔΑ ΑΠΟ 3 ΕΤΩΝ, ΔΥΣΠΝΟΙΑ</origin>
+        <causative_factors>ΚΛΗΡΟΝΟΜΙΚΟΤΗΤΑ</causative_factors>
+        <modalities> ΚΑΛΥΤΕΡΕΥΣΗ  ΜΕ ΑΕΡΑ ,ΥΓΡΑΣΙΑ</modalities>
+        <occurrence_time>&lt;ΒΡΑΔΥ    &gt; ΤΟ ΠΡΩΙ</occurrence_time>
+        <body_side>ΑΡΙΣΤΕΡΑ</body_side>
+        <appearence_frequency>&#13;
+5 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ</appearence_frequency>
+        <pain_desc>&#13;
+ΠΑΡΟΞΥΣΜΙΚΟΣ ΒΗΧΑΣ ΓΙΑ 30 ΜΙΝ</pain_desc>
+        <complaint_ext>ΟΧΙ</complaint_ext>
+        <other_complaints>ΙΣΧΥΑΛΓΙΑ ΜΕ ΕΠΕΚΤΑΣΗ ΣΤΟ ΑΡΙΣΤΕΡΟ ΠΟΔΙ (2 ΠΕΡΙΣΤΑΤΙΚΑ: 26 ΧΡΟΝΩΝ ΚΑΙ 37 ΜΕ ΔΙΑΡΚΕΙΑ 6 ΜΗΝΩΝ ΚΑΘΕ ΦΟΡΑ)</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>SINGULAIR, AERIUS</conv_med_presc>
+        <lab_tests>
+          <desc>ΛΕΥΚΑ=8573&#13;
+HT=37.4&#13;
+PLT=248000&#13;
+BIOXHMIKA ΟΛΑ Κ.Φ.&#13;
+RO ΘΩΡΑΚΟΣ=ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΧΙ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>&#13;
+ΟΛΑ ΤΑ ΕΜΒΟΛΙΑ</therapies_vaccination>
+          <traumas>ΑΠΩΛΕΙΑ ΑΓΑΠΗΜΕΝΟΥ ΣΥΓΓΕΝΙΚΟΥ ΠΡΟΣΩΠΟΥ&#13;
+&#13;
+</traumas>
+          <infections>&#13;
+ΚΑΜΙΑ</infections>
+          <other> 8 ΙΝΩΜΥΩΜΑΤΑ</other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ ΜΕ HASSIMOTO&#13;
+MANA ME ΥΠΟΘΥΡΕΟΕΙΔΙΣΜΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt; ΑΠΟ ΖΕΣΤΗ ΣΤΟ ΚΡΥΟ</reactions>
+        <sleeping_habits>ΑΝΑΣΚΕΛΑ ΚΑΛΗ ΠΟΙΟΤΗΤΑ ΥΠΝΟΥ</sleeping_habits>
+        <food_modalities>ΑΠΕΧΘΕΙΑ ΣΤΑ ΜΗΛΑ,ΠΕΠΟΝΙ&#13;
+ΕΠΙΘΥΜΙΑ ΓΙΑ ΣΟΥΠΕΣ</food_modalities>
+        <menstruation>ΔΥΣΜΗΝΟΡΡΟΙΑ (ΠΡΙΝ ΑΠΟ ΤΗ ΓΕΝΝΗΣΗ ΤΩΝ ΠΑΙΔΙΩΝ), ΚΥΚΛΟΣ ΦΥΣΙΟΛΟΓΙΚΟΣ, ΜΕΓΑΛΕΣ ΑΙΜΟΡΡΑΓΙΕΣ</menstruation>
+      </physical>
+      <mental_emotional>ΕΞΑΙΡΕΤΙΚΑ ΚΑΛΗ ΜΝΗΜΗ&#13;
+ΕΣΩΣΤΡΕΦΗΣ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΕΛΕΥΘΕΡΟ</personal_medical_history>
+        <family_medical_history>ΕΚΤΟΣ ΑΠΟ ΘΥΡΕΟΕΙΔΗ ΕΛΕΥΘΕΡΟ ΟΙΚΟΓΕΝΙΑΚΟ ΙΣΤΟΡΙΚΟ</family_medical_history>
+        <level_of_health>11</level_of_health>
+        <conclusion>&#13;
+ΟΧΙ ΒΑΡΙΑ ΠΡΟΓΝΩΣΗ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΕΠΙΘΥΜΙΑ ΓΙΑ ΑΛΑΤΙ 2&#13;
+</peculiar>
+        <intense>&#13;
+ΞΗΡΟΣ ΒΗΧΑΣ ΩΣ ΤΟ ΚΑΛΟΚΑΙΡΙ 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ΝΑTRIUM PHOSPΗORICUM, NATRUM MURIATICUM</remedies_differentiation>
+      <prescription>
+        <remedy>N.MUREATICUM</remedy>
+        <potency>1Μ, 200CH</potency>
+        <regimen>1M ΓΙΑ ΜΙΑ ΜΕΡΑ&#13;
+200 CH ΓΙΑ 45 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΣΥΣΤΑΣΗ ΓΙΑ ΕΠΑΝΕΞΕΤΑΣΗ ΜΕΤΑ ΑΠΟ 6 ΜΗΝΕΣ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-01-04 10:00:00</followup_date>
+      <conv_med_presc>1Μ NATRUM MURIATICUM ΑΠΑΞ</conv_med_presc>
+      <lab_tests>
+        <desc>ΟΛΕΣ Κ.Φ.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΑΜΥΔΑΛΥΤΙΔΑ ΜΕ ΥΨΗΛΟ ΠΥΡΕΤΟ</reaction>
+      <analysis>ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΕΜΦΑΝΙΣΤΗΚΑΝ 2 ΜΗΝΕΣ ΜΕΤΑ ΤΗ ΘΕΡΑΠΕΙΑ&#13;
+&#13;
+MERCURY 200CH, 1X3 ΓΙΑ 3 ΗΜΕΡΕΣ. ΣΕ 4 ΗΜΕΡΕΣ ΙΑΣΗ ΤΗΣ ΑΜΥΓΔΑΛΙΤΙΔΑΣ</analysis>
+      <conclusion> ΟΙ ΚΡΙΣΕΙΣ ΔΥΣΠΝΟΙΑΣ ΚΑΙ ΠΑΡΟΞΥΣΜΙΚΟΥ ΒΗΧΑ ΕΞΑΦΑΝΙΣΤΙΚΑΝ ΕΝΤΕΛΩΣ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>NATRUM MURIATICUM</remedy>
+        <potency>1M</potency>
+        <regimen>ΑΠΑΞ</regimen>
+        <other_notes>ΜΕΓΑΛΗ ΒΕΛΤΙΩΣΗ ΣΤΟ MENTAL ΚΑΙ ΣΤΟ ΕΜΟΤΙΟΝ </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

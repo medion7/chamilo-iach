@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL061d266c2643e73b0da2d2c1fe6bbcf6</ID>
+  <patient>
+    <case_date>2012-01-21 14:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>λπ</patient_initials>
+    <age>38</age>
+    <circumstances>ανυπαντρος,οδοντιατρος,δυο αδελφια</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αλλεργικη ρινιτιδα:&#13;
+-ολο τον χρονο&#13;
+-απο μικροσ</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>&lt;ρευματα&#13;
+&gt;το βραδυ στον υπνο</modalities>
+        <occurrence_time>&gt;βραδυ,στον υπνο</occurrence_time>
+        <body_side>ρινιτιδα(δ,α)</body_side>
+        <appearence_frequency>ολο τον χρονο</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>-λαιμοσ('μμ ενοχλει ο λαιμοσ')</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>aerius,medrol(αλλεργια)</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-θεραπεια ακμης στο προσωπο κ πλατη&#13;
+-</therapies_vaccination>
+          <traumas>-12χρονων:&#13;
+νομιζα οτι θα πεθανει ο πατερασ μου κ πιεστηκα.νομιζα οτι θα αναλαβω ολεσ τισ ευθηνεσ εγω κ επρεπε να γινω τελειοσ κ υπευθηνοσ κ ημουν.&#13;
+-πριν 5 χρονια:&#13;
+ψυχοθεραπεια για 2 χρονια.:&#13;
+δεν μπορουσα να πω την γνωμη μου κ να την εκφρασω.&#13;
+δεν μπορουσα να αρνηθω κ ελεγα συνεχεια 'ναι'.</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας:bypass(57),σ.δ.&#13;
+μητερα:υπερταση</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>-θιγομαι ευκολα αλλα δεν το δειχνω,τα κραταω μεσα μου.&#13;
+-πολυ κοινωνικος&#13;
+-πολυ ευκολα παρεεσ.μπαινω κατευθειαν στην παρεα.&#13;
+-ψυχη της παρεας&#13;
+-τα προσωπικα μου τα ξεροτν 5 ανθρωποι.αν γνωρισω καινουργιου ανθρωπους σιγα-σιγα ανοιγομαι.&#13;
+-φοβιες:1.θανατο,2.υψος,3.φιδια,4.αεροπλανα.&#13;
+-μεταφυσικες ανησυχιες.&#13;
+-desire ταξιδια&#13;
+-ηρεμος,υπευθηνος,ωριμος.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-αλλεργικη ρινιτιδα &lt;κρυο,&lt;ρευματα,&gt;το βραδυ που κοιμαμαι&#13;
+  α/ισταμινικα(aerius),κορτιζονη(medrol)</personal_medical_history>
+        <family_medical_history>πατερας:bypass(57),σ.δ.&#13;
+μητερα:υπερταση</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>phos,&#13;
+lyc,&#13;
+natr-mur</remedies_differentiation>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>200ch</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>το πρωι νηστικοσ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2012-03-04 13:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ψυχικα&gt;80%:πιο ηρεμοσ,&gt;αγχοσ,πιο δυνατοσ να πω την γνωμη μου,απολαμβανω την ζωη πιο ηρεμα,δεν θελω να ειμαι τοσο τελειοσ.&#13;
+αλλεργια:&gt;80%</reaction>
+      <analysis>το φαρμακο εχει δραση σρο mental k emotional level.εχει φτασει σε βαθυ επιπεδο.</analysis>
+      <conclusion>το φαρμακο εχει δρασει.ο ασθενησ ειναι κατα 80% καλυτερα.&#13;
+δεν δινουμε καινουργια συνταγη.&#13;
+περιμενουμε κ παρακολουθουμε την περιπτωση.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

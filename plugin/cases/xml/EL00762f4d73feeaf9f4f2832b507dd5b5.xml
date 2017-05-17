@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL00762f4d73feeaf9f4f2832b507dd5b5</ID>
+  <patient>
+    <case_date>2015-01-30 10:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Χ.Α</patient_initials>
+    <age>20</age>
+    <circumstances>Φοιτητής 20 χρονών.   &#13;
+ΛΗΨΗ ΙΣΤΟΡΙΚΟΥ  30/1/15&#13;
+&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ακμή στο πρόσωπο(3) και στη πλάτη.Το πρόσωπο είναι λιπαρό(3) όπως και τα μαλλιά</origin>
+        <causative_factors>Η ακμή εμφανίσθηκε στα 12 προφανώς απο ορμονικές αιτίες</causative_factors>
+        <modalities>Η ακμή είναι καλύτερα το καλοκαίρι με τα θαλασσινά μπάνια και χειροτερεύει όταν αγχώνεται η θυμώνει.Επίσης μετά το ξύρισμα το δέρμα του τον καίει</modalities>
+        <occurrence_time>Ως ανωτέρω</occurrence_time>
+        <body_side>Πλάτη , πρόσωπο</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Στομαχικά προβλήματα δηλαδή δυσπεψία και κάψιμο (2)</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμμία</conv_med_presc>
+        <lab_tests>
+          <desc>Φυσιολογικές</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Καμμία</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Για την ακμή δεν έχει πάρει φάρμακα .Μόνο κομπρέσες φυτικών εκχυλισμάτων που μόνος του μάθαινε να χρησιμοποιεί.</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Η μητέρα έχει ημικρανίες</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται(3) και έχει κρύα πόδια(2)   </reactions>
+        <sleeping_habits>Κοιμάται αριστερά</sleeping_habits>
+        <food_modalities>Επιθυμεί  πορτοκάλια(3) ,ξυνά φρούτα(3) , λεμόνι(2), γάλα(2), μπαχαρικά(2),κρέας χωρίς λίπος(2)</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Απο παιδί είχε χαρούμενη διάθεση(2), του αρέσουν τα έξυπνα ανέκδοτα, πάντα έχει ένα θέμα εξωσχολικό να ασχολείται (μικρός ήξερε τα πάντα για τους δεινόσαυρους, τώρα διαβάζει για τα ζώδια, αστρολογία). Είναι ψηλός (1.90) και με ωραία χαρακτηριστικά για αυτό ίσως δεν τον ένοιαζε ιδιαίτερα για την ακμή. Πιο πολύ τον νοιάζει η ακμή στην πλάτη που για αυτόν είναι περίεργο. Είναι εξωστρεφής (2) και επικοινωνιακός (2) με ευγενικούς τρόπους, &lt;&lt; σε σκλαβώνει&gt;&gt;. Πάντα ήταν συνεπής με τις υποχρεώσεις του και τώρα σαν φοιτητής δεν χρωστά κανένα μάθημα. Με την τάξη προσπαθεί για τα βασικά. Φοβάται το ύψος. &lt;&lt;του σφίγγονται τα σπλάχνα&gt;&gt; (2). Τρώει τα νύχια (2). Έχει πάντα μαζί του μαντηλάκια οινοπνεύματος για να καθαρίζει τα χέρια του πριν φάει.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Γερός οργανισμός,αρρωσταίνει σπάνια και με υψηλό πυρετό.Επίπεδο υγείας 2-3</personal_medical_history>
+        <family_medical_history>Ο πατέρας είχε ακμή ,άρα υπάρχει κληρονομική προδιάθεση</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Λόγω του υψηλού επιπέδου υγείας και της σχετικά καθαρής εικόνας φαρμάκου η πρόγνωση είναι καλή.Περιμένουμε αρχική επιδείνωση της ακμής</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Ζεσταίνεται(3) ,δίψα(3) ,λιπαρότητα προσώπου(3) ,επιθυμεί ξυνά(3),φόβος ύψους(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND BITING&#13;
+nails&#13;
+2&#13;
+MIND CHEERFUL,&#13;
+gay, happy 2&#13;
+MIND COMMUNICATIVE&#13;
+2&#13;
+MIND FEAR&#13;
+high&#13;
+places, of 3&#13;
+HEAD HAIR&#13;
+greasy&#13;
+3&#13;
+FACE ERUPTIONS&#13;
+acne&#13;
+3&#13;
+FACE GREASY&#13;
+3&#13;
+FACE PERSPIRATION&#13;
+2&#13;
+STOMACH PAIN&#13;
+burning&#13;
+2&#13;
+STOMACH THIRST&#13;
+3&#13;
+STOOL ODOR&#13;
+offensive&#13;
+2&#13;
+EXTREMITIES COLDNESS&#13;
+Foot&#13;
+2&#13;
+SLEEP POSITION&#13;
+side,&#13;
+on left&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS lemons&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS milk&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS oranges&#13;
+desire&#13;
+3&#13;
+GENERALITIES FOOD&#13;
+and DRINKS sour&#13;
+food, acids desire&#13;
+3&#13;
+GENERALITIES FOOD&#13;
+and DRINKS spices&#13;
+desire&#13;
+2&#13;
+GENERALITIES SEASHORE,&#13;
+at the amel.&#13;
+2&#13;
+GENERALITIES WARM&#13;
+agg.&#13;
+3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η δ.δ πρέπει να γίνει μεταξύ sulphur - med. &#13;
+Για το med.συνηγορούν οι διατροφικές επιθυμίες και η βελτίωση στη θάλασσα ενώ για το sulphr το κύριο πρόβλημα,τα στομαχικά προβλήματα,ο φόβος ύψους,η δυσοσμία,η σωματική διάπλαση και τα m-e με την ενασχολησή του με διάφορα θέματα,τη χαλαρή τάξη και το ότι θέλει να καθαρίζει συχνά τα χέρια του.Το sulph. καλύπτει την περίπτωση ,ίσως αναπτύξει εικόνα med. στη συνέχεια.</remedies_differentiation>
+      <prescription>
+        <remedy>SULPHUR</remedy>
+        <potency>2OOCH</potency>
+        <regimen>1 κάψουλα</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-20 09:00:00</followup_date>
+      <conv_med_presc>-1ο FOLLOW UP 20/3/15</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις πρώτες 15 μέρες υπήρξε μια επιδείνωση της ακμής και ο νεαρός ήταν εκνευρισμένος και ευέξαπτος.Μετά 1μήνα η ακμή είχε θεραπευτεί τελείως και ο ίδιος είναι ευτυχής.Τα στομαχικά προβλήματα σταμάτησαν μετά τις 10 πρώτες μέρες</reaction>
+      <analysis>Η επιδείνωση ήταν αναμενόμενη από την 1η μέρα.Ισως ,λόγω επιπέδου υγείας ,να έπρεπε να διαρκέσει λιγότερο.Τα στομαχικά προβλήματα θεραπεύτηκαν πρώτα επειδή ανήκουν σε βαθύτερο επίπεδο.</analysis>
+      <conclusion>Δεν δίνουμε φάρμακο</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>---</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-10-15 09:00:00</followup_date>
+      <conv_med_presc>-2o FOLLOW UP 15/10/15</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μέχρι σήμερα 15/10/15 δηλαδή 9 μήνες μετά ο νεαρός έχει καθαρό δέρμα</reaction>
+      <analysis>Λόγω υψηλου΄επιπέδου υγείας,1 δόση  sulph. 200ch ισορρόπησε τα ορμονικά προβλήματα</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

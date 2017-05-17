@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6ae2657b910a72be543f4e986b7550e4</ID>
+  <patient>
+    <case_date>2014-01-06 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Γ.Ο.</patient_initials>
+    <age>0</age>
+    <circumstances>Ελευθερη</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ακμη</origin>
+        <causative_factors>Ψυχολογική πιεση</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Πονοκέφαλο που ξεκινάει από μέτωπο και φτανει στα μάτια , καλύτερα με πιεση, κινείται πολύ, τα δινει όλα και μετά κοιμάται για μερες, αερια, μυρμηγκιες στα χέρια, σπασμένες πατούσες, πολλές ελιες</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα εμβολια, αντιισταμινικά για 3 χρονια</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>Πυρετο πριν 10 χρονια( έντερο)</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατέρας ημικρανιες</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει, χέρια και πόδια παγωμένα,π αντα κάλτσες, καλύπτει πάντα τον λαιμό γιατί κρυωνει</reactions>
+        <sleeping_habits>Μιλάει και γελάει στον ύπνο, Μικρη υπνοβατουσε, ξυπνάει πολύ δύσκολα με νευρα/επιθετικη, κοιμάται βαρια, κοιμάται δεξιά , αριστερά όχι για να μην πλακώσει την καρδια</sleeping_habits>
+        <food_modalities>Επιθυμεί ψάρια(2), γλυκα(3), παγωτά(2), πεπονι, ξινά(1)&#13;
+Χειρότερα με το κρεμμύδι&#13;
+Πίνει πολλούς καφέδες, παλιότερα έπινε πολύ αλκοολ</food_modalities>
+        <menstruation>Σταθερή κάθε 29</menstruation>
+      </physical>
+      <mental_emotional>Διαχυτικη, πολυλογια, μιλάει γρηγορα , αυτόκαταστροφική, θέλει επικοινωνία , μουσικη, παρορμητική , δεν μπορεί να περιμένει σε ουρά με τιποτα, βιάζεται, φόβοι σκυλιά(2), θάνατο(2), Ca(2), καρδιά (2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Ακμη(3), Κρυωνει(2), κρύα άκρα(2), επικοινωνιακή(2), επιθυμεί ψάρι, παγωτό(2), γλυκά(3), ξυπνάει με νεύρα(2), αερια(2), δεν μπορεί να περιμένει σε ουρά (2), ανοίγεται εύκολα σε άλλους και για τα προσωπικα(2),δεν κοιμάται αριστερά(1)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Lyc, Puls, gels, arg-n, plat</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>30ch(x1), 200ch(x1), 6x (x30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-06 06:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Ακμη έφυγε τελειως για  χρόνο, βρογχίτιδα τον τελευταίο μήνα και πήρε αντιβιωση- γεμισε πάλι σπυριά όπως πριν, επιθυμεί ψάρι(3)λίπος(2), είχε βελτιωθεί στο ξυπνημα από ύπνο αλλά τώρα πάλι πρόβλημα, πεσμένη ενέργεια από την βρογχιτιδα και μετα&#13;
+</analysis>
+      <conclusion>Βρογχιτιδα- αντιβιωση -αντιδοτησε</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>30 ch (1) , 200ch(1), 6x(30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

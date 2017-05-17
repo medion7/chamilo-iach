@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL943456d2b3ea5867e86cca4353942293</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>male</gender>
+    <patient_initials>ΣΤΕΦΑΝΟΣ Π.</patient_initials>
+    <age>27</age>
+    <circumstances>ΕΛΕΥΘΕΡΟΣ. &#13;
+ΕΡΓΑΖΕΤΑΙ ΜΕ ΣΥΜΒΑΣΗ ΟΡΙΣΜΕΝΟΥ ΧΡΟΝΟΥ ΣΕ ΤΡΑΠΕΖΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΕΧΕΙ ΠΟΛΥ ΑΓΧΟΣ(3). ΦΟΒΑΤΑΙ ΠΟΛΥ ΤΙΣ ΑΣΘΕΝΕΙΕΣ (ΤΑ ΤΕΛΕΥΤΑΙΑ ΕΞΙ ΧΡΟΝΙΑ).&#13;
+ΦΟΒΟΣ ΓΙΑ ΚΑΡΚΙΝΟ ΣΤΟΥΣ ΠΝΕΥΜΟΝΕΣ.&#13;
+ΦΟΒΟΣ ΘΑΝΑΤΟΥ&#13;
+ΕΠΙΣΚΕΠΤΕΤΑΙ ΓΙΑΤΡΟΥΣ(ΣΧΕΔΟΝ ΚΑΘΕ ΔΕΥΤΕΡΗ ΜΕΡΑ)&#13;
+&#13;
+</origin>
+        <causative_factors>ΕΚΑΝΕ ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ ΣΤΟ ΝΟΣΟΚΟΜΕΙΟ ΠΑΠΑΓΕΩΡΓΙΟΥ ΩΣ ΠΛΗΡΟΦΟΡΙΚΟΣ ΠΡΙΝ 7 ΧΡΟΝΙΑ ΚΑΙ ΕΒΛΕΠΕ ΣΥΝΕΧΩΣ ΑΝΘΡΩΠΟΥΣ ΝΑ ΕΙΝΑΙ ΑΡΡΩΣΤΟΙ</causative_factors>
+        <modalities>ΑΝ ΕΠΙΣΚΕΠΤΟΤΑΝ ΙΑΤΡΕΙΟ Ή ΝΟΣΟΚΟΜΕΙΟ ΣΚΕΦΤΟΤΑΝ ΟΤΙ ΠΙΘΑΝΟΝ ΚΑΙ ΑΥΤΟΣ ΚΑΤΙ ΕΧΕΙ ΚΑΙ ΕΙΝΑΙ ΑΡΡΩΣΤΟΣ.&#13;
+ΑΝ ΑΚΟΥΓΕ ΣΕ ΚΟΥΒΕΝΤΑ ΓΙΑ ΑΣΘΕΝΕΙΕΣ ΘΕΩΡΟΥΣΕ ΟΤΙ ΠΙΘΑΝΩΣ ΝΑ ΠΑΣΧΕΙ ΚΑΙ ΑΥΤΟΣ.&#13;
+ΟΤΑΝ ΑΓΧΩΝΕΤΑΙ ΚΑΝΕΙ ΤΑΧΥΠΑΛΜΙΕΣ ΚΑΙ ΠΡΟΤΙΜΑΕΙ ΝΑ ΠΕΡΠΑΤΑΕΙ ΓΙΑ ΝΑ ΗΡΕΜΗΣΕΙ.&#13;
+</modalities>
+        <occurrence_time>ΧΕΙΡΟΤΕΡΕΥΕΙ ΟΤΑΝ ΕΙΝΑΙ ΣΤΟ ΣΠΙΤΙ. ΚΑΙ ΑΝ ΔΕΝ ΕΧΕΙ ΜΕ ΚΑΤΙ ΝΑ ΑΠΑΣΧΟΛΗΣΕΙ ΤΗ ΣΚΕΨΗ ΤΟΥ.</occurrence_time>
+        <body_side>.</body_side>
+        <appearence_frequency>ΚΑΘΕ ΜΕΡΑ</appearence_frequency>
+        <pain_desc>.</pain_desc>
+        <complaint_ext>.</complaint_ext>
+        <other_complaints>ΑΦΘΕΣ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΤΕΛΕΥΤΑΙΟΙ ΕΜΒΟΛΙΑΣΜΟΙ ΗΤΑΝ ΣΤΟ ΣΤΡΑΤΟ ΤΟ  2014</therapies_vaccination>
+          <traumas>.</traumas>
+          <infections>ΔΕΝ ΚΑΝΕΙ ΥΨΗΛΟΥΣ ΠΥΡΕΤΟΥΣ, ΜΕΧΡΙ 38,3 ΘΥΜΑΤΑΙ ΠΡΙΝ ΑΡΚΕΤΑ ΧΡΟΝΙΑ.&#13;
+ΣΤΟΥΣ ΤΕΛΕΥΤΑΙΟΥΣ ΜΗΝΕΣ ΜΕΤΡΑΕΙ ΤΟΝ ΠΥΡΕΤΟ ΙΣΩΣ ΚΑΙ 15 ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ ΚΑΙ ΣΥΝΗΘΩΣ ΚΥΜΑΙΝΕΤΑΙ ΓΥΡΩ ΣΤΟ 37 Η ΘΕΡΜΟΚΡΑΣΙΑ ΤΟΥ.</infections>
+          <other>.</other>
+        </personal>
+        <family>
+          <diseases>Ο ΠΑΤΕΡΑΣ ΚΑΙ Η ΜΗΤΕΡΑ ΕΜΦΑΝΙΖΟΥΝ ΥΠΕΡΤΑΣΗ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΟΥΤΕ ΖΕΣΤΑΙΝΕΤΑΙ ΟΥΤΕ ΚΡΥΩΝΕΙ. ΜΙΑ ΜΕΣΗ ΚΑΤΑΣΤΑΣΗ&#13;
+ΠΡΟΤΙΜΑΕΙ ΝΑ ΕΙΝΑΙ ΣΤΟ ΒΟΥΝΟ</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΜΠΡΟΥΜΥΤΑ.&#13;
+ Ο ΥΠΝΟΣ ΑΡΚΕΤΕΣ ΦΟΡΕΣ ΕΙΝΑΙ ΑΝΗΣΥΧΟΣ ΚΑΙ ΞΥΠΝΑΕΙ.&#13;
+ΣΙΕΛΟΡΡΟΙΑ(2)&#13;
+</sleeping_habits>
+        <food_modalities>ΤΟΥ ΑΡΕΣΕΙ ΤΟ ΚΡΕΑΣ ΧΩΡΙΣ ΠΟΛΥ ΛΙΠΟΣ.&#13;
+ΤΟΥ ΑΡΕΣΕΙ ΤΟ ΤΥΡΙ&#13;
+ΔΙΨΑΕΙ ΚΑΙ ΕΠΙΘΥΜΕΙ ΤΟ ΝΕΡΟ ΝΑ ΕΙΝΑΙ ΚΡΥΟ</food_modalities>
+        <menstruation>.</menstruation>
+      </physical>
+      <mental_emotional>ΕΣΩΣΤΡΕΦΗΣ.&#13;
+ΘΥΜΩΝΕΙ  ΑΝ ΔΕΝ ΓΙΝΕΙ ΤΟ ΔΙΚΟ ΤΟΥ.&#13;
+ΔΕΝ ΚΛΑΙΕΙ ΠΟΤΕ.&#13;
+ΕΠΙΘΥΜΕΙ ΝΑ ΤΑΞΙΔΕΥΕΙ(2)&#13;
+ΛΕΕΙ ΟΤΙ ΘΑ ΗΘΕΛΕ ΝΑ ΧΑΙΡΕΤΑΙ ΚΙ ΑΥΤΟΣ ΣΑΝ ΤΟΥΣ ΑΛΛΟΥΣ ΚΑΙ ΓΙ ΑΥΤΟ ΤΟΥΣ ΖΗΛΕΥΕΙ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>.</personal_medical_history>
+        <family_medical_history>Ο ΕΝΑΣ ΠΑΠΠΟΥΣ ΠΕΘΑΝΕ ΑΠΟ ΠΝΕΥΜΟΝΙΚΟ ΟΙΔΗΜΑ ΚΑΙ Ο ΑΛΛΟΣ ΑΠΟ ΚΑΡΚΙΝΟ.&#13;
+Η ΜΙΑ ΓΙΑΓΙΑ ΠΕΘΑΝΕ ΑΠΟ ΚΑΡΔΙΑ ΚΑΙ Η ΑΛΛΗ ΑΠΟ ΓΗΡΑΤΕΙΑ.</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΕΜΜΟΝΕΣ ΙΔΕΕΣ(ΚΑΘΗΜΕΡΙΝΗ ΜΕΤΡΗΣΗ ΘΕΡΜΟΚΡΑΣΙΑΣ ΣΩΜΑΤΟΣ)&#13;
+ΕΠΙΣΚΕΠΤΕΤΑΙ ΓΙΑΤΡΟΥΣ(ΣΧΕΔΟΝ ΚΑΘΕ ΔΕΥΤΕΡΗ ΜΕΡΑ)&#13;
+ΛΕΕΙ ΟΤΙ ΘΑ ΗΘΕΛΕ ΝΑ ΧΑΙΡΕΤΑΙ ΚΙ ΑΥΤΟΣ ΣΑΝ ΤΟΥΣ ΑΛΛΟΥΣ ΚΑΙ ΓΙ ΑΥΤΟ ΤΟΥΣ ΖΗΛΕΥΕΙ</peculiar>
+        <intense>ΑΓΧΟΣ(3)&#13;
+ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ(3)&#13;
+ΦΟΒΟΣ ΘΑΝΑΤΟΥ(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>KALI ARSENIKOSUM KAI PHOSPHORUS</remedies_differentiation>
+      <prescription>
+        <remedy>KALI ARSENIKOSUM</remedy>
+        <potency>200CH</potency>
+        <regimen>1 ΚΑΨΟΥΛΑ ΕΦΑΠΑΞ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΣΤΗΝ ΑΡΧΗ ΕΝΟΙΩΣΕ ΝΑ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΓΙΑ 15 ΜΕΡΕΣ ΚΑΙ ΜΕΤΑ ΥΠΗΡΞΕ ΣΑΦΗΣ ΒΕΛΤΙΩΣΗ&#13;
+EINAI ΗΡΕΜΟΣ ΚΑΙ ΔΕΝ ΞΑΝΑΕΠΙΣΚΕΦΘΗΚΕ ΓΙΑΤΡΟ ΣΤΟΥΣ 6 ΜΗΝΕΣ.</reaction>
+      <analysis>ΤΟ ΦΑΡΜΑΚΟ ΦΑΙΝΕΤΑΙ ΝΑ ΕΙΝΑΙ ΣΩΣΤΟ ΑΦΟΥ ΤΗΝ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΑΚΟΛΟΥΘΗΣΕ ΣΑΦΗΣ ΒΕΛΤΙΩΣΗ ΚΑΙ ΑΙΣΘΑΝΕΤΑΙ ΠΙΟ ΗΡΕΜΟΣ</analysis>
+      <conclusion>ΠΕΡΙΜΕΝΟΥΜΕ</conclusion>
+      <repertorization>
+        <desc>.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>.</remedy>
+        <potency>.</potency>
+        <regimen>.</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

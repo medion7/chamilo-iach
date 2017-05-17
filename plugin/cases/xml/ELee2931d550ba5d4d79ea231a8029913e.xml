@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELee2931d550ba5d4d79ea231a8029913e</ID>
+  <patient>
+    <case_date>2014-11-05 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΕΑ</patient_initials>
+    <age>40</age>
+    <circumstances>παντρεμένη, δύο παιδιά (αγόρι, κορίτσι), ιδιωτική υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ημικρανίες από 5ετίας&#13;
+Κωλικοί εντέρου από 3ετίας</origin>
+        <causative_factors>stress</causative_factors>
+        <modalities>οι ημικρανίες συνήθως πριν την περίοδο, συνοδεύονται από ναυτία&#13;
+οι κωλικοί συνήθως μετά από stress</modalities>
+        <occurrence_time>καλυτέρευση με την πίεση οι ημικρανίες&#13;
+σε ύπτια θέση και με ζέστη οι κωλικοί</occurrence_time>
+        <body_side>δεν είναι συγκεκριμένο</body_side>
+        <appearence_frequency>κάθε μήνα οι ημικρανίες&#13;
+κάθε 3 μήνες οι κωλικοί</appearence_frequency>
+        <pain_desc>συσφικτικός</pain_desc>
+        <complaint_ext>δεν επεκτείνεται σε άλλα σημεία</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμία (παυσίπονα στις ημικρανίες)</conv_med_presc>
+        <lab_tests>
+          <desc>καμία</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>καμία</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>συνήθεις εμβολιασμοί. Παυσίπονα στις ημικρανίες</therapies_vaccination>
+          <traumas>stress που δεν μπορεί να διαχειριστεί</traumas>
+          <infections>καμία</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατέρας: υπέρταση&#13;
+μητέρα: θυρεοειδοπάθεια, κατάθλιψη, ημικρανίες</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει</reactions>
+        <sleeping_habits>κοιμάται στο πλάι, εύκολα αλλά κάθε δύο ώρες ξυπνάει και ξανακοιμάται. Όταν ξυπνήσει κάνει ησυχία και κοιτάει την πόρτα μήπως μπει κανείς και ξανακοιμάται.</sleeping_habits>
+        <food_modalities>επιθυμεί: ζύμη (ψωμί, κλπ) (2), παγωτά&#13;
+απεχθάνεται: λεμόνι, αλκοόλ</food_modalities>
+        <menstruation>7ημ διάρκεια, τις δύο πρώτες πολύ, κόκκινο με πήγματα</menstruation>
+      </physical>
+      <mental_emotional>Υπομονετική, ψυχαναγκαστική, θέλει τα πάντα σε τάξη ('αν βγαίνω από το σπίτι και δω τσάκιση σε ύφασμα πρέπει να γυρίσω πίσω να το φτιάξω. Οι κρεμάστρες πρέπει να είναι από την ίδια φορά και τα ρούχα ανάλογα με τα χρώματα").Νευρική, του προγράμματος. Με το χρόνο δεν αντέχει οι άλλοι να  καθυστερήσουν ούτε παντάλεπτο. Τα παιδιά πάνε συγκεκριμένη ώρα για ύπνο χωρίς παρέκκλιση για κανένα λόγο.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Πολυπεκτομή σε έντερο προ έτους&#13;
+αρθρίτιδα σε γνάθο (από σφίξιμο δοντιών)&#13;
+ρήξη μηνίσκου προ μηνών, χωρίς ατύχημα&#13;
+Ημικρανίες από 5ετίας&#13;
+κωλικοί εντέρου από 3ετίας&#13;
+υποθυρεοειδισμός από 4ετίας (πολλοί μικροί όζοι) χωρίς αγωγή&#13;
+</personal_medical_history>
+        <family_medical_history>πατέρας: υπέρταση&#13;
+μητέρα: θυρεοειδοπάθεια, κατάθλιψη, ημικρανίες</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>το επίπεδο 6 βασίζεται στα νοητικά, συναισθηματικά και σωματικά συμπτώματα της ασθενούς</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>mind-fastidious (4)&#13;
+perspiration-odor-offensive(3)</peculiar>
+        <intense>mind-fastidious (4)&#13;
+perspiration-odor-offensive (3)&#13;
+mind-programming everything(2)&#13;
+mind-fear-sudden (panic attacks) (2)&#13;
+mind-anxiety-health, about (3)&#13;
+mind-anxiety- health, about-relatives, of (2)&#13;
+stomach-thirstless (2)&#13;
+mind-fear-heart-disease of (2)&#13;
+generalities-food and drinks-bread-desire (2)&#13;
+mind-fear -flying of-airplane in (3)&#13;
+mind-anxiety-crown, in a (2)&#13;
+head-pain (headache)-pressure-hard amel</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind-fastidious (4)&#13;
+perspiration-odor-offensive (3)&#13;
+mind-programming everything(2)&#13;
+mind-fear-sudden (panic attacks) (2)&#13;
+mind-anxiety-health, about (3)&#13;
+mind-anxiety- health, about-relatives, of (2)&#13;
+stomach-thirstless (2)&#13;
+mind-fear-heart-disease of (2)&#13;
+generalities-food and drinks-bread-desire (2)&#13;
+mind-fear -flying of-airplane in (3)&#13;
+mind-anxiety-crown, in a (2)&#13;
+head-pain (headache)-pressure-hard amel</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>H συνταγογράφηση βασίζεται στα συμπτώματα:&#13;
+mind-fastidious (4)&#13;
+perspiration-odor-offensive (3)&#13;
+mind-programming everything(2)&#13;
+mind-fear-sudden (panic attacks) (2)&#13;
+mind-anxiety-health, about (3)&#13;
+mind-anxiety- health, about-relatives, of (2)&#13;
+stomach-thirstless (2)&#13;
+mind-fear-heart-disease of (2)&#13;
+generalities-food and drinks-bread-desire (2)&#13;
+mind-fear -flying of-airplane in (3)&#13;
+&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Arsenicum album</remedy>
+        <potency>200CH/1M</potency>
+        <regimen>1 caps Arsenicum 200CH, 1caps Arsenicum 1M, 45 caps 6x</regimen>
+        <other_notes>Η συνταγογράφηση βασίστηκε στο επίπεδο υγείας της ασθενούς καθώς και στο είδος και την ένταση των συμπτωμάτων της</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-29 07:00:00</followup_date>
+      <conv_med_presc>παυσίπονα στις ημικρανίες</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής αναφέρει ότι έχει περισσότερη ενέργεια (50%), κοιμάται καλύτερα και δεν ξυπνάει τόσες φορές τη νύχτα. Είναι λιγότερο ψυχαναγκαστική και λιγότερο άκαμπτη με τα παιδιά της. Δεν έχει τόσο άγχος υγείας. Το επεισόδιο ημικρανίας αυτό το μήνα ήταν πιο έντονο. </reaction>
+      <analysis>Η ασθενής εμφανίζεται βελτιωμένη τόσο σε επίπεδο ενέργειας, όσο και σε επίπεδο νοητικών και συναισθηματικών συμπτωμάτων.</analysis>
+      <conclusion>Βελτίωση της ασθενούς σε όλα τα επίπεδα. Αναμονή μεχρι το επόμενο follow-up</conclusion>
+      <repertorization>
+        <desc>mind-fastidious (3)&#13;
+perspiration-odor-offensive (2)&#13;
+mind-programming everything(1)&#13;
+mind-fear-sudden (panic attacks) (2)&#13;
+mind-anxiety-health, about (2)&#13;
+mind-anxiety- health, about-relatives, of (2)&#13;
+stomach-thirstless (1)&#13;
+mind-fear-heart-disease of (2)&#13;
+generalities-food and drinks-bread-desire (2)&#13;
+mind-fear -flying of-airplane in (3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Arsenicum</remedy>
+        <potency>6x</potency>
+        <regimen>60 caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-03-03 07:00:00</followup_date>
+      <conv_med_presc>παυσίπονα</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Σταμάτησε να ξυπνάει μέσα στη νύχτα. Το επίπεδο ενέργειας βελτιωμένο κατά 60%. Κωλικό εντέρου με διαρροϊκό επεισόδιο είχε ένα και κράτησε λιγότερο. Ένα επεισόδιο ημικρανίας έντονο άλλα μικρής διάρκειας. Υποχώρησε αρκετά ο φόβος της καρδιοπάθειας. Πιο χαλαρή.</reaction>
+      <analysis>Ασθενής βελτιωμένη τόσο σε επίπεδο ενέργειας, όσο και σε ψυχικά και σωματικά συμπτώματα</analysis>
+      <conclusion>Ασθενής βελτιωμένη σε όλα τα επίπεδα. Δεν χρειάζεται νέα συνταγογράφηση</conclusion>
+      <repertorization>
+        <desc>mind-fastidious (3)&#13;
+perspiration-odor-offensive (1)&#13;
+mind-programming everything(1)&#13;
+mind-fear-sudden (panic attacks) (1)&#13;
+mind-anxiety-health, about (1)&#13;
+mind-anxiety- health, about-relatives, of (1)&#13;
+stomach-thirstless &#13;
+mind-fear-heart-disease of (1)&#13;
+generalities-food and drinks-bread-desire (2)&#13;
+mind-fear -flying of-airplane in (3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Arsenicum</remedy>
+        <potency>6x</potency>
+        <regimen>60 caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-05-06 07:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής αναφέρει ότι είναι καλύτερα κατά 70% σε επίπεδο ενέργειας. Κοιμάται καλά. Πιο χαρούμενη. Δεν ξυπνάει τη νύχτα. Καλύτερα και με τα παιδιά της ("δεν θέλω να ελέγχω τα πάντα"). Μειώθηκε το άγχος υγείας για τον εαυτό της και τους δικούς της. Ένα επεισόδιο κεφαλαλγίας, πολύ ήπιο που πέρασε πολύ σύντομα για το οποίο δεν χρειάστηκε να πάρει τίποτα. Καθόλου κωλικοί με διάρροιες.</reaction>
+      <analysis>Ασθενής βελτιωμένη σε όλα τα επίπεδα.</analysis>
+      <conclusion>Βελτίωση σε όλα τα επίπεδα</conclusion>
+      <repertorization>
+        <desc>mind-fastidious (2)&#13;
+perspiration-odor-offensive &#13;
+mind-programming everything&#13;
+mind-fear-sudden (panic attacks) &#13;
+mind-anxiety-health, about &#13;
+mind-anxiety- health, about-relatives, of &#13;
+mind-fear-heart-disease of &#13;
+generalities-food and drinks-bread-desire (2)&#13;
+mind-fear -flying of-airplane in (3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Arsenicum</remedy>
+        <potency>6x</potency>
+        <regimen>60 caps</regimen>
+        <other_notes>Aναμονή μέχρι το επόμενο follow-up</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

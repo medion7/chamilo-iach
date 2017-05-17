@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL9fa5795809093c6e8a5c2e55db2b7af3</ID>
+  <patient>
+    <case_date>2015-11-29 14:45:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Α.Μ</patient_initials>
+    <age>3</age>
+    <circumstances>ΝΗΠΙΟ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΝΗΣΥΧΙΑ ΚΑΙ ΓΚΡΙΝΙΑ ΤΗ ΝΥΧΤΑ,ΔΕΝ ΚΟΙΜΑΤΑΙ ΤΟ ΒΡΑΔΥ ΤΟ ΤΕΛΕΥΤΑΙΟ 3ΜΗΝΟ.</origin>
+        <causative_factors>ΤΟΝ ΤΕΛΕΥΤΑΙΟ ΧΡΟΝΟ ΕΧΕΙ ΠΑΡΕΙ ΠΟΛΛΕΣ ΦΟΡΕΣ ΑΝΤΙΒΙΟΣΗ ΓΙΑ ΟΞΕΙΑ ΑΜΥΓΔΑΛΙΤΙΔΑ (5 ΦΟΡΕΣ)</causative_factors>
+        <modalities>&gt;ΟΤΑΝ ΤΟΝ ΠΑΙΡΝΕΙ Η ΜΑΜΑ ΑΓΚΑΛΙΑ,&gt;ΟΤΑΝ ΕΙΝΑΙ ΜΕ ΤΑ ΑΔΕΡΦΑΚΙΑ ΤΟΥ</modalities>
+        <occurrence_time>&lt; ΕΙΝΑΙ ΤΗ ΝΥΧΤΑ ΠΟΥ ΞΥΠΝΑΕΙ ΚΑΙ ΚΛΑΙΕΙ.</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>ΚΑΘΕ ΒΡΑΔΥ.</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΑΝΗΣΥΧΙΑ ΚΑΙ ΚΛΑΜΑ ΤΟ ΒΡΑΔΥ.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ ΕΤΩΝ 36:ΠΟΛΥΚΥΣΤΙΚΕΣ ΩΟΘΗΚΕΣ.ΠΑΤΕΡΑΣ ΕΤΩΝ 38: ΥΓΙΗΣ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΟΥΤΕ ΚΡΥΩΝΕΙ ,ΟΥΤΕ ΖΕΣΤΕΝΕΤΑΙ.</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΑΝΑΣΚΕΛΑ ΚΑΙ ΣΤΟ ΠΛΑΪ</sleeping_habits>
+        <food_modalities>ΣΟΚΟΛΑΤΑ ΤΗ ΘΕΛΕΙ(3),ΘΕΛΕΙ ΚΟΤΟΠΟΥΛΟ(3),ΠΑΓΩΤΟ(3),ΠΙΝΕΙ ΠΟΛΥ ΝΕΡΟ(3),</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΘΕΛΕΙ ΦΩΣ ΟΤΑΝ ΚΟΙΜΑΤΑΙ(3),ΘΕΛΕΙ ΤΗΝ ΑΓΚΑΛΙΑ ΤΗΣ ΜΑΜΑΣ(3),ΦΟΒΑΤΑΙ ΤΙΣ ΑΣΤΡΑΠΕΣ(3),ΤΑ ΣΚΥΛΙΑ(3) ΕΙΝΑΙ ΛΙΓΟ ΜΑΖΕΜΕΝΟΣ ΜΕΧΡΙ ΝΑ ΕΞΟΙΚΙΩΘΕΙ,ΘΕΛΕΙ ΤΗΝ ΠΑΡΕΑ(3).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΤΗΝ ΤΕΛΕΥΤΑΙΑ ΧΡΟΝΙΑ ΕΧΕΙ ΚΑΝΕΙ 5 ΦΟΡΕΣ ΟΞΕΙΑ ΑΜΥΓΔΑΛΙΤΙΔΑ ΜΕ ΥΨΗΛΟ ΠΥΡΕΤΟ 39.5 ΚΑΙ ΕΧΕΙ ΠΑΡΕΙ ΑΝΤΙΒΙΟΣΗ.</personal_medical_history>
+        <family_medical_history>ΜΗΤΕΡΑ ΕΤΩΝ 36:ΠΟΛΥΚΥΣΤΙΚΕΣ ΩΟΘΗΚΕΣ.ΠΑΤΕΡΑΣ ΕΤΩΝ 38: ΥΓΙΗΣ.</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>ΒΡΙΣΚΕΤΑΙ ΣΤΟ ΕΠΙΠΕΔΟ 1</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΣΟΚΟΛΑΤΑ ΤΗ ΘΕΛΕΙ(3),ΘΕΛΕΙ ΚΟΤΟΠΟΥΛΟ(3),ΠΑΓΩΤΟ(3),ΠΙΝΕΙ ΠΟΛΥ ΝΕΡΟ(3),ΘΕΛΕΙ ΦΩΣ ΟΤΑΝ ΚΟΙΜΑΤΑΙ(3),ΘΕΛΕΙ ΤΗΝ ΑΓΚΑΛΙΑ ΤΗΣ ΜΑΜΑΣ(3),ΦΟΒΑΤΑΙ ΤΙΣ ΑΣΤΡΑΠΕΣ(3),ΤΑ ΣΚΥΛΙΑ(3) ΕΙΝΑΙ ΛΙΓΟ ΜΑΖΕΜΕΝΟΣ ΜΕΧΡΙ ΝΑ ΕΞΟΙΚΙΩΘΕΙ,ΘΕΛΕΙ ΤΗΝ ΠΑΡΕΑ(3).</peculiar>
+        <intense>ΣΟΚΟΛΑΤΑ ΤΗ ΘΕΛΕΙ(3),ΘΕΛΕΙ ΚΟΤΟΠΟΥΛΟ(3),ΠΑΓΩΤΟ(3),ΠΙΝΕΙ ΠΟΛΥ ΝΕΡΟ(3),ΘΕΛΕΙ ΦΩΣ ΟΤΑΝ ΚΟΙΜΑΤΑΙ(3),ΘΕΛΕΙ ΤΗΝ ΑΓΚΑΛΙΑ ΤΗΣ ΜΑΜΑΣ(3),ΦΟΒΑΤΑΙ ΤΙΣ ΑΣΤΡΑΠΕΣ(3),ΤΑ ΣΚΥΛΙΑ(3) ΕΙΝΑΙ ΛΙΓΟ ΜΑΖΕΜΕΝΟΣ ΜΕΧΡΙ ΝΑ ΕΞΟΙΚΙΩΘΕΙ,ΘΕΛΕΙ ΤΗΝ ΠΑΡΕΑ(3).</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>PHOSPHORUS,CALCAREA CARBONICA,STRAMONIUM,ARGENTUM NITRICUM,GRAPHITES.</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5193/M.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>ΕΙΝΑΙ ΚΑΘΑΡΗ Η ΕΙΚΟΝΑ ΤΟΥ ΦΑΡΜΑΚΟΥ.</remedies_differentiation>
+      <prescription>
+        <remedy>PHOSPHORUS</remedy>
+        <potency>1M</potency>
+        <regimen>ΕΦ'ΑΠΑΞ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-11-29 13:45:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΤΟ ΠΑΙΔΑΚΙ ΕΧΕΙ ΗΡΕΜΗΣΕΙ ,ΚΟΙΜΑΤΑΙ ΚΑΛΑ ΤΗ ΝΥΧΤΑ,ΔΕΝ ΓΚΡΙΝΙΑΖΕΙ,Η ΜΑΜΑ ΤΟΥ ΛΕΕΙ ΠΩΣ ΒΛΕΠΕΙ ΕΝΑ ΑΛΛΟ ΠΑΙΔΙ.</reaction>
+      <analysis>ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ΣΤΟ ΦΑΡΜΑΚΟ.</analysis>
+      <conclusion>ΠΕΡΙΜΕΝΟΥΜΕ.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>ΜΕΤΑ ΑΠΟ ΔΥΟ ΜΗΝΕΣ ΤΟ ΠΑΙΔΙ ΕΚΑΝΕ ΟΞΥ ΜΕ ΠΥΡΕΤΟ 39 ΚΑΙ ΠΟΝΟΛΑΙΜΟ,ΠΗΡΕ PHOSPHORUS 10M ΕΝΑ ΠΡΩΙ ΕΝΑ ΒΡΑΔΥ ΚΑΙ ΤΗΝ ΕΠΟΜΕΝΗ ΜΕΡΑ ΗΤΑΝ ΑΠΥΡΕΤΟ ΚΑΙ Ο ΠΟΝΟΛΑΙΜΟΣ ΕΙΧΕ ΥΠΟΧΩΡΗΣΕΙ.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

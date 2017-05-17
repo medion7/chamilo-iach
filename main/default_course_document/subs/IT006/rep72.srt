@@ -1,0 +1,168 @@
+1
+00:00:19.488 --> 00:00:31.800
+-Quando usi il VES- Vithoulkas Expert System, le cose vengono facilitate. Come hai sviluppato il VES system?
+
+2
+00:00:39.520 --> 00:00:48.651
+-Vi dirò le regole co cui ho sviluppato il VES.
+
+3
+00:00:51.915 --> 00:01:31.915
+Ho sviluppato questo expert system attraverso due regole di base. Una era l'entusiasmo, l'altra la conoscenza di ciò che facevo trattando il caso. Due regole di base.
+
+4
+00:01:35.925 --> 00:02:00.420
+E ora alcuni dettagli. L'università Namur, in Belgio, prende contatto con me e gli studiosi mi dicono di aver lavorato per 7 anni, con un team di programmatori
+
+5
+00:02:00.520 --> 00:02:09.696
+per costruire un expert system sulle basi di regole che abbiamo inserito nel computer.
+
+6
+00:02:11.232 --> 00:02:22.347
+"Sei interessato a costruire un expert system?"- chiedono. E io dico di no, non credo che dal computer possa risultare il rimedio corretto.
+
+7
+00:02:23.560 --> 00:02:29.493
+Perchè la repertorizzazione piatta, i rimedi principali ecc., questo non funziona.
+
+8
+00:02:30.667 --> 00:02:41.397
+E loro risposero di no:"Stiamo per programmare il tuo modo di pensare e metterlo dentro al computer".
+
+9
+00:02:42.600 --> 00:02:51.872
+Io chiesi: cos'è questo? Venderete il mio cervello più avanti.
+
+10
+00:02:52.469 --> 00:02:59.680
+Ma Ok, se funziona, vi darò le informazioni. Cosa volete sapere?
+
+11
+00:03:00.832 --> 00:03:09.216
+C'era un team di programmatori che iniziarono a fare domande. Cosa faresti in questo caso? Cosa faresti in quel caso?
+
+12
+00:03:10.389 --> 00:03:23.160
+E io rispondevo loro. " Come pensi che sia? Cos'è questo e quello?".Io davo le risposte e loro scrivevano delle equazioni matematiche, mentre parlavo.
+
+13
+00:03:23.960 --> 00:03:40.064
+Ho chiesto cosa stessero scrivendo. E loro: "Tu racconta... Perchè non hai dato in questo caso Sulphur , che copriva la gran parte dei sintomi e hai dato Lachesis che copriva questo?".
+
+14
+00:03:40.917 --> 00:03:52.680
+Ho spiegato le ragioni e a un certo momento ho capito, più o meno, cosa volevano. Questo è andato avanti per un anno e mezzo.
+
+15
+00:03:53.269 --> 00:04:03.808
+Alla fine, per accelerare il processo, dissi:"Ok, vi darò le regole, dopo tutto.
+
+16
+00:04:04.560 --> 00:04:16.337
+Voi date questo e quello e indicate questo e quello", e io diedi le regole, per un anno e mezzo, come mi avevano chiesto.
+
+17
+00:04:16.437 --> 00:04:30.620
+Dopo aver dato onestamente tutte le regole, non ricordavo io stesso cosa avevo detto per tutto quel tempo. Non mi era possibile ricordare tutte le regole.
+
+18
+00:04:30.720 --> 00:04:40.459
+Ma avevano preso appunti. Quindi dov'era la prova? Era realmente un expert system? Si o no?
+
+19
+00:04:43.339 --> 00:04:50.620
+Una volta finito, mi chiesero di portare 3 casi come test di ciò che trattavo.
+
+20
+00:04:50.720 --> 00:05:08.880
+Un caso di nevralgia del trigemino al quale ho dato Verbascum...il medico mi aveva dato 25-30 sintomi. Ho prescritto Verbascum sulla base di 3 keynotes, ora non ricordo.
+
+21
+00:05:10.347 --> 00:05:24.384
+Prendo questo caso, dico che non è possibile che il computer mi dica e scelga Verbascum, non è possibile perchè ce ne erano altri 17 prima di Verbascum.
+
+22
+00:05:24.840 --> 00:05:35.861
+Quindi ho preso un caso di Nux Vomica e un caso di Natrum Muriaticum, scelti per lo più in base ai keynotes.
+
+23
+00:05:37.120 --> 00:05:49.835
+Perchè era il primo. Credo che il caso Natrum Muriaticum avesse circa 40 sintomi.
+
+24
+00:05:50.731 --> 00:06:04.967
+Provarono a metterlo nel computer. A quel tempo il computer era grande come questa porta. Il computer si guastò perchè c'erano troppi calcoli da fare...
+
+25
+00:06:05.067 --> 00:06:25.319
+Si fermò. Ora cosa facciamo? Eravamo presenti, il Professore dell'Università di Namur, gli studenti associati, il finanziatore, io stesso, i programmatori...il computer rotto.
+
+26
+00:06:25.419 --> 00:06:39.200
+Andiamo ad aprire il computer più grande...il computer dice che è un caso di Natrum Muriaticum.
+
+27
+00:06:40.200 --> 00:06:49.035
+Ho detto: ok, forse ho portato un caso facile.
+
+28
+00:06:52.085 --> 00:07:04.721
+Vediamo. Mettete questo caso. Leggo i sintomi del caso, loro li inseriscono, io scelgo Verbascum.
+
+29
+00:07:04.821 --> 00:07:14.507
+Il computer dice che il rimedio è Verbascum. Non riuscivo a crederlo, com'era possibile?
+
+30
+00:07:15.019 --> 00:07:28.800
+Come diavolo era possibile, con 32 sintomi, quando Verbascum copriva solo 5 sintomi. Com'era possibile che questo diavolo di computer indicasse il rimedio?
+
+31
+00:07:29.376 --> 00:07:47.189
+Intanto, quando venne indicato il secondo rimedio, il Professore disse alla segretaria di andare a prendere lo champagne per festeggiare, perchè non poteva credere che su 3 casi, due fossero corretti.
+
+32
+00:07:47.960 --> 00:08:02.187
+Inserimmo il terzo caso, che era Nux Vomica. Nux Vomica è un caso molto sicuro, perchè avevamo certi valori, vedrete che è quello.
+
+33
+00:08:03.168 --> 00:08:16.209
+Fu una grande gioia e il Professore disse che non poteva credere che il sistema funzionasse.
+
+34
+00:08:16.309 --> 00:08:26.193
+Perchè se ci fosse stato un errore in qualche punto del sistema, i calcoli si sarebbero rovesciati e non avrebbero portato al risultato.
+
+35
+00:08:26.293 --> 00:08:39.313
+Significa che avevano programmato il mio pensiero, in questo Repertorio. Non è facile riprodurlo e dare tutte le regole.
+
+36
+00:08:39.413 --> 00:08:54.155
+Quello che vi posso dire è che a questo progetto abbiamo lavorato per un anno e mezzo e ho detto: "Ok, se riuscite a duplicare il mio cervello, potete venderlo".
+
+37
+00:08:58.443 --> 00:09:12.935
+Tuttavia, ciò su cui lavoravamo nel 1990 era diverso da questo pattume che è stato aggiunto negli ultimi anni.
+
+38
+00:09:13.035 --> 00:09:21.547
+Hanno messo tutte queste fantasie e questi rimedi, e il sistema naturalmente si è ribaltato.
+
+39
+00:09:22.507 --> 00:09:27.819
+-Cosa dici di chi fornisce le informazioni nel Repertorio?
+
+40
+00:09:36.600 --> 00:09:50.033
+-Quale Repertorio?-Il Synthesis. Intende la conferma dei sintomi.
+
+41
+00:09:50.133 --> 00:10:12.832
+-Chiede quando le informazioni sono affidabili. Si ...è stato una delle persone che praticava l' Omeopatia, ed era abilitato a dare delle conferme o delle aggiunte.
+
+42
+00:10:13.856 --> 00:10:15.300
+Era un Omeopata molto bravo.
+

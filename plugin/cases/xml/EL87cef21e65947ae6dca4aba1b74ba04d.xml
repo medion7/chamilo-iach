@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL87cef21e65947ae6dca4aba1b74ba04d</ID>
+  <patient>
+    <case_date>2014-09-05 17:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Δ.Γ.</patient_initials>
+    <age>58</age>
+    <circumstances>Έγγαμος, γυμναστής, 2 παιδιά, 1,75 ύψος, 92kg</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Στο παρελθόν,  είχε κάποιες περιοδικές ενοχλήσεις στη μέση του ,αλλά μετά από ένα ατύχημα που είχε, επιδεινώθηκε η κατάσταση του.</origin>
+        <causative_factors>Έντονη καταπόνηση στο παρελθόν, με βάρη. Ατύχημα, με πτώση, από μοτοποδήλατο.</causative_factors>
+        <modalities>&lt;αν μείνει ακίνητος πολλή ώρα 2    &lt;με υγρασία1      &lt;με κόπωση2</modalities>
+        <occurrence_time>&lt;το πρωί</occurrence_time>
+        <body_side>Οσφυική περιοχή, με επέκταση στο δεξί πόδι</body_side>
+        <appearence_frequency> O  πόνος στη μέση, μόλις κουραστεί2.      Ο πόνος στις αιμορροίδες, περιστασιακά</appearence_frequency>
+        <pain_desc>Σφίξιμο στην περιοχή της μέσης</pain_desc>
+        <complaint_ext>Στο  δεξί πόδι</complaint_ext>
+        <other_complaints>Αυπνία2, σκέπτεται διάφορα.  Αλλεργική ρινίτιδα2 κάθε άνοιξη    Αλλεργική επιπεφυκίτιδα ,περιστασιακά.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Οσφυαλγία2, έχει 2 δυσκοκήλες, στους οσφυικούς σπονδύλους.  Παίρνει παυσίπονα και αντιφλεγμονώδη,όταν είναι σε έξαρση.   Αυπνίες2, παίρνει, διάφορα φυτικής προελεύσεως, φάρμακα.&#13;
+Αλλεργική ρινίτιδα την άνοιξη, παίρνει bilaz, παλαιότερα xozal.    &#13;
+Αλεργική επιπεφυκίτις, περιστασιακά, βάζει κορτιζονούχα κολλύρια.&#13;
+Αιμορροίδες, που τον ενοχλούν κυρίως το πρωί1</conv_med_presc>
+        <lab_tests>
+          <desc>M.R.I. οσφυικής περιοχής: υπάρχουν δισκοκήλες στα Ο2-Ο3, και Ο3-Ο4 διαστήματα και κάποιες εκφυλιστικές αλλοιώσεις</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>¨Οχι ,κάτι ιδιαίτερο</therapies_vaccination>
+          <traumas>Ατύχημα με μοτοποδήλατο πριν 2 χρόνια. Απο τότε πονάει περισσότερο.</traumas>
+          <infections>Εμφανίζει οξέα 2-3 φορές το χρόνο, χωρίς ιδιαίτερα υψηλό πυρετό</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας: έχει υπέρταση και έχει κάνει by pass.  Μητέρα: ψωρίαση</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται2,  ζεστά πόδια1   &lt;με ζέστη2</reactions>
+        <sleeping_habits>Ανάσκελα2</sleeping_habits>
+        <food_modalities>des:λίπος2, γλυκά3, Κρύο νερό2      Av.γάλα2</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Νευρικός2,  οξύθυμος2            Μόνιμο άγχος, για όλα2.    εύθικτος2,   τσαπατσούλης3,    επικριτικός2     βαριέται3,    σιχαίνεται 3, φοβάται τα μικρόβια2,  φόβος υγείας του2 ,  φόβος ύψους1,   </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Έχει μικρές ανατομικές βλάβες στη μέση του και όχι κάτι άλλο ιδιαίτερα επιβαρυντικό</personal_medical_history>
+        <family_medical_history>Υπάρχουν κληρονομικές προδιαθέσεις από την οικογένεια, αλλά όχι πολύ σοβαρές</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Περιμένω &gt; με την θεραπρία</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Βαριεστημάρα3  επικριτικός2   τσαπαττούλης2   </peculiar>
+        <intense> des.λιπος2, γλυκά3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Mind- anxiety3           Mind - untidy3            Mind contrary2             Mind - anxiety - health, about2                               Mind - anxiety - hypochondriacal2                 Mind - dullness - sluggishness,difficultyof thinkingand coprehending2         Generalities - warm - agg2          Sleep sleeplessness2      Generalities - food and drinks - drinks, water - desire2      Back - pain -standing3  - agg.        Back - pain - sitting - agg1.   Extrimities - pain - leg - morning 2      Rectum - haemorrhoids - morning - waking him       Nose - coryza1  </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η εικόνα του είναι Sulphιur . Το Compass δίνει 1ο Sulphιur  ,  2ο Arg. nitricum και 3ο  Nitric acid  κυρίως για τα διατροφικά .      Τα διανοητικά του, όμως, είναι     χαρακτηριστικά Sulphur.</remedies_differentiation>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Την πρώτη μέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-10-17 19:00:00</followup_date>
+      <conv_med_presc>Συνεχίζει τα πυσίπονα, αλλά σε μικρότερη δόση.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά το φάρμακο,εμφάνισε για κάποιες ημέρες επιδείνωση τουν πόνου στη μέση1   και την τελευταία εβδομάδα έχει αρχίσει να βελτιώνεται1   Η  τεμπελιά του &gt;2</reaction>
+      <analysis>Το φάρμακο έκανε μικρή επιδείνωση και τώρα αρχίζει να δρα.</analysis>
+      <conclusion>Περιμένω - παρακολουθώ.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-20 18:00:00</followup_date>
+      <conv_med_presc>Απλά παυσίπονα, όταν πονάει</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Βελτιώθηκε το επόμενο διάστημα ο πόνος της μέσης1  ,    ζεσταίνεται 1           η  βαρεμάρα και η τσαπατσουλιά έχουν μειωθεί και αντιθέτως, εκφράζει ένα ανικανοποίητο2 και  μία κυκλοθυμικότητα2,   έχει ενταθεί το πρόβλημα των αιμορροίδων2, οι οποίες  ηρεμούν με κρύα επιθέματα3,     κάποια πρωινά,έχει  διάρροια που τον αναγκάζει , να αφήσει το κρεβάτι του1  και μετά την κένωση&gt;2</reaction>
+      <analysis>Έχουν εμφανισθεί νέα συμπτώματα και έχουν αυξηθεί άλλα, που υπήρχουν. Εμφανίζεται, νέα εικόνα φαρμάκου.</analysis>
+      <conclusion>Σε αυτή την φάση κυριαρχεί η εικόνα   Aloe,  που είναι συμπληρωματικό του Sulphur</conclusion>
+      <repertorization>
+        <desc>Mind - discontented,displease,etc.2     Mind - work - aversion to mental2          Mind - mood - changeable, variable, etc. 2         Rectum - haemorroids - morning - wakinghim1       Rectum - diarrhoea - morning - bed, drivingout of 1       Rectum  - pain - burning - cold applications ame. 3            Rectum - pain - stool- after amel2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Aloe socotrina</remedy>
+        <potency>200CH</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Nα ληφθεί το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-02-23 19:00:00</followup_date>
+      <conv_med_presc>Απλά παυσίπονα, όταν πονάει</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>&gt;ο πόνος στις αιμορροίδες&gt;2,    σταμάτησε  πριν λίγες ημέρες, η πρωινή διάρροια,   παραμένει η δυσθυμία και η απέχθεια για πνευματική εργασία    ο πόνος στη  μέση έχει μειωθεί σημαντικά</reaction>
+      <analysis>Συνεχίζει η βελτίωση</analysis>
+      <conclusion>Αφήνω το φάρμακο να  δράσει,δεν αλλάζω, δεν επαναλαμβάνω.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΤΙΠΟΤΑ</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Να προσέξει να μην αντιδοτήσει</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

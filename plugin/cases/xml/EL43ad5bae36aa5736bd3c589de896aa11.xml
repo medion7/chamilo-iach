@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL43ad5bae36aa5736bd3c589de896aa11</ID>
+  <patient>
+    <case_date>2015-01-13 10:55:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΑΝΑΣΤΑΣΙΑ Α.</patient_initials>
+    <age>44</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ ΜΕ ΔΥΟ ΠΑΙΔΙΑ.ΣΠΟΥΔΑΣΕ ΟΙΚΟΝΟΜΟΛΟΓΟΣ.ΑΣΧΟΛΕΙΤΑΙ ΜΕ ΟΙΚΙΑΚΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΚΡΑΤΕΙΑ ΕΞΑΙΤΙΑΣ ΠΡΟΣΠΑΘΕΙΑΣ.&#13;
+ ΠΡΟΠΤΩΣΗ ΟΥΡΟΔΟΧΟΥ ΚΥΣΤΗΣ&#13;
+</origin>
+        <causative_factors>ΤΑ ΘΕΜΑΤΑ ΤΗΣ ΞΕΚΙΝΗΣΑΝ ΣΤΙΣ ΑΡΧΕΣ ΤΗΣ ΕΓΚΥΜΟΣΥΝΗΣ ΣΤΟ ΔΕΥΤΕΡΟ ΠΑΙΔΙ, ΤΟ ΟΠΟΙΟ ΓΕΝΝΗΘΗΚΕ  ΤΟ 2009</causative_factors>
+        <modalities>ΟΤΑΝ ΧΟΡΕΥΕΙ Ή ΒΗΧΕΙ ΤΟΤΕ ΕΙΝΑΙ ΠΙΟ ΕΜΦΑΝΗΣ Η ΑΚΡΑΤΕΙΑ.&#13;
+ΑΚΟΜΑ ΚΑΙ ΟΤΑΝ ΠΕΡΠΑΤΑ ΓΡΗΓΟΡΑ.&#13;
+Ο ΓΙΑΤΡΟΣ ΤΗΣ ΕΙΠΕ ΝΑ ΑΠΟΦΕΥΓΕΙ ΓΛΥΚΑ ΚΑΙ ΚΑΦΕΔΕΣ ΓΙΑΤΙ ΘΑ ΤΗ ΧΕΙΡΟΤΕΡΕΨΟΥΝ</modalities>
+        <occurrence_time>ΣΤΟ ΚΡΥΟ ΧΕΙΡΟΤΕΡΕΥΕΙ</occurrence_time>
+        <body_side>.</body_side>
+        <appearence_frequency>3-4 ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ</appearence_frequency>
+        <pain_desc>.</pain_desc>
+        <complaint_ext>ΟΧΙ</complaint_ext>
+        <other_complaints>.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>YENTREVE 20MG ΑΠΑΞ ΗΜΕΡΗΣΙΩΣ ΤΟΥΣ 4 ΤΕΛΕΥΤΑΙΟΥΣ ΜΗΝΕΣ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΤΟΥΣ ΠΡΟΒΛΕΠΟΜΕΝΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ.&#13;
+ΩΣ ΦΟΙΤΗΤΡΙΑ ΕΜΦΑΝΙΖΕ ΤΑΚΤΙΚΑ ΟΥΡΟΛΟΙΜΩΞΕΙΣ (ΜΠΟΡΕΙ ΚΑΙ ΚΑΘΕ ΜΗΝΑ) ΜΕΧΡΙ ΤΗΝ ΗΛΙΚΙΑ ΤΩΝ 30. ΕΠΑΙΡΝΕ ΑΝΤΙΒΙΩΣΗ (ΑΝΑΦΕΡΕΙ ΟΤΙ ΠΟΛΛΕΣ ΦΟΡΕΣ ΕΓΚΑΤΕΛΕΙΠΕ ΤΗΝ ΑΓΩΓΗ ΣΤΗ ΜΕΣΗ)</therapies_vaccination>
+          <traumas>ΔΕΝ ΑΝΑΦΕΡΕΙ ΚΑΤΙ</traumas>
+          <infections>ΑΠΟ ΚΑΙΡΟ ΕΙΣ ΚΑΙΡΟ ΕΜΦΑΝΙΖΕ ΓΡΙΠΠΩΔΕΙΣ ΣΥΝΔΡΟΜΕΣ ΜΕ ΠΥΡΕΤΟ ΓΥΡΩ ΣΤΟ 39,5.&#13;
+ΣΤΙΣ ΟΥΡΟΛΟΙΜΩΞΕΙΣ ΣΥΝΗΘΩΣ ΔΕΝ ΕΙΧΕ ΠΥΡΕΤΟ.</infections>
+          <other>.</other>
+        </personal>
+        <family>
+          <diseases>Ο ΠΑΤΕΡΑΣ ΤΗΣ ΠΑΣΧΕΙ ΑΠΟ ΣΑΚΧΑΡΩΔΗ ΔΙΑΒΗΤΗ.ΧΡΕΙΑΖΕΤΑΙ ΙΝΣΟΥΛΙΝΗ.&#13;
+Ο ΔΙΑΒΗΤΗΣ ΕΧΕΙ ΕΠΗΡΕΑΣΕΙ ΚΑΙ ΤΗΝ ΚΑΡΔΙΑ ΤΟΥ.&#13;
+Η ΜΗΤΕΡΑ ΤΗΣ ΠΑΣΧΕΙ ΑΠΟ ΒΡΟΓΧΙΚΟ ΑΣΘΜΑ ,ΥΠΕΡΤΑΣΗ ΚΑΙ ΣΑΚΧΑΡΩΔΗ ΔΙΑΒΗΤΗ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΕΙΝΑΙ ΑΤΟΜΟ ΠΟΥ ΚΡΥΩΝΕΙ ΚΑΙ ΑΙΣΘΑΝΕΤΑΙ ΚΑΛΥΤΕΡΑ ΜΕ ΤΗ ΖΕΣΤΗ ,ΤΗΝ ΗΛΙΟΦΑΝΕΙΑ ΚΑΙ ΤΗΝ ΞΗΡΑΣΙΑ.&#13;
+ΟΤΑΝ ΒΡΙΣΚΕΤΑΙ ΕΚΤΟΣ ΣΠΙΤΙΟΥ ΕΙΝΑΙ ΚΑΛΥΤΕΡΑ.&#13;
+ΜΕ ΤΟΝ ΑΝΕΜΟ ΕΙΝΑΙ ΧΕΙΡΟΤΕΡΑ.</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΣΕ ΕΜΒΡΥΪΚΗ ΘΕΣΗ ΚΑΙ ΣΤΟ ΑΡΙΣΤΕΡΟ ΠΛΑΪ.</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΓΛΥΚΑ(3), ΚΡΕΜΑ ΓΑΛΑΚΤΟΣ,ΓΙΑΟΥΡΤΙ, ΜΠΑΝΑΝΑ.ΔΕΝ ΤΗΣ ΑΡΕΣΕΙ ΤΟ ΑΛΑΤΙ(ΑΛΜΥΡΟ)</food_modalities>
+        <menstruation>Η ΠΕΡΙΟΔΟΣ ΤΗΣ ΚΥΜΑΙΝΕΤΑΙ ΑΠΟ 25 ΕΩΣ 35 ΜΕΡΕΣ ΚΑΙ ΕΧΕΙ ΑΡΚΕΤΟ ΑΙΜΑ.</menstruation>
+      </physical>
+      <mental_emotional>ΕΙΝΑΙ ΑΤΟΜΟ ΕΣΩΣΤΡΕΦΕΣ.&#13;
+ΘΥΜΩΝΕΙ ΕΥΚΟΛΑ.&#13;
+ΚΛΑΙΕΙ ΕΥΚΟΛΑ.&#13;
+ΚΛΕΙΣΤΟΦΟΒΙΑ(1).&#13;
+ΜΕΙΩΜΕΝΗ ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ(3).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΩΣ ΦΟΙΤΗΤΡΙΑ ΠΡΙΝ ΑΠΟ ΤΙΣ ΟΥΡΟΛΟΙΜΩΞΕΙΣ ΕΙΧΕ ΕΜΦΑΝΙΣΕΙ ΔΕΡΜΑΤΙΚΟ ΕΞΑΝΘΗΜΑ ΣΤΟ ΧΕΡΙ (ΣΑΝ ΤΣΙΜΠΗΜΑ ΑΠΟ ΚΟΥΝΟΥΠΙ). ΑΡΓΟΤΕΡΑ ΑΥΤΟ ΕΞΑΠΛΩΘΗΚΕ ΣΤΟ ΛΑΙΜΟ ΚΑΙ ΣΤΟ ΠΟΔΙ.ΣΤΟ ΝΟΣΟΚΟΜΕΙΟ ΤΩΝ "ΛΟΙΜΩΔΩΝ ΝΟΣΗΜΑΤΩΝ" ΣΤΗ ΘΕΣΣΑΛΟΝΙΚΗ ΤΗΝ ΤΡΟΜΑΞΑΝ ΟΤΙ ΜΠΟΡΕΙ ΝΑ ΕΙΝΑΙ ΚΑΤΙ ΕΠΙΚΙΝΔΥΝΟ.ΤΕΛΙΚΑ ΕΜΕΙΝΕ ΑΔΙΑΓΝΩΣΤΟ. ΠΗΡΕ ΑΝΤΙΒΙΩΣΗ ΚΑΙ ΧΑΘΗΚΕ ΤΟ ΕΞΑΝΘΗΜΑ.&#13;
+ΑΡΓΟΤΕΡΑ ΕΜΦΑΝΙΖΕ ΤΑΚΤΙΚΑ ΟΥΡΟΛΟΙΜΩΞΕΙΣ ΓΙΑ ΤΙΣ ΟΠΟΙΕΣ ΕΠΑΙΡΝΕ ΑΝΤΙΒΙΩΣΗ.</personal_medical_history>
+        <family_medical_history>Ο ΠΑΤΕΡΑΣ ΤΗΣ ΠΑΣΧΕΙ ΑΠΟ ΣΑΚΧΑΡΩΔΗ ΔΙΑΒΗΤΗ.ΧΡΕΙΑΖΕΤΑΙ ΙΝΣΟΥΛΙΝΗ.&#13;
+Ο ΔΙΑΒΗΤΗΣ ΕΧΕΙ ΕΠΗΡΕΑΣΕΙ ΚΑΙ ΤΗΝ ΚΑΡΔΙΑ ΤΟΥ.&#13;
+Η ΜΗΤΕΡΑ ΤΗΣ ΠΑΣΧΕΙ ΑΠΟ ΒΡΟΓΧΙΚΟ ΑΣΘΜΑ ,ΥΠΕΡΤΑΣΗ ΚΑΙ ΣΑΚΧΑΡΩΔΗ ΔΙΑΒΗΤΗ&#13;
+ΓΙΑ ΤΗ ΜΗΤΕΡΑ ΑΝΑΦΕΡΕΙ ΟΤΙ ΕΧΕΙ ΠΑΘΕΙ ΣΤΟ ΠΑΡΕΛΘΟΝ ΠΝΕΥΜΟΝΙΑ&#13;
+ΚΑΙ ΚΑΠΟΙΑ ΣΤΙΓΜΗ ΑΛΛΕΡΓΙΚΟ SHOCK ΑΠΟ ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΓΩΓΗ(ΔΕΝ ΘΥΜΑΤΑΙ ΤΟ ΦΑΡΜΑΚΟ)&#13;
+</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>ΕΙΧΕ ΚΑΤΑΠΙΕΣΕΙ ΤΟ ΔΕΡΜΑΤΙΚΟ ΕΞΑΝΘΗΜΑ.&#13;
+ΑΡΓΟΤΕΡΑ ΤΟ ΙΔΙΟ ΕΚΑΝΕ ΚΑΙ ΜΕ ΤΙΣ ΟΥΡΟΛΟΙΜΩΞΕΙΣ(ΘΥΜΑΤΑΙ ΟΤΙ ΠΕΡΙΠΟΥ ΣΤΗΝ ΗΛΙΚΙΑ ΤΩΝ 30 ΑΛΛΑΞΕ ΓΙΑΤΡΟ ΚΑΙ ΑΝΤΙΒΙΩΣΗ ΚΑΙ ΕΚΤΟΤΕ ΣΤΑΜΑΤΗΣΑΝ).&#13;
+ΑΠΟ ΤΗΝ ΑΛΛΗ ΚΑΝΕΙ ΠΥΡΕΤΟΥΣ 39,5&#13;
+ΚΑΙ ΤΟ ΦΑΡΜΑΚΟ ΕΙΝΑΙ ΑΡΚΕΤΑ ΚΑΘΑΡΟ </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>.</peculiar>
+        <intense>ΕΠΙΘΥΜΕΙ ΓΛΥΚΑ (3)&#13;
+ΜΕΙΩΜΕΝΗ ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5199/ANASTASIA A..jpg</file_url>
+      </repertorization>
+      <remedies_differentiation>SEPIA</remedies_differentiation>
+      <prescription>
+        <remedy>SEPIA</remedy>
+        <potency>200CH</potency>
+        <regimen>1 ΚΑΨΟΥΛΑ ΕΦΑΠΑΞ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-25 09:55:00</followup_date>
+      <conv_med_presc>ΔΙΕΚΟΨΕ ΤΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΓΩΓΗ ΜΕ YENTREVE</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΣΤΑΜΑΤΗΣΕ Η ΑΚΡΑΤΕΙΑ ΓΙΑ ΕΝΑ ΜΗΝΑ ΕΝΤΕΛΩΣ.&#13;
+ΑΡΓΟΤΕΡΑ ΞΕΚΙΝΗΣΕ ΕΛΑΦΡΑ ΥΠΟΤΡΟΠΗ.&#13;
+.</reaction>
+      <analysis>ΥΠΗΡΞΕ ΒΕΛΤΙΩΣΗ &#13;
+ΠΙΘΑΝΩΣ Ο ΟΡΓΑΝΙΣΜΟΣ ΧΡΕΙΑΖΕΤΑΙ ΞΑΝΑ ΕΝΑ ΕΡΕΘΙΣΜΑ ΓΙΑ ΝΑ ΟΛΟΚΛΗΡΩΣΕΙ ΤΟ ΕΡΓΟ ΤΟΥ.</analysis>
+      <conclusion>ΤΟ ΦΑΡΜΑΚΟ ΕΙΝΑΙ ΣΩΣΤΟ ΚΑΙ ΕΠΑΝΑΛΑΜΒΑΝΟΥΜΕ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5199/ANASTASIA A.1.jpg</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>SEPIA</remedy>
+        <potency>200CH</potency>
+        <regimen>1 ΚΑΨΟΥΛΑ ΕΦΑΠΑΞ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-07-15 09:55:00</followup_date>
+      <conv_med_presc>ΟΧΙ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ΑΚΡΑΤΕΙΑ ΣΤΑΜΑΤΗΣΕ ΜΕΤΑ ΤΗ ΛΗΨΗ ΤΗΣ ΔΕΥΤΕΡΗΣ ΔΟΣΗΣ ΚΑΙ ΔΕΝ ΞΑΝΑΕΜΦΑΝΙΣΤΗΚΕ</reaction>
+      <analysis>ΕΜΦΑΝΗΣ ΒΕΛΤΙΩΣΗ</analysis>
+      <conclusion>ΤΟ ΦΑΡΜΑΚΟ ΕΙΝΑΙ ΣΩΣΤΟ.&#13;
+ ΠΕΡΙΜΕΝΟΥΜΕ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>.</remedy>
+        <potency>.</potency>
+        <regimen>.</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

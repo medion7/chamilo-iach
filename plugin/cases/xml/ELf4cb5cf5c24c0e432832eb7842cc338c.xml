@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELf4cb5cf5c24c0e432832eb7842cc338c</ID>
+  <patient>
+    <case_date>2015-01-14 23:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Ν.Β.</patient_initials>
+    <age>6</age>
+    <circumstances>Νηπιο</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ευαισθησία σε λοιμωξεις (λαρυγγίτιδα-φαρυγγίτιδα-ωτίτιδα)</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>δύο κρίσεις λαρυγγίτιδας  φέτος&#13;
+</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Μύτη βουλωμένη συνέχεια,&#13;
+υπερκινητικός</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc> </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εμβόλια:Dtap, MMR, IPV, μηνιγγιτιδόκοκκος&#13;
+Κορτιζόνη σε κρίση λαρυγγίτιδας&#13;
+Αντιβίωση πρόσφατα</therapies_vaccination>
+          <traumas>Δεν αναφέρει</traumas>
+          <infections>Λαρυγγίτιδα-φαρυγγίτιδα-Οξεία Μέση Ωτίτιδα</infections>
+          <other>Κάθε χρόνο έμφανίζει τουλάχιστον ένα εμπύρετο&gt;39</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: Ψωρίαση&#13;
+Πατέρας : Ασθμα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Μάλλον κρυώνει</reactions>
+        <sleeping_habits>Στριφογυρίζει συνεχώς στον ύπνο. &#13;
+Ξεσκεπάζει τα πόδια του&#13;
+Ξυπνάει ευδιάθετος</sleeping_habits>
+        <food_modalities>Επιθυμεί: γλυκά (3), λαδερά (3), φρούτα (2)&#13;
+Απέχθεια: σούπες (1)</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Πρόωρη νοητική ανάπτυξη, εξαιρετικά εύστροφος (3)&#13;
+Φόβος για έντομα (2)&#13;
+Συμπάσχει (2)&#13;
+Τελειομανής (2)&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>φυσιολογικός τοκετός&#13;
+θηλασμός 16 μήνες&#13;
+παροδική δυσανεξία σε ακτινίδιο,σύκο&#13;
+</personal_medical_history>
+        <family_medical_history>Πατέρας :  ιστορικό άσθματος&#13;
+Μητέρα : πολυκυστικές ωοθήκες, ψωρίαση </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Συχνές λοιμώξεις,σχετικά λίγες κατασταλτικές θεραπείες, ο υψηλός πυρετός είναι δείκτης αρκετά καλού αμυντικού μηχανισμού</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Του αρέσει η δυνατή, ρυθμική μουσική (1) και να χορέυει έντονα (2)&#13;
+Επιθυμεί μπάμιες (3)&#13;
+Ξεσκεπάζει τα πόδια στον ύπνο (2)&#13;
+αδιψία (1)&#13;
+</peculiar>
+        <intense>Επιθυμεί γλυκά (3)&#13;
+Νοητικά αναπτυγμένος (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/N.B..pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Pulsatilla, Tarentula, Veratrum album</remedies_differentiation>
+      <prescription>
+        <remedy>Pulsatilla </remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-07 22:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η εικόνα παραμένει αμετάβλητη, (περιστατικό δίχως ψυχοσυναισθηματικά συμπτώματα)&#13;
+Η χρόνια καταρροή ωστόσο έχει βελτιωθεί λίγο.&#13;
+</reaction>
+      <analysis>Η επίδραση της ομοιοπαθητικής θεραπείας στον αμυντικό μηχανισμό θα εκτιμηθεί σε βάθος χρόνου.</analysis>
+      <conclusion>Δεν υπάρχει λόγος να χορηγήσουμε άλλο φάρμακο</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/N.B. follow up 1.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-22 22:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Καμμία μεταβολή. Εξακολουθεί να είναι σε καλή κατάσταση</reaction>
+      <analysis>Δεν έχει νοσήσει ακόμα όλο αυτό το διάστημα, κατί που δεν είναι συνηθισμένο για την περίπτωση αυτή.&#13;
+Πολύ μικρές αλλαγές δεν δικαιολογούν κάποια αλλαγή στη συνταγογράφηση.&#13;
+</analysis>
+      <conclusion>Οι γονείς είναι ικανοποιημένοι από την πορεία της θεραπείας.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/N.B follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Εν συνεχεία στις 23/10 παρουσίασε σημεία οξείας μεσης ωτίτιδας με κνησμό και πτώση ακοής ΔΕ, πόνο σφυγμικό, πυρετό και κακουχία. Χορηγήθηκαν (από τηλεφώνου)&#13;
+  -Belladona 1M χωρίς αποτέλεσμα &#13;
+  -Mercury 1M το επόμενο πρωί μετά από εμφάνιση έντονης κακοσμίας στο στόμα και εφίδρωσης όλο το βράδυ. Εμφανίστηκε μία μικρή βελτίωση στον πόνο όμως υποτροπίασε την άλλη μέρα παρά την επανάληψη άλλων 2 caps&#13;
+  -Bryonia 1M αφού παρατήρησε η μητέρα ότι ο γίος της ξάπλωνε πάντα πάνω στο πονεμένο αυτί. &#13;
+Ακολούθησε βελτίωση και συνέχισε με Bryonia κάθε 6-7 ώρες μέχρι την πλήρη ύφεση του πόνου.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

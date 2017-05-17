@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL60c42b28e2b5deddfcbba20c1888d68f</ID>
+  <patient>
+    <case_date>2016-05-06 10:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Η.Τ.</patient_initials>
+    <age>3</age>
+    <circumstances>Βρεφος 3μηνων</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>κολικοι εμφανιστηκαν απο τη 2η ημερα της ζωης του</origin>
+        <causative_factors>η μητερα δε μπορει να ανακαλεσει κατι εκτος απο το γεγονος οτι εμεινε 2 ημερες στην εντατικη για παρακολουθηση διοτι το διδυμο αδελφακι του τον πιεζε στη μητρα και ο γιατρος προτεινε να τον παρακολουθησουν αναπνευστικα</causative_factors>
+        <modalities>ηρεμει μονο αν τον κρατας αγκαλια με την κοιλια του κολλημενη στο στηθος σου και περπατας</modalities>
+        <occurrence_time>ολες τις ωρες της μεας και της νυχτας</occurrence_time>
+        <body_side>κοιλια</body_side>
+        <appearence_frequency>σχεδον ολη μερα</appearence_frequency>
+        <pain_desc>το βρεφος κλαιει συνεχεια λογω του πονου</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Κολικοι, καμια αγωγη</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>οχι</therapies_vaccination>
+          <traumas>εχει εμφανισει απο τον πρωτο μηνα νεογνικη ομφαλοκηλα</traumas>
+          <infections>οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Υγιεις και οι 2 γονεις</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ηρεμει μονο οταν περπατας κρατωντας τον αγκαλις. Καμια αλλαγη με θερμα επιθεματα ή δοκιμες με ηχους και μουσικη</reactions>
+        <sleeping_habits>ΑΠ ή ΔΕ πλαι</sleeping_habits>
+        <food_modalities>θηλασμος και συμπληρωμα γαλακτος εμποριου</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>βρεφος</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Βρεφος προερχομενο απο διδυμη κυηση, γεννηθηκαν με καισαρικη στον 8ο μηνα διοτι η μητερα ξεκινησε προεκλαμψια.&#13;
+Το βρεφος θηλαζει αλλα πινει και συμπληρωμα.&#13;
+Κλαιει απο τη δευτερη ημερα της ζωης του συνεχως ειτε πριν ειτε μετα το φαγητοή σε αποσταση απο τα γευματα του.+++.Ηρεμει μονο αν τον παρεις αγκαλια και περπατας συνεχεια+++.Εκανε νεογνικη ομφαλοκηλη.&#13;
+Υπηρχε ημερα που εκλαιγε 18 ωρες συνεχομενες, η μαμα του νιωθει απελπισμενη πλεον.&#13;
+Κοιμαται μονο στην αγκαλια καποιου ενηλικα που περπαταει, και αν σταματησεις και το αφησεις στην κουνια του,ξυπναει αμεσως με ουρλιαχτα+++.</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Chamomilla</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Κοιμαται μονο στην αγκαλια καποιου ενηλικα που περπαταει, και αν σταματησεις και το αφησεις στην κουνια του,ξυπναει αμεσως με ουρλιαχτα+++.</peculiar>
+        <intense>Κλαιει απο τη δευτερη ημερα της ζωης του συνεχως ειτε πριν ειτε μετα το φαγητοή σε αποσταση απο τα γευματα του.+++.Ηρεμει μονο αν τον παρεις αγκαλια και περπατας συνεχεια+++</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Chamomilla</remedies_differentiation>
+      <prescription>
+        <remedy>Chamomilla</remedy>
+        <potency>1M</potency>
+        <regimen>1caps εφαπαξ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-05-06 08:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Οι κολικοι σταματησαν 2 ημερες μετα</reaction>
+      <analysis>πολυ καλη αντιδραση </analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-05-06 08:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Ειναι ησυχο και κοιμαται χωρις προβληματα μονο του στην κουνια του οπως το αδελφακι του</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>GENERALITIES NURSING CHILDREN+++: Borx. Calc. Nat-p. Puls. Sep. Ars. Bell. Bry. Calc-p. Cham. Chin. Cina Dulc. Ign. Ip. Mag-c. Nux-v. Ph-ac. Rhus-t. Squil. Staph. Sulph.&#13;
+ABDOMEN PAIN cramping gripping nursing children bending backward amel.+++: Cham. Dios. Nux-v.&#13;
+ABDOMEN PAIN cramping griping -children, in nursing+++: Ill. Coloc. Bell. Cham. Cypr. Dios. Lyc. Menth. Nat-s. Nux-v. Nux-m.&#13;
+ABDOMEN HERNIA umbilical+: Nux-v. Calc. Lach. Nux-m. Op. Cocc.</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5717/image.jpeg</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

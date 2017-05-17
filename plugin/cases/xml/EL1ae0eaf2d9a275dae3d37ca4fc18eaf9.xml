@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL1ae0eaf2d9a275dae3d37ca4fc18eaf9</ID>
+  <patient>
+    <case_date>2016-05-06 09:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Α.Π.</patient_initials>
+    <age>45</age>
+    <circumstances>Παντρεμενος , 1 παιδί (προκειται για τον συζυγο μου, γνωριζω καλα τον χαρακτηρα του που ισως δεν μπορει να αποτυπωθει πληρως στο ιστορικο), εργαζεται ως ζαχαροπλαστης</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>από ηλικια 19 ετων πολυ συχνη  εμφανιση επιχειλιου ερπη</origin>
+        <causative_factors>Σε ηλικια 17, δευτερα λυκειου μετακομισε μονος του στη Θεσσαλονικη απο το χωριο του για να παρακολουθησει φροντηστηριο παραλληλα με το σχολειο. Δεν είχε ξαναφυγει απο το σπιτι του.</causative_factors>
+        <modalities>κουραση σωματικη ή νοητικη, κρυολογηματα, ψυχικο στρες</modalities>
+        <occurrence_time>μετα απο κουραση σωματικη ή νοητικη, κρυολογηματα, ψυχικο στρες. Τους καλοκαιρινους μηνες παρουσιαζεται λιγοτερο συχνα</occurrence_time>
+        <body_side>σε οποιοδηποτε σημειο ανω ή κατω χειλους.</body_side>
+        <appearence_frequency>τουλαχιστο 3 φορες το μήνα</appearence_frequency>
+        <pain_desc>καυστικος πονος με φαγουρα στο σημειο εμφανισης του ερπη</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>περιστασιακα αντιβιωσεις για οδοντιατρικες εργασιες,&#13;
+Zovirax κρεμα για τον επιχειλιο ερπη.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Δε θυμαται αν εκανε ολα τα παιδικα εμβολια.&#13;
+Zovirax κρεμα</therapies_vaccination>
+          <traumas>οχι αξια αναφορας</traumas>
+          <infections>οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατερας σακχαροδιαβητικος υπο αγωγη με χαπια,μητερα βρογχικο ασμα και αναιμια</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ουτε ζεσταινεται, ουτε κρυωνει</reactions>
+        <sleeping_habits>ΑΡ πλαι-κοιμαται πολυ βαθια αλλα ροχαλιζει</sleeping_habits>
+        <food_modalities>Λατρευει αλατι++++ριχνει σε καθε του μπουκια, μακαρονια+++,ψωμι+++, μελι+++, γλυκα ζουμερα φρουτα++&#13;
+Απεχθανεται λιπαρα κρεατα οπως αρνι+++,μπροκολο++,κουνουπιδι++,κοτοσουπα++</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Κλειστος χαρακτηρας, μιλαει παρα πολυ δυσκολα για κατι που τον απασχολει,δυσκολα κανει παρεες, απεχθανεται την πολυκοσμια, δε θυμωνει κι αν το κανει δε το δειχνει. &#13;
+Δε μιλαει για τα προβληματα του σε κανενα διοτι πιστευει οτι ετσι θα φορτωσει το συνομιλητη του με αυτα</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Βγαζει συχνα επιχειλιο ερπη. Οι ημερες που δεν εχει τιποτα στα χειλη του ειναι λογοτερες απο αυτες που εχει ερπη+++.Οταν ειναι κουρασμενος σωματικα, οταν αγχωθει ή κρυωλογησει το χειμωνα θα βγαλει κατευθειαν ερπη.&#13;
+Η μονη θεραπεια που εχει κανει ειναι κρεμα zovirax τοπικα.&#13;
+Δεν πασχει απο κανενα χρονιο νοσημα.&#13;
+Ειναι κλειστος σα χαρακτηρας , πολυ δυσκολα θα κανει παρεες, δεν του αρεσει καθολου η πολυκοσμια+++.&#13;
+Δε θυμωνει κιαν το κανει δεν το δειχνει ποτε++.&#13;
+Δε μιλαει για τα προβληματα του σε κανεναδιοτι πιστευει οτι ετσι φορτωνει το συνομιλητη του με αυτα+++.&#13;
+Εχει κανει αμυγδαλεκτομη σε ηλικια 32 ετων λογω συνδρομου απνοιας. Βελτιωθηκε αλλα εξακολουθει να ροχαλιζει αν ειναι ανασκελα αλλα χωρις απνοιες.Αν κοιμαται στο πλαι δε ροχαλιζει. Κοιμαται παντα στο ΑΡ πλευρο.Πριν 10 χρονια ειχε κονδυλωματα στις παχιαιες επιφανιες των χεριων τα οποια καυτηριασε.&#13;
+Πυρετο ανεβαζει καθε χειμωνα ως 38,5.&#13;
+Πηρε αντιβιωση προ 1 ετους για οδοντιατρικες εργασιες. Τα δοντια του χαλανε πολυ συχνα.&#13;
+Εχει συχνα πονοκεφαλο τις πρωινες ωρες, συχνα ξυπναει με πονοκεφαλο++&#13;
+Λατρευει το αλατι,ριχνει σε καθετου μπουκια++++,μακαρονια+++,ψωμι+++,μελι+++,γλυκα ζουμερα φρουτα++&#13;
+Απεχθανεται λιπαρα κρεατα οπως αρνι+++,μπροκολο++,κουνουπιδι++,κοτοσουπα++.&#13;
+Ο ηλιος τον ενοχλει πολυ, το καλοκαιρι θελει παντα να καθεται κατω απο ομπρελα και φοραει μπλουζα στην παραλια και καπελο ακομη και μεσα στην πολη+++.&#13;
+Λατρευει τη θαλασσα, δε θα μπορουσε να ζησει μακρια της,οταν στεναχωριεται του αρεσει να πηγιανει βολτα στην παραλια για να ηρεμησει.Κανει σερφινγκ και καταδυσεις.&#13;
+</personal_medical_history>
+        <family_medical_history>Ο παππους του αναφερει οτι ηταν αλκοολικος</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Natrum muriaticum</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ειναι κλειστος σα χαρακτηρας , πολυ δυσκολα θα κανει παρεες, δεν του αρεσει καθολου η πολυκοσμια+++.&#13;
+Δε θυμωνει κιαν το κανει δεν το δειχνει ποτε++.&#13;
+Δε μιλαει για τα προβληματα του σε κανεναδιοτι πιστευει οτι ετσι φορτωνει το συνομιλητη του με αυτα+++&#13;
+Εχει συχνα πονοκεφαλο τις πρωινες ωρες, συχνα ξυπναει με πονοκεφαλο++</peculiar>
+        <intense>Λατρευει αλατι++++ριχνει σε καθε του μπουκια, μακαρονια+++,ψωμι+++, μελι+++, γλυκα ζουμερα φρουτα++&#13;
+Απεχθανεται λιπαρα κρεατα οπως αρνι+++,μπροκολο++,κουνουπιδι++,κοτοσουπα++&#13;
+Ο ηλιος τον ενοχλει πολυ, το καλοκαιρι θελει παντα να καθεται κατω απο ομπρελα και φοραει μπλουζα στην παραλια και καπελο ακομη και μεσα στην πολη+++.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>FACE-ERUPTIONS-herpes-lips-about+++ : Nat-m., Rhus-t., Sep.&#13;
+MIND -COMPANY aversion to+++: Anac.,Bry., Carb an, Cham, Cin, Ign, Nat-m, Sep&#13;
+MIND-COMPANY-aversion to-amel when alone+++: Sep,Bar-c,Lyc, Nat-m, Nat-c, Plb&#13;
+MIND-ANGER ,irascibility,ailments after anger, vexation,etc, -silent grief,with++: Ign. Lyc. Nat-m. Staph.&#13;
+MIND-CONVERSATION-agg.+++: Ambr. Ing. Nat-m.&#13;
+SLEEP-POSITION -side on left++: Calc. Kali-ac. Mag-m. Nat-m. Nat-s. Sulph. Thuja&#13;
+TEETH -CARRIES ,decayed , hollow+: Ant.c. Bell. Borx. Fl-ac. Merc. Mez. Nat-c. Plb. Sep. Staph.&#13;
+HEAD PAIN morning++: Agar. Nux-v. Alum. Anac. Arn. Aur. Bar-c. Bell. Bov. Bry. Cact. Calc. Calc-p. Carb-an. Carbon-s. Carb-v. Chel. Coloc. Con. Crot.-t. Euph. Eup-per. Fl-ac. Graph. Hep. Ign. Jug-c. Kali-c. Kali-n. Kali-s. Lach. Mang. Mez. Murx. Nat-m. Nit-ac. Petr. Ph-ac. Phos. Polo. Psor. Rhod. Rhus-t. Seneg. Sep.  Sil. Spig. Squil. Stann. Staph. Sulph. Thuja.&#13;
+GENERALITIES FOOD and DRINKS salt desire+++: NAT-M. Arg-n. Carb-v. Lac-c. Nit-ac. Phos. Verat.&#13;
+GENERALITIES FOOD and DRINKS pasta desire+++: Calc. Lach. Nat-m.&#13;
+GENERALITIES FOOD and DRINKS BREAD DESIRE+++: Ars. Aur. Bov. Cham. Cina Coloc. Ferr. Mag-c. Merc. Nat-m. Plb. Stront-c.&#13;
+GENERALITIES FOOD and DRINKS honey desire+++: Sabad.&#13;
+GENERALITIES FOOD and DRINKS fat aversion+++: Puls. Chin. Nat-m. Petr. Ptel.&#13;
+GENERALITIES SUN agog from exposure to+++:Nat-c Ant-c. Glon. Nat-m. Puls.&#13;
+GENERALITIES SEASHORE amel at++: Med. Borx. Iris Sul-ac.&#13;
+&#13;
+</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5717/image.jpeg</file_url>
+      </repertorization>
+      <remedies_differentiation>Natrium muriaticum ή Medhorrinum</remedies_differentiation>
+      <prescription>
+        <remedy>Natrium Muriaticum</remedy>
+        <potency>200ch</potency>
+        <regimen>1 caps εφαπαξ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-05-06 07:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Χωρις διαφορα στον ερπη, οι πονοκεφαλοι χειροτερεψαν</reaction>
+      <analysis>καλη διοτι χειροτερεψαν οι πονοκεφαλοι</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-05-06 07:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>απο τον Δεκεμβριο ως σημερα μονο μια εβγαλε ερπη τον Ιανουαριο</reaction>
+      <analysis>πολυ καλη</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

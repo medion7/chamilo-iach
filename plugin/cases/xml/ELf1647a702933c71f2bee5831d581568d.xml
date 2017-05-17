@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELf1647a702933c71f2bee5831d581568d</ID>
+  <patient>
+    <case_date>2015-05-29 20:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Κ</patient_initials>
+    <age>34</age>
+    <circumstances>εργάζεται ως ηθοποιός</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ενδομητρίωση</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>Δεξιά ωοθήκη</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>ήπια ενόχληση</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>γαστρίτιδα, ΓΟΠ&#13;
+Υποθυρεοειδισμός&#13;
+ευαισθησία σε αμυγδαλές</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>θεραπεία υποκατάστασης με Τ4</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβόλια: Dtap, πολυομυελίτιδα, Ηπατίτιδα Β&#13;
+επαναλαμβανόμενες θεραπείες με αντιβιοτικά&#13;
+κορτιζόνη 6 μήνες για θυρεοειδίτιδα&#13;
+αμυγδαλεκτομή</therapies_vaccination>
+          <traumas>έχει νοιώσει απόρριψη πολλές φορές </traumas>
+          <infections>πυώδεις αμυγδαλίτιδες που δεν υποχωρούσαν με αντιβίωση</infections>
+          <other>αρρωσταίνει συχνά αλλά χωρίς πυρετό</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα : καρκίνος στομάχου,αφαίρεση&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει πολύ</reactions>
+        <sleeping_habits>Υπνος μπρούμητα&#13;
+Αν κοιμηθεί ανάσκελα βλέπει εφιάλτες</sleeping_habits>
+        <food_modalities>Επιθυμεί : ζυμαρικά, σκληρά φρούτα, τυρί&#13;
+Απεχθάνεται : μανιτάρια, λίπος</food_modalities>
+        <menstruation>Τακτική, με πολύ αίμα, διαρκεί πολλές μέρες&#13;
+πρίν την περίοδο νιώθει αδυναμία-ζαλάδα</menstruation>
+      </physical>
+      <mental_emotional>Άγχος υγείας&#13;
+Αναποφάσιστη,&#13;
+Κλαίει συχνά &#13;
+Νιώθει μοναξιά, &#13;
+Κλειστοφοβία</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>αμυγδαλεκτομή μετά από υποτροπιάζουσες αμυγδαλίτιδες&#13;
+θυρεοειδίτιδα το 2006, έκτοτε θεραπεία υποκατάστασης&#13;
+Κρίση πανικού πριν από 10 χρόνια με μουδιάσματα στο πρόσωπο και φόβο τρέλλας (σχετική με χρήση κάνναβης) &#13;
+γαστρίτιδα</personal_medical_history>
+        <family_medical_history>Ιστορικό Ca από τη μεριά της μητέρας</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Χαμηλό επίπεδο υγείας (ίσως και χαμηλότερα) όχι καθαρή εικόνα φαρμάκου</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Εφιάλτες όταν κοιμάται ανάσκελα(3)&#13;
+εφίδρωση σε στήθος το βράδυ (3)&#13;
+αναστενάζει(2)</peculiar>
+        <intense>κρύώνει (3)&#13;
+πρέπει να πιεί νερό πριν κοιμηθεί (2)&#13;
+Άγχος υγείας-φόβος Ca (2)&#13;
+κλειστοφοβία (3)&#13;
+επιθυμεί  μακαρόνια (3)&#13;
+απέχθεια σε μανιτάρια (3), λίπος (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Ε.Α.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Sulphur, Calcarea carbonica, Sepia, Argentum-Nitricum</remedies_differentiation>
+      <prescription>
+        <remedy>sulphur</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-07-17 19:00:00</followup_date>
+      <conv_med_presc>Τ4</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Καμμία αντίδραση-καμμία αλλαγή σε κανένα επίπεδο</reaction>
+      <analysis>Το φάρμακο δεν έχει δράσει. Επιμένωντας στο ιστορικό, η ασθενής πράγματι δεν έχει καμμία βελτίωση τοσο στο physical&#13;
+ όσο και στο mental-emotional level. Επειδή όμως βρίσκεται σε χαμηλό level, θα περιμένουμε μήπως υπάρξει κάποια καθυστερημένη έστω αντίδραση.&#13;
+Η πιθανότητα να μην είναι το σωστό φάρμακο, παραμένει</analysis>
+      <conclusion>Αναμονή 3-4 εβδομάδες.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/E.A. follow up 1.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-05 20:40:00</followup_date>
+      <conv_med_presc>θεραπεία υποκατάστασης με Τ4</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Καμμία αλλαγή.Επιμένει οτι είναι στα ίδια με ελάχιστες διαφορές. Επιπλέον ταλαιπωρείται από κολπίτιδα</reaction>
+      <analysis>Οφείλουμε να θεωρήσουμε λανθασμένη επιλογή το Sulphur.Ξαναβλέπουμε την περίπτωση από την αρχή.</analysis>
+      <conclusion>επικρατέστερη επιλογή η Calc-c</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/E.A follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>30CH,200CH</potency>
+        <regimen>1 caps 30CH &#13;
+1 caps 200CH</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

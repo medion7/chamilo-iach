@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd02efb96e1e30d202af22eb2f3edae8d</ID>
+  <patient>
+    <case_date>2016-10-08 16:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ι.Γ.</patient_initials>
+    <age>0</age>
+    <circumstances>4 κορες</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Aγχος, πονοκέφαλο, ζαλαδα</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Ερπη, φλεβιτη, συχνοουρια απο άγχος χειρότερα το βραδυ, αρρωσταίνει εύκολα, συχνά πυρετο χαμηλο, φαγούρα, αϋπνία, κραμπες</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>Αφαίρεση αριστερής σάλπιγγας, αφαίρεση κιρσων σε αριστερό ποδι, αδύναμη τρίχα ,της πέφτουν τα μαλλιά, μύκητες σε δακτυλα ποδιων</other>
+        </personal>
+        <family>
+          <diseases>-</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions> κρυωνει αλλά το καλοκαίρι ζεστενεται υπερβολικά, κρύα άκρα το χειμώνα κυρίως πόδια, φουντώνει εύκολα</reactions>
+        <sleeping_habits>Αγχωτικα όνειρα , ότι δεν προλαβαίνει να πάει κάπου ή ότι δεν βρίσκει ρουχα να φορεσει, φωναζει στον ύπνο της, μπρούμυτα όχι, συχνότερα αριστερά, ανασκελα καμια φορά, ξυπνάει πάντα κουρασμένη και δεν της φτάνει ο ύπνος, ξυπνάει και δεν μπορεί να κοιμηθεί από τις σκέψεις, νεύρα μπορεί να ξεσπάσει και να φωνάξει στα παιδιά αλλά γενικά ήρεμη, κλειστή, κλαίει μόνη της, ξεσπάει σε κλάματα και ηρεμη, λυπάται ζώα, ευαισθητη</sleeping_habits>
+        <food_modalities>Επιθυμεί λεμόνι, κοτόπουλο, αυγά(2), ψητα, γλυκα</food_modalities>
+        <menstruation>Κανονικός κύκλος, πονοκεφαλος 2 ημέρες πριν ,ανακουφίζεται με την ροη</menstruation>
+      </physical>
+      <mental_emotional>Το βράδυ ξυπνάει και σκέφτεται (οικονομικα) και το πρωι είναι κουρασμενη, αγχωνεται  για τους άλλους , ζηλιαρα, φόβος θανάτου, χαμηλή αυτοπεθοιση στην εμφάνιση της, σκέφτεται πάντα τι θα πουν οι αλλοι,  θέλει να είναι όλα τελεια, φόβοι: σκοτάδι, ύψος(2),σεισμούς, ποντίκια, δεν κάνει εύκολα παρεες</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Φόβος ύψος(2),ποντίκια(1), επιθυμεί αυγά(2), επιμονη(1), πονοκέφαλο(3), ζαλάδα(2), ιδρωνει εύκολα(1)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>-</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>30ch (1), 200ch(1)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-10-08 14:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Πολύ καλύτερα σε όλα ,όχι ζαλάδα ,όχι πονοκέφαλο, όχι ερπη, καλύτερη διαχείρηση άγχους, όχι συμπτώματα με την περίοδο, όχι νεύρα, πολύ καλύτερα ο ύπνος, όχι κράμπες, δεν κρυώνει τόσο, καλύτερη διάθεση, δεν κλαίει, δεν ιδρωνει, δεν φουντωνει, οκ ή συχνοουρια, λιγότερο αγχωτικα όνειρα , καλύτερα οι μυκητες στα πόδια, κοιμάται το μεσημέρι ξεκουραστα, τις τελευταίες ημέρες έχει πάλι πρόβλημα με ύπνο και έχει πέσει ή διάθεση,</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>30ch(1), 200ch(1),6x (*30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-10-08 14:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Όχι πια μύκητες, μυρίζουν οι μασχάλες, πήγε να βγάλει ερπη αλλά έφυγε, πονοκέφαλο με την πρώτη ημέρα της περιόδου, κοιμάται πολύ, επιθυμεί λιπαρά τηγανιτά περισσότερο, αναβλητική, θέλει να,καθεται, βγάζει πιτζαμες στον ύπνο αλλά μένει σκεπασμένη, όχι κλάμα , οχι νεύρα ,όχι φουντωματα, ιδρωνει στον αυχένα στον υπνο</analysis>
+      <conclusion>Περιμενω</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6X</potency>
+        <regimen>*30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2016-10-08 14:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Έχει πάλι φαγούρα, με το ζόρι να κάνει δουλειές,, μυρίζουν μασχάλες, βάρος στο στηθος</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calc- car</remedy>
+        <potency>30ch(1), 200ch(1), 6x(30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2016-10-08 14:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>μικρη</reaction>
+      <analysis>Πεσμένη διάθεση, κλάμα, ξενυχτάει πάλι από σκέψεις, στον ύπνο της σa  να εχει κάτι κολλημένο στο λαιμό και προσπαθεί να το βγάλει, ξεφυσαει πολύ, τρώει πολύ, επιθυμει λεμόνι, φρουτα και γλυκό,</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea</remedy>
+        <potency>6x</potency>
+        <regimen>*30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>5</number>
+      <followup_date>2016-10-08 14:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Φαγούρα στο σώμα, το βράδυ ξυπνάει και σκέφτεται, στοματίτιδα, ουλιτιδα</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea</remedy>
+        <potency>200 ch(1), 6x(30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

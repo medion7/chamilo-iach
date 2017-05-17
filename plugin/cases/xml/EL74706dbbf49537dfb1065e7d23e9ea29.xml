@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL74706dbbf49537dfb1065e7d23e9ea29</ID>
+  <patient>
+    <case_date>2015-06-21 16:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Π.Κ.</patient_initials>
+    <age>64</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ .ΕΧΕΙ 2 ΚΟΡΕΣ  ΚΑΙ 3 ΕΓΓΟΝΙΑ&#13;
+MHXANIKOΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΚΕΦΑΛΑΛΓΙΕΣ ΕΝΤΟΝΕΣ ΑΠΟ 24 ΕΤΩΝ</origin>
+        <causative_factors>ΚΛΗΡΟΝΟΜΙΚΟΤΗΤΑ ΚΕΦΑΛΑΛΓΙΩΝ ΑΠΟ ΤΗ ΜΗΤΕΡΑ ΤΗΣ&#13;
+ΚΑΤΑΓΜΑ ΑΥΧΕΝΟΣ ΣΕ ΤΡΟΧΑΙΟ ΣΕ ΗΛΙΚΙΑ 22 ΕΤΩΝ</causative_factors>
+        <modalities>&gt;ΤΟ ΚΑΛΟΚΑΙΡΙ ΣΤΗ ΘΑΛΑΣΣΑ ΜΕ ΤΑ ΜΠΑΝΙΑ&#13;
+&lt;ΟΤΑΝ ΚΟΥΡΑΖΕΤΑΙ ΜΕ ΣΩΜΑΤΙΚΕΣ ΕΡΓΑΣΙΕΣ</modalities>
+        <occurrence_time>ΤΟ ΚΑΛΟΚΑΙΡΙ</occurrence_time>
+        <body_side>ΔΕΞΙΑ</body_side>
+        <appearence_frequency>ΚΕΦΑΛΑΓΛΙΑ ΚΑΘΕ 15 ΗΜΕΡΕΣ</appearence_frequency>
+        <pain_desc>ΕΝΤΟΝΟΣ ΜΕ ΔΙΑΡΚΕΙΑ1-2 ΩΡΩΝ. ΣΥΜΠΙΕΣΤΙΚΟΣ ΠΟΝΟΣ.&#13;
+ΜΕΡΙΚΕΣ ΦΟΡΕΣ ΚΑΙ ΘΟΛΗ ΟΡΑΣΗ ΜΑΖΙ</pain_desc>
+        <complaint_ext>Ο ΠΟΝΟΣ ΥΠΑΡΧΕΙ ΣΤΟ ΜΕΤΩΠΟ ΚΑΙ ΣΤΗΝ ΚΡΟΤΑΦΙΚΗ ΧΩΡΑ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΥΠΟΘΥΡΕΟΕΙΔΙΣΜΟ ΚΑΙ ΛΑΜΒΑΝΕΙ THYRORMONE 0.1&#13;
+ΕΝΤΟΝΕΣ ΚΕΦΑΛΑΛΓΙΕΣ ΚΑΙ ΛΑΜΒΑΝΕΙ ΜΕSULID</conv_med_presc>
+        <lab_tests>
+          <desc>Γ.Α.=ΦΥΣΙΟΛΟΓΙΚΗ&#13;
+HT=36.8&#13;
+BIOXHMIKA=Κ.Φ.&#13;
+Η.Κ.Γ.=ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ&#13;
+ΧΟΛΗΣΤΕΡΙΝΗ=268</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΚΟΡΤΙΖΟΝΗ ΚΑΙ ΑΝΤΙΒΙΩΤΙΚΑ ΑΡΚΕΤΕΣ ΦΟΡΕΣ&#13;
+ΟΛΑ ΤΑ ΚΟΙΝΑ ΕΜΒΟΛΙΑ</therapies_vaccination>
+          <traumas>ΑΠΩΛΕΙΑ ΑΔΕΛΦΗΣ ΚΑΙ ΜΗΤΕΡΑΣ ΛΟΓΩ ΟΙΚΟΓΕΝΕΙΑΚΟΥ ΕΓΚΛΗΜΑΤΟΣ</traumas>
+          <infections>ΚΑΜΙΑ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ ΜΕ Χ.Α.Π. ΚΑΙ Α.Υ.&#13;
+ΜΗΤΕΡΑ ΜΕ ΚΕΦΑΛΑΛΓΙΕΣ ΚΑΙ ΘΥΡΕΟΕΙΔΗ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΠΟΛΥ ΓΛΥΚΙΑ ΚΑΙ ΣΥΜΠΑΘΗΤΙΚΗ ΑΠΟ ΟΛΟΥΣ&#13;
+ΤΟΣΟ ΠΟΥ ΠΟΛΛΕΣ ΦΟΡΕΣ ΔΕΝ ΑΝΑΓΝΩΡΙΖΕΙ ΤΑ ΔΙΚΑΙΑ ΤΗΣ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΝΟΣΗΛΕΙΑ ΣΕ ΝΟΣΟΚΟΜΕΙΟ ΟΤΑ ΗΤΑΝ  22 ΕΤΩΝ ΛΟΓΩ ΤΡΑΥΜΑΤΙΣΜΟΥ ΣΕ ΤΡΟΧΑΙΟ&#13;
+ΧΡΟΝΙΕΣ ΚΕΦΑΛΑΛΓΙΕΣ&#13;
+ΜΕΡΙΚΕΣ ΦΟΡΕΣ ΠΟΝΟΣ ΣΤΙΣ ΑΡΘΡΩΣΕΙΣ ΤΩΝ ΧΕΡΙΩΝ&#13;
+</personal_medical_history>
+        <family_medical_history>Η ΜΗΤΕΡΑ ΤΗΣ ΕΙΧΕ ΚΕΦΑΛΑΛΓΙΕΣ ΚΑΙ ΘΥΡΕΟΕΙΔΗ</family_medical_history>
+        <level_of_health>10</level_of_health>
+        <conclusion>ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΜΕ ΚΑΛΗ ΠΡΟΓΝΩΣΗ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΠΟΛΛΕΣ ΦΟΡΕΣ ΞΥΠΝΑ ΧΑΛΙΑ 2&#13;
+ΕΧΕΙ ΠΟΛΥ ΜΑΥΡΑ ΔΟΝΤΙΑ 3 ΣΕ ΣΧΕΣΗ ΜΕ ΑΛΛΕΣ ΓΥΝΑΙΚΕΣ&#13;
+ΤΗΣ ΗΛΙΚΙΑΣ ΤΗΣ</peculiar>
+        <intense>ΚΕΦΑΛΑΛΓΙΑ 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>STAPHYSAGRIA        ΦΩΣΦΟΡΟΣ</remedies_differentiation>
+      <prescription>
+        <remedy>STAPHYSAGRIA</remedy>
+        <potency>200 CH</potency>
+        <regimen>1X2 ΓΙΑ 60 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΕΙΝΑΙ ΥΠΕΡΒΑΡΗ ΜΕ ΑΔΥΝΑΜΙΑ ΣΤΑ ΓΛΥΚΑ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-23 15:00:00</followup_date>
+      <conv_med_presc>ΤΗΥΡΟΡΜΟΝΕ 0,1&#13;
+ΠΑΙΡΝΕΙ ΠΟΛΥ ΠΙΟ ΛΙΓΑ MESULID&#13;
+KAI ΛΙΓΑ DEPON&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>ΟΛΑ ΤΑ ΕΡΓΑΣΤΗΡΙΑΚΑ =Κ.Φ.&#13;
+ΧΟΛΗΣΤΕΡΙΝΗ=224</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΙΑ ΜΙΚΡΗ ΑΙΣΘΗΣΗ ΖΑΛΗΣ </reaction>
+      <analysis>ΣΥΝΕΒΗΣΕ ΤΙΣ ΠΡΩΤΕΣ 10 ΗΜΕΡΕΣ&#13;
+ΚΑΙ ΑΥΤΗ Η ΑΙΣΘΗΣΗ ΚΡΑΤΟΥΣΕ ΓΙΑ 15 ΛΕΠΤΑ&#13;
+3-5 ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ</analysis>
+      <conclusion>ΛΙΓΟΣΤΕΨΑΝ ΟΙ ΚΕΦΑΛΑΛΓΙΕΣ&#13;
+ΚΑΤΕΒΗΚΕ Η ΧΟΛΗΣΤΕΡΙΝΗ ΤΗΣ&#13;
+ΕΧΑΣΕ ΚΑΙ ΛΙΓΑ ΚΙΛΑ ΜΕΙΩΝΟΝΤΑΣ ΤΑ ΑΓΑΠΗΜΕΝΑ ΤΗΣ ΓΛΥΚΑ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>STAPHYSAGRIA</remedy>
+        <potency>30 CH</potency>
+        <regimen>1X2 ΓΙΑ 30 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΔΗΛΩΝΕΙ ΠΙΟ "ΙΣΟΡΟΠΗΜΕΝΗ" ΑΠΟ ΠΡΙΝ&#13;
+ΚΑΙ ΟΤΙ ΚΟΙΤΑΖΕΙ ΚΑΙ ΛΙΓΟ ΠΙΟ ΠΟΛΥ ΤΟΝ ΕΥΑΥΤΟ ΤΗΣ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

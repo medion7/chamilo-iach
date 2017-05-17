@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL57cd7afb9c06593a00216be8256712ef</ID>
+  <patient>
+    <case_date>2014-10-10 11:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Δ.Β.</patient_initials>
+    <age>43</age>
+    <circumstances>διαζευγμενη,2 παιδια</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από ηλικία 20 ετών 3-4 φορές /έτος νιώθει ότι πρήζεται, φουσκώνει σε σημείο που όλα της τα ρούχα την πιέζουν. Επισκέφτηκε κάποιον αγγειοχειρουργό προ 10ετίας , της είπε ότι δεν έχει κάποιο αγγειολογικό πρόβλημα και της πρότεινε να παίρνει Lasix κάθε φορά που της συμβαίνει αυτό. Την τελευταία φορά που πήρε Lasix , είχε σοβαρό επεισόδιο υπότασης και χρειάστηκε να πάει σε νοσοκομείο.</origin>
+        <causative_factors>κουραση απο δουλεια,διαζυγιο απο συζυγο</causative_factors>
+        <modalities>ουδεν</modalities>
+        <occurrence_time>ουδεν</occurrence_time>
+        <body_side>ολο το σωμα</body_side>
+        <appearence_frequency>2-3 φορες / ετος</appearence_frequency>
+        <pain_desc>κατακρατηση υγρων</pain_desc>
+        <complaint_ext>ολο το σωμα</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>περιστασιακα lasix</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εχει κανει ολα τα εμβολια ως παιδι, συνεχιζει να εμβολιαζεται διοτι εχει κανει σπληνεκτομη προ 2ετιας</therapies_vaccination>
+          <traumas>Όταν ήταν μικρή οι γονείς της χορηγούσαν αντιβίωση με το παραμικρό. Φοβάται ότι από αυτό παθαίνει κατακράτηση υγρών++.</traumas>
+          <infections>οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας πασχει απο υπερτροφια προστατη&#13;
+μητερα υποφερει απο συχνες ημικρανιες</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Έχει αίσθημα εξάψεων κατά πριν την περίοδο+. Τα επεισόδια κατακράτησης όμως δε συνδέονται ποτέ με την περίοδο της. </reactions>
+        <sleeping_habits>Ο ύπνος της είναι διαταραγμένος++, ξυπνάει με το παραμικρό θόρυβο. Αν δει ταινία με ζόμπι το βράδυ δε μπορεί να κοιμηθεί+++.</sleeping_habits>
+        <food_modalities>Επιθυμεί γάλα+++ (το πίνει αντί για νερό), γλυκά+,  bitter σοκολάτα+ , μπανάνα+ , παγωτό.&#13;
+Απεχθάνεται πικάντικα, φρούτα.&#13;
+</food_modalities>
+        <menstruation>κφ</menstruation>
+      </physical>
+      <mental_emotional>Είναι ευγενική αλλά όχι πολύ ανοιχτός χαρακτήρας, λίγο ντροπαλή.&#13;
+Η σχέση της με τα παιδιά της είναι πολύ καλή αλλά αγχώνεται διότι ενώ η κόρη της είναι πολύ καλή μαθήτρια, ο γιός της είναι” ανεπίδεκτος μαθήσεως” και φοβάται για το μέλλον του και την επαγγελματική του αποκατάσταση++.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Από ηλικία 20 ετών 3-4 φορές /έτος νιώθει ότι πρήζεται, φουσκώνει σε σημείο που όλα της τα ρούχα την πιέζουν. Επισκέφτηκε κάποιον αγγειοχειρουργό προ 10ετίας , της είπε ότι δεν έχει κάποιο αγγειολογικό πρόβλημα και της πρότεινε να παίρνει Lasix κάθε φορά που της συμβαίνει αυτό. Την τελευταία φορά που πήρε Lasix , είχε σοβαρό επεισόδιο υπότασης και χρειάστηκε να πάει σε νοσοκομείο.&#13;
+Είναι διαζευγμένη, μητέρα 2 παιδιών -12χρ </personal_medical_history>
+        <family_medical_history>οχι</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Rhus Tox</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>πινει γαλα οποτε διψαει αντι νερο3&#13;
+θλιβεται τις βροχερες ημερες2&#13;
+φοβαται τις γατες3&#13;
+Αν δει ταινία με ζόμπι το βράδυ δε μπορεί να κοιμηθεί3</peculiar>
+        <intense>λατρευει το καλοκαιρι και τη θαλασσα2&#13;
+αγχωνεται για το γιο της2&#13;
+δεν της αρεσει το κρυο2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Rhus Tox</remedy>
+        <potency>200ch</potency>
+        <regimen>1 caps εφαπαξ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-11-15 10:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Αισθάνεται ότι έχει περισσότερη ενέργεια κατά τη μέρα της αλλά μετά τη δουλειά της αισθάνεται πλέον ράκος, δεν έχει κουράγιο για τίποτα όταν επιστρέφει</reaction>
+      <analysis>καλη διοτι εχει περισσοτερη ενεργεια</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-06-02 10:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν είχε κανένα επεισόδιο κατακράτησης υγρών ως τώρα.</reaction>
+      <analysis>καλη, η θεραπεια ειχε αποτελεσμα για την ασθενη</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

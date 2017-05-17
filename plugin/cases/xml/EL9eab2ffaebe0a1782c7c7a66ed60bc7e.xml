@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL9eab2ffaebe0a1782c7c7a66ed60bc7e</ID>
+  <patient>
+    <case_date>2014-10-15 20:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Σ.Π</patient_initials>
+    <age>16</age>
+    <circumstances>ΠΑΙΔΑΚΙ 12 ΧΡΟΝΩΝ </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ανησυχος υπνος ,εφιαλτες&#13;
+εχει κλειστει δεν βγενει απο το σπιτι &#13;
+δεν θελει να παει σχολειο </origin>
+        <causative_factors>μετα απο επιθεση απο την μητερα ενος συμμαθητή του </causative_factors>
+        <modalities>καλλιτερα με τους γονεις &#13;
+κοιμαται με φως και ανοιχτη την πορτα </modalities>
+        <occurrence_time>κυριως τα βραδυα </occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>οχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΤΙΠΟΤΑ</conv_med_presc>
+        <lab_tests>
+          <desc>ΤΙΠΟΤΑ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΧΙ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ολα τα εμβολια </therapies_vaccination>
+          <traumas>τον απηγαγε η μητερα ενοσ συμμαθητη του α[πο την αυλη του σχολειου σε ωραριο ελευθερο σχολειο ,γιατι δεν επαιζε με τον γιο της &#13;
+τον πηρε με το ζορι στο σπιτι της τον μαλωσε??&#13;
+τον εκανε μπανιο ?&#13;
+τον βγαλαν με την αστυνομια </traumas>
+          <infections>πυρετο πριν 8 μηνες περιπου </infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>οχι</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεστενεται ευκολα </reactions>
+        <sleeping_habits>ανησυχος3&#13;
+ έχει εφιαλτες3 θελει φως 4&#13;
+φωναζει στον υπνο του 3</sleeping_habits>
+        <food_modalities>δεν τρωει πολυ2&#13;
+ κυριως αλμυρα 3,μακαρονια2</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>εχει υποστει κακοποιηση απο την μητερα του συμμαθητη του &#13;
+ειναι σε στρεσ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>α.σ</personal_medical_history>
+        <family_medical_history>α.σ</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>συμπτωματα μετα απο κακοποιηση </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>ΑΝΗΣΥΧΟς ΥΠΝΟς 3&#13;
+εφιαλτες 3&#13;
+κοιμαται με φωτα 4&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind-fear-dark of 3&#13;
+mind-weeping-sleep in-child good duringthe day,screaming and restless at night 2&#13;
+mind abusive 3&#13;
+mind reserved  2&#13;
+mind violence aversion to 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>stramonium</remedy>
+        <potency>1M</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-10 19:00:00</followup_date>
+      <conv_med_presc>stramonium 1m</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ποιο ηρεμος κοιμαται καλλιτερα &#13;
+οι εφιαλτες μειωθηκαν &#13;
+ακομα κλειστος</reaction>
+      <analysis>το στραμονιουμ πηρε τα περισσότερα απο τα συμπτωματα μενει το οτι ειναι ακομα κλειστος ομως το φαρμακο δουλευει ακομα θα δωσουμε κι αλλο χρονο </analysis>
+      <conclusion>περιμενουμε </conclusion>
+      <repertorization>
+        <desc>mind fear -dark of 2 &#13;
+mind weeping-sleep in -child good during the day ,screaming and restless at night 1&#13;
+mind abusive 2&#13;
+mind reserved 1&#13;
+mind violence aversion to 1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-03-29 19:00:00</followup_date>
+      <conv_med_presc>stramonium 1 m</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>χωρις αρχικη επιδεινωση το στραμονιουμ πηρε τα συμπτωματα (ανυσηχια ,ανυσηχος υπνος με φως κτλ κτλ )λιγο κλειστος αλλα πιο φανερα πιο ηρεμος δραση που κραταει </reaction>
+      <analysis>σωστο φαρμακο πηρε την παθολογια μετα απο το σοκ κ την κακοποιηση που υπεστη</analysis>
+      <conclusion>η θεραπευτικη πορεια δειχνει καθαρο φαρμακο δεν χρειαζεται κατι αλλο μεχρι τωρα </conclusion>
+      <repertorization>
+        <desc>το ιδιο </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>δεν χρειάστηκε αλλη παρακολουθηση</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

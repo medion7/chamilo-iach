@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL837c046de14ff38355ee367347d88617</ID>
+  <patient>
+    <case_date>2014-10-22 20:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Γ.Π</patient_initials>
+    <age>47</age>
+    <circumstances>Ανυπαντρη&#13;
+συνοριαφυλακας</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αμυβαδωση πριν 10 χρονια εκανε 4 κυκλους θεραπεια με βαρια αντιβιωτικα&#13;
+αποο τοτε εχει διαρροιες,φουσκωματα ,πολλα αερια ,χανει κοπρανα </origin>
+        <causative_factors>αμυβαδωση</causative_factors>
+        <modalities>χειροτερα με το φαγητο</modalities>
+        <occurrence_time>χειροτερα με το φαγητο </occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>μυωπια</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>οχι</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>τα κλασσικα εμβολια &#13;
+4 κυκλους με αντιβιωτικα για την αμοιβαδωση</therapies_vaccination>
+          <traumas>οχι</traumas>
+          <infections>εχει χρονια να κανει πυρετο πανω απο 38,5</infections>
+          <other>οχι</other>
+        </personal>
+        <family>
+          <diseases>πατερας πεθανε απο εμφραγμα στα 61&#13;
+μητερα πιεση κ καταθλιψη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κυριως κρυωνει 3&#13;
+</reactions>
+        <sleeping_habits>στο πλευρο δεξια </sleeping_habits>
+        <food_modalities>πρεπει να προσεχει πολυ τα τελευταια δεκα χρονια &#13;
+οτι τρωει την κανει να εχει πολλα αερια κ να πρεπει να παει στην τουαλετα &#13;
+aggr after food 3&#13;
+recttum diarhea 3&#13;
+mind stool after amel 3</food_modalities>
+        <menstruation>α.σ</menstruation>
+      </physical>
+      <mental_emotional>της εχει γινει ψυχωση η τουαλετα &#13;
+λογω δουλειας ειναι παντα με συναδελφο κ καπου σε δρομο γι αυτο πρεπει να προσεχει πολυ τι τρωει κ πινει &#13;
+εχει ξεχασει τι της αρεσει πια απο φαγητα &#13;
+ασχολειται μονο με την τουαλετα κ τα αερια ,διαρροιες κτλ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>κυριο προβλημα ειναι οι συνεπειες απο την αμοιβαδωση </personal_medical_history>
+        <family_medical_history>πατερας απο εμφραγμα &#13;
+μητερα καταθλιψη κ πιεση</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>--</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>οτι φαει γινεται αερια διαρροια 4&#13;
+τα εντερα μου κανουν συνεχως θορυβο3</peculiar>
+        <intense>διαρροια μετα το φαγητο 4</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>rectum -diarhea -after breakfast 4&#13;
+rectum stool after aggr rectuw and anus 3&#13;
+rectum constipation peristaltic of intenstines from irregular peristalticaction 2&#13;
+mind stool after ammel 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>aloe ταιριαζει καλλιτερα &#13;
+nat.sulf δεν παρουσιαζει καταθλιψη η αυτοκτονικες τασεις δεν επηρρεαζεται απο την υγρασια &#13;
+borx δεν εχει αφθες aggr απο την καθετη κινηση &#13;
+calc.δεν εχει φοβους </remedies_differentiation>
+      <prescription>
+        <remedy>aloe </remedy>
+        <potency>200ch</potency>
+        <regimen>once</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-01-07 19:00:00</followup_date>
+      <conv_med_presc>aloe 200ch</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δεν ειδε καμια διαφορα σημαντικη ισως μονο στο γουργουρισμα της κοιλια ς της &#13;
+κ στα αερια λιγο λιγοτερο </reaction>
+      <analysis>το φαρμακο που δινει το ρεπερτοραιζινγκ φαινεται να ταιριαζει ομως δεν εκανε κανενα αποτελεσμα ισως η δυναμοποιηση να ητανε μικρη λογω χρονιοτητας </analysis>
+      <conclusion>η λαθος φαρμακο η μικρη δυναμοποιηση </conclusion>
+      <repertorization>
+        <desc>παραμενει το ιδιο </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>aloe </remedy>
+        <potency>1 Μ</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>ανεβαζω δυναμοποιηση γιατι ειχε μια μικρη αλλαγη ισως να ηταν μικρη η δυναμοποιηση </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-24 19:00:00</followup_date>
+      <conv_med_presc>aloe 1M</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>βελτιωση στα αερια &#13;
+και ισωσ στο γουργουρισμα &#13;
+πρεπει να προσεχει την διαιατα της &#13;
+δεν ειδε μεγαλη διαφορα ακομα πρεπει να προσεχει την διαιτα της &#13;
+ευκολες διαρροιες ακομα &#13;
+&#13;
+</reaction>
+      <analysis>το φαρμακο δεν δουλεψε ηταν λαθος &#13;
+ξανα πρεπει να παρω το ιστορικο απο την αρχη </analysis>
+      <conclusion>λαθος φαρμακο πρεπει να ξαναπαρω ιστορικο απο την αρχη </conclusion>
+      <repertorization>
+        <desc>----</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

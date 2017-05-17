@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6d0201006dea775b26c89c88984185ca</ID>
+  <patient>
+    <case_date>2016-11-26 18:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>FR</patient_initials>
+    <age>42</age>
+    <circumstances>Casado con 3 hijos</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Verano 2010 poco después del accidente de los padres.</origin>
+        <causative_factors>Tabaquismo, Alcoholismo</causative_factors>
+        <modalities>Calor &lt;&#13;
+Acostado &gt;</modalities>
+        <occurrence_time>Por las mañanas peor&#13;
+Aparece al despertar&#13;
+Mejora a medida que pasa el día</occurrence_time>
+        <body_side>Izquierda</body_side>
+        <appearence_frequency>Cada día en verano</appearence_frequency>
+        <pain_desc>Dolor presivo brazo izquierdo</pain_desc>
+        <complaint_ext>El dolor del brazo se extiende al cuello</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Hipertensión&#13;
+&#13;
+- Bisoprolol 25mg.   1/0/1</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Lycopodium 200ch&#13;
+Arsenicum album 1M&#13;
+</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Todas las vacunas de la infancia.&#13;
+Tratamiento agresivo de acné en la adolescencia.&#13;
+Antibioterapia en casi todos los agudos.</therapies_vaccination>
+          <traumas>Muerte en accidente de sus padres hace 10 años&#13;
+Latigazo cervical en 2010 en un accidente de coche.</traumas>
+          <infections>Amigdalitis recurrentes de pequeño&#13;
+Bronquitis en 2010&#13;
+Gastroenteritis en 2014&#13;
+Última fiebre alta en 2014 - 39º</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Tuberculosis en la familia materna&#13;
+Historia de cáncer en la familia paterna.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Calor &lt;&#13;
+Clima seco &gt;</reactions>
+        <sleeping_habits>Duerme sobre el lado izquierdo &#13;
+Se despierta cada noche a las 3 am.&#13;
+Se despierta refrescado</sleeping_habits>
+        <food_modalities>Deseo de dulces&#13;
+Agravación por ostras&#13;
+Aversión a la leche</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Miedo a las alturas&#13;
+Llanto por la música&#13;
+Irritabilidad por las mañanas&#13;
+Celoso&#13;
+Ansiedad en el dentista</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Las enfermedades agudas recurrentes casi cada 2 años con fiebre alta nos dan la idea de un mecanismo de defensa reactivo. </personal_medical_history>
+        <family_medical_history>Hay incidencia en las dos ramas familiares de enfermedades graves que podrán obstaculizar la evolución del paciente con el tratamiento homeopático.</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Esperamos una reacción de agravación tras la prescripción del remedio con posterior mejora de los síntomas principales.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Deseo de agua caliente (3)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</peculiar>
+        <intense>Dolor de cabeza occipital después de cada comida (3)&#13;
+Nauseas por la mañana (2)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Sulfur- No cumple la mayor parte de los síntomas generales del paciente&#13;
+Sepia- El paciente es caluroso.&#13;
+Calcarea carbónica- El remedio cubre los síntomas mentales pero los generales solo parcialmente.&#13;
+Glonoinum- No hay ninguna contradicción en este caso con las características del remedio. &#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Glonoinum </remedy>
+        <potency>200ch</potency>
+        <regimen>Toma única</regimen>
+        <other_notes>Volveremos a valorar la evolución en un mes. Insistimos en el tema de la cafeína ya que el paciente es un gran consumidor</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-11-26 17:00:00</followup_date>
+      <conv_med_presc>Ha reducido la medicación convencional. Esperemos que podamos continuar en la misma línea.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Mejora general de los síntomas principales.&#13;
+Fiebre alta hace dos días con cuadro de anginas.</reaction>
+      <analysis>De momento esperar. La aparición de una fiebre alta que ha remitido por sí misma es una buena indicación.</analysis>
+      <conclusion>Hemos de esperar que los agudos sean cada menos frecuentes aunque este último haya aparecido después de un mes de la prescripción inicial.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Glonoinum</remedy>
+        <potency>35ch</potency>
+        <regimen>Placebo. Toma diaria.</regimen>
+        <other_notes>Comunicar cualquier agravación o cambio en la evolución de los síntomas.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

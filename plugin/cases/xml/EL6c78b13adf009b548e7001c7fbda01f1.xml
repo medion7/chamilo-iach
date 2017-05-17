@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6c78b13adf009b548e7001c7fbda01f1</ID>
+  <patient>
+    <case_date>2015-04-15 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Ζ.</patient_initials>
+    <age>27</age>
+    <circumstances>άγαμη, γεωπόνος, φοιτήτρια / μεταπτυχιακό στις βιολογικές επιστήμες</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Άγχος και αδυναμία από 4μήνου&#13;
+ </origin>
+        <causative_factors>Προβλήματα στη σχολή</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>καθημερινά</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>μεγάλη αδυναμία- ατονία (νιώθει σα να πάει να αδειάσει κάτι από το κεφάλι της, νιώθει σα να της ρουφάει κάποιος την ενέργεια)&#13;
+ανήσυχος ύπνος (κοιμάται και ξυπνάει συνέχεια)&#13;
+το άγχος την πειράζει στην κοιλιά&#13;
+είναι καλύτερα το πρωί&#13;
+δυσκοιλιότητα&#13;
+&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Σίδηρος (περιστασιακά)</conv_med_presc>
+        <lab_tests>
+          <desc>δεν έχουν γίνει από διετίας</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει κάνει όλα τα εμβόλια που προβλέπονται από το πρόγραμμα εμβολιασμών του ΕΣΥ&#13;
+Αντιβιώσεις&#13;
+Κορτιζονούχες αλοιφές&#13;
+καυτηριασμός λόγω επιστάξεων</therapies_vaccination>
+          <traumas>Ράγισμα στο αρ πόδι</traumas>
+          <infections>Λοιμώδης μονοπυρήνωση</infections>
+          <other>σιδηροπενική αναιμία από την εφηβική ηλικία&#13;
+όζος θυρεοειδούς&#13;
+αιμορροΐδες&#13;
+έκζεμα στα δάχτυλα των χεριών (1η φορά 17 ετών)&#13;
+τελευταία φορά πυρετό (θ=38,7) αρχές του 2014&#13;
+στο δημοτικό συχνά επεισόδια επιστάξεων</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: υπερθυρεοειδισμός, ολική υστερεκτομή λόγω ca μήτρας&#13;
+Πατέρας: ΑΥ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει&#13;
+τα πόδια μονίμως κρύα&#13;
+</reactions>
+        <sleeping_habits>Εμβρυική στάση και ανάσκελα. &#13;
+Ο ύπνος δεν ξεκουράζει (όσο και να κοιμάται δεν ξεκουράζεται)  &#13;
+Αγχωτικά όνειρα.</sleeping_habits>
+        <food_modalities>επιθυμίες = τηγανητές πατάτες, φράουλες&#13;
+απέχθειες = λίπος</food_modalities>
+        <menstruation>κ.φ.&#13;
+αυξημένη σεξουαλική επιθυμία πριν την έμμηνο ρύση</menstruation>
+      </physical>
+      <mental_emotional>άγχος&#13;
+την πιάνει σαν κρίση πανικού οτι θα καταστραφεί ο κόσμος, οτι θα πεθάνει η μαμά της, οτι θα αρρωστήσει, οτι θα μείνει μόνη της&#13;
+νεύρα&#13;
+νοιάζεται πολύ για τους άλλους ανθρώπους, συμπάσχει&#13;
+ευμετάβλητη διάθεση&#13;
+θέλει πολύ παρέα&#13;
+θέλει παρηγοριά&#13;
+φοβαται το θάνατο, μη μείνει μόνη &#13;
+επηρεάζεται πολύ η διάθεσή της από εξωτερικούς παράγοντες&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>θετικά στοιχεία = εκφράζεται εύκολα, συνεχίζει να έχει δερματικές εκδηλώσεις παρά την καταπιεστική αγωγή, δεν έχει βαριές παθολογίες, τελευταία φορά πυρετό (θ=38,7) αρχές του 2014, καθαρή εικόνα&#13;
+αρνητικά στοιχεία = αυπνία, άγχος, εκφύλιση του θυρεοειδούς, κατασταλτικές αγωγές&#13;
+γενικά καλή κατάσταση του οργανισμού</personal_medical_history>
+        <family_medical_history>λίγο επιβαρυμένο λόγω του ιστιρικού της μητέρας</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>με τη σωστή συνταγογράφηση θα βελτιωθεί</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>αυξημένη σεξουαλική επιθυμία πριν την έμμηνο ρύση 3&#13;
+ο ύπνος δεν ξεκουράζει 3&#13;
+φόβος καταστροφής 2&#13;
+επιθυμεί πατάτες 2&#13;
+συμπάσχει 3&#13;
+άγχος για την υγεία των δικών της 3&#13;
+</peculiar>
+        <intense>άγχος 2&#13;
+αδυναμία - νιώθει σα να πάει να αδειάσει κάτι από το κεφάλι της 2&#13;
+ανήσυχος ύπνος διακοπτόμενος 3&#13;
+νυστάζει το πρωί 3&#13;
+επιθυμεί παρέα 3&#13;
+ευμετάβλητη διάθεση 1&#13;
+κρύα άκρα 2&#13;
+απέχθεια στο λίπος 2&#13;
+άγχος για την υγεία της 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ε.Ζ.1.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>δ.δ Phos,Ars,Caust,Puls,Sulph,Nux-v,Magn-m,Lyc&#13;
+η εικονα είναι καθαρή</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-17 18:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>την 1η μέρα το βράδυ είχε έντονο άγχος στον ύπνο (το οποίο σταδικά υποχώρησε)&#13;
+τις πρώτες 5 μέρες είχε πονοκεφάλους&#13;
+για 1 μήνα ήταν πολύ καλά, ο ύπνος της ήταν καλός, δεν ένιωθε αδυναμία, δεν είχε άγχος-ήταν ψυχολογικά και σωματικά σημαντικά βελτιωμένη&#13;
+χρησιμοποίησε οδοντόκρεμα με μέντα και πολλή κανέλα και υποτροπίασε σχεδόν πλήρως με την ίδια εικόνα</reaction>
+      <analysis>πολύ καλή αντίδραση, υπήρξε αρχική επιδέινωση ακολουθούμενη από σαφή βελτίωση&#13;
+υποτροπίασε με την ίδια εικόνα οπότε πιθανώς το φάρμακο αντιδοτήθηκε</analysis>
+      <conclusion>εφόσον είχε τόσο καλή αντίδραση και υποτροπίασε με την ίδια εικόνα θα επαναλάβω το ίδιο φάρμακο στην ίδια δυναμοποίηση</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ε.Ζ.2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-02 19:00:00</followup_date>
+      <conv_med_presc>2-3 εβομάδες μετά τη συνταγογράφηση έπεσε και έκανε ράγισμα σο σφυρό,το οποίο δεν διαγνώστηκε έγκαιρα και αρχικά θεωρήθηκε διάστρεμμα και έκανε συστηματική χρήση αντιφλεγμονωδών και αναλγητικών φαρμάκων για αρκετό διάστημα&#13;
+έβγαλε επίσης μία μυμηγκιά στο αρ άνω άκρο και έκανε κρυοπηξία&#13;
+έλαβε ακόμη αντιβίωση για λοίμωξη αναπνευστικού&#13;
+ενημερώθηκα για αυτά στο  follow-up&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δεν μπόρεσα να βγάλω συμπέρασμα όσον αφορά την αντίδραση στη συνταγογράφηση</reaction>
+      <analysis>εμφάνισε νέα καθαρή εικόνα</analysis>
+      <conclusion>θα δώσω καινούριο φάρμακο</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ε.Ζ.3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sepia</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

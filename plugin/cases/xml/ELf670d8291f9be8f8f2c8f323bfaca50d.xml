@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELf670d8291f9be8f8f2c8f323bfaca50d</ID>
+  <patient>
+    <case_date>2014-09-25 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Κ.Γ.</patient_initials>
+    <age>22</age>
+    <circumstances>ΠΡΩΤΗ ΕΠΙΣΚΕΨΗ 25/9/2014.  21 ετών Σπουδάζει ηλεκτρονικός μηχανικός στην Λαμία. Έχει έναν αδελφό μικρότερο 15 ετών.  Πολύ ανοιχτά μαζί μου μίλαγε. Τώρα άρχισε να ωριμάζει δηλώνει ο ίδιος. Έχει ένα μικρό τραύλισμα στην ομιλία του. Παχαίνει εύκολα, πάντα κάνει δίαιτα, όχι ιδιαίτερα παχύς. Πολύ όμορφος και ευγενής.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από μικρός είχε προβλήματα συμπεριφοράς και νεύρων</origin>
+        <causative_factors>Η κληρονομικότητα είναι ο βασικώτερος παράγοντας αλλά και η σκληρή συμπεριφορά του πατέρα του</causative_factors>
+        <modalities>Το άγχος το οποίο αισθάνεται τον αποδιοργανώνει</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Πέρασε πολλά προβλήματα (αφαιμάξεις- ανακοπή καρδιάς) στην εντατική-θερμοκοιτίδα μόλις γεννήθηκε (λιποβαρές) και σώθηκε από θαύμα. </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Χαμηλή αυτοεκτίμηση λέει ο πατέρας του και η διάγνωση της παιδοψυχιάτρου (2007). Άγχος +++ αδιευκρίνιστο λέει ο ίδιος. Όταν έχει κάτι να αντιμετωπίσεις, έστω και βόλτα." Η κριτική και η γνώμη που θα σχηματίσει για μένα κάποιος με νοιάζει πολύ.  Φοβάμαι πως θα ανταπεξέλθω". Κομπιάζει, την ώρα που μιλάει. Σπάει τα δάκτυλα του. ΙΔΡΩΝΕΙ στο μέτωπο. Μιλάει πολύ δεν είναι ντροπαλός</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>Μεγάλη βιαιότητα από τον πατέρα του, ο οποίος είναι γενικώς άκρως καταπιεστικός, «για το καλό του». Τον πίεζε να είναι τέλειος λέει ο ίδιος ο πατέρας. </traumas>
+          <infections>-</infections>
+          <other>Αμφοτερόπλευρη νευροαισθητηριακή βαρηκοΐα. Τονικός τραυλισμός. (Συνεδρίες λογοθεραπείας). Αφαίρεση βουβωνοκοίλης δεξιά. Προβλήματα με την μέση δεν μπορεί να καθήσει πολύ ώρα όρθιος ή μετά από κάθισμα πολύ ώρα ή μετά από βάρος. Πόνος από μέση στο κέντρο της πλάτη.</other>
+        </personal>
+        <family>
+          <diseases>Σύφιλη ο πατέρας πριν γεννηθεί ο μικρός (Μου το ανέφερε ο πατέρας μετά την πρώτη συνταγογράφηση) Η μητέρα έχασε ένα μωρό πριν από αυτόν.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Φοράει καλτσάκια στον ύπνο και τα βγάζει. "Αισθανόμουν ότι κρύωνα σήμερα" (ίσως είμαι κουρασμένος). Δεν μου αρέσει το κρύο. Δεν ιδρώνουν τα πόδια. Η φυσική άσκηση δεν τον πολυενδιαφέρει και τον κουράζει. </reactions>
+        <sleeping_habits>Όχι συγκεκριμένα. Βλέπει όνειρα αλλά δεν τα θυμάται</sleeping_habits>
+        <food_modalities>Επιθυμεί λεμόνι. Αλλαντικά δεν αρέσουν Αυγά+++ και τα μελάτα επίσης. OXI άγουρα φρούτα.  Δεν έτρωγε ποτέ μέχρι τώρα φρούτα. Πρίν ένα μήνα ξεκίνησε. Λαχανικά με το ζόρι. Kαφές και τσάι τον πειράζουν. Κρεμμύδι και σκόρδο τρώει. Το λίπος προτιμά να μην το τρώει. Επιθυμεί τα γλυκά.</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Υψοφοβία. Το σκοτάδι παλιότερα(12 ετών). Νευριάζει εύκολα. Με νοιάζει το δίκιο μου+++ αλλά για το δικό του δίκιο θα ξεσηκώσει τον κόσμο. Μιλαέι πολύ δεν είναι ντροπαλός. Aράχνες -κατσαρίδες φοβάται λίγο. Παλιότερα φοβόταν ένα σκύλο που τον είχε δαγκώσει. Παλιά  δεν άντεχε την βιαιότητα καθόλου+++, τώρα κάπως λιγότερο. Κλαίει εύκολα και στα πιό απλά πράγματα. Επίμονος. Έχω περάσει  γενικότερα άσχημα εν σχέσει με τον αδελφό μου. Έτρωγα ξύλο πολύ από τον πατέρα μου. Φοβόταν να γυρίσει στο σπίτι. Προσπαθούσα να τους ευχαριστήσω παλιά, τώρα εμένα. Μου έχουν μείνει στιγμές από το παρελθόν που μου φέρνουν θλίψη. Bulling (βιαιότητες) στο σχολείο με πείραζαν όλα κατάκαρδα. Με έχει πονέσει πιό πολύ από όλα ότι «μου κόλλησε ότι κεκεδίζω» (Σαν να νομίζει ότι κεκεδίζει και σαν να μην το παραδέχεται ότι συμβαίνει» και ότι αποκόπηκα από τις παρέες μου. Πέρασα ΚΑΤΑΘΛΙΨΗ δεν ήθελα να σηκωθώ να παώ στο σχολείο, πήρα φάρμακα.  «ΓΙΑΤΙ κεκεδίζω» αναρωτιέται μετά και σαν να το παραδέχεται. Ναι είναι χειρότερα όταν αγχώνομαι.  Εμμένει στα παλιά. ΑΔΙΚΙΑ ΑΔΙΚΙΑ Βλέπω τι γίνεται στην τηλεόραση και δεν το αντέχω. Υπερασπίστηκα και τώρα θυμώνω που αδικούν ένα φίλο μου. </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Το ιστορικό του λόγω των προβλημάτων όταν γεννήθηκε είναι πιθανώς αρκετά σοβαρό. Η παθολογία φαίνεται να είναι κυρίως συναισθηματική και αρκετά σοβαρή, λόγω και της διαγνωσμένης κατάθλιψης που πέρασε παλαιότερα</personal_medical_history>
+        <family_medical_history>Η κληρονομικότητα από τον πατέρα του είναι σοβαρή.</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>Το περιστατικό είναι δύσκολο αλλά νομίζω ότι δικαιούται να προσπαθήσει να βοηθηθεί με την Ομοιοπαθητική</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>MIND ¬ INJUSTICE, cannot support 2. Η λέξις άδικο αναφέρεται συνεχώς εν σχέσει με τον αδελφό του, την κοινωνία, φίλους δασκάλους, τηλεόραση κλπ.</peculiar>
+        <intense>MIND ¬ CONFIDENCE ¬ want of self¬confidence (low) 3 </intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND ¬ ANGER, irascibility ¬ violent 2 MIND ¬ IRRITABILITY 2 MIND ¬ ANTICIPATION - ailments from 2 MIND ¬ ANXIETY 2 MIND ¬ CONFIDENCE ¬ want of self¬confidence (low) 3 MIND ¬ FEAR ¬ death, of 1 MIND ¬ FEAR ¬ high places, of 3 MIND ¬ FEAR ¬ insanity, of 1 MIND - FRIGHT ¬ ailments from 2 MIND ¬ GRIEF 2 MIND ¬ GRIEF ¬ ailments from 1 MIND - INJUSTICE, cannot support 2 MIND ¬ LOVE ¬ ailments from disappointed 1 MIND - OBSTINATE 2 MIND ¬ WEEPING, tearful mood, etc. 3 MIND ¬ WEEPING, tearful mood, etc. - trifles, at 2 MOUTH ¬ SPEECH ¬ stammering 3 MOUTH ¬ SPEECH ¬ stammering ¬ excitement 3 GENITALIA¬MALE ¬ VARICOCELE 2 EXTREMITIES ¬ COLDNESS ¬ Foot 2 GENERALITIES - COLD ¬ agg. 2 GENERALITIES ¬ EXERTION, physical ¬ agg. 1 GENERALITIES - FOOD and DRINKS ¬ alcoholic drinks ¬ aversion 2 GENERALITIES ¬ FOOD and DRINKS - coffee ¬ agg. 2 GENERALITIES ¬ FOOD and DRINKS ¬ eggs ¬ desire 3 GENERALITIES - FOOD and DRINKS ¬ eggs ¬ desire ¬ boiled ¬ soft 1 GENERALITIES ¬ FOOD and DRINKS - farinaceous food ¬ desire 1 GENERALITIES ¬ FOOD and DRINKS ¬ fat ¬ aversion 1 GENERALITIES ¬ FOOD and DRINKS ¬ lemons ¬ desire 2 GENERALITIES - FOOD and DRINKS ¬ sweets ¬ desire 2 GENERALITIES ¬ FOOD and DRINKS ¬ vegetables - aversion 1 </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Υπάρχουν πολλά στοιχεία της Calc-carb (επιθυμία για αυγά και μελάτα, υψοφοβία, μικρή επιθυμία για γλυκά, κρυώνει γενικώς και ιδίως στα πόδια –φοράει καλτσάκια). Υπάρχει και η σκέψη για το Stram λόγω της βιαιότητας του πατέρα του  και του παλιού του φόβου για το σκοτάδι και των πολλών βίαιων νευρικών ξεσπασμάτων που είχε παλιά αλλά το τραύλισμα είναι ήπιο και τώρα δεν υπάρχουν τόσα στοιχεία, ίσως στο μέλλον. &#13;
+Επιλέγεται το Caust διότι η εμμονή του με το άδικο και το τραύλισμα που επιδεινώνεται με το άγχος αλλά και η χρόνια θλίψη λόγω της σχέση του με τον πατέρα του είναι βασικά χαρακτηριστικά του Caust&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Causticum</remedy>
+        <potency> 200X3  Caust 6x X30</potency>
+        <regimen>Causticum 200X3 και μετά κάθε μέρα Caust 6x X30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>7/11/2014 &#13;
+"Στην αρχή της λήψης του φαρμάκου δε παρατήρησα κάτι ιδιαίτερο, αλλά  όσο το έπαιρνα αισθανόμουν ότι ήμουν λιγώτερο ευαίσθητος (40%).Κάποιες ημέρες αισθάνθηκα λίγο κατάθλιψη, ήθελα να είμαι μόνος μου"  “ Πέφτω ψυχολογικά αδικαιολόγητα”. Επιθυμία για γλυκό αφού τέλειωσαν τα χάπια.&#13;
+Το άγχος δεν μειώθηκε αλλά δυσκολεύεται να το πεί με σιγουριά.  Δεν έκλαψε, δεν φώναξε έντονα με τον πατέρα του. . Βγήκε όμως ραντεβού με κάποια κοπέλα για πρώτη φορά.  Πέρασε 11 μαθήματα. Σιχαίνεται το τσιγάρο. Δεν είναι τακτικός. Όχι φωτάκι το βράδυ. Μικρότερος φοβόμουν τα βαθειά νερά και σκούρα, τώρα στο 20%. To νερό στο doucheα δεν το φοβάται.&#13;
+&#13;
+ Πρώτη πληροφορούμαι από την μητέρα τηλεφωνικά ότι:  Έπιασε τα άπλυτα και έβαλε πλυντήριο για πρώτη φορά τα ρούχα του. Σιχαίνεται πάρα πολύ, πλένει τα χέρια του συνέχεια του. Δεν αφήνει τον πατέρα του να καθίσει στο κρεββάτι (τότε πληροφορούμε και την κληρονομικότητα από τον πατέρα). Παλαιότερα λέρωνε τους καθρέπτες στο μπάνιο που καθόταν μέσα αρκετή ώρα. (Σκέψη για stram) Υπερκινητικός πολύ όταν μικρός , έπρεπε συνέχεια να τον πηγαίνουμε βόλτα &gt;&gt;&gt;καλύτερα ήταν με την κίνηση τότε. –σταμάτησε γύρω στα δώδεκα. Συχνή "αυτοϊκανοποίηση" όταν ήταν μωρό-βρέφος.  Η πρώτη δυναμική κρίση θυμού ήρθε γύρω στα 11-12 με τον γιό οικογενειακής παρέας. Πρίν 3 χρόνια έξαρση νεύρων 1φορά τον μήνα. Τώρα όχι&#13;
+</reaction>
+      <analysis>Παρατηρήθηκε πιθανώς μία επαναφορά του παλιού συμπτώματος της κατάθλιψης, αλλά υπήρξε βελτίωση στο θέμα του σιχαίνεται, έστω και εάν συνεχίζει να πλένει τα χέρια του συνέχεια. </analysis>
+      <conclusion>Απεφάσισθει το Shyph. λόγω της κληρονομικότητος αλλά και του έκδηλου συμπτώματος να πλένει συνεχώς τα χέρια του </conclusion>
+      <repertorization>
+        <desc>MIND DISGUST 3, MIND WASHING desire to always washing her hands 3, GENERALITIES SYPHILIS congenital 1.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>syphilinum 10M</remedy>
+        <potency>10Μ</potency>
+        <regimen>syphilinum 10M Χ1cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>2/ 1/2015 μετά από 15 ημέρες που πήρε το syphilinum Πυρετό 37.7&#13;
+Δεν παρατήρησε καμμία αλλαγή κυρίως στο πρόβλημα με το πλύσιμο των χεριών. Η σχέση με την κοπέλα εξελίχθηκε, αλλά εκείνη δεν ήταν έτοιμη να προχωρήσει περισσότερο. Τα νεύρα υπάρχουν αλλά σε φυσιολογικά πλαίσια, δεν παρατηρήθηκε μεγάλη έξαρση. </reaction>
+      <analysis>Παρά τον πυρετό πιθανώς το syphilinum να είναι κάπου βαθύτερα, ή να μην αξιολογήθηκαν σωστά οι τυχόν αλλαγές.</analysis>
+      <conclusion>Συστήνεται kali-ph 6x Χ 90 pills για ψυχολογικούς λόγους για τον ίδιο αλλά και για τον πατέρα του, ο οποίος είναι πολύ φορτικός</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>kali-ph 6x Χ 90 pills </remedy>
+        <potency>kali-ph 6x Χ 90 pills </potency>
+        <regimen>1Χ1 ημερησίως κάθε βράδυ</regimen>
+        <other_notes>Δεν αποφασίσθηκε επανάληψη του φαρμάκου αλλά αναμονή. Πιθανώς μικρό χρονικό διάστημα ακόμη για τόσο σοβαρές αλλαγές.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>8/4/2015 Mετά από 3 μήνες δεν υπήρξε βελτίωση με το syphilinum στο θέμα του πλυσίματος των χεριών και έτσι αποφασίζεται η επανάληψη του Causticum για τους προαναφερθέντες λόγους (αδικία και τραύλισμα)</reaction>
+      <analysis>-</analysis>
+      <conclusion>-&#13;
+</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>CAUSTICUM </remedy>
+        <potency>200CH /1M/ 12CH</potency>
+        <regimen>CAUSTICUM 200CH X1 cap την πρώτη ημέρα&#13;
+Causticum 1M X1 cap την δεύτερη ημέρα&#13;
+Causticum 12CH X60pills </regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date></followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>24/7/2015 Μεγάλη βελτίωση στην συμπεριφορά και στην επικοινωνία με τους φίλους και τον πατέρα του, λιγότερα νεύρα, σχεδόν καθόλου τσακωμούς. Πέρασε αρκετά μαθήματα –στόχος να τελειώσει όσο πιο γρήγορα γίνεται και πήγε και βρήκε και τον καθηγητή του γιατί είναι ΑΔΙΚΙΑ αυτό που του έγινε με κάποιο μάθημα</reaction>
+      <analysis>Βελτίωση στην συμπεριφορά, αλλά δεν μειώθηκε ο ρυθμός που πλένει τα χέρια του. Η μητέρα του λέει πως είναι πολύ πιό καλά. </analysis>
+      <conclusion>To causticum τον έχει βοηθήσει πολύ στην συμπεριφορά του και αστα νεύρα του, Πίανει τα άπλυτα ρούχα του, φοράει τα ρούχα του αδελφού του αλλά η λέξις ΑΔΙΚΟ πάντα αναφέρεται στην συνομιλία μας είτε τηλεφωνική είτε από κοντά. </conclusion>
+      <repertorization>
+        <desc>Συνέχιση του causticum</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Causticum</remedy>
+        <potency>200CH /1M/12CH</potency>
+        <regimen>Causticun 200CH Causticum 1M Causticum 12CH X60pills </regimen>
+        <other_notes>Υπάρχουν πολλά στοιχεία από την Calc και το Sulph και πρέπει να εξετασθούν σαν πιθανά φάρμακα, αλλά και η επανάληψη του Syph.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

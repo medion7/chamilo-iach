@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6860c010e981a68ca77dde6c4b685385</ID>
+  <patient>
+    <case_date>2015-02-12 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΕΕ</patient_initials>
+    <age>61</age>
+    <circumstances>Παντρεμένη με τρία παιδιά, συνταξιούχος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Τριχόπτωση (4)ξεκίνησε πριν 5-6 χρόνια στους κροτάφους περισσότερο ,ξαφνικά με ένα λούσιμο φύγανε τούφες μετά από έντονο stress κ στεναχώρια (,λόγω της κατάθλιψης που αντιμετωπίζει η κόρη της, που από 17 χρόνων έχει  διακυμάνσεις διάθεσης και βρίσκεται κάτω από φαρμακευτική αγωγή (enact) για κατάθλιψη, με διατροφικές διαταραχές βουλιμία και ανορεξία). Τωρα αραιώνει η τριχοφυία και στο κέντρο μετωπιαία(4) και  φεύγουν και τα φρύδια(3)&#13;
+Δεύτερο επίσης σημαντικό αίτιο προσέλευσης είναι ότι ξεχνάει ,κ δεν μπορεί να συγκεντρωθεί (3) κ αφαιρείται δεν εστιάζει κ δε θυμάται τι διάβασε και αυτό τη στεναχώρεί (3).Στο ραδιοφωνο ακούει  συζητήσεις όλη μέρα για θέματα που την ενδιαφέρουν, αλλά στο τέλος δεν έχει συγκρατήσει τίποτα το ίδιο κ στην τηλεόραση . Σκέφτεται συνεχώς και ασταμάτητα τα προβλήματα (4) που αντιμετωπίζει η οικογένειά της.</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>Ιλιγγοι από αυχενικό όταν ξυπνούσε μέχρι 2 χρόνια πριν . Από σύνταξη κ μετά πολύ λιγότερο . Σχεδόν ενα χρόνο τωρα δεν έχουν παρουσιαστεί ίλιγγοι.&#13;
+Μάτια : καταρράκτης&#13;
+Αναπνευστικό σύστημα:κφ&#13;
+Καρδιαγγειακό σύστημα:κφ&#13;
+Πεπτικό σύστημα:λόγω Γαστροοισοφαγικής δεν μπορεί να φάει οτι θέλει &#13;
+Δυσπεψία σε μαγειρευτά κ καούρα στον οισοφάγο ,ρεψίματα μια ώρα μετά από το φαγητό . Όχι φουσκώματα .&#13;
+Κενώσεις όχι καθημερινά λόγω διαιτολογίου ( μακαρόνια κ πατάτες),κάθε 2η ή 3ήμερο μέρα ,με φυσιολογική σύσταση .&#13;
+Πολλά αέρια (3),αθέλητα (2),άοσμα ,όλες τις ώρες, βροντωδη.(3) Άρια κ κατα την ούρηση κάποιες φορές &#13;
+Ουροποιητικό σύστημα:κφ&#13;
+Γεννητικό σύστημα:εμμηνόπαυση από τα 46. Όταν είχε περίοδο πολύ αίμα λόγω ινομυωματων κόκκινο κ κομμάτια &#13;
+Σεξουαλική επιθυμία:παλιά κφ από εμμηνόπαυση δεν έχει.&#13;
+Μύκητες (sporanox) & E.coli(Norosin) μέχρι πριν 5 χρόνια ,t;vra pia ;oxi.&#13;
+Αρθρώσεις:πόνος μέσης χρόνια πριν μετά δεξιά ισχιαλγια κ τον τελευταίο χρόνο δεξιά κ αριστερά δεν πονάει αλλά μόλις πέσει στο κρεβάτι κ κοιμηθεί πονάει δεξιά κ αριστερά (3)στη λεκάνη κ τα ισχία κ ξυπνάει από τον πόνο κ ανακουφίζεται μόνο ανάσκελα με μαξιλάρι κάτω από τη μέση (3)&#13;
+Όταν σηκώνεται είναι πιασμένη μέχρι να κάνει τα 2-3 πρώτα βήματα (2).&#13;
+Δέρμα: Φαγούρα στην πλάτη από χρόνια αριστερή ωμοπλάτη (2)κσπονδυλικη στήλη (2)πολύ συχνά . Ενοχλούν με φαγούρα τα γαντζακια του σουτιέν . Καφέ κηλίδες στις ράχες των χεριών (2), 5-6 χρόνια τωρα &#13;
+Νύχια:Ονυχοφαγια στο δεξί δείκτη από παιδί ,τωρα όχι συχνά, το κάνει κυρίως όταν βιάζεται κ νοιωθει οτι δε μπορεί να ξεφύγει χρονικά κυρίως </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,740 @@
+﻿1
+00:00:18,417 --> 00:00:22,219
+Tenemos un problema y el problema es este.
+
+2
+00:00:22,365 --> 00:00:29,833
+Les mostraré un caso, por ejemplo, y voy a hacer algunas preguntas al paciente.
+
+3
+00:00:30,354 --> 00:00:41,188
+Las preguntas que puse tienen un propósito de descubrir cuál es el remedio indicado para ese organismo.
+
+4
+00:00:41,292 --> 00:00:52,302
+Pero las preguntas son guiadas por el hecho de que conozco la Materia Medica.
+
+5
+00:00:52,406 --> 00:00:54,385
+¿Cuál es la Materia Médica?
+
+6
+00:00:54,490 --> 00:01:03,417
+La Materia Medica es la información que ha llegado de la experimentación de los remedios.
+
+7
+00:01:03,521 --> 00:01:11,750
+y ha sido registrada en una enciclopedia que se llama Materia Medica.
+
+8
+00:01:11,854 --> 00:01:24,250
+Eso significa que mi interrogatorio no será como un cuestionamiento de un médico convencional
+
+9
+00:01:24,354 --> 00:01:35,260
+que pregunta y quiere saber acerca de una patología específica por la que el paciente está sufriendo.
+
+10
+00:01:35,365 --> 00:01:42,302
+Me gustaría saber, a excepción de esta patología, la patología local
+
+11
+00:01:42,406 --> 00:01:56,542
+Me gustaría saber cómo responde su organismo de forma global y está tratando de equilibrar.
+
+12
+00:01:57,854 --> 00:02:13,865
+La idea de examinar un caso es averiguar cómo el organismo trata de lograr el equilibrio
+
+13
+00:02:13,969 --> 00:02:19,333
+para una determinada patología que sufre.
+
+14
+00:02:19,438 --> 00:02:33,125
+Por ejemplo, un hombre con una úlcera duodenal, que puede tener ardor de estómago
+
+15
+00:02:33,229 --> 00:02:43,125
+y dolor 3-4 horas después de comer. Esto es típico de la patología de úlcera duodenal.
+
+16
+00:02:44,948 --> 00:02:53,010
+Pero entonces no es suficiente para nosotros dar el remedio. ¿Por qué? Les diré por qué.
+
+17
+00:02:53,115 --> 00:03:05,250
+Debido a que un organismo quiere a fin de equilibrarse una gran cantidad de agua.
+
+18
+00:03:05,354 --> 00:03:13,635
+Así que la persona dice que está muy sedienta y no sólo sedienta sino que necesita agua
+
+19
+00:03:13,740 --> 00:03:18,698
+que es muy, muy fria.
+
+20
+00:03:20,250 --> 00:03:26,844
+La otra dice: No tengo sed en absoluto. No necesito agua.
+
+21
+00:03:26,948 --> 00:03:39,344
+En realidad, si bebo agua y sobre todo si el agua está fría, entonces tengo una reacción
+
+22
+00:03:39,448 --> 00:03:42,198
+y tengo náuseas.
+
+23
+00:03:42,302 --> 00:03:49,229
+Así que no podemos dar el mismo remedio a uno y al otro.
+
+24
+00:03:49,333 --> 00:03:57,552
+Tenemos que encontrar cuál es el remedio que se indica en este organismo.
+
+25
+00:03:57,656 --> 00:04:11,354
+De esta forma las modalidades o los diferentes síntomas que desarrolla un organismo
+
+26
+00:04:11,458 --> 00:04:18,760
+con el fin de contrarrestar el problema son innumerables.
+
+27
+00:04:20,073 --> 00:04:25,677
+Y de estos detalles, de la forma en que el organismo está reaccionando,
+
+28
+00:04:25,781 --> 00:04:32,979
+tratamos de averiguar el remedio individual que se indica.
+
+29
+00:04:33,083 --> 00:04:40,073
+Y este es el gran secreto de la Homeopatía.
+
+30
+00:04:40,177 --> 00:04:52,677
+Si no encuentran el remedio exacto que se necesita para un organismo, no hay ningún efecto.
+
+31
+00:04:54,510 --> 00:04:57,094
+Les voy a dar un ejemplo.
+
+32
+00:04:57,198 --> 00:05:04,563
+Mucha gente pensó ¿cómo es eso posible?, buscar este remedio, hay que estudiar,
+
+33
+00:05:04,667 --> 00:05:10,375
+ustedes tienen que tomar correctamente un caso, se necesita mucho tiempo
+
+34
+00:05:10,479 --> 00:05:20,271
+y sospecho que en una úlcera duodenal hay cerca de 20 remedios
+
+35
+00:05:20,375 --> 00:05:24,698
+que afectan principalmente a la úlcera duodenal.
+
+36
+00:05:24,802 --> 00:05:37,896
+¿Por qué no dar los 20?, lo que llamamos la polifarmacia, y uno de ellos
+
+37
+00:05:38,000 --> 00:05:45,021
+será el correcto entre ellos y muy probablemente ayudará al paciente.
+
+38
+00:05:46,073 --> 00:05:55,656
+Este fue un acuerdo hace muchos, muchos años que había en Francia
+
+39
+00:05:55,760 --> 00:06:03,729
+y en Alemania, las farmacias vendían especialidades de Homeopatía.
+
+40
+00:06:03,833 --> 00:06:15,104
+Especialidades para dolores de cabeza, especialidades para la bronquitis, especialidades para la gastritis, para la colitis,
+
+41
+00:06:15,208 --> 00:06:28,219
+para la úlcera duodenal, etc. Este tipo de homeopatía. La homeopatía es charlatanería.
+
+42
+00:06:28,479 --> 00:06:35,323
+Si usted es un charlatán, puede prescribir de esta manera.
+
+43
+00:06:35,427 --> 00:06:43,656
+De lo contrario si ustedes desean ayudar a su paciente, tienen que sentarse
+
+44
+00:06:43,760 --> 00:06:54,333
+y muy metódicamente obtener toda la información de su organismo y luego estudiar adecuadamente
+
+45
+00:06:54,438 --> 00:06:57,635
+con el fin de encontrar qué?
+
+46
+00:06:57,740 --> 00:07:10,750
+Para encontrar el remedio que tiene el mismo tipo de frecuencia vibratoria en realidad.
+
+47
+00:07:12,333 --> 00:07:15,333
+¿Ven ustedes la idea?
+
+48
+00:07:15,438 --> 00:07:31,219
+Debido a que el remedio no contiene una infinitesimalmente pequeña cantidad del remedio.
+
+49
+00:07:31,323 --> 00:07:33,563
+Así que ¿qué están dando?
+
+50
+00:07:35,229 --> 00:07:44,500
+Transforman el remedio a un remedio energético y luego dan energía.
+
+51
+00:07:44,604 --> 00:07:51,635
+Pero la energía que afecta a la energía, puede afectar ¿a través de qué?
+
+52
+00:07:53,375 --> 00:08:00,823
+No se puede afectar el aire tomando una piedra y lanzándola al aire.
+
+53
+00:08:00,927 --> 00:08:12,281
+Se afecta una sustancia del aire por otra sustancia del aire y entonces pueden mezclarlos
+
+54
+00:08:12,385 --> 00:08:16,458
+y entonces hay un efecto.
+
+55
+00:08:16,990 --> 00:08:26,521
+Líquido con el líquido. Entonces pueden mezclarlos. El líquido con el aire no se puede.
+
+56
+00:08:26,625 --> 00:08:35,635
+Aquí tenemos energía y cuando lo mezclamos con la energía del organismo ...
+
+57
+00:08:35,740 --> 00:08:47,708
+¿Cuál es la idea de afectar a la energía, que afecta a esa energía?
+
+58
+00:08:50,323 --> 00:08:53,958
+Les daré otro ejemplo.
+
+59
+00:08:55,521 --> 00:09:01,427
+¿Cuántos de ustedes tocan la guitarra?
+
+60
+00:09:04,031 --> 00:09:21,115
+Si se toca una nota "la" y tiene a su lado una cuerda que está en esta frecuencia,
+
+61
+00:09:21,219 --> 00:09:29,490
+la otra cuerda sin tocarla comienza a vibrar. Si se trata de 'La', que es la misma frecuencia.
+
+62
+00:09:29,594 --> 00:09:34,135
+Así que esta es la idea, la misma frecuencia.
+
+63
+00:09:34,240 --> 00:09:49,490
+Ustedes encontrarán la frecuencia del organismo haciendo toda esta investigación y, de hecho excavar,
+
+64
+00:09:49,594 --> 00:09:56,260
+trayendo al frente la sintomatología del paciente.
+
+65
+00:09:56,365 --> 00:10:02,563
+Pero ¿cuál es la diferencia? No es sólo que tenemos que saber
+
+66
+00:10:02,667 --> 00:10:14,448
+la sintomatología física del paciente. Por lo tanto, el ser humano no es sólo cuerpo material.
+
+67
+00:10:14,552 --> 00:10:29,802
+Hablamos y hablamos cuando tenemos las ideas en otro plano y tenemos también las emociones.
+
+68
+00:10:29,906 --> 00:10:43,073
+Así que somos emociones, somos ideas, estamos pensando y tenemos cuerpos físicos.
+
+69
+00:10:43,177 --> 00:10:58,104
+Todos y cada uno de los casos de patología pudieran afectar, no necesariamente afectará
+
+70
+00:10:58,208 --> 00:11:04,604
+pero puede afectar el estado mental y emocional del ser humano.
+
+71
+00:11:04,708 --> 00:11:13,740
+Así que si una patología ha afectado a los sentimientos o la manera de pensar de un ser humano,
+
+72
+00:11:13,844 --> 00:11:19,990
+entonces tenemos que conocer los cambios, cómo ha afectado.
+
+73
+00:11:20,094 --> 00:11:24,500
+¿Saben cómo se produce la úlcera duodenal?
+
+74
+00:11:25,552 --> 00:11:43,417
+Una úlcera duodenal se produce cuando la ira no se expresa en tiempo y se mantiene en el interior
+
+75
+00:11:43,521 --> 00:11:56,958
+y toda la ira que se reprime en el interior produce ácidos que queman las membranas mucosas
+
+76
+00:11:57,063 --> 00:12:04,000
+generalmente del duodeno o del estómago, en cuyo caso usted tendrá gastritis,
+
+77
+00:12:04,104 --> 00:12:12,229
+o el duodeno, en cuyo caso tendrán úlcera duodenal o afectarán al colon,
+
+78
+00:12:12,333 --> 00:12:15,458
+en cuyo caso ustedes tendrán colitis.
+
+79
+00:12:18,323 --> 00:12:29,417
+Por lo tanto, reprimir la ira crea una situación en la que el cuerpo físico
+
+80
+00:12:29,521 --> 00:12:38,021
+y los dos están afectando a los demás y es por eso que han descubierto
+
+81
+00:12:38,125 --> 00:12:51,917
+y es muy conocido lo que ellos llaman la medicina psicosomática.
+
+82
+00:12:52,438 --> 00:13:03,792
+La única medicina psicosomática que existe es la homeopatía, porque esta es la medicina
+
+83
+00:13:03,896 --> 00:13:11,083
+que toma en cuenta la parte psicólogica y la física.
+
+84
+00:13:11,188 --> 00:13:18,125
+Y hay leyes según las cuales están procediendo.
+
+85
+00:13:18,229 --> 00:13:25,938
+Ustedes no están tratando ... para su depresión le daré un antidepresivo
+
+86
+00:13:26,042 --> 00:13:28,896
+y ¿qué sucede después de eso?
+
+87
+00:13:29,677 --> 00:13:36,521
+Debido a que está ansioso, yo doy un remedio ansiolítico.
+
+88
+00:13:36,625 --> 00:13:45,635
+Es como tratar de apuntar a un punto en el organismo,
+
+89
+00:13:47,510 --> 00:14:01,688
+donde una persona deprimida es una persona que no produce enzimas, los opiáceos
+
+90
+00:14:01,792 --> 00:14:06,490
+que dan una sensación de bienestar.
+
+91
+00:14:09,344 --> 00:14:12,646
+Hay una serie de hechos.
+
+92
+00:14:12,750 --> 00:14:23,313
+Alguien perdió su trabajo, tiene una pelea con el director, ellos gritan
+
+93
+00:14:24,469 --> 00:14:31,646
+y luego dice que se va de la empresa, no quiero estar en su compañía más,
+
+94
+00:14:31,750 --> 00:14:40,865
+usted es esto y lo otro y se va.
+
+95
+00:14:41,573 --> 00:14:54,167
+Una persona que ha manifestado toda su ira, no tiene peligro de afectar su cuerpo.
+
+96
+00:14:54,688 --> 00:15:01,938
+Él habló, dijo lo que tenía que decir y se siente aliviado.
+
+97
+00:15:02,042 --> 00:15:13,729
+Otra persona va a la persona que le ha acusado injustamente, él trata de decirle
+
+98
+00:15:13,833 --> 00:15:21,292
+que no soy responsable de este error, no, usted es responsable, no puede hablar,
+
+99
+00:15:21,396 --> 00:15:29,531
+la cólera está aumentando cada vez más y es despedido de esa empresa.
+
+100
+00:15:29,635 --> 00:15:37,865
+Esa persona dentro de 3-4 días comenzará a tener dolores en el estómago a causa de la ira.
+
+101
+00:15:37,969 --> 00:15:54,448
+A causa de la ira, el paciente va con el médico que solo ve la patología
+
+102
+00:15:54,552 --> 00:15:59,385
+no toma en cuenta lo que ocurrió, la ira reprimida.
+
+103
+00:15:59,490 --> 00:16:07,031
+Lo que sabe es que los ácidos del estómago están aumentando.
+
+104
+00:16:07,135 --> 00:16:13,281
+Por tanto, yo le daré un remedio anti-ácido.
+
+105
+00:16:13,385 --> 00:16:25,781
+Tome un remedio anti-ácido, se lo toma todos los días y luego ¿que pasa?
+
+106
+00:16:25,885 --> 00:16:31,510
+No permiten la reacción física del organismo, la suprimen,
+
+107
+00:16:31,615 --> 00:16:41,250
+no permiten que se produzca el ácido, para sacar el veneno del organismo.
+
+108
+00:16:41,354 --> 00:16:52,188
+Por lo tanto, al no permitir que haya salido la ira del estómago, entonces la ira
+
+109
+00:16:52,292 --> 00:17:02,333
+que estaba en el interior y expresaba la ira a través del ácido en el estómago
+
+110
+00:17:02,438 --> 00:17:11,104
+no puede expresar más y la persona se deprime.
+
+111
+00:17:11,906 --> 00:17:16,448
+Así que ahora la depresión es mucho más una enfermedad grave
+
+112
+00:17:16,552 --> 00:17:20,812
+que la ira reprimida que era antes.
+
+113
+00:17:22,375 --> 00:17:32,010
+A continuación, depresión y depresión hasta que un día la persona se suicida.
+
+114
+00:17:33,052 --> 00:17:38,000
+¿Ven cómo están sucediendo las cosas.?
+
+115
+00:17:38,521 --> 00:17:42,771
+Yo describo a ustedes a groso modo lo que sucede.
+
+116
+00:17:46,385 --> 00:17:58,531
+En realidad al dirigir el medicamento a una parte de su cuerpo no soluciona el problema.
+
+117
+00:17:59,823 --> 00:18:12,229
+Si doy un remedio que puede detener el ácido que sale no es una buena idea
+
+118
+00:18:12,333 --> 00:18:19,771
+porque puede suprimir y luego todas las diferentes reacciones se llevarán a cabo
+
+119
+00:18:19,875 --> 00:18:25,885
+dentro del organismo y un problema más profundo se manifestará.
+
+120
+00:18:27,438 --> 00:18:40,240
+Si tengo un caso y ella me dice, tengo un problema, mi principal problema es con la menstruación.
+
+121
+00:18:40,344 --> 00:18:46,948
+Tengo mucho dolor antes de la menstruación, durante la menstruación, una gran cantidad de sangrado ...
+
+122
+00:18:48,865 --> 00:18:51,469
+¿Por qué tiene este problema?
+
+123
+00:18:52,510 --> 00:19:00,583
+Tal vez no sabemos, tal vez no podemos encontrar la verdadera razón, pero tenemos que investigar ¿por qué.?
+
+124
+00:19:01,417 --> 00:19:12,458
+Incluso si no podemos encontrarlo, entonces podemos ir a sus ancestros. ¿La madre tenía el mismo síndrome?
+
+125
+00:19:12,562 --> 00:19:17,938
+Entonces podemos explicarlo por la predisposición genética.
+
+126
+00:19:18,042 --> 00:19:29,135
+Entonces no podemos encontrarlo porque es desconocido pero no damos un remedio
+
+127
+00:19:29,240 --> 00:19:40,854
+o no tenemos remedio para detener el exceso de sangre o detener los dolores en el abdomen.
+
+128
+00:19:42,688 --> 00:19:51,104
+Por lo general, las mujeres toman espasmolíticos para contrarrestar los dolores.
+
+129
+00:19:52,156 --> 00:20:04,802
+Así, mientras que el problema es local, empezamos investigando qué tipo de temores pueda tener,
+
+130
+00:20:04,906 --> 00:20:11,844
+¿qué pasa con la ansiedad?, ¿qué pasa con los miedos, depresiones,
+
+131
+00:20:11,948 --> 00:20:16,885
+la estructura mental-emocional de este organismo?
+
+132
+00:20:17,677 --> 00:20:28,760
+Junto con algunas otras áreas en las que, aparte del síndrome premenstrual,
+
+133
+00:20:28,865 --> 00:20:33,042
+ella también tiene un estreñimiento crónico.
+
+134
+00:20:33,812 --> 00:20:43,615
+Así que todo esto, la sintomatología mental-emocional, la sintomatología menstrual
+
+135
+00:20:43,719 --> 00:20:55,865
+y la sintomatología estreñimiento se estudian en conjunto con el fin de encontrar el remedio
+
+136
+00:20:55,969 --> 00:21:05,594
+que se sincroniza con la sintomatología global.
+
+137
+00:21:13,583 --> 00:21:18,396
+Hice esta introducción para aquellos que no saben que
+
+138
+00:21:18,500 --> 00:21:33,427
+cuando vean tomar un caso dirán ¿por qué está haciendo George preguntas irrelevantes?
+
+139
+00:21:33,687 --> 00:21:42,271
+Ella vino por dolores de cabeza y se le pregunta si tiene diarrea o estreñimiento
+
+140
+00:21:42,375 --> 00:21:51,302
+y si sus menstruaciones son normales o no normal. Pero vine aquí por mis dolores de cabeza.
+
+141
+00:21:51,406 --> 00:22:01,635
+El problema que ha habido hasta ahora con la homeopatía es que las personas
+
+142
+00:22:01,740 --> 00:22:11,260
+que practican la homeopatía no entendían las verdades básicas de la homeopatía,
+
+143
+00:22:11,365 --> 00:22:19,865
+que tenemos leyes según las cuales prescribimos y luego pensaron
+
+144
+00:22:19,969 --> 00:22:27,146
+prescribimos sintomáticamente, de acuerdo con los síntomas.
+
+145
+00:22:27,250 --> 00:22:36,052
+Alguien relata algunos síntomas y el homeópata dará una prescripción.
+
+146
+00:22:37,552 --> 00:22:48,323
+Tengo dolores en el abdomen antes de la menstruación, OK voy a dar 5 remedios, toma 10 remedios
+
+147
+00:22:48,427 --> 00:22:52,510
+que tegan dolores antes de la menstruación.
+
+148
+00:22:52,615 --> 00:23:08,896
+Pero eso es un error, y no sólo no curan sino que pueden suprimir hasta cierto punto este dolor
+
+149
+00:23:09,000 --> 00:23:20,323
+que va a ser transformado ahora en un problema más profundo de la patología
+
+150
+00:23:20,427 --> 00:23:24,792
+y por lo general en el nivel mental y emocional.
+
+151
+00:23:26,604 --> 00:23:38,750
+Así es como hemos empujado las enfermedades del cuerpo físico a la esfera mental-emocional
+
+152
+00:23:38,854 --> 00:23:44,750
+y hemos hecho una sociedad de hoy, que es una sociedad de locos.
+
+153
+00:23:48,135 --> 00:23:51,250
+¿Creen ustedes que estamos sanos?
+
+154
+00:23:53,260 --> 00:24:04,969
+Estamos insanos pero porque todo el mundo está insano y admitimos que todo el mundo está bien.
+
+155
+00:24:05,750 --> 00:24:14,354
+¿Pero cuáles son estas reacciones que estamos teniendo cada uno?
+
+156
+00:24:14,865 --> 00:24:22,240
+Lo que sucede en Estados Unidos. Un niño toma la pistola de su padre, va a la escuela
+
+157
+00:24:22,344 --> 00:24:29,667
+y mata 1,2,3,4,5 compañeros de clase.
+
+158
+00:24:30,156 --> 00:24:40,281
+Otro toma un arma y mata a sus colegas, estos son los extremos
+
+159
+00:24:40,385 --> 00:24:49,240
+pero ¿estas son las reacciones de una sociedad que está cuerda?
+
+160
+00:24:53,323 --> 00:25:02,073
+Tal vez dirán que tomo algunos ejemplos extremos. No son solo algunos ejemplos extremos.
+
+161
+00:25:03,688 --> 00:25:18,500
+Tienen todos los días los combates que tienen lugar dentro de una familia
+
+162
+00:25:19,292 --> 00:25:26,979
+y verán en la familia que se despedazan entre sí
+
+163
+00:25:30,833 --> 00:25:40,979
+y podrán ver las reacciones histéricas, verán reacciones locas en la familia.
+
+164
+00:25:42,313 --> 00:25:49,219
+Los niños ya no saben lo que es normal y lo que no es normal.
+
+165
+00:25:49,323 --> 00:25:53,885
+Los padres ya no saben lo que es normal.
+
+166
+00:25:53,990 --> 00:26:04,135
+Un niño de 12 años de edad tiene relaciones sexuales y la madre y el padre piensa que es normal.
+
+167
+00:26:04,240 --> 00:26:06,073
+No es normal.
+
+168
+00:26:11,271 --> 00:26:22,115
+En el momento en que un niño 12,13,14,15,16,17 comienza a tener relaciones sexuales a partir de ese momento
+
+169
+00:26:22,219 --> 00:26:29,656
+en adelante comienza la locura, el niño se comportará de una manera loca.
+
+170
+00:26:29,760 --> 00:26:37,479
+Porque ella saldrá herida, ella será usada y desarrollará el odio,
+
+171
+00:26:37,583 --> 00:26:48,156
+se convertirá en una feminista, ella tendrá muchos problemas mentales y emocionales después de eso.
+
+172
+00:26:48,260 --> 00:26:53,281
+Y luego va a la sociedad y acusa a la sociedad
+
+173
+00:26:59,271 --> 00:27:05,354
+ya que todos en la sociedad están más o menos en el mismo barco.
+
+174
+00:27:07,177 --> 00:27:19,073
+Se entiende y la sociedad dice que es aceptable.
+
+175
+00:27:19,583 --> 00:27:34,521
+Todo es aceptable y ven todas las desviaciones y la locura que está pasando.
+
+176
+00:27:36,083 --> 00:27:38,427
+Vivimos en esa sociedad.
+
+177
+00:27:42,073 --> 00:27:45,885
+¿Cómo se ha producido esta sociedad?
+
+178
+00:27:45,990 --> 00:27:58,500
+Ustedes saben la responsabilidad del medicamento equivocado, aplicando medicinas equivocadas.
+
+179
+00:27:59,010 --> 00:28:09,083
+Esa parte es bastante grande, yo diría que en un 60% es responsable de este tipo de sociedad.
+
+180
+00:28:09,188 --> 00:28:15,438
+Las vacunas, la medicina convencional, los antibióticos y todo eso.
+
+181
+00:28:17,000 --> 00:28:26,010
+Es por ello que las sociedades occidentales, Europa, América, Canadá se encuentran en ese estado.
+
+182
+00:28:26,115 --> 00:28:42,688
+No los países en desarrollo como América del Sur, que son personas mucho más aterrizadas.
+
+183
+00:28:46,344 --> 00:29:01,448
+Y también a los asiáticos. También tienen algunos ejemplos pero es muy limitado.
+
+184
+00:29:02,219 --> 00:29:09,677
+En nuestra sociedad, porque todos estamos vacunados, todos hemos tomado antibióticos,
+
+185
+00:29:09,781 --> 00:29:23,083
+todos tenemos este miasma, estaremos hablando del miasma, este miasma de la desviación cultural.
+

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELecefc4e433b9252ab5557409a9ab9a19</ID>
+  <patient>
+    <case_date>2013-09-01 11:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΡΓ</patient_initials>
+    <age>79</age>
+    <circumstances>(2 παιδιά, παντρεμένος,μαγαζατορας) </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από την νεανικη ηλικια (23-25 ετών) &#13;
+&#13;
+</origin>
+        <causative_factors>Στρεσάρισμα από την μετακόμιση για σπουδές</causative_factors>
+        <modalities>Καλυτέρευση το καλοκαίρι στην έκθεση στον ήλιο και στην θάλασσα και επιδείνωση τον χειμώνα</modalities>
+        <occurrence_time>Καλυτέρευση τους καλοκαιρινούς μήνες και επιδείνωση τον χειμώνα.&#13;
+&#13;
+</occurrence_time>
+        <body_side>Εκτατικές επιφάνειες των μεγάλων αρθρώσεων και κυρίως στους αγκώνες και τα γόνατα και στα νύχια χεριών και ποδιών και στο τριχωτό της κεφαλής.</body_side>
+        <appearence_frequency>Διαρκής παρουσία των δερματικών βλαβών με τις παραπάνω διακυμάνσεις κατά την διάρκεια του χρόνου.</appearence_frequency>
+        <pain_desc>Ελαφριά φαγούρα.</pain_desc>
+        <complaint_ext>Νυχια χεριων και ποδιων και τριχωτο της κεφαλης</complaint_ext>
+        <other_complaints>Κιρσοί κάτω άκρων, ευερέθιστο κόλον.&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ψωριαση&#13;
+Κορτιζονουχες αλοιφες, ασπιρινη</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Κορτιζονούχες αλοιφές για την ψωρίαση, εμβολιασμός εναντίον της ευλογιάς(1945), κατά της φυματίωσης και της ιλαράς (1943-48) και τα τελευταία χρόνια εναντίον της γρίππης.&#13;
+&#13;
+</therapies_vaccination>
+          <traumas>1.Αποχωρισμός από τους γονείς του σε ηλικία 12 ετών για να σπουδάσει αρχικά σε άλλη πόλη και κατόπιν στο εξωτερικό σε συνθήκες ένδειας.&#13;
+2.Βίαος θάνατος-απώλεια των παππούδων στην περίοδο της κατοχής (εκτέλεσή τους μπροστά του)&#13;
+Σωματικά&#13;
+1.	Ελαφριά κάκωση κεφαλής σε αθλητική δραστηριότητα&#13;
+&#13;
+</traumas>
+          <infections>Καμία ανάμνηση παιδικών ασθενειών&#13;
+Κοινό κρυολόγημα 1 φορά ανά ένα ή δύο χρόνια&#13;
+</infections>
+          <other>Χρόνια φαρυγγίτιδα&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>Ηπατίτιδα και ασκίτης του πατέρα, θάνατος από έμφρακτο καρδιάς σε ηλικία 60 χρόνων.&#13;
+καταρράκτης της μητέρας, και θάνατος σε προχωρημένη ηλικία.&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Δεν αντεχει το κρυο(2), ενώ ανεχεται αρκετα την ζεστη(1), αλλα καθολου τον ηλιο(2) και την ακτινοβολια (αντηλια).&#13;
+</reactions>
+        <sleeping_habits>Στην δεξια πλευρα, σπανια ονειρα, ανησυχια πριν από στρεσογονα γεγονοτα(3) (πχ δικαστηριο)&#13;
+</sleeping_habits>
+        <food_modalities>Καυτερα και τουρσι(2), αλμυρα(1), τυρι φετα(2), λιγο κρασι η ουζο, ελιες(2), φρουτα(1), γιαουρτι(1), γλυκα(1). Σε καταναλωση καποιων φρουτων (κερασια) η σε μεγαλες ποσοτητες, πολύ συχνα ευκοιλια(3). Σε λιπαρα ενιοτε δυσπεψια(1)Δεν τρώει ποτέ μπάμιες (4) και του αρέσει πολύ η μελιτζάνα (3)</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional> Ελαφρια αφηρημαδα τους τελειυταιους μηνες.&#13;
+Ευερεθιστοτητα, ανησυχια σε στρεσογονες καταστασεις που αφορουν τα οικονομικα και την υγεια, ελαφρια θλιψη σε αναποληση παλιων γενονοτων. Λογω εσωστρεφειας δεν τα μοιραζεται.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+2012-2013 &#13;
+1959-65 Εμφανιση ψωριασης (3)μετα από μετακόμιση  και συναισθηματικο στρες.&#13;
+1967 Ευερεθιστο κολον (2) από τα νεανικα χρονια με ενεργοποιηση σε μεταβολες της ποσοτητας της τροφης και σε τακτικα πλουσια γευματα(2)&#13;
+1980 Χρονια φαρυγγιτιδα(1) με ευαισθησια στον καπνο και ενοχληση σε διαρκη ομιλια κυριως τους χειμερινους μηνες&#13;
+2005 Κιρσοι (2)από συνεχη ορθοστασια στην εργασια.&#13;
+&#13;
+Κρυολογηματα σε περιοδους εντονης κουρασης και επιδημιων&#13;
+</personal_medical_history>
+        <family_medical_history>Καρδιακά και ηπατική πάθηση πατρός (συκώτικο μιασμα) και δερματικές παθήσεις) (ψωρικό μίασμα)</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Καλη γενικη υγεια, επιβαρυνση από μιασματα, καλη γενικη προγνωση.&#13;
+&#13;
+Καλο επιπεδο υγειας με σπανιες οξείες  νοσους και υψηλο πυρετο. Ανηκει στο πρωτο γκρουπ υγειας, πιθανον στο 2ο επιπεδο και εχει καλη προγνωση&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ευερεθιστοτητα (2)&#13;
+Αποφυγη μοιρασματος των ανησυχιων(4) και δυσφορια με την παρηγορια (3)&#13;
+Ανησυχια στον υπνο εν οψει καταστασεων που εχουν δημιουργηθει η θα συμβουν προγραμματισμενα (3)&#13;
+Δυσανεξια στον ηλιο (3)&#13;
+Απεχθεια στον καπνο του τσιγαρου (2)&#13;
+Επιθυμια και επιδεινωση με τα καυτερα (2)&#13;
+Επιθυμια για τα ξινα (2) και τα πικαντικα (3), και αλμυρα (2)&#13;
+Απέχθεια για μπάμιες (4), γλοιώδη (3)&#13;
+Επιθυμία για μελιτζάνα (3)&#13;
+&#13;
+&#13;
+</peculiar>
+        <intense>Ερυθροτητα(3) και εντονη φαγουρα σε εξαρσεις της ψωριασης, τελευταια περισσοτερο στο τριχωτο της κεφαλης με εντονη ερυθροτητα στα ορια τριχωτου της κεφαλης και προσωπου που δεν υποχωρει στην τοπικη αγωγη με κορτιζονουχα.&#13;
+Απολεπιση και πιτυριδα στο τριχωτο της κεφαλης (2)&#13;
+Προσβολη των ονυχων με λευκανση, παραμορφωση και ευθραυστοτητα (αντιχειρες και μεγαλο δακτυλο ποδιου) (2)&#13;
+Φαγουρα και απολεπιση με σκληρες πλακες στις εκτατικες επιφανειες σε αγκωνες και γονατα τον χειμωνα (3).&#13;
+Χρονιος καθαρισμος του λαιμου από βλεννα (2) και ξεροβηχας (1)&#13;
+Πονος στις γαμπες από τους κιρσους σε ορθοστασια (2)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Mind, anxiety. night(3)&#13;
+Mind ,anxiety, bed, in (3)&#13;
+Mind, cares, full of (3)&#13;
+Mind, cares, full of, bed, in (3)&#13;
+Sleep, disturbed, anxiety, from (3)&#13;
+Mind, irritability (2)&#13;
+Mind, reserved (30&#13;
+Mind, consolation agg (3)&#13;
+Mind, sleeplessness, agg (2)&#13;
+Sleep, sleeplessness, thoughts (2)&#13;
+&#13;
+&#13;
+Head, sun, exposure to sun, aggr (3)&#13;
+&#13;
+Generals, sun, exposure tho the sun, agg (3)&#13;
+Generals, heat, lack of vital heat (3)&#13;
+Generals, light agg, daylight .(2)&#13;
+Generals, food and drinks, pepper, desire of (3)&#13;
+Generals, food and drinks, occra, aversion of (4)&#13;
+Generals, food and drinks, slimy, aversion of (3)&#13;
+Generals, food and drinks, aubergines, desire of, (3)&#13;
+Generals, food and drinks, spices, desire of (3)&#13;
+Generals food and drinks, spices, agg (3)&#13;
+Generals, food and drinks, salt, desire of (3)&#13;
+Skin, eruptions (2)&#13;
+Skin, eruptions, scaly (2)&#13;
+Head, eruptions, itching (3)&#13;
+Head, eruptions, psoriasis (3)&#13;
+Extremities,nails, complains of,  discoloration, fingers, nails  (2)&#13;
+Extremities, nails, complaints of,  discoloration, toes, nails (2)&#13;
+Extremities, nails, thick, finger, nails (2)&#13;
+Extremities, nails, complaints of, thick, toes, nails, (2)&#13;
+Skin, eruptions, psoriasis (3)&#13;
+Extremities, elbow, complaints of, tip (3)&#13;
+Extremities, knees, complaints, of (3)&#13;
+Throat, inflammation, pharynx (2&#13;
+Cough, druness, from Throat, in (2)&#13;
+Cough, dry, (1)&#13;
+Throat, hawk, disposition to, (2)&#13;
+Complaints of the abdomen, accompanied by diarrhea (2)&#13;
+Complaints of the admomen, accompanied by constipation (2)&#13;
+Extremities, pain, burning, standing (3)&#13;
+Extremities, pain, grasping, lower limbs (3)&#13;
+Extremities, pain, griping, leg, calf (3)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Natrium muriaticum, Medorrhinum, (Sulphur)&#13;
+Πολλά από τα χαρακτηριστικά στην συμπεριφορά του ατόμου αυτού παραπέμπουν στον κλειστό χαρακτήρα του&#13;
+Natrium muriaticum, μαζί με την εσωστρέφεια και την αφοσίωση στην δουλειά την οικογένεια, και τον σύντροφο, (κατά Βυθούλκα). Επιπλέον οι δερματικές βλάβες περιλαμβάνονται στα συμπτώματα που μπορεί να εμφανίσει το φάρμακο αυτό. Μέχρι και οι προτιμήσεις στις τροφές με το αλάτι, τα πικάντικα και την απέχθεια στα γλοιώδη είναι παρόντα. Το τελευταίο χαρακτηριστικό το έχει κοινό με το Medorrhinum, το οποίο παρουσιάζει επίσης την κολλημένη βλέννα στον λαιμό και την λαχτάρα για τα πορτοκάλια και την επιθυμία για το ξινό που βρίσκουμε στα συμπτώματα αυτής της περίπτωσης, Αυτό που λείπει για να επιβεβαιώσει το Medorrhinum είναι η λατρεία ή η έντονη βελτίωση από την θάλασσα. Ναι μεν υπάρχει βελτίωση της ρινικής καταροής από την θάλασσα και της ψωρίασης από το ιώδιο και το αλάτι της θάλασσας αντίστοιχα, αλλά 1ον) η βελτίωση από τον ήλιο και την θάλασσα είναι συνηθισμένη για την ψωρίαση και 2ον) τα συμπτώματα του πονόλαιμου και της ρινικής καταρροής βελτιώνονται αλλά δεν εξαφανίζονται πλήρως. Επίσης δεν επιβεβαιώνεται το φάρμακο από την στάση στον ύπνο ή την βραδινή βελτίωση, εφόσον ο ασθενής είναι ξεκάθαρα πρωινός τύπος και κοιμάται στο πλάι. Το Sulphur εμφανίζει επίσης αυτές τις δερματικές αλλοιώσεις, αλλά είναι πολύ ζεστό φάρμακο, επικριτικό και αποφεύγει τα ξινά και τις ελιές, για να αναφέρουμε μόνο μερικά από τα στοιχεία που είναι τελείως αντίθετα με τα χαρακτηριστικά του ασθενούς. Τέλος, ψηλά στο Repertorization βγαίνει και το  Arsenicum (repertory) , αλλά η κράση του ασθενούς είναι μάλλον πιο δυνατή από αυτή του Arsenicum και δεν υπάρχει συνεχές άγχος για την υγεία του. Η ανησυχία το βράδυ για επικείμενα γεγονότα αρμόζει περισσότερο στο Natrium muriaticum που αναλώνεται σε αυπνία από σκέψεις για επερχόμενα γεγονότα ή και παλιές καταστάσεις που δεν έχει μπορέσει να επεξεργαστεί ψυχικά.&#13;
+Συνολικά, και προφανώς λόγω του υψηλού επιπέδου υγείας του ασθενούς, έχουμε την περίπτωση μιας καθαρής εικόνας Natrium Muriaticum, που σχεδόν πληρεί τα χαρακτηριστικά αυτού που λέμε ιδιοσυγκρασικό φάρμακο, εφόσον η συμπεριφορά του ατόμου σε όλα τα επίπεδα διατρέχεται από την πολύ χαρακτηριστική εικόνα (essence) του φαρμάκου αυτού. Σε έναν μικρότερο βαθμό συνυπάρχει και ένα μέρος της εικόνας του Medorhinum (υποκείμενο επίπεδο), πιθανόν από μιασματική επιβάρυνση, αφού στο ιστορικό δεν διαπιστώθηκε μόλυνση γονορροιακή.&#13;
+Το Natrium muriaticum καλύπτει το essence και το σύνολο των συμπτωμάτων (totality of symptoms)  και είναι και το φάρμακο που δόθηκε. Υπάρχει μια μικρή πιθανότητα στο μέλλον να χρειαστεί και το Medorrhinum. Αυτό βέβαια θα εξαρτηθεί από την εξέλιξη. &#13;
+	&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Natrium Muriaticum </remedy>
+        <potency>1M</potency>
+        <regimen>Μία δόση&#13;
+&#13;
+</regimen>
+        <other_notes>Προειδοποίηση ότι θα πρέπει να αποφύγει τον καφέ και τα αλλοπαθητικά φάρμακα κατά την διάρκεια της ομοιοπαθητικής αγωγής.&#13;
+</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-21 09:00:00</followup_date>
+      <conv_med_presc>Κορτιζονούχες αλοιφές και λοσιόν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις πρωτες μερες αλλαγες στις κενωσεις και ελαττωση ερυθροτητας και μετα επιδεινωση στο τριχωτο της κεφαλης.</reaction>
+      <analysis>Αντιδότηση από την οδοντόπαστα. Επανάληψη του φαρμάκου που ενδείκνυται ακόμα στην ίδια δυναμοποίηση</analysis>
+      <conclusion> Αντιδότηση από την οδοντόπαστα. Επανάληψη του φαρμάκου που ενδείκνυται ακόμα στην ίδια δυναμοποίηση.</conclusion>
+      <repertorization>
+        <desc>Mind, anxiety. night(3)&#13;
+Mind ,anxiety, bed, in (3)&#13;
+Mind, cares, full of (3)&#13;
+Mind, cares, full of, bed, in (3)&#13;
+Sleep, disturbed, anxiety, from (3)&#13;
+Mind, irritability (2)&#13;
+Mind, reserved (3)&#13;
+Mind, consolation agg (3)&#13;
+Mind, sleeplessness, agg (2)&#13;
+Sleep, sleeplessness, thoughts 920&#13;
+&#13;
+&#13;
+Head, sun, exposure to sun, aggr (3)&#13;
+&#13;
+Generals, sun, exposure tho the sun, agg (3)&#13;
+Generals, heat, lack of vital heat (3)&#13;
+Generals, light agg, daylight .(2)&#13;
+Generals, food and drinks, pepper, desire of (3)&#13;
+Generals, food and drinks, occra, aversion of (4)&#13;
+Generals, food and drinks, slimy, aversion of (3)&#13;
+Generals, food and drinks, aubergines, desire of, (3)&#13;
+Generals, food and drinks, spices, desire of (3)&#13;
+Generals food and drinks, spices, agg (3)&#13;
+Generals, food and drinks, salt, desire of (3)&#13;
+Skin, eruptions (2)&#13;
+Skin, eruptions, scaly (2)&#13;
+Head, eruptions, itching (3)&#13;
+Head, eruptions, psoriasis (3)&#13;
+Extremities,nails, complains of,  discoloration, fingers, nails  (2)&#13;
+Extremities, nails, complaints of,  discoloration, toes, nails (2)&#13;
+Extremities, nails, thick, finger, nails (2)&#13;
+Extremities, nails, complaints of, thick, toes, nails, (2)&#13;
+Skin, eruptions, psoriasis (3)&#13;
+Extremities, elbow, complaints of, tip (3)&#13;
+Extremities, knees, complaints, of (3)&#13;
+Throat, inflammation, pharynx (2&#13;
+Cough, druness, from Throat, in (2)&#13;
+Cough, dry, (1)&#13;
+Throat, hawk, disposition to, (2)&#13;
+Complaints of the abdomen, accompanied by diarrhea (3)&#13;
+Complaints of the admomen, accompanied by constipation (2)&#13;
+Extremities, pain, burning, standing (3)&#13;
+Extremities, pain, grasping, lower limbs (3)&#13;
+Extremities, pain, griping, leg, calf (3)&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrium Muriaticum</remedy>
+        <potency>1 M</potency>
+        <regimen>1 Δοση </regimen>
+        <other_notes>Αλλαγή οδοντόπαστας</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-11-01 00:00:00</followup_date>
+      <conv_med_presc>Σταγόνες για τα μάτια</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τον 2ο μηνα ελαττωση της ερυθροτητας και τον 3ο μειωση και εξαφανιση των πλακων στις εκτατικες επιφανειες των αρθρωσεων.(3)&#13;
+Ομαλοποιηση των κενωσεων.(1)&#13;
+Ελαττωση των ενοχλησεων από τους κιρσους(1).&#13;
+Εμφάνιση επιπεφυκίτιδας(3)για 10 ημερες με φαγούρα και ερυθρότητα του σκληρού χιτώνα και των επιπεφυκοτων και υποχώρηση σταδιακη.&#13;
+Συγχρόνως υπάρχει μια σχετική υποχώρηση των συμπτωμάτων στο νοητικό-συναισθηματικό επιπεδό, μιας και δεν επηρεάζεται ο ύπνος τόσο έντονα από τα καθημερινά άγχη. &#13;
+&#13;
+</reaction>
+      <analysis> Πολύ καλή αντίδραση που ξεπέρασε τις προσδοκίες με ελάχιστη αρχική επιδείνωση που ο ασθενής δεν την υπολόγισε λόγω της προηγούμενης αντιδότησης και με την εμφάνιση παλιών συμπτωμάτων (επιπεφυκίτιδας) ταυτόχρονα με την συνεχή και πλήρη εξασθένηση των σωματικών συμπτωμάτων (δερματικές βλάβες) και την βελτίωση των συνοδών σωματικών (συμπτώματα από το έντερο και τους φλέβες) και συναισθηματικών (αναστάτωση στον ύπνο) συμπτωμάτων. Επιβεβαιώνεται το καλό επίπεδο υγείας και αναμένουμε σταθεροποίηση του οργανισμού και διατήρηση της ισορροπίας για αρκετούς μήνες ή και χρόνια χωρίς αντιδότηση ή καινούρια προσβολή της υγείας από άλλους παράγοντες</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Θεραπεια ικανοποιητικη&#13;
+Αναμονη&#13;
+Οντως καλο επιπεδο υγειας (2ο) με πολύ καλη ανταποκριση σε καθαρη εικονα φαρμακου με επιβεβαιωση από την ψυχονοητικη εικονα.&#13;
+&#13;
+</conclusion>
+      <repertorization>
+        <desc>Mind, anxiety. night(2)&#13;
+Mind ,anxiety, bed, in (2)&#13;
+Mind, cares, full of (3)&#13;
+Mind, cares, full of, bed, in (2)&#13;
+Sleep, disturbed, anxiety, from (2)&#13;
+Mind, irritability (2)&#13;
+Mind, reserved (3)&#13;
+Mind, consolation agg (2)&#13;
+Mind, sleeplessness, agg (1)&#13;
+Sleep, sleeplessness, thoughts (1)&#13;
+&#13;
+&#13;
+Head, sun, exposure to sun, aggr (2)&#13;
+&#13;
+Generals, sun, exposure tho the sun, agg (2)&#13;
+Generals, heat, lack of vital heat (3)&#13;
+Generals, light agg, daylight .(2)&#13;
+Generals, food and drinks, pepper, desire of (3)&#13;
+Generals, food and drinks, occra, aversion of (4)&#13;
+Generals, food and drinks, slimy, aversion of (2)&#13;
+Generals, food and drinks, aubergines, desire of, (3)&#13;
+Generals, food and drinks, spices, desire of (3)&#13;
+Generals food and drinks, spices, agg (1)&#13;
+Generals, food and drinks, salt, desire of (2)&#13;
+Skin, eruptions (0)&#13;
+Skin, eruptions, scaly (0)&#13;
+Head, eruptions, itching (0)&#13;
+Head, eruptions, psoriasis (0)&#13;
+Extremities,nails, complains of,  discoloration, fingers, nails  (1)&#13;
+Extremities, nails, complaints of,  discoloration, toes, nails (1)&#13;
+&#13;
+Extremities, nails, thick, finger, nails (1)&#13;
+Extremities, nails, complaints of, thick, toes, nails, (2)&#13;
+Skin, eruptions, psoriasis (0)&#13;
+Extremities, elbow, complaints of, tip (0)&#13;
+Extremities, knees, complaints, of (0)&#13;
+Throat, inflammation, pharynx (1)&#13;
+Cough, druness, from Throat, in (2)&#13;
+Cough, dry, (1)&#13;
+Throat, hawk, disposition to, (1)&#13;
+Complaints of the abdomen, accompanied by diarrhea (1)&#13;
+Complaints of the admomen, accompanied by constipation (1)&#13;
+Extremities, pain, burning, standing (1)&#13;
+Extremities, pain, grasping, lower limbs (1)&#13;
+Extremities, pain, griping, leg, calf (1)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα νέο φάρμακο</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Αναμένουμε πιθανή συνέχιση της βελτίωσης στους επόμενους μήνες από το συναισθηματικό επίπεδο και εάν υπάρξει επιδείνωση ή εμφάνιση νέων συμπτωμάτων θα πρέπει να επανεξεταστεί η περίπτωση και να δοθεί το κατάλληλο φάρμακο. Ένα από τα υποψήφια θα μπορούσε να είναι το Medorrhinum κυρίως για την φλεγμονή του φάρυγγα.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

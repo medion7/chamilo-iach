@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL8ecb121b1903c3aea2ed0ba58a1f4df6</ID>
+  <patient>
+    <case_date>2014-08-10 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Τ.Κ</patient_initials>
+    <age>19</age>
+    <circumstances>ΦΟΙΤΗΤΗΣ ΤΩΝ ΙΕΚ.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ ΑΠΟ ΤΙΣ ΑΡΧΕΣ ΤΟΥ ΚΑΛΟΚΑΙΡΙΟΥ(3)  ΔΥΣΠΝΟΙΑ(3),ΑΓΧΟΣ(3),ΑΝΗΣΥΧΙΑ(3)ΑΥΠΝΙΑ(3),ΦΟΒΟΣ ΟΤΙ ΚΑΤΙ ΚΑΚΟ ΘΑ ΣΥΜΒΕΙ(3)</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>&lt;ΟΤΑΝ ΣΚΕΦΤΕΤΑΙ ΤΗΝ ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΤΟΥ ΑΠΟΚΑΤΑΣΤΑΣΗ</modalities>
+        <occurrence_time>&lt; ΤΟ ΒΡΑΔΥ,&gt;ΟΤΑΝ ΕΙΝΑΙ ΜΕ ΤΗΝ ΚΟΠΕΛΑ ΤΟΥ</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>ΣΧΕΔΟΝ ΚΑΘΕ ΜΕΡΑ ΜΕ ΜΕΣΟΔΙΑΣΤΗΜΑΤΑ ΗΡΕΜΙΑΣ.</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ ΕΤΩΝ 45:ΠΑΙΡΝΕΙ Τ4 ΓΙΑ ΤΟ ΘΥΡΕΟΕΙΔΗ,ΠΑΤΕΡΑΣ ΕΤΩΝ 45 ΚΑΝΕΝΑ ΠΡΟΒΛΗΜΑ ΥΓΕΙΑΣ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ(3)</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΑΝΑΣΚΕΛΑ ,ΦΟΡΑΕΙ ΚΑΛΤΣΕΣ ΣΤΟΝ ΥΠΝΟ,ΒΛΕΠΕΙ ΟΝΕΙΡΑ,ΑΠΟ ΤΙΣ ΑΡΧΕΣ ΤΟΥ ΚΑΛΟΚΑΙΡΙΟΥ ΔΕΝ ΚΟΙΜΑΤΑΙ ΚΑΛΑ.ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΟΣ</sleeping_habits>
+        <food_modalities>ΘΕΛΕΙ ΓΛΥΚΑ(3),ΜΕΡΕΝΤΑ(4),ΚΡΕΑΣ(3),ΜΑΚΑΡΟΝΙΑ ΜΕ ΚΙΜΑ(3),ΔΙΨΑΕΙ ΓΙΑ ΚΡΥΟ ΝΕΡΟ ΚΑΙ ΠΑΓΩΜΕΝΑ ΑΝΑΨΥΚΤΙΚΑ(3)</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΘΕΛΕΙ ΝΑ ΕΙΝΑΙ ΜΟΝΟΣ(3),ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ ΑΠΟ ΤΙΣ ΑΡΧΕΣ ΤΟΥ ΚΑΛΟΚΑΙΡΙΟΥ(3)  ΔΥΣΠΝΟΙΑ(3),ΑΓΧΟΣ(3),ΑΝΗΣΥΧΙΑ(3)ΑΥΠΝΙΑ(3),ΦΟΒΟΣ ΟΤΙ ΚΑΤΙ ΚΑΚΟ ΘΑ ΣΥΜΒΕΙ(3)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΕΚΑΝΕ ΠΥΡΕΤΟ 39,5 ΜΕ ΟΞΕΙΑ ΑΜΥΓΔΑΛΙΤΙΔΑ ΠΡΙΝ 1 ΧΡΟΝΟ ΚΑΙ ΠΗΡΕ ΑΝΤΙΒΙΟΣΗ</personal_medical_history>
+        <family_medical_history>ΜΗΤΕΡΑ ΕΤΩΝ 45:ΠΑΙΡΝΕΙ Τ4 ΓΙΑ ΤΟ ΘΥΡΕΟΕΙΔΗ,ΠΑΤΕΡΑΣ ΕΤΩΝ 45 ΚΑΝΕΝΑ ΠΡΟΒΛΗΜΑ ΥΓΕΙΑΣ.</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΤΟ ΒΡΑΔΥ ΘΕΛΕΙ ΕΝΑ ΜΙΚΡΟ ΦΩΤΑΚΙ ΓΙΑ ΝΑ ΚΟΙΜΗΘΕΙ,ΦΟΒΑΤΑΙ ΤΟ ΣΚΟΤΑΔΙ(3),ΘΕΛΕΙ ΝΑ ΕΙΝΑΙ ΜΟΝΟΣ(3),ΦΟΒΑΤΑΙ ΤΙΣ ΚΑΤΣΑΡΙΔΕΣ(3) .ΠΙΝΕΙ</peculiar>
+        <intense>ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ ΑΠΟ ΤΙΣ ΑΡΧΕΣ ΤΟΥ ΚΑΛΟΚΑΙΡΙΟΥ(3)  ΔΥΣΠΝΟΙΑ(3),ΑΓΧΟΣ(3),ΑΝΗΣΥΧΙΑ(3)ΑΥΠΝΙΑ(3),ΦΟΒΟΣ ΟΤΙ ΚΑΤΙ ΚΑΚΟ ΘΑ ΣΥΜΒΕΙ(3),ΞΕΦΥΣΑΕΙ ΣΥΝΕΧΕΙΑ(3),</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>PHOSPHORUS,STRAMONIUM,ACONITUM,KALI ARSENICOSUM,ARGENTUM NITRICUM.</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5193/Τ.Κ.jpg</file_url>
+      </repertorization>
+      <remedies_differentiation>ΠΑΡΟΛΟ ΠΟΥ ΕΧΕΙ ΟΛΑ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΤΟΥ PHOSPHORUS ΘΑ ΔΩΣΩ ACONITUM ΕΞΑΙΤΙΑΣ ΤΩΝ ΚΡΙΣΕΩΝ ΠΑΝΙΚΟΥ.</remedies_differentiation>
+      <prescription>
+        <remedy>ACONITUM</remedy>
+        <potency>200CH KAI 1M</potency>
+        <regimen>ΕΦ΄ΑΠΑΞ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-10-30 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΟΛΙΣ ΠΗΡΕ ΤΟ ΦΑΡΜΑΚΟ ΜΕΤΑ ΑΠΟ ΛΙΓΕΣ ΩΡΕΣ ΕΚΑΝΕ ΔΙΑΡΡΟΙΑ,ΟΙ ΚΡΙΣΕΙΣ ΕΧΟΥΝ ΦΥΓΕΙ ΚΑΙ ΤΟ ΑΓΧΟΣ ΠΟΥ ΕΙΧΕ ΕΧΕΙ ΜΕΙΩΘΕΙ,ΤΟ ΣΚΟΤΑΔΙ ΑΚΟΜΗ ΤΟ ΦΟΒΑΤΑΙ ΚΑΙ ΕΧΕΙ ΕΝΤΟΝΗ ΕΠΙΘΥΜΙΑ ΓΙΑ ΛΕΜΟΝΑΔΑ ΚΑΙ ΓΛΥΚΑ ,ΣΟΚΟΛΑΤΑ.ΚΟΙΜΑΤΑΙ ΚΑΛΑ,ΞΥΠΝΑΕΙ ΞΕΚΟΥΡΑΣΤΟΣ,ΦΟΒΑΤΑΙ ΤΙΣ ΚΑΤΣΑΡΙΔΕΣ(3).</reaction>
+      <analysis>ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ,ΠΕΡΙΜΕΝΟΥΜΕ ΝΑ ΔΡΑΣΕΙ ΤΟ ΦΑΡΜΑΚΟ ΣΕ ΟΛΑ ΤΑ ΕΠΙΠΕΔΑ.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-10-20 15:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΣΤΑΜΑΤΗΣΑΝ ΟΙ ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ,ΕΧΕΙ ΜΕΙΩΘΕΙ ΤΟ ΑΓΧΟΣ ΤΟΥ,ΕΧΕΙ ΕΝΤΟΝΗ ΕΠΙΘΥΜΙΑ ΓΙΑ ΓΛΥΚΑ,ΚΥΡΙΩΣ ΣΟΚΟΛΑΤΑ(3),ΕΝΤΟΝΗ ΕΠΙΘΥΜΙΑ ΓΙΑ ΠΑΓΩΜΕΝΗ ΛΕΜΟΝΑΔΑ(4),ΑΝΗΣΥΧΕΙ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΩΝ ΓΩΝΙΩΝ ΤΟΥ(3),ΣΥΝΕΧΙΖΕΙ ΝΑ ΦΟΒΑΤΑΙ ΤΙΣ ΚΑΤΣΑΡΙΔΕΣ(3),ΚΟΙΜΑΤΑΙ ΜΕ ΦΩΣ,ΞΥΠΝΑΕΙ ΚΑΛΑ,ΜΕΡΙΚΕΣ ΦΟΡΕΣ ΦΟΒΑΤΑΙ ΜΗΝ ΤΟΝ ΞΑΝΑΠΙΑΣΟΥΝ ΟΙ ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ.</reaction>
+      <analysis>ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ΣΤΟ ΑCONITUM,ΣΚΕΦΤΟΜΑΙ ΝΑ ΤΟΥ ΣΥΝΤΑΓΟΓΡΑΦΗΣΩ ΤΟ PHOSPHORUS ΓΙΑΤΙ ΒΓΑΖΕΙ ΚΑΘΑΡΗ ΕΙΚΟΝΑ ΑΛΛΑ ΘΑ ΠΕΡΙΜΕΝΩ ΛΙΓΟ ΑΚΟΜΑ.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

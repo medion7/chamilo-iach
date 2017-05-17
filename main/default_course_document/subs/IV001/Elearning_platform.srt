@@ -1,0 +1,144 @@
+﻿1
+00:00:01,341 --> 00:00:04,022
+This is the main page of the e-learning platform.
+
+2
+00:00:05,032 --> 00:00:11,232
+You can navigate, and get more information about using the main menu, or the other options provided.
+
+3
+00:00:15,062 --> 00:00:21,926
+The two year course e-learning program is an academic online program, based on the highest educational standards
+
+4
+00:00:22,669 --> 00:00:25,243
+according to the principles of Samuel Hahnemann.
+
+5
+00:00:26,361 --> 00:00:31,947
+You can find more information about the program the curriculum, the conditions and the fees
+
+6
+00:00:32,019 --> 00:00:35,315
+by clicking on the corresponding sub-menu items.
+
+7
+00:00:37,275 --> 00:00:42,443
+Here you can see the available 2-year course, e-learning versions.
+
+8
+00:00:47,883 --> 00:00:55,735
+By clicking the view button you can get more information such as the course language, the total videos and the provided facilities.
+
+9
+00:00:56,304 --> 00:01:01,192
+You can also get a 10-day free trial by clicking the "Get Free Trial"  button.
+
+10
+00:01:02,040 --> 00:01:08,760
+For more information about the free trial, please visit the corresponding link on the main page.
+
+11
+00:01:09,353 --> 00:01:12,433
+Now let's register for a free trial.
+
+12
+00:01:16,289 --> 00:01:21,576
+We are redirected to the registration page, we enter our personal data.
+
+13
+00:01:26,767 --> 00:01:30,527
+You should also read the instructions underneath each box.
+
+14
+00:01:52,556 --> 00:01:56,636
+The 2-year course is selected as default, in this drop-down list.
+
+15
+00:02:04,162 --> 00:02:07,898
+Now we must select language, from the available options.
+
+16
+00:02:14,315 --> 00:02:16,795
+Selecting language is actually for a later use,
+
+17
+00:02:16,969 --> 00:02:20,961
+when you have purchased the course, you are registered to the corresponding course
+
+18
+00:02:21,206 --> 00:02:25,462
+and the provided content is in the language you have chosen in this step.
+
+19
+00:02:26,497 --> 00:02:28,736
+We continue with the registration.
+
+20
+00:02:30,533 --> 00:02:34,221
+And now we click the "Create new account"  button to finish.
+
+21
+00:02:38,488 --> 00:02:41,200
+The registration process has finished.
+
+22
+00:02:41,678 --> 00:02:45,853
+An e-mail has been sent to the e-mail account we have entered.
+
+23
+00:02:46,185 --> 00:02:51,652
+You should open this e-mail and click on the link provided, to confirm your registration.
+
+24
+00:02:52,535 --> 00:02:58,463
+A new free trial group begins every Friday, and you will be notified by e-mail from the Academy.
+
+25
+00:03:00,995 --> 00:03:05,483
+Now let's see how to register for a post-graduate course.
+
+26
+00:03:09,525 --> 00:03:14,621
+From this menu item we can see the post-graduate courses of the Academy.
+
+27
+00:03:18,198 --> 00:03:22,806
+In this page we can see the available post-graduate courses.
+
+28
+00:03:39,425 --> 00:03:43,848
+In the same way, we can get more information by clicking the view button.
+
+29
+00:03:44,155 --> 00:03:50,795
+If you already have an account on the e-learning platform, and want to register to a post-graduate course,
+
+30
+00:03:51,067 --> 00:03:55,183
+just send and e-mail to the Academy, that you want to register to this specific course.
+
+31
+00:03:56,572 --> 00:04:00,675
+If you don't have an account yet click the "Register now" button.
+
+32
+00:04:04,923 --> 00:04:07,882
+We are redirected to the registration page.
+
+33
+00:04:17,581 --> 00:04:26,673
+We enter our personal data as we showed before, and select the post-graduate levels of health course and language from the available options.
+
+34
+00:04:43,595 --> 00:04:47,427
+We continue with the form, and click the "Create new account" button.
+
+35
+00:04:48,366 --> 00:04:56,317
+Open the e-mail to confirm your registration and another e-mail will be sent to you from the academy to process with the payment.
+
+36
+00:04:57,061 --> 00:05:01,876
+Once the payment is complete you will have access to the course.
+

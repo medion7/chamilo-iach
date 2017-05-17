@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELfdde3f23ba053eb3fa6a7faf90c62efe</ID>
+  <patient>
+    <case_date>2015-08-17 11:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΔΔ</patient_initials>
+    <age>35</age>
+    <circumstances>Ανύπαντρος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Γυροειδής αλωπεκία (3) από το 2008, στο στήθος, το πρόσωπο και το κεφάλι. </origin>
+        <causative_factors>Θεωρεί ότι ξεκίνησε μετά από έντονο στρες που είχε για το μεταπτυχιακό το 2007</causative_factors>
+        <modalities>.</modalities>
+        <occurrence_time>.</occurrence_time>
+        <body_side>Κεφαλή, πρόσωπο και στήθος</body_side>
+        <appearence_frequency>.</appearence_frequency>
+        <pain_desc>.</pain_desc>
+        <complaint_ext>.</complaint_ext>
+        <other_complaints>.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Όχι</conv_med_presc>
+        <lab_tests>
+          <desc>Όχι</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Όχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όχι</therapies_vaccination>
+          <traumas>Στρες με το μεταπτυχιακό το 2007&#13;
+Το1995 πέθανε ο αγαπημένος του ξάδερφος.&#13;
+Το 1990 χώρισαν οι γονείς του κάτι που τον πείραξε πολύ.&#13;
+Το 2004 είχε μια ερωτική απογοήτευση.</traumas>
+          <infections>Καμιά</infections>
+          <other>Μετεωρισμός (2)&#13;
+Ρεψίματα (2) και αέρια που ανακουφίζουν (2).&#13;
+Μουδιάζουν οι μύες&#13;
+Ρινορραγίες (2)&#13;
+Δεν θυμάται να έχει κάνει πάνω από 38,5 πυρετό. Σίγουρα δεν έκανε τα τελευταία 3-4 χρόνια.</other>
+        </personal>
+        <family>
+          <diseases>Ο παππούς καρδιοπαθής. Οι υπόλοιποι τίποτα.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Του αρέσει ο ήλιος, η ζέστη και η θάλασσα όταν είναι ήρεμη.</reactions>
+        <sleeping_habits>Καλός ύπνος, αναζωογονητικός.&#13;
+Κοιμάται πάντα από την μεριά του τοίχου.</sleeping_habits>
+        <food_modalities>Νερό πολύ (3) και κρύο (3). &#13;
+Του αρέσουν τυριά, φέτα, μακαρόνια, μελιτζάνες.&#13;
+Απεχθάνεται γλοιώδη και παστουρμά</food_modalities>
+        <menstruation>.</menstruation>
+      </physical>
+      <mental_emotional>Ανησυχεί για την υγεία των δικών του (2)&#13;
+Παντού θέλει να έχει παρέα (2).&#13;
+Δεν θέλει να είναι μόνος χωρίς όμως να έχει φόβο μοναξιάς.&#13;
+Νιώθει πιεσμένος από το γεγονός ότι δεν έχει κάνει ακόμη οικογένεια και κάπως αγχωμένος για την επαγγελματική του αποκατάσταση.&#13;
+Είναι ευσυγκίνητος (2), συμπάσχει (3), Κλαίει εύκολα (2). Φοβάται να μην τον θάψουν ζωντανό. &#13;
+Ξεχασιάρης (2) και αδέξιος. Επικοινωνιακός (2). Θέλει την παρηγοριά (2).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Είναι σε σχετικά υψηλό επίπεδο υγείας στο 2ο group με καθαρή εικόνα φαρμάκου χωρίς βεβαρυμένο ατομικό και οικογενειακό ιστορικό, παρά το γεγονός ότι δεν κάνει πυρετούς ή άλλα οξέα,</personal_medical_history>
+        <family_medical_history>Δεν είναι ιδιαίτερα βεβαρυμένο</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Πιστεύω ότι θα έχουμε καλή ανταπόκριση στη θεραπεία μας.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Φοβάται να μην τον θάψουν ζωντανό (2). </peculiar>
+        <intense>Μετεωρισμός (2)&#13;
+Ρεψίματα (2) και αέρια που ανακουφίζουν (2).&#13;
+Ανησυχεί για την υγεία των δικών του (2)&#13;
+θέλει να έχει παρέα (2).&#13;
+Είναι ευσυγκίνητος (2),&#13;
+ Κλαίει εύκολα (2). &#13;
+Ξεχασιάρης (2) &#13;
+Επικοινωνιακός (2). &#13;
+Θέλει την παρηγοριά (2).&#13;
+Ρινορραγίες (2)&#13;
+ συμπάσχει (3),&#13;
+Νερό πολύ (3) και κρύο (3). &#13;
+Γυροειδής αλωπεκία (3) στο στήθος, το πρόσωπο και το κεφάλι. </intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Phosphorus&#13;
+Μετεωρισμός (2)&#13;
+Ρεψίματα (3)  που ανακουφίζουν (1) και αέρια (3)&#13;
+Ανησυχεί για την υγεία των δικών του (2)&#13;
+θέλει να έχει παρέα (3).&#13;
+ Κλαίει εύκολα (2). &#13;
+Ξεχασιάρης (3) &#13;
+Επικοινωνιακός (3). &#13;
+Θέλει την παρηγοριά (1).&#13;
+Ρινορραγίες (3)&#13;
+ συμπάσχει (3),&#13;
+Νερό πολύ (3) και κρύο (4). &#13;
+Γυροειδής αλωπεκία (3) στο στήθος, το πρόσωπο και το κεφάλι. &#13;
+&#13;
+Sulphus&#13;
+Μετεωρισμός (3)&#13;
+Ρεψίματα (3)  που ανακουφίζουν (2) και αέρια (3)&#13;
+Ανησυχεί για την υγεία των δικών του (2)&#13;
+ Κλαίει εύκολα (3). &#13;
+Ξεχασιάρης (2) &#13;
+Επικοινωνιακός (2). &#13;
+Ρινορραγίες (3)&#13;
+Νερό πολύ (3) και κρύο (1). &#13;
+Γυροειδής αλωπεκία (3) στο στήθος, το πρόσωπο και το κεφάλι. &#13;
+&#13;
+Lycopodium&#13;
+Μετεωρισμός (3)&#13;
+Ρεψίματα (3)  που ανακουφίζουν (3) και αέρια (3)&#13;
+θέλει να έχει παρέα (3).&#13;
+ Κλαίει εύκολα (3). &#13;
+Ξεχασιάρης (3) &#13;
+Ρινορραγίες (2)&#13;
+ συμπάσχει (1),&#13;
+Νερό κρύο (2). &#13;
+Γυροειδής αλωπεκία (3) στο στήθος, το πρόσωπο και το κεφάλι. </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Επέλεξα Phosphorus γιατί βάσει των συμπτωμάτων βγάζει πολύ καθαρή εικόνα.</remedies_differentiation>
+      <prescription>
+        <remedy> Phosphorus </remedy>
+        <potency>1Μ</potency>
+        <regimen>Εφάπαξ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-20 13:00:00</followup_date>
+      <conv_med_presc>Όχι</conv_med_presc>
+      <lab_tests>
+        <desc>Όχι</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Καμία μεταβολή.</reaction>
+      <analysis>Σκέψεις για αντιδότηση του φαρμάκου ή για αλλοιωμένο φάρμακο από το φαρμακείο. Μετά από επανεξέταση του ιστορικού δεν υπάρχει σκέψη αλλαγής λόγω πολύ καθαρής εικόνας οπότε υπάρχει βεβαιότητα όσον αφορά την ορθότητα της επιλογής. Ο ασθενής είναι πολύ συνεργάσιμος και υπομονετικός κι αυτό βοηθάει στη απόφασή μου να επαναλάβω το φάρμακο με οδηγίες για αποφυγή αντιδότησης αλλά και όσον αφορά την αγορά του φαρμάκου από άλλο φαρμακείο.</analysis>
+      <conclusion>.</conclusion>
+      <repertorization>
+        <desc>.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy> Phosphorus </remedy>
+        <potency>1Μ</potency>
+        <regimen>Εφάπαξ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-10-30 12:00:00</followup_date>
+      <conv_med_presc>Όχι</conv_med_presc>
+      <lab_tests>
+        <desc>Όχι</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Εμφάνισε επιδείνωση των γαστρεντερικών του συμπτωμάτων τις πρώτες 10 μέρες και μια ελαφριά υπνηλία. Έπειτα ακολούθησε θεαματική βελτίωση των γαστρεντερικών του συμπτωμάτων καθώς και της ενεργητικότητάς του. </reaction>
+      <analysis>Θεωρώ ότι έχει ξεκινήσει η θεραπευτική δράση του φαρμάκου. Αναμονή και για βελτίωση των υπόλοιπων συμπτωμάτων. Επανέλεγχος του ασθενούς σε 2-3 μήνες.</analysis>
+      <conclusion>Αναμονή</conclusion>
+      <repertorization>
+        <desc>.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>.</remedy>
+        <potency>.</potency>
+        <regimen>.</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELec84f5f7e6bfea85e571ba25eac6fdc3</ID>
+  <patient>
+    <case_date>2015-05-14 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΠΔ</patient_initials>
+    <age>6</age>
+    <circumstances>ΠΑΙΔΙ ΝΗΠΙΑΓΩΓΙΟΥ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ 1 ΕΤΟΥΣ ΛΑΡΥΓΓΙΤΙΔΕΣ ΑΜΥΓΔΑΛΥΤΙΔΕΣ</origin>
+        <causative_factors>ΑΔΕΡΦΟΣ ΠΟΥ ΕΙΧΕ ΞΕΚΙΝΗΣΕΙ ΠΑΙΔΙΚΟ ΣΤΑΘΜΟ ΚΑΙ ΕΦΕΡΝΕ&#13;
+ΣΠΙΤΙ ΙΩΣΕΙΣ</causative_factors>
+        <modalities>&gt;ΜΕ ΑΝΟΙΧΤΟ ΠΑΡΑΘΥΡΟ ΣΤΟ ΥΠΝΟΔΩΜΑΤΙΟ&#13;
+&lt; ΜΕ ΥΓΡΑΣΙΑ ΚΑΙ ΚΡΥΟ</modalities>
+        <occurrence_time>ΚΑΛΟΚΑΙΡΙ</occurrence_time>
+        <body_side>ΑΡΙΣΤΕΡΑ</body_side>
+        <appearence_frequency>5-6 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ</appearence_frequency>
+        <pain_desc>ΚΕΦΑΛΑΛΓΙΑ ΚΑΙ ΠΟΝΟ ΣΤΟ ΣΤΗΘΟΣ ΑΠΟ ΤΟΝ ΕΝΤΟΝΟ ΒΗΧΑ</pain_desc>
+        <complaint_ext>ΟΧΙ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>MEDORINUM</conv_med_presc>
+        <lab_tests>
+          <desc>ΓΙΑ ΤΗΝ ΗΛΙΚΙΑ ΤΗΣ Κ.Φ.ΕΡΓΑΣΤΗΡΙΑΚΑ ΚΑΙ Η.Κ.Γ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΑΝΤΙΒΙΩΤΙΚΑ ΓΙΑ ΤΡΙΑ ΧΡΟΝΙΑ, SINGULAIR &#13;
+ΣΧΕΔΟΝ ΚΑΘΗΜΕΡΙΝΑ ΤΟ ΧΕΙΜΩΝΑ</therapies_vaccination>
+          <traumas>ΔΕΝ ΑΝΑΦΕΡΘΗΣΑΝ</traumas>
+          <infections>ΚΑΜΙΑ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΕΛΕΥΘΕΡΟ ΙΣΤΟΡΙΚΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΑΙΝΕΤΑΙ </reactions>
+        <sleeping_habits>ΣΤΑΘΕΡΟ ΚΑΙ ΚΑΛΟ ΥΠΝΟ ΣΕ ΟΛΕΣ ΤΙΣ ΣΤΑΣΕΙΣ&#13;
+ΞΕΣΚΕΠΑΖΕΤΑΙ</sleeping_habits>
+        <food_modalities>ΤΡΩΕΙ ΑΠΟ ΟΛΑ ΚΑΙ ΛΙΓΟ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΔΕΝ ΕΧΕΙ ΑΥΤΟΕΚΤΙΜΗΣΗ&#13;
+ΕΙΝΑΙ ΠΟΛΥ ΔΟΤΙΚΗ ΣΤΑ ΣΥΝΑΙΣΘΗΜΑΤΑ ΚΑΙ ΣΤΑ ΥΛΙΚΑ ΑΓΑΘΑ&#13;
+ΠΡΟΣ ΤΟΥΣ ΑΛΛΟΥΣ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΦΑΡΥΓΓΙΤΙΔΕΣ ΛΑΡΥΓΓΙΤΙΔΕΣ</personal_medical_history>
+        <family_medical_history>ΓΟΝΕΙΣ ΧΩΡΙΣ ΧΡΟΝΙΕΣ ΠΑΘΗΣΕΙΣ</family_medical_history>
+        <level_of_health>12</level_of_health>
+        <conclusion>ΕΝΑ ΓΛΥΚΟ ΚΟΡΙΤΣΑΚΙ ΜΕ ΠΡΟΒΛΗΜΑΤΑ ΥΓΕΙΑΣ ΤΙΣ ΣΥΝΗΘΙΣΜΕΝΕΣ&#13;
+ΙΩΣΕΙΣ ΓΙΑ ΤΗΝ ΗΛΙΚΙΑ ΤΗΣ ΑΛΛΑ ΕΠΑΝΑΛΑΜΒΑΝΟΝΤΑΙ ΠΟΛΛΕΣ &#13;
+ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ&#13;
+ΣΕ ΚΕΡΔΙΖΕΙ ΑΜΕΣΩΣ Η ΕΞΩΣΤΡΕΦΕΙΑ ΤΗΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΖΕΣΤΕΝΕΤΑΙ 4&#13;
+ΥΠΕΡΚΙΝΙΤΙΚΟΤΗΤΑ 3</peculiar>
+        <intense>ΒΗΧΑΣ 3  ΠΟΥ ΚΡΑΤΑΕΙ ΚΑΙ 1 ΕΒΔΟΜΑΔΑ</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>MEDORINUM    ΦΩΣΦΟΡΟΣ</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORINUM</remedy>
+        <potency>1M</potency>
+        <regimen>1M ΑΠΑΞ&#13;
+ΕΠΑΝΑΛΗΨΗ ΤΗΣ ΔΟΣΗΣ ΣΕ 20 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΚΛΑΕΙ ΠΙΟ ΣΥΧΝΑ ΓΙΑ ΝΑ ΧΕΙΡΑΓΩΓΗΣΕΙ ΤΟΥΣ ΓΥΡΩ ΤΗΣ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-17 18:00:00</followup_date>
+      <conv_med_presc>ΜΕDORIMUM 1M</conv_med_presc>
+      <lab_tests>
+        <desc>ΦΥΣΙΟΛΟΓΙΚΗ Η ΓΕΝΙΚΗ ΑΙΜΑΤΟΣ&#13;
+ΤΑ ΒΙΟΧΗΜΙΚΑ ΚΑΙ ΤΟ Η.Κ.Γ.&#13;
+ΘΥΡΕΟΕΙΔΗΣ ΚΑΙ U/S K.Φ.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΕΣΚΑΣΑΝ ΤΑ ΧΕΙΛΗ ΤΗΣ ΓΙΑ ΜΙΑ ΕΒΔΟΜΑΔΑ</reaction>
+      <analysis>7 ΗΜΕΡΕΣ ΜΕΤΑ ΤΟ MEDORINUM ΣΤΑΔΙΑΚΑ ΚΑΙ ΓΙΑ 5 ΗΜΕΡΕΣ&#13;
+ΣΤΑ ΧΕΙΛΗ ΤΗΣ ΕΒΑΖΕ LIPOZAN KAI META ΔΕΝ ΤΗΝ ΞΑΝΑΕΝΟΧΛΗΣΕ&#13;
+ΑΥΤΟ ΤΟ ΣΥΜΠΤΩΜΑ</analysis>
+      <conclusion>ΛΑΡΥΓΓΙΤΙΔΕΣ ΚΑΙ ΦΑΡΥΓΓΙΤΙΔΕΣ ΕΞΑΦΑΝΙΣΤΗΚΑΝ&#13;
+Η ΥΠΕΡΚΙΝΗΤΙΚΟΤΗΤΑ ΜΕΙΩΘΗΚΕ&#13;
+ΔΕ ΖΕΣΤΑΙΝΕΤΑΙ ΤΟΣΟ ΠΟΛΥ ΕΝΤΟΝΑ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>MEDORINUM</remedy>
+        <potency>1M</potency>
+        <regimen>1 ΦΟΡΑ ΑΠΑΞ</regimen>
+        <other_notes>ΜΕΤΑ ΑΠΟ 5-6 ΜΗΝΕΣ Η ΑΥΤΟΕΚΤΙΜΗΣΗ ΤΗΣ ΒΕΛΤΙΩΘΗΚΕ&#13;
+ΚΑΙ ΜΕΙΩΘΗΚΕ ΤΟ ΧΕΙΡΙΣΤΙΚΟ ΚΛΑΜΑ ΤΗΣ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

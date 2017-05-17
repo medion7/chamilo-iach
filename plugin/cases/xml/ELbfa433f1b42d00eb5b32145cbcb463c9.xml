@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELbfa433f1b42d00eb5b32145cbcb463c9</ID>
+  <patient>
+    <case_date>2015-08-10 12:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Σ.Δ.</patient_initials>
+    <age>23</age>
+    <circumstances>Ελεύθερος χωρίς παιδιά..</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Δεν μπορεί να φάει-  αν και πεινάει αισθάνεται το στομάχι του γεμάτο.</origin>
+        <causative_factors>.</causative_factors>
+        <modalities>.</modalities>
+        <occurrence_time>.</occurrence_time>
+        <body_side>.</body_side>
+        <appearence_frequency>Το έχει πάντα εδώ και πολλά χρόνια</appearence_frequency>
+        <pain_desc>.</pain_desc>
+        <complaint_ext>.</complaint_ext>
+        <other_complaints>.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Δεν παίρνει</conv_med_presc>
+        <lab_tests>
+          <desc>Δεν έχει.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν έχει κάνει.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Δεν έχει πάρει πολλά αλλοπαθητικά φάρμακα.</therapies_vaccination>
+          <traumas>Όχι</traumas>
+          <infections>Όχι</infections>
+          <other>έχει αυπνίες.&#13;
+Έχει πόνο στην ΑΡ ωμοπλάτη (2) &gt;όταν ξαπλώνει &lt; με την υγρασία (2)&#13;
+Πόνο στην άρθρωση του μεγάλου δακτύλου του ποδιού (2)&#13;
+Αιμορροίδες (2)&#13;
+&#13;
+Δεν έχει συχνά πυρετούς και δεν θυμάται να είχε ποτέ πάνω από 38,5.&#13;
+&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>Καρκίνο προστάτη ο παππούς. Οι υπόλοιποι δεν έχουν κάποιο πρόβλημα.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Προτιμάει τη ζέστη και την ξηρασία. Τον ενοχλεί η υγρασία.&#13;
+&#13;
+Ιδρώνουν (2) και μυρίζουν (2) τα χέρια και οι πατούσες. </reactions>
+        <sleeping_habits>Έχει καλό ύπνο και ξυπνάει καλά. &#13;
+Τα πόδια κρυώνουν και τα σκεπάζει πάντα.</sleeping_habits>
+        <food_modalities>Του αρέσει το κρέας (2), τα μακαρόνια και οι χυμοί, το παγωμένο νερό (2), το ψάρι (2) και το παγωτό (2).&#13;
+Απεχθάνεται το σκόρδο (3) και τα καυτερά (3).</food_modalities>
+        <menstruation>.</menstruation>
+      </physical>
+      <mental_emotional>Φοβάται τη μοναξιά (3), το ύψος (2), τα φίδια (2), τη φτώχεια.&#13;
+Έχει άγχος φτώχειας.&#13;
+&#13;
+Είναι ξεχασιάρης (3), ανήσυχος (3), αδέξιος, εύθικτος (2), ευαίσθητος (2), του αρέσει η παρηγοριά, θέλει παρέα (3), συμπάσχει (2), επικοινωνιακός (2). Είναι ευερέθιστος (2) και αποφασιστικός. Συναισθηματικός.&#13;
+&#13;
+Είναι χειρότερα το βράδυ παρά το πρωί.&#13;
+&#13;
+Δεν μπορεί να πει όχι.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Έχει πολλές φοβίες, πολλά ψυχοδιανοητικά και δεν κάνει πυρετούς οπότε ανήκει σε χαμηλό επίπεδο υγείας, σίγουρα στο 3ο group.</personal_medical_history>
+        <family_medical_history>Υπάρχει μια προδιάθεση λόγω του προβλήματος υγείας του παππού του.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Ο ασθενής έχει χαμηλό επίπεδο υγείας και θεωρώ ότι η πορεία προς τη θεραπεία θα είναι μια μακρόχρονη διαδικασία.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>.</peculiar>
+        <intense>Έχει αυπνίες.&#13;
+Έχει πόνο στην ΑΡ ωμοπλάτη (2) &#13;
+&gt;όταν ξαπλώνει &#13;
+&lt; με την υγρασία (2)&#13;
+Πόνο στην άρθρωση του μεγάλου δακτύλου του ποδιού (2)&#13;
+(2)Φοβάται το ύψος (2), &#13;
+Φοβάται τα φίδια (2), &#13;
+Φοβάται τη φτώχεια.&#13;
+ευαίσθητος (2), &#13;
+συμπάσχει (2), &#13;
+επικοινωνιακός (2). &#13;
+Είναι ευερέθιστος (2)&#13;
+Ιδρώνουν (2) και μυρίζουν (2) τα χέρια και οι πατούσες. &#13;
+Του αρέσει το κρέας (2),&#13;
+Του αρέσει το παγωμένο νερό (2), &#13;
+Του αρέσει το ψάρι (2) &#13;
+Του αρέσει το παγωτό (2).&#13;
+θέλει παρέα (3)&#13;
+Φοβάται τη μοναξιά (3), &#13;
+Είναι ξεχασιάρης (3),&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Phosphorus&#13;
+Έχει αυπνίες.(3)&#13;
+Φοβάται το ύψος (1), &#13;
+ευαίσθητος (3), &#13;
+συμπάσχει (4), &#13;
+επικοινωνιακός (3). &#13;
+Είναι ευερέθιστος (2)&#13;
+Ιδρώνουν (2) και μυρίζουν (2) τα χέρια και οι πατούσες. &#13;
+Του αρέσει το κρέας (1),&#13;
+Του αρέσει το παγωμένο νερό (4), &#13;
+Του αρέσει το ψάρι (3) &#13;
+Του αρέσει το παγωτό (3).&#13;
+θέλει παρέα (3)&#13;
+Φοβάται τη μοναξιά (3), &#13;
+Είναι ξεχασιάρης (3),&#13;
+&#13;
+&#13;
+Argentum Nitricum&#13;
+Έχει αυπνίες.(3)&#13;
+Φοβάται το ύψος (4), &#13;
+ευαίσθητος (3), &#13;
+συμπάσχει (1), &#13;
+επικοινωνιακός (1). &#13;
+Είναι ευερέθιστος (2)&#13;
+Του αρέσει το παγωμένο νερό (2), &#13;
+Του αρέσει το παγωτό (1).&#13;
+θέλει παρέα (3)&#13;
+Φοβάται τη μοναξιά (3), &#13;
+Είναι ξεχασιάρης (3),&#13;
+&#13;
+&#13;
+Sulphur&#13;
+Έχει αυπνίες. (3)&#13;
+Έχει πόνο στην ΑΡ ωμοπλάτη (4) &#13;
+Φοβάται το ύψος (3), &#13;
+Φοβάται τα φίδια (1), &#13;
+Φοβάται τη φτώχεια.(1)&#13;
+ευαίσθητος (3), &#13;
+επικοινωνιακός (2). &#13;
+Είναι ευερέθιστος (3)&#13;
+Ιδρώνουν και μυρίζουν (3) τα χέρια και οι πατούσες. &#13;
+Του αρέσει το κρέας (2),&#13;
+Του αρέσει το παγωμένο νερό (1), &#13;
+Του αρέσει το παγωτό (1).&#13;
+Είναι ξεχασιάρης (2),&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Θεωρώ ότι τα φάρμακό του είναι ο Phosphorus γιατί και τα σωματικά και τα ψυχοδιανοητικά του συμπτώματα, καθώς και οι διατροφικές του προτιμήσεις ταιριάζουν με αυτό το φάρμακο</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>Εφάπαξ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-12 12:00:00</followup_date>
+      <conv_med_presc>Δεν έπαιρνε</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν έκανε</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ασθενής δεν ανέφερε καμιά αλλαγή στην υγεία του. Δεν εγκαταλείπω όμως το φάρμακο γιατί πιστεύω ότι είναι το σωστό, οπότε κανονίζω επανεξέταση σε ένα μήνα για επανεκτίμηση της πορείας του.</reaction>
+      <analysis>Λόγω του χαμηλού επιπέδου υγείας είναι αναμενόμενο να αργήσει η όποια θεραπευτική αντίδραση. </analysis>
+      <conclusion>.</conclusion>
+      <repertorization>
+        <desc>.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>.</remedy>
+        <potency>.</potency>
+        <regimen>.</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-10-15 18:00:00</followup_date>
+      <conv_med_presc>Δεν έπαιρνε</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν έκανε</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ασθενής αναφέρει βελτίωση στην ενεργητικότητά του, εξαφάνιση του πόνου στην άρθρωση του μεγάλου δακτύλου και μικρή βελτίωση όσον αφορά τη διατροφή του. Θεωρώ ότι είναι πιθανό να έχει ξεκινήσει η θεραπευτική δράση του φαρμάκου και για αυτόν τον λόγο δεν εγκαταλείπω το φάρμακο και περιμένω να επανεξετάσω τον ασθενή</reaction>
+      <analysis>.</analysis>
+      <conclusion>.</conclusion>
+      <repertorization>
+        <desc>.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>.</remedy>
+        <potency>.</potency>
+        <regimen>.</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

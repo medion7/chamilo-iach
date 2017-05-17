@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL03bc7564760f1371c09acf26379b82a1</ID>
+  <patient>
+    <case_date>2016-10-21 20:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΠΜ</patient_initials>
+    <age>8</age>
+    <circumstances>Please enter the personal circumstances&#13;
+ΜΑΘΗΤΡΙΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ΑΠΟ ΔΙΕΤΙΑΣ  ΕΠΕΙΣΟΔΙΑ ΒΗΧΑ ΜΕ ΡΙΝΙΚΗ ΣΥΜΦΟΡΗΣΗ&#13;
+ΣΥΧΝΟΤΗΤΑ : ΚΑΘΕ ΜΗΝΑ  , ΜΕ ΔΙΑΡΚΕΙΑ 7-8 ΗΜΕΡΩΝ&#13;
+ΣΥΝΟΔΟ ΕΚΖΕΜΑ</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ΑΓΝΩΣΤΟΙ&#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+ΚΑΛΥΤΕΡΑ ΕΞΩ ΣΤΟΝ ΚΑΘΑΡΟ ΑΕΡΑ&#13;
+ΧΕΙΡΟΤΕΡΑ ΣΕ ΖΕΣΤΟ ΔΩΜΑΤΙΟ &#13;
+ΤΟ ΕΚΖΕΜΑ ΚΑΛΥΤΕΡΑ ΜΕ ΚΡΥΑ ΕΠΙΘΕΜΑΤΑ</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+ΤΟ ΑΠΟΓΕΥΜΑ ΧΕΙΡΟΤΕΡΕΥΟΥΝ  </occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΑΜΦΩ</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ΚΑΘΕ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΔΕΝ ΕΧΕΙ ΠΟΝΟ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ΟΧΙ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+ΒΗΧΑΣ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΕΜΒΟΛΙΑ ΟΛΑ ΤΟΥ ΕΘΝΙΚΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ&#13;
+ΚΟΡΤΙΖΟΝΗ&#13;
+ΑΝΤΙΒΙΟΤΙΚΑ</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+ΚΑΝΕΝΑ</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΟΧΙ</infections>
+          <other>ΚΟΚΚΙΝΑ ΜΑΓΟΥΛΑ</other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΜΗΤΕΡΑ ΑΣΘΜΑΤΙΚΗ&#13;
+ΠΑΤΕΡΑΣ ΕΚΖΕΜΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΑΔΙΕΥΚΡΙΝΙΣΤΟ</reactions>
+        <sleeping_habits>ΑΝΑΣΚΕΛΑ&#13;
+ΥΠΝΟΣ ΚΑΛΟΣ&#13;
+ΞΕΣΚΕΠΑΖΕΙ ΤΑ ΠΟΔΙΑ ΤΟΥ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΠΟΛΥ ΤΟ ΑΥΓΟ ,ΤΡΩΕΙ ΣΧΕΔΟΝ ΚΑΘΕ ΜΕΡΑ&#13;
+ΕΠΙΘΥΜΕΙ ΚΡΕΑΣ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+ΠΟΛΥ ΑΤΣΑΛΗ ΚΑΙ ΧΩΡΙΣ ΤΑΞΗ ΣΤΑ ΠΡΑΓΜΑΤΑ ΤΗΣ&#13;
+ΚΛΑΙΕΙ ΜΕ ΤΟ ΠΑΡΑΜΙΚΡΟ ΚΑΙ ΕΙΝΑΙ ΠΑΡΑΠΟΝΙΑΡΑ </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+ΚΑΝΕΙ ΥΨΗΛΟΥΣ ΠΥΡΕΤΟΥΣ&#13;
+ΣΥΧΝΑ ΕΠΕΙΣΟΔΙΑ ΒΗΧΑ</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΕΧΕΙ ΑΛΛΕΡΓΙΚΗ ΠΡΟΔΙΑΘΕΣΗ ΚΑΙ ΑΠΟ ΤΟΥΣ ΔΥΟ ΓΟΝΕΙΣ</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Please enter Conclusion ΑΝ ΔΙΑΚΟΨΕΙ ΤΑ ΑΝΤΙΒΙΟΤΙΚΑ ΚΑΙ ΤΙΣ ΚΟΡΤΙΖΟΝΕΣ Η ΠΕΡΙΠΤΩΣΗ ΕΙΝΑΙ ΙΑΣΙΜΗ </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΘΕΣΗ ΥΠΝΟΥ ΑΝΑΣΚΕΛΑ -3&#13;
+ΕΚΖΕΜΑ ΚΑΛΥΤΕΡΑ ΜΕ ΚΡΥΑ ΕΠΙΘΕΜΑΤΑ-3&#13;
+ΞΕΣΚΕΠΑΖΕΙ ΤΑ ΠΟΔΙΑ ΤΟΥ ΣΤΟΝ ΥΠΝΟ-2&#13;
+ΚΟΚΚΙΝΑ ΜΑΓΟΥΛΑ-2 </peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΒΗΧΑΣ ΚΑΙ ΜΠΟΥΚΩΜΑ ΣΕ ΖΕΣΤΟ ΧΩΡΟ-3&#13;
+ΚΑΛΥΤΕΡΑ ΣΤΟΝ ΚΑΘΑΡΟΑΕΡΑ-3&#13;
+ΧΕΙΡΟΤΕΡΑ ΤΟ ΑΠΟΓΕΥΜΑ-2&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>COUGH AIR OPEN AMEL-3&#13;
+COUGH WARM ROOM -3&#13;
+NOSE OBSTUCTION AIR OPEN AMEL-3&#13;
+NOSE OBSTRUCTION WARM ROOM-3&#13;
+COUGH EVENING -2&#13;
+NOSE OBSTRUCTION EVENING-2&#13;
+SKIN ERUPTION EKZEMA-1&#13;
+SKIN ERUPTION COD APPLICATIONS AMEL-2&#13;
+MIND UNTIDY -3&#13;
+MIND WEEPING -3&#13;
+FACE DISCOLORATION RED CHEEKS-2&#13;
+SLEEP POSITION ON BACK-3&#13;
+EXTREMITIES UNCOVER INCLINATION TO FEET-2&#13;
+GEN FOOD EGGS DES-3&#13;
+GEN FOOD MEAT DES-3&#13;
+&#13;
+PULSATILLA 13/15&#13;
+SULPHUR 12/15&#13;
+IODIUM 7/15&#13;
+CALCAREA CARBONICA 6/15&#13;
+ANTIMONIUM CRUDUM 8/15&#13;
+BRYONIA ALBA 7/15&#13;
+APIS MELLIFICA 6/15&#13;
+COCCUS CACTI 3/15&#13;
+NUX VOMICA 6/15&#13;
+PHOSPHORUS 9/15&#13;
+LYCOPODIUM CLAVATUM 9/15&#13;
+MEDORRHINUM 6/15&#13;
+SANICULA ACUA 6/15&#13;
+MAGNESIA PHOSPHORICA 3/15&#13;
+CAPSICUM 3/15&#13;
+LEDUM PALUSTRE 4/15&#13;
+KALI SULPHURICUM 5/15&#13;
+LAC CANINUM 3/15&#13;
+ALIUM CEPA 3/15&#13;
+ARGENTUM NITRICUM 6/15 </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+ΒΗΧΑ ΜΑΖΙ ΜΕ ΜΠΟΥΚΩΜΑ ΣΕ ΖΕΣΤΟ ΧΩΡΟ ΠΟΥ ΚΑΛΥΤΕΡΕΥΕΙ ΣΤΟΝ ΚΑΘΑΡΟ ΑΕΡΑ ΕΧΟΥΝ Η PULSATILLA ΚΑΙ ΤΟ SULPHUR.&#13;
+ΑΝΑΜΕΣΑ ΣΕ ΑΥΤΑ ΤΑ ΔΥΟ ΔΙΑΛΕΓΩ ΤΟ SULPHUR ΛΟΓΩ ΤΗΣ ΔΙΑΘΕΣΗΣ ΓΙΑ ΑΚΑΤΑΣΤΑΣΙΑ ΣΤΑ ΠΡΟΣΩΠΙΚΑ ΤΗΣ ΠΡΑΓΜΑΤΑ , ΠΑΡΟΤΙ ΕΧΕΙ ΣΦΟΔΡΗ ΕΠΙΘΥΜΙΑ ΓΙΑ ΑΥΓΑ   </remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedySULPHUR</remedy>
+        <potency>Please enter potency200 ch</potency>
+        <regimen>Please enter regimen&#13;
+1 καψουλα</regimen>
+        <other_notes>Please enter other notesοχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-10-21 18:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptionsΚΑΜΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΔΥΟ ΜΗΝΕΣ ΜΕΤΑ ΚΑΜΙΑ ΑΛΛΑΓΗ&#13;
+ΕΙΧΑΜΕ ΔΥΟ ΕΠΕΙΣΟΔΙΑ ΠΑΡΟΜΟΙΑ ,ΜΕ ΤΗΝ ΔΙΑΦΟΡΑ ΟΤΙ ΔΕΝ ΕΛΑΒΕ ΧΗΜΙΚΑ ΦΑΡΜΑΚΑ  </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΛΑΘΟΣ ΦΑΡΜΑΚΟ</analysis>
+      <conclusion>Please enter followup conclusionΛΑΘΟΣ ΕΠΙΛΟΓΗ ,ΕΚ ΝΕΟΥ ΜΕΛΕΤΗ ΚΑΙ ΕΠΙΛΟΓΗ ΝΕΟΥ ΦΑΡΜΑΚΟΥ&#13;
+ΑΠΟΦΑΣΙΖΩ PULSATILLA : a. ΕΠΙΔΕΙΝΩΣΗ ΤΟ ΑΠΟΓΕΥΜΑ , b. ΕΠΙΘΥΜΙΑ ΓΙΑ ΑΥΓΑ , c. ΕΚΖΕΜΑ ΚΑΛΥΤΕΡΑ ΜΕ ΤΟ ΚΡΥΟ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorizationΤΟ ΙΔΙΟ</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedyPULSATILLA</remedy>
+        <potency>Please enter potency200 ch</potency>
+        <regimen>Please enter regimen1ΚΑΨΟΥΛΑ</regimen>
+        <other_notes>Please enter other followup notesΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-10-21 19:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptionsΚΑΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+12 ΜΕΡΕΣ ΜΕΤΑ ΑΠΟ ΤΗΝ PULSATILLA ΕΝΤΟΝΗ ΚΡΙΣΗ ΒΗΧΑ ΜΕ ΜΠΟΥΚΩΜΑ ΚΑΙ ΧΕΙΡΟΤΕΡΕΥΣΗ ΤΟΥ ΕΚΖΕΜΑΤΟΣ.ΕΛΑΒΕ AEROLIN . ΔΙΑΡΚΕΙΑ ΔΥΟ ΗΜΕΡΩΝ.&#13;
+ΕΚΤΟΤΕ ΕΛΕΥΘΕΡΗ ΣΥΜΠΤΩΜΑΤΩΝ ΓΙΑ ΔΙΑΣΤΗΜΑ 3 ΜΗΝΩΝ&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΤΟ ΦΑΡΜΑΚΟ ΗΤΑΝ ΤΟ ΣΩΣΤΟ &#13;
+ΘΕΡΑΠΕΥΤΙΚΗ ΕΠΙΔΕΙΝΩΣΗ</analysis>
+      <conclusion>Please enter followup conclusionΙΑΣΗ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorizationΑΝΑΜΟΝΗ</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedyΑΝΑΜΟΝΗ</remedy>
+        <potency>Please enter potency-</potency>
+        <regimen>Please enter regimen-</regimen>
+        <other_notes>Please enter other followup notesΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

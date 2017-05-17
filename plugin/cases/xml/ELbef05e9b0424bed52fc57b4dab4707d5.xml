@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELbef05e9b0424bed52fc57b4dab4707d5</ID>
+  <patient>
+    <case_date>2015-05-14 19:05:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Χ.Α.</patient_initials>
+    <age>64</age>
+    <circumstances>παντρεμένος, έχει 3 παιδιά, συνταξιούχος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αυξάνεται η Α.Π.(=150-160mmHg) 3, κάνει συχνά επιστάξεις 3 και έχει ινιακούς πονοκεφάλους 2 από μηνός.</origin>
+        <causative_factors>Άγχος (?).</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>Αυξάνεται η Α.Π. το πρωί.</occurrence_time>
+        <body_side>Πονοκέφαλος στην ινιακή περιοχή.</body_side>
+        <appearence_frequency>Συχνά μέσα στον τελευταίο μήνα.</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Συχνά έχει διαρροϊκές κενώσεις 2. Κήλες στην ΟΜΣΣ. Φλεβίτιδα. Έχει να κάνει πυρετό αρκετά χρόνια.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Atacand 8mg 1x1 (από το 2007)</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δε θυμάται τα φάρμακα (προ 10ετίας).</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα παιδικά εμβόλια που προβλέπονται από το ΕΣΥ. Αντιβιώσεις. Atacand 8mg 1x1 (από το 2007). </therapies_vaccination>
+          <traumas>Έχει ραγίσει το αρ χέρι σε παιδική ηλικία.</traumas>
+          <infections>-</infections>
+          <other>Αρθροσκόπηση το 2003 λόγω κάκωσης μηνίσκου. Στα 32 κωλικός νεφρού (έχει κάνει συνολικά 3 επεισόδια). </other>
+        </personal>
+        <family>
+          <diseases>Μητέρα(87 ετών) = Α.Υ, ουρική αρθρίτιδα, καρδιακή ανεπάρκεια, Δυσκολία στη βάδιση. Πατέρας(90 ετών) = Σ.Δ., Α.Υ., υποθυρεοειδισμός, υπερπλασία προστάτη.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Προτιμά τις μέσες θερμοκρασίες. Δεν του αρέσει η υγρασία.</reactions>
+        <sleeping_habits>Κοιμάται στο δε πλάι 2, δεν μπορεί να κοιμηθεί στο αρ 2. Κοιμάται νωρίς και ξυπνάει νωρίς-πρωινός τύπος. Ροχαλίζει στον ύπνο του 2.</sleeping_habits>
+        <food_modalities>Επιθυμίες = γλυκά 3, ψάρια 3, κρύο νερό 3. Απέχθειες = αυγά βραστά 2.</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Συμπάσχει 3. Τακτικός 3. Έχει άγχος 2, ειδικά αν έχει πολλά πράγματα να κάνει. Φοβάται τα φαντάσματα 2 και τα νεκροταφεία.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Σχετικά καλό επίπεδο υγείας αν και έχει καιρό να κάνει πυρετό. Έχει καθαρή εικόνα φαρμάκου και δεν έχει ψυχοδιανοητικά συμπτώματα.</personal_medical_history>
+        <family_medical_history>Ελαφρώς επιβαρυμένο και από τους δύο γονείς.</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Θα πάει καλά με το σωστό φάρμακο.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Τακτικός 3. Συμπάσχει 3. Φοβάται τα φαντάσματα 2. Ροχαλίζει στον ύπνο 2. Κοιμάται στο δε πλάι 2. Δεν μπορεί να κοιμηθεί αρ 2. απέχθεια στα βραστά αυγά 2. επιθυμία για τα ψάρια 3.</peculiar>
+        <intense>Άγχος 2. Επιστάξεις 3. Διάρροιες 2. επιθυμεί κρύο νερό 3. επιθυμεί γλυκά 3. Αυξάνεται η Α.Π. 3. Ινιακοί πονοκέφαλοι 2.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/X.A.(1).pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Στη δ.δ. Phos, Caust, Ars, Med, Lyc. Η εικόνα είναι καθαρή, θα δώσω Phos.</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-30 21:05:00</followup_date>
+      <conv_med_presc>Atacand 8mg 1x1.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την 1η μέρα μετά το φάρμακο έκανε 2 επεισόδια επίσταξης μέσα στη μέρα.Για 4-5 μέρες είχε έντονους πονοκεφάλους και λίγο αυξημένη υπνηλία. Δεν ξαναέκανε επίσταξη. Μειώθηκαν οι διάρροιες. Μειώθηκαν οι πονοκέφαλοι και τα επεισόδια αύξησης της Α.Π.</reaction>
+      <analysis>Καλή αντίδραση. Είχε αρχική επιδείνωση και ακολούθησε βελτίωση.</analysis>
+      <conclusion>Θα περιμένω και θα δώσω placebo.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/X.A.(2).pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-10 18:00:00</followup_date>
+      <conv_med_presc>Atacand 8mg 1x1.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μειώθηκε το άγχος. Δεν είχε καθόλου διάρροιες. Δεν είχε καθόλου πονοκέφαλο και δεν ξαναέκανε επεισόδιο με αυξηση της Α.Π. Ροχαλίζει λιγότερο.</reaction>
+      <analysis>Το φάρμακο συνεχίζει να δρα.</analysis>
+      <conclusion>Θα περιμένω και θα δώσω placebo.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/X.A.(3).pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

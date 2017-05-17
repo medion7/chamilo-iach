@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6be8bcbfdabb4f2d8cf0f4df433f1054</ID>
+  <patient>
+    <case_date>2014-12-17 18:30:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Χ.Α</patient_initials>
+    <age>53</age>
+    <circumstances>Έγγαμη , 2 παιδιά, τραπεζική υπάλληλος,68kg, 1,72 ύψος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αυπνία2, αρκετά χρόνια.  Τελευταία παρουσιάζει &lt;.     Η αυπνία της, επιτείνεται όταν έχει άγχος 2.&#13;
+Πονοκέφαλος2,  που ξεκίνησε τα 4 τελευταία χρόνια,μετά το θάνατο της αδέλφής της.  Στην αρχή, σε αραιότερα διαστήματα,ενώ τώρα, εμφανίζεται σχεδόν κάθε  εβδομάδα,διαρκεί πολλές ώρες και παίρνει παυσίπονα.   Εμφανίζεται κυρίως το πρωί.&#13;
+</origin>
+        <causative_factors>Πέθανε η αδελφή της ,από Ca πνευμόνων πριν 4 χρόνια και στενοχωρήθηκε πολύ.    Δεν μπορεί, να το αποδεχθεί.&#13;
+Η ίδια, είχε ένα τροχαίο ατύχημα, πριν 2 χρόνια , όπου χτύπησε στον αυχένα.</causative_factors>
+        <modalities>&gt;ξαπλώνοντας2&#13;
+&lt; με τον ήλιο2&#13;
+&lt;με πνευματική εργασία1</modalities>
+        <occurrence_time>&lt; το πρωί, στη δουλειά2&#13;
+&gt;το απόγευμα, που ξαπλώνει1</occurrence_time>
+        <body_side>Περισσότερες φορές αριστερά,αλλά και δεξιά.</body_side>
+        <appearence_frequency>Ο πονοκέφαλος εκδηλώνεται , σχεδόν κάθε εβδομάδα.</appearence_frequency>
+        <pain_desc>¨Έντονος2 -παλμικός σαν σφυριές.</pain_desc>
+        <complaint_ext>Αρχίζει ο πόνος , από την ινιακή περιοχή και επεκτείνεται  στη μετωπιαία.&#13;
+</complaint_ext>
+        <other_complaints>Κρίση πανικού, 2 φορές το τελευταίο εξάμηνο, όταν αγχώθηκε, για την υγεία της μητέρας της.&#13;
+Άγχος2,  όταν έχει πολλές υποχρεώσεις.&#13;
+Σωματική κόπωση2, κατά την προσπάθεια.&#13;
+Γαστροοισοφαγική παλινδρόμηση1&#13;
+Πόνος στο στομάχι-δυσπεψία, αν φάει κάτι βαρύ, κυρίως το βράδυ.2&#13;
+Ξεφλουδίζουν τα νύχια1&#13;
+Άγχος για την υγεία των δικών της2&#13;
+Ευαισθησία στον ήλιο2&#13;
+&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Αυπνία2, ξυπνάει 2-3 φορές και δυσκολεύεται να ξανακοιμηθεί.   Παίρνει Lexotanil.    &#13;
+Πονοκέφαλος2--Lonarid -Panadol extra.</conv_med_presc>
+        <lab_tests>
+          <desc>M.R.I.εγκεφάλου : κ.φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>Πέθανε η αδελφή της, προ 4ετίας.&#13;
+Είχε ένα τροχαίο ατύχημα, πριν 2 χρόνια.&#13;
+Πατέρας καταθλιπτικός.</traumas>
+          <infections>Περιστασιακές ιώσεις ,κυρίως τον χειμώνα, Κάποιες φορές, φτάνει ο πυρετός της 38-38,5 </infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα:Cα ήπατος&#13;
+Πατέρας:έλκος 12δακτύλου,κατάθλιψη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται 2 ,μετά την εμμηνόπαυση.</reactions>
+        <sleeping_habits>Πλάι2 και μπρούμητα1.</sleeping_habits>
+        <food_modalities>Desire:γλυκά2 ,αλμυρά2, ζυμαρικά3&#13;
+Αversion:λιπαρά2</food_modalities>
+        <menstruation>Εμμηνόπαυση.</menstruation>
+      </physical>
+      <mental_emotional>Δεν έχει αποδεχθεί, το θάνατο της αδελφής και την ασθένεια, των γονέων της.&#13;
+Εύθικτη3, δεν συζητά τα προσωπικά της2&#13;
+&lt;με την παρηγοριά2&#13;
+aversion οίκτος3.  (Δε θέλει να συζητά για την κατάσταση υγείας των γονέων της).&#13;
+Συμπάσχει2&#13;
+Την ενδιαφέρει η εικόνα της2&#13;
+Ευγενική2- κοινωνική2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δεν έχει, σοβαρά σωματικά προβλήματα. Έχει εσωστρέψει και μετά το θάνατο της αδελφής της, εμφανίζονται προβλήματα υγείας.</personal_medical_history>
+        <family_medical_history>Το οικογενειακό ιστορικό της,είναι βεβαρημένο, με αρκετά προβλήματα. που έχουν αναφερθεί παραπάνω.</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Πιστεύω,ότι θα μπορέσει, να βοηθηθεί με την αγωγή μας.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>&lt; με τον ήλιο2&#13;
+</peculiar>
+        <intense>Πονοκέφαλος2&#13;
+Αυπνία 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Head - pain - hammering - morning2&#13;
+Head - pain - evening bed in-  amel.1    &#13;
+Head - pain - mental exertion agg1.&#13;
+Sleep - sleeplessness2&#13;
+Sleep - sleeplessness-  anxiety from 2&#13;
+Mind - grief2&#13;
+Mind - consolation - aggr.2&#13;
+Mind - sympathetic2&#13;
+Generalities - food and drinks -salt - desire2&#13;
+Generalities - food and drinks - sweets desire1&#13;
+Generalities - food and drinks - fat - aversion3&#13;
+Generalities - sun - from exposure to - agg.1&#13;
+&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η σκέψη μου, προσανατολίζεται στο Natrum mur.,γιατί έχει τα σωματικά του, (des:αλάτι ,av:ήλιο, λίπος), αλλά υπάρχει και θλίψη από το θάνατο της αδελφής και την ασθένεια των γονέων.&#13;
+¨Έχει και στοιχεία calcarea carb. αλλά ζεσταίνεται, όπως και Natrum carbonicum&#13;
+&#13;
+Το compass βγάζει: 1o Natrum mur.  &#13;
+                              2ο Nux vom.&#13;
+Δεν έχει όμως ,τα νεύρα της Nux vom.   Κυριαρχεί, το ailments from grief.</remedies_differentiation>
+      <prescription>
+        <remedy>Natrum muriaticum</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Την πρώτη ημέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Το πρωί νηστική, μισή ώρα προ φαγητού</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-10 10:00:00</followup_date>
+      <conv_med_presc>Lonarid -Panadol extra και την τελευταία εβδομάδα έχει αρχίσει να μειώνει το Lexotanil.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την πρώτη εβδομάδα,είχε έντονο πονοκέφαλο και αρκετή όρεξη για φαγητό. Μετά το 15θήμερο, βελτιώθηκε κάπως η αυπνία της. Ξύπναγε, αλλά μπορούσε να ξανακοιμηθεί σύντομα. Οι σωματικές δυνάμεις της βελτιώθηκαν1 αλλά παραμένει το έντονο άγχος για τους δικούς της2.</reaction>
+      <analysis>Φαίνεται να δρα το φάρμακο, αφού είχε αρχική επιδείνωση, και τώρα άρχισε να δείχνει βελτίωση.</analysis>
+      <conclusion>Πιστεύω, ότι το φάρμακο συνεχίζει να δρα. Περιμένω να δώσει και άλλη βελτίωση. Δίνω, για ψυχολογικούς λόγους, placebo.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum muriaticum</remedy>
+        <potency>6x placebo</potency>
+        <regimen>1 κάθε πρωί</regimen>
+        <other_notes>Να λαμβάνει 1 caps κάθε πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού ,για 2μήνες.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-22 08:00:00</followup_date>
+      <conv_med_presc>Depon για τον πονοκέφαλο.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τον πρώτο μήνα, βελτιώθηκε ο ύπνος  και οι σωματικές της δυνάμεις της, μπορούσε να διαχειρισθεί καλύτερα το άγχος της, και αραίωσαν τα διαστήματα που εμφάνιζε πονοκέφαλο. Τον δεύτερο μήνα , λόγω οικογενιακών προβλημάτων, αυξήθηκε το άγχος2 και οι πονοκέφαλοι2.</reaction>
+      <analysis>Τον πρώτο μήνα, συνεχίστηκε η δράση του φαρμάκου αλλά τον δεύτερο μήνα φαίνεται πως εξαντηλήθηκε. Δεν έχει αλλάξει η εικόνα της, με άλλα συμπτώματα.</analysis>
+      <conclusion>Θα επαναλάβουμε το ίδιο φάρμακο, σε μεγαλύτερη δυναμοποίηση,αφού έχουμε την  ίδια εικόνα, αλλά εξαντλήθηκε η δράση του και δεν αντιδοτήθηκε </conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum muriaticum</remedy>
+        <potency>1Μ</potency>
+        <regimen>Άπαξ.</regimen>
+        <other_notes>Το πρωί νηστική, μισή ώρα προ φαγητού</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-06-10 08:00:00</followup_date>
+      <conv_med_presc>Depon , Panadol extra για τον πονοκέφαλο</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Εντάθηκαν τα δυσπεπτικά προβλήματα στο στομάχι της2.   Το γάλα της προκαλεί δυσπεψία.2     Ο ύπνος της παραμένει καλός . Ο πονοκέφαλος είναι πιο έντονος όταν εκτίθεται στον ήλιο2  και όταν κουράζεται πνευματικά2.   Το άγχος της το ελέγχει.</reaction>
+      <analysis>Εμφανίζει, νέα συμπτώματα και θα ψάξουμε για νέο φάρμακο.</analysis>
+      <conclusion>Το Natrum carbomicum  είναι κοντά στη  νέα εικόνα της ασθενούς.</conclusion>
+      <repertorization>
+        <desc>Stomach - indigestion2       Generalities - food and drinks - milk - agg2.     Generalities - sun from exposure to - agg2.     Head - pain - mental exertion - agg.2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum carbonicum</remedy>
+        <potency>200ch</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Να λαμβάνει 1 caps κάθε πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού ,για 2μήνες.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Υ Σ.Ταλαιπωρήθηκα υπερβολικά με την αποθήκευση των δεδομένων.  Kυρίως, στα follow up!!!  Kαταχωρούσα  και  χάνονταν κατά την αποθήκευση!!!</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

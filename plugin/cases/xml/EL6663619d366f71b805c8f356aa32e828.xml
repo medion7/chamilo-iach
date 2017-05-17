@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6663619d366f71b805c8f356aa32e828</ID>
+  <patient>
+    <case_date>2015-12-31 03:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Β.Μ</patient_initials>
+    <age>49</age>
+    <circumstances>Γενικός Ιατρός, πατέρας ενός παιδιού</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>2/4/15:&#13;
+&#13;
+Πλάκες με λέπια πίσω από τα αυτιά(++) από 7ετίας, ερυθρότητα(++), ψωριασικού τύπου αλλοιώσεις σε ορισμένα νύχια&#13;
+</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>aggr: με ζεστό νερό, μπάνιο&#13;
+am: σπαθόλαδο</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>και στις δύο πλευρες</body_side>
+        <appearence_frequency>σταθερή κατάσταση με εξάρσεις και υφέσεις</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>Ενίοτε επέκταση στο πρόσωπο κοντά στα πτερύγια της μύτης.</complaint_ext>
+        <other_complaints>Το 2008 έπαθε δύο ΑΕΕ, Θυρεοειδίτιδα Hashimoto το 2009, Θρομβοφιλία υπό αγωγή με ασπιρίνη, το 2013 αιμόπτυση στο ψάρεμα,&#13;
+γαστρίτιδες από την ασπιρίνη, αιμορροϊδοπάθεια 3ου βαθμού, περιοδοντίτιδα από 5ετίας, ετεροζυγώτης δρεπανοκυτταρικής</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Δερματίτιδα χωρίς αγωγή</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα τότε παιδικά εμβόλια, αντιγριππικά εμβόλια, εμβόλιο κατά του ιού της Ηπ.Β.&#13;
+Αντιβιώσεις, οπιοειδή παυσίπονα για την αιμορροϊδοπάθεια, αντιφλεγμονώδη για την περιοδοντίτιδα</therapies_vaccination>
+          <traumas>Σκωληκοειδεκτομή</traumas>
+          <infections>Γρίππη με 39 πυρετό για 10 μέρες προ 7ετίας</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>μητέρα: ετεροζυγώτης δρεπανοκυτταρικής, θρομβοκυττάρωση, Α.Υ&#13;
+πατέρας: ΣΚΑ, Α.Υ, ΑΕΕ, ΣΔ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυουλιάρης το Χειμώνα, αλλά δεν αντέχει τη ζέστη το καλοκαίρι.&#13;
+Του αρέσει ο ήλιος, αλλά τον αποφεύγει.</reactions>
+        <sleeping_habits>Κακός ύπνος αν και κοιμάται εύκολα. Κοιμάται κυρίως πλάγια και ανάσκελα&#13;
+Ξυπνάει νωρίς το πρωί και μετά δεν του φτάνει ο ύπνος. &#13;
+Δεν θυμάται τα όνειρα που βλέπει.</sleeping_habits>
+        <food_modalities>Επιθυμίες: Λίπος(+++), κόκαλα(++), κρέας(+++), ψάρι(+++), ζυμαρικά(++), αλάτι(++), γλυκά(++) κυρίως μετά το φαγητό, παγωτό(+++)&#13;
+Απέχθειες: Ξινά, ελιές&#13;
+Νερό πίνει πολύ σε μεγάλες ποσότητες, γενικά το θέλει δροσερό.&#13;
+Τα παγάκια τα θέλει το καλοκαίρι </food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Ορθολογικός τύπος, έξυπνος(++), αγχώδης(++), ενοχικός, κοινωνικός(+++),&#13;
+θέλει πολύ να βρίσκεται με ανθρώπους και να εμπλέκεται σε σχέδια, ικανός,&#13;
+τον ενοχλεί η αδικία, εγωϊστής(++), critical(+++), ακατάστατος(+++), δεν θα ενδιαφερθεί για την προσωπική του εμφάνιση,&#13;
+έντονο αίσθημα καθήκοντος(++), κλειστός με τα προσωπικά του&#13;
+δεν θέλει την παρηγοριά, κλαίει σπάνια και ιδιωτικά</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Πλάκες με λέπια πίσω από τα αυτιά(++) από 7ετίας, ερυθρότητα(++), ψωριασικού τύπου αλλοιώσεις σε ορισμένα νύχια.&#13;
+Το 2008 έπαθε δύο ΑΕΕ, Θυρεοειδίτιδα Hashimoto το 2009, Θρομβοφιλία υπό αγωγή με ασπιρίνη,&#13;
+γαστρίτιδες από την ασπιρίνη, αιμορροϊδοπάθεια 3ου βαθμού, περιοδοντίτιδα από 5ετίας.&#13;
+Τελευταίος πυρετός προ δεκαετίας.</personal_medical_history>
+        <family_medical_history>μητέρα: ετεροζυγώτης δρεπανοκυτταρικής, θρομβοκυττάρωση, Α.Υ&#13;
+πατέρας: ΣΚΑ, Α.Υ, ΑΕΕ, ΣΔ</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Αγγειακός ασθενής από τον πατέρα του, προδιάθεση για αγγειακές παθήσεις.&#13;
+Ετεροζυγώτης δρεπανοκυτταρικής αναιμίας από τη μητέρα του. To γεγονός ότι έκανε αρχική επιδείνωση διάρκειας 2 βδομάδων και αμέσως μετά βελτιώση, τον τοποθετεί στο level 3. Ενδεχομένως όμως να βρίσκεται και σε υψηλότερο επίπεδο μιας και έχει ανεβάσει πυρετό την τελευταία 7ετία, όπως επίσης γιατί βγάζει πολύ καθαρή εικονα φαρμάκου.&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Σιχαίνεται απίστευτα τη βρωμιά των άλλων, κάνει κάθε μέρα μπάνιο για λόγους πολιτισμικούς αλλά δεν του αρέσει καθόλου να κάνει μπάνιο, μυρίζουν τα πόδια του, κατακκόκινα μάτια τα βράδια όταν κουράζεται(++)</peculiar>
+        <intense>Πλάκες με λέπια πίσω από τα αυτιά(+++) από 7ετίας, ερυθρότητα(++), ψωριασικού τύπου αλλοιώσεις σε ορισμένα νύχια(++)&#13;
+critical(+++), ακατάστατος(+++)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>SymptomDegreeHEAD ­ ERUPTION ­ eczema ­ margin of hair from ear to ear posteriorly2EXTREMITIES ­ ERUPTION ­ Fingers ­ nails, about1GENERALITIES ­ BATHING ­ hot bath ­ agg.1GENERALITIES ­ WET ­ applications agg.2SKIN ­ ERUPTIONS ­ red2GENERALITIES ­ FOOD and DRINKS ­ fat ­ desire3GENERALITIES ­ FOOD and DRINKS ­ meat ­ desire2GENERALITIES ­ FOOD and DRINKS ­ sour food, acids ­ aversion2GENERALITIES ­ FOOD and DRINKS ­ olives ­ aversion2MIND ­ CENSORIOUS, critical2MIND ­ INDIFFERENCE, apathy, etc. ­ personal appearance2SLEEP ­ UNREFRESHING ­ morning1</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5634/Βουτυράκος.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Sulphur( πολύ καθαρό), Nitric ac</remedies_differentiation>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>30CH</potency>
+        <regimen>3 κάψουλες ανά 12ωρο</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-31 02:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>follow up 15/5/15:&#13;
+&#13;
+Οι πλάκες με λέπια- πιτυρίδα ( αρκετά μεγάλες) πίσω από τα αυτιά έμειναν ίδιες, ίσως είχαν μικρή επιδείνωση για 2 βδομάδες από τη λήψη του φαρμάκου. Οι βλάβες στο πρόσωπο εξαφανίστηκαν αμέσως μετά.Οι βλάβες ψωριασικού τύπου στο νύχι εξαφανίστηκαν καθώς και μια αρχόμενη βλάβη στο ιερό οστό. Πολλή ενέργεια όλο αυτό το διάστημα, όχι άγχος, καλή διάθεση, δημιουργικότητα, δεν ήταν καθόλου critical και είχε φτιάξει επίσης ο ύπνος του. </reaction>
+      <analysis>Η αρχική μικρή επιδείνωση και η βελτιώση σε ορισμένα από τα αρχικά συμπτώματα, όπως επίσης η ανεβασμένη διάθεση και η δημιουργικότητα επιβεβαιώνουν το φάρμακο. </analysis>
+      <conclusion>Θα περιμένω για περαιτέρω βελτίωση χωρίς δεύτερη συνταγογράφηση</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-31 02:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>2ο follow up 3/9/15:&#13;
+&#13;
+Εδώ και κανα 3 μηνο χάλασε πάλι ο ύπνος του. Ξυπνά στις 5 και κάνει δουλειά, πνευματική κυρίως. Επέστρεψαν οι βλάβες στο νύχι. Έχει γίνει περισσότερο critical. Το τελευταίο 10 ήμερο δεν ξεκουράζεται καλά, σέρνεται κυριολεκτικά, ξυπνά το πρωί κι έχει κόκκινα μάτια ( ενώ συνήθως είχε το βράδυ πριν κοιμηθεί). Όσο για τα ιδιοσυγκρασιακά του και τις προτιμήσεις του στο φαΐ, πιο sulphur δε γίνεται</reaction>
+      <analysis>Η πλήρης επιστροφή στην αρχική εικόνα του ασθενούς μπορεί να σημαίνει είτε ότι ο ασθενής εξάντλησε το φάρμακο και θέλει επανάληψη, είτε ότι αντιδότησε. Μου είπε εκ των υστέρων ότι  πήρε αντιβίωση για τα δόντια του στις αρχές του Ιούνη στην Κάρπαθο και ότι στο ταξίδι ήπιε και 4-5 φορές coca cola</analysis>
+      <conclusion>Θα επαναλάβω το Sulphur λόγω αντιδότησης.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>30CH</potency>
+        <regimen>3 κάψουλες ανά 12 ωρο</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELcead9223ee1fafa61242b677be0b6dcc</ID>
+  <patient>
+    <case_date>2016-02-20 02:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΠΜ</patient_initials>
+    <age>1</age>
+    <circumstances>ΑΡΡΕΝ ΒΡΕΦΟΣ 20 ΗΜΕΡΩΝ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ 10ΗΜΕΡΟΥ ΕΝΤΟΝΟΙ ΚΟΛΙΚΟΙ </origin>
+        <causative_factors>ΑΝΩΡΙΜΟΤΗΤΑ ΠΕΠΤΙΚΟΥ ΔΙΑΤΡΟΦΗ ΜΗΤΕΡΑΣ ΠΡΟΣΘΗΚΗ 1 ΓΕΥΜΑΤΟΣ ΞΕΝΟΥ ΓΑΛΑΚΤΟΣ</causative_factors>
+        <modalities>ΕΠΙΔΕΙΝΩΣΗ ΤΟ ΒΡΑΔΥ ΜΕΤΑ ΤΑ ΓΕΥΜΑΤΑ ΑΝΑΣΚΕΛΑ</modalities>
+        <occurrence_time>ΤΙΣ ΠΕΡΙΣΣΟΤΕΡΕΣ ΩΡΕΣ ΤΗΣ ΗΜΕΡΑΣ ΜΕ ΕΠΙΤΑΣΗ ΤΟ ΒΡΑΔΥ10-3ΜΜ.</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>ΚΑΘΗΜΕΡΙΝΑ</appearence_frequency>
+        <pain_desc>ΚΟΛΙΚΟΕΙΔΕΣ ΑΛΓΟΣ ΜΕ ΜΑΖΕΜΑ ΤΩΝ ΠΟΔΙΩΝ ΠΡΟΣ ΤΗΝ ΚΟΙΛΙΑ ΚΑΙ ΚΟΚΚΙΝΙΣΜΑ ΠΡΟΣΩΠΟΥ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΙINFACOLIC(ΣΙΜΕΤΙΔΙΝΗ)</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΟΧΙ</therapies_vaccination>
+          <traumas>ΟΧΙ</traumas>
+          <infections>ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΕΛΕΥΘΕΡΟ ΟΙΚΟΓΕΝΕΙΑΚΟ ΙΣΤΟΡΙΚΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΑ ΑΚΡΑ ΒΕΛΤΙΩΝΕΤΑΙ ΜΕ ΤΗΝ ΘΕΡΜΟΤΗΤΑ ΤΗΝ ΤΡΙΒΗ ΣΤΗΝ ΚΟΙΛΙΤΣΑ</reactions>
+        <sleeping_habits>ΣΤΗΝ  ΠΡΗΝΗ ΘΕΣΗ ΔΕΙΧΝΕΙ ΝΑ ΑΝΑΚΟΥΦΙΖΕΤΑΙ</sleeping_habits>
+        <food_modalities>ΕΠΙΔΕΙΝΩΣΗ ΟΤΑΝ Η ΜΗΤΕΡΑ ΚΑΤΑΝΑΛΩΣΕ ΓΑΛΑΚΤΟΚΟΜΙΚΑ ΚΑΙ ΦΡΟΥΤΑ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΑΝΗΣΥΧΙΑ ΕΥΕΡΕΘΙΣΤΟΤΗΤΑ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΕΛΕΥΘΕΡΟ</personal_medical_history>
+        <family_medical_history>ΕΛΕΥΘΕΡΟ</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>ΚΩΛΙΚΟΙ ΠΡΩΤΟΥ ΤΡΙΜΗΝΟΥ ΣΕ ΒΡΕΦΟΣ ΜΕ ΠΟΛΥ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΛΟΓΩ ΗΛΙΚΙΑΣ ΚΑΙ ΠΟΛΥ ΚΑΛΟΥ ΕΠΙΠΕΔΟΥ ΥΓΕΙΑΣ ΤΩΝ ΓΟΝΕΩΝ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>ΚΩΛΙΚΟΙ4 ΑΝΑΓΩΓΕΣ 2 ΚΡΥΑ ΑΚΡΑ1</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>COLOCYNTHUS CHAMOMILA ILLICIUM LYCOPODIUM</remedies_differentiation>
+      <prescription>
+        <remedy>COLOCYNTHUS</remedy>
+        <potency>200ch</potency>
+        <regimen>1CAPS</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-20 01:00:00</followup_date>
+      <conv_med_presc>KAMMIA</conv_med_presc>
+      <lab_tests>
+        <desc>ΓΕΝΙΚΗ ΚΑΙ ΚΑΛΛΙΕΡΓΕΙΑ ΟΥΡΩΝ ΚΦ RAST ΣΤΟ ΓΑΛΑ ΑΓΕΛΑΔΟΣ ΑΡΝΗΤΙΚΟ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΛΙΓΕΣ ΩΡΕΣ ΜΕΤΑ ΤΗΝ ΛΗΨΗ ΕΞΑΡΣΗ ΤΩΝ ΚΟΛΙΚΩΝ ΜΕ ΕΝΤΟΝΟ ΚΛΑΜΜΑ ΓΙΑ 3 ΩΡΕΣ ΚΑΙ ΤΗΝ ΕΠΟΜΕΝΗ ΗΜΕΡΑ ΒΕΛΤΙΩΣΗ ΕΩΣ ΕΞΑΛΕΙΨΗ ΤΩΝ ΚΩΛΙΚΩΝ</reaction>
+      <analysis>ΑΡΙΣΤΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΣΩΣΤΟ ΦΑΡΜΑΚΟ ΜΙΚΡΗΣ ΔΙΑΡΚΕΙΑΣ ΘΕΡΑΠΕΥΤΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΚΑΙ ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΒΕΛΤΙΩΣΗ</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

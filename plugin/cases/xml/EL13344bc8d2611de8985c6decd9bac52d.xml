@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL13344bc8d2611de8985c6decd9bac52d</ID>
+  <patient>
+    <case_date>2012-11-27 07:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>κζ</patient_initials>
+    <age>43</age>
+    <circumstances>ανυπαντρη,δυα αδελφεσ,ο πατερασ εχει πεθανει απο ca πνευμονα&#13;
+,ιδ.υπαλληλοσ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>-αυχενικο:πριν 10 χρονια ξεκινησε πονοσ στον αυχενα.πριν 3 χρονια εκανε κριση με πονο ,μουδιασματα,κ παραλυση ανω ακρων.&#13;
+-υπνοσ,-φοβιεσ: απο τον θανατο του πατερα τησ,πριν 2 χρονια, η ασθενησ παρουσιασε πρωτη φορα αυπνιεσ.&#13;
+-δεν μπορει να ξεπερασει τον θανατο του πατερα τησ εδω κ 3 χρονια.</origin>
+        <causative_factors>η ασθενησ αναφερει οτι απο το θανατο του πατερα τησ κ μετα εχει αυπνιεσ,εφιαλτεσ οταν μπορουσε να κοιμηθει,πιο εντονο φοβο να μεινει μονη τησ.</causative_factors>
+        <modalities>- η ασθενησ αναφερει οτι οι φοβιεσ τησ κ η στεναχωρια κ οι αυπνιεσ τησ καλυτερευουν οταν εχει παρεα κ δεν ειναι μονη τησ στο σπιτι.&#13;
+γενικα η κατασταση τησ βελτιωνεται με παρεα,ενω χειροτερευει οταν ειναι μονη τησ.&#13;
+-το αυχενικο τησ χειροτερευει με την υγρασια.</modalities>
+        <occurrence_time>- η ασθενησ αναφερει οτι οι φοβιεσ τησ κ η στεναχωρια κ οι αυπνιεσ τησ καλυτερευουν οταν εχει παρεα κ δεν ειναι μονη τησ στο σπιτι.&#13;
+γενικα η κατασταση τησ βελτιωνεται με παρεα,ενω χειροτερευει οταν ειναι μονη τησ.&#13;
+-το αυχενικο τησ χειροτερευει με την υγρασια.</occurrence_time>
+        <body_side>αυχενικο: αμφοτεροπλευρα σε αυχενα,χερια,ωμοπλατη</body_side>
+        <appearence_frequency>η συχνοτητα επηρεαζεται απο τουσ τροποποιοητικουσ παραγοντεσ που αναφερθηκαν.</appearence_frequency>
+        <pain_desc>διαχυτοσ κ εντονοσ&#13;
+</pain_desc>
+        <complaint_ext>πονοσ αυχενικου:-&gt;ωμοπλατη,χερι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>δεν υπαρχει συνταγογραφηση</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>δεν υπαρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-θεραπεια για ακμη .20 χρονων&#13;
+-παιδικοι εμβολιασμοι</therapies_vaccination>
+          <traumas>θανατοσ πατερα το '11&#13;
+</traumas>
+          <infections>δεν αναφερονται στο ιστορικο</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>-πατερασ:καρδιακο νοσημα,ca ουροδοχου κυστησ κ πνευμονα.πεθανε το '11</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κφ</reactions>
+        <sleeping_habits>8-9 ωρεσ,κυριωσ αριστερα,δεν μπορω μπρουμυτα,ακινητη εντελωσονειρα:30% τρομακτικα με κηδειεσ ,πεθαμενουσ,επιθεση απο γατεσ.ξυπναω τρομαγμενη,ταχυπαλμια,κουκουλωνομαι.&#13;
+θελω να ειμαι σκεπασμενη σολο το σωμα για να νιωθω ασφαλεια,κυριωσ οταν κοιμαμαι μονη μου.</sleeping_habits>
+        <food_modalities>επιθυμει:λιωμενα,πιτσα2,γαλα2&#13;
+απεχθεια:αλμυρα,αλκοολ,φετα ωμη,λιποσ,πολυ γλυκα&#13;
+αυξημενη ορεξη&#13;
+αυξημενη διψα :3lt</food_modalities>
+        <menstruation>καθε 30 ημερεσ.&#13;
+διαρκεια 4 ημερεσ.&#13;
+αιμα οχι πολυ,κοκκινο,με θρομβουσ οχι πολυ μεγαλουσ.&#13;
+pms:κοπωση,αδιαθεσια,πονισ στα γονατα,πονοκεφαλοσ για 7-10 ημερεσ πριν την εναρξη τησ περιοδου.</menstruation>
+      </physical>
+      <mental_emotional>φοβιεσ:-νεκροταφια,κηδιεσ(3),-μοναξια(4),-υγειας,-γατεσ(4),-σκοταδι(3),-φαντασματα,-βια,φωνεσ,τσακωμοι.&#13;
+ολα τα παραπαν ειναι  &gt;οταν εχω [παρεα κ δεν ειμαι μονη μου.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-αρθριτιδα στο δ γονατο(7χρονια)&#13;
+-μηνισκοδ γονατο(πριν 18 χρονια)&#13;
+-χολ\εκτομη ,'05&#13;
+-σκ/δα ,'05&#13;
+-αυχενικο πριν 10 χρομια,.&#13;
+ πριν 3 χρονια:κριση&#13;
+ 3 κηλεσ,μεσοσπ/λιουσ&#13;
+-υπερτροφικεσ αμυγδαλεσ&#13;
+-pms:κοπωση,,πονο&#13;
+-περιοδοσ απο το '11,λογω θανατου του πατερα.</personal_medical_history>
+        <family_medical_history>-πατερασ:καρδιακο νοσημα,ca ουροδοχου κυστησ κ πνευμονα.πεθανε το '11&#13;
+-αδελφοσ του πατερα καρδιολογικο νοσημα.πεθανε απο αυτο.</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>βλεπω καθαρη εικονα.υπολογιζω οτι θα παει καλα το περισττικο.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>φοβιεσ:-νεκροταφια,κηδιεσ(3),-μοναξια(4),-υγειας,-γατεσ(4),-σκοταδι(3),-φαντασματα,-βια,φωνεσ,τσακωμοι.</peculiar>
+        <intense>φοβιεσ:-νεκροταφια,κηδιεσ(3),-μοναξια(4),-υγειας,-γατεσ(4),-σκοταδι(3),-φαντασματα,-βια,φωνεσ,τσακωμοι.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>lyc,phos,tub</remedies_differentiation>
+      <prescription>
+        <remedy>lyc</remedy>
+        <potency>200ch</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>επανεξεταση σε ενα μηνα</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2013-04-27 05:00:00</followup_date>
+      <conv_med_presc>6/12/12 lyc 200ch</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-&gt;υπνοσ,8-9 ωρεσ,με ξεκουραζει&#13;
+-&gt;πονοσ στο γονατο&#13;
+-νιωθω ηρεμια&#13;
+-&gt;φοβιεσ:&gt;μονη στο σκοταδι,&gt;υγεια,&gt;γατεσ,&gt;νεκροταφια,&gt;πεθαμενοι&#13;
+-πιο ηρεμη απο θανατο πατερα&#13;
+-περιοδοσ:28ημερεσ,πιο κοκκινο,χωρισ θρομβουσ.&#13;
+-&gt;αγχοσ&#13;
+-&gt;το προσωπο μου(μου το λενε κ οι αλλοι)&#13;
+-&gt;σωμ.ενεργεια&#13;
+-</reaction>
+      <analysis>το φαρμακο ειναι σωστο .εδρασε σε επιπεδο mental,emoytional.physical.&#13;
+δεν πρεπει να χορηγησω αλλο φαρμακο .αφηνω το φαρμακο να δρασει ακομα .παρακολουθω.</analysis>
+      <conclusion>ο σθενησ εχει ιαθει.δεν χρειαζεται νεα συνταγογραφηση</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>δεν υπαρχει νεα συνταγογραφηση</remedy>
+        <potency>δεν υπαρχει νεα συνταγογραφηση</potency>
+        <regimen>δεν υπαρχει νεα συνταγογραφηση</regimen>
+        <other_notes>δεν υπαρχει νεα συνταγογραφηση</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

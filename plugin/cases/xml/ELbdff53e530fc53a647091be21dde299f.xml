@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELbdff53e530fc53a647091be21dde299f</ID>
+  <patient>
+    <case_date>2014-12-02 01:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΑΜ</patient_initials>
+    <age>6</age>
+    <circumstances>P lease enter the personal circumstances ΠΑΙΔΙ 6 ΕΤΩΝ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared) ΑΠΟ 4ΕΤΙΑΣ ΜΕΤΑ ΤΗΝ ΕΝΑΡΞΗ ΠΑΙΔΙΚΟΥ ΣΤΑΘΜΟΥ ΕΠΕΙΣΟΔΙΑ ΒΡΟΓΧΙΤΙΔΑΣ ΠΕΡΙΠΟΥ 5/ΕΤΟΣ ΠΟΥ ΧΡΗΖΟΥΝ ΕΙΣΠΝΟΩΝ ΜΕ AEROLIN ΚΑΙ FLIXOTIDE.3ΕΠΕΙΣΟΔΙΑ ΟΞΕΙΑΣ ΜΕΣΗΣ ΩΤΙΤΙΔΑΣ ΓΙΑ ΤΑ ΟΠΟΙΑ ΕΛΑΒΕ AMOXIL KAI ΑUGMENTIN2 ΦΟΡΕΣ</origin>
+        <causative_factors>Please enter any possible causative factorsΕΝΑΡΞΗ ΠΑΙΔΙΚΟΥ ΣΤΑΘΜΟΥ.  ΚΛΗΡΟΝΟΜΙΚΗ ΠΡΟΔΙΑΘΕΣΗ</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)ΒΗΧΑΣ ΠΟΥ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΤΟΥΣ ΧΕΙΜΩΝΙΑΤΙΚΟΥΣ ΜΗΝΕΣ ΚΑΙ ΣΤΗΝ ΚΑΤΑΚΛΙΣΗ ΚΑΙ ΒΕΛΤΙΩΝΕΤΑΙ ΣΤΟΝ ΔΡΟΣΕΡΟ ΑΕΡΑ</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration ΒΗΧΑΣ ΧΕΙΡΟΤΕΡΑ ΤΗΝ ΝΥΧΤΑ ΜΕ ΤΗΝ ΖΕΣΤΗ ,ΞΗΡΟΣ ΤΗΝ ΝΥΧΤΑ ΠΟΥ ΓΙΝΕΤΑΙ ΠΙΟ ΠΑΡΑΓΩΓΙΚΟΣ ΤΟ ΠΡΩΙ ΚΑΙ ΒΕΛΤΙΩΝΕΤΑΙ ΣΤΟΝ ΚΑΘΑΡΟ ,ΔΡΟΣΕΡΟ ΑΕΡΑ</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance ΤΟΝ ΧΕΙΜΩΝΑ ΚΑΘΕ ΜΗΝΑ ΠΕΡΙΠΟΥ ΓΙΑ 20 ΗΜΕΡΕΣ ΤΟΝ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ple ase enter the conventional Medical Prescriptions ΣΤΟ ΠΑΡΕΛΘΟΝ ΕΙΣΠΝΕΟΜΕΝΑ ΛΟΓΩ ΣΥΧΝΩΝ ΒΡΟΓΧΙΤΙΔΩΝ.3ΦΟΡΕΣ ΑΝΤΙΒΙΩΣΗ AMOXIL,AUGMENTIN ΛΟΓΩ ΩΤΙΤΙΔΑΣ ΑΜΦΩ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations ΠΡΟΒΛΕΠΟΜΕΝΟΙ ΕΜΒΟΛΙΑΣΜΟΙ.ΕΙΣΠΝΕΟΜΕΝΑ ΒΡΟΓΧΟΔΑΣΤΑΛΤΙΚΑ ΑΝΤΙΒΙΩΤΙΚΑ</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental) ΑΠΟΧΩΡΙΣΜΟΣ ΑΠΟ ΤΗΝ ΜΗΤΕΡΑ ΜΕ ΤΗΝ ΕΝΑΡΞΗ ΠΑΙΔΙΚΟΥ ΣΤΑΘΜΟΥ ΓΕΝΝΗΣΗ ΜΙΚΡΟΤΕΡΟΥ ΑΔΕΛΦΟΥ ΠΡΟ3ΕΤΩΝ</traumas>
+          <infections>Please enter Acute infectious diseasesΟΞΕΙΑ ΜΕΣΗ ΩΤΙΤΙΔΑ ΒΡΟΓΧΙΤΙΔΕΣ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the familyΒΡΟΓΧΙΤΙΔΕΣ ΚΑΙ ΑΜΥΓΔΑΛΙΤΙΔΕΣ ΣΕ ΠΑΙΔΙΚΗ ΗΛΙΚΙΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΑΙΝΕΤΑΙ , ΞΕΣΚΕΠΑΖΕΤΑΙ ΤΟ ΒΡΑΔΥ.ΠΡΟΤΙΜΑΕΙ ΚΡΥΕΣ ΤΡΟΦΕΣ</reactions>
+        <sleeping_habits>ΑΝΑΣΚΕΛΑ ΚΑΙ ΜΕΡΙΚΕΣ ΦΟΡΕΣ ΣΤΟ ΠΛΑΙ.</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΓΛΥΚΑ ΚΑΙ ΖΥΜΑΡΙΚΑ .ΠΡΟΤΙΜΑΕΙ ΚΡΥΕΣ ΤΡΟΦΕΣ.ΜΕΙΩΜΕΝΗ ΔΙΨΑ. ΑΠΕΧΘΕΙΑ ΣΤΑ ΟΣΠΡΙΑ.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms ΠΑΡΑΠΟΝΙΑΡΑ ,ΠΡΟΣΚΟΛΛΗΜΕΝΗ ΣΤΗΝ ΜΑΜΑ,ΑΝΙΚΑΝΟΠΟΙΗΤΗ.ΖΗΛΕΙΑ ΣΤΟ ΑΔΕΛΦΑΚΙ ΧΩΡΙΣ ΕΠΙΘΕΤΙΚΟΤΗΤΑ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history3ΕΠΕΙΣΟΔΙΑ ΩΤΙΤΙΔΑΣ ΣΥΧΝΕΣ ΒΡΟΓΧΙΤΙΔΕΣ</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predispositionsΗ μητερα σαν παιδι ειχε βρογχιτιδες και ο πατερας συχνες αμυγδαλιτιδες ,εκανε αυγδαλεκτομη σε ηλικια6ετων.</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion Σχετικα καλο επιπεδο υγειας που εχει καταπιεστει απο τις συμβατικες θεραπειες με καθαρη εικονα φαρμακου και καλη προγνωση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)Επιθυμει κρυες τροφες3</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)ΒΗΧΑΣ ΞΗΡΟΣ ΤΗΝ ΝΥΧΤΑ ΚΑΙ ΤΟ ΠΡΩΙ ΠΑΡΑΓΩΓΙΚΟΣ4 ΠΑΡΑΠΟΝΟ3ΖΕΣΤΑΙΝΕΤΑΙ 3 ΜΕΙΩΜΕΝΗ ΔΙΨΑ3 ΠΡΟΣΚΟΛΗΣΗ ΣΤΗΝ ΜΑΜΑ3ΕΠΙΘΥΜΕΙ ΚΡΥΕΣ ΤΡΟΦΕΣ 3 ΚΟΙΜΑΤΑΙ ΑΝΑΣΚΕΛΑ ΜΕ ΤΑ ΧΕΡΙΑ ΠΡΟΣ ΤΑ ΠΑΝΩ2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>PULSATILAPlease enter remedy</remedy>
+        <potency>200CH ΚΑΙ1Μ</potency>
+        <regimen>Please enter regimen200CΗ THN ΠΡΩΤΗ ΗΜΕΡΑ ΚΑΙ 1Μ ΤΗΝ ΕΠΟΜΕΝΗ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-10 00:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions Ο ΒΗΧΑΣ  ΠΟΛΥ ΚΑΛΥΤΕΡΑ ,ΤΟ ΒΡΑΔΥ ΚΟΙΜΑΤΑΙ ΠΙΟ ΗΡΕΜΑ ,Η ΓΚΡΙΝΙΑ ΕΧΕΙ ΜΕΙΩΘΕΙ.ΔΕΝ ΕΧΕΙ ΚΑΝΕΙ ΩΤΙΤΙΔΑ. ΜΙΑ ΦΟΡΑ ΧΡΕΙΑΣΤΗΚΕ ΕΙΣΠΝΟΕΣ ΓΙΑ ΛΙΓΟΤΕΡΕΣ ΜΕΡΕΣ.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation ΤΙΣ ΠΡΩΤΕΣ 3 ΗΜΕΡΕΣ ΜΙΚΡΗ ΕΞΑΡΣΗ ΤΟΥ ΒΗΧΑ ,ΓΚΡΙΝΙΑΣ ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΒΕΛΤΙΩΣΗ.</reaction>
+      <analysis> Please enter Analysis of the reaction ΑΝΑΜΕΝΟΜΕΝΗ ΑΝΤΙΔΡΑΣΗ ΔΕΔΟΜΕΝΟΥ ΤΟΥ ΥΨΗΛΟΥ ΕΠΙΠΕΔΠΥ ΥΓΕΙΑΣ ΚΑΙ ΤΗΣ ΣΩΣΤΗΣ ΕΠΙΛΟΓΗΣ ΦΑΡΜΑΚΟΥ.</analysis>
+      <conclusion>Please enter followup conclusion ΤΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΑΚΕΤΑ ΥΨΗΛΟ ΤΟ ΦΑΡΜΑΚΟ ΚΑΘΑΡΟ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΕΠΙΒΕΒΑΙΩΝΕΙ ΤΟ ΦΑΡΜΑΚΟ ΠΟΥ ΑΝΑΜΕΝΟΥΜΕ ΝΑ ΚΡΑΤΗΣΕΙ ΤΗΝ ΔΡΑΣΗ ΤΟΥ ΓΙΑ ΑΡΚΕΤΟ ΚΑΙΡΟ.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΧΡΕΙΑΣΤΗΚΕ ΜΕΧΡΙ ΣΗΜΕΡΑ ΑΛΛΟ ΦΑΡΜΑΚΟ Η ΕΠΑΝΑΛΗΨΗ ΤΟΥ ΙΔΙΟΥ ΦΑΡΜΑΚΟΥ ΚΑΘΩΣ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΔΕΝ ΕΧΟΥΝ ΑΛΛΑΞΕΙ ΚΑΙ ΕΙΝΑΙ ΠΟΛΥ ΗΠΙΑ.</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

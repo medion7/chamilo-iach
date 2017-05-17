@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL30c1672bcdb6277d400de51b3d2e36dc</ID>
+  <patient>
+    <gender>female</gender>
+    <patient_initials>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</patient_initials>
+    <age>0</age>
+    <circumstances>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</origin>
+        <causative_factors>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</causative_factors>
+        <modalities>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</modalities>
+        <occurrence_time>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</occurrence_time>
+        <body_side>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</body_side>
+        <appearence_frequency>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</appearence_frequency>
+        <pain_desc>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</pain_desc>
+        <complaint_ext>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</complaint_ext>
+        <other_complaints>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</conv_med_presc>
+        <lab_tests>
+          <desc>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</desc>
+          <file/>
+        </lab_tests>
+        <pre_homeo_presc>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</therapies_vaccination>
+          <traumas>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</traumas>
+          <infections>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</infections>
+          <other>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</other>
+        </personal>
+        <family>
+          <diseases>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</reactions>
+        <sleeping_habits>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</sleeping_habits>
+        <food_modalities>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</food_modalities>
+        <menstruation>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</menstruation>
+      </physical>
+      <mental_emotional>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</anatomopathological>
+        <disturbance_depth>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</disturbance_depth>
+        <personal_medical_history>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</personal_medical_history>
+        <family_medical_history>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</peculiar>
+        <intense>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</desc>
+        <file_url/>
+      </repertorization>
+      <remedies_differentiation>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</remedies_differentiation>
+      <prescription>
+        <remedy>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</remedy>
+        <potency>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</potency>
+        <regimen>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</regimen>
+        <other_notes>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</conv_med_presc>
+      <lab_tests>
+        <desc>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</desc>
+        <file/>
+      </lab_tests>
+      <reaction>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</reaction>
+      <analysis>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</analysis>
+      <conclusion>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</conclusion>
+      <repertorization>
+        <desc>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</desc>
+        <file_url/>
+      </repertorization>
+      <prescription>
+        <remedy>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</remedy>
+        <potency>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</potency>
+        <regimen>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</regimen>
+        <other_notes>sdfsdf ksdhfksjdf λσαξαλσξδλκαξσ ''</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <conv_med_presc>texts</conv_med_presc>
+      <lab_tests>
+        <desc>texts</desc>
+        <file/>
+      </lab_tests>
+      <reaction>texts</reaction>
+      <analysis>texts</analysis>
+      <conclusion>texts</conclusion>
+      <repertorization>
+        <desc>texts</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/1008/stock-vector-three-tall-funny-girls-are-chatting-blond-girl-stays-woman-with-dark-hair-pats-white-cat-girl-204352885.jpg</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>texts</remedy>
+        <potency>texts</potency>
+        <regimen>texts</regimen>
+        <other_notes>texts</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <conv_med_presc>texts</conv_med_presc>
+      <lab_tests>
+        <desc>texts</desc>
+        <file/>
+      </lab_tests>
+      <reaction>texts</reaction>
+      <analysis>texts</analysis>
+      <conclusion>texts</conclusion>
+      <repertorization>
+        <desc>texts</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/1008/stock-vector-three-tall-funny-girls-are-chatting-blond-girl-stays-woman-with-dark-hair-pats-white-cat-girl-204352885.jpg</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>texts</remedy>
+        <potency>texts</potency>
+        <regimen>texts</regimen>
+        <other_notes>ωtexts</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <conv_med_presc>καξσδακσηδκ</conv_med_presc>
+      <lab_tests>
+        <desc>καξσδακσηδκ</desc>
+        <file/>
+      </lab_tests>
+      <reaction>καξσδακσηδκ</reaction>
+      <analysis>καξσδακσηδκ</analysis>
+      <conclusion>καξσδακσηδκ</conclusion>
+      <repertorization>
+        <desc>καξσδακσηδκ</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/1008/stock-vector-three-tall-funny-girls-are-chatting-blond-girl-stays-woman-with-dark-hair-pats-white-cat-girl-204352885.jpg</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>καξσδακσηδκ</remedy>
+        <potency>καξσδακσηδκ</potency>
+        <regimen>καξσδακσηδκ</regimen>
+        <other_notes>καξσδακσηδκ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>5</number>
+      <conv_med_presc>καξσδακσηδκ</conv_med_presc>
+      <lab_tests>
+        <desc>καξσδακσηδκ</desc>
+        <file/>
+      </lab_tests>
+      <reaction>καξσδακσηδκ</reaction>
+      <analysis>καξσδακσηδκ</analysis>
+      <conclusion>καξσδακσηδκ</conclusion>
+      <repertorization>
+        <desc>καξσδακσηδκ</desc>
+        <file_url/>
+      </repertorization>
+      <prescription>
+        <remedy>καξσδακσηδκ</remedy>
+        <potency>καξσδακσηδκ</potency>
+        <regimen>καξσδακσηδκ</regimen>
+        <other_notes>καξσδακσηδκ</other_notes>
+      </prescription>
+    </followup>
+  <followup><number>6</number><conv_med_presc>καξσδακσηδκ</conv_med_presc><lab_tests><desc>καξσδακσηδκ</desc><file></file></lab_tests><reaction>καξσδακσηδκ</reaction><analysis>καξσδακσηδκ</analysis><conclusion>καξσδακσηδκ</conclusion><repertorization><desc>καξσδακσηδκ</desc><file_url></file_url></repertorization><prescription><remedy>καξσδακσηδκ</remedy><potency>καξσδακσηδκ</potency><regimen>καξσδακσηδκ</regimen><other_notes>καξσδακσηδκ</other_notes></prescription></followup></followups>
+</case>

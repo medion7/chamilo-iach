@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL5f534e971ad126734f676a8cdcbd4c86</ID>
+  <patient>
+    <case_date>2014-02-01 10:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Σ.Ι</patient_initials>
+    <age>71</age>
+    <circumstances>Please enter the personal circumstances&#13;
+Παντρεμένος με 2 παιδιά&#13;
+Επάγγελμα  δάσκαλος συνταξιούχος&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+&#13;
+Κατάθληψη η οποία εμφανίστηκε πρίν 12 χρόνια από τότε που έμαθε ότι το παιδί του έχει σκλήρυνση κατά πλάκας</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+&#13;
+Θλίψη από την ασθένεια του γιού του</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+&#13;
+Τίποτα δεν τον καλυτερεύει&#13;
+&#13;
+</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+&#13;
+&lt; την ημέρα μόλις ξημερώσει&#13;
+λίγο &gt; το βράδι</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+&#13;
+-</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ -Καθημερινά</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+Ο πόνος της ψυχής του δεν περιγράφεται ,ο πόνος στην οσφυική &lt; με την κίνηση και το βάρος</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+οχι&#13;
+-</complaint_ext>
+        <other_complaints>Γενικά είναι γερός οργανισμός δεν αρρωσταίνει&#13;
+Πότε πότε αν κουραστή έχει αυχενικό ,οσφυαλγία</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+Κατάθλιψη, τάσεις αυτοκτονίας&#13;
+Παίρνει ψυχοφάρμακα τριών ειδών και υπνωτκά</conv_med_presc>
+        <lab_tests>
+          <desc>Εξετάσεις αίματος κφ&#13;
+Υπερηχογραφήματα άνω κάτω κοιλίας κ.φ&#13;
+</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+&#13;
+Εμβολιασμοί και ψυχοφάρμακα&#13;
+</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+&#13;
+Μεγάλο ψυχικό τραύμα όταν έμαθε ότι ο γιό του είχε σκλήρυνση κατά πλάκας Έχει σκεφτεί πολλές φορές να πέσει από το μπαλκόνι να αυτοκτονήση (3) αλλά δεν ξέρει γιατί δεν το κάνει&#13;
+Το sex του  ήταν πολύ σημαντικό αλλά από τότε  ορκίστηκε στον θεό να μην ξανακάνει </traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+Τίποτα το σημαντικό</infections>
+          <other>ουδέν</other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+Γονείς πέθαναν 95 ετών φυσιολογικά&#13;
+Γιός ΣΚΠ (την έχει η σύζυγός του)&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Μάλλον κρύα ιδιοσυγκαρία</reactions>
+        <sleeping_habits>Καλός με τόσα ηρεμιστικά. Όνειρα με μεγάλη λεπτομέρεια ,τον βολεύει δεξιά αγκαλιά με ένα μαξιλάρι, πόδια κρύα (1)&#13;
+Το πρωί είναι χάλια στο ψυχολογικό όταν νυχτώνει καλυτερεύει&#13;
+</sleeping_habits>
+        <food_modalities>Αλάτι(2)  λεμόνι(2)  κρέας (3)  λίπος(2)  ψάρια (2)  φρούτα (1)  λαχανικά (2) &#13;
+γλυκά (3) &#13;
+Σοκολάτα(2)  καφές (2)  νερό (1) &#13;
+&#13;
+</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+Έχει μεγάλη θλίψη (4) ,θέλει να πεθάνει (3)  δεν μπορεί να νοιώσει χαρά ακόμα και αν υπάρχει λόγος Έχει σκεφτεί πολλές φορές να πέσει από το μπαλκόνι να αυτοκτονήση (3) αλλά δεν ξέρει γιατί δεν το κάνει&#13;
+Δίνει αγάπη ελπίζοντας ανταπόκριση αν δεν του την δώσουν πληγώνεται και κλείνεται ποιο πολύ&#13;
+Θέλει στοργή και αγάπη .δεν θέλει παρηγοριά (3) γιατί μεγαλώνει το πρόβλημά του&#13;
+Άγχος (3) για τους δικούς του συμπάσχειν (3)  για όλους&#13;
+Κλειστός (3) δεν λέει τα προβλήματά του&#13;
+Χαμηλή αυτοπεποίθηση(3)&#13;
+Εργασιομανής(3)  του αρέσει το σκοτάδι (3) &#13;
+Το sex του  ήταν πολύ σημαντικό αλλά από τότε  ορκίστηκε στον θεό να μην ξανακάνει &#13;
+Δεν νευριάζει αλλά όταν νευριάσει κάνει εκρήξεις με φωνές(1)&#13;
+Δεν ζηλεύει ,δεν έχει καχυποψία&#13;
+Όλα τα μέσα μεταφοράς (3)( αεροπλάνα, αυτοκίνητο, πλοίο). &#13;
+Φίδια(3), ερπετά (3)  αρρώστιες (3)&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+Το ιστορικό του είναι ελεύθερο από παθολογίες σε σωματικό επίπεδο αλλά έχει αρρωστήση σε βαθύτερο επίπεδο στο ψυχικό</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+Δεν έχει κληρονομική επιβάρυνση</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+Η πρόγνωσης του δεν είναι καλή γιατί υπάρχει εμπόδιο στο συναισθηματικό επίπεδο στην ομοιοπαθητική  θεραπεία λόγω της χρόνιας  ασθένειας του γιού του</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+&#13;
+Να πέσει από το μπαλκόνι να αυτοκτονήση (3) &#13;
+-</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+θλίψη (4) &#13;
+να πέσει από το μπαλκόνι να αυτοκτονήση (3) &#13;
+Κλειστός (3) &#13;
+Εργασιομανής(3)&#13;
+Eντιμότητα(3)  καθήκον(3)&#13;
+Του αρέσει το σκοτάδι (3)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+Καμία αμφιβολία για το φάρμακο έχει όλα τα χαρακτηριστικά του Aurum  δηλ κατάθλιψη ,τάση αυτοκτονίας από ψηλά ,εργασιομανία,μεγάλη επιθυμία για σεξ και παρόλα αυτά ορκίστηκε στον θεό να μην το ξανακάνει αρκεί να γίνει καλά το παιδί του,εντιμότητα κλπ</remedies_differentiation>
+      <prescription>
+        <remedy>AURUM</remedy>
+        <potency>200 ch και 1Μ</potency>
+        <regimen>Πρωί βράδι</regimen>
+        <other_notes>Please enter other notes&#13;
+Να κόψει τον καφέ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-03-10 14:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+Τα ίδια τα ψυχιατρικά φάρμακα</conv_med_presc>
+      <lab_tests>
+        <desc>ουδεμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+Στην πρώτη εβδομάδα αυξήθηκε η επιθυμία του για ύπνο και η θλίψη του &lt;&#13;
+ Μετά Η θλίψη καλύτερα (1) ,η ενέργειά του καλύτερα (2) Απέχτησε χόμπι να κατασκευάζει κηραλοιφές, να φυτεύει κήπο, να παρακολουθεί μαθήματα Reiki&#13;
+Λοιπά αμετάβλητα&#13;
+Τον καφέ δεν τον έκοψε&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+Είχε την αρχική επιδείνωση  και σταδιακή βελτίωση άρα το φάρμακο ήταν το σωστό&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Το φάρμακο ήταν το σωστό λόγω της αρχικής επιδείνωσης</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα</remedy>
+        <potency>-</potency>
+        <regimen>Please enter regimen&#13;
+-</regimen>
+        <other_notes>Please enter other followup notes&#13;
+Περιμένωμε .Το ομοιοπαθητικό θα συνεχίσει να δουλεύει.&#13;
+</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-09-19 14:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+Ποιό πολλά ψυχοφάρμακα</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultatio&#13;
+-</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+-</analysis>
+      <conclusion>Please enter followup conclusion\&#13;
+6 μήνες μετά τον κάλεσα για επανεξέταση ,ήρθε η κόρη του και μου είπε ότι  η υγεία του γιού του επιδεινώθηκε και αυτός δεν το άντεξε κλείστηκε ποιό πολύ ,πήρε μόνος του ποιό μεγάλες δώσεις υπνωτικών  φαρμάκων για να κοιμάται και να μην σκέφτεται.Αρα η αρχική πρόβλεψη σχετικά με τα εμπόδια στο συναισθηματικό επίπεδο βγήκε αληθινή.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>Please enter regimen&#13;
+-</regimen>
+        <other_notes>Please enter other followup notes&#13;
+Πρέπει να αξιολογούμε τα εμπόδια στην ομοιοπαθητική θεραπεία  .όπως μας δίδαξε ο δάσκαλος</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

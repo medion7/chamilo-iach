@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELe403ebae824396963da6584f9410da74</ID>
+  <patient>
+    <case_date>2015-01-15 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΣΒ</patient_initials>
+    <age>65</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ ΚΑΙ ΕΧΕΙ  1  ΕΝΑ ΑΓΟΡΙ   ΠΟΥ  ΒΡΙΣΚΕΤΑΙ ΣΤΗΝ ΕΦΗΒΕΙΑ&#13;
+ΟΙΚΙΑΚΑ&#13;
+170 cm &#13;
+85 kgr&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ΕΡΧΕΤΑΙ ΓΙΑ ΤΗΝ ΚΕΦΑΛΑΓΙΑ ΤΗΣ    Η ΟΠΟΙΑ ΠΑΡΟΥΣΙΑΣΤΗΚΕ  ΠΡΙΝ 1 ΧΡΟΝΟ </origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ ΞΕΚΙΝΗΣΕ ΑΠΟ ΤΟΝ   ΘΑΝΑΤΟ ΤΟΥ ΠΑΤΕΡΑ ΤΗΣ  ΠΡΙΝ ΑΠΟ  1  ΧΡΟΝΟ   &#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+Η  ΚΕΦΑΛΑΛΓΙΑ  ΑΡΧΙΖΕΙ  &#13;
+1..ΟΤΑΝ  ΚΑΝΕΙ ΑΣΧΗΜΕΣ ΣΚΕΨΕΙΣ ΟΤΑΝ  ΔΗΛΑΔΗ ΣΚΕΦΤΕΤΑΙ ΟΤΙ &#13;
+ΔΕΝ ΣΤΑΘΗΚΕ ΟΣΟ  ΜΠΟΡΟΥΣΕ ΣΤΗΝ ΑΡΡΩΣΤΙΑ ΤΟΥ  ΠΑΤΕΡΑ ΤΗΣ ΚΑΙ &#13;
+2.  ΟΤΑΝ ΣΚΕΦΤΕΤΑΙ   ΔΕΝ ΕΙΝΑΙ ΚΑΛΗ ΜΑΝΑ ΓΙΑΤΙ ΤΟ ΠΑΙΔΙ ΤΗΣ ΑΦΟΥ ΑΥΤΟ  ΔΕΝ ΤΗΝ ΑΚΟΥΕΙ ΚΑΘΟΛΟΥ &#13;
+ Η ΚΕΦΑΛΑΛΓΙΑ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΜΕ ΤΟ ΣΤΡΕΣ  ΚΑΙ  ΚΑΤΑ  ΤΙΣ ΠΡΩΙΝΕΣ ΩΡΕΣ&#13;
+ ΕΝΩ  ΚΑΛΥΤΕΡΕΥΕΙ ΑΝ ΞΑΠΛΩΣΕΙ ΣΕ ΣΚΟΤΕΙΝΟ ΔΩΜΑΤΙΟ</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+Η ΚΕΦΑΛΑΛΓΙΑ  ΕΜΦΑΝΙΖΕΤΑΙ ΜΕ ΤΟ ΣΤΡΕΣΣ  ΚΑΙ  ΣΥΝΗΘΩΣ&#13;
+ΑΡΧΙΖΕΙ  ΠΕΡΙΠΟΥ ΑΠΟ ΤΙΣ   10.00 ΤΟ ΠΡΩΙ ΚΑΙ ΟΣΟ ΠΡΟΧΩΡΑΕΙ Η ΗΜΕΡΑ ΧΕΙΡΟΤΕΡΕΥΕΙ  ΕΝΩ ΤΟ ΑΠΟΓΕΥΜΑ ΑΡΧΙΖΕΙ ΝΑ ΗΡΕΜΕΙ &#13;
+</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΚΥΡΙΩΣ ΔΕΞΙΑ &#13;
+</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+Η ΚΕΦΑΛΑΓΙΑ  ΕΜΦΑΝΙΖΕΤΑΙ ΚΑΘΕ ΦΟΡΑ ΠΟΥ ΑΓΧΩΝΕΤΑΙ ΚΑΙ ΣΤΕΝΑΧΩΡΙΕΤΑΙ &#13;
+</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΤΗΝ  ΚΕΦΑΛΑΛΓΙΑ ΤΗΝ ΑΙΣΘΑΝΕΤΑΙ  ΣΑΝ ΣΦΥΡΙ ΠΟΥ ΒΑΡΑΕΙ ΜΕΣΑ ΣΤΟΝ ΕΓΚΕΦΑΛΟ ΤΗΣ &#13;
+</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other part &#13;
+Η ΚΕΦΑΛΑΛΓΙΑ ΓΡΗΓΟΡΑ  ΕΞΕΛΙΣΕΤΑΙ ΣΕ ΔΕΞΙΑ ΗΜΙΚΡΑΝΙΑ ΑΝ ΔΕΝ ΠΡΟΛΑΒΕΙ ΝΑ ΠΑΡΕΙ ΤΟ ΦΑΡΜΑΚΟ ΤΗΣ </complaint_ext>
+        <other_complaints>ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ &#13;
+ΑΝΑΙΜΙΑ &#13;
+ΑΛΛΕΡΓΙΚΗ ΕΠΙΠΕΦΥΚΙΤΙΔΑ ΠΟΥ ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΟΝ ΑΕΡΑ &#13;
+ΑΙΣΘΑΝΕΤΑΙ  ΕΞΑΝΤΛΗΜΕΝΗ  ΚΑΙ ΚΟΥΡΑΖΕΤΑΙ  ΕΥΚΟΛΑ ΜΕ ΤΙΣ ΔΟΥΛΕΙΕΣ ΤΟΥ ΣΠΙΤΙΟΥ </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΑΝΑΙΜΙΑ ΥΠΟ LEGOFER &#13;
+ΚΑΤΑΘΛΙΨΗ ΥΠΟ SEROPRAM 20 mgr&#13;
+ΚΕΦΑΛΑΛΓΙΑ ΥΠΟ IMIGRAN &#13;
+ΑΥΠΝΙΑ ΥΠΟ LEXOTANIL 1,5 mgr&#13;
+&#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>H%b =10.7 Ht =33.4 CMV=72( 76-96) MHC=37,1(27-33) MCHC=32(30-36) PLQ=235.000 &#13;
+ GB=9050 Nευτροφιλα=76% Λεμφοκύτταρα=17% Μονο =5% Εοσιν=2% &#13;
+σακχ=92 (120) ουρια=12(10-50)  κρεατ=0,5 (0,6- 1,1)  ουρικό οξύ =4,3 ( 6,5-7)   SGOT= 14( 10-30)  SGPT=(8-20)  χοληστερ=210( &lt;200 )  HDL = 55(&gt;40) LDL = 112( &lt;130) τριγλυ= 130(&lt;150)&#13;
+ουρα = Proteines = αρν   Hb =αρν   glu= αρν &#13;
+ CT Εγκεφάλου = χωρίς παθολογικά ευρήματα &#13;
+ΗΚΓ ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΕΧΕΙ ΠΑΡΕΙ ΟΜΟΙΟΠΑΘΗΤΙΚΑ ΦΑΡΜΑΚΑ&#13;
+ΑΡΧΙΣΕ  ΨΥΧΟΠΕΡΑΠΕΙΑ ΓΙΑ ΝΑ ΞΕΠΕΡΑΣΕΙ ΤΗΝ ΚΑΤΑΘΛΙΨΗ ΤΗΣ Η ΟΠΟΙΑ ΠΑΡΟΥΣΙΑΣΤΗΚΕ ΜΑΖΙ ΜΕ ΤΗΝ ΚΕΦΑΛΑΛΓΙΑ ΠΡΙΝ ΕΝΑ ΧΡΟΝΟ  </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΕΧΕΙ ΚΑΝΕΙ ΟΛΟΥΣ ΤΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ ΤΗΣ &#13;
+ΠΑΙΡΝΕΙ ΣΑΝ ΘΕΡΑΠΕΙΑ ΤΟ SEROPRAM ,20 mgr μια φόρα την ημέρα&#13;
+ LEGOFFER,δύο φόρες την ημέρα&#13;
+ ΙMIGRAN όταν αρχίζει η κεφαλαλγία περίπου 1 κάθε 3 ημέρες &#13;
+ LEXOTANIL 1.5   mgr κάθε ημέρα </therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental &#13;
+ΤΑ ΣΥΝΑΙΣΘΗΜΑΤΙΚΑ ΣΤΡΕΣ ΕΙΝΑΙ &#13;
+1.Ο ΘΑΝΑΤΟΣ ΤΟΥ ΠΑΤΕΡΑ ΤΗΣ , &#13;
+2.Η ΣΥΜΠΕΡΙΦΟΡΑ ΤΟΥ ΓΙΟΥ ΤΗΣ ΠΟΥ ΟΝΤΑΣ ΣΤΗΝ&#13;
+ΕΦΗΒΕΙΑ ΔΕΝ ΤΗΝ ΑΚΟΥΕΙ  ΚΑΘΟΛΟΥ&#13;
+3. Η ΑΔΙΑΦΟΡΙΑ ΤΟΥ ΑΝΔΡΑ ΤΗΣ ΠΟΥ ΔΕΝ ΕΝΔΙΑΦΕΡΕΤΑΙ  ΓΙΑ ΤΗΝ  ΑΝΑΤΡΟΦΗ ΤΟΥ ΓΙΟΥ ΤΗΣ </traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΕΚΑΝΕ ΕΝΑ ΥΨΗΛΟ ΠΥΡΕΤΟ  ΕΩΣ 39 ΠΡΟ   2 ΕΤΗ  &#13;
+ΤΩΡΑ ΚΑΝΕΙ ΛΟΙΜΩΞΕΙΣ ΤΟΥ  ΑΝΩΤΕΡΟΥ ΑΝΑΠΝΕΥΣΤΙΚΟΥ  4-5* ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ&#13;
+ ΜΕ  ΘΕΡΜΟΚΡΑΣΙΕΣ ΓΥΡΩ ΣΤΟ 38,5 ΣΥΝΟΔΕΥΟΜΕΝΕΣ  ΜΕ ΕΠΙΧΕΙΛΙΟ ΕΡΠΗΤΑ&#13;
+</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΠΑΤΕΡΑΣ ΜΕ ΠΡΟΒΛΗΜΑΤΑ ΚΑΡΔΙΑΚΗΣ ΑΝΕΠΑΡΚΕΙΑΣ ΟΠΟΥ ΚΑΙ ΑΠΕΒΑΙΩΣΕ ΑΠΟ ΑΥΤΑ &#13;
+ΜΗΤΕΡΑ ΜΕ ΥΠΕΡΤΑΣΗ /ΚΑΤΑΘΛΙΨΗ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΑΙΝΕΤΑΙ   ΚΑΙ ΧΕΙΡΟΤΕΡΕΥΕΙ ΑΠΟ ΤΗΝ ΖΕΣΤΗ&#13;
+</reactions>
+        <sleeping_habits>ΞΑΠΛΩΝΕΙ ΔΕΞΙΑ &#13;
+ΤΟ ΒΡΑΔΥ ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΚΟΙΜΗΘΕΙ ΚΑΘΟΛΟΥ ΓΙΑΤΙ ΤΗΝ ΒΑΣΑΝΙΖΟΥΝ ΟΙ ΣΚΕΨΕΙΣ   ΓΙΑ ΤΑ ΛΑΘΗ ΠΟΥ ΕΧΕΙ ΚΑΝΕΙ ΣΤΗ ΖΩΗ ΤΗΣ 3&#13;
+ Η ΑΥΠΝΙΑ ΕΙΝΑΙ ΣΧΕΔΟΝ ΜΟΝΙΜΗ .ΚΑΙ  ΑΝ ΔΕΝ ΠΑΡΕΙ ΤΟ LEXOTANIL ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΚΟΙΜΗΘΕΙ </sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΙΑ ΑΛΑΤΙ 3  ΛΕΜΟΝΙ 1  ΓΑΛΑ 1 &#13;
+ΑΠΕΧΘΕΙΑ  ΛΙΠΟΣ 3 ΚΟΤΟΠΟΥΛΟ 2 &#13;
+ΔΙΨΑΕΙ ΓΙΑ ΚΡΥΑ ΠΟΤΑ  2 </food_modalities>
+        <menstruation>ΒΡΙΣΚΕΤΑΙ ΣΕ ΕΜΜΗΝΟΠΑΥΣΗ &#13;
+  </menstruation>
+      </physical>
+      <mental_emotional>1. ΘΕΛΕΙ ΝΑ ΚΛΑΨΕΙ ΑΛΛΑ ΔΕΝ ΜΠΟΡΕΙ ΠΑΡΟΥΣΙΑ ΑΛΛΩΝ  3 &#13;
+ΠΡΟΤΙΜΑ ΤΗΝ ΜΟΝΑΞΙΑ ΚΑΙ ΟΤΑΝ ΕΙΝΑΙ ΜΟΝΗ ΤΗΣ ΜΠΟΡΕΙ ΝΑ ΚΛΑΨΕΙ ΜΕ ΛΙΓΜΟΥΣ   3  &#13;
+ΔΕΝ ΚΛΑΕΙ ΜΠΡΟΣΤΑ ΣΤΟΥΣ ΑΛΛΟΥΣ ΑΠΟ ΤΟΝ ΦΟΒΟ ΜΗΝ ΓΕΛΕΙΟΠΟΙΗΘΕΙ &#13;
+2.ΕΙΝΑΙ ΕΣΩΣΤΡΕΦΗΣ /ΕΠΙΦΥΛΑΚΤΙΚΗ  ΜΕ ΤΟΥΣ ΑΛΛΟΥΣ ΚΑΙ  ΤΑ ΠΡΟΒΛΗΜΑΤΑ ΤΑ ΚΡΑΤΑΕΙ ΜΕΣΑ ΤΗΣ 3&#13;
+3. ΔΕΝ ΘΕΛΕΙ ΤΗΝ ΠΑΡΗΓΟΡΙΑ ΚΑΙ ΟΤΑΝ  ΚΑΝΕΝΑΣ ΠΑΕΙ ΝΑ  ΤΗΝ ΠΑΡΗΓΟΡΗΣΕΙ  ΑΛΛΑΖΕΙ  ΑΜΕΣΩΣ ΣΥΖΗΤΗΣΗ &#13;
+4. ΕΙΝΑΙ ΤΑΚΤΙΚΗ ΑΛΛΑ ΟΧΙ ΥΣΤΕΡΙΚΗ ΜΕ ΤΗΝ ΤΑΞΗ&#13;
+5. ΕΧΕΙ ΦΟΒΟΥΣ ΓΙΑ ΤΟ ΠΑΙΔΙ ΤΗΣ 3 , ΚΑΙ ΛΙΓΟΤΕΡΟ ΓΙΑ ΤΟ ΣΚΟΤΑΔΙ  1 ΚΑΙ ΤΟ  ΥΨΟΣ 1 &#13;
+6. ΟΣΟ ΑΝΑΦΟΡΑ ΤΑ ΝΕΥΡΑ ΤΗΣ ΔΕΝ ΤΑ ΕΚΦΡΑΖΕΙ ΚΑΙ ΤΑ ΚΡΑΤΑΕΙ ΜΕΣΑ ΤΗΣ . ΑΝ ΤΥΧΟΝ ΦΩΝΑΞΕΙ ΣΤΟ ΠΑΙΔΙ ΤΗΣ  ΜΕΤΑ ΕΧΕΙ ΕΝΟΧΕΣ &#13;
+7.ΗΡΕΜΕΙ  ΜΕ ΤΗΝ ΘΕΑ ΤΗΣ  ΘΑΛΑΣΣΑΣ &#13;
+8. Η ΙΔΙΑ ΘΕΩΡΕΙ ΟΤΙ ΘΑ ΕΠΡΕΠΕ ΝΑ ΕΧΕΙ ΣΠΟΥΔΑΣΕΙ ΚΑΤΙ ΚΑΙ ΑΥΤΟ ΤΗΝ ΜΕΙΩΝΕΙ ΣΤΑ ΜΑΤΙΑ ΤΑ ΔΙΚΑ ΤΗΣ/&#13;
+  ΜΑΣ ΛΕΕΙ  ΟΤΙ ΕΧΕΙ ΜΕΙΩΜΕΝΗ ΑΥΤΟΠΕΠΟΙΘΗΣΗ &#13;
+9.ΔΕΝ ΦΟΒΑΤΑΙ ΜΗΝ ΠΕΘΑΝΕΙ ΑΠΟ  ΚΑΡΚΙΝΟ &#13;
+10 ΔΕΝ ΑΝΑΣΤΕΝΑΖΕΙ ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΗΣ ΕΞΕΤΑΣΗΣ &#13;
+11 ΑΙΣΘΑΝΕΤΑΙ ΕΞΑΝΤΗΜΕΝΗ  &#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+1.  ΕΠΙΘΥΜΙΑ  ΜΕΙΩΜΕΝΗ ΓΙΑ ΤΟ ΣΕΞ&#13;
+2. ΓΑΣΤΡΙΤΙΔΑ ΠΟΥ ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΟ ΣΤΡΕΣ &#13;
+3 .ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΜΕ ΚΡΑΜΠΕΣ ΤΟ ΠΡΩΙ &#13;
+4  ΔΑΓΚΩΝΕΙ ΤΑ ΝΥΧΙΑ ΤΗΣ &#13;
+5. ΑΛΛΕΡΓΙΚΟ ΑΤΟΜΟ  ΜΕ ΔΑΚΡΥΡΡΟΙΑ &#13;
+&#13;
+&#13;
+</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΕΧΕΙ ΜΙΑ ΠΡΟΔΙΑΘΕΣΗ ΑΠΟ ΤΗΝ ΜΗΤΕΡΑ ΤΗΣ ΓΙΑ ΣΑΚΧΑΡΩΔΗ ΔΙΑΒΗΤΗ </family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+ΤΟ ΓΕΓΟΝΟΣ ΟΤΙ ΚΑΝΕΙ 4-5 ΦΟΡΕΣ ΛΟΙΜΩΞΕΙΣ ΤΟ ΧΡΟΝΟ ΜΕ 38.5 ΠΥΡΕΤΟ&#13;
+ ΚΑΙ ΠΑΡΑΛΛΗΛΑ ΤΟ ΓΕΓΟΝΟΣ  ΟΤΙ ΔΕΝ ΠΑΣΧΕΙ ΑΠΟ ΚΑΜΜΙΑ ΣΟΒΑΡΗ ΑΣΘΕΝΕΙΑ ΤΗΝ ΚΑΤΑΤΑΣΣΕΙ ΣΤΟ ΔΕΥΤΕΡΟ GROUP - 5 ΕΠΙΠΕΔΟ &#13;
+ΥΠΑΡΧΕΙ ΜΙΑ ΣΥΝΑΙΣΘΗΜΑΤΙΚΗ ΑΙΤΙΑ ΤΩΝ ΠΡΟΒΛΗΜΑΤΩΝ ΤΗΣ ΠΟΥ ΕΙΝΑΙ Ο ΘΑΝΑΤΟΣ ΤΟΥ ΠΑΤΕΡΑΣ ΤΗΣ &#13;
+ΓΕΝΙΚΑ ΕΙΝΑΙ ΑΤΟΜΟ ΕΣΩΣΤΡΕΦΕΣ ΠΟΥ  ΔΕΝ ΘΕΛΕΙ ΤΗΝ ΠΑΡΗΓΟΡΙΑ ΚΑΙ ΤΑ ΠΡΟΒΛΗΜΑΤΑ ΤΗΣ ΤΑ ΚΡΑΤΑΕΙ ΓΙΑ ΤΟΝ ΕΑΥΤΟ ΤΗΣ&#13;
+Η ΨΥΧΟΘΕΡΑΠΕΙΑ  ΠΟΥ ΕΚΑΝΕ ΔΕΝ ΤΗΝ ΕΧΕΙ ΒΟΗΘΗΣΕΙ ΠΟΛΥ &#13;
+ΠΡΟΤΙΜΑ ΤΗΝ ΜΟΝΑΞΙΑ ΚΑΙ ΝΑ ΚΛΑΕΙ ΜΟΝΗ ΤΗΣ &#13;
+ΕΙΝΑΙ ΕΥΑΙΣΘΗΤΗ  ΚΑΙ ΟΤΑΝ ΦΩΝΑΖΕΙ ΣΤΟ ΠΑΙΔΙ ΤΗΣ ΑΜΕΣΩΣ ΤΟ ΜΕΤΑΝΙΩΝΕΙ &#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+headache morning comes and goes wte the sun 2&#13;
+hedache forenoon from 10.00 until 1500  2&#13;
+mind weeping tearful mood cannot weep , though sad 2 &#13;
+headache hammering morning 3&#13;
+generalities-pulse-frequent accelerated  fast daytime 2 </peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+mind reserved 3 &#13;
+mind consolation agg 3 &#13;
+generalities warm agg 3&#13;
+generalities food and drinks  salt desire 3 &#13;
+generalities food and drinks  fat aversion  3 &#13;
+mind fastidious 2 &#13;
+genitalia female sexual desire diminished 3&#13;
+mind   confidence want of self -confindence low  2&#13;
+sleep sleeplessness thoughts activity of mind from  3&#13;
+mind fear hight places of 1 &#13;
+mind fear dark 1 &#13;
+mind affectionate 2&#13;
+stomach  inflammation 2  &#13;
+abdomen pain cramping griping -morning  2&#13;
+mind biting nails 2 &#13;
+nose coryza-annuel 2 &#13;
+mind -grief -ailments from 3&#13;
+generalities weekness 2 &#13;
+generalities anemia 1&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>natrum muriaticum&#13;
+carcinosinum&#13;
+pulsatila&#13;
+ignatia amara &#13;
+sepia&#13;
+nux-vom &#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>1.  ΤΟ ΝΑΤ-ΜUR ΚΑΙ Η PULS EINAI KAI TA ΔΥΟ ΖΕΣΤΑ ΦΑΡΜΑΚΑKAI TA ΔΥΟ ΥΠΟΦΕΡΟΥΝ ΑΠΟ ΤΗΝ ΖΕΣΤΗ ΚΑΙ ΤΟΝ ΗΛΙΟ EΙΝΑΙ ΚΛΕΙΣΤΑ ΑΤΟΜΑ ΚΑΙ  ΔΕΝ ΘΕΛΟΥΝ ΤΑ ΛΙΠΑΡΑ &#13;
+ ΑΛΛΑ Η PULS ΕΙΝΑΙ ΠΕΡΙΣΣΟΤΕΡΟ ΕΚΔΗΛΩΤΙΚΗ ,ΦΩΝΑΖΕΙ ΚΑΙ ΚΛΑΕΙ ΠΙΟ ΕΥΚΟΛΑ  ΧΩΡΙΣ ΝΤΡΟΠΗ ΕΧΕΙ ΜΕΙΩΜΕΝΗ ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ &#13;
+ΤΟ NAT-MUR OTAN ΚΛΑΕΙ ΠΡΟΤΙΜΑ ΝΑ ΕΙΝΑΙ ΜΟΝΟ ΤΟΥ ΚΑΙ ΤΟ ΚΛΑΜΑ ΤΟΥ ΕΙΝΑΙ ΣΠΑΣΜΟΔΙΚΟ &#13;
+2. ΤΟ Carc ΜΠΟΡΕΙ ΝΑ   ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΗΝ ΠΑΡΗΓΟΡΙΑ  ΝΑ  ΕΙΝΑΙ ΤΑΚΤΙΚΟ  ΟΠΩΣ ΤΟ ΝΑΤ-MUR &#13;
+ ΑΛΛΑ  TO   CARC ΕΧΕΙ ΑΥΞΗΜΕΝΗ ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ  /ΙΣΤΟΡΙΚΟ ΚΑΡΚΙΝΟΥ ΣΤΗΝ ΟΙΚΟΓΕΝΕΙΑ  ΚΑΙ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΤΟΥ ΑΣΘΕΝΟΥΣ ΓΕΝΙΚΑ ΧΕΙΡΟΤΕΡΕΥΟΥΝ ΤΟ ΑΠΟΓΕΥΜΑ ΑΠΟ ΤΙΣ 13.00 ΜΕΧΡΙ ΤΗΣ 18.00  &#13;
+3. ΟΣΟ ΑΦΟΡΑ ΤΗΝ IGNATIA ΕΙΝΑΙ ΚΛΕΙΣΤΟ ΑΤΟΜΟ ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕΤΗΝ ΠΑΡΗΓΟΡΙΑ  ΕΧΕΙ ΕΛΑΤΤΩΜΕΝΗ ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ  ΧΕΙΡΟΤΕΡΕΥΕΙ ΑΠΟ ΤΗΝ ΖΕΣΤΗ &#13;
+ΑΛΛΑ ΔΕΝ ΕΙΝΑΙ ΤΑΚΤΙΚΗ ,ΑΝΑΣΤΕΝΑΖΕΙ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΔΕΝ ΧΕΙΡΟΤΕΡΕΥΟΥΝ ΜΕ ΤΟΝ ΗΛΙΟ ΚΑΙ ΕΙΝΑΙ ΠΕΡΙΣΣΟΤΕΡΟ ΥΣΤΕΡΙΚO  ΑΤΟΜΟ &#13;
+4 Η  sepia ΕΧΕΙ ΜΕΙΩΜΕΝΗ ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ / ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΗΝ ΠΑΡΗΓΟΡΙΑ /ΝΙΩΘΕΙ ΑΣΧΗΜΑ ΟΤΑΝ ΚΛΑΕΙ / ΕΧΕΙ ΑΥΠΝΙΑ /ΕΠΙΘΥΜΕΙ ΤΟ  ΚΡΥΟ ΝΕΡΟ ΚΑΙ ΑΠΕΧΘΑΝΕΤΑΙ ΤΟ ΛΙΠΟΣ &#13;
+ΑΛΛΑ  ΔΕΝ ΕΙΝΑΙ ΤΑΚΤΙΚΗ /ΔΕΝ ΕΧΕΙ ΧΑΜΗΛΗ ΑΥΤΟΠΕΠΟΙΘΗΣΗ /ΔΕΝ ΔΑΓΚΩΝΕΙ  ΤΑ ΝΥΧΙΑ ΤΗΣ ΔΕΝ ΦΟΒΑΤΑΙ ΤΟ ΣΚΟΤΑΔΙ ΚΑΙ ΤΟ ΥΨΟΣ / ΟΥΤΕ  ΕΧΕΙ ΠΟΝΟΚΕΦΑΛΟ ΠΟΥ ΕΞΑΡΤΑΤΑΙ ΑΠΟ ΤΟΝ ΗΛΙΟ &#13;
+5 Η NUX -VOM ΔΕΝ ΘΕΛΕΙ ΤΗΝ ΠΑΡΗΓΟΡΙΑ /ΕΙΝΑΙ ΤΑΚΤΙΚΗ/ΕΧΕΙ ΑΥΠΝΙΑ ΑΠΟ ΣΚΕΨΕΙΣ ΑΛΛΑ ΕΙΝΑΙ ΚΡΥΟΥΛΙΑΡΑ ΚΑΙ ΧΕΙΡΟΤΕΡΕΥΕΙ  ΑΠΟ ΤΟ ΚΡΥΟ ΕΙΝΑΙ ΑΝΤΑΓΩΝΙΣΤΙΚΗ ΝΕΥΡΙΑΖΕΙ ΠΟΛΥΠΙΟ ΕΥΚΟΛΑ ΚΑΙ ΕΚΔΗΛΩΝΕΙ ΤΑ ΝΕΥΡΑ ΤΗΣ</remedies_differentiation>
+      <prescription>
+        <remedy>NAT-MUR</remedy>
+        <potency>200ch    -1 M</potency>
+        <regimen>200 ch  THN MIA ΜΕΡΑ  ΤΟ ΠΡΩΙ &#13;
+1 Μ ΤΗΝ ΙΔΙΑ ΗΜΕΡΑ ΤΟ  ΜΕΣΗΜΕΡΙ  </regimen>
+        <other_notes>ΤΟΥ ΛΕΜΕ &#13;
+1.ΝΑ ΜΗΝ ΠΙΝΕΙ  ΚΑΦΕ  ΑΛΛΑ ΟΥΤΕ ΚΑΙ ΝΑ ΚΑΝΕΙ ΚΑΤΑΧΡΗΣΕΙΣ ΣΕ ΤΡΟΦΕΣ ΠΟΥ ΠΕΡΙΕΧΟΥΝ ΚΑΦΕΙΝΗ ΟΠΩΣ ΚΟΚΟ-ΚΟΛΑ &#13;
+ 2.ΝΑ ΜΗΝ ΧΡΗΣΙΜΟΠΟΙΕΙ ΟΔΟΝΤΟΚΡΕΜΑ ΜΕ ΜΕΝΤΑ   ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΗΣ ΘΕΡΑΠΕΙΑΣ  &#13;
+ 3. ΕΑΝ ΚΑΠΝΙΖΕΙ ΠΡΕΠΕΙ ΝΑ ΠΕΡΟΡΙΣΕΙ ΤΟ ΚΑΠΝΙΣΜΑ ΓΙΑΤΙ Ο ΚΑΠΝΟΣ ΕΜΠΟΔΙΖΕΙ ΤΗΝ ΔΡΑΣΗ ΤΟΥ ΟΜΟΙΟΠΑΘΗΤΙΟΥ ΦΑΡΜΑΚΟΥ&#13;
+4. ΤΗΣ  ΛΕΜΕ  ΝΑ ΞΑΝΑΕΡΘΕΙ ΣΕ ΕΝΑ ΜΗΝΑ </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-15 07:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+SEROPRAM 20 mgr ΚΑΘΕ ΗΜΕΡΑ &#13;
+LEXOTANIL 1.5 ΚΑΘΕ 2 ΗΜΕΡΕΣ &#13;
+LEGOFER  2 ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ &#13;
+IMIGRAN ΚΑΤΑ ΕΠΙΚΛΗΣΗ ΚΑΙ ΟΤΑΝ ΔΕΝ ΑΝΤΕΧΕΙ ΤΟΝ ΠΟΝΟ</conv_med_presc>
+      <lab_tests>
+        <desc>Hb=11.5 Ht= 35 MCV=74(76-96) MCH =37(27-33) MCHC=34(30-36) MBW=15(11-16)  PLQ=245.000 &#13;
+ GB=9000 Nευτροφιλα=80% Λεμφοκύτταρα=10% Μονο =5%  Εοσιν=2% &#13;
+σακχ=85  ουρια=12 κρεατ=0,4     SGOT= 14 SGPT=15  </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΜΑΣ ΑΝΑΦΕΡΕΙ ΟΤΙ ΕΚΑΝΕ ΜΙΑ ΕΠΙΔΕΙΝΩΣΗ ΣΤΗΝ ΚΕΦΑΛΑΛΓΙΑ ΤΗΣ ΤΗΝ ΠΡΩΤΗ ΗΜΕΡΑ ΠΟΥ ΠΗΡΕ ΤΟ ΦΑΡΜΑΚΟ &#13;
+ΚΑΙ ΟΤΑΝ ΗΡΘΕ ΜΕΤΑ ΑΠΟ ΕΝΑ ΜΗΝΑ &#13;
+1. ΑΙΣΘΑΝΟΤΑΝ  ΟΤΙ ΕΙΧΕ ΠΕΡΙΣΣΟΤΕΡΕΣ ΔΥΝΑΜΕΙΣ &#13;
+2   Η ΚΕΦΑΛΑΛΓΙΑ ΤΗΣ  ΚΑΘΩΣ   ΕΙΧΕ ΜΕΙΩΘΕΙ  ΚΑΤΑ 40%&#13;
+3. Η  ΑΥΠΝΙΑ ΤΗΣ  ΕΧΕΙ  ΒΕΛΤΙΩΘΕΙ   ΑΦΟΥ ΕΠΑΙΡΝΕ  ΤΟ LEXOTANIL 1.5 mgr  ΚΑΘΕ 2 ΗΜΕΡΕΣ&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΤΟ ΓΕΓΟΝΟΣ ΟΤΙ ΕΚΑΝΕ ΑΡΧΙΚΗ ΑΝΤΙΔΡΑΣΗ ΤΗΝ ΣΤΙΓΜΗ ΠΟΥ ΒΡΙΣΚΟΜΑΣΤΕ ΣΤΟ  ΕΠΙΠΕΔΟ 5 &#13;
+ΣΗΜΑΙΝΕΙ ΟΤΙ ΤΟ ΦΑΡΜΑΚΟ ΠΟΥ ΔΩΣΑΜΕ ΕΙΝΑΙ ΣΩΣΤΟ &#13;
+ΕΞΑΛΛΟΥ ΕΧΟΥΜΕ&#13;
+1. ΜΙΑ ΑΥΞΗΣΗ ΤΗΣ ΖΩΤΙΚΗΣ ΕΝΕΡΓΕΙΑΣ &#13;
+2.  ΜΕΙΩΣΗ ΤΟΥ ΚΥΡΙΟΥ ΣΥΜΠΤΩΜΑΤΟΣ ΓΙΑ ΤΟ ΟΠΟΙΟ ΕΙΧΕ ΕΡΘΕΙ ΔΗΛ ΤΗΣ ΚΕΦΑΛΑΛΓΙΑΣ &#13;
+3, ΑΛΛΑ ΚΑΙ ΨΥΧΙΚΑ ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ  ΑΦΟΥ  ΕΙΝΑΙ ΠΙΟ ΗΡΕΜΗ ΤΩΡΑ ΚΑΙ  ΠΑΙΡΝΕΙ  ΤΟ LEXOTANIL ΚΑΘΕ ΔΥΟ ΗΜΕΡΕΣ  &#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΑΡΑ  ΤΟ NAT-MUR   ΗΤΑΝ  ΤΟ ΣΩΣΤΟ  ΦΑΡΜΑΚΟ ΑΦΟΥ ΜΑΣ ΒΟΗΘΗΣΕ ΚΑΙ &#13;
+ΕΝΕΡΓΕΙΑΚΑ ΚΑΙ ΨΥΧΟΣΩΜΑΤΙΚΑ &#13;
+ ΚΑΙ ΕΙΝΑΙ ΤΟ ΙΔΙΟ ΦΑΡΜΑΚΟ ΠΟΥ ΘΑ ΣΚΕΦΤΟΥΜΕ ΣΕ ΤΥΧΟΝ ΥΠΟΤΡΟΠΗ ΤΩΝ ΣΥΜΠΤΩΜΑΤΩΝ &#13;
+</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>ΤΗΝ ΣΥΜΒΟΥΛΕΥΟΥΜΕ&#13;
+ ΝΑ ΣΥΝΕΧΙΣΕΙ ΝΑ ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ  ΟΥΤΕ ΝΑ ΧΡΗΣΙΜΟΠΟΙΕΙ ΟΔΟΝΤΟΚΡΕΜΑ ΜΕ ΜΕΝΤΑ &#13;
+</regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΔΕΝ ΤΗΣ  ΔΙΝΟΥΜΕ ΑΛΛΟ ΦΑΡΜΑΚΟ ΑΛΛΑ ΠΕΡΙΜΕΝΟΥΜΕ ΝΑ ΔΟΥΜΕ ΠΩΣ ΘΑ ΣΥΝΕΧΙΖΕΙ ΝΑ ΑΝΤΙΔΡΑ Ο ΟΡΓΑΝΙΣΜΟΣ  ΤΗΣ &#13;
+ΤΗΣ  ΛΕΜΕ ΝΑ ΞΑΝΑΕΡΘΕΙ ΣΤΟ   ΜΗΝΑ  </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-03-15 07:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescription7&#13;
+ΣΤΑΜΑΤΗΣΕ ΤΟ LEGOFER ΓΙΑΤΙ Η ΑΝΑΙΜΙΑ ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ ΣΗΜΑΝΤΙΚΑ &#13;
+LEXOTANIL 1/2  ΤΟΥ 1.5 mgr  ΜΕΡΑ ΠΑΡΑ ΜΕΡΑ &#13;
+SEROPRAM 1/2 ΓΙΑ 7 ΗΜΕΡΕΣ ΜΕΧΡΙ ΣΤΑΔΙΑΚΗ ΜΕΙΩΣΗ </conv_med_presc>
+      <lab_tests>
+        <desc>Hb=13  Ht= 40  MCV=90(76-96) MCH =37(27-33) MCHC=30(30-36)  MBW=35(11-16)    PLQ=245.000 &#13;
+ GB=9000 Nευτροφιλα=80% Λεμφοκύτταρα=10% Μονο =5%  Εοσιν=2% &#13;
+σακχ=85  ουρια=12 κρεατ=0,4     SGOT= 14 SGPT=15  </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΒΛΕΠΟΥΜΕ ΟΤΙ ΕΧΟΥΜΕ ΟΤΙ &#13;
+Η ΑΝΑΙΜΙΑ ΤΗΣ  ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ ΣΗΜΑΝΤΙΚΑ ΚΑΙ ΕΧΕΙ ΣΤΑΜΑΤΗΣΕΙ ΤΟ LEGOFER &#13;
+ΑΡΧΙΖΕΙ ΝΑ ΕΛΑΤΤΩΝΕΙ ΤΟ SEROPRAM ΚΑΙ ΤΟ LEXOTANIL  ΓΕΓΟΝΟΣ ΠΟΥ ΕΠΙΒΕΒΑΙΩΝΕΙ ΤΗΝ ΚΑΛΗ ΨΥΧΟΛΟΓΙΚΗ ΚΑΤΑΣΤΑΣΗ ΤΗΣ &#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+1. ΔΥΝΑΜΕΙΣ ΠΟΛΥ ΚΑΛΥΤΕΡΑ &#13;
+2,ΑΝΤΙΜΕΤΩΠΙΖΕΙ ΠΙΟ ΕΥΚΟΛΑ ΤΑ ΠΡΟΒΛΗΜΑ ΜΕ ΤΟ ΓΙΟ ΤΗΣ ΚΑΙ ΔΕΝ ΤΗΝ ΣΤΕΝΑΧΩΡΟΥΝ ΠΡΑΓΜΑΤΑ ΟΠΩΣ ΠΑΛΙΑ &#13;
+3.ΚΟΙΜΑΤΑΙ ΠΙΟ ΕΥΚΟΛΑ ΑΦΟΥ ΕΧΕΙ ΗΡΕΜΗΣΕΙ ΨΥΧΙΚΑ &#13;
+4. H  ΚΕΦΑΛΑΛΓΙΑ THΣ ΕΧΕΙ ΜΕΙΩΘΕΙ ΚΑΤΑ 70%&#13;
+5 ΖΕΣΤΑΙΝΕΤΑΙ ΛΙΓΟΤΕΡΟ &#13;
+6.ΔΕΝ ΦΟΒΑΤΑΙ ΠΙΑ ΤΟ ΣΚΟΤΑΔΙ ΚΑΙ ΤΟ  ΥΨΟΣ &#13;
+7. ΚΑΘΩΣ ΤΟ ΑΓΧΟΣ ΤΗΣ ΕΙΝΑΙ ΛΙΓΟΤΕΡΟ ΕΧΟΥΝ ΠΕΡΙΟΡΙΣΤΕΙ ΤΑ ΦΟΥΣΚΩΜΑΤΑ ΣΤΟ ΣΤΟΜΑΧΙ  &#13;
+8 ΚΑΛΥΤΕΡΕΥΣΗ ΤΗΣ ΑΛΛΕΡΓΙΚΗΣ ΕΠΙΠΕΦΥΚΙΤΙΔΑΣ &#13;
+9,ΔΕΝ ΦΟΒΑΤΑΙ ΤΟΣΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΟΥ ΠΑΙΔΙΟΥ ΤΗΣ  ΟΥΤΕ ΦΟΒΑΤΑΙ ΤΟ ΣΚΟΤΑΔΙ ΚΑΙ ΤΟ ΥΨΟΣ&#13;
+10. ΕΠΙΘΥΜΕΙ ΛΙΓΟΤΕΡΟ ΤΟ ΑΛΑΤΙ  ΚΑΙ ΤΑ ΚΡΥΑ ΠΟΤΑ &#13;
+11. ΒΕΛΤΙΩΣΗ  ΤΗΣ  ΑΝΑΙΜΙΑΣ  &#13;
+&#13;
+  </analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΑΡΑ ΑΦΗΝΟΥΜE ΝΑ ΔΡΑΣΕΙ ΤΟ NAT-MUR  ΠΟΥ ΕΙΧΑΜΕ ΔΩΣΕΙ ΠΡΙΝ &#13;
+ΚΑΙ ΔΕΝ ΔΙΝΟΥΜΕ ΚΑΝΕΝΑ ΑΛΛΟ ΦΑΡΜΑΚΟ &#13;
+ΕΚΤΟΣ ΚΑΙ ΑΝ ΜΑΣ ΠΙΕΣΕΙ ΟΠΟΤΕ ΘΑ ΔΩΣΟΥΜΕ PLACEBO </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΩ ΦΑΡΜΑΚΟ  </remedy>
+        <potency>----ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>ΤΗΝ ΣΥΜΒΟΥΛΕΥΟΥΜΕ ΝΑ ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ ΚΑΙ ΝΑ ΜΗΝ ΧΡΗΣΙΜΟΠΟΙΕΙ ΟΔΟΝΤΟΚΡΕΜΑ ΜΕ ΜΕΝΤΑ </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΙΣ ΛΕΜΕ ΝΑ ΞΑΝΑΕΡΘΕΙ ΣΕ ΔΥΟ ΜΗΝΕΣ ΓΙΑ ΕΠΑΝΕΞΕΤΑΣΗ </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-05-15 07:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΣΤΟP SEROPRAM&#13;
+STOP LEXOTANIL </conv_med_presc>
+      <lab_tests>
+        <desc>Hb=13 Ht= 40 MCV=74(76-96) MCH =37(27-33) MCHC=33(30-36) MBW=15(11-16)  PLQ=245.000 &#13;
+ GB=8000 Nευτροφιλα=86% Λεμφοκύτταρα=10% Μονο =2%  Εοσιν=2% &#13;
+</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΑΙΣΘΑΝΕΤΑΙ ΠΟΛΥ ΚΑΛΑ &#13;
+ΕΧΕΙ ΑΝΑΚΤΗΣΕΙ ΤΙΣ ΔΥΝΑΜΕΙΣ ΤΗΣ &#13;
+ΚΑΙ ΟΣΟ ΑΦΟΡΑ ΤΗΝ ΑΥΠΝΙΑ ΤΗΣ ΕΧΕΙ ΣΤΑΜΑΤΗΣΕΙ ΤΑ LEXOTAMIL KAI TA ΑΝΤΙΚΤΑΘΛΙΠΤΙΚΑ &#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΒΕΛΤΙΩΣΗ 100 %&#13;
+1.  ΣΤΟ ΚΥΡΙΟ ΒΑΣΙΚΟ ΣΥΜΠΤΩΜΑ ΤΗΣ ΚΕΦΑΛΑΓΙΑΣ&#13;
+2.  ΚΟΙΜΑΤΑΙ ΧΩΡΙΣ ΝΑ ΧΡΕΙΑΖΕΤΑΙ ΤΟ LEXOTANIL &#13;
+3 . ΟΙ ΔΥΝΑΜΕΣ ΤΗΣ ΕΧΟΥΝ ΕΠΑΝΕΛΘΕΙ &#13;
+4  ΕΧΕΙ ΑΠΟΚΤΗΣΕΙ ΑΥΤΟΠΕΠΟΙΘΗΣΗ ΔΕΝ ΕΙΝΑΙ ΤΟΣΟ ΕΣΩΣΤΡΕΦΗΣ ΚΑΙ ΜΠΟΡΕΙ ΠΙΟ ΕΥΚΟΛΑ ΝΑ ΜΙΛΑΕΙ ΣΤΙΣ ΦΙΛΕΣ  ΤΗΣ  ΓΙΑ ΤΑ ΠΡΟΒΛΗΜΑΤΑ ΤΗΣ &#13;
+5  ΑΥΞΗΘΗΚΕ Η ΣΕΞΟΥΑΛΙΚΗ ΤΗΣ ΔΙΑΘΕΣΗ  ΚΑΘΩΣ ΚΑΙ Η ΑΥΤΟΠΕΠΟΙΘΗΣΗ ΤΗΣ &#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΤΟ ΦΑΡΜΑΚΟ ΤΗΝ ΒΟΗΘΗΣΕ ΒΑΘΙΑ ΚΑΙ ΟΥΣΙΑΣΤΙΚΑ &#13;
+ΚΑΙ ΘΑ ΕΙΝΑΙ ΤΟ ΠΡΩΤΟ ΠΟΥ ΘΑ ΣΚΕΦΤΟΥΜΕ ΝΑ ΔΩΣΟΥΜΕ  ΕΑΝ ΤΥΧΟΝ  ΕΠΑΝΕΛΘΟΥΝ ΤΑ ΙΔΙΑ ΣΥΜΠΤΩΜΑΤΑ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>----</potency>
+        <regimen>ΝΑ ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ ΚΑΙ ΝΑ ΜΗΝ ΧΡΗΣΙΜOΠΟΙΕΙ  ΟΔΟΝΤΟΚΡΕΜΑ ΜΕ ΜΕΝΤΑ </regimen>
+        <other_notes>ΝΑ ΜΑΣ ΕΠΙΣΚΕΦΤΕΙ ΣΕ ΤΥΧΟΝ ΕΠΕΙΔΙΝΩΣΗ ΤΩΝ ΣΥΜΠΤΩΜΑΤΩΝ </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

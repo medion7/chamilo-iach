@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL84a2b15c36173cffbd84c0f2563c4c79</ID>
+  <patient>
+    <case_date>2015-09-02 19:05:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Τ.</patient_initials>
+    <age>32</age>
+    <circumstances>άγαμη,σε σχέση εδώ και λίγους μήνες, αισθητικός, άνεργη</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Κατάθλιψη - πάγωμα συναισθήματος από 6μήνου</origin>
+        <causative_factors>(στο παρελθόν περίοδοι κατάθλιψης)</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>μόνιμα</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Αίσθημα βάρους στο στήθος. Υποτονικότητα - αδυναμία. Δοθιήνες στους γλουτούς. Δυσκοιλιότητα. </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Lach και Magn-p προ 3-4μήνου για δ/χές εμμήνου ρύσεως, Plat.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα παιδικά εμβόλια που προβλέπονται από το ΕΣΥ. Αντιβιώσεις. Αντισυλληπτικά (για αρκετά χρόνια). Αντιμυκητιασικά. Επέμβαση μειωτικής στήθους. Καυτηριασμός σε μυρμηγκιά.</therapies_vaccination>
+          <traumas>Στην εφηβεία ο πατέρας της μάλωσε με τον θείο της και δεν την άφηνε μετά να έχει σχέσεις με τις ξαδερφές της (το βίωσε σαν μια εκτρωτική μοναξιά). Το 2010 τροχαίο με το αυτοκίνητο,έκτοτε δεν οδηγεί (ράγισμα στην κλείδα).</traumas>
+          <infections>-</infections>
+          <other>Περίοδοι κατάθλιψης. Πολυκυστικές ωοθήκες (δ/χές εμμήνου ρύσεως). Συχνές κολπίτιδες. Μυρμηγκιές. Δοθιήνες στους γοφούς. Συχνές επιστάξεις. Την πονά η μέση από την ορθοστασία. Κάνει πυρετό πολύ σπάνια-μάλλον έχει να κάνει 7 χρόνια,μπορεί και περισσότερο.</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα = πρόβλημα με την καρδιά, αρθρίτιδα, συχνές κυστίτιδες, κατάθλιψη. Πατερας = Α.Υ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει. Κρύα άκρα. &lt; από την υγρασία.</reactions>
+        <sleeping_habits>Κοιμάται στο δε πλάι. Δεν μπορεί να κοιμηθεί αρ. Δεν μπορεί να κοιμηθεί νωρίς, στριφογυρνά για ώρες πριν κοιμηθεί, αϋπνία από σκέψεις. </sleeping_habits>
+        <food_modalities>επιθυμίες = μοσχάρι με πουρέ μελιτζάνας.</food_modalities>
+        <menstruation>Ξεκινά με σκούρο αίμα την  πρώτη μέρα και μετά έχει κόκκινο αίμα για 2-3 μέρες-κανονική ροή. Θέλει να αυνανίζεται-φέτος ξεκίνησε να το κάνει,στο παρελθόν δεν το έκανε. Είναι υπερσεξουαλική.</menstruation>
+      </physical>
+      <mental_emotional>Παγωμένο συναίσθημα (μου ανέφερε ακόμη οτι πήγε στην κηδεία ενός πολύ καλού της φίλου και όχι μόνο δεν έκλαψε,αλλά σχεδόν δεν ένιωσε τίποτα). Δεν παραπονιέται. Πολλή ζήλεια. Καχύποπτη. Έχει εμμονές. Νιώθει ότι την παραμελούν. Δεν μπορεί να κλάψει. Νεύρα. Ενώ είναι αγκαλιά με το αγόρι της θέλει να τον κλωτσήσει. Φοβάται τη μοναξιά-μη μείνει μόνη και τα φίδια.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Αρκετά επιβαρυμένο εξαιτίας των ψυχοδιανοητικών συμπτωμάτων, έχει πάρα πολλά χρόνια να κάνει πυρετό και έχει υποστεί φαρμακευτική καταστολή.</personal_medical_history>
+        <family_medical_history>Επιβαρυμένο από την πλευρά της μητέρας.</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>Είναι δύσκολη περίπτωση και θα χρειαστεί μια σειρά φαρμάκων για να βελτιωθεί.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Φοβάται τα φίδια 2. Παγωμένο συναίσθημα-δεν παραπονιέται 2. Πολλή ζήλεια 3. Δεν της βγαίνει να κλάψει 2. Θέλει να αυνανίζεται 3. Δοθιήνες στους γλουτούς 3. Δεν μπορεί να κοιμηθεί αρ 2. Επιθυμεί να κλωτσήσει 3. Εμμονές 2.</peculiar>
+        <intense>Φοβάται τη μοναξιά-μη μείνει μόνη 2. Καχύποπτη 3. Αισθάνεται οτι την παραμελούν 3. Παγωμένο συναίσθημα 3. Νεύρα 2. Θυμός 2. Δυσκοιλιότητα 3. Υπερσεξουαλική 2. Νιώθει βάρος στο στήθος 2. Κρύα άκρα 2. αϋπνία από σκέψεις 3. Επιθυμεί μοσχάρι 2. Υποτονικότητα-αδυναμία 2.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Τ.1.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>δ.δ Hyosc, Lach, Nux-v, Stram, Puls, Carc, Plat, Sep, Staph, Sulph. Τα φάρμακα που θεωρώ πιο πιθανά είναι η Lach και ο Hyosc λόγω της πολύ έντονης ζήλειας. Ο λόγος που με κάνει να διαλέξω τον Hyosc είναι οτι μου αναφέρει οτι ενώ είναι αγκαλιά με το αγόρι της θέλει να τον κλωτσήσει. Επίσης ταιριάζουν στο φάρμακο πολλά από τα ψυχοδιανοητικά συμπτώματα και κάποια από τα σωματικά συμπτώματα. </remedies_differentiation>
+      <prescription>
+        <remedy>Hyoscyamus niger</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-06 17:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την 1η εβδομάδα μετά το φάρμακο αναφέρει νεύρα φουλ, πάρα πολλή ζήλεια και εμμονές, είχε μια μόνιμη ανησυχία όλη τη μέρα,ακόμη και στον ύπνο, μία βραδιά άρχισε να μιλάει και να κράζει το αγόρι της και μετά εκλαιγε όλο το βράδυ στην αγκαλιά του. 3 εβδομάδες μετά της βγήκε πανικός, ενώ πριν το καταπίεζε,ήταν σα να ξέσπασε. Νιώθει θλίψη, κλαίει συχνά. Νιώθει υπεραιυαίσθητη. Όταν είναι να της έρθει η περίοδος χάνει το μυαλό της. Άρχισε πάλι να ανησυχεί για τους δικούς της, ενώ πριν ένιωθε απαθής απέναντί τους. Δεν έχει καθόλου δυσκοιλιότητα. Ξεκίνησε να εργάζεται και ενώ είναι σε όλη τη διάρκεια της δουλειάς όρθια, δεν την πονά η μέση της. Τα υπόλοιπα είναι τα ίδια.</reaction>
+      <analysis>Είχει αρχική επιδείνωση, διότι είχε πολλά νεύρα. Έχει βελτιωθεί συναισθηματικά, γιατί έχει επιστρέψει το συναίσθημα, νιώθει θλίψη και κλαίει, ενώ ήταν εντελώς απαθής.</analysis>
+      <conclusion>Υπάρχει βελτίωση. Θα περιμένω μέχρι να ξεκαθαρίσει η εικόνα της.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Τ.2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>Θα περιμένω μέχρι να ξεκαθαρίσει η εικόνα της.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-28 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μειώθηκαν οι εμμονές που είχε, μειώθηκε το αίσθημα οτι την παραμελούν. Οι δοθιήνες στους γλουτούς ηρέμησαν. Όταν ξεκινά η περίοδος ηρεμεί. Της κόβεται η αναπνοή στον ύπνο και ξυπνά για να πάρει ανάσα, γιατί νιώθει οτι πνίγεται.</reaction>
+      <analysis>Φαίνεται οτι η εικόνα έχει αλλάξει.</analysis>
+      <conclusion>Θα της δώσω καινούριο φάρμακο.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Τ.3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Lachesis</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

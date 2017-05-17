@@ -1,0 +1,1163 @@
+1
+00:00:57,870 --> 00:01:02,620
+Alguém sabe a teoria sobre as potências elevadas?
+
+2
+00:01:03,970 --> 00:01:12,870
+Um grupo nosso na Grécia, uma pequena aglomeração, vocês sabem dessa teoria?
+
+3
+00:01:12,970 --> 00:01:15,370
+- Não.
+
+4
+00:01:15,470 --> 00:01:32,000
+- Quem sabe? Vocês já leram nosso artigo?
+- ...aglomerados de moléculas diluídas em água.
+
+5
+00:01:32,100 --> 00:01:36,610
+- Esta é uma hipótese que nós trouxemos.
+
+6
+00:01:58,680 --> 00:02:15,600
+- ...200K ou C, é a mesma, a diferença está na preparação,
+
+7
+00:02:15,700 --> 00:02:23,240
+mas ambos são 200 vezes diluídos e succionados.
+
+8
+00:02:25,000 --> 00:02:32,390
+Existe um tipo de má informação sobre as potências C,
+
+9
+00:02:32,490 --> 00:02:39,390
+as potências Hahnemannianas são mais fortes do que as de Korsakov.
+
+10
+00:02:39,490 --> 00:02:41,740
+Isso não é verdade.
+
+11
+00:02:42,990 --> 00:02:50,640
+Se vocês prepararem retirando uma gota da primeira solução,
+
+12
+00:02:50,740 --> 00:02:57,680
+E vocês colocam esta gota em um segundo frasco com 100 e vocês diluem e então succionam,
+
+13
+00:02:57,780 --> 00:03:03,240
+este é o método Hahnemanniano ou o C.
+
+14
+00:03:03,340 --> 00:03:13,070
+Se vocês esvaziarem o frasco e enchê-lo novamente, no mesmo recipiente com 100 gotas,
+
+15
+00:03:13,170 --> 00:03:26,070
+o que é deixado na superfície interna do recipiente é uma parte e vocês terão novamente 1 parte em 99,
+
+16
+00:03:26,170 --> 00:03:28,310
+e vocês a succionam.
+
+17
+00:03:28,410 --> 00:03:35,820
+Em ambos os casos, vocês têm 1 parte em 99 e vocês o succionam e novamente 1 parte em 99.
+
+18
+00:03:35,920 --> 00:03:45,920
+E vocês succionam novamente, assim, o efeito de ambos métodos deveriam ser o mesmo se forem succionados corretamente.
+
+19
+00:03:46,920 --> 00:03:48,660
+não há diferença.
+
+20
+00:03:50,170 --> 00:03:58,310
+A diferença é que ao preparar por este método, vocês precisarão de 200 frascos.
+
+21
+00:03:58,410 --> 00:04:13,910
+E vocês precisarão muito mais de soluções, tudo o que vocês forem preparar.
+
+22
+00:04:14,670 --> 00:04:20,390
+Esse poderá ser um método mais caro. O problema é,
+
+23
+00:04:22,500 --> 00:04:33,310
+se eles dizem isto é 1000 vezes da forma Hahnemanninana, eles fizeram isso realmente?
+
+24
+00:04:33,410 --> 00:04:45,150
+Pois isso significa que alguém pega o frasco 1000 vezes, retira uma gota, vai para outro frasco,
+
+25
+00:04:45,250 --> 00:04:48,730
+enche-o novamente, coloca a gota e o succiona.
+
+26
+00:04:48,830 --> 00:04:54,580
+Retira uma gota novamente. Portanto, não é automático.
+
+27
+00:04:55,340 --> 00:04:59,830
+Onde com o outro método, esvaziando e enchendo novamente, é automático.
+
+28
+00:05:02,340 --> 00:05:08,480
+Dessa forma, eu tenho um problema, quando eles dizem este é 10.000. Eles fizeram realmente 10.000?
+
+29
+00:05:08,580 --> 00:05:13,560
+É realmente 10.000 vezes no modo Hahnemanniano?
+
+30
+00:05:13,660 --> 00:05:18,410
+Eu tenho um problema lá para poder acreditar.
+
+31
+00:05:30,160 --> 00:05:36,900
+Para ser possível utilizar o mesmo frasco, vocês devem passar por uma temperatura muito elevada para estragar.
+
+32
+00:05:37,000 --> 00:05:43,000
+E continuar etc. É um grande processo que se torna muito mais caro.
+
+33
+00:05:44,660 --> 00:05:50,080
+Mas algumas empresas farmacêuticas, com intuito de compensar isto,
+
+34
+00:05:50,180 --> 00:06:01,170
+eles dizem que a potência Hahnemanniana, a potência 12 é equivalente à 200 Korsakov.
+
+35
+00:06:05,160 --> 00:06:07,670
+No Canadá, vocês não dizem tais palavras.
+
+36
+00:06:10,660 --> 00:06:21,900
+Onde pequenos aglomerados são formados com este processo,
+
+37
+00:06:22,000 --> 00:06:31,960
+existem aglomerados de moléculas da substância original na água e ao redor deles
+
+38
+00:06:32,060 --> 00:06:41,740
+Elas são moléculas de água que vão e envolvem estes aglomerados.
+
+39
+00:06:41,840 --> 00:06:48,210
+Conforme vocês vão cada vez mais alto, o que resta são os clatratos.
+
+40
+00:06:48,310 --> 00:06:58,460
+permanece um tipo de forma da célula dos agrupamentos originais.
+
+41
+00:06:58,560 --> 00:07:10,810
+Estes aglomerados, como têm forma física, eles tendem a aderir na parede do frasco.
+
+42
+00:07:11,560 --> 00:07:18,700
+É por isso que o método Korsakov, no qual ele tira a sua substância original das paredes,
+
+43
+00:07:18,800 --> 00:07:25,200
+- Porque se vocês esvaziam o frasco e o retorna na posição normal, o que resta é...
+
+44
+00:07:25,300 --> 00:07:35,700
+o que está aderido nas paredes, dessa forma, essas são as soluções que contêm maior parte de aglomerados.
+
+45
+00:07:35,800 --> 00:07:42,960
+Portanto, se vocês retirarem do meio, vocês podem não estar pegando alguns aglomerados. Algumas vezes,
+
+46
+00:07:43,060 --> 00:07:47,460
+nas quais definitivamente existem aglomerados nas paredes internas do frasco.
+
+47
+00:07:47,560 --> 00:07:56,810
+Portanto, o método Korsakov é mais confiável do que o método Hahnemanniano.
+
+48
+00:07:59,300 --> 00:08:05,380
+E como vocês sabem, eu tenho grandes problemas, várias vezes,
+
+49
+00:08:06,980 --> 00:08:10,130
+Pois o remédio não foi realmente potencializado.
+
+50
+00:08:10,230 --> 00:08:13,310
+Eles poderiam dizer que é 1M e na verdade não era nada.
+
+51
+00:08:14,060 --> 00:08:19,470
+É por isso que eu propus às diferentes empresas farmacêuticas
+
+52
+00:08:19,570 --> 00:08:26,880
+que eles poderiam preparar os remédios, se eu tivesse fornecido à eles as instruções de como fazê-los,
+
+53
+00:08:26,980 --> 00:08:33,950
+de forma que poderia ser preparado em uma máquina automática.
+
+54
+00:08:34,050 --> 00:08:40,120
+Uma máquina que duplicaria uma forma original de preparo do remédio.
+
+55
+00:08:40,220 --> 00:08:54,370
+que estava batendo, que é a forma como ele foi preparado. E foi assim que começou a Homeopatia.
+
+56
+00:08:54,470 --> 00:09:01,380
+Empresas diferentes apresentaram diferentes maneiras, como colocar e vibrar, injetar água
+
+57
+00:09:01,480 --> 00:09:04,050
+e outras ideias diferentes que surgiram.
+
+58
+00:09:04,150 --> 00:09:10,790
+Eu disse, "esqueça tudo isso, eu quero a forma original, eu quero uma máquina eletrônica automática...
+
+59
+00:09:10,890 --> 00:09:15,290
+O qual não interferirá absolutamente, o ser humano não interferirá.
+
+60
+00:09:15,390 --> 00:09:21,790
+Vocês podem ligar o botão e dizer, "eu quero que essas potências sejam selecionadas"
+
+61
+00:09:21,890 --> 00:09:29,830
+e automaticamente a máquina encherá novamente, agitará e manterá ao mesmo tempo,
+
+62
+00:09:29,930 --> 00:09:38,900
+reservado n.º potências 12, n.º potências 30, e trabalhará automaticamente dia e noite.
+
+63
+00:09:39,650 --> 00:09:45,320
+E assim, portanto, terei certeza que, quando dou a potência 1M ela é realmente a potência 1M".
+
+64
+00:09:45,420 --> 00:09:51,640
+Não é 12 ou 20 em vez de 200.
+
+65
+00:09:52,390 --> 00:10:05,790
+Havia diversas empresas farmacêuticas que estavam interessadas e quando eles ouviram isso,
+
+66
+00:10:05,890 --> 00:10:12,710
+eles acharam muito caro, quantos remédios deveriam vender e finalmente eles não estavam interessados.
+
+67
+00:10:12,810 --> 00:10:21,220
+Havia uma firma na Itália que produzia máquinas para diálise renal
+
+68
+00:10:21,320 --> 00:10:25,710
+e eles ficaram interessados. Eles disseram, "queremos ir para a Homeopatia, o que você quer?"
+
+69
+00:10:25,810 --> 00:10:32,460
+"Eu quero um time com tais pessoas, engenheiros mecânicos etc. e eu direi para eles exatamente como proceder."
+
+70
+00:10:32,560 --> 00:10:35,790
+Essa é a máquina que eu quero e que imagino.
+
+71
+00:10:35,890 --> 00:10:46,400
+Eu quero o original e eu dei para eles a força com a que deve bater e a velocidade.
+
+72
+00:10:47,400 --> 00:10:53,460
+O original é diferente, eu não consigo imaginar que está fazendo desta forma, como as máquinas que eles têm.
+
+73
+00:10:53,560 --> 00:11:02,700
+É preciso algum tempo e ele tem que vir na horizontal e, em seguida, bater e bater.
+
+74
+00:11:02,800 --> 00:11:11,630
+É diferente, pois esses clatratos, esses aglomerados se formam e são permitidos se fixarem.
+
+75
+00:11:11,730 --> 00:11:16,810
+Caso contrário, se transformam em uma loucura dentro da água.
+
+76
+00:11:19,810 --> 00:11:30,210
+Mas, de qualquer forma, a minha ideia de reproduzir o medicamento original surgiu da lógica simples
+
+77
+00:11:30,310 --> 00:11:37,630
+que os remédios originais eram produzidos por uma mão, trazida, manifestada em Homeopatia.
+
+78
+00:11:37,730 --> 00:11:44,730
+Portanto, esta é a maneira pela qual os medicamentos devem continuar a ser feitos.
+
+79
+00:11:45,640 --> 00:11:57,870
+Esta empresa, a empresa italiana, está produzindo neste momento estes tipos de potências.
+
+80
+00:11:57,970 --> 00:12:01,230
+Método Korsakov.
+
+81
+00:12:01,810 --> 00:12:06,390
+- Qual é o nome da empresa?
+- O nome da empresa é SIFFRA.
+
+82
+00:12:09,640 --> 00:12:18,300
+E agora, quando eu quero dar uma potência 10M ou 50M, eu sei que é uma potência 50M,
+
+83
+00:12:18,400 --> 00:12:25,800
+E se não funcionar, eu sei que é culpa minha e não pelo fato de
+
+84
+00:12:25,900 --> 00:12:29,140
+que não existe remédio nela.
+
+85
+00:12:30,650 --> 00:12:36,550
+Essa é outra coisa que eu trouxe para a Homeopatia com intuito de garantir a ideia.
+
+86
+00:12:36,650 --> 00:12:42,890
+dependermos completamente da integridade da farmácia.
+
+87
+00:12:43,650 --> 00:12:47,050
+Vocês ouviram o caso Mandragora, o que ela disse.
+
+88
+00:12:47,150 --> 00:12:50,300
+Pois ela é muito sensível, ela compreende, ela tomou remédio
+
+89
+00:12:50,400 --> 00:12:53,220
+e não havia nada no remédio.
+
+90
+00:12:57,980 --> 00:13:04,630
+Bill Gray está aqui e talvez ele se lembrará de um incidente em Berkley.
+
+91
+00:13:04,730 --> 00:13:11,870
+Baker, um dos médicos naturopatas, estava sentado ali e uma vez eu o vi colapsando.
+
+92
+00:13:11,970 --> 00:13:12,870
+Eu disse, "o que está acontecendo?"
+
+93
+00:13:12,970 --> 00:13:19,620
+Ele estava transpirando, ele disse "eu tenho diarreia, vômito, não me sinto bem."
+
+94
+00:13:19,720 --> 00:13:31,370
+Nós o levamos para o andar de cima, para um quarto do hotel e qual era o remédio que prescrevemos?
+
+95
+00:13:31,470 --> 00:13:36,160
+Prescrevi Carbo vegetabilis para ele. Eu o deixei no andar de cima,
+
+96
+00:13:36,260 --> 00:13:42,960
+voltei para baixo para continuar a aula e após 1 hora eu subi para ver como ele estava.
+
+97
+00:13:43,060 --> 00:13:59,560
+Após 1 hora, ele estava do mesmo jeito. Ele disse, "eu acho que não sou Carbo vegetabilis".
+
+98
+00:14:00,060 --> 00:14:03,950
+"Eu acho que preciso de Arsenicum". Por quê?
+
+99
+00:14:04,050 --> 00:14:11,960
+"Pois eu tenho um tipo de medo, medo de morrer". Ele estava totalmente exausto.
+
+100
+00:14:12,060 --> 00:14:18,900
+Eu dei a ele uma dose de Carbo vegetabilis 1M.
+
+101
+00:14:20,640 --> 00:14:26,460
+Mas para mim, quando eu dou um remédio, eu sei o motivo pelo qual eu dou o remédio e quando eu vejo os sintomas,
+
+102
+00:14:26,560 --> 00:14:31,960
+os sintomas são Carbo vegetabilis. Eu disse, "algo está errado com o remédio",
+
+103
+00:14:32,060 --> 00:14:33,960
+o remédio não estava correto.
+
+104
+00:14:34,060 --> 00:14:37,210
+Eu desço e digo, "alguém tem Carbo vegetabilis 200?"
+
+105
+00:14:37,310 --> 00:14:50,040
+Sim, um estudante tinha, eu subi as escadas e dei 200. Em menos de um minuto, o homem disse...
+
+106
+00:14:50,140 --> 00:14:53,140
+"Me sinto melhor."
+
+107
+00:14:53,890 --> 00:15:00,790
+Em 1 hora ele estava viajando de volta com seu carro para o local onde ele viajava,
+
+108
+00:15:00,890 --> 00:15:03,730
+o percurso para este seminário.
+
+109
+00:15:06,230 --> 00:15:11,230
+O que continha no 1M? Nada. Era água pura.
+
+110
+00:15:14,730 --> 00:15:19,300
+Existe um outro caso, talvez Bill ainda se lembre.
+
+111
+00:15:23,310 --> 00:15:34,210
+Phosphorus 50M. Um mês depois, chega um relatório de Nancy Herring.
+
+112
+00:15:34,310 --> 00:15:40,460
+Diz no relatório que está um pouco melhor, nada significante...
+
+113
+00:15:40,560 --> 00:15:47,060
+Eu pergunto para a classe, "o que está errado?" "O remédio está errado."
+
+114
+00:15:50,310 --> 00:15:59,960
+Eu digo, "este remédio, Phosphorus 50M, atuou como se fosse uma dose de 12, na minha compreensão."
+
+115
+00:16:00,060 --> 00:16:11,310
+Eu disse, "o remédio está errado. Dê a ela uma dose 200 de outra farmácia", reação maravilhosa.
+
+116
+00:16:16,230 --> 00:16:20,380
+Um caso de Paris quadrifolia em Londres, onde estava lecionando,
+
+117
+00:16:20,480 --> 00:16:23,230
+esses são os casos públicos a que me refiro.
+
+118
+00:16:23,730 --> 00:16:29,380
+Eu retorno 3 meses depois, leciono novamente e o caso é apresentado e nada.
+
+119
+00:16:29,480 --> 00:16:34,130
+A mesma coisa. Eu subi para a classe e disse "o remédio está errado".
+
+120
+00:16:34,230 --> 00:16:39,130
+Nós tentamos encontrar outro remédio? Eu disse, "não. Vá até outras 3 farmácias,
+
+121
+00:16:39,230 --> 00:16:45,880
+encontre novamente Paris quadrifolia 30 de outras 3 farmácias para ter certeza, e dê a ela."
+
+122
+00:16:45,980 --> 00:16:48,980
+3 meses depois, ela estava curada.
+
+123
+00:16:49,980 --> 00:17:01,130
+Tudo isso e muitas outras experiências em Atenas, onde um remédio foi abrir e fechar.
+
+124
+00:17:01,230 --> 00:17:05,630
+Uma farmácia obtém uma garrafa e dessa garrafa, fornece para os diferentes pacientes.
+
+125
+00:17:05,730 --> 00:17:12,710
+Há um momento, no qual o frasco estraga, seja por causa de algum perfume ou qualquer outra coisa.
+
+126
+00:17:12,810 --> 00:17:21,060
+E ele administra uma dose daquele frasco e o remédio não funciona.
+
+127
+00:17:22,820 --> 00:17:28,210
+Então o médico, quando o paciente chega, o médico pensa,
+
+128
+00:17:28,310 --> 00:17:33,220
+especialmente se ele não tem muita certeza sobre o remédio, "o remédio está errado".
+
+129
+00:17:33,320 --> 00:17:36,970
+Eu dou outro remédio, e outro remédio e outro remédio.
+
+130
+00:17:37,070 --> 00:17:45,970
+Eu me lembro de outro caso em Berkley. Eu tomei um caso, a pessoa tinha utilizado 150 remédios.
+
+131
+00:17:46,070 --> 00:17:53,560
+150 remédios em 7 anos!
+
+132
+00:17:55,320 --> 00:18:05,220
+Eu disse, "o que devo fazer?" Eu li, li, li os remédios e tomei o caso.
+
+133
+00:18:05,320 --> 00:18:09,710
+E eu digo, "o remédio que eu vejo é muito claro, não está aqui".
+
+134
+00:18:09,810 --> 00:18:17,970
+Ele deu 150 remédios e dentro de 150 possibilidades não acertou o remédio correto.
+
+135
+00:18:18,070 --> 00:18:23,710
+Isso é inacreditável! O médico estava lá e não sabia o que dizer.
+
+136
+00:18:23,810 --> 00:18:26,730
+Este foi um caso claro de Gelsemium.
+
+137
+00:18:26,980 --> 00:18:30,220
+Eu digo, "este é um caso claro de Gelsemium".
+
+138
+00:18:30,320 --> 00:18:37,230
+"Ah", ele disse, "Gelsemium foi o primeiro remédio que eu prescrevi há 7 anos".
+
+139
+00:18:38,980 --> 00:18:43,400
+Ele não escreveu isso, porque ele relatou os últimos remédios.
+
+140
+00:18:47,650 --> 00:18:51,050
+Ele disse que foi o primeiro remédio, de qual farmácia? Daquela farmácia.
+
+141
+00:18:53,480 --> 00:18:59,230
+Dê Gelsemium de 3 outras farmácias, ação.
+
+142
+00:19:00,480 --> 00:19:08,130
+Tudo isso me levou a acreditar que existe algo errado com as farmácias,
+
+143
+00:19:08,230 --> 00:19:12,560
+temos que ter medicamentos confiáveis.
+
+144
+00:19:13,060 --> 00:19:20,730
+Quando eu digo, "neste caso, não tenho certeza sobre o remédio", eu digo Psorinum e ele não funciona,
+
+145
+00:19:20,830 --> 00:19:26,830
+ele irá imediatamente para Silica, mas se o remédio não é confiável, o que acontece?
+
+146
+00:19:26,930 --> 00:19:34,570
+Pois eu não tenho certeza. No caso de Lachesis, tenho certeza, em caso de Sulphur tenho certeza,
+
+147
+00:19:34,670 --> 00:19:37,320
+neste caso não tenho certeza.
+
+148
+00:19:37,420 --> 00:19:44,240
+E assim, eu saltarei imediatamente para o próximo remédio e se o remédio não for o correto, eu perderei a coisa toda.
+
+149
+00:19:44,340 --> 00:19:50,990
+Vocês compreendem o quanto é importante para nós termos confiança no remédio?
+
+150
+00:19:51,090 --> 00:19:56,250
+E quando dizemos 200 é 200 e quando dizemos 1M é 1M.
+
+151
+00:19:56,350 --> 00:20:03,990
+É por isso que eu pedi a eles e eles estão preparando desta forma, duplicando as potências feitas manualmente,
+
+152
+00:20:04,090 --> 00:20:08,740
+em uma forma eletrônica sem nenhuma interferência pela mão.
+
+153
+00:20:08,840 --> 00:20:18,600
+Vocês sabem o quanto é difícil para uma pessoa se sentar e contar 200 vezes.
+
+154
+00:20:20,670 --> 00:20:25,170
+Aconteceu que encomendamos 200 e foram somente 20 vezes, por quê?
+
+155
+00:20:25,270 --> 00:20:33,400
+Pois entre 20 e 180 eles se perderam, o homem estava saindo para ver seu filho
+
+156
+00:20:33,500 --> 00:20:37,500
+Quem estava doente, estava na Itália.
+
+157
+00:20:37,960 --> 00:20:44,660
+O homem que estava responsável, após interrogatório, após pressionarmos ele, descobrimos que
+
+158
+00:20:44,760 --> 00:20:52,660
+que ele havia deixado e o tempo em que era suposto fazer o 200, ele estava em sua casa.
+
+159
+00:20:52,760 --> 00:21:01,970
+ele estava cuidando de seu filho que estava doente. Mas isso é o que acontece se você contar com o fator humano.
+
+160
+00:21:04,680 --> 00:21:13,430
+É por isso que agora eu digo, 200, 1M e 10M. Talvez algum desses três será verdadeiro.
+
+161
+00:21:14,430 --> 00:21:22,180
+Eu tenho mais chances de estar correto, pois o vi ter uma pequena agravação.
+
+162
+00:21:22,920 --> 00:21:26,420
+Mas, infelizmente, esta é a minha experiência.
+
+163
+00:21:31,680 --> 00:21:39,670
+Um dia pela manhã, tarde e noite. Em um dia todos os 3 diferentes, sim.
+
+164
+00:21:41,430 --> 00:21:45,570
+- Vocês sabem, em suas experiências, que os remédios homeopáticos são sensíveis aos campos magnéticos.
+
+165
+00:21:45,670 --> 00:21:52,010
+Campos fortes?
+- Não. Não tem.
+
+166
+00:21:53,260 --> 00:22:03,160
+Eles são sensíveis ao calor e isto é certeza.
+
+167
+00:22:03,260 --> 00:22:13,010
+Se vocês os expuserem ao sol, ao calor de mais de 40-50 graus, então vocês poderão ter um problema.
+
+168
+00:22:15,760 --> 00:22:27,660
+- Eu li um livro de um médico [nome do médico] PhD e ele relatou experiências com diluições.
+
+169
+00:22:27,760 --> 00:22:33,660
+E ele disse que parece efeito sinusoidal da medicação, diluições diferentes que significam
+
+170
+00:22:33,760 --> 00:22:38,910
+que algumas diluições produzirão um efeito positivo e a próxima diluição
+
+171
+00:22:39,010 --> 00:22:46,170
+produzirá algum efeito contrário ou absolutamente nenhum efeito, um tipo de controle da diluição.
+
+172
+00:22:46,270 --> 00:22:51,010
+- Este é o trabalho de Benveniste.
+
+173
+00:22:51,760 --> 00:23:01,410
+- Ele estava relatando vários trabalhos sobre diluições, delírios de controle e ele estava relatando
+
+174
+00:23:01,510 --> 00:23:09,750
+que tudo o que eles tentaram, eles são o efeito sinusoidal com alguma diluição...
+
+175
+00:23:09,850 --> 00:23:19,660
+- Talvez foi anterior ao Benveniste. Benveniste fez o experimento. Vocês sabem disso?
+
+176
+00:23:19,760 --> 00:23:25,920
+Este experimento teve alguns problemas e que, pela Homeopatia, saiu muito pela culatra
+
+177
+00:23:26,020 --> 00:23:33,990
+e ele trouxe a ideia de uma diluição de ser ativa, a próxima diluição não ser ativa.
+
+178
+00:23:34,090 --> 00:23:37,490
+Eu não aceito isso, não.
+
+179
+00:23:37,590 --> 00:23:43,740
+- Você consegue descrever o que você está procurando nesta fase, do dia que está chegando?
+
+180
+00:23:43,840 --> 00:23:49,600
+Das diferentes potências? É possível descrever as mudanças que você está procurando?
+
+181
+00:23:50,850 --> 00:24:01,330
+- Naquele caso particular? Por que eu dei três potências?
+
+182
+00:24:01,430 --> 00:24:07,170
+- E o que, especificamente, você está procurando durante o decorrer do dia?
+
+183
+00:24:09,670 --> 00:24:17,160
+- Não estou procurando especificamente por nada. Eu estou tentando criar uma reação do remédio.
+
+184
+00:24:17,260 --> 00:24:26,990
+Portanto, se eu tivesse certeza absoluta que o remédio foi potencializado 10.000 vezes,
+
+185
+00:24:27,090 --> 00:24:32,000
+eu diria, "tome uma dose de Psorinum 10.000."
+
+186
+00:24:32,100 --> 00:24:38,000
+Mas, logo que eu não tenho certeza sobre isso, eu dou três possibilidades, eu dou uma 200,
+
+187
+00:24:38,100 --> 00:24:45,750
+Existe uma possibilidade que há um remédio potencializado 1M e outra possibilidade 10M.
+
+188
+00:24:45,850 --> 00:24:51,000
+Se todos os três estiverem potencializados,
+
+189
+00:24:51,100 --> 00:24:57,440
+então o mais provável é que teremos uma reação maior do que o normal.
+
+190
+00:24:57,930 --> 00:25:05,830
+Algumas pessoas afirmam, como Marjory Blackie da Inglaterra, ela tinha o costume de prescrever esse tipo de esquema,
+
+191
+00:25:05,930 --> 00:25:10,830
+ela costumava dar três potências e ela alegou...
+
+192
+00:25:10,930 --> 00:25:22,330
+e que essa forma minimizava a reação do paciente, a agravação.
+
+193
+00:25:22,430 --> 00:25:25,060
+Eu não tenho certeza disso.
+
+194
+00:25:36,010 --> 00:25:39,910
+- Eu só queria saber se você teve alguma experiência com as potências LM,
+
+195
+00:25:40,010 --> 00:25:42,910
+Você os recomenda?
+
+196
+00:25:43,010 --> 00:25:46,410
+- Eu não tenho muita experiência com as potências LM.
+
+197
+00:25:46,510 --> 00:25:51,910
+eu as recomendaria em alguns casos, nos quais existem pessoas hipersensíveis
+
+198
+00:25:52,010 --> 00:25:59,410
+e eu realmente quero dar uma potência muito baixa e causar uma agravação muito pequena.
+
+199
+00:26:01,760 --> 00:26:06,160
+Eu recorro ao LM. Eu o fiz pouquíssimas vezes.
+
+200
+00:26:06,260 --> 00:26:19,730
+Uma vez eu o fiz. Minha experiência foi na Itália, em uma criança com Epidermólise bolhosa.
+
+201
+00:26:20,730 --> 00:26:28,630
+Para aqueles que conhecem um pouco sobre dermatologia, eles sabem dessa doença fatal em crianças,
+
+202
+00:26:28,730 --> 00:26:36,880
+Na qual a pele não está formada, a absorção de diferentes minerais não são feitas
+
+203
+00:26:36,980 --> 00:26:41,130
+e, na verdade, não há pele. No momento em que eles tocam a pele, ela se abre,
+
+204
+00:26:41,230 --> 00:26:47,370
+que faz uma ferida e então a criança é enfaixada com feridas sobre todo o corpo.
+
+205
+00:26:47,470 --> 00:26:53,730
+e eles vivem 3, 4, 5 anos e no máximo 7 anos e morrem.
+
+206
+00:26:53,970 --> 00:27:04,210
+Essa criança tinha 1 ano e meio de idade, ele era tão sensível. Ele era Phosphorus, o remédio dele era Phosphorus.
+
+207
+00:27:04,310 --> 00:27:11,470
+E eu disse, "dê a ele 3 doses de Phosphorus LM."
+
+208
+00:27:11,570 --> 00:27:17,300
+Com a primeira potência que eles deram, ocorreu uma enorme reação
+
+209
+00:27:17,400 --> 00:27:22,880
+e todo o tórax se tornou uma ferida aberta.
+
+210
+00:27:22,980 --> 00:27:30,310
+Foi, definitivamente, uma agravação muito ruim, com 1 dose de LM.
+
+211
+00:27:33,310 --> 00:27:38,470
+E depois que ocorreu uma melhora e então houve uma repetição,
+
+212
+00:27:38,570 --> 00:27:42,390
+novamente a agravação e melhora.
+
+213
+00:27:42,490 --> 00:27:48,390
+Esta é a experiência que tenho com potências LM e em alguns outros casos,
+
+214
+00:27:48,490 --> 00:27:53,970
+nos quais foi sugerido uma supersensibilidade, eu não vi esse tipo de reação.
+
+215
+00:27:54,070 --> 00:27:56,070
+Estou relatando para você.
+
+216
+00:28:02,070 --> 00:28:05,300
+- Esta criança que você viu na Itália foi curada?
+
+217
+00:28:05,400 --> 00:28:21,050
+- O menino ainda está vivo, ele tem 5 anos de idade, ele ainda está vivo, sua pele não está perfeita,
+
+218
+00:28:21,150 --> 00:28:36,630
+mas ele está muito, muito melhor e acredito que se eles continuarem o tratamento, ele será salvo.
+
+219
+00:28:36,730 --> 00:28:39,630
+- E ele ainda é Phosphorus.
+
+220
+00:28:39,730 --> 00:28:45,730
+- Eventualmente, ele foi para Calcarea carbonica. Após 2 anos, eu acho, eu prescrevi Calc. carb.
+
+221
+00:28:46,490 --> 00:28:51,140
+- O caso que vimos, no qual você prescreveu Psorinum,
+
+222
+00:28:51,240 --> 00:28:57,640
+existe alguma preocupação ao administrar 10M e os problemas de pele voltarem fortemente?
+
+223
+00:28:57,740 --> 00:28:59,630
+- Eu não acompanhei?
+
+224
+00:28:59,730 --> 00:29:04,880
+- Você está preocupado sobre administrar uma dose 10M e obter uma agravação de pele muito forte,
+
+225
+00:29:04,980 --> 00:29:07,640
+os sintomas de pele retornarem muito fortes?
+
+226
+00:29:07,740 --> 00:29:21,480
+- Não, não. Desejo que eles voltem e eles venham fortes. Não tenho nenhum problema com ela.
+
+227
+00:29:31,230 --> 00:29:36,140
+- Se as potências mais elevadas parecem ser menos prováveis de serem o que eles dizem em um frasco,
+
+228
+00:29:36,240 --> 00:29:40,160
+por que eles administram 3 doses de 200 de 3 farmácias diferentes?
+
+229
+00:29:40,650 --> 00:29:48,800
+- Pois se o frasco está estragado e vocês dão 3 doses, não importa, ainda estará estragado.
+
+230
+00:29:48,900 --> 00:29:50,380
+- Mas de 3 frascos diferentes.
+
+231
+00:29:50,480 --> 00:29:52,390
+- De 3 farmácias diferentes?
+
+232
+00:29:52,490 --> 00:29:57,890
+Essa é uma outra ideia, que eu fiz várias vezes,
+
+233
+00:29:57,990 --> 00:30:07,500
+mas talvez seja mais difícil para a pessoa encontrar 3 farmácias diferentes.
+
+234
+00:30:14,740 --> 00:30:21,940
+- Você acha que devemos dar 3 doses de todos os remédios que prescrevemos para todo mundo?
+
+235
+00:30:23,440 --> 00:30:29,340
+- Se não há problema com o paciente, não há problema com a agravação,
+
+236
+00:30:29,440 --> 00:30:37,800
+Sim, você pode fazê-lo, se você não está receoso de patologia profunda e que não seja uma pessoa idosa.
+
+237
+00:30:37,900 --> 00:30:43,900
+e se não são os últimos estágios de uma doença, sim. Você pode fazer isso.
+
+238
+00:30:49,410 --> 00:30:54,400
+- Qual é a sua opinião sobre estas peças de equipamento que preparam remédios?
+
+239
+00:30:55,190 --> 00:31:05,810
+- Como máquinas radiônicas? Me desculpe, mas eu não concordo com isso. Eu não concordo, por quê?
+
+240
+00:31:05,910 --> 00:31:13,560
+Porque eu verifiquei, eu tenho algumas pessoas que tiveram a máquina
+
+241
+00:31:13,660 --> 00:31:19,300
+e tentaram me convencer que este é perfeito. Eu disse, "eu não acredito nisso".
+
+242
+00:31:20,910 --> 00:31:25,630
+Essa pessoa me chamou para tomar o seu caso e ele estava gravemente doente.
+
+243
+00:31:25,730 --> 00:31:33,630
+Então, eu tomei o caso dele e disse, "ok! Agora prepare o remédio com a sua máquina...
+
+244
+00:31:33,730 --> 00:31:46,640
+E tome o remédio e veremos, após uma semana ou 10 dias, veremos o que aconteceu". Ele disse, "ahh"...
+
+245
+00:31:46,740 --> 00:31:52,380
+Eu disse, "não, se você não acredita nisso e você tentou por 45 minutos me convencer
+
+246
+00:31:52,480 --> 00:31:56,890
+que esta é uma boa máquina, é melhor você tentar isso em você mesmo.
+
+247
+00:31:56,990 --> 00:32:03,510
+Eu vou te dizer o remédio, você o prepara, o toma e veja o que acontece.
+
+248
+00:32:07,760 --> 00:32:17,480
+Você fará desta forma", e ele teve que fazer isso e ele retornou após uma semana, "eu continuo o mesmo".
+
+249
+00:32:17,580 --> 00:32:23,070
+Bem, você é o mesmo, mas ainda temos que esperar mais uma semana para termos certeza.
+
+250
+00:32:26,330 --> 00:32:34,230
+Eu disse, "você é um cientista", ele era um físico. "E você quer saber se isso funciona,
+
+251
+00:32:34,330 --> 00:32:39,410
+Você tem tentado me convencer de que há campos magnéticos e blá, blá e tudo isso.
+
+252
+00:32:39,510 --> 00:32:45,730
+Agora é melhor você testar isso em você mesmo" e eu o fiz sofrer, é claro.
+
+253
+00:32:50,510 --> 00:32:53,980
+E existem outros experimentos que fiz.
+
+254
+00:32:54,080 --> 00:33:04,600
+Se alguém afirma que é isto, eu disse "ok, é honesto que façamos um teste real".
+
+255
+00:33:04,680 --> 00:33:10,300
+Se você acredita na sua máquina, nós vamos fazer um teste real e eu vou te dizer qual o tipo de teste,
+
+256
+00:33:10,400 --> 00:33:16,490
+e se você passar no teste, eu serei o primeiro a dizer, "sim, a máquina é boa".
+
+257
+00:33:17,730 --> 00:33:27,380
+O pêndulo... Mas você está movendo a sua mão.
+
+258
+00:33:27,480 --> 00:33:32,570
+Não, não estou movendo a minha mão. Ela está se movendo sozinha.
+
+259
+00:33:35,310 --> 00:33:38,880
+Veja, agora está movendo para a outra direção.
+
+260
+00:33:38,980 --> 00:33:46,300
+Alguém vem ao seminário, ele tinha uma antena de seu carro.
+
+261
+00:33:46,400 --> 00:33:53,550
+Assim, com a sua antena, ele buscaria o remédio e ele iria até às pessoas e diria,
+
+262
+00:33:53,650 --> 00:33:56,300
+George disse este remédio, está errado.
+
+263
+00:33:56,400 --> 00:34:02,630
+"minha antena diz que é este remédio" e as pessoas chegam e dizem, " o que é isso?"
+
+264
+00:34:02,730 --> 00:34:11,460
+Eu disse, "venha aqui encontrar o seu remédio." Qual é o remédio? Veratrum.
+
+265
+00:34:11,560 --> 00:34:15,710
+Ele segue para o outro, qual remédio que ele te disse? Veratrum.
+
+266
+00:34:15,810 --> 00:34:20,300
+Ele segue para uma criança, eu tinha prescrito Pulsatilla para a criança e ele diz, "Veratrum".
+
+267
+00:34:22,350 --> 00:34:29,740
+Eu tive que chamá-lo, eu disse, "venha aqui, você poderia fazer isso para mim e assim eu poderei ver como você faz?"
+
+268
+00:34:29,840 --> 00:34:38,050
+Ele passou a antena, ele checou todos os meridianos com a antena...
+
+269
+00:34:38,150 --> 00:34:42,890
+E, então, ele passa por cima e diz, "Veratrum".
+
+270
+00:34:48,650 --> 00:34:57,880
+O homem, eventualmente, foi para um manicômio, mas foi muito interessante.
+
+271
+00:34:57,980 --> 00:35:06,130
+Ou ele, ele mesmo tinha tomado Veratrum ou ele próprio precisava de Veratrum
+
+272
+00:35:06,230 --> 00:35:13,310
+e ele daria a todo mundo Veratrum e todo mundo diria, "ele é totalmente louco."
+
+273
+00:35:13,410 --> 00:35:22,920
+E então eu descobri que ele realmente tinha ido a uma clínica, uma clínica mental.
+
+274
+00:35:26,660 --> 00:35:28,700
+Esta é a antena Homeopatia.
+
+275
+00:35:34,450 --> 00:35:38,350
+- É especulação.
+- Foi especulação sim. Por quê?
+
+276
+00:35:38,450 --> 00:35:44,650
+Eu poderia pegar um remédio, dá-lo para você e, às vezes, ele ainda poderia funcionar.
+
+277
+00:35:44,750 --> 00:35:51,830
+Mas isso é uma ciência? O que é isso? Eu não sei. O que é?
+
+278
+00:35:52,580 --> 00:35:56,840
+E é por isso que a homeopatia tem um nome tão ruim.
+
+279
+00:35:58,080 --> 00:36:07,310
+Eu tive um caso com este pêndulo. Ele aconteceu com um estudante de medicina na África do Sul.
+
+280
+00:36:07,410 --> 00:36:18,810
+Pelo menos 25-30 remédios durante um período de anos, todos os dias potências 50M, CM
+
+281
+00:36:18,910 --> 00:36:25,810
+Todos os dias, durante 3 meses, e novamente outro remédio, por 2 meses e um outro remédio...
+
+282
+00:36:25,910 --> 00:36:30,910
+por 1 mês... Com este pêndulo.
+
+283
+00:36:31,410 --> 00:36:35,820
+Quando ele veio para mim, havia tamanha confusão em seu caso,
+
+284
+00:36:35,920 --> 00:36:41,810
+que foi impossível encontrar qualquer coisa. Eu disse, "eu não posso te ajudar, eu não consigo ver qualquer remédio".
+
+285
+00:36:41,910 --> 00:36:48,090
+Vocês têm os sintomas de todos os remédios. O garoto cometeu suicídio.
+
+286
+00:36:49,830 --> 00:36:58,330
+Ele não conseguia viver. Ouvi que após um ou dois anos, ele cometeu suicídio.
+
+287
+00:37:02,280 --> 00:37:13,580
+Estas são energias reais que não podemos brincar com elas.
+
+288
+00:37:14,080 --> 00:37:17,830
+Vocês têm uma ferramenta poderosa que pode curar.
+
+289
+00:37:19,580 --> 00:37:27,980
+Costumamos dizer que é inofensivo e não há nenhum problema e você pode tomá-lo,
+
+290
+00:37:28,080 --> 00:37:34,040
+sim, mas é melhor vocês lidarem com isso com muito, muito cuidado e com muito medo.

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELfb961ce39fffbef0feab7c8c3a069b68</ID>
+  <patient>
+    <case_date>2014-01-20 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΒΧ</patient_initials>
+    <age>55</age>
+    <circumstances>Παντρεμενος με 2 παιδια&#13;
+Ηλεκτρολογος μηχανολογος στη siemens-τελευταια 5χρ φοβερο αγχος λογω ενδεχομενης απολυσης&#13;
+&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Μηδενικη υπομονη,εντονη αμφιθυμια (διπολικη δ-χη?) το πρωι καλη διαθεση το βραδυ χαλια/ εκκρηξεις θυμου με φωνες κ ταση να χτυπησει κ μετα από λιγες ωρες ζηταει συγνωμη κ το εχει ξεχασει κ χαμογελαει κ λεει ποσο αγαπαει τους δικους του ανθρωπους= αμφιθυμια 3 ελλατωση μνημης3&#13;
+Εντονος ψυχαναγκασμος-τακτοποιει συνεχεια τα πραγματα γιατι μονο ετσι ηρεμει 4&#13;
+περιοδοντιτιδα-ουλιτιδα3 ,πονοι στα δοντια-ουλα2  &lt; &lt;στρεςς&#13;
+&#13;
+&#13;
+</origin>
+        <causative_factors>1)Αυταρχικη κ καταπιεστικη μητερα με την καθαριοτητα κ την ταξη&#13;
+2)Αγχος απολυσης απ την δουλεια τελευταια 5χρονια</causative_factors>
+        <modalities>&gt;&gt;&gt; ναλλαζει  μερος συνεχεια για να μην σκεφτεται τα προβληματα του 3 &gt;ταξειδια2&#13;
+&gt;&gt;&gt; με θαλασσα να την βλεπει κ να κολυμπαει(μπαινει πολλες φορες το καλοκαιρι)4</modalities>
+        <occurrence_time>&gt;το πρωι σε διαθεση κ η ενεργεια&#13;
+&lt;το βραδυ η διαθεση κ η ενεργεια</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Καθε μερα μικροεκρηξεις θυμου που περνανε γρηγορα&#13;
+Καθε μερα σχολαστικη τακτοποιηση για να ηρεμησει </appearence_frequency>
+        <pain_desc>Πονος στα δοντια με επεκταση στα ουλα&lt;με στρες</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints>3)οσφυαλγια αριστερα με αιμωδιες αρ κατω ακρου- &lt;&lt;κοπωση  &gt;&gt;ξεκουραση--.&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Χanax 0,25 mg επι αυπνιας-καθε 2η μερα</conv_med_presc>
+        <lab_tests>
+          <desc>Υπερλιπιδαιμια χοληστερολη=280</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>41χρονων αντιβιωτικη κ αντιμυκητισιακη αγωγη peros για λοιμωξη (?)γεννητικων οργανων</therapies_vaccination>
+          <traumas>44χρονων συναισθηματικο τραυμα-διακοπη επικοινωνιας με πρωτο του παιδι (απο αλλο γαμο)&#13;
+&#13;
+&#13;
+</traumas>
+          <infections> αντιβιωτικη κ αντιμυκητισιακη αγωγη peros για λοιμωξη (?)γεννητικων οργανων</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατερας 87χρ-(84χρ καρκινος δερματος)&#13;
+Μητερα 77χρ κφ&#13;
+&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>οχι ιδιαιτερες &#13;
+λιγο κρυωνει τα βραδυα όταν κουραζεται&#13;
+Γενικα καλη ανοχη στις θερμοκρασιακες αλλαγες&#13;
+</reactions>
+        <sleeping_habits>Μπρουμητα&#13;
+Ονειρα=δεν βλεπει&#13;
+Υπνος=αποκοιμιεται νωρις-αφυπνιση3πμ, 4πμ η 5πμ παιρνει υπνωτικο κ ξανακοιμαται λιγο. &lt;&lt;όταν εχει αγχος</sleeping_habits>
+        <food_modalities>DESIRE:  SWEETS 3, SALT1, SOUR1, LEMON33, VINEGAR, PEPPER3, FAT2, MEAT3,FISH4, EGG3, BREAD2, PASTA2,) &#13;
+FRUIT4&#13;
+AVERSION:KOYAKER&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Μηδενικη υπομονη,εντονη αμφιθυμια (διπολικη δ-χη?) -εκκρηξεις θυμου με φωνες κ αμφιθυμια 3&#13;
+Εντονος ψυχαναγκασμος-τακτοποιει συνεχεια τα πραγματα γιατι μονο ετσι ηρεμει 4</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Πιθανη γονοροια 41 ετων?</personal_medical_history>
+        <family_medical_history>καλη</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Δυσκολο περιστατικο λοψω εντονων Μ κ Ε συμπτωματων&#13;
+&#13;
+πυρετος 39οC  10 χρονια πριν</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>GENERALITIES BATHING sea amel.4</peculiar>
+        <intense>GEGENERALITIES BATHING sea amel.4&#13;
+MIND IMPATIENCE 4&#13;
+MIND IRRITABILITY 3&#13;
+MIND IRRESOLUTION 3&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND IRRITABILITY 3&#13;
+MIND IRRESOLUTION 3&#13;
+MIND IMPATIENCE 4&#13;
+MIND DISCONTENTED, displeased, dissatisfied, etc. daytime 3&#13;
+MIND MOANING, groaning 3&#13;
+MIND FASTIDIOUS 3&#13;
+GENERALITIES BATHING sea amel.4&#13;
+MOUTH TASTE metallic 3&#13;
+MOUTH TASTE metallic morning 1&#13;
+SLEEP POSITION abdomen,on 3&#13;
+SLEEP SLEEPLESSNESS 3&#13;
+SLEEP SLEEPLESSNESS anxiety,from 3&#13;
+EXTREMITIES RESTLESSNESSFeet 2&#13;
+EXTREMITIES RESTLESSNESS Feet night 3&#13;
+MIND ANXIETY 3&#13;
+MIND ANXIETYmotion amel.3&#13;
+MIND THOUGHTS persistent 3&#13;
+MIND MEMORY weakness of 3&#13;
+MIND ANGER, irascibility 3&#13;
+MOUTH INDENTED Tongue 2&#13;
+STOMACH ERUCTATIONS 2&#13;
+STOOL ODOR offensive 4&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>MED NUX-V ARS ANAC</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORRHINUM</remedy>
+        <potency>200CH</potency>
+        <regimen>ENA </regimen>
+        <other_notes>βελτιωση μετταλικης γευσης</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>OXI</conv_med_presc>
+      <lab_tests>
+        <desc>ΥΠΕΡΗΧΟΣ ΑΝΩ ΚΟΙΛΙΑΣ=ΧΟΛΟΛΙΘΙΑΣΗ&#13;
+χοληστερινη=210κφ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>25 ΜΕΡΕΣ ΜΕΤΑ ΚΡΙΣΗ ΧΟΛΟΛΙΘΙΑΣΗΣ ΜΕ ΕΝΤΟΝΟ ΠΟΝΟ ΕΠΙΓΑΣΤΡΙΚΟ.&#13;
+Mικρη βελτιωση στο αγχος,στην ευερεθιστοτητα,στη μετταλικη γευση </reaction>
+      <analysis>ΠΙΘΑΝΟΝ ΤΟ MED NA EINAI TO 2o φαρμακο</analysis>
+      <conclusion>Το προβλημα που ταλαιπωρει πολυ τον ασθενη αυτον τον καιρο ειναι η αναποφασιστικοτητα,ελατωση μνημης,κρισεις αμφιθυμιας</conclusion>
+      <repertorization>
+        <desc>MIND IRRITABILITY 2&#13;
+MIND IRRESOLUTION 3&#13;
+MIND IMPATIENCE 2&#13;
+MIND DISCONTENTED, displeased, dissatisfied, etc. daytime 3&#13;
+MIND MOANING, groaning 3&#13;
+MIND FASTIDIOUS 3&#13;
+GENERALITIES BATHING sea amel.3&#13;
+MOUTH TASTE metallic 2&#13;
+MOUTH TASTE metallic morning 1&#13;
+SLEEP POSITION abdomen,on 3&#13;
+SLEEP SLEEPLESSNESS 3&#13;
+SLEEP SLEEPLESSNESS anxiety,from 3&#13;
+EXTREMITIES RESTLESSNess2&#13;
+MIND ANXIETY 2&#13;
+MIND THOUGHTS persistent 2&#13;
+MIND MEMORY weakness of 3&#13;
+MIND ANGER, irascibility2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ANACARDIUM</remedy>
+        <potency>200CH</potency>
+        <regimen>ENA</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Αναφερει βελτιωση στην αναποφασιστικοτητα και στην αμφιθυμικη συμπεριφορα κατα30%</reaction>
+      <analysis>βελτιωση-περιμενω</analysis>
+      <conclusion>δεν δινω φαρμακο</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc>κφ&#13;
+χολολιθιαση</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>μετα 3μηνες απο ANAC 200CH αναφερει οτι ειχε βελτιωση 60% αλλα παλι λογω αντονου στρεσ στη δουλεια παρουσιαζει υποτροπη οπως παλια στις κρισεις αμφιθυμιας κ στην αναποφασιστικοτητα3 ελαττωμενη μνημη3</reaction>
+      <analysis>το φαρμακο εξαντληθηκε</analysis>
+      <conclusion>ΕΠΑΝΑΛΗΨΗ ΑΝΑC ΣΕ ΜΕΓΑΛΥΤΕΡΗ ΔΥΝΑΜΟΠΟΙΗΣΗ</conclusion>
+      <repertorization>
+        <desc>MIND IRRITABILITY 3 MIND IRRESOLUTION 3 MIND IMPATIENCE 3 MIND DISCONTENTED, displeased, dissatisfied, etc. daytime 3 MIND MOANING, groaning 3 MIND FASTIDIOUS 3 GENERALITIES BATHING sea amel.3 SLEEP SLEEPLESSNESS EXTREMITIES RESTLESSNess2 MIND ANXIETY3 MIND MEMORY weakness of 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΑΝΑC</remedy>
+        <potency>1M</potency>
+        <regimen>ENA XAΠΙ</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date></followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc>χολολιθιαση</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>βελτιωση</reaction>
+      <analysis>καλη</analysis>
+      <conclusion>δεν δινω φαρμακο</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>5</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

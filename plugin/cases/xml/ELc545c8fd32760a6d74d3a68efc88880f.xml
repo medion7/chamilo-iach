@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELc545c8fd32760a6d74d3a68efc88880f</ID>
+  <patient>
+    <case_date>2015-05-19 13:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Φ.Π.</patient_initials>
+    <age>4</age>
+    <circumstances>Κοριτσι σε παιδικο σταθμο</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ναυτια οποτε επιβαινει σε αυτοκινητο</origin>
+        <causative_factors>Παρουσιαστηκε πρωτη φορα σε ηλικια 10 μηνων οταν χρειαστηκε να πανε απο Θεσσαλονικη ως Χαλκιδικη με αυτοκινητο. Ως τοτε  σε μικρες αποστασεις στην πολη δεν υπηρχε ποτε προβλημα. Η μητερα δε μπορει να ανακαλεσει κατι συγκεκριμενο που να επηρεασε το παιδι</causative_factors>
+        <modalities>Ναυτια και εμετοι οταν επιβαινει σε αυτοκινητο ακομη και για αποσταση 100μ</modalities>
+        <occurrence_time>Οταν επιβαινει σε οχημα</occurrence_time>
+        <body_side>Ναυτια και εμετοι</body_side>
+        <appearence_frequency>Οταν επιβαινει σε οχημα</appearence_frequency>
+        <pain_desc>ανευ πονου</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ναυτια σε οχημα </conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παιδικοι εμβολιασμοι</therapies_vaccination>
+          <traumas>νεογνικη ομφαλοκηλη</traumas>
+          <infections>ουρολοιμωξη σε ηλικια 3 ετων</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ανευ ιστορικου οι γονεις</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>οχι</reactions>
+        <sleeping_habits>ΔΕ ή ΑΠ πλαι, πολυ σπανια μπρουμητα</sleeping_habits>
+        <food_modalities>Επιθυμει φακες+++, κρεας++, γλυκα+,μακαρονια+++&#13;
+Απεχθανεται φρουτα+++.Τρωει αυγα αλλα δε τα λαχταραει.</food_modalities>
+        <menstruation>ανευ</menstruation>
+      </physical>
+      <mental_emotional>Ευχαριστο κοριτσακι, χαμογελαστο, απανταει ευκολα σε οτι ρωτηθει.&#13;
+Η μητερα αναφερει οτι θυμωνει ευκολα αν κατι την παει "στραβα" αλλα της περναει αμεσως.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Υγιες κοριτσι με φυσιολογικη αναπτυξη το οποιο αντιμετωπιζει σοβαρο προβλημα ναυτιας καθε φορα που μπαινει σε αυτοκινητο+++. Μολις το οχημα αρχισει να κινειται, το παιδι χλωμιαζει,ιδρωνει και κανει εμετους+++ απο 10 μηνων.Ολο τον προηγουμενο χειμωνα ταλαιπωρηθηκε με ιωσεις(ηταν η πρωτη του χρονια σε παιδικο σταθμο). Ανεβαζε πυρετους πολυ υψηλους ως 41 για τους οποιυς πηρε παρακεταμολη, Ponstan , Algofren.&#13;
+Οταν ηταν 3 ετων ακριβως ,λιγες μερες μετα τα γεννεθλια της επαθε ουρολοιμωξη(Proteus mirabilis σε καλλιεργεια) για την οιοια ελαβε μονο ομοιοπαθητικη θεραπεια με Cantharis 1M σε τρεις δοσεις (πρωι, μεσημερι, βραδυ) για μια ημερα και θεραπευθηκε με καθαρη γενικη ουρων τρεις ημερες μετα. &#13;
+Ωσ νεογνο ειχε συγγενη ομφαλοκηλη που εκλεισε μονη της.&#13;
+Ει΄ναι πεισματαρα, θυμωνει αν κατι της παει στραβα αλλα αν της μιλησεις ,της εξηγησεις, καταλαβαινει και ησυχαζει.&#13;
+Υπνος: κφ ειτε απο το ενα πλευρο ειτε απο το αλλο, σπανιως μπρουμυτα&#13;
+Ειναι ζωηρη αλλα δειλη σε νεα πραγματα&#13;
+Επιθυμει φακες+++, κρεας++, γλυκα+,μακαρονια+++&#13;
+Απεχθανεται φρουτα+++.Τρωει αυγα αλλα δε τα λαχταραει.&#13;
+Δεν ιδρωνει ιδιαιτερα στον αυχενα.&#13;
+Ειναι φιλικη με τα αλλα παιδια, θα μοιραστει τα πραγματα της αν της το ζητησεις.&#13;
+Ναυτια αισθανεται μονο μεσα σε αυτοκινητο.Αν χορευει η ιδια και γυρναει γυρω γυρω ή αν την γυριζει καποιος στην αγκαλια του ή μεσα στη θαλασσα, απλα χαιρεται και γελαει, της αρεσει. </personal_medical_history>
+        <family_medical_history>ανευ</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Cocculus</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Επιθυμει φακες+++, κρεας++, γλυκα+,μακαρονια+++&#13;
+Απεχθανεται φρουτα+++.Τρωει αυγα αλλα δε τα λαχταραει.</peculiar>
+        <intense>Ναυτια αισθανεται μονο μεσα σε αυτοκινητο.Αν χορευει η ιδια και γυρναει γυρω γυρω ή αν την γυριζει καποιος στην αγκαλια του ή μεσα στη θαλασσα, απλα χαιρεται και γελαει, της αρεσει. </intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Cocculus</remedies_differentiation>
+      <prescription>
+        <remedy>Cocculus</remedy>
+        <potency>1M</potency>
+        <regimen>1caps εφαπαξ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-20 12:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πηγε ως τη Χαλκιδικη χωρις να κανει εμετο</reaction>
+      <analysis>πολη καλη</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-12 13:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν εχει ξαναζαλιστει σε οχημα</reaction>
+      <analysis>πολυ καλη</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

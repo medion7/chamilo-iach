@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4149e9576a6d0297b00e953b23466065</ID>
+  <patient>
+    <case_date>2015-01-08 11:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>XT</patient_initials>
+    <age>78</age>
+    <circumstances>Δύο παιδιά, παντρεμένος, συνταξιούχος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Άλγος στα γόνατα, κυρίως το δεξιό από τριετίας αλλά επιδείνωση τους τελευταίους δύο μήνες.&#13;
+</origin>
+        <causative_factors>Καταπόνηση αρθρώσεων λόγω επαγγέλματος.</causative_factors>
+        <modalities>Βελτιώνεται με την ΑΝΑΠΑΥΣΗ και το ΞΗΡΟ ΚΑΙΡΟ , επιδεινώνεται με την ΚΙΝΗΣΗ, ΟΡΘΟΣΤΑΣΙΑ και την ΥΓΡΑΣΙΑ.</modalities>
+        <occurrence_time>Επιδεινώνεται τους χειμωνιάτικους υγρούς μήνες.&#13;
+Βελτιώνεται το καλοκαίρι.</occurrence_time>
+        <body_side>Γόνατα κυρίως δεξιό.</body_side>
+        <appearence_frequency>Περίοδοι εξάρσεων και υφέσεων.</appearence_frequency>
+        <pain_desc>ΠΡΩΙΝΗ ΔΥΣΚΑΜΨΙΑ γονάτων κυρίως δεξιού.&#13;
+Όταν περπατάει χρειάζεται να σταματήσει και να καθήσει αρκετές φορές. </pain_desc>
+        <complaint_ext>Όχι.</complaint_ext>
+        <other_complaints>Αρρυθμία (λαμβάνει Ρυθμονόρμ).&#13;
+Δυσκοιλιότητα κατά περιόδους έντονη (τον βοηθάει η κατανάλωση φρούτων).</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΑΛΓΟΣ ΣΤΑ ΓΟΝΑΤΑ-ΔΥΣΚΟΛΙΑ ΣΤΗ ΒΑΔΙΣΗ&#13;
+Αντιαρρυθμικά φάρμακα.</conv_med_presc>
+        <lab_tests>
+          <desc>Γενική αίματος - ούρων πρό ενος μηνός χωρίς παθολογικά ευρήματα.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Όχι.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έρπης ζωστήρας το 1987, χολοκυστεκτομή το 1994.&#13;
+Αλλεργική ρινίτιδα. (αντισταμινικά- κορτιζονούχα spray)</therapies_vaccination>
+          <traumas>Όχι.</traumas>
+          <infections>Δεν γνωρίζω.</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα απεβίωσε μετά Α.Ε.Ε. πατέρας λόγω φυσιολογικού γήρατος.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Σε ΥΓΡΟ και ΨΥΧΡΟ καιρό αναφέρει χαρακτηριστικό ρίγος σώματος.&#13;
+Επιδείνωση των αρθριτικών προβλημάτων σε ΥΓΡΟ και ΨΥΧΡΟ καιρό.</reactions>
+        <sleeping_habits>Κοιμάται συνήθως ύπτια και στο ΔΕΞΙΟ πλευρό αλλά αργεί να τον πάρει ο ύπνος από την στιγμή που θα πέσει στο κρεβάτι. Κοιμάται αρκετές ώρες, και δεν ξυπνάει πριν τις εννέα το πρωί. Πρωινή άσχημη διάθεση. </sleeping_habits>
+        <food_modalities>Αγαπά πολύ τα ΟΣΠΡΙΑ, τα λαχανικά (γιατί τον βοηθάνε στο έντερο) και το ξίδι.&#13;
+Απεχθάνεται το κοτόπουλο και τα καλαμάρια.&#13;
+ΓΛΥΚΑ ΔΕΝ ΤΟΥ ΑΡΕΣΟΥΝ, θα φάει αν τύχει.&#13;
+Δίψα φυσιολογική για κρύο νερό.</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Δεν έχει συμπτώματα από το νοητικό επίπεδο.&#13;
+Είναι ΠΡΟΣΚΟΛΛΗΜΕΝΟΣ στη γυναίκα του που την αγαπά και την φροντίζει πολύ.&#13;
+Έχει κολλημένες ιδέες και μερικές φορές εμμονές με κάποια θέματα.&#13;
+Έχει άγχος με τα παιδιά του, ΑΝΑΓΚΗ να τα ΣΥΜΒΟΥΛΕΥΕΙ και να τους φαίνεται χρήσιμος.&#13;
+Θυμώνει αν τον αμφισβητήσεις. ΚΑΤΑΝΑΓΚΑΣΤΙΚΟΣ και πολλές φορές ΤΕΛΕΤΟΥΡΓΙΚΟΣ. </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δεν κάνει εμπύρετα επεισόδια, δεν θυμάται πότε ήταν το τελευταίο εμπύρετο.&#13;
+Έχει χρόνια σπαστική κολίτιδα από δεκαετίας (διερευνήθηκε και δεν διαπιστώθηκαν στενώσεις εντέρου ή άλλες ανατομικές αλλοιώσεις). Βελτιώνεται με τη λήψη ορισμένων τροφών.&#13;
+Αρθριτικά προβλήματα.</personal_medical_history>
+        <family_medical_history>Από μητέρα προδιάθεση για μυοσκελετικές παθήσεις και αθηρωμάτωση.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Εξαφανίστηκαν τα οξέα και υπάρχουν κάποια χρόνια προβλήματα.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Έχει κολλημένες ιδέες. Διαβάθμιση 3 &#13;
+Θυμώνει αν τον αμφισβητήσεις. Διαβάθμιση 3 </peculiar>
+        <intense>Αδυναμία στο περπάτημα. Διαβάθμιση 3 (σταματάει πολλές φορές σε μικρές αποστάσεις).&#13;
+Είναι προσκολλημένος στην γυναίκα του. Διαβάθμιση 3 </intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Lycop. , Phosp. , Call Corb, Rusfo-X , Craph , Chellidonum</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Rus-tox, Chelidonium.</remedies_differentiation>
+      <prescription>
+        <remedy>Rus-tox.</remedy>
+        <potency>200 ch</potency>
+        <regimen>Ένα χάπι εφάπαξ.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-22 07:00:00</followup_date>
+      <conv_med_presc>Αντιαρρυθμικά φάρμακα. </conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ημερομηνία πρώτου Followup : 17-02-2015, ώρα : 17:00.&#13;
+Μικρή βελτίωση στο πρόβλημα με τα γόνατα. Χαρακτηριστικά λέει ότι το πρωί που ξυπνάει αισθάνεται την ίδια πρωινή δυσκαμψία, όταν περπατάει λύνονται κάπως οι αρθρώσεις αλλά στα λίγα μέτρα πρέπει  πάλι να σταματήσει και να καθήσει. Δεν θέλει να περπατά και μένει πολλές ώρες καθισμένος.&#13;
+Αναφέρει απέχθεια στο γάλα και έντονη επιθυμία για τυρί.</reaction>
+      <analysis>Δεν υπάρχει βελτίωση στο σωματικό επίπεδο ούτε στο ενεργειακό (απεχθάνεται το περπάτημα και τις περιττές κινήσεις).</analysis>
+      <conclusion>Μάλλον το φάρμακο δεν ήταν το σωστό.&#13;
+Ξαναπήρα το ιστορικό πάλι από την αρχή και έδωσα άλλο ομοιοπαθητικό φάρμακο.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Chelidonium.</remedy>
+        <potency>200 ch</potency>
+        <regimen>Ένα χάπι εφάπαξ.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-22 07:00:00</followup_date>
+      <conv_med_presc>Αντιαρρυθμικά φάρμακα.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Υπάρχει σαφής βελτίωση στο σωματικό επίπεδο.&#13;
+Παραμένει η πρωινή δυσκαμψία αλλά έχει περισσότερη διάθεση για περπάτημα  και βαδίζει μεγαλύτερες αποστάσεις μέχρι να χρειαστεί να καθήσει.&#13;
+Βελτιώθηκε η δυσκοιλιότητα (καθημερινή κένωση εντέρου).&#13;
+Εξακολουθεί να κοιμάται πολλές ώρες την ημέρα αλλά ξυπνάει πιό ξεκούραστος και με καλύτερη διάθεση. </reaction>
+      <analysis>Βελτίωση στο σωματικό επίπεδο και στο ενεργειακό άρα το φάρμακο ήταν σωστό.</analysis>
+      <conclusion>Δεν δίνουμε άλλο φάρμακο και περιμένουμε.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Περιμένουμε.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

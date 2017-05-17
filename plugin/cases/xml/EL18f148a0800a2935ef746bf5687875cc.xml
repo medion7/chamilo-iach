@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL18f148a0800a2935ef746bf5687875cc</ID>
+  <patient>
+    <case_date>2014-09-10 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α.Π</patient_initials>
+    <age>58</age>
+    <circumstances>Η Α.Π είναι παντρεμένη και έχει 2 κόρες. Εργάζεται στην προσωπική της μικρή επιχείρηση. </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Η πρόπτωση της μήτρας στο σημερινό βαθμό έγινε σταδιακά. Έγινε αισθητή ως σύμπτωμα προ δεκαετίας, και πλέον η μήτρα είναι ορατή στην είσοδο του κόλπου.</origin>
+        <causative_factors>Σύμφωνα με τον γυναικολόγο της οφείλεται στους 2 τοκετούς και στο γεγονός ότι δεν γυμνάζεται.</causative_factors>
+        <modalities>&lt; Κρύο &#13;
+&gt; Καθιστή με σταυρωμένα πόδια</modalities>
+        <occurrence_time>Δεν έχει εφαρμογή αυτό το πεδίο.</occurrence_time>
+        <body_side>Υπογάστριο</body_side>
+        <appearence_frequency>Συνεχής </appearence_frequency>
+        <pain_desc>Δεν έχει εφαρμογή</pain_desc>
+        <complaint_ext>Δεν έχει εφαρμογή</complaint_ext>
+        <other_complaints>Συχνές ουρολοιμώξεις.(3)&#13;
+ Απώλεια ούρων όταν βήχει, όταν γελάει,όταν κινείται έντονα(2)&#13;
+Πέτρες στα νεφρά.(3)&#13;
+Οσφυαλγία(2), &gt; όταν ξαπλώνει.&#13;
+Τυμπανισμός(2)&#13;
+ Ινομυώματα μήτρας(2)&#13;
+Τριχόπτωση(2)</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Πρόπτωση μήτρας.Η θεραπευτική αγωγή που προτείνεται από το γυναικολόγο της είναι η υστερεκτομή.</conv_med_presc>
+        <lab_tests>
+          <desc>Η διάγνωση έχει τεθεί από τον γυναικολόγο κλινικά.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβόλια : MMR, SABIN, δαμαλισμός.&#13;
+Αντιβιώσεις per os  και ενδοφλέβιες</therapies_vaccination>
+          <traumas>Οι γονείς χώρισαν κατά τη νηπιακή της ηλικία.Η Α.Π ανατράφηκε από την μητέρα της , τη γιαγιά και τον αδελφό της μητέρας της. Γνώρισε τον πατέρα της όταν έγινε 18 χρονών.</traumas>
+          <infections>8 ετών : κοκκύτης. &#13;
+&#13;
+Δεν κάνει υψηλούς πυρετούς.</infections>
+          <other>17 ετών νοσηλεύτηκε με σοβαρή ουρολοίμωξη και της χορηγήθηκε ενδοφλέβια αντιβίωση.&#13;
+18 ετών νοσηλεύτηκε λόγω οξείας  φλεγμονής της σκωληκοειδούς αποφύσεως και χειρουργήθηκε.&#13;
+Προ πενταετίας αφαίρεσε πολύποδα τραχήλου μήτρας.&#13;
+Η μήτρα παρουσιάζει πολλά ινομυώματα.(2)&#13;
+ Προ πενταετίας αφαίρεσε πολύποδα τραχήλου μήτρας.&#13;
+ Προ τριετίας αφαίρεσε χηλοειδές μεταξύ των μαστών.&#13;
+ Συχνές ουρολοιμώξεις.(3)&#13;
+ Από το 2005 ουρεί συχνά πέτρες &lt;&lt; μπορεί και 3 φορές το χρόνο&gt;&gt; με κολικούς.</other>
+        </personal>
+        <family>
+          <diseases>Η μητέρα είχε διαγνωστεί με ca in situ τραχήλου μήτρας και χειρουργήθηκε.  Απεβίωσε 10 χρόνια αργότερα από ειλεό και διάτρηση  εντέρου λόγω κοπρόστασης με συνεπακόλουθη περιτονίτιδα.&#13;
+Ο πατέρας ζεί . Δεν υπάρχουν στοιχεία για το ιατρικό ιστορικό του.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει.  &lt; Κρύο</reactions>
+        <sleeping_habits>Κοιμάται καλά και ξυπνάει καλά.</sleeping_habits>
+        <food_modalities>Επιθυμία για γλυκά.(3)&#13;
+Απέχθεια στα ξινά . ( 2 )</food_modalities>
+        <menstruation>Προ τριετίας ζήτησε από το γυναικολόγο της και προέβη σε φαρμακευτική εμμηνόπαυση " γιατί δεν άντεχε άλλο να έχει περίοδο" .</menstruation>
+      </physical>
+      <mental_emotional>Δεν αισθάνεται ευχαριστημένη από τη ζωή της.(1).Δεν εχει χαρά. Κατάθλιψη.(2)"&#13;
+ Ουδέποτε τρελλαινόταν για το σεξ. Εδώ και πολλά χρόνια την αφήνει αδιάφορη και πιά δεν το θέλει καθόλου."(4) "&#13;
+Αγαπά τα παιδιά της αλλά ποτέ δεν τα ντάντευε ιδιαίτερα." Ηταν μάλλον ψυχρή απέναντί τους.(2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η ΑΠ παρουσιάζει συμπτώματα τόσο από το σωματικό όσο και από το ψυχικό-νοητικό  επίπεδο.(Κατάθλιψη,ψυχρή απέναντι στα παιδιά της,αδιαφορία για το σεξ).Ενεργειακά αισθάνεται σχετικά καλά το πρωι.Η ενέργεια της , από το απόγευμα και μετά μειώνεται.&#13;
+&#13;
+Επειδή το φάρμακο -Sepia-  είναι πολύ καθαρό αναμένεται καλή εξέλιξη.&#13;
+&#13;
+H ΑΠ έχει πάνω από 20 χρόνια να κάνει υψηλό πυρετό.Με τη χορήγηση του ομοιοπαθητικού φαρμάκου αναμένεται κατ΄αρχήν η ΑΠ να ανέλθει επίπεδο υγείας και σε εμφανιζόμενο οξύ να παρουσιάσει υψηλό πυρετό.&#13;
+&#13;
+Εχει λάβει μεγάλες ποσότητες αντιβίωσης εξ αιτίας κυρίως του ιστορικού των ουρολοιμώξεων και έχουν καταπιεστεί τα συμπτώματα.&#13;
+&#13;
+Η πρόπτωση μήτρας στον τέταρτο βαθμό είχε μια σταδιακή εξέλιξη η, οποία, με τη χορήγηση του ομοιοπαθητικού φαρμάκου, αναμένεται να μειωθεί σταδιακά και στο βαθμό που ο οργανισμός έχει τη δυνατότητα να το κάνει.&#13;
+&#13;
+Η ΑΠ ,σύμφωνα με το ιστορικό της, έχει προβλήματα με το ουροποιητικό σύστημα από την εφηβεία της. Αναμένεται να μειωθεί ο σχηματισμός των λιθων και τα επακόλουθα συμπτώματα (ουρολοιμώξεις, κολικοί).&#13;
+ </personal_medical_history>
+        <family_medical_history>Υπάρχει ιστορικό ca τραχήλου μήτρας καθώς και διαταραχή της λειτουργίας του εντέρου από τη μητέρα. &#13;
+&#13;
+Δεν υπάρχουν στοιχεία για τον πατέρα.&#13;
+&#13;
+Η γιαγιά 'επασχε από ΣΔ.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Δεδομένου ότι  η ΑΠ δεν κάνει πλέον υψηλούς πυρετούς  και έχει αρκετά συχνές ουρολοιμώξεις, δεν ανήκει στις 2 πρώτες ομάδες .&#13;
+Το γεγονός όμως ότι ο ύπνος είναι καλός, το ενεργειακό της επίπεδο βρίσκεται σε σχετικά καλό επίπεδο, διότι μπορεί και εργάζεται και το  πρωι είναι καλά, παραπέμπουν στα ανώτερα στρώματα της τρίτης ομάδας , επίπεδο 7. &#13;
+Τα ανωτέρω στοιχεία συν το ότι το φάρμακο είναι καθαρό συντελούν ώστε να δοθεί αυτό να δοθεί σε δυναμοποίηση 200CH και 1Μ.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Πρόπτωση μήτρας.( 4 )&#13;
+Πέτρες στα νεφρά ( 3)&#13;
+Ουρολοιμώξεις (3) &#13;
+Απέχθεια στο σεξ( 4 )&#13;
+Κατάθλιψη (2)&#13;
+Τριχόπτωση (2)&#13;
+Απώλεια ούρων όταν βήχει,όταν γελάει , όταν τρέχει (2)&#13;
+Τυμπανισμός(1)&#13;
+Τυμπανισμός (1)&#13;
+Δεν επιθυμεί παρέα στο σπίτι (2)&#13;
+Ανικανοποίητη (1)&#13;
+Απαθής προς τους δικούς της  (1)&#13;
+Ινομυώνατα μήτρας (2)&#13;
+Λουμπάγκο (2)&gt;ξαπλωμένη (3)&#13;
+&lt;απόγευμα(2),&lt; κρύο (2)&#13;
+&gt;κίνηση (1), &gt; ζέστη (2)&#13;
+Επιθυμία για γλυκά(3)&#13;
+Απέχθεια στα ξινά(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Απρίλιος  2014 ­ &#13;
+&#13;
+Σύμπτωμα- Βαθμός &#13;
+&#13;
+MIND ­ COMPANY ­ aversion to ­ amel, when alone 2&#13;
+ MIND ­ DISCONTENTED, displeased, dissatisfied, etc. 1&#13;
+ MIND ­ INDIFFERENCE, apathy, etc. ­ loved ones, to 1&#13;
+ MIND ­ SADNESS, mental depression 2 &#13;
+HEAD ­ HAIR ­ falling 2 &#13;
+ABDOMEN ­ FERMENTATION 1&#13;
+ RECTUM ­ FLATUS 1 &#13;
+BLADDER ­ URINATION ­ involuntary ­ cough, during 2&#13;
+ BLADDER ­ URINATION ­ involuntary ­ exertion, during 2&#13;
+ BLADDER ­ URINATION ­ involuntary ­ laughing 2 &#13;
+KIDNEYS ­ INFLAMMATION (Nephritis) 3 &#13;
+URINE ­ SEDIMENT ­ renal calculi 3 &#13;
+GENITALIA­FEMALE ­ COITION (SEX) ­ aversion to  4 &#13;
+GENITALIA­FEMALE ­ PROLAPSUS ­ uterus 4&#13;
+ GENITALIA­FEMALE ­ TUMORS ­ Uterus ­ fibroid (Myoma) 2&#13;
+ BACK ­ PAIN ­ Lumbar region (Lumbago) 2&#13;
+ BACK ­ PAIN ­ Lumbar region (Lumbago) ­ lying ­ amel. 3&#13;
+ GENERALITIES ­ EVENING ­ agg. 2 &#13;
+GENERALITIES ­ COLD ­ agg. 2&#13;
+ GENERALITIES ­ CROSSING OF LIMBS ­ amel. 2 &#13;
+GENERALITIES ­ FOOD and DRINKS ­ sour food, acids ­ aversion 2 &#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3 &#13;
+GENERALITIES ­ MOTION ­ amel. 1&#13;
+ GENERALITIES ­ WARM ­ amel. 2&#13;
+Συνταγογράφηση : Sepia Φάρμακο /&#13;
+&#13;
+ Σχόλιο: Sepia ­ 1η ημέρα  200CH , 2η ημέρα 1M,  2μήνες 12CH&#13;
+&#13;
+Σύμπτωμα- Βαθμός &#13;
+&#13;
+MIND ­ COMPANY ­ aversion to ­ amel, when alone 2&#13;
+ MIND ­ DISCONTENTED, displeased, dissatisfied, etc. 1&#13;
+ MIND ­ INDIFFERENCE, apathy, etc. ­ loved ones, to 1&#13;
+ MIND ­ SADNESS, mental depression 2 &#13;
+HEAD ­ HAIR ­ falling 2 &#13;
+ABDOMEN ­ FERMENTATION 1&#13;
+ RECTUM ­ FLATUS 1 &#13;
+BLADDER ­ URINATION ­ involuntary ­ cough, during 2&#13;
+ BLADDER ­ URINATION ­ involuntary ­ exertion, during 2&#13;
+ BLADDER ­ URINATION ­ involuntary ­ laughing 2 &#13;
+KIDNEYS ­ INFLAMMATION (Nephritis) 3 &#13;
+URINE ­ SEDIMENT ­ renal calculi 3 &#13;
+GENITALIA­FEMALE ­ COITION (SEX) ­ aversion to  4 &#13;
+GENITALIA­FEMALE ­ PROLAPSUS ­ uterus 4&#13;
+ GENITALIA­FEMALE ­ TUMORS ­ Uterus ­ fibroid (Myoma) 2&#13;
+ BACK ­ PAIN ­ Lumbar region (Lumbago) 2&#13;
+ BACK ­ PAIN ­ Lumbar region (Lumbago) ­ lying ­ amel. 3&#13;
+ GENERALITIES ­ EVENING ­ agg. 2 &#13;
+GENERALITIES ­ COLD ­ agg. 2&#13;
+ GENERALITIES ­ CROSSING OF LIMBS ­ amel. 2 &#13;
+GENERALITIES ­ FOOD and DRINKS ­ sour food, acids ­ aversion 2 &#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3 &#13;
+GENERALITIES ­ MOTION ­ amel. 1&#13;
+ GENERALITIES ­ WARM ­ amel. 2&#13;
+&#13;
+1ο φάρμακο Sepia&#13;
+2o   &gt;&gt;        Lycopodium&#13;
+3ο    &gt;&gt;        Calc. Carbonica&#13;
+4o    &gt;&gt;        Nat.Muriaticum&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>H AΠ θέλει να είναι μόνη στο σπίτι. Εξω θέλει να βλέπει κόσμο και να έχει παρέες. Εξ αυτού σύμφωνα και με την metadata ανάλυση το φάρμακο απομακρύνεται από το Nat Mur.&#13;
+.Εξ άλλου η ΑΠ δεν είναι τόσο εύθικτη, δεν της αρέσει τόσο το αλάτι, δεν έχει ιδιαίτερο θέμα με τον ήλιο όσο θα περίμενε καποιος από ένα Nat Mur.Εχει όμως πιθανότητες για επόμενο φάρμακο.&#13;
+Οσον αφορά το 2ο φάρμακο , το Lycopodium, διαπιστώνουμε ότι έχει συμτώματα από το ΓΕΣ όπως ο τυμπανισμός που χαρακτηρίζει το φάρμακο αυτό καθώς επίσης και μια κάποια ντροπή, ενδεχομένως δειλία, ακόμη παρουσιάζει ουρολοιμώξεις  και θέλει τα γλυκά όμως η απέχθεια της ΑΠ για το σεξ είναι εντελώς ασύμβατη με το Lyc. Παρόλαυτά το Lyc  μπορεί να εμφανιστεί ως επόμενο φάρμακο.Τέλος,η μεγάλη αγάπη της για τα γλυκά καθώς και το γεγονός ότι κρυώνει αρκετά παραπέμπουν στη calc.carb. Όμως η πρόπτωση μήτρας και η απέχθεια στο σεξ και μάλιτα στον 4ο βαθμό απομακρύνουν το φάρμακο.&#13;
+&#13;
+Τουναντίον το σύνολο των συμπτωμάτων μεγάλης έντασης&#13;
+ Πρόπτωση μήτρας ( 4 ) Απέχθεια στο σεξ( 4 ) Πέτρες στα νεφρά ( 3) Ουρολοιμώξεις (3) Επιθυμία για γλυκά.(3) παραπέμπουν ευθέως στη Sepia.</remedies_differentiation>
+      <prescription>
+        <remedy>Sepia</remedy>
+        <potency>200CH / 1M /12CH</potency>
+        <regimen>1η ημέρα 200CH, 2η ημέρα 1M,2 μήνες 12CH </regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-03-12 12:00:00</followup_date>
+      <conv_med_presc>Η ΑΠ λαμβάνει cranberry  για καθαρισμό του ουροποιητικού.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πέντε μήνες  μετά Φεβρουάριος 2015&#13;
+&#13;
+ H ΑΠ έπαθε ίωση με πυρετό 38,5. Μου είπε χαρακτηριστικά- ίσως με κάποια υπερβολή-αλλά αυτή ακριβώς η υπερβολή δείχνει την έκπληξη της και την αλήθεια των λόγων της &lt;&lt; Τριάντα χρόνια είχα να κάνω πυρετό. Δε θυμάμαι να έκανα ποτέ πάνω από 37,4 το πολύ&gt;&gt;. Για την αντιμετώπιση του οξέος χορηγήθηκε 1δόση Sepia 200CH.&#13;
+&#13;
+Εξι μήνες μετά:&#13;
+&#13;
+Αισθάνεται&lt;&lt; τη μήτρα να μην είναι τόσο έξω&gt;&gt;.Περπατά καλλίτερα αλλά κάποιες φορές όταν στρεσσάρεται και κουράζεται πολύ, είναι όλα χειρότερα,η πρόπτωση, η οσφυαλγία και &lt;&lt;πλακώνει&gt;&gt; τα γλυκά.  &#13;
+Η ΑΠ ούρησε εναν λίθο, πιο γρήγορα και εύκολα από ότι παλαιότερα. Δεν έκανε λοίμωξη. Δεν πήρε αντιβίωση.&#13;
+&#13;
+Η κατάθλιψη είναι λιγότερο έντονη,Απέχθεια στα ξινά (2). .Πρόπτωση μήτρας (3)  &#13;
+&#13;
+Οχι ουρολοιμώξεις.&#13;
+&#13;
+O τυμπανισμός λίγο χειρότερα.&#13;
+&#13;
+</reaction>
+      <analysis> Το φάρμακο ήταν σωστό. Η ΑΠ ανέβηκε επίπεδο υγείας και ανήκει πλέον στη δεύτερη ομάδα, επίπεδο 6. Αυτό προκύπτει κατά βάση από τον πυρετό που ενεφάνισε κατά την ίωση. Αρα το ενεργειακό της επίπεδο είναι βελτιωμένο.&#13;
+Αναφέρει επίσης βελτίωση βασικών συμπττωμάτων του φαρμάκου.&#13;
+Τέλος αναφέρει ότι ο τυμπανισμός είναι λίγο χειρότερα.&#13;
+</analysis>
+      <conclusion>Το φάρμακο δρα και δεν το αλλάζουμε.Χορηγώ άλας Schussler</conclusion>
+      <repertorization>
+        <desc>Χορηγώ άλας Schussler</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Kali Sulphuricum</remedy>
+        <potency>6x</potency>
+        <regimen>2pils κάθε πρωί.</regimen>
+        <other_notes>Eπειδή το follow up #2 δε λειτουργεί, και 2 φορές έδωσα το κείμενο για αποθήκευση και το σύστημα δεν το κράτησε,και επειδή  και το καλοκαίρι είχαμε προβλήματα γενικότερα με την αποθήκευση ,  όπου χάναμε ώρες ολόκληρες να γράψουμε και το σύστημα δεν εσωζε, σημειώνω εδώ τη συνέχει.α &#13;
+&#13;
+10 Ιουλίου 2015 &#13;
+&#13;
+H πρόπτωση μήτρας 50ο/ο καλλίτερα,. Μπορεί να περπατά άνετα ακόμη και να τρέχει χωρίς να το σκέφτεται.&#13;
+&#13;
+Δεν είχε επεισόδιο ουρολοίμωξης, Χάνει ούρα αλλά λιγότερο.&#13;
+&#13;
+Εχει μια δυσαρέσκεια αλλά &lt;&lt;δεν θα έλεγε ότι τη πιάνει κατάθλιψη&gt;&gt;.Θυμώνει περισσότερο.&#13;
+&#13;
+Εξακολουθεί να θέλει πολύ τα γλυκά αλλά &lt;&lt;κρατιέται&gt;&gt;.Τρώει μόνο ένα την ημέρα. Συνεχιζει να μη θέλει τα ξινά το ιδιο.&#13;
+&#13;
+Κάπου-κάπου αισθάνεται να αποβάλλει &lt;&lt;κάτι&gt;&gt; στα ούρα. Ο νεφρολόγος αναφέρει ψαμμίαση.&#13;
+&#13;
+Ο τυμπανισμός συνεχίζει αμείωτος με τάση χειροτέρευσης.&#13;
+&#13;
+Τελικά δε θέλει  τον άντρα της. Μ΄αυτόν δε θέλει να κάνει σεξ.Απέχθεια στο σεξ (3)&#13;
+&#13;
+Τα όποια συμπτώματα χειροτερεύουν από τις 4μμ και μετά.&#13;
+&#13;
+Αναλυση&#13;
+&#13;
+Υπάρχει μία σαφής τάση να εκδηλωθεί Lycopodium που όπως είδαμε από την πρώτη συνταγογράφηση ακολουθούσε ως  φάρμακο σε αρκετή απόσταση όμως από το πρώτο.&#13;
+Επειδή παρόλαυτά δεν είναι ακόμη καθαρό συνεχίζουμε για άλλους 3 μήνες με &#13;
+Κali Sulphuricum 6x.&#13;
+&#13;
+</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-07-10 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

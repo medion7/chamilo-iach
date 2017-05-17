@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4915557100bec1742869b2dc52ed0229</ID>
+  <patient>
+    <case_date>2015-03-13 11:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Γ.Ρ.</patient_initials>
+    <age>4</age>
+    <circumstances>Αγόρι, 2ο παιδί της οικογένειας,  πηγαίνει προνήπιο,   14kg,  0,93ύψος,  </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Όταν κρυολογεί, κάνει υψηλό πυρετό3.  Τελευταία, μετά το κρυολόγημα, παραμένει έντονος βήχας2, με βρογχόσπασμο.   Παίρνει Αerolin, Becotide.   </origin>
+        <causative_factors>-</causative_factors>
+        <modalities>&lt; ο βήχας με θερμοκρασιακές αλλαγές2</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>2-3 φορές τον τελευταίο  χρόνο,  Τώρα βήχει 10 ημέρες</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Επίσταξη, 3 φορές τον τελευταίο χρόνο.  &#13;
+Αλλεργική επιπεφικίτιδα την ΄Ανοιξη2</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Aerolin,  Becotide</conv_med_presc>
+        <lab_tests>
+          <desc>κ.φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει κάνει όλους τους απαραίτητους εμβολιασμούς.</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>2 σφραγίσματα.</other>
+        </personal>
+        <family>
+          <diseases>Ελεύθερο ιστορικό.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται1,  αλλά έχει κρύα πόδια2.   </reactions>
+        <sleeping_habits>Ύπνος καλός3.    Μπρούμητα2 και στο πλάι1</sleeping_habits>
+        <food_modalities>des:γλυκά2, παγωτά3,  σοκολάτα2,  αλμυρά2, παγωμένο νερό3&#13;
+av.:γιαούρτι2</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Φοβάται το σκοτάδι2      Φοβάται τα φαντάσματα2     Φοβάται τα αστραπόβροντα2   Πηγαίνει στο κρεβάτι των γονέων του1. Κάνει εύκολα παρέες2. Μοιράζεται τα παιχνίδια του με φίλους3. Θέλει αγκαλιές και  χάδια3.  Είναι κοινωνικός3, φιλικός3.   Επιζητεί να είναι το επίκεντρο2.  Νευρικός2, αλλά του περνάει εύκολα2.  </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Γενικά ,γερό παιδί.Όταν κρυολογεί, ο οργανισμός του ανταπεξέρχεται μόνος του. Κάνει πυρετό 38,5 -39 .και  δεν χρειάζεται ,συνήθως αντιβίωση.</personal_medical_history>
+        <family_medical_history>Γονείς, χωρίς ιδιαίτερες προδιαθέσεις</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Γερός οργανισμός.  Κάνει οξέα, με υψηλό πυρετό.   Περιμένω να βοηθήσει, η θεραπεία και θα δώσω, υψηλή δυναμοποίηση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Kοινωνικός3,   φιλικός3,    des:παγωτά3, παγωμένα3, γλυκά2,   θέλει παρέα2,  </intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Mind - company - desire for3&#13;
+Mind -  fear - ghosts of2&#13;
+Mind - fear - thunderstorm, of2&#13;
+Mind  - restlessness, nervousness2&#13;
+Mind - sympathetic3&#13;
+Ear - inflamation1&#13;
+Nose - epistaxis - children2&#13;
+Caugh - daytime - night,end2&#13;
+Caugh -  temperature, change of3&#13;
+Generalities - food and drinks - ice-cream - desire3&#13;
+Generalities - food and drinks - sweets - desire2&#13;
+Generalities - food and drinks - salt - desire2&#13;
+Generalities - food and drinks - cold drinks - water - desire3&#13;
+Generalities - food and drinks - yoghurt - aversion2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>-</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>1M</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Nα ληφθεί το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-04-18 19:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την επόμενη ημέρα, από τη λήψη του φαρμάκου, είχε πολύ βήχα. Τις επόμενες ημέρες ,ο βήχας μειώθηκε και την 4η  ημέρα σταμάτησε.</reaction>
+      <analysis>Έκανε σύντομα, γρήγορη επιδείνωση και μετά βελτίωση</analysis>
+      <conclusion>Περιμένω, να πάει πολύ καλά, δεν δίνω άλλο φάρμακο, ούτε επαναλαμβάνω το ίδιο.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-07-23 17:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνεχίζει η καλή πορεία του</reaction>
+      <analysis>¨Εχει υψηλό επίπεδο υγείας και ίσως έχουμε ίαση</analysis>
+      <conclusion>Περιμένουμε να δούμε, πως θα πάει, όταν αρχίσει το σχολείο όπου ευνοούνται οι ιώσεις. Ίσως τότε χρειασθεί, να επαναλάβουμε</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

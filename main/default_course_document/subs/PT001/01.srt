@@ -1,0 +1,1460 @@
+﻿1
+00:00:08,458 --> 00:00:17,284
+Lei dos Semelhantes
+
+2
+00:00:20,597 --> 00:00:47,923
+Porque a regra número 1 em Homeopatia é Similia Similibus Curentur.
+
+3
+00:00:48,235 --> 00:01:09,450
+Esta é a grande regra, ou seja, o remédio só pode curar quando se ajusta ou é similar à patologia do caso.
+
+4
+00:01:11,985 --> 00:01:36,395
+Isso significa que temos remédios e conhecemos a patologia de cada um e quero que entendam porque isso acontece.
+
+5
+00:01:36,951 --> 00:01:49,485
+Quando temos uma doença, temos uma determinada sintomatologia.
+
+6
+00:01:51,708 --> 00:02:03,965
+Esta sintomatologia é o resultado do mecanismo de defesa que está tentando restabelecer a ordem a si mesmo.
+
+7
+00:02:04,972 --> 00:02:11,707
+Para que o organismo se reorganize por meio dessa sintomatologia.
+
+8
+00:02:12,819 --> 00:02:20,840
+Posto que a sintomatologia é algo útil para o organismo e os sintomas são absolutamente
+
+9
+00:02:21,777 --> 00:02:31,152
+necessários para que esse organismo em particular esteja balanceado, para não morrer.
+
+10
+00:02:31,951 --> 00:02:42,853
+Portanto, respeitamos os sintomas do paciente seja em um estado agudo ou crônico.
+
+11
+00:02:43,965 --> 00:02:59,033
+Respeitamos bastante esta sintomatologia e tentamos escrever todos os sintomas do caso
+
+12
+00:02:59,868 --> 00:03:12,957
+e assim tentar encontrar o remédio que teve a mesma condição em sua patogênese quando provado em um organismo saudável.
+
+13
+00:03:13,722 --> 00:03:24,311
+tentamos encontrar o similimum, o remédio que se ajuste exatamente à totalidade
+
+14
+00:03:25,458 --> 00:03:46,743
+e então vocês dão este remédio e o paciente se cura. Por que acontece isso? Aqui temos uma gráfica que explica isso.
+
+15
+00:03:50,701 --> 00:04:10,006
+Estes são sintomas, fortes sintomas do paciente. E aqui temos febre alta com suas modalidades.
+
+16
+00:04:10,944 --> 00:04:21,603
+Febre que começa à tarde entre 4 e 5 pm. Febre que aparece só de manhã. Febre à noite, febre constante, seja o que for.
+
+17
+00:04:22,819 --> 00:04:33,825
+Mas a febre não é o único sintoma. A febre vem junto com uma cefaléia, uma forte dor de cabeça,
+
+18
+00:04:36,430 --> 00:04:46,847
+e aqui temos a cefaléia com suas modalidades, e as escrevemos corretamente, também as modalidades da febre.
+
+19
+00:04:47,542 --> 00:05:13,305
+E então temos a debilidade, uma tremenda debilidade e junto com a febre vem a debilidade, etc, e temos também tosse.
+
+20
+00:05:14,521 --> 00:05:29,451
+E então aqui temos uma sede excessiva.  Aqui, pesadelos.
+
+21
+00:05:31,777 --> 00:05:42,992
+Portanto vocês estão tentando ajustar um remédio que tenha febre com uma certa modalidade, específica. Entendem o que é uma modalidade?
+
+22
+00:05:43,792 --> 00:05:55,110
+Qualquer pessoa que não entenda algumas palavras, porque estou usando termos empregados em homeopatia
+
+23
+00:05:55,215 --> 00:06:05,215
+e suponho que todos compreendem. Se alguém nao entender, tem que perguntar, para poder seguir tudo passo a passo.
+
+24
+00:06:05,909 --> 00:06:17,610
+De outra maneira não é bom continuar, para evitar confusão, está bem?
+
+25
+00:06:18,235 --> 00:06:26,221
+Tentamos encontrar um remédio que tenha febre, que tenha uma dor de cabeça particular, com uma debilidade também particular
+
+26
+00:06:26,708 --> 00:06:55,354
+que apresenta tosse, pesadelos, etc. Se é assim, será o remédio similar. o remédio terá uma gráfica mais ou menos como esta.
+
+27
+00:06:56,152 --> 00:07:14,137
+Se a debilidade é muito importante, então a gráfica será como esta. Isso indica que o mais característico nesse paciente é a debilidade
+
+28
+00:07:14,902 --> 00:07:31,221
+Ele está totalmente debilitado. Portanto o remédio tem que apresentar também a debilidade em um alto grau. Nesse sentido para cada sintoma temos
+
+29
+00:07:31,326 --> 00:07:50,041
+intensidade e modalidades. Quão intenso é e o quê modifica este sintoma e por quê?
+
+30
+00:07:52,715 --> 00:08:15,596
+Se damos um remédio similar, o paciente será curado. Há uma lógica por trás disso. Uma lógica muito, muito, clara.
+
+31
+00:08:18,409 --> 00:08:39,277
+Alguém sabe por que? Alguém pode me dizer por que se dão o remédio similar os sintomas vão piorar em vez de melhorar?
+
+32
+00:08:39,972 --> 00:08:50,561
+Os sintomas estarão pior porque este organismo produz esta gráfica e, quero dizer, esta sintomatologia é uma reação a quê?
+
+33
+00:08:50,979 --> 00:09:03,027
+A uma bactéria, um vírus, seja o que for. Assim que uma bactéria invadiu meu corpo ou se reproduziu em meu corpo
+
+34
+00:09:03,652 --> 00:09:18,374
+e o organismo, para combater esta invasão começa a produzir sintomas. Então venho e dou o remédio que tem esses sintomas similares.
+
+35
+00:09:19,173 --> 00:09:25,283
+Neste ponto temos que estar muito claros porque quando explicamos Homeopatia
+
+36
+00:09:25,944 --> 00:09:34,346
+temos que explicá-la dessa forma, para que tenha sentido ao paciente, a nós mesmos, para que entendamos o que estamos fazendo
+
+37
+00:09:35,319 --> 00:09:44,207
+e este entendimento é útil posteriormente, quando evaluemos o caso, pra ver o que foi que ocorreu.
+
+38
+00:09:45,110 --> 00:09:55,596
+Devo dar outro remédio?  Devo esperar? O que é isso? Dou um remédio para esse sintoma particular?
+
+39
+00:09:56,881 --> 00:10:11,152
+Bem, estas perguntas serão respondidas à medida que vocês entendam muito claramente o mecanismo de cura.
+
+40
+00:10:11,985 --> 00:10:28,860
+Assim, minha pergunta a vocês é... Por que o remédio vai curar o paciente em vez de deixá-lo pior?
+
+41
+00:10:35,458 --> 00:10:49,208
+Há uma clara lógica por trás disso. A explicação é esta... o organismo tenta conseguir curar-se
+
+42
+00:10:49,521 --> 00:10:59,208
+ao desenvolver essa sintomatologia e quando não tem êxito recorre a nós para que o curemos
+
+43
+00:10:59,347 --> 00:11:11,603
+significa que está sofrendo aguda ou crônicamente, porque constantemente apresenta sintomas
+
+44
+00:11:11,881 --> 00:11:28,617
+e através desses sintomas está tentando dizer "tenhamos um pouco mais dessa dor de cabeça e depois disso eu te curo".
+
+45
+00:11:29,521 --> 00:11:37,402
+E o mecanismo de defesa atrás... vocês verão isso nas pessoas que têm dor de cabeça crônica, cada semana têm uma dor de cabeça
+
+46
+00:11:39,000 --> 00:11:52,055
+a cada semana durante três dias aparece a dor de cabeça,  a cada três horas a dor abdominal, a cada dia, ou cada três dias
+
+47
+00:11:53,444 --> 00:12:07,887
+dor na vesícula biliar, etc, algo que ocasiona um ataque epilético no organismo a cada 5 dias, cada 3 dias, a cada dia...
+
+48
+00:12:08,652 --> 00:12:20,944
+dizemos que este ataque epilético é um esforço do próprio organismo para curar-se
+
+49
+00:12:21,708 --> 00:12:39,694
+esta tosse é um esforço do organismo para curar-se, por isso se fortalecemos o mecanismo
+
+50
+00:12:39,798 --> 00:12:52,228
+se fortalecemos este esforço, o organismo será curado, se encontramos uma via para fortalecer as defesas do corpo,
+
+51
+00:12:53,409 --> 00:13:04,902
+então o organismo será curado porque o organismo está dizendo que através desses sintomas faz uma tentativa de curar-se a si mesmo
+
+52
+00:13:05,771 --> 00:13:21,396
+mas não posso sozinho, preciso de alguma força extra para elevar um pouco mais estes sintomas, um pouco mais, prar poder superar a doença.
+
+53
+00:13:21,917 --> 00:13:37,750
+E aqui chegamos nós, com um remédio que é similar, que toca o organismo num nivel energético, como disse o estudante
+
+54
+00:13:38,792 --> 00:13:57,264
+e por um certo período de tempo temos uma agravação menor ou maior, dependendo do caso. Na cura homeopática temos
+
+55
+00:13:59,034 --> 00:14:04,069
+uma agravação dos sintomas, o que chamamos de agravação dos sintomas significa que os sintomas
+
+56
+00:14:05,389 --> 00:14:17,090
+começarão a ser mais fortes por um curto período, por uma fração de minuto algumas vezes, numa doença aguda, ou por vários dias
+
+57
+00:14:20,319 --> 00:14:32,506
+no caso de uma doença crônica, também podemos experimentar, o paciente pode experimentar uma agravação dos sintomas
+
+58
+00:14:33,548 --> 00:14:46,291
+os sintomas começam a intensificar-se um pouco mais, algumas vezes muito mais, e se os sintomas começam a ser muito mais fortes
+
+59
+00:14:47,055 --> 00:15:01,256
+o mais provável é que tenhamos dado o remédio correto, devemos falar sobre as diferentes modificações disso
+
+60
+00:15:01,360 --> 00:15:18,235
+mas dar um empurrão extra para conseguir o que o organismo não é capaz de fazer por si mesmo e assim há uma liberação.
+
+61
+00:15:21,673 --> 00:15:33,617
+Entenderam isso? Compreenderam este ponto? Este ponto temos que discutir para que todos o entendam claramente
+
+62
+00:15:33,965 --> 00:15:37,679
+para que o tenham estabelecido em sua mente de maneira muito clara.
+
+63
+00:15:37,819 --> 00:15:44,762
+Dr. Vithoulkas, o senhor se refere a que se nao há uma agravação não há uma cura?
+
+64
+00:15:47,715 --> 00:16:03,756
+Boa pergunta, sim, a isso eu me refiro, quando não há agravação não pode haver cura com uma diferença.
+
+65
+00:16:04,902 --> 00:16:21,499
+é quando esta reação alcançou seu ponto máximo, a reação da agravação é quase imperceptível, é muito pequena
+
+66
+00:16:22,194 --> 00:16:33,166
+o organismo precisa de um pouco mais, por isso o paciente não percebe a reação
+
+67
+00:16:33,444 --> 00:16:47,471
+e geralmente este caso está em uma severa enfermidade aguda, na qual o paciante dificilmente percebe a reação da agravação. Um pouco mais de
+
+68
+00:16:48,652 --> 00:16:56,395
+febre, não importa, um pouco mais de dor de cabeça, não importa
+
+69
+00:16:56,500 --> 00:17:08,722
+porque já está em um mal estado, mas nos casos crônicos temos que ser cuidadosos
+
+70
+00:17:08,860 --> 00:17:26,256
+porque a reação pode ser muito severa, se em um caso crônico temos problemas funcionais, somente problemas funcionais
+
+71
+00:17:27,264 --> 00:17:39,069
+significa que é somente um espasmo em um vaso causando o problema da dor de cabeça e isso é tudo
+
+72
+00:17:39,868 --> 00:17:49,902
+temos diferentes dores de cabeça. Há dores de cabeça severos, etc, em homeopatia aprendemos que cada organismo
+
+73
+00:17:50,006 --> 00:18:00,666
+tem seu próprio estado de severidade, o que significa que a dor de caeça de uma pessoa é diferente da dor de cabeça de outra pessoa
+
+74
+00:18:01,465 --> 00:18:10,319
+nessa dor de cabeça, que parece similar a essa outra dor de cabeça, é muito mais fácil de curar que esta outra dor de cabeça
+
+75
+00:18:10,423 --> 00:18:17,436
+e é porque há uma profundidade nessa dor de cabeça e não há profundidade nesta outra
+
+76
+00:18:17,542 --> 00:18:23,618
+isto significa que esta dor de cabeça será curada com uma agravação quase imperceptível.
+
+77
+00:18:26,152 --> 00:18:36,465
+Sua dor de cabeça, que é de um tipo mais profundo, vai ter uma tremenda agravação
+
+78
+00:18:36,777 --> 00:18:50,215
+assim que dependerá de algo chamado profundidade do problema, do que depende de diferentes caracteres do que estaremos
+
+79
+00:18:50,319 --> 00:19:06,465
+falando mais adiante, não quero abarcar muitos temas de uma só vez, quero manter claro, o básico
+
+80
+00:19:07,506 --> 00:19:15,041
+e depois iremos elaborando no transcurso, aprofundando mais e mais estes conceitos, estes temas
+
+81
+00:19:15,805 --> 00:19:23,652
+mas isto eu considero como um entendimento maior de como o remédio atua
+
+82
+00:19:24,590 --> 00:19:38,652
+isto significa que cada sintoma, é um esforço do organismo por ser curado, para trazer equilibrio porque o organismo depois disso
+
+83
+00:19:38,756 --> 00:19:53,374
+trará um tipo de equilibrio como este, o que significa que os pequenos sintomas já não incomodam, já está quase bem, talvez nesse estado
+
+84
+00:19:53,479 --> 00:20:10,042
+podemos tentar e dar um segundo remédio ou não dar um segundo remédio, assim que minha primeira pergunta seria...
+
+85
+00:20:10,563 --> 00:20:28,792
+escrevam esta pergunta em suas anotações.
+
+86
+00:20:29,485 --> 00:20:56,881
+encontrem em que parte do Organon, qual parágrafo expressa a lei dos semelhantes e em qual parágrafo Hahnemann explica
+
+87
+00:20:58,722 --> 00:21:21,673
+esta lei e como funciona, definam se esta explicação é a mesma de Hahnemann ou ele a expressa de outra forma
+
+88
+00:21:22,368 --> 00:21:39,868
+ou minha explicação é diferente. Por trás dessa pergunta deixem umas linhas em branco
+
+89
+00:21:40,667 --> 00:21:54,764
+e aí escreverão o parágrafo, a lei dos semelhantes parágrafo tal, e justifiquem sua explicação do que encontrem no parágrafo ou parágrafos
+
+90
+00:21:58,340 --> 00:22:24,138
+se é igual ou diferente. Têm que ser muito cuidadosos, exponham em qual parágrafo a lei dos semelhantes é mencionada no Organon.
+
+91
+00:22:25,215 --> 00:22:37,992
+Em qual parágrafo está a explicação de como funciona o remédio? e a terceira pergunta é se esta explicação
+
+92
+00:22:38,965 --> 00:22:50,283
+é a mesma que eu lhes dei aqui.
+
+93
+00:22:59,069 --> 00:23:12,715
+O corpo está tentando, através da sintomatologia, trazer o equilibio de volta, mas vocês dirão,
+
+94
+00:23:13,722 --> 00:23:22,957
+no caso de um ataque epilético, é possível que por meio desse ataque o corpo esteja tentando
+
+95
+00:23:23,063 --> 00:23:36,743
+curar-se a si mesmo? Já vimos, alguma vez, um caso de epilepsia que foi curado através de um ataque epilético?
+
+96
+00:23:37,506 --> 00:23:51,465
+Eu espero que vocês me façam este tipo de perguntas, entemdem? Quero que exponham suas dúvidas
+
+97
+00:23:51,569 --> 00:24:01,429
+ou o que estejam sentindo, porque se não entendem devemos discutir até que o tema esteja claro para vocês.
+
+98
+00:24:02,194 --> 00:24:15,249
+Os sintomas estão se desenvolvendo para prevenir um desfecho mais severo ou fatal da enfermidade
+
+99
+00:24:16,673 --> 00:24:31,221
+porque um ataque epilético indica que houve uma pesada carga elétrica que poderia ter matado esse organismo
+
+100
+00:24:32,298 --> 00:24:47,124
+se o organismo não tivesse o mecanismo de defesa pronto para produzir esse tipo de inconsciência, espasmos, etc,
+
+101
+00:24:47,542 --> 00:25:00,631
+assim, essas são as medidas das quais o organismo lança mão para poder permanecer balanceado, para que possa exixtir, não sucumbir
+
+102
+00:25:01,465 --> 00:25:14,138
+mas o fato permanece, se estamos interessados, o que os indica que devemos seguir e encontrar o remédio
+
+103
+00:25:14,902 --> 00:25:21,256
+levando em conta todos os sintomas do paciente.
+
+104
+00:25:22,680 --> 00:25:29,451
+só quero dar-lhes várias estratégias para as pessoas que sofrem de dor crônica e uma das formas incrementar essa dor
+
+105
+00:25:30,423 --> 00:25:37,436
+é penetrar dentro da dor e assim poder fazer frente à dor, pode-se reduzir a dor ao incrementá-la
+
+106
+00:25:37,646 --> 00:25:40,042
+e isto é semelhante ao que comentamos anteriormente.
+
+107
+00:25:41,048 --> 00:25:53,582
+Sim há estratégias, como dizem, a pessoa está sofrendo realmente, tocamos profundamente a dor
+
+108
+00:25:54,833 --> 00:26:09,729
+e a incrementamos para poder aliviá-la. Mas esta estratégia sempre é temporária, não é uma medida curativa, não é uma cura verdadeira.
+
+109
+00:26:10,215 --> 00:26:19,416
+Na psicoterapia há algo semelhante, por exemplo, uma pessoa tem pavor de micróbios, ele tem medo dos micróbios
+
+110
+00:26:19,485 --> 00:26:26,638
+e tudo o que toca sente que está cheio de micróbios, assim, a estratégia, em psicoterapia
+
+111
+00:26:27,194 --> 00:26:35,041
+é que o levam em um banheiro, cheio de sujeira e lhe dizem que o limpe
+
+112
+00:26:35,110 --> 00:26:47,020
+que coloque suas mãos dentro do vaso sanitário e veja como se sente, com isso entendem que, ao incrementar o medo
+
+113
+00:26:47,125 --> 00:27:02,542
+ este será tão grande, que o sintoma de medo dos micróbios se irá   psshhh... entendem?
+
+114
+00:27:03,756 --> 00:27:18,617
+e puderam observar que através de tal experimento pode-se obter uma cura. De quê? Do sintoma.
+
+115
+00:27:20,458 --> 00:27:27,506
+e essa é a diferença entre a homeopatia e a psicoterapia, aqui eles encontram esse sintoma
+
+116
+00:27:28,548 --> 00:27:37,819
+que estava anulando o corpo, medo de micróbios, tremendo medo dos micróbios e toda sua vida é...
+
+117
+00:27:37,923 --> 00:27:46,950
+e então o puseram ali e se incrementou e descubriram que o sintoma desapareceu
+
+118
+00:27:47,542 --> 00:27:58,652
+mas muitas vezes descobrem que o organismo substitui este sintoma por outro.
+
+119
+00:28:01,014 --> 00:28:13,478
+E o paciente permanece como um caso mental mas agora com uma diferente sintomatologia.
+
+120
+00:28:15,146 --> 00:28:23,722
+Sr. Vithoulkas, eu gostaria de perguntar, no parágrafo 2, Hahnemann utiliza a palavra suave e o sr. diz que a agravação é grave,
+
+121
+00:28:23,826 --> 00:28:26,639
+Podemos considerá-la suave?
+
+122
+00:28:26,743 --> 00:28:37,436
+Muito suave. Podemos considerá-la suave se a comapramos ao sofrimento do paciente.
+
+123
+00:28:38,201 --> 00:28:52,749
+Se o sofrimento é realmente severo por anos, a agravação de poucos dias é nada para o paciente, que já sofreu tanto,
+
+124
+00:28:52,854 --> 00:29:10,527
+10-15 anos e depois disso se cura. Encontrem também a segunda pergunta, e sejam cuidadosos, porque estas são perguntas que
+
+125
+00:29:11,396 --> 00:29:29,868
+contém uma armadilha, sejam cuidadosos, encontrem em qual parágrafo Hahnemann fala da agravação
+
+126
+00:29:41,847 --> 00:30:01,916
+e estabeleçam se esta explicação no Organon é a mesma que damos aqui.
+
+127
+00:30:04,798 --> 00:30:29,554
+Escrevam, assim, Hahnemann fala da agravação nos parágrafos 78, 103 e 104, a explicação é diferente ou é a mesma. Isso quero.
+
+128
+00:30:30,597 --> 00:30:40,041
+(E)sabemos que com alguns pacientes temos sintomas que dependem da presença ou da ausência de alguns elementos no corpo
+
+129
+00:30:41,256 --> 00:30:54,242
+como por exemplo podemos ter bócio porque nos falta iodo na água. Como vamos diferenciar tais sintomas
+
+130
+00:30:55,180 --> 00:31:07,264
+dos sintomas que realmente fazem sentido em homeopatia? Digamos, por exemplo, se a alguém lhe falta açúcar no sangue
+
+131
+00:31:07,750 --> 00:31:13,201
+um simples método para corrigir isso é dar-lhe um pouco de açúcar, em vez de um remédio homeopático.
+
+132
+00:31:16,083 --> 00:31:36,396
+Sim, isso é correto. è assim com a maioria de nós, assim temos sobrevivido, tomando certas medidas complementárias como esta em nossa
+
+133
+00:31:38,479 --> 00:31:48,375
+vida.Corrigir a dieta, fazer mais dietas desse tipo, etc. E todas estas medidas atuam em um nivel superficial
+
+134
+00:31:51,881 --> 00:32:01,325
+todas são medidas superficiais
+
+135
+00:32:02,055 --> 00:32:18,061
+e que minimizam o sofrimento crônico do paciente. O remédio homeopático correto finalmente corrige o organismo para que este possa receber
+
+136
+00:32:18,792 --> 00:32:33,340
+os elementos, os microelementos que necessita, as vitaminas, os minerais, etc. A partir daí  pode receber facilmente os alimentos. Nossos organismos
+
+137
+00:32:34,208 --> 00:32:49,313
+hoje em dia, a grande maioria dos organismos, nao estão em condições de fazer isso. Estão degenerados em maior ou menor grau e não podem absorver os elementos
+
+138
+00:32:50,875 --> 00:33:07,542
+e é por isso que os suplementos às vezes são tão necessários para que a pessoa se sinta melhor, tomo um mineral e me sinto melhor, isso é uma verdade
+
+139
+00:33:08,027 --> 00:33:23,408
+o remédio homeopático corrigirá isso, o equilibrará, essa é a idéia, e assim o organismo se sentirá melhor somente com os alimentos
+
+140
+00:33:25,110 --> 00:33:43,096
+naturais, mas muitas vezes não podemos conseguir que isso aconteça então tomamos outras medidas paliativas para apoiar o organismo.
+
+141
+00:33:49,972 --> 00:33:59,902
+Permitam-me competar isto, o que eu quero dizer agora... Entenderam isso? Todos entenderam?
+
+142
+00:34:00,805 --> 00:34:15,805
+Ok,agora vamos à outra pergunta: todas as reações aos remédios homeopáticos, ou seja, todas as agravações...
+
+143
+00:34:15,909 --> 00:34:44,798
+são reações curativas? Sabemos que podemos ter uma reação pela experimentação do remédio. Temos uma reação que é curativa,
+
+144
+00:34:44,902 --> 00:35:29,763
+temos uma reação que vem - dizemos que o chamamos similimum- o melhor remédio, o remédio correto. o chamamos Similimum.
+
+145
+00:35:32,194 --> 00:35:39,658
+mas as coisas estão tão próximas umas das outras, os remédios estão tão próximos uns dos outros
+
+146
+00:35:40,493 --> 00:35:52,472
+que muitas vezes escolhemos um remédio que está perto, é similar, somente similar.
+
+147
+00:35:59,972 --> 00:36:15,145
+A que nos referimos com o termo similar? Voltamos ao tema e vemos que o remédio que escolhemos
+
+148
+00:36:16,083 --> 00:36:39,243
+não tinha esta modalidade de febre, tem outra modalidade, e tem dor de cabeça e o micróbio, mas a sede não está presente
+
+149
+00:36:40,909 --> 00:37:01,499
+de fato aqui estava negativo, e por este fato esta gráfica é similar porque contém isto similar, mas não temos nada melhor
+
+150
+00:37:02,021 --> 00:37:13,479
+e damos o remédio e então depois damos o que chamamos um remédio similar, e temos uma reação diferente
+
+151
+00:37:14,069 --> 00:37:22,679
+devemos agora examinar as reações do organismo em cada caso particular e ter tudo bem claro
+
+152
+00:37:22,784 --> 00:37:29,311
+ao nosso entendimento. É exatamente o que temos que dizer.
+
+153
+00:37:30,389 --> 00:37:45,110
+Assim, qual pode ser esse quarto ponto? Têm uma agravação. O paciente vem e diz: Oh! estou muito pior!
+
+154
+00:37:46,569 --> 00:38:08,686
+porque o paciente é histérico, se autosugestiona, quer ter uma agravação porque escutou que isso é bom
+
+155
+00:38:09,104 --> 00:38:24,694
+Deseja ter uma agravação, nesta categoria éoutro caso, hipocondria
+
+156
+00:38:25,458 --> 00:38:36,743
+pacientes hipocondríacos, em ambas categorias produzirão seue próprios sintomas    los pacientes hipocondriacos,
+
+157
+00:38:37,542 --> 00:38:48,479
+e isso nao tem nada a ver com o remédio, eles lhes dirão: Oh! Tenho tal reação e é bom que tenha esta reação
+
+158
+00:38:48,965 --> 00:38:58,340
+e esta pessoa hipocondríaca lhes dirá, tive essa reação, tive aquela reação, que está acontecendo? Vou morrer?
+
+159
+00:38:59,277 --> 00:39:26,638
+Tenho um pequeno zumbido dentro de minha cabeça... e esse zumbido ou um pouco de vertigem se coverte em uma questão de vida ou morte para o paciente
+
+160
+00:39:28,444 --> 00:39:40,908
+e então sentem que seu remédio não está reagindo de todo, têm que ser capazes de perceber estas coisas
+
+161
+00:39:41,708 --> 00:40:02,264
+e, então, claro, temos uma reação de um organismo e se começamos um tratamento enquanto o paciente está usando drogas alopáticas
+
+162
+00:40:02,784 --> 00:40:16,847
+e então decidimos que detenha estas drogas para que tome seu remédio e por retirar-lhe as drogas, aparecem reações.
+
+163
+00:40:18,722 --> 00:40:31,707
+O fato de retirar as drogas pode produzir muitos sintomas que não pertencem a nenhuma reação curativa
+
+164
+00:40:32,958 --> 00:40:45,805
+e assim estas devem ser a categorias nas quais devem estar pensando. O paciente vem e mostra uma reação
+
+165
+00:40:46,048 --> 00:40:54,103
+e têm que avaliar se é uma experimentação, se é curativa, remédio similar, paciente histérico, hipocondríaco, ou por deprivação, vocês têm que saber isso imediatamente.
+
+166
+00:40:56,430 --> 00:41:01,916
+Se isso está claro podem continuar. Senão, esqueçam!
+
+167
+00:41:02,680 --> 00:41:08,444
+O paciente lhes dirá esta vez um grupo de sintomas, a próxima vez, outro grupo de sintomas,
+
+168
+00:41:10,284 --> 00:41:18,235
+e vocês continuarão dando remédios sem saber exatamente o que está acontecendo com ele.
+
+169
+00:41:25,006 --> 00:41:38,340
+Bom, voltamas à primeira categoria e dizemos experimentação. Quando é uma experimentação e não uma cura?
+
+170
+00:41:38,444 --> 00:41:49,867
+Qual seria a diferença? Na experimentação apresentarão sintomas que nao tinham antes. Sim.
+
+171
+00:41:50,597 --> 00:42:03,061
+Mas eu lhes direi algo, em uma ação curativa, vocês também podem ter o desenvolvimento de alguns sintomas que tampouco haviam antes.
+
+172
+00:42:04,729 --> 00:42:15,597
+Como diferenciar entre o que é curativo e o que não é?
+
+173
+00:42:17,159 --> 00:42:40,145
+Nas experimentações não há melhoria. Aparecem novos sintomas que não têm nada a ver
+
+174
+00:42:41,222 --> 00:42:58,131
+com os sintomas do paciente e ao mesmo tempo o paciente diz que continua igual, com os mesmos sintomas de antes, ou seja, não há melhoria geral do caso
+
+175
+00:43:04,417 --> 00:43:24,798
+por isso na experimentação, o que lhes dirão exatamente? Por exemplo vocês deram uma dose de Natrum muriaticum 10M...
+
+176
+00:43:27,610 --> 00:43:32,645
+Deram uma dose em uma alta potência. Chamamos uma alta potência. O paciente vem e lhes diz:
+
+177
+00:43:34,485 --> 00:43:47,263
+Que estranho! eu não sofria de dor de cabeça e agora quando eu me levanto de manhã tenho um pouco de dor de cabeça.
+
+178
+00:43:48,097 --> 00:44:01,014
+O que vocês têm que perguntar imediatamente deposi disso? Ele diz: não tinha dor de cabeça antes,
+
+179
+00:44:01,118 --> 00:44:13,061
+e a sua pergunta imediata é: Como se sente de um modo geral, agora? (esta é uma pergunta típica que têm que fazer imediatamente).
+
+180
+00:44:13,097 --> 00:44:26,811
+Ele veio por suas fobias. Temores. Colite, por sua úlcera duodenal. Seja o que for. Como estão suas dores da úlcera duodenal?
+
+181
+00:44:26,917 --> 00:44:37,993
+Oh! Estão muito melhor! Mas, e as dores de cabeça? Se são dores típicas de Natrum muriaticum
+
+182
+00:44:38,652 --> 00:44:46,429
+Nat-mur tem dor de cabeça ao despertar e de manhã, especialmente às 10 em ponto, isso é típico, e vai te dizer: cada dia, as 10 em ponto, minha dor
+
+183
+00:44:48,201 --> 00:45:02,264
+de cabeça começa e minha úlcera duodenal está melhor. Estas duas informações fazem que seja absolutamente seguro que o remédio é correto
+
+184
+00:45:02,264 --> 00:45:15,006
+mas se ele diz: tenho dores de cabeça, mas minha úlcera duodenal está igual ou meus outros sintomas são os mesmos, não há mudanças
+
+185
+00:45:16,048 --> 00:45:27,679
+este é um caso de experimentação, significa que deram um remédio que teve um efeito e o  paciente o experimentou
+
+186
+00:45:31,813 --> 00:45:40,667
+e além disso uma experimentaçao não vai apresentar uma melhoria no nivel de energia, não tem melhoria na sintomatologia local
+
+187
+00:45:41,465 --> 00:45:48,235
+e tem a aparição de novos sintomas que não tinha antes.
+
+188
+00:45:51,569 --> 00:46:05,110
+Estas coisas devem saber com claridade e imediatamente, de outra maneira, por minha experiência, é que em casos
+
+189
+00:46:07,194 --> 00:46:22,402
+que foram arruinados principalmente pela falta desse conhecimento. Oh! É uma experimentação! Devo antidotar ou ter idéias diferentes!
+
+190
+00:46:23,167 --> 00:46:42,264
+mas se a pessoa está melhor, em geral, melhor da úlcera, deixem em paz a dor de cabeça de Nat-m porque ela desaparecerá muito em breve
+
+191
+00:46:42,784 --> 00:46:57,680
+e por si só, sem remédios. Se vocês dão outro remédio vão estragar a boa ação do seu remédio.
+
+192
+00:47:01,743 --> 00:47:14,485
+E claro, as coisas, quando estão tratando de casos crônicos severos, as coisas não são muito claras
+
+193
+00:47:15,042 --> 00:47:24,659
+mas a regra geral deveria ser entendia por vocês.
+
+194
+00:47:27,542 --> 00:47:57,194
+Quando recebem um sentimento de melhora, mesinto bem em geral. Tenho mais dores de cabeça, mais dores, etc, mas me sinto
+
+195
+00:47:57,472 --> 00:48:26,222
+melhor em geral, é uma indicação de que seu remédio é correto. Então, está psicologicamente melhor, significa mental-emocionalmente
+
+196
+00:48:27,506 --> 00:48:38,374
+melhor, então o mais provável é que seu remédio seja correto.
+
+197
+00:48:49,208 --> 00:49:20,701
+Melhor em sintomas e sem mudança psicológica ou nenhuma mudança em geral
+
+198
+00:49:21,569 --> 00:49:35,944
+significa: em geral está igual, psicológicamente o mesmo. Verão, têm que ser muito precisos
+
+199
+00:49:36,292 --> 00:49:49,451
+aqui alguém lhes diz: minha dor de estômago, minha dor de cabeça, meus sintomas físicos estão melhores,mas
+
+200
+00:49:50,284 --> 00:50:06,395
+não há mudanças psicológicas e não há mudanças em geral... isso é melhor, é uma ação curativa ou não?
+
+201
+00:50:08,201 --> 00:50:19,832
+Vêem?  Imediatamente têm dúvidas... Aqui não podemos ter dúvidas. Devemos estar com tudo muito claro, ok?
+
+202
+00:50:21,673 --> 00:50:37,158
+Se estes sintomas físicos estão melhores e o processo  é curativo significa que o estado geral e o estado psicológico
+
+203
+00:50:37,923 --> 00:50:48,721
+deve estar muito bem balanceado, não precisam de tratamento porque toda a força da enfermidade estava no plano físico
+
+204
+00:50:49,208 --> 00:51:00,250
+houve melhora no plano físico e isso era tudo o que o remédio devia fazer.
+
+205
+00:51:00,771 --> 00:51:10,667
+Se vocês esperam que cada vez o paciente diga que está melhor psicologicamente e em geral melhor
+
+206
+00:51:11,430 --> 00:51:24,659
+não vai ser assim, sempre que o estado geral e psicológico estejam em boas condições
+
+207
+00:51:24,659 --> 00:51:50,527
+se os sintomas estão melhores, mas peor aqui, ou peor ali, essa é outra história. Fica claro agora?
+
+208
+00:51:52,542 --> 00:52:18,097
+Em uma ação curativa aqui, podem ter um sintoma experimental, ou seja, geralmente melhor, melhor nos sintomas
+
+209
+00:52:18,860 --> 00:52:32,610
+mas um ou dois dos sintomas experimentais aparecem, isso demonstra que o remédio foi absolutamente correto.
+
+210
+00:52:33,444 --> 00:52:46,985
+Esta é uma confirmação de que seu remédio é correto, se vocês têm a experimanteção de um ou dois sintomas do remédio.
+
+211
+00:52:47,506 --> 00:52:56,881
+Sempre que a pessoa tenha uma melhoria psicológica ou está geralmente melhor, ou melhor também nos sintomas.
+
+212
+00:53:01,256 --> 00:53:15,631
+Está claro? Assim que vocês dão um remédio, aparecem sintomas, pensam: é uma experimentação. Não, não, esperem um momento
+
+213
+00:53:16,500 --> 00:53:21,985
+Comose sente psicológicamente? Melhor em geral? Melhor e tem uma experimentação?
+
+214
+00:53:22,715 --> 00:53:37,436
+Essa é a confirmação de que o remédio era correto, não foi uma experimentação.
+
+215
+00:53:38,201 --> 00:53:53,478
+Agora que vêm aqui, nesse grupo é onde temos a maioria dos problemas. Por quê?
+
+216
+00:53:54,694 --> 00:54:18,999
+Porque o remédio que damos, muitas vezes, especialmente quando prescrevemos rápido, é quando damos um remédio similar,
+
+217
+00:54:21,673 --> 00:55:16,846
+E o que ele faz? Aqui nesse grupo, temos: 1) alterações dos sintomas  2) não há melhoria em geral  3)Sem melhoria mental
+
+218
+00:55:16,951 --> 00:55:30,180
+E quando eu digo sem alterações dos sintomas, a quê me refiro?  A que a dor de cabeça se transformou em vertigem
+
+219
+00:55:30,667 --> 00:55:43,444
+vocês dão um remédio para dor de cabeça crônica e essas dores se transformam em vertigem, a pessoa se sente tonta
+
+220
+00:55:44,208 --> 00:55:54,104
+Sente-se tonta, e... está melhor em geral?  Não, ele diz. Melhor psicológicamente? Não.
+
+221
+00:55:55,006 --> 00:56:01,742
+Isso significa que deram um remédio similar e vão mudar os sintomas, um após o outro.
+
+222
+00:56:04,104 --> 00:56:14,694
+E agora? Como manejar isso? Já explicaremos. Em pacientes histéricos e hipocondríacos, têm uma reação
+
+223
+00:56:16,326 --> 00:56:28,270
+a quase cada remédio que dão. Vocês não sabem se a reação é pelo remédio ou porque a pessoa o criou.
+
+224
+00:56:28,305 --> 00:56:36,048
+Nesses casos histéricos, verão que nem sempre o sintoma pertence ao remédio
+
+225
+00:56:36,847 --> 00:56:40,457
+Essas pessoas histéricas podem inventar muitos outros sintomas que não pertencem ao remédio
+
+226
+00:56:51,396 --> 00:57:02,333
+e muitas vezes no grupo seis, porque decidiram dar um remédio sob o efeito de drogas alopáticas, não sabem
+
+227
+00:57:03,167 --> 00:57:11,396
+quais sintomas vão encontrar debaixo, assim que retiram as drogas e outros sintomas começam a aparecer
+
+228
+00:57:12,646 --> 00:57:23,305
+e não pe possível saber se pertencem ao remédio ou nao. É por isso que nesses casos é melhor
+
+229
+00:57:24,069 --> 00:57:33,965
+deter as drogas por pelo menos um mes, ver a imagem e começar desde essa imagem
+
+230
+00:57:34,694 --> 00:57:49,936
+porque se começam enquanto a pessoa está sob efeito de drogas alopáticas, então terão problemas para avaliar o que está acontecendo com o seu remédio.
+
+231
+00:57:52,854 --> 00:58:13,756
+E o manejo da experimentação? Como a manejam? O que fazem?
+
+232
+00:58:14,590 --> 00:58:22,819
+Uma experimantação é quando temos novos sintomas que são característicos e pertencentes ao remédio
+
+233
+00:58:23,340 --> 00:58:32,158
+sem nenhuma mudança na condição da pessoa, isso é uma experimentação. O que fazem?
+
+234
+00:58:33,201 --> 00:58:51,811
+Aqui temos que esperar e os sintomas do remédio desaparecerão dentro de um período de tempo, em poucos dias ou em poucas
+
+235
+00:58:52,784 --> 00:59:13,097
+semanas... 5-6 semanas, esperam que os sintomas diminuam e isso significa que o remédio que deram estava equivocado e têm que buscar
+
+236
+00:59:13,097 --> 00:59:30,493
+outro remédio. Em tal caso, podem prescrever o seguinte remédio, ainda com os sintomas da experimentação estando presentes.
+
+237
+00:59:30,805 --> 00:59:40,180
+Isso não importa ao organismo, se dão o remédio seguinte corretamente, reagirá
+
+238
+00:59:42,680 --> 00:59:49,069
+Assim, nas experimentações o melhor é esperar até que os sintomas da experimentação desapareçam.
+
+239
+00:59:49,555 --> 01:00:00,145
+Se a pessoa está sofrendo muito não podem esperar. Assim que devem seguir enfrente e dar o seguinte remédio.
+
+240
+01:00:01,188 --> 01:00:17,610
+Deverão considerar os sintomas da experimentação junto com os outros sintomas?  Não.
+
+241
+01:00:18,652 --> 01:00:32,332
+Não nesse caso. Voltem ao caso original e estudem somente o caso original, não os sintomas da experimentação.
+
+242
+01:00:33,548 --> 01:00:44,485
+Se põem juntos os sintomas da experimentação se confundirão.
+
+243
+01:00:45,563 --> 01:00:54,555
+(E)Se eu faço uma contradição volto ao primeiro remédio e depois vou ao remédio correto? É possível?
+
+244
+01:00:54,833 --> 01:01:01,847
+Fazer uma contradição? Neutralizar, antidotar. Refere-se a antidotar o remédio? (E)Sim.
+
+245
+01:01:03,409 --> 01:01:09,764
+Não. Não é necessário dar um antídoto.
+
+246
+01:01:13,131 --> 01:01:26,742
+O melhor a fazer é voltar ao caso, estudá-lo novamente e dar melhor o seguinte remédio.
+
+247
+01:01:29,208 --> 01:01:46,639
+Na reação curativa, especialmente quando se diz que está melhor, mas os sintomas ainda estão presentes. Que fazem?
+
+248
+01:01:46,743 --> 01:01:54,243
+Esperar.
+
+249
+01:01:54,764 --> 01:02:08,061
+Esperar. Psicológicamente melhor, os sintomas físicos ainda permanecem, esperem e não interfiram com outro remédio.
+
+250
+01:02:08,271 --> 01:02:24,798
+Por favor, não estraguem uma boa prescrição. Verão que eventualmente esses sintomas também vão diminuir, talvez precisem
+
+251
+01:02:24,902 --> 01:02:41,603
+de 3 semanas a 5 meses. Deixem-os em paz. Os sintomas diminuirão.
+
+252
+01:02:41,708 --> 01:02:53,618
+Se têm aqui uma experimentação, farão algo? Não. Deixem-os em paz. Uma vez que estejam seguros de que pessoa
+
+253
+01:02:54,417 --> 01:03:07,055
+está melhor em geral, melhor psicológicamente e algumas experimentações estão ali, deixem-os em paz, a experimentação
+
+254
+01:03:07,159 --> 01:03:17,889
+desaparecerá por si mesma. quanto podemos esperar?
+
+255
+01:03:18,652 --> 01:03:38,582
+3 anos. Bill Gray. O conhecem? Todos os conhecem, veio aqui e estudou comigo por dois anos.
+
+256
+01:03:38,792 --> 01:03:49,000
+Ficou na Grécia, um ano depois voltou por um mês para ver seus casos e depois regressou no segundo ano.
+
+257
+01:03:51,048 --> 01:03:58,061
+Enquanto isso, ele tratou alguns de seus casos por correspondência e todos os casos que
+
+258
+01:03:58,930 --> 01:04:06,881
+ele havia tratado desde um ano atrás, quando voltou comigo, me disse: não posso acreditar que todos os meus casos
+
+259
+01:04:06,951 --> 01:04:18,478
+estão bem. Por quê? Porque não interferi, não estava ali para  interferir com o remédio todo o tempo.
+
+260
+01:04:19,208 --> 01:04:34,313
+E o que estava fazendo estúpidamente todo o tempo, antes? Eu os deixei sozinhos, e muito melhor. Diabetes, doenças crônicas,
+
+261
+01:04:35,110 --> 01:04:43,131
+todos. Ele havia dado o remédio correto, muitas vezes, e o uqe ele estava fazendo era, esse tipo de coisas, oh! Agora tenho essa dor,
+
+262
+01:04:46,014 --> 01:04:55,041
+então toma este remédio.  Agora tenho isto, toma isso... E perdem o caso. Deixem-o sozinho e verão
+
+263
+01:04:55,875 --> 01:05:07,055
+quero dizer, há placebo, podem dar placebo se querem. Se os pacientes precisam tomar alguma coisa, dêm placebo
+
+264
+01:05:08,097 --> 01:05:21,082
+mas é muito importante saber bem as regras aqui. Se não sabem as regras, a experimentação, o similar, o não similar, retirar as drogas,
+
+265
+01:05:22,125 --> 01:05:30,215
+se não têm isso claro... Como podem proceder? Têm que estar seguros. Se o remédio é correto deixem-o em paz.
+
+266
+01:05:32,264 --> 01:05:52,923
+Quanto tempo o deixarão?  Eu diria que se a pessoa se sente psicológicamente bem e em geral bem, aproximadamente de 6 a 9 meses, esperar.
+
+267
+01:05:53,548 --> 01:06:17,853
+Enquanto isso esja uma situação real, não uma idéia de que estpa melhor psicológicamente, o paciente pensa, está melhor, Oh, está melhor
+
+268
+01:06:18,930 --> 01:06:32,264
+não assim, isso é perigoso, se está melhor eu eu posso ver que está melhor, muitas vezes posso ver se alguém está melhor,
+
+269
+01:06:33,131 --> 01:06:40,179
+entram ao consultório e se sente outro ar, sentem imediatamente o remédio
+
+270
+01:06:42,264 --> 01:06:51,985
+ele diz: Como vai? E têm um problema com o paciente que quer que tudo desapareça em um mês.
+
+271
+01:06:53,167 --> 01:07:03,652
+Então têm que julgar a situação muito rapidamente, veja que está melhor... Quanto ele aceita isso? Que tipo de pessoa é?
+
+272
+01:07:04,451 --> 01:07:11,951
+Isso é que que temos que aprender ao tomar o caso e avaliá-lo
+
+273
+01:07:12,506 --> 01:07:23,408
+porque os seres humanos não são tão simples, são seres complicados, complexos,
+
+274
+01:07:23,930 --> 01:07:33,478
+têm muitos pensamentos nos bastidores, pensam em um nível e há outro nível por trás e pensa em algo mais
+
+275
+01:07:34,243 --> 01:07:37,853
+e talvez estão pensando em 3 níveis diferentes ao mesmo tempo
+
+276
+01:07:38,688 --> 01:07:54,555
+um nível lhes diz uma coisa, outro nível diz: vejamos como reage se digo isso e no terceiro nível estará criticando-lhes e diz isso e outra coisa mais
+
+277
+01:07:55,389 --> 01:08:05,840
+Tudo isso acontece ao mesmo tempo, não é fácil, dizemos psicológicamente melhor e em geral melhor.
+
+278
+01:08:06,639 --> 01:08:27,472
+Estas reações que obtêm das pessoas que vivem no campo, vilas, granjas, pessoas que trabalham muito com seu corpo têm
+
+279
+01:08:28,340 --> 01:08:39,033
+reações simples, enquanto mais educada a pessoa é, mais complicado é em suas reações e transações
+
+280
+01:08:39,798 --> 01:08:50,215
+e têm que estar conscientes de como ele lhes dá a informação, o que diz e quem é.
+
+281
+01:08:53,340 --> 01:09:00,631
+Uma pessoa simples, lhe diz que está melhor e ele diz, sim, estou melhor finalmente. Uma pessoa simples.
+
+282
+01:09:01,083 --> 01:09:13,860
+Um intelectual não aceitará o tratamento, te julgará e quando deixe o consultório dirá: Oh! que estúpido!
+
+283
+01:09:15,146 --> 01:09:22,715
+é isso  e aquilo... E irá com alguém mais, mas um intelectual pode estar melhor
+
+284
+01:09:23,792 --> 01:09:35,735
+e não dizer que está melhor. Porque ele está julgando todo o tempo, lhes dá algo e ele lhes julga em outro nível
+
+285
+01:09:36,604 --> 01:09:46,222
+ele entende, quanto entende? etc. E têm que estar conscientes de quem têm enfrente de vocês.
+
+286
+01:09:47,506 --> 01:10:00,631
+A avaliação da reação ao remédio homeopático é realmente uma grande arte
+
+287
+01:10:01,360 --> 01:10:15,110
+porque estáo sendo julgados pelos deuses.Quanto entendem da natureza humana? Entendem a natureza humana?
+
+288
+01:10:15,701 --> 01:10:23,097
+Vocês dizem que sim, eu entendo, mas... Será que entendem a natureza humana? Ninguém totalmente...
+
+289
+01:10:23,097 --> 01:10:29,936
+mas chega a experiência, vêem mais e mais casos, são capazes de perceber
+
+290
+01:10:30,735 --> 01:10:36,186
+mais e mais o que acontece na alma da pessoa, na mente de uma pessoa
+
+291
+01:10:36,985 --> 01:10:49,242
+alguém que vem até vocês pra ser tratado, porque seu desejo é curá-lo, não lhes importa o juizo e coisas do gênero
+
+292
+01:10:50,006 --> 01:10:58,582
+julgando ou não, o importante é que se concentrem na sua saúde
+
+293
+01:10:59,139 --> 01:11:13,826
+e pra isso têm que ser observadores objetivos, não condicionados, não preconceituosos, porque se olham o paciente com preconceito
+
+294
+01:11:14,277 --> 01:11:27,158
+e ele julga e vocês entendem, igualmene o julgam, e dizem, está com raiva, é uma besta, é isso, é aquilo.
+
+295
+01:11:28,409 --> 01:11:44,139
+Esqueçam a cura. Seu ego se interpõe na imagem e depois outra pessoa vem e dizem, que agradável, somente boas reações
+
+296
+01:11:44,938 --> 01:11:53,340
+e finalmente só terão como pacientes os amigos e as pessoas que lhes agrade, porque os demais lhes deixarão.
+
+297
+01:11:59,313 --> 01:12:18,652
+quando dão um remédio similar, acontece algo ruim, modificam-se os sintomas do paciente sem curá-lo
+
+298
+01:12:19,069 --> 01:12:27,471
+e isso é algo realmente desagradável e que, frequentemente acontece. Infelizmente.
+
+299
+01:12:31,430 --> 01:12:44,659
+Dão um remédio e o paciente vem e diz: minha dor de estômago está melhor, mas voltam depois de 3 meses por serem fieis seguidores,
+
+300
+01:12:44,659 --> 01:12:55,978
+estes casos lhes seguirão por 3, 5, 10 anos, são pacientes fieis para toda a vida
+
+301
+01:12:56,014 --> 01:13:13,444
+porque viram que podem fazer algo mais por eles, não o melhor, mas ainda assim os siguem porque são bons pacientes
+
+302
+01:13:16,534 --> 01:13:23,860
+nos apoiam financeiramente, porque se curam a todos de uma só vez, o planeta inteiro em um ano, se acaba,
+
+303
+01:13:24,868 --> 01:13:39,069
+já não haverá pacientes que curar... É só uma brincadeira...! Esse tipo de paciente devemos conhecer melhor, não podem dizer-lhes
+
+304
+01:13:39,173 --> 01:13:50,527
+ou talvez podem dizer se acreditam que são suficientemente inteligentes para compreender, dizer-lhes: olha, cometi um erro, eu alterei
+
+305
+01:13:50,771 --> 01:13:59,902
+os seus sintomas sem curá-lo e agora tenho que encontrar um outro remédio.
+
+306
+01:14:00,909 --> 01:14:09,416
+Agora, essa situação aqui é muito difícil, falaremos muito sobre a segunda prescrição e estes casos detalhadamente
+
+307
+01:14:10,250 --> 01:14:21,188
+como manejas isso, porque é uma condição muito séria e entra em muitos detalhes.
+
+308
+01:14:23,201 --> 01:14:30,597
+E nesse caso verão que o grupo de sintomas iniciais já desapareceu
+
+309
+01:14:31,360 --> 01:14:42,228
+ou  pelo menos uma porcentagem de 80% já foi alterada, mas alguns outros sintomas se estão desenvolvendo na mesma proporção
+
+310
+01:14:42,333 --> 01:14:58,444
+e em um mesmo nivel, algumas vezes ao dar muito estes remédios podemos afetar o nivel de saúde do paciente e ir a um nivel mais profundo.
+
+311
+01:15:01,083 --> 01:15:09,104
+já os pacientes histéricos e hipocondríacos, são aqueles que lhes dirão em cada remédio prescrito
+
+312
+01:15:09,208 --> 01:15:16,396
+que sentem diferentes sintomas, os quais não podem ser encontrados em nenhuma experimentação. São sintomas
+
+313
+01:15:16,569 --> 01:15:31,811
+próprios, que nao estão presentes em um remédio, p. exemplo vocês dão Sepia e desenvolvem
+
+314
+01:15:31,881 --> 01:15:41,186
+algumas fobias,  medo da escuridão, temor disso e daquilo, sintomas que não pertencem a Sepia.
+
+315
+01:15:41,951 --> 01:15:51,534
+Buscam em Sepia e não encontram os sintomas de Sepia, mas o paciente apresenta bastantes
+
+316
+01:15:52,368 --> 01:15:57,853
+então dão outro remédio, e depois, mais sintomas, e logo outros sintomas, etc, assim todo o tempo
+
+317
+01:15:59,104 --> 01:16:15,354
+cada vez que dão um remédio, surge um novo conjunto de sintomas novos, é melhor esperar com este paciente e traquilizar-se, melhor é dar baixas potências
+
+318
+01:16:16,048 --> 01:16:24,867
+antes até podem virá-lo do avesso, antes de que este caso esteja claro.
+
+319
+01:16:31,917 --> 01:16:45,493
+(E)Mas a palavra hipocondríaco, significa que vem de um lugar muito profundo, que vem
+
+320
+01:16:47,646 --> 01:16:53,548
+de uma fonte genuína, e por isso querem fazer algo ainda que seja hipocondríaco.
+
+321
+01:16:54,625 --> 01:17:05,701
+Oh sim, absolutamente! Eu não digo que o deixem abandonado, que não o tratem, digo que é melhor ser cuidadoso e  não dar
+
+322
+01:17:06,569 --> 01:17:21,777
+com cada sintoma que lhes dêem outro remédio. Podem esperar durante meses, e coletar todos os sintomas que estas pessoas apresentam
+
+323
+01:17:22,576 --> 01:17:28,826
+e fazer uma avaliação de toda a sintomatologia  e ver se a imagem geral
+
+324
+01:17:29,590 --> 01:17:48,791
+então verão aí a hipocondria e, que é hipocondria? Geralmente, com respeito à saúde da pessoa,
+
+325
+01:17:49,972 --> 01:18:11,707
+cada sintoma é exagerado sempre e cada vez, seja o que for. Algumas pessoas verificam o pulso e dizem que não podem senti-lo e pegam o telefone
+
+326
+01:18:12,993 --> 01:18:35,110
+e lhes dizem: tenho pulso de 78! Não se preocupe, está tudo bem, é normal. E eles dizem: Normal 78? Sim, é normal. Têm que estar seguros
+
+327
+01:18:37,368 --> 01:18:57,298
+ de pulso é normal, eles dizem: OH! 68, 68! Também é normal. o pulso de 68 a 78 é normal... Eles têm que estar seguros
+
+328
+01:18:57,993 --> 01:19:12,506
+e esperam, o que está fazendo em sua mente é buscar se este caso é Nitric-Acid o Lycopodium o Natrum Muriaticum o Kali- Arsenicum.
+
+329
+01:19:13,583 --> 01:19:28,652
+Ós remédios com esse tipo de ansiedade, que dirão todo o tempo...  Oh! Acho que tenho uma pequena dor.
+
+330
+01:19:31,430 --> 01:19:50,874
+Sente dor? Acho que sim. Então começam a pensar: dor em hipocôndrio direito, Chelidonium, não
+
+331
+01:19:52,715 --> 01:20:11,186
+tomam a situação completa do paciente é diferente toda em conjunto, ele que tem dor no hipocôndrio direito
+
+332
+01:20:17,472 --> 01:20:24,936
+nesse momento vocês estão lendo sua mente, ele pensa: lhe digo sim ou não
+
+333
+01:20:25,979 --> 01:20:31,014
+se eu lhe digo que sinto, talvez possa me dizer que tenho câncer mas se não lhe digo que tenho a dor
+
+334
+01:20:32,368 --> 01:20:39,832
+pode ser que ele se esqueça de mim. Que lhe devo dizer? E este tipo de pensamento é que permeia
+
+335
+01:20:40,597 --> 01:20:52,332
+em um estado de hipocondria. E depois avaliam essa dor, outra dor, e outra, e tomam toda esta imagem completa e dizem: espera um momento...
+
+336
+01:20:52,333 --> 01:20:57,576
+Hipocondríacos com pressão arterial alta... Esqueçam!
+
+337
+01:20:57,680 --> 01:21:05,978
+Porque  normalmente a pressão sobe e baixa todo o tempo, de manhã, à tarde, etc.
+
+338
+01:21:09,590 --> 01:21:14,554
+e quando o hipocondríaco aprende a aferir-se a pressão o tempo todo dirá...
+
+339
+01:21:15,631 --> 01:21:28,617
+tenho 148, sim, mas tem 58 anos e é normal. Eles dizem: normal?... Assim, quando encontrem esses casos
+
+340
+01:21:31,465 --> 01:21:39,867
+Terão muitos problemas, deixem de dar remédios. Dão 1 remédio, dão 2 remédios, cada vez terão uma grande reação
+
+341
+01:21:40,597 --> 01:21:53,374
+e vocês estão perdidos. Esperem um momento e eventualmente a imagem aparecerá.
+
+342
+01:21:54,173 --> 01:22:01,429
+Isso é Agaricus ou Natrum muriaticum? Lycopodium? Pensem em outro nível do caso
+
+343
+01:22:02,993 --> 01:22:15,735
+eles lhes guiarão a pequenos sintomas aqui e ali, quando os sintomas principais estão no nivel mental
+
+344
+01:22:16,465 --> 01:22:27,124
+e então estão em problemas, porque estamos prescrevendo para estes pequenos sintomas que estão na periferia e
+
+345
+01:22:27,889 --> 01:22:43,582
+nos esquecemos do nivel mental. Que faço quando dou um remédio e o paciente tem uma severa agravação, tão forte que ele não pode tolerar?
+
+346
+01:22:44,590 --> 01:22:58,929
+Falaremos desses casos. Se esse caso está perto da incurabilidade o mais provável é que terão
+
+347
+01:22:59,625 --> 01:23:04,555
+que interferir com outro remédio, de forma que o paciente melhore
+
+348
+01:23:04,555 --> 01:23:09,485
+de outra maneira, se o deixam assim, morrerá.
+
+349
+01:23:10,006 --> 01:23:20,700
+Por esse motivo, em uma agravação real de um remédio homeopático, em um caso incurável,
+
+350
+01:23:22,576 --> 01:23:34,520
+é preciso interferir com o seguinte remédio, e usualmente o remédio aparece, vocês o podem ver.
+
+351
+01:23:45,389 --> 01:23:54,485
+Com os casos histéricos e hipocondríacos, não é um sintoma em si mesmo quando buscam na rubrica?
+
+352
+01:23:54,485 --> 01:24:10,319
+Absolutamente, consideram a ansiedade hipocondríaca como um rubro, mas não é suficiente porque há 50 remédios
+
+353
+01:24:10,319 --> 01:24:24,971
+E qual deles?  Dificil, Nat-m, Lyc, Calc, os Kalis..? Muitos remédios pra diferenciar.
+
+354
+01:24:37,298 --> 01:24:40,527
+É bom dar placebo nesses casos?
+
+355
+01:24:42,506 --> 01:24:56,846
+Sim, claro!  Dêem placebo tres vezes ao dia, comocem com uma toma, dupliquem, tripliquem, 10 vezes, quantas vezes sejam necessárias para satisfazer a sua necessidade
+
+356
+01:24:59,173 --> 01:25:18,235
+e porque estes pacientes, geralmente, são levados por suas mentes hipocondríacas, é necessário mantê-los em um baixo nível
+
+357
+01:25:19,798 --> 01:25:28,270
+e lhes fará bem e os ajudarão sobreviver o tempo suficiente para que possam observar quais outros sintomas há
+
+358
+01:25:28,271 --> 01:25:43,618
+e que tomem a decisão correta, mas tenham sempre em mente que nesse casos especialmente, esse elemento sempre estará aí
+
+359
+01:25:44,659 --> 01:26:00,735
+e até certo ponto, é como um traço de personalidade, assim que permanecerá, mas o exagero, os medos, as ansiedades,
+
+360
+01:26:01,777 --> 01:26:14,867
+os ataques de pânico que geralmente acompanham estes casos, tudo vai desaparecer, ainda que no fundo, em suas mentes, permanecerá: mas, e essa dorzinha?
+
+361
+01:26:15,631 --> 01:26:33,617
+Mas será um pensamento vago e logo se irá. De outra forma, o pensamento permanece e atormenta e os faz realmente temerosos... Vou morrer!
+
+362
+01:27:01,152 --> 01:27:19,381
+Encontrem no Organon onde Hahnemann fala sobre os pacientes histéricos e hipocondríacos. Quais parágrafos são?
+
+363
+01:27:20,909 --> 01:27:32,124
+Somente encontrem o parágrafo e digam-me.
+
+364
+01:27:55,909 --> 01:28:06,082
+Onde Hahnemann fala desse grupo, o Similar, no Organon?
+
+365
+01:28:18,756 --> 01:28:25,006
+E em qual parágrafo fala da experimentação?
+

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6385fcfecf3a27141d803eacb99c4629</ID>
+  <patient>
+    <case_date>2015-02-15 19:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Τ. Ο.</patient_initials>
+    <age>10</age>
+    <circumstances>Μαθητής δημοτικού.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Προ τριών ετών. </origin>
+        <causative_factors>&#13;
+Ακραίο άγχος για την υγεία του(4) (προφανώς μεταδιδόμενο από τους γονείς - ο πατέρας εμφανίζει παρόμοιες κρίσεις πανικού).&#13;
+&#13;
+Μεγάλη κατανάλωση σε ζαχαρώδη.(3)</causative_factors>
+        <modalities>Επιδείνωση: σε μέρη με πολύ κόσμο (αγχώνεται όπως αναφέρει το ίδιο).&#13;
+&#13;
+Βελτίωση: στο σπίτι του, οικογενειακό περιβάλλον.</modalities>
+        <occurrence_time>Δεν υπάρχει συγκεκριμένος χρόνος επιδείνωσης ή βελτίωσης&#13;
+.Επιδεινώνεται με την κατανάλωση γλυκών.</occurrence_time>
+        <body_side>Στομάχι - έντερο: κάνει συχνά διάρροιες.&#13;
+(κοιλιακή) χώρα.</body_side>
+        <appearence_frequency>2-3 φορές τον μήνα.</appearence_frequency>
+        <pain_desc>Οξύς πόνος στο στομάχι ξαφνικά όταν αγχώνεται, κάνει διάρροιες.</pain_desc>
+        <complaint_ext>Οχι.</complaint_ext>
+        <other_complaints>Φοβάται να πάει στο σχολείο για να μην κάνει διάρροια, ντρέπεται τους ξένους (συμμαθητές και δασκάλους). Όταν τρώει γλυκά επιδεινώνεται και διστάζει ακόμα περισσότερο να πάει στο σχολείο.&#13;
+&#13;
+Συνεσταλμένο και ντροπαλό παιδί, ανοιγοκλείνει συνεχώς τα μάτια του, δεν σε κοιτάζει στα μάτια (ήρθε με σκυμένο το κεφάλι), φοβάται το σκοτάδι, τα σκυλιά, τα φίδια, τις μέλισσες. Κλαίει εύκολα.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Διάγνωση: κρίσεις πανικού, αγοραφοβία.&#13;
+&#13;
+Ουδεμία.</conv_med_presc>
+        <lab_tests>
+          <desc>κ.φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Έλαβε, χωρίς αποτέλεσμα, ομοιοπαθητικά φάρμακα σε μικρότερη ηλικία, αλλά οι γονείς δε γνωρίζουν ποια φάρμακα ακριβώς.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβολιασμός: πλήρης.&#13;
+Δεν παίρνει συχνά αντιβιώσεις.&#13;
+&#13;
+</therapies_vaccination>
+          <traumas>Όχι.</traumas>
+          <infections>Όχι.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: ουδεμία.&#13;
+&#13;
+Πατέρας: σχεδόν 20 χρόνια υποφέρει από κρίσεις πανικού και έντονη αρρωστοφοβία (κυρίως φόβος για εμφάνιση καρκίνου), αμυγδαλίτιδα, ρινοφαρυγγίτιδα. </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται πολύ(3), του αρέσει ο ήλιος.</reactions>
+        <sleeping_habits>Κοιμάται σε εμβρυική στάση (κουλουριασμένος), δεν ιδρώνει, τρίζει τα δόντια του, παραμιλάει, βλέπει εφιάλτες(3) (του αρέσει να βλέπει ταινίες τρόμου - θρίλερ στην τηλεόραση βραδινές ώρες παρόλο που μετά φοβάται, βλέπει άσχημα όνειρα και δεν μπορεί να κοιμηθεί), κοιμάται με φως.</sleeping_habits>
+        <food_modalities>Του αρέσουν πολύ τα γλυκά και κυρίως οι καραμέλες (3). Του αρέσουν τα ξινά φρούτα, το λεμόνι, το γάλα, το αλάτι.&#13;
+&#13;
+Απέχθεια στο αυγό(3).</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Ντροπαλό και συνεσταλμένο παιδί, φοβιτσιάρης(2), αποζητά την αγκαλιά και την παρηγοριά, είναι τρυφερός με την μικρότερη αδερφή του (έχουν μεγάλη διαφορά ηλικίας)&#13;
+Ακραίο άγχος υγείας(3). Αγοραφοβία(4)...</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>1-2 φορές το χρόνο εμφανίζει ιώσεις με υψηλό πυρετό.</personal_medical_history>
+        <family_medical_history>Μητέρα: υγιής.&#13;
+&#13;
+Πατέρας: κρίσεις πανικού.</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Ανήκει σε υψηλό επίπεδο υγείας καθώς εμφανίζει συχνά οξέα.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Φόβος στο σκοτάδι(3), αγοραφοβία (4).</peculiar>
+        <intense>Αρρωστοφοβία (4), διάρροιες(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Pulsatila,Kali ars.,Argentum nitricum, Aconitum napellus.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Δόθηκε Argentum nitricum, γιατί το παιδί ακόμη και όταν δεν παρουσιάζει κρίσεις πανικού, διακατέχεται από άλλες φοβίες και άγχη (κυρίως υγείας) που δεν του επιτρέπουν να ζει μια φυσιολογική ζωή για την ηλικία του. Ιδιαίτερο χαρακτηριστικό που βοήθησε υπέρ αυτού του φαρμάκου και όχι του άλλου είναι η εμφάνιση διαρροιών μετά από την έντονη επιθυμία του για γλυκά και ιδίως για καραμέλες.</remedies_differentiation>
+      <prescription>
+        <remedy>Argentum nitricum.</remedy>
+        <potency>1Μ </potency>
+        <regimen>1x1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-04-13 18:30:00</followup_date>
+      <conv_med_presc>Στη δεύτερη αυτή συνάντησή μας το παιδί είχε μεγάλη βελτίωση και έτσι δεν κρίθηκε σκόπιμο να συνεχίσει κάποια φαρμακευτική αγωγή.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Σταμάτησαν οι διάρροιες, οι φοβίες και οι κρίσεις πανικού πολύ γρήγορα.</reaction>
+      <analysis>Θεωρώ ότι δόθηκε το πιο κατάλληλο για την περίσταση, κάτι που αποδείχτηκε, καθώς το παιδί ένιωσε πολύ γρήγορα καλύτερα και τα συμπτώματα υποχώρησαν εντελώς.</analysis>
+      <conclusion>Δεν χρήζει άλλου φαρμάκου στην παρούσα φάση.Περιμένουμε.</conclusion>
+      <repertorization>
+        <desc>Δε δόθηκε κάποιο φάρμακο. Περιμένουμε.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν πήρε κάποιο φάρμακο. Περιμένουμε.</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Τον Αύγουστο που ήρθα σε επικοινωνία με τους γονείς του παιδιού, με ενημέρωσαν σχετικά με την πορεία του η οποία εξακολουθεί να είναι καλή, με εξαίρεση ενός γεγονότος οπότε αισθάνθηκε το παιδί αδύναμο να ανταπεξέλθει (κρίση άγχους) και το οποίο όμως ξεπεράστηκε γρήγορα, χωρίς να πάρει άλλο φάρμακο μέχρι στιγμής.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

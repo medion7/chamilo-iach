@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL73f2c62702e43f26e384cb037235018a</ID>
+  <patient>
+    <case_date>2013-12-11 17:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>A.N.</patient_initials>
+    <age>36</age>
+    <circumstances>Παντρεμενος, εχει δυο αγορακια ενος και τεσσαρων ετων. προς στιγμην ειναι ανεργος, εχει σπουδασει σε καποια τεχνικη σχολη </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αιμορροιδες, τα τελευταια 10 χρονια</origin>
+        <causative_factors>-&#13;
+</causative_factors>
+        <modalities>&lt;αλκοολ&#13;
+&lt;καυτερα φαγητα(2)</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>δεν εχει πονο, εχει αιμορραγια(2), συνηθως καθαρο κοκκινο αιμα</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>-περιοδοντιτιδα(2) χωρις πολλη αιμορραγια, απωλεια οστου&#13;
+-ρινορραγιες(2) παλια πολυ συχνα, τωρα μονο οταν ειναι κρυωμενος ή απο χτυπημα&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εμβολια τα συνηθη</therapies_vaccination>
+          <traumas>οταν πεθανε η μητερα του (ηταν 17 ετων) και πριν 5 χρονια πεθανε ενας κολλητος του φιλος.</traumas>
+          <infections>-</infections>
+          <other>-στο δημοτικο:- αλλεργια στο σατεν υφασμα, εβγαζε φλυκταινες .&#13;
+                     - λειχηνες στο προσωπο, ασπρες περιοχες ξηρες&#13;
+-εκζεμα στον κοκκυγα εντονα κοκκινο, με εντονη ηδονικη φαγουρα που κατεληγε σε πονο&#13;
+-2010:κολικος νεφρου, του ειπαν επειδη δεν πινει αρκετο νερο, αντιμετωπιστηκε με παυσιπονα, προφανως δεν υπηρχε πετρα </other>
+        </personal>
+        <family>
+          <diseases>μητερα:πολλαπλο μυελωμα, πεθανε 45 ετων, περιοδοντιτιδα&#13;
+πατερας: Σ.Δ., 2 επεμβασεις αγγειοπλαστικης,νεαρος νοσηλευτηκε σε νευρολογικη κλινικη&#13;
+    πατερας:καρδιοπαθης&#13;
+αδερφος: αιμορροιδες</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>γενικως ζεσταινεται(2)</reactions>
+        <sleeping_habits>υπνος δεν ξεκουραζει(2)&#13;
+τρανταζεται πριν κοιμηθει(2)&#13;
+πελματα καινε, τα βγαζει απο τα σκεπασματα(3)&#13;
+ιδρωνει παρα πολυ στον υπνο(4), σηκωνεται και αλλαζει μπλουζα&#13;
+ονειρα δεν θυμαται</sleeping_habits>
+        <food_modalities>επιθυμιες:μακαρονια(3) , κιμας(2)&#13;
+απεχθειες: μπαμιες&#13;
+αδιψια(2) πινει 2 ποτηρια νερο την ημερα με το ζορι</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>-νευρα(3), οταν νευριαζει, φωναζει βριζει, κυριως αυτα στο σπιτι, εξω απο το σπιτι ειναι αλλιως, ειναι το καλο παιδι&#13;
+-κλαιει ευκολα(4)&#13;
+-παρηγορια βελτιωνει(3)&#13;
+-φοβαται ενεσεις (3)&#13;
+-τακτικος(3)&#13;
+- τον ενδιαφερει η εξωτερικη εμφανιση(3), 'ειμαι κοκετα'</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>δεν φαινεται να υπαρχει καποια σοβαρη κατασταση, τα στρες που εχει βιωσει εχουν μαλλον οδηγησει στις αιμορροιδες και το ευεξαπτο του χαρακτηρα του</personal_medical_history>
+        <family_medical_history>οικογενειακα, υπαρχει ενα σχετικα επιβαρυμενο ιστορικο με τη μητερα να πεθαινει απο καρκινο και τον πατερα να υποφερει απο σακχαρωδη διαβητη και ισως καποια ψυχικη νοσο που δεν γνωριζει. </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>κλαιει ευκολα(4)</peculiar>
+        <intense>-mind-irritability(3)&#13;
+-mind-consolation amel(3)&#13;
+-mind-fastidious(3)&#13;
+-mind-fear of injections(3)&#13;
+-stomach-thirstless(2)&#13;
+-sleep-unrefreshing(2)&#13;
+-sleep-dreams-unremembered(2)&#13;
+-generalities-warm-agg(2)&#13;
+-generalities-foods-farinaceous food-desire(2)&#13;
+-extremities-heat-foot-burning-uncovers them(3)&#13;
+-rectum-haemorrhage-from anus(2)&#13;
+-nose-epistaxis(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>οταν πηραμε το πρωτο ιστορικομου εκανε εντυπωση το οτι φωναζε μεσα στο σπιτι και εξω ηταν το καλο παιδι και οταν τον ειχα ρωτησει για την παρηγορια μου ειχε πει οτι σχεδον τον ενοχλει.επισης για το κλαμα μου ειχε πει οτι ειναι ευσυγκινητος απλα. ο υπνος που δεν ξεκουραζει και τα προηγουμενα μου εδωσαν εικονα lycopodium με επομενες επιλογες την pulsatilla , NUX-V, Ars, Sulph. απο απειρια εδωσα lycopodium</remedies_differentiation>
+      <prescription>
+        <remedy>lycopodium</remedy>
+        <potency>200cH</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-02-02 16:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>αφου πηρε το φαρμακο, εκανε αμεσως πυρετο και πηγε στο νοσοκομειο οπου διαγνωστηκε λοιμωδης μονοπυρηνωση. δεν ειχαμε καμια αλλαγη στα υπολοιπα συμπτωματα.</reaction>
+      <analysis>προφανως η λοιμωδης μονοπυρηνωση ειχε ηδη ξεκινησει(γι αυτο ειχε και τοσο εντονη εφιδρωση στον υπνο), οποτε δεν ημουν σιγουρη αν το ομοιοπαθητικο φαρμακο επαιξε ρολο στην αντιδραση αυτη ή οχι και κατα ποσο μπορεσε να ενεργησει. οποτε του προτεινα να επαναλαβουμε μια δοση 200cH.</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Lycopodium</remedy>
+        <potency>200cH</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-05 17:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δεν ειχε ερθει τοσο καιρο στο ιατρειο αλλα τωρα που ηρθε μου ειπε πως δεν εχει αλλαξει τιποτα. τον ρωτησα για την παρηγορια και μου ειπε πως την θελει πολυ, 'θελω αγαπη, φροντιδα και προδερμ'. για το κλαμα μου ειπε οτι κλαει με το παραμικρο. οποτε δινοντας μεγαλυτερη βαση σε αυτα τα δυο σημεια και κανοντας repertorization με το compass βγαινει οντως καθαρη εικονα Pulsatilla, με επομενες επιλογες Sulph, spig, Nat-mur.</reaction>
+      <analysis>το αρχικο φαρμακο ηταν λαθος, δινουμε δευτερο και αναμενουμε.</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>pulsatilla</remedy>
+        <potency>200cH 1M</potency>
+        <regimen>πρωι και βραδυ</regimen>
+        <other_notes>δεν εχουμε προλαβει νεο follow up</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

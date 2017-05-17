@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL33ee847baf549cb7eb9e7174161f1c27</ID>
+  <patient>
+    <case_date>2014-01-09 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Δ.Α.</patient_initials>
+    <age>4</age>
+    <circumstances>Φοιτεί σε παιδικό σταθμό. Έχει δύο μεγαλύτερους αδερφούς 6 και 8 χρονών. Ζει μαζί με τους γονείς της και τα αδέρφια της στην Αθήνα. </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Περιστοματική δερματίτιδα από έτους. Ατοπική δερματίτιδα (διάγνωση από δερματολόγο) και περιστοματικά και στο σώμα, κυρίως στον κορμό και λιγότερο στα άκρα. Κνησμός έντονος και υπάρχει επιμόλυνση της δερματίτιδας με σταφυλόκοκκο. Η παιδοδερματολόγος που μόλις τους εξέτασε σύστησε αντιβίωση per os. &#13;
+</origin>
+        <causative_factors>Δεν έχουν διαπιστωθεί προκλητικοί παράγοντες. </causative_factors>
+        <modalities>Το καλοκαίρι στη θάλασσα βελτιώνεται, καθώς και με τον ήλιο. </modalities>
+        <occurrence_time>Καλοκαίρι: καλύτερα</occurrence_time>
+        <body_side>Περιστοματικά, στον κορμό και λιγότερα στα άνω και κάτω άκρα. </body_side>
+        <appearence_frequency>Καθημερινά υπάρχει κνησμός εκτός από το καλοκαίρι που υπάρχει βελτίωση. </appearence_frequency>
+        <pain_desc>Yπάρχει κνησμός περισσότερο στον κορμό και περιστοματικά</pain_desc>
+        <complaint_ext>Δερματίτιδα και στα άνω και κάτω άκρα αλλά σε ηπιότερο βαθμό. </complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>fucidin –C τοπικά.  Κenacomb τοπικά. </conv_med_presc>
+        <lab_tests>
+          <desc>---</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-----</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει γίνει ο προβλεπόμενος εμβολιασμός για την ηλικία της. Έχουν χρησιμοποιηθεί kenacomb για ανακούφιση από τον κνησμό και fucidin τοπικά για την επιμολυνση. </therapies_vaccination>
+          <traumas>Δεν υπάρχουν.</traumas>
+          <infections>Δεν έχουν εμφανιστεί. </infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατέρας( 39 ετών): λοιμώδης μονοπυρήνωση πριν 4 χρόνια με 41ο πυρετό.&#13;
+Μητέρα( 44 έτων): κήλες μεσοσπονδύλιου δίσκου στην ΟΜΣΣ. Υποφέρει ενίοτε από οσφυαλγία.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται 2&#13;
+Ιδρώνει φυσιολογικά&#13;
+Της αρέσει ο ήλιος&#13;
+Της αρέσει πολύ η θάλασσα</reactions>
+        <sleeping_habits>Ιδρώνει στον ύπνο, παρόλο που δεν κοιμάται με υπνόσακο το χειμώνα και γενικά είναι ξεσκέπαστη. &#13;
+Κοιμάται μπρούμυτα. </sleeping_habits>
+        <food_modalities> Επιθυμίες: &#13;
+Παγωτό  3 ακόμα και το χειμώνα.&#13;
+Γλυκά και σοκολάτα 2&#13;
+Μακαρόνια με κιμά ή με τυρί ή φέτα 2. &#13;
+Τα τρώει όλα και χωρίς πρόβλημα. &#13;
+Αχλάδι και μπανάνα 1. &#13;
+Δεν τρώει την πολύ ώριμη μπανάνα. &#13;
+Αυγά σφιχτά μόνο έχει δοκιμάσει και ομελέτα. &#13;
+Μελάτα αυγά και μάτια δεν έχει δοκιμάσει, γιατί δε τα φτιάχνει η μητέρα. &#13;
+Λεμόνι 3. &#13;
+Αλάτι 2. &#13;
+Ελιές 2. &#13;
+Ψάρι 1. &#13;
+Γάλα 2. &#13;
+Απέχθειες:&#13;
+Λίπος 1&#13;
+</food_modalities>
+        <menstruation>--</menstruation>
+      </physical>
+      <mental_emotional>Πεισματάρα και γκρινιάζει συνέχεια τώρα που την εξετάζω. &#13;
+Ανυπόμονη αρκετά. &#13;
+Επίμονη 3&#13;
+Όχι γκρινιάρα&#13;
+Αυτάρκης &#13;
+Τολμηρή 3&#13;
+Συμπάσχει φυσιολογικά&#13;
+Δεν κλαίει εύκολα&#13;
+Aκατάστατη 3. &#13;
+Φοβάται τα μεγαλόσωμα σκυλιά&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Κρυολόγησε τις πρώτες μέρες που μπήκε στον παιδικό σταθμό πριν 3 μήνες με πυρετό μέχρι 38,6 για 2 μέρες. Δεν εμφανίστηκαν επιπλοκές. </personal_medical_history>
+        <family_medical_history>Ο πατέρας εμφάνισε μια ξηροδερμία στην κάτω γνάθο μετά τη λοιμώδη μονοπυρήνωση. &#13;
+μητέρα: οσφυαλγία. </family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Περιμένουμε άμεση βελτίωση αν δοθεί το σωστό φάρμακο. &#13;
+Έχει συμτπώματα που δείχνουν καθαρό φάρμακο. </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Λεμόνι 3&#13;
+</peculiar>
+        <intense>Επιθυμίες: Λεμόνι 3&#13;
+Βελτίωση στη θάλασσα 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND SELFISHNESS 2&#13;
+MIND UNTIDY 1&#13;
+FACE ERUPTIONS eczema mouth around 2&#13;
+SLEEP POSITION abdomen, on 3&#13;
+SKIN ERUPTIONS eczema3&#13;
+SKIN ERUPTIONS itching 2&#13;
+GENERALITIES BATHING sea amel.2&#13;
+GENERALITIES FOOD and DRINKS icecream desire 3&#13;
+GENERALITIES FOOD and DRINKS lemons desire 3&#13;
+GENERALITIES FOODand DRINKS salt desire 2&#13;
+GENERALITIES WARM agg. 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Sulphur, Medorrhinum</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORRHINUM </remedy>
+        <potency>200  CH</potency>
+        <regimen>1 CAPS ΑΠΑΞ</regimen>
+        <other_notes>αρκετά ζωηρό παιδάκι. </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Mόνο το Med 200 που χορηγήθηκε στις αρχές Ιανουαρίου και τοπικά fucidin. </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>1ο FOLLOP UP: 13/2/2014&#13;
+Μέσα σε 10 μέρες υπήρξε θεαματική βελτίωση της ατοπικής δερματίτιδας. &#13;
+&#13;
+Μέσα σε μια εβδομάδα, άρχιζε να καθαρίζει. Στις 10 μέρες τους ξαναείδα για να δω τη βελτίωση που μου ανέφερε από το τηλέφωνο η μητέρα. &#13;
+Τώρα: εξαφανίστηκε και  στο σώμα. Έχει μείνει μόνο μια δυσχρωμία του δέρματος στην κοιλιά, όπου υπήρχαν οι βλάβες. &#13;
+Στο στόμα υπάρχει μόνο μια ερυθρότητα στη γωνία των χειλιών&#13;
+</reaction>
+      <analysis>Καλή αντίδραση.</analysis>
+      <conclusion>Πολύ καλή αντίδραση. Λόγω καθαρών συμπτωμάτων και καλού επιπέδου υγείας υπήρξε βελτίωση της ατοπικής δερματίτιδας</conclusion>
+      <repertorization>
+        <desc>MIND SELFISHNESS 2&#13;
+MIND UNTIDY 1&#13;
+FACE ERUPTIONS eczema mouth around 2&#13;
+SLEEP POSITION abdomen, on 3&#13;
+GENERALITIES BATHING sea amel.2&#13;
+GENERALITIES FOOD and DRINKS icecream desire 3&#13;
+GENERALITIES FOOD and DRINKS lemons desire 3&#13;
+GENERALITIES FOODand DRINKS salt desire 2&#13;
+GENERALITIES WARM agg. 2&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>δε δόθηκε φάρμακο</remedy>
+        <potency>δε δόθηκε  φάρμακο</potency>
+        <regimen>δε δόθηκε φάρμακο</regimen>
+        <other_notes>πολύ απόλυτη και διεκδικητική. </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Δεν πήρε στην προηγούμενη επίσκεψη άλλο ομοιοπαθητικό φάρμακο</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>3o FOLLOP UP: 29/3/2014.&#13;
+Υπήρξε υποτροπή της ατοπικής δερματίτιδας περιστοματικά &#13;
+</reaction>
+      <analysis>----</analysis>
+      <conclusion>Ίσως χρειάζεται μεγαλύτερη δυναμοποίηση του Med, αλλά θα δοκιμάσουμε πρώτα το το 200CH που έδωσα στην αρχή. </conclusion>
+      <repertorization>
+        <desc>&#13;
+&#13;
+MIND SELFISHNESS 2&#13;
+MIND UNTIDY 1&#13;
+FACE ERUPTIONS eczema mouth around 2&#13;
+SLEEP POSITION abdomen, on 3&#13;
+GENERALITIES BATHING sea amel.2&#13;
+GENERALITIES FOOD and DRINKS icecream desire 3&#13;
+GENERALITIES FOOD and DRINKS lemons desire 3&#13;
+GENERALITIES FOODand DRINKS salt desire 2&#13;
+GENERALITIES WARM agg. 2&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>MEDORRHINUM </remedy>
+        <potency>200CH</potency>
+        <regimen>1 CAPS MEDORRHINUM 200CH ΤΗΝ ΠΡΩΤΗ ΜΕΡΑ ΜΟΝΟ</regimen>
+        <other_notes>δεν κρυολόγησε καθόλου από τον περασμένο Σεπτέμβριο που ξεκίνησε στον παιδικό σταθμό. 'Εχει πολύ καλό επίπεδο υγείας.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Εκτός από το Med 200CH που δόθηκε στην προηγούμενη επίσκεψη δε χρειάστηκε άλλη φαρμακευτική αγωγή</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>FOLLO UP: 29/4/2014&#13;
+Yπήρξε άμεση βελτίωση του εξανθήματος περιστοματικά. &#13;
+Μια ερυθρότητα εμφανίζεται περιστοματικά όταν είναι κοντά σε τζάκι και στην εξοχή. &#13;
+Εμφανίζεται ενίοτε και περιγεννητικό εξάνθημα</reaction>
+      <analysis>Επιβεβαίωση του MED με την εμφάνιση του περιγεννητικού εξανθήματος</analysis>
+      <conclusion>Λόγω επιβεβαίωσης του φαρμάκου με την εντόπιση του εξανθήματος περιγεννητικά, είναι πλέον καθαρό το φάρμακο. </conclusion>
+      <repertorization>
+        <desc>GENITALIA-FEMALE- ERUPTIONS- RASH- CHILDREN, IN - NEWBORNS, IN - EXTENDING THROUHG PERINEUM </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>MED </remedy>
+        <potency>200CH</potency>
+        <regimen> 1 CAPS MEDORRHINUM 200CH ΚΑΘΕ 15 ΜΕΡΕΣ ΓΙΑ 45 ΜΕΡΕΣ.</regimen>
+        <other_notes>Χορηγήθηκε και Uriage Cu zink  ( αφρόλουτρο) and Sebamed healing cream (φαρμακευτική κρέμα) για το περιγεννητικό εξάνθημα</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Έκτός από την τελευταία αγωγή: 1 caps MED 200CCH κάθε 15 μέρες και τα τοπικά καλλυντικά δε χρειάστηκε κάτι άλλο. </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>4ο FOLLOP UP: 11/9/2014&#13;
+ Το εξάνθημα εξαφανίζεται στη θάλασσα. &#13;
+Μόλις ήρθε σε επαφή με το συνθετικό χαλί σε παιδότοπο εμφανίστηκε το έκζεμα περιστοματικά. &#13;
+Στα Κανάρια νησιά δεν είχε πρόβλημα στο δέρμα της. &#13;
+Θέλει να πάει σχολείο. &#13;
+Ανυπόμονη στην αναμονή με το σχολικό. &#13;
+Άρχισε να κλαίει γιατί είχε αργήσει το σχολικό. &#13;
+Έχει μειωθεί η όρεξη για φαγητό. &#13;
+Σταφύλια και σύκα από φρούτα.&#13;
+Λεμόνι 3&#13;
+Διεκδικητική όπως πάντα.</reaction>
+      <analysis>Γενικά πήγε πολύ καλά το περιστατικό από την πρώτη συνταγογράφηση. Έχει πολύ καλό επίπεδο υγείας, εφόσον δε κρυολόγησε καθόλου στον παιδικό σταθμό από τον περασμένο Σεπτέμβριο που ξεκίνησε. </analysis>
+      <conclusion>Γενικά πήγε πολύ καλά το περιστατικό από την πρώτη συνταγογράφηση. Έχει πολύ καλό επίπεδο υγείας, εφόσον δε κρυολόγησε καθόλου στον παιδικό σταθμό από τον περασμένο Σεπτέμβριο που ξεκίνησε. </conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δε δόθηκε φάρμακο</remedy>
+        <potency>Δε δόθηκε φάρμακο</potency>
+        <regimen>-----</regimen>
+        <other_notes>Σε υποτροπή της ατοπικής δερματίτιδας θα χορηγηθεί MED 200CH</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

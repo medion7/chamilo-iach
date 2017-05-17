@@ -1,0 +1,1068 @@
+﻿1
+00:00:24,700 --> 00:00:37,260
+Es un problema, lo admito y hablaremos sobre las posibles soluciones o herramientas que están ahí para encontrar la información.
+
+2
+00:00:37,360 --> 00:00:44,460
+Antes que nada están conscientes de la estructura del repertorio, los capítulos y cada uno de forma alfabetica, modalidades,
+
+3
+00:00:44,560 --> 00:01:05,430
+extensiones y todo eso,no tengo que explicarles. La meta de la estructura del repertorio es encontrar la información.
+
+4
+00:01:05,530 --> 00:01:27,699
+Lo segundo para ayudar a los usuarios del repertorio a encontrar la información es el lenguaje estandarizado.
+
+5
+00:01:28,200 --> 00:01:38,770
+Con esto quiero decir, que si están hablando y tienen un síntoma mientras hablan no se ingresará así en el repertorio
+
+6
+00:01:38,870 --> 00:01:50,135
+se ingresará como hablar, en el repertorio no conversamos más bien hablamos, por lo que el número de
+
+7
+00:01:51,370 --> 00:02:01,399
+palabras son limitadas, no usamos todos lo sinonimos de del conversar, siempre usamos el hablar.
+
+8
+00:02:02,120 --> 00:02:19,520
+Otro ejemplo cuando algo mejora por una posición o acción, lo que sea decimos mejoría por; no decimos se alivia,decimos mejoria por.
+
+9
+00:02:19,620 --> 00:02:33,766
+El lenguaje se estandariza. En el repertorio de Kent el lenguaje es menos estandarizado, con las siguientes ediciones del Synthesis
+
+10
+00:02:34,666 --> 00:02:47,490
+racionalizamos el lenguaje del repertorio un poco más y debe hacerse aún más pero es una tarea muy grande, por lo que está en proceso.
+
+11
+00:02:47,590 --> 00:03:06,240
+Hasta ahora el trabajo es insertar los síntomas y  luego para las personas que buscan tenemos diferentes posibilidades en el nivel del lenguaje
+
+12
+00:03:06,340 --> 00:03:21,620
+el primero como saben son los sinonimos, dejar,descuidar es sinónimo de abandonar.
+
+13
+00:03:21,670 --> 00:03:30,260
+Significa que no tenemos subrúbricas de descuido, si queremos expresar descuido utilizaremos la
+
+14
+00:03:30,490 --> 00:03:38,010
+rúbrica abandono, ya que en el contexto repertorial, descuidar y abandonar es lo mismo.
+
+15
+00:03:38,110 --> 00:03:51,000
+Habrá personas que descuido y abandono signifique algo diferente, dirán que abandono es algo más profundo
+
+16
+00:03:52,450 --> 00:04:02,200
+y habrá muchas explicaciones, pero en general tratamos de tener más y más sinónimos pero,
+
+17
+00:04:02,300 --> 00:04:15,100
+que no se diferencien mucho, de otra manera se vuelven muy dependientes de encontrar la palabra correcta, pero admito que es algo para
+
+18
+00:04:15,200 --> 00:04:37,850
+discutir,una cuestión de gusto el que dos palabras sean consideradas sinónimos o no y si no son sinóninos son referencias cruzadas.
+
+19
+00:04:37,950 --> 00:04:57,266
+Celos y envidia son referencias cruzadas. Para algunos es lo mismo, un sinónimo. Pero el lenguaje repertorial es diferente al natural.
+
+20
+00:04:57,366 --> 00:05:07,666
+¿Cuál es la diferencia entre celos y envidia?
+
+21
+00:05:14,780 --> 00:05:35,900
+Los celos son más para cuestiones del amor y la envidia para lo que otro tiene. Sí, celos es para lo emocional y envidia para lo material.
+
+22
+00:05:36,000 --> 00:05:45,799
+Hacemos una clara distinción entre celos y envidia, pero algunas veces son referencias cruzadas porque van juntos.
+
+23
+00:05:46,750 --> 00:05:54,466
+Algunas veces querrán combinar las rúbricas en una nueva. Estas son referencias cruzadas.
+
+24
+00:05:55,500 --> 00:06:26,866
+En el repertorio si se posicionan en abandono en el Radar, los llevará con un solo click a sentimiento de abandono.
+
+25
+00:06:28,040 --> 00:06:45,860
+Esta vez hablaré del inglés porque debo usar ejemplos del lenguaje. Si ven las referencias cruzadas del sentimiento de abandono
+
+26
+00:06:45,960 --> 00:07:02,520
+"deseo de compañía" dan click 2 veces y ahí tienen deseo de compañia, es más fácil saltar con el programa de computo que con el libro.
+
+27
+00:07:02,620 --> 00:07:10,850
+Pueden saltar a diferentes lugares para reflexionar sobre el remedio o el significado y decidir cual es la rúbrica correcta
+
+28
+00:07:10,950 --> 00:07:19,166
+dentro de las referencia cruzadas y  considerando los sinónimos. Este es un nivel.
+
+29
+00:07:20,450 --> 00:07:36,550
+Por supuesto hay un problema, porque cualquier síntoma que busquen en el repertorio, si sólo tienen el libro ¿qué es lo primero que hacen?
+
+30
+00:07:36,650 --> 00:07:51,270
+Es decidir en cual capítulo está. Algunas veces es fácil  si tengo comezón en el oído no debo de buscar en nariz y viceversa.
+
+31
+00:07:51,370 --> 00:08:00,520
+Algunas veces es realmente difícil y es casi una decisión arbitraria en cuál capítulo ha sido puesto.
+
+32
+00:08:00,620 --> 00:08:10,850
+Por lo que dependemos de la estructura de los capítulos,alfabeto, modalidades, etc, el encontrar un síntoma
+
+33
+00:08:10,950 --> 00:08:21,566
+y hay una función disponible en todos los programas de homeopatía, pueden buscar los síntomas con keywords. (palabra clave)
+
+34
+00:08:25,950 --> 00:08:39,199
+Keyword significa palabra clave. Por lo que sustraen de la historia el síntoma y toman la palabra que es el keyword.
+
+35
+00:08:40,000 --> 00:08:50,899
+Les daré los ejemplos en inglés pero es lo mismo en alemán, pueden intentarlo con cualquier palabra en alemán.
+
+36
+00:08:51,200 --> 00:09:06,666
+Lo que necesitan hacer para usar esta herramienta en este programa, es escribir el signo de interrogación
+
+37
+00:09:07,920 --> 00:09:19,880
+Primero el signo de interrogación y después por ejemplo la palabra ronquidos, ya que su suegra ronca todo el tiempo,
+
+38
+00:09:19,980 --> 00:09:34,380
+y no saben si deben buscar en la rúbrica nariz o garganta, o mente trastornos por, o lo que sea, no saben donde buscar ronquidos.
+
+39
+00:09:34,480 --> 00:09:43,880
+Pero saben que la palabra clave es ronquidos, y luego escriben la palabra ronquidos y tienen una
+
+40
+00:09:43,980 --> 00:09:57,366
+lista de 9 síntomas y hay uno con 59 remedios que está presente en el capítulo respiración.
+
+41
+00:10:00,480 --> 00:10:05,266
+Encuentran los síntomas usando sólo una palabra.
+
+42
+00:10:08,480 --> 00:10:26,550
+Otro ejemplo, esta mañana buscaba un síntoma y no podía encontrarlo estaba nervioso, todos me veían, pero sabía que el síntoma existe.
+
+43
+00:10:26,650 --> 00:10:41,350
+Por lo que puedo usar la misma herramienta para encontrar el síntoma. Muerte solo. Ars lo tiene de forma prominente
+
+44
+00:10:41,450 --> 00:11:08,110
+Lo que haré es poner el signo de interrogación ? muerte solo. El programa buscará todos los síntomas con estas 2 palabras, muerte solo.
+
+45
+00:11:08,210 --> 00:11:14,066
+Donde quiera que estén en la estructura del repertorio.
+
+46
+00:11:18,100 --> 00:11:34,066
+Ven 5 síntomas. 1.- Pensamientos de muerte cuando está solo. Este es el síntoma que deseaba encontrar.
+
+47
+00:11:47,850 --> 00:12:02,499
+Hay otra forma de llegar a este resultado pero es mejor de esta manera, cuando da click en el ícono que tiene una lupa.
+
+48
+00:12:03,533 --> 00:12:19,170
+Ella daba click en el ícono con una lupa cuando estaba en Israel y ahora en Alonissos lo hace escribiendo un signo de interrogación.
+
+49
+00:12:19,270 --> 00:12:32,700
+Siente que es mejor de esta manera. Si encuentra algo mejor, cambielo.
+
+50
+00:12:36,020 --> 00:12:50,933
+¿Cómo pone el signo de interrogación en el recuadro? Sólo escribiéndolo.
+
+51
+00:12:54,770 --> 00:13:05,932
+Cuando escriben el signo de interrogación el recuadro aparece, es la forma que funciona.
+
+52
+00:13:07,180 --> 00:13:16,799
+Una palabra para encontrar un síntoma. tengan cuidado porque haré preguntas al final.
+
+53
+00:13:24,270 --> 00:13:36,490
+Buscar con la palabra clave es un paso adelante relacionado al programa homeopático o como en el ínidce del libro de Pathak.
+
+54
+00:13:36,590 --> 00:13:52,240
+Es un gran libro, casi un repertorio, tiene los keywords y las páginas donde aparecen. En el programa ver los resultados es más fácil.
+
+55
+00:13:52,340 --> 00:14:06,199
+En el repertorio la búsqueda con la palabra clave es un paso adelante porque no necesitamos más, encontramos el síntoma a pesar de la estructura.
+
+56
+00:14:11,670 --> 00:14:36,660
+El siguiente paso para ayudarles a encontrar síntomas, además de los sinónimos y las referencias cruzadas, búsqueda de keywords,
+
+57
+00:14:36,760 --> 00:14:55,632
+se necesitan más herramientas para encontrar los síntomas, por lo que introdujimos hace 3 años los conceptos en el Shyntesis.
+
+58
+00:15:02,840 --> 00:15:21,540
+Un concepto es una idea, cualquier idea, es como una caja, en la caja están los síntomas del repertorio que expresan la idea. Es un concepto.
+
+59
+00:15:21,640 --> 00:15:40,999
+Por lo que tienen un concepto de diferentes maneras, ustedes lo descubrirán por ustedes mismos después, les daré algunos ejemplos.
+
+60
+00:15:44,033 --> 00:15:52,266
+Reestructuramos el repertorio e hicimos el capítulo embarazo.
+
+61
+00:15:52,640 --> 00:16:09,040
+Es posible hacerlo, pero con los conceptos tenemos otra herramienta, es como una red que sostiene síntomas juntos de diferentes partes
+
+62
+00:16:09,140 --> 00:16:20,160
+con diferentes significados, quizá más separados que las referencias cruzadas donde estas tienen 2 síntomas relacionados en el significado.
+
+63
+00:16:20,260 --> 00:16:29,660
+En un concepto pueden tener muchos síntomas que no se relacionan entre sí, sólo pertenecen a la misma idea.
+
+64
+00:16:29,760 --> 00:16:44,660
+Les daré más ejemplos para que lo entiendan más fácil. Primero les mostraré embarazo. Para tener acceso a keywords escriben un signo de
+
+65
+00:16:44,760 --> 00:16:52,160
+interrogación, para tener acceso a los conceptos escriben 2 signos de interrogación. Lo hicimos especialmente para las personas de
+
+66
+00:16:52,260 --> 00:17:17,330
+Israel. Escribo 2 signos de interrogación   ?? embarazo y obtengo una lista de conceptos de Julian y Fonseca, conceptos de embarazo.
+
+67
+00:17:17,430 --> 00:17:30,799
+y si doy click en el pequeño libro aquí que es el ícono de Synthesis, veré todos los síntomas relacionados al embarazo.
+
+68
+00:17:31,920 --> 00:17:38,266
+Ira durante el embarazo, ansiedad durante el embarazo, aversión a la compañía durante el embarazo, delirio después del aborto,
+
+69
+00:17:39,420 --> 00:17:49,520
+la palabra embarazo no tiene que estar presente todo el tiempo, desesperación durante el parto, de nuevo no es la palabra clave de búsqueda,
+
+70
+00:17:49,620 --> 00:18:10,240
+miedo por amenza de aborto, tristeza por pérdida de leche, los síntomas no es la palabra embarazo, sólo lo relacionado al embarazo.
+
+71
+00:18:10,340 --> 00:18:26,070
+Esto es lo que llamamos  la idea o el concepto  embarazo. Este es un ejemplo de conceptos. Un concepto puede ser usado en otros puntos
+
+72
+00:18:26,170 --> 00:18:41,466
+de interés, quizá tengan a alguien en casa con alzheimer y es difícil traducirlo al lenguaje
+
+73
+00:18:41,566 --> 00:18:50,866
+homeopático, sería más fácil buscarlo en la rúbrica generales Alzheimer con 25 remedios.
+
+74
+00:18:51,733 --> 00:19:02,320
+Pero ¿creen ustedes como homeópatas bien entrenados que si dan uno de los 25 remedios para el Alzheimer lo dan y está resuelto?
+
+75
+00:19:02,420 --> 00:19:15,000
+No, tienen que tomar el caso y ser más precisos. ¿Cuáles serían los síntomas homeopáticos aplicables para el Alzheimer?
+
+76
+00:19:16,420 --> 00:19:27,800
+Escribo 2 signos de interrogación ?? y Alzheimer, es decir busco el concepto o la idea de Alzheimer,
+
+77
+00:19:28,680 --> 00:19:48,160
+y el programa me muestra un recuadro doy click  en el librito y me muestra 24 síntomas del repertorio, mentales y otros,
+
+78
+00:19:48,260 --> 00:20:03,240
+Hablar indistinto, encuentran síntomas homeopáticos que no sabían del Alzheimer.
+
+79
+00:20:03,340 --> 00:20:15,820
+Como esto tenemos en el radar un grupo de conceptos de 180 enfermedades y cada enfermedad es un concepto que contiene
+
+80
+00:20:15,920 --> 00:20:32,233
+20, 30, 40 síntomas que es interesante cuestionar o lo que sea cuando tengan un caso con esta enfermedad. Está claro?
+
+81
+00:20:32,420 --> 00:20:41,699
+Estos son los conceptos de las enfermedades, para dar otro ejemplo de concepto  puede ser, en esta red o  telaraña.
+
+82
+00:20:42,760 --> 00:20:50,599
+Enfermedad de Alzheimer y  a travez del repertorio les muestra todos los síntomas relacionados con el Alzheimer.
+
+83
+00:20:59,010 --> 00:21:20,299
+¿Con cuál versión funciona? 7.0 en adelante.
+
+84
+00:21:21,340 --> 00:21:32,066
+Lo técnico lo veré en el intérvalo, esta es una explicación de los conceptos y acceso al repertorio.
+
+85
+00:21:33,340 --> 00:21:49,433
+Estos son diferentes conceptos: Radar y Enfermedades Agudas, ya se  los expliqué.
+
+86
+00:21:50,840 --> 00:22:04,570
+Tenemos los conceptos de Fonseca. Son 2 Brasileños que han hecho un gran trabajo en los mentales,
+
+87
+00:22:04,670 --> 00:22:15,160
+con frecuencia es difícil encontrar el síntoma mental correcto, y lo que hicieron fueron diferentes acercamientos pero yo explicaré
+
+88
+00:22:15,260 --> 00:22:32,160
+el grupo analógico, dividieron los síntomas mentales en 3 grupos de conceptos analógicos, un grupo relaciona todos los síntomas mentales
+
+89
+00:22:32,260 --> 00:22:40,190
+a otros, todos los síntomas mentales relacionados a la persona en sí y todos los síntomas mentales relacionados al ambiente.
+
+90
+00:22:40,290 --> 00:22:47,160
+Si buscan un síntoma mental aun sin saber que palabra buscar,es decir la palabra clave no
+
+91
+00:22:47,260 --> 00:22:57,132
+la saben, sólo saben que se relaciona con la persona en sí, seleccionan el recuadro de
+
+92
+00:22:57,133 --> 00:23:13,233
+conceptos, síntomas mentales relacionados a sí mismo y en este recuadro tienen otra serie de recuadros, subconceptos.
+
+93
+00:23:23,420 --> 00:24:02,566
+Estamos en Synthesis, les explicaré como ir a este repertorio, en Búsqueda en la parte inferior tienen conceptos y seleccionan Fonseca.
+
+94
+00:24:04,420 --> 00:24:17,116
+Y regreso en mi grupo analógico; relacionado a sí mismo. Ellos han creado subconceptos relacionados
+
+95
+00:24:17,216 --> 00:24:28,320
+con la persona misma: muerte, intelecto, etc, les daré un ejemplo de como funciona.
+
+96
+00:24:28,420 --> 00:24:43,033
+Doy click en mi elección, si el síntoma está relacionado consigo mismo, doy click en relación a sí mismo.
+
+97
+00:24:49,420 --> 00:25:01,200
+¿No entiendo cómo llegó a esto? Da click en grupos analógicos
+
+98
+00:25:01,510 --> 00:25:10,266
+Para llegar a algo deben dar click en ello, es una regla importante en cualquier programa de computadora.
+
+99
+00:25:11,010 --> 00:25:22,032
+Seleccionan una palabra y dan click en ella. En Radar si quieren alguna información den click en ello.
+
+100
+00:25:22,260 --> 00:25:35,866
+Para llegar a los Grupos Analógicos dan click en ello. Para llegar a relacionados a sí msimo den click en ello.
+
+101
+00:25:37,100 --> 00:25:53,200
+Y por ejemplo hay un síntoma relacionado a la autoestima y ven de nuevo un grupo de subrecuadros, baja autoestima, egotismo,
+
+102
+00:25:53,510 --> 00:26:06,910
+dividen la mente en conceptos y subconceptos y pueden bajar en la jerarquía, van a baja autoestima,
+
+103
+00:26:07,010 --> 00:26:19,000
+por ejemplo descontento consigo mismo, desprecio de sí mismo, hasta que ya no hay recuadros
+
+104
+00:26:19,590 --> 00:26:30,966
+y después tienen un recuadro con sintomas de autodesprecio y una lista con 16 síntomas que expresan autodesprecio.
+
+105
+00:26:31,170 --> 00:26:42,410
+enojo por errores, enojo consigo mismo, descontento consigo mismo es una gran rúbrica,
+
+106
+00:26:42,510 --> 00:26:56,999
+bajan y tienen pelea consigo mismo, otro síntoma que no había visto antes, tristeza por sentirse superfluo
+
+107
+00:26:57,260 --> 00:27:07,240
+pero es parte de los conceptos y es así  como puedo encontrar síntomas que me son desconocidos, aun las palabras desconocidas
+
+108
+00:27:07,340 --> 00:27:13,600
+tengo una idea que se relaciona  con los conceptos y la encuentro.
+
+109
+00:27:15,566 --> 00:27:27,332
+ven sentimiento de superficialidad es muy cercano, pero quizá quieren encontrar un síntoma que sea más cercano.
+
+110
+00:27:28,090 --> 00:27:45,160
+Si necesitan una idea dan click en el ícono del bulbo y tienen otra idea interesante, porque aquí llegamos al síntoma tristeza por sentimiento de
+
+111
+00:27:45,260 --> 00:27:53,820
+superficialidad, vemos que está relacionado a un número de conceptos que recién vimos, baja autoestima, etc.
+
+112
+00:27:53,920 --> 00:28:07,366
+y también compromisos de responsabilidad y también quieran buscar en los otros síntomas de responsabilidad.
+
+113
+00:28:08,430 --> 00:28:25,860
+Y encuentran otros síntomas, 23, que no están relacionados a lo superficial de alguna manera y deciden finalmente que el síntoma real
+
+114
+00:28:25,960 --> 00:28:39,750
+es embotamiento - preocupación por sus negocios. No es sólo una telaraña en el repertorio sino muchas, es atemorizante,
+
+115
+00:28:39,850 --> 00:28:48,700
+y pueden brincar de una a otra, sólo tienen que  recordar dar click en el bulbo y los llevará al concepto.
+
+116
+00:28:48,800 --> 00:28:59,799
+Dan click en el ícono del Synthesis y los lleva a los síntomas de los conceptos en el repertorio, y así es como pueden desplazarse en el repertorio
+
+117
+00:29:02,300 --> 00:29:17,166
+¿Preguntas sobre esto, antes de darles un pequeño ejercicio? Entonces pasemos al ejercicio.
+
+118
+00:29:18,550 --> 00:29:45,580
+Tengo el radar 7.3 y no puedo hacer eso. Pueden hacerlo está disponible a partir de la versión 7.0 pero para el ejercicio usen todo esto.
+
+119
+00:29:45,680 --> 00:29:59,090
+Aquellos que tengan conceptos disfruten de ello, los que no ¿qué puedo decir? Hemos desarrollado casi 3000 conceptos diferentes
+
+120
+00:29:59,190 --> 00:30:05,766
+3000 redes dentro del repertorio y una vez que sepan usarlo es realmente fantástico.
+
+121
+00:30:12,600 --> 00:30:31,233
+¿Cómo llegué a ello? Sólo di click en la viñeta, den click en el icono de Synthesis para tener los síntomas del repertorio.¿es esta la ultima version?
+
+122
+00:30:43,520 --> 00:31:00,866
+Nunca crean que es la versión final, siempre pueden actualizarse.
+
+123
+00:31:04,200 --> 00:31:13,610
+Esta es una buena característica, les daré ahora un ejercicio para encontrar síntomas en el repertorio, pueden hacerlo aún con el libro.
+
+124
+00:31:13,710 --> 00:31:24,399
+Sólo les comento lo que tenemos disponible hoy en día, es una imagen de como ayudar a las personas a encontrar síntomas y comenzar.
+
+125
+00:31:29,766 --> 00:31:49,120
+Imaginen a alguien que conozcan muy bien, niños, su suegra, un vecino, su jefe, quien sea y lo que necesitan saber de esta persona
+
+126
+00:31:49,220 --> 00:32:03,370
+es un miedo que él tenga, alguna historia que les haya relatado, algo concreto, deben conocer bien a la persona no sólo imaginar
+
+127
+00:32:03,470 --> 00:32:17,950
+porque la mejor tarea será interrogar sobre el miedo que tiene. Lo que me gustaría que hicieran, se pueden ayudar entre sí,
+
+128
+00:32:18,050 --> 00:32:37,700
+es encontrar 1, 2 o 3 rúbricas que exprese este miedo en lenguaje repertorial y si se cruzan con un aspecto del miedo y no sepan encontrarlo en
+
+129
+00:32:37,800 --> 00:32:56,620
+el repertorio lo escriben y será una pregunta. Ahora imaginen a una persona que conozcan bien que esté temeroso, quiza a los animales  y
+
+130
+00:32:56,720 --> 00:33:05,500
+expresen el miedo y lo mejor sería encontrar el síntoma exacto en el repertorio.
+
+131
+00:33:07,300 --> 00:33:20,710
+Anya sugiere un miedo difícil, no sólo miedo a la oscuridad, ese es  muy fácil, tienen que relatarnos la historia del miedo.
+
+132
+00:33:20,810 --> 00:33:29,833
+Tengo un niño que tiene miedo a la oscuridad y encontré la rúbrica miedo a la oscuridad, eso no es de lo que estoy hablando
+
+133
+00:33:30,250 --> 00:33:42,950
+Una última pista antes de comenzar a hacerlo, estén concientes que los miedos en el repertorio no están sólo presentes  en el capitulo miedo
+
+134
+00:33:43,050 --> 00:34:03,500
+sino también en ilusiones, ansiedad, precocupaciones, etc. si es muy sencillo dependerá de ustedes.
+
+135
+00:34:04,800 --> 00:34:20,999
+Podemos comenzar a tener algo de retroalimentación, vayan al pasillo den la historia y encuentren 1, 2, o 3 síntomas repertoriales.
+
+136
+00:34:21,790 --> 00:34:36,260
+El paciente relata la historia y ustedes dicen quizá es miedo al agua, para ser congruente con la rúbrica del repertorio el miedo al agua
+
+137
+00:34:36,360 --> 00:34:49,760
+imaginan que preguntan al paciente ¿es miedo al agua? que la historia del paciente sea congruente con el síntoma en el repertorio.
+
+138
+00:34:49,860 --> 00:35:03,766
+Me adelanto al siguiente tema que es seleccionar los síntomas correctos por lo que un punto deberá ser que el síntoma sea congruente
+
+139
+00:35:04,530 --> 00:35:12,620
+lo que significa que el síntoma del repertorio expresa exactamente lo que el paciente les dice y de preferencia no más y no menos.
+
+140
+00:35:12,720 --> 00:35:18,900
+Así que miedo al agua no es exactamente lo que el paciente está diciendo.
+
+141
+00:35:19,470 --> 00:35:27,450
+Buscan en el repertorio ven si hay referencias cruzadas con miedo a beber o a líquidos, hidrofobia, etc.
+
+142
+00:35:27,550 --> 00:35:40,950
+Por lo que se, no hay un rubro que especifique miedo a tener la cabeza bajo el agua y se puede decir que miedo al agua es lo más cercano,
+
+143
+00:35:41,050 --> 00:35:49,790
+pero estén concientes que no es una perfecta  coincidencia, es sólo cercana, por tanto no enfaticen esta rúbrica en su análisis porque no
+
+144
+00:35:49,890 --> 00:36:05,166
+es congruente.Si reflexionamos en qué síntomas tomar para repertorizar el primer criterio es que deben ser congruentes
+
+145
+00:36:10,390 --> 00:36:21,800
+Es otro tema del cual hablar. ¿Alguna otra historia?
+
+146
+00:36:22,250 --> 00:36:32,120
+Es un hombre de una gran firma y algunas veces tiene que hablar en público y tiene
+
+147
+00:36:32,220 --> 00:36:43,620
+un gran temor cuando tiene que hablar en publico, pero capaz de hacerlo.
+
+148
+00:36:43,720 --> 00:37:01,680
+Miedo a hablar en público, pero capaz de hacerlo. Y cual es la rúbrica? Este es el síntoma. Sí.
+
+149
+00:37:01,780 --> 00:37:04,400
+¿Puede repetir el síntoma exactamente?
+
+150
+00:37:04,500 --> 00:37:56,480
+Miedo a hablar en publico, ¿ven lo que hice? Ella daba la sintaxis del síntoma y no lo encontré no era correcta la estructura en el repertorio.
+
+151
+00:37:56,580 --> 00:38:08,699
+Por lo que busque un síntoma sin tener en cuenta la estructura del repertorio, hice un búsqueda clave con la palabra ? público
+
+152
+00:38:10,970 --> 00:38:32,620
+me dice que hay miedo al aparecer en público como lo más cercano, veo una referencia cruzada para timidez, doy click en ella,
+
+153
+00:38:32,720 --> 00:38:53,870
+veo timidez de aparecer en público, veo en las subrúbricas timidez de aparecer en público pero capaz de hacerlo.
+
+154
+00:38:53,970 --> 00:39:04,066
+Uso la búsqueda con el signo de interrogación, salto con las referencias cruzadas y encuentro en segundos la rúbrica correcta, ¿ok?
+
+155
+00:39:05,470 --> 00:39:09,620
+Este es el síntoma relacionado con tu historia.
+
+156
+00:39:09,720 --> 00:39:15,433
+¿Otra historia?
+
+157
+00:39:17,800 --> 00:39:28,833
+Ella relata que su hija siempre quiere que la gente piense lo buena que es ella,
+
+158
+00:39:28,933 --> 00:39:38,299
+que es una santa y hace todo siempre bien, y me lo describe como miedo.
+
+159
+00:39:38,866 --> 00:39:52,450
+Lo busqué en miedo de la opinión de otros y encontré Nux-v y Puls y quiero mostrar las diferentes rúbricas, fue un síntoma fácil de
+
+160
+00:39:52,550 --> 00:40:17,540
+encontrar, en ilusiones de que no es apreciada y vi a Palad, Plat, Puls, Caps y había otra flecha con; se lamenta de que no es apreciada
+
+161
+00:40:17,640 --> 00:40:29,599
+y allí encontré; anhelar de ser apreciado por otros que es lo que ella describe y sólo está Palladium
+
+162
+00:40:31,333 --> 00:40:49,620
+Ella saltó en el repertorio utilizando sólo referencias cruzadas.Sólo una corrección, la palabra clave no es miedo, sino buena opinión
+
+163
+00:40:49,720 --> 00:41:03,399
+si hubiera buscado buena opinión hubiera visto aparecer el síntoma inmediatamente pero llegó allí de otra manera, muy bien.
+
+164
+00:41:04,670 --> 00:41:07,499
+¿Otra historia? ¿Anya, la encontraste? No. Utilicé el signo de interrogación. Ok intente minum alaimam, sí inténtalo. ¿Otra historia?
+
+165
+00:41:07,500 --> 00:41:25,120
+¿Otra historia? ¿Anya, la encontro finalmente? No, no funcionó. Utilicé el signo de
+
+166
+00:41:25,220 --> 00:41:40,700
+interrogación. Ok intente el significado solamente, si inténtelo. ¿Otra historia?
+
+167
+00:41:40,800 --> 00:42:20,290
+Me gustaría encontrar el síntoma, miedo a ser enterrado vivo ¿Cuál es la palabra clave del síntoma?  Enterrado.
+
+168
+00:42:20,390 --> 00:42:50,499
+El síntoma no está en miedo sino en ilusiones.En sueños, sueña que es enterrado vivo.
+
+169
+00:42:50,880 --> 00:43:01,166
+Para encontrar síntomas y entender al paciente extraen lo más importante.
+
+170
+00:43:04,470 --> 00:43:09,320
+Estos son algunos ejemplos y espero hayan encontrado muchos más interesantes ustedes mismos
+
+171
+00:43:09,420 --> 00:43:14,400
+sobre como encontrar síntomas en el repertorio
+
+172
+00:43:14,500 --> 00:43:27,120
+Ahora hablaré de la segunda parte introductoria al VES, esta mañana les he explicado los diferentes metodos de repertorización
+
+173
+00:43:27,220 --> 00:43:34,980
+y hablé básicamente de lo que el VES hace, considerando los diferentes métodos
+
+174
+00:43:35,080 --> 00:43:40,200
+de repertorización, y de hecho considera todas las formas de repertorización
+
+175
+00:43:40,300 --> 00:43:53,210
+para cada paso que tomen al mismo tiempo, todo, busca los síntomas de todas las formas y da una sugerencia balanceada.
+
+176
+00:43:53,310 --> 00:44:17,450
+Antes de dar más explicaciones sobre el VES hay otro paso más; seleccionar el síntoma correcto a repertorizar.
+
+177
+00:44:17,550 --> 00:44:29,466
+Después de encontrarlo, pueden repertorizar, pero primero cuáles síntomas son interesantes, cuáles síntomas son necesarios.
+
+178
+00:44:30,050 --> 00:44:50,399
+Primero me gustaría recordarles que estuvieron fuera, en un restaurant, en la playa etc, y fue agradable estar al aire libre
+
+179
+00:44:50,560 --> 00:45:04,566
+a todos les gusta después de estar muchas horas aquí, estar fuera al aire libre, de hecho algunos ya lo están haciendo,
+
+180
+00:45:09,050 --> 00:45:23,500
+en esta pequeña historia ven algún síntoma? Deseo de estar al aire libre. Alguien más?
+
+181
+00:45:35,550 --> 00:45:56,032
+Anticipación, más bien impaciencia, también anticipación, tener que esperar para estar afuera. Deseo de escapar quizá.
+
+182
+00:45:57,390 --> 00:46:13,066
+El primer punto que quiero hacer, es que el síntoma es sólo un síntoma cuando es un síntoma. ¿Entienden esto?
+
+183
+00:46:15,470 --> 00:46:36,120
+Aquí tienen la intensidad, tienen el deseo de aire libre, en algún nivel todos tienen deseo de aire libre, pero para que sea un síntoma
+
+184
+00:46:36,220 --> 00:46:52,370
+tiene que ser a cierto nivel, de otra forma no es un síntoma, si escuchan la historia, oh, es agradable estar afuera y ver el mar
+
+185
+00:46:52,470 --> 00:47:04,620
+y tomé una fuerte inspiración, oh, otro síntoma, respiración, deseo de tomar respiración profunda, sean cuidadosos
+
+186
+00:47:04,720 --> 00:47:10,666
+tiene que estar arriba de cierto nivel, antes de  ser considerado un síntoma.
+
+187
+00:47:14,470 --> 00:47:24,040
+En un cierto nivel y no puede ser definido, no puedo decir cuanto aire libre necesitas porque esto es relativo.
+
+188
+00:47:24,140 --> 00:47:41,790
+Es relativa el calor de la habitación, hay circunstancias externas y es relativo a la forma en que me hablan, si nunca dicen nada
+
+189
+00:47:41,890 --> 00:47:53,040
+y de pronto oh, voy por aire libre, deseo de aire libre, por la forma en que lo expresan es más
+
+190
+00:47:53,140 --> 00:48:02,900
+un síntoma que alguien que habla todo el tiempo, quiero esto y lo otro,  tiene cientos de síntomas y tienen que ser cuidadosos
+
+191
+00:48:03,000 --> 00:48:17,620
+Tiene que haber un alivio, y a cierto nivel lo que el paciente dice se convierte en un síntoma homeopático, tiene que ser a cierto nivel.
+
+192
+00:48:17,720 --> 00:48:25,200
+Este es el porque frecuentemente durante el interrogatorio de George, cualquiera que esté al corriente de cómo toma el caso
+
+193
+00:48:25,300 --> 00:48:37,700
+los síntomas que parecen interesantes él dice, espere un minuto, ¿cuándo lo hizo? ¿qué tan frecuente lo hace? ¿es importante para usted?
+
+194
+00:48:37,800 --> 00:48:50,266
+¿Qué sucede si no sale al aire libre? etc. Necesito saber y busca en el repertorio, una vez al día, a la semana, una vez cada hora.
+
+195
+00:48:50,390 --> 00:49:03,790
+Esto es para saber si es un síntoma. Es el primer paso. Se asegura ¿Fue sólo hoy que tuvo el deseo de salir al aire libre?
+
+196
+00:49:03,890 --> 00:49:20,790
+En su casa tiene un gran jardín y siempre está sentado dentro, prefiere estar en la casa? Ser cuidadosos de evaluar la intensidad del síntoma.
+
+197
+00:49:20,890 --> 00:49:34,799
+Este es el segundo punto ¿Es un síntoma?
+
+198
+00:49:37,140 --> 00:50:00,790
+Tienen un síntoma, buscan en el repertorio, hay algo en la mañana, tienen una buena subrúbrica, dolor de cabeza por la mañana.
+
+199
+00:50:00,890 --> 00:50:11,040
+Porque es lo que la persona les dice, tengo dolor de cabeza  por la mañana, ¿toman la súbrubrica o el dolor de cabeza?
+
+200
+00:50:11,140 --> 00:50:19,999
+¿Tomarán dolor de cabeza punzante por la mañana o dolor de cabeza punzante? Tomarán la rúbrica o la subrúbrica?
+
+201
+00:50:20,640 --> 00:50:31,030
+De nuevo no se puede decir haz esto o lo otro, pero puedo decirles que depende de la congruencia.
+
+202
+00:50:31,130 --> 00:50:43,130
+Si toman dolor de cabeza punzante en la mañana, significa que la cefalea punzante es en la mañana casi siempre,
+
+203
+00:50:43,230 --> 00:50:56,566
+por lo que preguntan al paciente ¿siempre en la mañana? Sí, ¿sólo en la mañana? y tambien en la tarde y cuando voy en el auto, etc.
+
+204
+00:50:58,720 --> 00:51:06,533
+Esa subrúbrica ya no es relevante. Por lo que usan la subrúbrica o la super rúbrica dependiendo en la congruencia.
+
+205
+00:51:07,100 --> 00:51:19,766
+La segunda razón es el tamaño, no se de memoria cuantos remedios hay en dolor de cabeza punzante en la mañana, digamos 5,
+
+206
+00:51:21,670 --> 00:51:31,600
+entonces sean cuidadosos porque es tal vez más interesante usar dolor de cabeza punzante si realmente es importante, todo el tiempo
+
+207
+00:51:31,700 --> 00:51:44,199
+que la subrúbrica, porque tienen más remedios que cubren la información. Tienen que decidir entre la rúbrica y la subrúbrica.
+
+208
+00:51:45,266 --> 00:51:52,220
+Otra razón para decidir entre la rúbrica y la subrúbrica es cuando no encuentran ningún remedio relevante una vez revisado el caso
+
+209
+00:51:52,320 --> 00:52:06,970
+asi que esperan a tener otras opciones, de  hecho para reemplazar mas detalles de los síntomas con menos síntomas detallados
+
+210
+00:52:07,070 --> 00:52:12,470
+dolor de cabeza punzante en la mañana por dolor de cabeza punzante.
+
+211
+00:52:12,570 --> 00:52:18,366
+Celos durante la menstruación por celos.
+
+212
+00:52:20,320 --> 00:52:34,220
+Para seleccionar los síntomas hay rúbricas y subrúbricas.
+
+213
+00:52:34,320 --> 00:52:42,550
+¿Puede dejar las 2 rúbricas. Dolor de cabeza punzante en la mañana y dolor de cabeza punzante.
+
+214
+00:52:42,650 --> 00:52:54,166
+Si. Se refiere a que lo puede agregar? Esto que me lleva al siguiente punto.
+
+215
+00:52:59,400 --> 00:53:12,933
+Deben ser cuidadosos en la repertorización de no tener 2 rúbricas similares, les daré un ejemplo.
+
+216
+00:53:13,150 --> 00:53:25,666
+Si ponen dolor de cabeza punzante y dolor de cabeza punzante por la mañana, es mejor hacer una rúbrica combinada de esto
+
+217
+00:53:27,633 --> 00:53:35,070
+por lo que crean una rúbrica que contenga todos los remedios porque lo que sucede de otra manera en todos los métodos de análisis
+
+218
+00:53:35,170 --> 00:53:44,400
+icluyendo el VES. Los remedios que aparecen en dolor de cabeza punzante en la mañana y celos durante la menstruación
+
+219
+00:53:44,500 --> 00:53:56,680
+probablemente se repiten en la super  rúbrica y enfatizan los remedios demasiado, no se está expandiendo realmente
+
+220
+00:53:56,780 --> 00:54:07,020
+porque son dos argumentos, tienen argumento para Puls por celos y otro argumento para Puls por celos durante la menstruación.
+
+221
+00:54:07,120 --> 00:54:15,500
+Por lo que combinan las rúbricas, con 1,2,o 3 subrúbricas
+
+222
+00:54:16,120 --> 00:54:39,930
+También es importante, muchas personas encuentran seguido Carc, las rúbricas que usan la mayoría de las veces son las mismas.
+
+223
+00:54:40,030 --> 00:54:51,930
+Son las  rúbricas de alimentos. Carcinocinum es prominente en varias de las rúbricas de alimentos.
+
+224
+00:54:52,030 --> 00:55:04,930
+Preguntan ¿qué le gusta comer? Esto, lo otro, mantequilla, huevos, carne, grasa, etc, ponen todo eso y algunas aversiones
+
+225
+00:55:05,030 --> 00:55:15,130
+y al final la repertorización, deseos, aversiones, agravación, hablan demasiado de alimentos, tal vez les guste hablar de comida
+
+226
+00:55:15,230 --> 00:55:28,270
+pero no en la repertorización, por lo que si alguien les da 10-15 síntomas de comida tienen que ser cuidadosos de seleccionar 1, 2 o 3
+
+227
+00:55:28,370 --> 00:55:43,110
+y no poner todos, cuando las personas ponen estas rúbricas de alimentos obtienen mucho Carcinosinum, eliminen o al menos combinen
+
+228
+00:55:43,210 --> 00:55:52,433
+los deseos de huevo, carne, queso y toda la proteína en una rúbrica y Carc disminuirá.
+
+229
+00:55:54,950 --> 00:56:14,360
+Si combino la rúbrica y la subrúbrica con diferentes grados, dolores punzantes en la mañana con un punto y en la rúbrica 3 puntos
+
+230
+00:56:14,460 --> 00:56:25,610
+y cambia la intensidad al combinarlos y se desvanece la intensidad. Lo que sucede con los grados en el programa, no se si en el repertorio
+
+231
+00:56:25,710 --> 00:56:31,900
+quizá es lo mismo, toma el puntaje más alto si se combinan.
+
+232
+00:56:34,540 --> 00:56:45,532
+Sean cuidadosos con muchas rúbricas similares, el punto es no tener muchas rúbricas para cubrir el caso sino las rúbricas relevantes.
+
+233
+00:56:55,870 --> 00:57:08,766
+¿Podría explicar de nuevo como hacer la combinación?
+
+234
+00:57:09,200 --> 00:57:25,080
+Se los mostraré rápido, es algo muy técnico. Y quiza es diferente en los programas.
+
+235
+00:57:25,180 --> 00:57:38,366
+Elegiré un ejemplo al azar. Tengo en mi portapapeles 2 síntomas,
+
+236
+00:57:38,680 --> 00:58:03,420
+no es una combinación verdadera pero bueno, selecciono los dos síntomas, edito la calificación y creo un grupo que se indica con una letra
+
+237
+00:58:03,520 --> 00:58:19,066
+por ejemplo a, y desde este momento estos 2 síntomas se consideran como 1 solo. Si tienen problemas les explico durante el descanso.
+
+238
+00:58:22,100 --> 00:58:27,733
+¿Cómo seleccionar el síntoma correcto para la repertorización?
+
+239
+00:58:33,850 --> 00:58:43,000
+Otro punto importante, quizá reflexionaron cuando dije esta mañana como Kent repertorizaba
+
+240
+00:58:43,100 --> 00:58:53,766
+y quizá muchos de ustedes lo saben, porque repertorizan con un libro y si no se han dado cuenta lo descubrirán ahora.
+
+241
+00:58:54,270 --> 00:59:28,420
+Escuchan al paciente y les dice una cosa tras otra y les dice que malgasta su dinero, interesante ¿por qué? porque es una rúbrica
+
+242
+00:59:28,520 --> 00:59:43,160
+con 20 remedios y me gusta porque no tengo que comparar mucho entre 20 remedios con 50 remedios de otra rúbrica.
+
+243
+00:59:43,260 --> 00:59:58,420
+Es lo que Kent hacia con la eliminación y la historia continúa hasta que escuchan miedo a los fantasmas, otra más, sólo 27 remedios.
+
+244
+00:59:58,520 --> 01:00:11,670
+Lo puedo manejar. Y toman de la historia del paciente, no la información irrelevante sino la que ustedes pueden repertorizar.
+
+245
+01:00:11,770 --> 01:00:21,200
+Quizá vieron o no que el paciente estaba inquieto pero que pueden hacer con lo inquieto con 450 remedios,
+
+246
+01:00:21,633 --> 01:00:37,410
+por lo que preguntan si está inquieto por la mañana y dice no, todo el tiempo estoy inquieto,  ¿está inquieto sentado como en este momento?
+
+247
+01:00:37,510 --> 01:00:53,860
+No, estoy inquieto sentado, parado, caminando, no hay modalidad. ¿qué es lo que hacemos? vemos la imagen de inquietud pero no va a la
+
+248
+01:00:53,960 --> 01:01:09,420
+repertorización, aunque sea la característica principal no la usan con el libro, con la computadora se puede razonar correctamente
+
+249
+01:01:09,520 --> 01:01:32,750
+si la inquietud o cualquier grande rúbrica es importante ¿usan la rúbrica grande o la pequeña?
+
+250
+01:01:32,850 --> 01:01:41,000
+y si dicen que la rúbrica grande contiene todos los policrestos y por eso no lo hago de esa manera, no es correcto,
+
+251
+01:01:41,100 --> 01:02:01,000
+tratan de escapar del trabajo duro, porque si vemos a los 450 remedios de inquietud, vemos a Anac, Ars, Bell, Camph, Calc, Kalis, etc,
+
+252
+01:02:01,100 --> 01:02:19,410
+pero vemos en los 450 a Asar, Asaf, Arum-t, etc, por lo que los remedios pequeños están ahí, y si consideran esta rúbrica en su repertorización,
+
+253
+01:02:19,510 --> 01:02:34,280
+y hay otro síntoma de Arum-t, la inquietud les ayudará a ver que es un caso de Arum-t. ¿comprenden?
+
+254
+01:02:34,380 --> 01:02:49,870
+Yo he hecho repertorizaciones a mano 20, 30 50 minutos, porque estaba conciente de esto, jugamos con nosotros mismos,
+
+255
+01:02:49,970 --> 01:03:00,320
+usando rúbricas interesantes para repertorizar, y saltándonos la realidad. Es una ventaja repertorizar con la computadora,
+
+256
+01:03:00,420 --> 01:03:05,910
+nos enfocamos en lo que el paciente realmente dice y no tenemos que fijarnos en el tamaño.
+
+257
+01:03:06,010 --> 01:03:20,130
+Si es congruente, si no es muy similar, si decidimos modalidad o no, podemos usar la rúbrica apropiada sin considerar el tamaño.
+
+258
+01:03:20,230 --> 01:03:25,333
+Esto incluso ayudará a encontrar un remedio pequeño.
+
+259
+01:03:25,560 --> 01:03:36,290
+Para muchos de los remedios irán a la materia médica, no les dicen inquietud mejor al moverse o al salir de la cama, no hay estas modalidades
+
+260
+01:03:36,390 --> 01:03:45,290
+Los remedios pequeños se conocen por ser muy inquietos, la inquietud es una gran característica del remedio.
+
+261
+01:03:45,390 --> 01:04:00,290
+Otra característica es la debilidad, mañana, tarde, comer, beber, dormir, es una combinación de debilidad, cansancio e inquietud.
+
+262
+01:04:00,390 --> 01:04:07,366
+¿En qué remedio están pensando? Arsenicum.
+
+263
+01:04:09,090 --> 01:04:19,040
+Hay muchas otras posibilidades, muchos policrestos saldrán, pero saben que la combinación de inquietud, cansancio, debilidad
+
+264
+01:04:19,140 --> 01:04:24,290
+esta combinación es típica también de Mandragora.
+
+265
+01:04:24,390 --> 01:04:34,210
+Lean mandragora, no encontrarán submodalidades de inquietud y debilidad, pero encontrarán estos dos grandes temas
+
+266
+01:04:34,310 --> 01:04:40,533
+la inquietud y el cansancio nervioso son típicos de Mandragora.
+
+267
+01:04:51,060 --> 01:05:06,266
+Como saldrán muchos remedios necesitarán 1 o 2 síntomas más, sólo quiero hacer el caso, no se engañen al repertorizar.
+

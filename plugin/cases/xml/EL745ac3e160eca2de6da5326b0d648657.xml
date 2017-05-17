@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL745ac3e160eca2de6da5326b0d648657</ID>
+  <patient>
+    <case_date>2015-12-03 21:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Ν.Λ.</patient_initials>
+    <age>50</age>
+    <circumstances>Παντρεμένος, έχει 1 παιδί 5 ετών &#13;
+Εργάζεται σαν ελευθερος επαγγελματιας </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αγχώδης διαταραχή με διαφορες σωματικές εκδηλωσεις (μουδιασματα στο στήθος, άτυποι πόνοι)</origin>
+        <causative_factors>Οικονομικές δυσκολίες, αγχώδες άτομο</causative_factors>
+        <modalities>Νιώθει καλύτερα όταν ασχολείται με το παιδί του, ή με το ψάρεμα/κολύμπι</modalities>
+        <occurrence_time>Νιώθει καλύτερα τη νύχτα</occurrence_time>
+        <body_side>Τα μουδιάσματα πρώτα δεξιά έπειτα αριστερά</body_side>
+        <appearence_frequency>καθημερινά</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>κρίσεις διάρροιας με όξινη οσμή</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμμία</conv_med_presc>
+        <lab_tests>
+          <desc>καμμία</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Κατα καιρους διαφορες επιπόλαιες θεραπείες (lac humana, aloe socotrina..) δεν τις θυμάται όλες, </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβολιασμός  για κοκκύτη-διφθερίτιδα-τέτανο, πολυομυελίτιδα, Ηπατίτιδα Β&#13;
+Αντιβιοτικά  σπάνια.</therapies_vaccination>
+          <traumas>Έχασε την μητέρα του όταν ήταν 10 ετών</traumas>
+          <infections>Λοιμώξεις αναπνευστικού,(φαρυγγιτιδα-αμυγδαλίτιδα) αρκετά συχνά&#13;
+Μυρμηκιές </infections>
+          <other>Συσταση για καρδιογράφημα/τεστ κόπωσης</other>
+        </personal>
+        <family>
+          <diseases>Απεβίωσαν αμφότεροι από καρκίνο</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεστένεται</reactions>
+        <sleeping_habits>κοιμάται αριστερά στο πλάι</sleeping_habits>
+        <food_modalities>επιθυμία για : ψάρι, καυτερά, γλυκό μετά το φαγητό&#13;
+απέχθεια για καπνιστά</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Αγχος υγείας, φόβος Ca&#13;
+Εκπτωση μνήμης (τον προβληματίζει στη δουλειά του)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>οξεία σκωληκοειδίτις,(προ 20 ετίας)&#13;
+πάρεση ΔΕ περονιάιου νέυρου (προ 5 ετίας)&#13;
+ΓΟΠ κατά καιρούς&#13;
+Ειναι καπνιστής,πίνει 3 καφέδες τη μέρα</personal_medical_history>
+        <family_medical_history>κληρονομική προδιάθεση για Ca&#13;
+Η μητέρα πεθανε σε ηλικία 44 από Ca μαστού&#13;
+Πατέρας από καρκίνο πνεύμονα </family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>σχετικά καθαρή εικόνα φαρμάκου όμως βαθειά παθολογία&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ενοχλήσεις από πρώτα δεξιά μετα αριστερά (1)</peculiar>
+        <intense>καλύτερα στη θάλασσα(4)&#13;
+επιθυμία για ψάρι (3)&#13;
+Αγχός για τη δουλειά του (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Medorrhinum, Phosphorus, Nitric Acid</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORRHINUM</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps πρωί/</regimen>
+        <other_notes>τον δυσκολεύει το ενδεχόμενο στέρησης του καφέ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-03 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν έκανε καρδιολογικό έλεγχο </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>καμμία μεταβολή</reaction>
+      <analysis>Ο ασθενής εξακολούθησε να πίνει 3 καφέδες τη μέρα</analysis>
+      <conclusion>κανένα περιθώριο για αξιολόγηση της θεραπείας</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>MEDORRHINUM</remedy>
+        <potency>30CH</potency>
+        <regimen>1 caps x 30 μέρες</regimen>
+        <other_notes>επανέλεγχο σε 1 μήνα&#13;
+Δεν μπορεί να σταματήσει τον καφέ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-11-03 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>βελτίωση στο βασικό πρόβλημα με ανεπαισθητη επιδείνωση τις πρώτες μέρες.&#13;
+είναι πιο ήρεμος, έβαλε σε τάξη κάποιες εκκρεμότητες, είναι αισιοδοξος.&#13;
+Οι σωματικές ενοχλήσεις εξακολουθουν.&#13;
+έχει ελαττώσει τον καφέ</reaction>
+      <analysis>Η επιδείνωση δεν ήταν ξεκάθαρη καθώς η κατάστασή του ήταν ήδη πολύ άσχημη.&#13;
+Βελτίωση στο mental-emotional πεδίο σημαίνει πως το φάρμακο έδρασε.&#13;
+</analysis>
+      <conclusion>πιθανο η συνέχιση της θεραπείας με placebo να βοηθήσει</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Ν.Λ. 49 follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>plp </remedy>
+        <potency>-</potency>
+        <regimen>1 caps  / μέρα</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-01-11 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-&#13;
+Τηλεφωνική επικοινωνία εν μέσω οξείας διαρροικής κρίσης (βλ.repertory)</reaction>
+      <analysis>-</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Ν.Λ. 49 ΟΞΥ.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ALOE SOCOTRINA</remedy>
+        <potency>1M, 10M</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

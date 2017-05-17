@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3eea7c2093cf3f9cb0d575542b90dbf8</ID>
+  <patient>
+    <case_date>2015-12-31 03:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Π.Μ</patient_initials>
+    <age>41</age>
+    <circumstances>Γενικός Ιατρός, μητέρα ενός παιδιού</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>14/10/14:&#13;
+&#13;
+Κολπίτιδα στο τελευταίο 3μηνο της κύησης και υποτροπή ένα μήνα μετά την ΚΤ, κνησμός, έντονο τσούξιμο στα μεγάλα χείλη(+++) κυρίως ΑΡ, αίσθημα τσιμήματος βελόνας στην κλειτορίδα, λευκόρροια(++)&#13;
+πληγωμένες θηλές(+++),μειωμένη παραγωγή γάλακτος, επιλόχια κατάθλιψη(+++)</origin>
+        <causative_factors>ανατομικό πρόβλημα του μωρού θολωτή υπερώα, αντλήσεις γάλακτος, ΚΤ</causative_factors>
+        <modalities>am:καθαριότητα, χλιαρό ντουζ, &#13;
+aggr: επαφή με το σερβιετάκι, εσώρουχο</modalities>
+        <occurrence_time>Ένα μήνα μετά την ΚΤ, υπάρχει ως σταθερή κατάσταση που ελάχιστα μεταβάλλεται</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>-</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ελαττωμένη παραγωγή γάλακτος, αιδιοκολπίτιδα, επιλόχειος κατάθλιψη χωρίς αλλοπαθητική αγωγή</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Lycopodium(τη βοήθησε), Thuja, Tuberculinum, Candida, Sepia, Ignatia( τη βοήθησε πολύ), Nux Vomica( τη βοήθησε) Arnica, Nitric Acid, Natrium Muriaticum, Kreosotum, Pulsatilla( 'Ηταν το τελευταίο ομοιοπαθητικό που πήρε. Το πήρε όταν εμφάνισε επιλόχειο κατάθλιψη και τη βοήθησε πολύ)</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αντιβιοτικά για υποτροπιάζουσες ωτίτιδες στο γυμνάσιο, κορτιζόνη τοπική για ατοπική δερματίτιδα και έκζεμα στο γυμνάσιο,&#13;
+πυελονεφρίτιδα στα 20 και αντιβιοτική αγωγή.&#13;
+Όλα τα τότε παιδικά εμβόλια, εμβόλιο κατά του ιου της Ηπ.Β, Αντιγριππικά εμβόλια κατά διαστήματα λόγω της εργασίας της.</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>Οξεία πυελονεφρίτιδα, ανευμευλογιά στην ηλικία των 20</infections>
+          <other>Απανωτά οξέα στην ηλικία των 20 αμυγδαλίτιδα, πυελονεφρίτιδα με υψηλό πυρετό και κατασταλτική αγωγή.&#13;
+Έκτοτε σταμάτησε να κάνει πυρετούς&#13;
+2 εκτρώσεις, 1 απόξεση&#13;
+Υποτροπιάζουσες μυκητιασικές κολπίτιδες από δεκαετίας&#13;
+1 εξωτερικό κονδύλωμα για το οποίο έκανε ομοιοπαθητική, εξαφανίστηκε 6 μήνες μετά.</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: Ca Στομάχου υπό αγωγή με ολική γαστρεκτομή, Α.Υ, οστεοπόρωση&#13;
+Πατέρας: MS ελαφριάς μορφής, ΔΕ ημιπάρεση, ωχροπάθεια στο ΔΕ μάτι</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυουλιάρα αλλά δεν αντέχει ούτε τη ζέστη, ειδικά στο πρόσωπο.&#13;
+Έχει πάντα κρύα πόδια(++), κατά περιόδους βάζει καλτσάκια στον ύπνο της και στην πορεία τα βγάζει.&#13;
+Της αρέσει ο ήλιος και το καλοκαίρι, αλλά δεν μπορεί να κάθεται στον ήλιο(++).&#13;
+Επιζητά τη σκιά(++).&#13;
+Της αρέσει πολύ η θάλασσα(++), της αρέσει να τη βλέπει.</reactions>
+        <sleeping_habits>Κοιμάται κυρίως στο πλάι χωρίς κάποια προτίμηση.&#13;
+Κοιμάται καλά, υπναρού γενικά, τα τελευταία χρόνια δεν θυμάται τα όνειρά της.&#13;
+</sleeping_habits>
+        <food_modalities>Επιθυμίες: αμυλώδη(++), σάλτσες(++), ξινά(++), καπνιστά(+++), γλυκά(++) κυρίως αμυλώδη και οι κρέμες, παγωτό(+++) αλλά το αφήνει να ξεπαγώνει λίγο, σοκολάτα μαύρη, αλάτι νορμάλ, ώριμα φρούτα &#13;
+Απέχθειες: παστά και τα υπερβολικά αλμυρά(++), λίπος ωμό(+++), γλοιώδη(++), γάλα,, ξινά φρούτα&#13;
+Νερό πίνει πάρα πολύ(++), διψάει διαρκώς και το θέλει δροσερό και το πίνει μονορούφι.&#13;
+Τα παγάκια δεν τα μπορεί </food_modalities>
+        <menstruation>Μεγάλος αλλά σταθερός κύκλος, πολύ αίμα(++)</menstruation>
+      </physical>
+      <mental_emotional>επιλόχειος κατάθλιψη(+++), απαιτητική αυτή την περίοδο(++), demanding, αίσθημα εγκλωβισμού, αίσθημα αποτυχίας μετά την ΚΤ, αίσθημα αποτυχίας με τις αντλήσεις, ανάγκη για βοήθεια και ένα αίσθημα κόντρας με τον σύντροφό της.&#13;
+Γενικά υπομονετική(++), κοινωνική ως ενήλικας, δεν ανοίγεται όμως εύκολα για τα προσωπικά(++),&#13;
+fastidious(+++), εύθικτη, δεν αντέχει την αδικία, δοτική(++), φιλότιμη πολύ&#13;
+αίσθημα αδικίας προς την ίδια(++), όταν δεν είναι καλά δεν πολυθέλει παρηγοριά,&#13;
+κλαίει αυτή την περίοδο κάθε μέρα(+++), καθόλου υπομονετική με το παιδί(++)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Κολπίτιδα στο τελευταίο 3μηνο της κύησης και υποτροπή ένα μήνα μετά την ΚΤ, κνησμός, έντονο τσούξιμο στα μεγάλα χείλη(+++) κυρίως ΑΡ, αίσθημα τσιμήματος βελόνας στην κλειτορίδα, λευκόρροια(++)&#13;
+πληγωμένες θηλές(+++),μειωμένη παραγωγή γάλακτος, επιλόχια κατάθλιψη(+++)</personal_medical_history>
+        <family_medical_history>Μητέρα: Ca Στομάχου υπό αγωγή με ολική γαστρεκτομή, Α.Υ, οστεοπόρωση&#13;
+Πατέρας: MS ελαφριάς μορφής, ΔΕ ημιπάρεση, ωχροπάθεια στο ΔΕ μάτι</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Πιθανότατα τέλος του γρουπ 2( level 6) ή αρχή του γκρουπ 3( level 7),&#13;
+γιατί για ένα χρονικό διάστημα έκανε απανωτά οξέα και έκτοτε δεν ξαναεμφάνισε.&#13;
+τελευταίος πυρετός το 2009 μέχρι 38,5.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Της αρέσει πολύ η θάλασσα(++), της αρέσει να τη βλέπει.</peculiar>
+        <intense>κνησμός, έντονο τσούξιμο στα μεγάλα χείλη(+++) κυρίως ΑΡ, αίσθημα τσιμήματος βελόνας στην κλειτορίδα, λευκόρροια(++)&#13;
+πληγωμένες θηλές(+++),μειωμένη παραγωγή γάλακτος, επιλόχια κατάθλιψη(+++), aversion to sex(+++)&#13;
+κλαίει αυτή την περίοδο κάθε μέρα(+++)&#13;
+απαιτητική αυτή την περίοδο(++)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Symptom Degree&#13;
+MIND SADNESS,&#13;
+mental depression puerperal&#13;
+3&#13;
+GENITALIAFEMALE&#13;
+LEUCORRHOEA&#13;
+(discharge) 2&#13;
+CHEST PAIN&#13;
+Mammae&#13;
+(Mastodynia) nipples&#13;
+nursing&#13;
+(Lactation), while 3&#13;
+GENITALIAFEMALE&#13;
+ITCHING&#13;
+burning&#13;
+2&#13;
+EXTREMITIES COLDNESS&#13;
+2&#13;
+MIND DICTATORIAL&#13;
+1&#13;
+MIND WEEPING,&#13;
+tearful mood, etc. nervous&#13;
+feels&#13;
+like crying all the time, but it makes her worse 1&#13;
+MIND LAMENTING,&#13;
+bemoaning, wailing etc. 2&#13;
+CHEST MILK&#13;
+disappearing&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS sweets&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS icecream&#13;
+desire&#13;
+3&#13;
+GENERALITIES FOOD&#13;
+and DRINKS fat&#13;
+aversion&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS slimy&#13;
+food aversion&#13;
+2&#13;
+Case Title: Πανταζή&#13;
+Gender: Female, First Visit: Wednesday, Oct 14, 2014, Main Complaint: επιλόχειος κατάθλιψη&#13;
+Vithoulkas</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5634/Πανταζή.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Κreosotum, Sepia, Crot. t</remedies_differentiation>
+      <prescription>
+        <remedy>Sepia</remedy>
+        <potency>30CH</potency>
+        <regimen>5 κάψουλες ανά 12ωρο</regimen>
+        <other_notes>Δίνω 30άρια για να αποφύγω μια έντονη επιδείνωση που μπορεί να είχα με υψηλότερη δυναμοποίηση.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-31 02:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Follow up 1/12/14:&#13;
+&#13;
+Μετά από μια 10ήμερη γερή επιδείνωση ξυπνά απαλλαγμένη από όλα τα συμπτώματα.&#13;
+Ταυτόχρονα μέσα στο πρώτο αυτό 10ήμερο αυξήθηκε η παραγωγή γάλακτος της θηλάζουσας. </reaction>
+      <analysis>Μας έκανε επιδείνωση και έπειτα βελτίωση στα συμπτώματα για τα οποία ήρθε, οπότε το φάρμακο είναι σωστό.&#13;
+Περιμένω για βελτιώση και στα υπόλοιπα επίπεδα( mental, emotional) χωρίς νέα συνταγογράφηση ή για εμφάνιση νέας καθαρής εικόνας άλλου φαρμάκου</analysis>
+      <conclusion>Περιμένω χωρίς δεύτερη συνταγογράφηση</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-31 02:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>2ο follow up 20/4/15:&#13;
+&#13;
+Παρά την προηγούμενη κατάθλιψη,μετά τη sepia είναι άλλος άνθρωπος. Κινητοποιείται, ψάχνει λύσεις για τον θηλασμό του παιδού. Μέσα στο Δεκέμβρη καταφέρνει να αυξήσει την παραγωγή γάλακτος και να βάλει το παιδί στο στήθος. Ακολουθεί πολύ ευτυχισμένη περίοδος 4 μηνών. Η ασθενής είναι μέσα στην τρελή χαρά. Η ελευθερία να πηγαίνει όπου θέλει και να θηλάζει το μωρό της, έκανε μεγάλη διαφορά στη ζωή της. Ζει σε μια «φωσφορική» κατάσταση όπου θέλει να είναι συνέχεια έξω,να κάνει βόλτες και δουλειές στο κέντρο με το μωρό στο μάρσιπο και αναζητά συνεχώς παρέα. Συνεχίζει όμως να μην έχει καθόλου όρεξη για σεξ και τις λίγες φορές που το προσπάθησε ήταν αδύνατη η διείσδυση, με τσούξιμο και έντονο πόνο κι επίσης αδύνατος ο οργασμός.</reaction>
+      <analysis>Υπήρξε βελτίωση και στο ψυχοδιανοητικό επίπεδο, ωστόσο η απέχθεια για το σεξ παραμένει. Το περιστατικό πιστεύω προχωράει καλά και δεν θα προχωρήσω σε δεύτερη συνταγογράφηση.</analysis>
+      <conclusion>Η βελτίωση και στο ψυχοδιανοητικό επίπεδο επιβεβαιώνει με τη σειρά της ότι η sepia ήταν σωστή και ότι η ασθενής βρίσκεται σε θεραπευτική διαδικασία. Θα περιμένω και πάλι χωρίς δεύτερη συνταγογράφηση για βελτίωση και στο κομμάτι του σεξ και ολοκλήρωση της δράσης του πρώτου φαρμάκου ή για μια νέα εικόνα άλλου φαρμάκου.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

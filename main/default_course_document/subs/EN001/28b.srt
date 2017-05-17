@@ -1,0 +1,1164 @@
+1
+00:00:57,870 --> 00:01:02,620
+Anybody knows the theory concerning high potencies?
+
+2
+00:01:03,970 --> 00:01:12,870
+A group of us in Greece with small clusters, do you know that theory?
+
+3
+00:01:12,970 --> 00:01:15,370
+-No.
+
+4
+00:01:15,470 --> 00:01:32,000
+-Who knows? You have read our paper?
+-...clusters of molecules diluted in water.
+
+5
+00:01:32,100 --> 00:01:36,610
+-This is a hypothesis we brought about.
+
+6
+00:01:58,680 --> 00:02:15,600
+-...200 K or C, it is the same, the difference is in preparation 
+
+7
+00:02:15,700 --> 00:02:23,240
+but it is 200 times diluted and succused both. 
+
+8
+00:02:25,000 --> 00:02:32,390
+There is a kind of misinformation which goes on that the C potencies, 
+
+9
+00:02:32,490 --> 00:02:39,390
+the Hahnemannian potencies are stronger than the Korsakov.
+
+10
+00:02:39,490 --> 00:02:41,740
+This is not true. 
+
+11
+00:02:42,990 --> 00:02:50,640
+If you prepare by taking one drop from the first solution 
+
+12
+00:02:50,740 --> 00:02:57,680
+and you put this drop to a second bottle with 100 and you dilute and then you succuss, 
+
+13
+00:02:57,780 --> 00:03:03,240
+this is the Hahnemannian method or the C.
+
+14
+00:03:03,340 --> 00:03:13,070
+If you empty the bottle and you refill it, the same bottle with 100 drops, 
+
+15
+00:03:13,170 --> 00:03:26,070
+what is left on the walls of the bottle is one part and you so you have again 1 part in 99
+
+16
+00:03:26,170 --> 00:03:28,310
+and you succuss it. 
+
+17
+00:03:28,410 --> 00:03:35,820
+In both cases you have 1 part in 99 and you succuss it and again 1 part in 99 
+
+18
+00:03:35,920 --> 00:03:45,920
+and you succuss it, so the effect of both methods should be the same if they are well succussed.
+
+19
+00:03:46,920 --> 00:03:48,660
+There is no difference.
+
+20
+00:03:50,170 --> 00:03:58,310
+The difference is that preparing by this method you need 200 bottles 
+
+21
+00:03:58,410 --> 00:04:13,910
+and you need a lot more solution, whatever you prepare.
+
+22
+00:04:14,670 --> 00:04:20,390
+It maybe a more expensive method. The problem is, 
+
+23
+00:04:22,500 --> 00:04:33,310
+if they say this is 1000 times Hahnemannian way, have they done it really? 
+
+24
+00:04:33,410 --> 00:04:45,150
+Because it means 1000 times somebody takes the bottle, takes one drop, goes to another bottle,
+
+25
+00:04:45,250 --> 00:04:48,730
+refills, put the drop and succuss it.
+
+26
+00:04:48,830 --> 00:04:54,580
+Take one drop again. So it's not automatic.
+
+27
+00:04:55,340 --> 00:04:59,830
+Where with the other method, emptying and refilling, is automatic.
+
+28
+00:05:02,340 --> 00:05:08,480
+So I have a problem, when they say this is 10.000. have they done it 10.000?
+
+29
+00:05:08,580 --> 00:05:13,560
+It really is 10.000 times the Hahnemannian way? 
+
+30
+00:05:13,660 --> 00:05:18,410
+I have a problem there to believe.
+
+31
+00:05:30,160 --> 00:05:36,900
+In order to use the same bottle, you have to go through very high temperature to spoil 
+
+32
+00:05:37,000 --> 00:05:43,000
+and continue etc. It's a big process which becomes much more expensive.
+
+33
+00:05:44,660 --> 00:05:50,080
+But some pharmaceutical companies in order to compensate for that, 
+
+34
+00:05:50,180 --> 00:06:01,170
+they say the Hahnemannian potency, let us the 12 potency is equal to 200 Korsakov.
+
+35
+00:06:05,160 --> 00:06:07,670
+In Canada you don't say such words.
+
+36
+00:06:10,660 --> 00:06:21,900
+Where the small clusters are formed with this process, 
+
+37
+00:06:22,000 --> 00:06:31,960
+there are clusters of molecules of the original substance in the water and around them 
+
+38
+00:06:32,060 --> 00:06:41,740
+they are molecules of water which they go and envelop these clusters.
+
+39
+00:06:41,840 --> 00:06:48,210
+As you go higher and higher, what it remains are the clathrates, 
+
+40
+00:06:48,310 --> 00:06:58,460
+it remains a kind of the shape of the cell of the original clusters.
+
+41
+00:06:58,560 --> 00:07:10,810
+These clusters, as they form in physics, they tend to go and stick to the walls of the bottle. 
+
+42
+00:07:11,560 --> 00:07:18,700
+That's why the Korsakov method where it takes its original substance from the walls
+
+43
+00:07:18,800 --> 00:07:25,200
+- because if you empty the bottle and you turn it back what is left is, 
+
+44
+00:07:25,300 --> 00:07:35,700
+what is stuck on the walls- so these are the solutions which contain most of the clusters.
+
+45
+00:07:35,800 --> 00:07:42,960
+So if you take from the middle, you may not be getting some clusters sometimes 
+
+46
+00:07:43,060 --> 00:07:47,460
+where on the walls definitely there are clusters.
+
+47
+00:07:47,560 --> 00:07:56,810
+So the Korsakov method is more reliable than the Hahnemannian method.
+
+48
+00:07:59,300 --> 00:08:05,380
+And as you know I have great problems many times 
+
+49
+00:08:06,980 --> 00:08:10,130
+because the remedy was not really potentized.
+
+50
+00:08:10,230 --> 00:08:13,310
+They would say it's 1M and it was nothing.
+
+51
+00:08:14,060 --> 00:08:19,470
+That's why I had proposed to different pharmaceutical companies 
+
+52
+00:08:19,570 --> 00:08:26,880
+that they would prepare medicines, if I had given them instructions how to do it, 
+
+53
+00:08:26,980 --> 00:08:33,950
+in a way that it would be with an automatic machine. 
+
+54
+00:08:34,050 --> 00:08:40,120
+A machine that would duplicate an original way of preparing the medicine, 
+
+55
+00:08:40,220 --> 00:08:54,370
+that was hitting, that is how it was prepared. And that is how Homeopathy started.
+
+56
+00:08:54,470 --> 00:09:01,380
+Different companies they had different ways, like put and vibrate, inject water 
+
+57
+00:09:01,480 --> 00:09:04,050
+and different other ideas came in.
+
+58
+00:09:04,150 --> 00:09:10,790
+I said forget all that, I want the original way, I want an automatic electronic machine
+
+59
+00:09:10,890 --> 00:09:15,290
+which will not interfere at all, the human being will not interfere.
+
+60
+00:09:15,390 --> 00:09:21,790
+You can switch and say, I want these potencies to be selected 
+
+61
+00:09:21,890 --> 00:09:29,830
+and the machine automatically will refill, will shake and keep at the same time, 
+
+62
+00:09:29,930 --> 00:09:38,900
+keep aside No 12 potency, No 30 potency and work automatically day and night.
+
+63
+00:09:39,650 --> 00:09:45,320
+So therefore I'm sure when I give 1M potency that it is 1M potency, 
+
+64
+00:09:45,420 --> 00:09:51,640
+it's not 12 or 20 instead of 200.
+
+65
+00:09:52,390 --> 00:10:05,790
+There were several pharmaceutical companies that were interested and when they heard that,
+
+66
+00:10:05,890 --> 00:10:12,710
+they found it very expensive, how many remedies would sell and finally they were not interested.
+
+67
+00:10:12,810 --> 00:10:21,220
+There was one firm in Italy that was doing dialysis machines for the kidneys 
+
+68
+00:10:21,320 --> 00:10:25,710
+and they got interested. They said we want to go to Homeopathy, what do you want?
+
+69
+00:10:25,810 --> 00:10:32,460
+I want a team of such people, mechanical engineers etc. and I will tell them exactly
+
+70
+00:10:32,560 --> 00:10:35,790
+what is the machine that I want and I imagine. 
+
+71
+00:10:35,890 --> 00:10:46,400
+I want the original and I gave them the strength with which you hit and the fastness.
+
+72
+00:10:47,400 --> 00:10:53,460
+The original is different, I can not imagine it's doing like that, like the machines they have.
+
+73
+00:10:53,560 --> 00:11:02,700
+It needs some time and it has to come horizontally and then hit and hit. 
+
+74
+00:11:02,800 --> 00:11:11,630
+It's different because these clathrates, these clusters they form and they are allowed to settle.
+
+75
+00:11:11,730 --> 00:11:16,810
+Otherwise it becomes like a madness within the water.
+
+76
+00:11:19,810 --> 00:11:30,210
+But anyhow my idea of reproducing the original medicine was from the simple logic
+
+77
+00:11:30,310 --> 00:11:37,630
+that the original medicines were produced by a hand, brought about, manifested in Homeopathy.
+
+78
+00:11:37,730 --> 00:11:44,730
+So this is the way the medicines should continue to be done.
+
+79
+00:11:45,640 --> 00:11:57,870
+This company, the Italian company, is producing at this moment these kind of potencies.
+
+80
+00:11:57,970 --> 00:12:01,230
+Korsakov method.
+
+81
+00:12:01,810 --> 00:12:06,390
+-What is the name of the company?
+-The name of the company is SIFFRA.
+
+82
+00:12:09,640 --> 00:12:18,300
+And now when I want to give a 10M or 50M potency, I know it is a 50M potency 
+
+83
+00:12:18,400 --> 00:12:25,800
+and if it does not work, I know it is my fault and not the fact 
+
+84
+00:12:25,900 --> 00:12:29,140
+that there is no medicine in that.
+
+85
+00:12:30,650 --> 00:12:36,550
+That is another thing I brought into Homeopathy in order to secure the idea, 
+
+86
+00:12:36,650 --> 00:12:42,890
+because we depend entirely on the integrity of the pharmacy.
+
+87
+00:12:43,650 --> 00:12:47,050
+You hear the mandragora case, what she said.
+
+88
+00:12:47,150 --> 00:12:50,300
+Because she is sensitive she understands, she took medicine 
+
+89
+00:12:50,400 --> 00:12:53,220
+and there was nothing in the medicine.
+
+90
+00:12:57,980 --> 00:13:04,630
+Bill Gray is here and maybe he will remember an incident in Berkley.
+
+91
+00:13:04,730 --> 00:13:11,870
+Baker one of the naturopathic doctors was sitting there and one time I saw him collapsing.
+
+92
+00:13:11,970 --> 00:13:12,870
+I said what is happening? 
+
+93
+00:13:12,970 --> 00:13:19,620
+He was perspiring, he said, I have diarrhea, vomiting, I don't feel well. 
+
+94
+00:13:19,720 --> 00:13:31,370
+We took him upstairs in one room in the hotel and what was the remedy that we prescribed?
+
+95
+00:13:31,470 --> 00:13:36,160
+I prescribed Carbo Vegetabilis for him. I left him upstairs, 
+
+96
+00:13:36,260 --> 00:13:42,960
+I went down to continue the lecture and after 1 hour I went upstairs to see how he was.
+
+97
+00:13:43,060 --> 00:13:59,560
+After 1 hour, he was the same. He says, I think I'm not Carbo Vegetabilis. 
+
+98
+00:14:00,060 --> 00:14:03,950
+I think I need Arsenicum. Why? 
+
+99
+00:14:04,050 --> 00:14:11,960
+Because I have some fear, fear of dying, he was totally exhausted.
+
+100
+00:14:12,060 --> 00:14:18,900
+I had given him one dose of Carbo Vegetabilis 1M.
+
+101
+00:14:20,640 --> 00:14:26,460
+But for me when I give a remedy, I know why I give the remedy and when I see the symptoms,
+
+102
+00:14:26,560 --> 00:14:31,960
+the symptoms are Carbo Vegetabilis. I say, something is wrong with the medicine, 
+
+103
+00:14:32,060 --> 00:14:33,960
+the medicine was not correct.
+
+104
+00:14:34,060 --> 00:14:37,210
+I go down, I say, has anybody Carbo Vegetabilis 200? 
+
+105
+00:14:37,310 --> 00:14:50,040
+Yes, one student had, I go upstairs and I give 200. In less than one minute, the man says,
+
+106
+00:14:50,140 --> 00:14:53,140
+I feel better.
+
+107
+00:14:53,890 --> 00:15:00,790
+In 1 hour he was travelling back with his car to his place where he was travelling in 
+
+108
+00:15:00,890 --> 00:15:03,730
+and out to come to this seminar.
+
+109
+00:15:06,230 --> 00:15:11,230
+The 1M what it contained? Nothing, it was pure water. 
+
+110
+00:15:14,730 --> 00:15:19,300
+There was another case, Bill may still remember.
+
+111
+00:15:23,310 --> 00:15:34,210
+Phosphorus 50M. A month later comes the report by Nancy Herring.  
+
+112
+00:15:34,310 --> 00:15:40,460
+It says the report it's a little bit better, nothing really...
+
+113
+00:15:40,560 --> 00:15:47,060
+I ask the class, what is wrong? Medicine is wrong. 
+
+114
+00:15:50,310 --> 00:15:59,960
+I say this medicine, Phosphorus 50M has acted as if it was one dose of 12 to my understanding.
+
+115
+00:16:00,060 --> 00:16:11,310
+I said, the medicine is wrong give her a dose of 200 from another pharmacy, beautiful reaction.
+
+116
+00:16:16,230 --> 00:16:20,380
+A case of Paris Quadrifolia in London where I was teaching, 
+
+117
+00:16:20,480 --> 00:16:23,230
+these are public cases I'm talking about. 
+
+118
+00:16:23,730 --> 00:16:29,380
+I come 3 months later, I teach again and the case is presented, nothing.
+
+119
+00:16:29,480 --> 00:16:34,130
+The same. I go up to the class, I say the medicine is wrong.
+
+120
+00:16:34,230 --> 00:16:39,130
+We try to find another medicine? I said, no go to 3 other pharmacies, 
+
+121
+00:16:39,230 --> 00:16:45,880
+find again Paris Quadrifolia 30 from 3 other pharmacies, to be sure and give it to her.
+
+122
+00:16:45,980 --> 00:16:48,980
+3 months later, she was cured. 
+
+123
+00:16:49,980 --> 00:17:01,130
+All this and a lot of other experiences in Athens where a remedy was open and close. 
+
+124
+00:17:01,230 --> 00:17:05,630
+A pharmacy gets a bottle and from this bottle gives to different patients.
+
+125
+00:17:05,730 --> 00:17:12,710
+There is a time where the bottle is spoiled, either because of some perfumes or whatever
+
+126
+00:17:12,810 --> 00:17:21,060
+and he gives a dose from that bottle and the remedy does not work.
+
+127
+00:17:22,820 --> 00:17:28,210
+Then the doctor, when the patient comes, the doctor thinks - 
+
+128
+00:17:28,310 --> 00:17:33,220
+especially if he isn't very sure about the remedy - the remedy is wrong, 
+
+129
+00:17:33,320 --> 00:17:36,970
+I give another remedy and another remedy and another remedy.
+
+130
+00:17:37,070 --> 00:17:45,970
+I remember another case in Berkley. I took a case, 150 remedies the person had taken.
+
+131
+00:17:46,070 --> 00:17:53,560
+150 remedies in 7 years!
+
+132
+00:17:55,320 --> 00:18:05,220
+I said, what shall I do? I read, I read, I read the remedies and I take the case 
+
+133
+00:18:05,320 --> 00:18:09,710
+and I say the remedy I see is very clear, it's not here.
+
+134
+00:18:09,810 --> 00:18:17,970
+He gave 150 remedies and within 150 possibilities did not strike the right remedy,
+
+135
+00:18:18,070 --> 00:18:23,710
+that is unbelievable; the doctor was there and I did not know what to say, 
+
+136
+00:18:23,810 --> 00:18:26,730
+it was a clear case of Gelsemium.
+
+137
+00:18:26,980 --> 00:18:30,220
+I say, this is a clear case of Gelsemium. 
+
+138
+00:18:30,320 --> 00:18:37,230
+Ah, he says Gelsemium was the first remedy I gave. 7 years ago.
+
+139
+00:18:38,980 --> 00:18:43,400
+He had not written it because he wrote the last remedies. 
+
+140
+00:18:47,650 --> 00:18:51,050
+He said that was the first remedy, from which pharmacy? From that pharmacy.
+
+141
+00:18:53,480 --> 00:18:59,230
+Give Gelsemium from 3 other pharmacies, action.
+
+142
+00:19:00,480 --> 00:19:08,130
+All these led me to believe that there is something wrong with the pharmacies,
+
+143
+00:19:08,230 --> 00:19:12,560
+we have to have reliable medicines.
+
+144
+00:19:13,060 --> 00:19:20,730
+When I say in this case that I'm not sure about the remedy, I say Psorinum and it does not work,
+
+145
+00:19:20,830 --> 00:19:26,830
+he will go immediately to Silica but if the remedy is not reliable, what happens?
+
+146
+00:19:26,930 --> 00:19:34,570
+Because I am not sure. In case of Lachesis I'm sure, in case of Sulphur I'm sure, 
+
+147
+00:19:34,670 --> 00:19:37,320
+in this case I'm not sure. 
+
+148
+00:19:37,420 --> 00:19:44,240
+So immediately I will jump to the next remedy and if the remedy is not right I lose the whole thing.
+
+149
+00:19:44,340 --> 00:19:50,990
+You understand how much important is for us to have reliability in the medicine?
+
+150
+00:19:51,090 --> 00:19:56,250
+And when we say 200 it is 200 and when we say 1M it is 1M.
+
+151
+00:19:56,350 --> 00:20:03,990
+That's why I asked them and they are preparing in this way, duplicating the hand made potencies,
+
+152
+00:20:04,090 --> 00:20:08,740
+in an electronic way without interfering at all by hand.
+
+153
+00:20:08,840 --> 00:20:18,600
+You know how much difficult it is for a person to sit down and measure 200 times.
+
+154
+00:20:20,670 --> 00:20:25,170
+There was that we ordered 200 and it was only 20 times, why?
+
+155
+00:20:25,270 --> 00:20:33,400
+Because between 20 and 180 that they were missing, the man was going to see his child
+
+156
+00:20:33,500 --> 00:20:37,500
+who was sick, that was in Italy.
+
+157
+00:20:37,960 --> 00:20:44,660
+The man who was in charge, after interrogation, after pushing we found out 
+
+158
+00:20:44,760 --> 00:20:52,660
+that he had left and the time he was supposed to make the 200, he was in his house, 
+
+159
+00:20:52,760 --> 00:21:01,970
+looking after his child who was sick. But this is what happens if you rely on the human factor.
+
+160
+00:21:04,680 --> 00:21:13,430
+That is why now I say 200, 1M and 10M. Maybe one of the three will be.
+
+161
+00:21:14,430 --> 00:21:22,180
+I have more chances to be correct because I saw you being aggravated a little bit.
+
+162
+00:21:22,920 --> 00:21:26,420
+But unfortunately this is my experience.
+
+163
+00:21:31,680 --> 00:21:39,670
+In one day morning, noon and night. In one day all 3 different, yes.
+
+164
+00:21:41,430 --> 00:21:45,570
+-Do you, in your experience, homeopathic remedies sensitive to  magnetic fields, 
+
+165
+00:21:45,670 --> 00:21:52,010
+strong fields?
+-No. There are not. 
+
+166
+00:21:53,260 --> 00:22:03,160
+They are sensitive to heat and this is for sure.
+
+167
+00:22:03,260 --> 00:22:13,010
+If you expose them to the sun, to heat more than 40-50 degrees, then you may have a problem.
+
+168
+00:22:15,760 --> 00:22:27,660
+-I read a book from a doctor [name of the doctor] PhD and he reported experiences with dilutions.
+
+169
+00:22:27,760 --> 00:22:33,660
+And he said it seems to medication sinusoidal effect, different dilutions meaning 
+
+170
+00:22:33,760 --> 00:22:38,910
+that some dilutions will product a positive effect and the next dilution 
+
+171
+00:22:39,010 --> 00:22:46,170
+will product some opposite or no effect at all, control of dilution, kind of.
+
+172
+00:22:46,270 --> 00:22:51,010
+-This is the work of Benveniste. 
+
+173
+00:22:51,760 --> 00:23:01,410
+-He was reporting many works on dilutions, control delusions and he was reporting 
+
+174
+00:23:01,510 --> 00:23:09,750
+that whatever they tried, they are the sinusoidal effect with some dilution ...
+
+175
+00:23:09,850 --> 00:23:19,660
+-Maybe it was before Benveniste. Benveniste did the experiment. You know it?
+
+176
+00:23:19,760 --> 00:23:25,920
+This experiment had some problems and we back fire for Homeopathy a lot 
+
+177
+00:23:26,020 --> 00:23:33,990
+and he brought out the idea of one dilution being active, the next dilution not active.
+
+178
+00:23:34,090 --> 00:23:37,490
+I don't accept that, no.
+
+179
+00:23:37,590 --> 00:23:43,740
+-Can you describe what you are looking for at this stage of the day that is coming?
+
+180
+00:23:43,840 --> 00:23:49,600
+Of the different potencies? Is it possible to describe the changes that you' re looking for?
+
+181
+00:23:50,850 --> 00:24:01,330
+-In that particular case? Why I gave three potencies?
+
+182
+00:24:01,430 --> 00:24:07,170
+-And what specifically you're looking for during the course of the day?
+
+183
+00:24:09,670 --> 00:24:17,160
+-I'm not looking specifically for anything. I'm trying to create a reaction from the remedy.
+
+184
+00:24:17,260 --> 00:24:26,990
+So if I was very sure that a remedy was really potentized 10.000 times
+
+185
+00:24:27,090 --> 00:24:32,000
+I would say take one dose of Psorinum 10.000.
+
+186
+00:24:32,100 --> 00:24:38,000
+But as I'm not sure about that, I give three possibilities, I give one 200, 
+
+187
+00:24:38,100 --> 00:24:45,750
+there is a possibility that there is a potentized remedy 1M and 10M another possibility.
+
+188
+00:24:45,850 --> 00:24:51,000
+If all three of them are potentized, 
+
+189
+00:24:51,100 --> 00:24:57,440
+then most probably we may have a bigger reaction than normal.
+
+190
+00:24:57,930 --> 00:25:05,830
+Some people claim like Marjory Blackie from England, she used to give that kind of schema,
+
+191
+00:25:05,930 --> 00:25:10,830
+she used to give three potencies and she claimed 
+
+192
+00:25:10,930 --> 00:25:22,330
+that in this way minimized the reaction of the patient, the aggravation. 
+
+193
+00:25:22,430 --> 00:25:25,060
+I'm not sure about that.
+
+194
+00:25:36,010 --> 00:25:39,910
+-I just wanted to ask if you had any experience with the LM potencies, 
+
+195
+00:25:40,010 --> 00:25:42,910
+whether you recommend them at all?
+
+196
+00:25:43,010 --> 00:25:46,410
+-I do not have much experience with LM potencies. 
+
+197
+00:25:46,510 --> 00:25:51,910
+I would recommend them sometimes when there are hyper sensitive people 
+
+198
+00:25:52,010 --> 00:25:59,410
+and I want really to give a very low potency and bring about very little aggravation, 
+
+199
+00:26:01,760 --> 00:26:06,160
+I resort to LM. I have done it very few times.
+
+200
+00:26:06,260 --> 00:26:19,730
+One time I've done it, my experience was in Italy with a child with epidermolysis bullosa.
+
+201
+00:26:20,730 --> 00:26:28,630
+For those who know a little bit of dermatology, they know this is a fatal disease in children,
+
+202
+00:26:28,730 --> 00:26:36,880
+where the skin is not formed, the absorption of different minerals are not done 
+
+203
+00:26:36,980 --> 00:26:41,130
+and there is no skin actually, the moment they touch the skin it opens up, 
+
+204
+00:26:41,230 --> 00:26:47,370
+it makes a wound and then the child is bandaged with wounds all over 
+
+205
+00:26:47,470 --> 00:26:53,730
+and they live 3,4,5 years at the most 7 years and they die.
+
+206
+00:26:53,970 --> 00:27:04,210
+That child was 1 1/2 year old, he was so sensitive, he was Phosphorus, his remedy was Phosphorus
+
+207
+00:27:04,310 --> 00:27:11,470
+and I said give him 3 doses of Phosphorus LM.
+
+208
+00:27:11,570 --> 00:27:17,300
+With the first potency they gave, there was a tremendous reaction 
+
+209
+00:27:17,400 --> 00:27:22,880
+and the whole chest became a wound, opened. 
+
+210
+00:27:22,980 --> 00:27:30,310
+It was definitely very bad aggravation, with 1 dose of LM.
+
+211
+00:27:33,310 --> 00:27:38,470
+And after that there was an amelioration and then there was a repetition, 
+
+212
+00:27:38,570 --> 00:27:42,390
+again aggravation and amelioration. 
+
+213
+00:27:42,490 --> 00:27:48,390
+This is the experience I have with LM potencies and in some other cases 
+
+214
+00:27:48,490 --> 00:27:53,970
+where it has been suggested in over sensitive, I have not seen that kind of reaction,
+
+215
+00:27:54,070 --> 00:27:56,070
+I'm relating to you.
+
+216
+00:28:02,070 --> 00:28:05,300
+-This kid you saw in Italy was cured?
+
+217
+00:28:05,400 --> 00:28:21,050
+-The boy is still alive, he is 5 years old, he is still alive, his skin is not perfect 
+
+218
+00:28:21,150 --> 00:28:36,630
+but he is much, much better and I believe that if they continue treatment, he will be saved.
+
+219
+00:28:36,730 --> 00:28:39,630
+-And he is still Phosphorus.
+
+220
+00:28:39,730 --> 00:28:45,730
+-Eventually he went to Calcarea carbonica. After 2 years I think, I prescribe Cal. carb.
+
+221
+00:28:46,490 --> 00:28:51,140
+-The case that we saw, which you prescribed Psorinum, 
+
+222
+00:28:51,240 --> 00:28:57,640
+is there any concern giving a 10M with the skin problems coming back very strongly?
+
+223
+00:28:57,740 --> 00:28:59,630
+-I didn't follow?
+
+224
+00:28:59,730 --> 00:29:04,880
+-Are you concerned about giving a 10M and having a very severe skin aggravation
+
+225
+00:29:04,980 --> 00:29:07,640
+skin symptoms coming back very strongly?
+
+226
+00:29:07,740 --> 00:29:21,480
+-No, no. I wish they come back and they come strong. I have no problem with her.
+
+227
+00:29:31,230 --> 00:29:36,140
+-If the higher potencies seem to be  less likely to be what they say on a vial
+
+228
+00:29:36,240 --> 00:29:40,160
+why they give 3 doses of 200 from 3 different pharmacies?
+
+229
+00:29:40,650 --> 00:29:48,800
+-Because if the bottle is spoiled and you give 3 doses, it doesn't matter, still is spoiled.
+
+230
+00:29:48,900 --> 00:29:50,380
+-But from 3 different bottles.
+
+231
+00:29:50,480 --> 00:29:52,390
+-From 3 different pharmacies? 
+
+232
+00:29:52,490 --> 00:29:57,890
+That's another idea, which I've done several times 
+
+233
+00:29:57,990 --> 00:30:07,500
+but it's more difficult for the person to go searching for 3 different pharmacies perhaps.
+
+234
+00:30:14,740 --> 00:30:21,940
+-Do you think we should give 3 doses of every medication that we give for everyone?
+
+235
+00:30:23,440 --> 00:30:29,340
+-If there is no problem with the patient, there is no problem with the aggravation, 
+
+236
+00:30:29,440 --> 00:30:37,800
+yes you can do it, if you are not afraid of deep pathology and it's not an old person 
+
+237
+00:30:37,900 --> 00:30:43,900
+and it's not the last stages of a disease, yes you can do that.
+
+238
+00:30:49,410 --> 00:30:54,400
+-What is your view of these pieces of equipment which prepare remedies?
+
+239
+00:30:55,190 --> 00:31:05,810
+-Like radioinics machines? I'm sorry but I do not agree with that. I don't agree why?
+
+240
+00:31:05,910 --> 00:31:13,560
+Because I have checked out, I have certain people who had the machine 
+
+241
+00:31:13,660 --> 00:31:19,300
+and tried to persuade me this is perfect. I said, I don't believe it. 
+
+242
+00:31:20,910 --> 00:31:25,630
+This person called me to take his case and he was quite seriously sick, 
+
+243
+00:31:25,730 --> 00:31:33,630
+so I took his case and I said, OK now prepare the remedy with your machine 
+
+244
+00:31:33,730 --> 00:31:46,640
+and take it and we will see after a week or 10 days we will see what happened. He says ahh...
+
+245
+00:31:46,740 --> 00:31:52,380
+I said, no if you believe it and you tried for 3/4 of an hour to persuade me 
+
+246
+00:31:52,480 --> 00:31:56,890
+that this is a good machine, you better try it on yourself. 
+
+247
+00:31:56,990 --> 00:32:03,510
+I'll tell you the remedy, you prepare it, you take it and see what happens.
+
+248
+00:32:07,760 --> 00:32:17,480
+You will do it this way and he had to do it and he came after a week, I'm the same.
+
+249
+00:32:17,580 --> 00:32:23,070
+Well you are the same but we still have to wait another week to be sure.
+
+250
+00:32:26,330 --> 00:32:34,230
+I said, you are a scientist, he was a physist and you want to know if it works, 
+
+251
+00:32:34,330 --> 00:32:39,410
+you have  been trying to persuade me that there are magnetic fields and blah, blah and all this.
+
+252
+00:32:39,510 --> 00:32:45,730
+Now you better test it on yourself and I made him suffer, of course.
+
+253
+00:32:50,510 --> 00:32:53,980
+And there were other experiments which I did. 
+
+254
+00:32:54,080 --> 00:33:04,600
+If somebody claims that this it, I said OK, it is honest that we do a real test. 
+
+255
+00:33:04,680 --> 00:33:10,300
+If you believe in your machine, we'll make a real test and I'll tell you what kind of test
+
+256
+00:33:10,400 --> 00:33:16,490
+and if you pass the test, I'll be the first one to say yes the machine is good.
+
+257
+00:33:17,730 --> 00:33:27,380
+The pendulum.... but you are moving your hand. 
+
+258
+00:33:27,480 --> 00:33:32,570
+No, no I'm not moving my hand it's moving by itself. 
+
+259
+00:33:35,310 --> 00:33:38,880
+You see now it's moving the other direction.
+
+260
+00:33:38,980 --> 00:33:46,300
+Somebody else comes in the seminar, he had an antenna from his car.
+
+261
+00:33:46,400 --> 00:33:53,550
+So with his antenna, he would search the remedy and he would go to the people and say,
+
+262
+00:33:53,650 --> 00:33:56,300
+George said this remedy, it's wrong. 
+
+263
+00:33:56,400 --> 00:34:02,630
+My antenna says this remedy and people come and say, what is this?
+
+264
+00:34:02,730 --> 00:34:11,460
+I said, come here find your remedy. What is the remedy? Veratrum.
+
+265
+00:34:11,560 --> 00:34:15,710
+He goes to another one, what remedy he told you? Veratrum.
+
+266
+00:34:15,810 --> 00:34:20,300
+He goes to a child, I have given a child Pulsatilla, he says Veratrum.
+
+267
+00:34:22,350 --> 00:34:29,740
+I had to call him, I said come, can you do it for me so I can see how you do it?
+
+268
+00:34:29,840 --> 00:34:38,050
+He went through the antenna, he checked all the meridians with the antenna 
+
+269
+00:34:38,150 --> 00:34:42,890
+and then he goes over the thing, he says Veratrum.
+
+270
+00:34:48,650 --> 00:34:57,880
+The man went into an asylum eventually but it was very interesting.
+
+271
+00:34:57,980 --> 00:35:06,130
+Either he, himself had taken Veratrum or he needed Veratrum himself 
+
+272
+00:35:06,230 --> 00:35:13,310
+and he would give everybody Veratrum and everybody would say, he is totally crazy.
+
+273
+00:35:13,410 --> 00:35:22,920
+Then I found out that really he went into a clinic, into mental clinic.
+
+274
+00:35:26,660 --> 00:35:28,700
+This is antenna Homeopathy.
+
+275
+00:35:34,450 --> 00:35:38,350
+-It is speculation.
+-It was speculation yes. Why? 
+
+276
+00:35:38,450 --> 00:35:44,650
+I might pick one remedy, give it to you and sometimes it may still work 
+
+277
+00:35:44,750 --> 00:35:51,830
+but is this a science, what is this? I don't know what it is?
+
+278
+00:35:52,580 --> 00:35:56,840
+And that's why Homeopathy has such a bad name. 
+
+279
+00:35:58,080 --> 00:36:07,310
+I had a case with this pendulum where it had been to a medical student in South Africa 
+
+280
+00:36:07,410 --> 00:36:18,810
+at least 25-30 remedies over a period of years every day 50M, CM potencies, 
+
+281
+00:36:18,910 --> 00:36:25,810
+every day for 3 months and again another remedy for 2 months and another remedy 
+
+282
+00:36:25,910 --> 00:36:30,910
+for 1 month...with this pendulum. 
+
+283
+00:36:31,410 --> 00:36:35,820
+When he came to me there was such confusion in his case, 
+
+284
+00:36:35,920 --> 00:36:41,810
+it was impossible to find anything; I said, I can't help you, I can't see any remedy. 
+
+285
+00:36:41,910 --> 00:36:48,090
+You have symptoms from all the remedies. The boy committed suicide. 
+
+286
+00:36:49,830 --> 00:36:58,330
+He couldn't live because I heard after a year or two that he committed suicide.
+
+287
+00:37:02,280 --> 00:37:13,580
+These are real energies that we can not play with these energies.
+
+288
+00:37:14,080 --> 00:37:17,830
+You have a powerful tool that can heal. 
+
+289
+00:37:19,580 --> 00:37:27,980
+We usually say it is harmless and there is no problem and you can take it, 
+
+290
+00:37:28,080 --> 00:37:34,040
+yes but you better handle it very, very carefully with great fear.
+

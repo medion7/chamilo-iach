@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL743a356897c232a7a4ede1d426d610ba</ID>
+  <patient>
+    <case_date>2014-09-17 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Δ.Σ.</patient_initials>
+    <age>43</age>
+    <circumstances>Ανύπαντρη, ιδιωτική υπάλληλος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πονοκέφαλοι σχεδόν καθημερινά που την αναγκάζουν να διακόψει την εργασία της, </origin>
+        <causative_factors>Η ασθενής εντοπίζει χρονικά την έναρξη των πονοκεφάλων κατόπιν "ερωτικής απογοήτευσης" πριν απο 4 μήνες.</causative_factors>
+        <modalities>Χειρότερα με το έντονο φως (κλείνει τις κουρτίνες του γραφείου της). Καλύτερα σε σκοτεινό δωμάτιο, χωρίς κανένα θόρυβο με κλειστά τα μάτια.</modalities>
+        <occurrence_time>Ο πονοκέφαλος εμφανίζεται συνήθως πρωινές ώρες κατά τη διάρκεια της εργασίας της (γύρω στις 11-12).</occurrence_time>
+        <body_side>Δεν εντοπίζει συγκεκριμένο σημείο της κεφαλαλγίας.</body_side>
+        <appearence_frequency>Σχεδόν καθημερινά.</appearence_frequency>
+        <pain_desc>Οξύς πόνος, "σαν να την χτυπάνε με ένα σφυρί¨. Πρέπει να λάβει οπωσδήποτε παυσίπονο (συνήθως διπλό) για να είναι λειτουργική.</pain_desc>
+        <complaint_ext>Δακρύρροια κατα τη διάρκεια του πονοκεφάλου.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Παυσίπονη αγωγή για πονοκεφάλους (voltaren, ponstan, brufen).</conv_med_presc>
+        <lab_tests>
+          <desc>Η ασθενής προσέρχεται για πονοκεφάλους που την ταλαιπωρούν καθημερινά.&#13;
+Αδρή νευρολογική εξέταση: κ.φ., Αρτηριακή πίεση: 120/75, σφύξεις: 65'&#13;
+Προσκομίζει πρόσφατη γενική αίματος και βιοχημικό/ορμονολογικό έλεγχο: κ.φ.&#13;
+Έγινε σύσταση για MRI εγκεφάλου η οποία δεν ανέδειξε κάποιο πρόβλημα.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Η ασθενής έχει εμβολιαστεί σύμφωνα με το πρόγραμμα εμβολιασμού της χώρας μας στην παιδική της ηλικία. Ως ενήλικη δεν έχει λάβει περαιτέρω εμβολιασμούς.</therapies_vaccination>
+          <traumas>Ο χωρισμός της πριν από 4 μήνες είναι το επίκεντρο της συζήτησής μας. Γενικά είναι ευχαριστημένη με την καριέρα της και την κοινωνική της ζωή. Την απασχολεί πολύ η προσωπική της ζωή.</traumas>
+          <infections>Δεν αναφέρει.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Υιοθετημένη (δεν γνωρίζει τους φυσικούς της γονείς).</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεστή ιδιοσυγκρασία, δεν της αρέσει καθόλου το καλοκαίρι και ο ήλιος.</reactions>
+        <sleeping_habits>Δεν αναφέρει ιδιαίτερες συνήθειες ύπνου. Δεν θυμάται τα όνειρά της.</sleeping_habits>
+        <food_modalities>Μεγάλη απέχθεια στο λίπος (3). Επιθυμία για ζυμαρικά (3), αλάτι (3), παστά ψάρια (2).</food_modalities>
+        <menstruation>Έμμηνος ρύση: χωρίς διαταραχές.</menstruation>
+      </physical>
+      <mental_emotional>Αυτοαποκαλείται τελειομανής. Στη διάρκεια της συζήτησής μας ξεσπάει σε λυγμούς αναφερόμενη στον πρόσφατο χωρισμό της. Το ξέσπασμά της την αποδιοργανώνει και ζητάει πολλαπλές φορές "συγνώμη", δείχνει να αισθάνεται εκτεθειμένη. "Σιχαίνομαι να με λυπούνται" λέει επανειλημμένως. Έχει φίλους ωστόσο "κανέναν δεν εμπιστεύεται".</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δεν λαμβάνει φαρμακευτική αγωγή για κάποιο άλλο πρόβλημα υγείας. Το χειμώνα είναι συνεχώς συναχωμένη χωρίς υψηλό πυρετό (μόνο με δεκατική πυρετική κίνηση όταν κρυολογεί). Χαμηλή ενεργητικότητα.</personal_medical_history>
+        <family_medical_history>Η ασθενής είναι υιοθετημένη (δεν γνωρίζει τους φυσικούς της γονείς).</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Θα προσπαθήσω να βελτιώσω το επίπεδο υγείας της ασθενούς με το σωστό φάρμακο. Δεν θα δώσω πολύ υψηλη δυναμοποίηση</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>HEAD PAIN (headache) hammering (3)&#13;
+MIND CONSOLATION agg. (3)&#13;
+GENERALITIES FOOD and DRINKS fat aversion (3)&#13;
+GENERALITIES FOOD and DRINKS salt desire (3)</peculiar>
+        <intense>MIND LOVE ailments from disappointed (4)&#13;
+MIND CONSOLATION agg. (3)&#13;
+MIND GRIEF silent (3)&#13;
+HEAD PAIN (headache) hammering (3)&#13;
+GENERALITIES FOOD and DRINKS salt desire (3)&#13;
+GENERALITIES FOOD and DRINKS fat aversion (3)&#13;
+GENERALITIES FOOD and DRINKS farinaceous food desire (3)&#13;
+&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND LOVE ailments from disappointed (4)&#13;
+MIND GRIEF silent (3)&#13;
+HEAD PAIN (headache) hammering (3)&#13;
+MIND CONSOLATION agg. (3)&#13;
+GENERALITIES FOOD and DRINKS salt desire (3)&#13;
+GENERALITIES FOOD and DRINKS fish desire salty fish (2)&#13;
+GENERALITIES FOOD and DRINKS fat aversion (3)&#13;
+GENERALITIES FOOD and DRINKS farinaceous food desire (3)&#13;
+GENERALITIES SUN from exposure to agg. (2)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Δ.δ.Ignatia, Ph-ac</remedies_differentiation>
+      <prescription>
+        <remedy>Natrum muriaticum</remedy>
+        <potency>30CH - 200CH</potency>
+        <regimen>1 χαπάκι 30CH και την επόμενη μέρα 1 χαπάκι 200CH.</regimen>
+        <other_notes>Θα προτιμήσω να δώσω ως πρώτο φάρμακο το Natr.-mur. </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-10-14 20:00:00</followup_date>
+      <conv_med_presc>Followup #1 14/10/2014&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής αναφέρει ότι την πρώτη εβδομάδα ξεσπούσε σε κλάματα καθημερινά, αισθανόταν υπνηλία και κόπωση. ΟΙ πονοκέφαλοι έγιναν αφόρητοι. Επικοινωνήσαμε τηλεφωνικά (η ασθενής ήθελε να με ενημερώσει, όπως είχαμε συζητήσει στην πρώτη επίσκεψη, για πιθανές αντιδράσεις στο φάρμακο).&#13;
+Προς το τέλος της τρίτης εβδομάδας μου τηλεφώνησε και μου είπε χαρακτηριστικά "Δεν θυμαμαι την τελευταία φορά που είχα τόσο καθαρό μυαλό". Καλύτερη ενεργητικότητα. Καλύτερος ύπνος. Πονοκέφαλοι καλύτερα κατά 50-60%.</reaction>
+      <analysis>Το φάρμακο φαίνεται να είναι το σωστό και να βοηθάει την ασθενή. Καλή ανταπόκριση.</analysis>
+      <conclusion>Περιμένω ακόμα 1 μήνα για επαναξιολόγηση.&#13;
+Followup #2: 10/11/2014 γίνεται νέα συνταγογράφηση διότι στο διάστημα αυτού του μήνα &#13;
+δεν επήλθε περαιτέρω βελτίωση των πονοκεφάλων.</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum Muriaticum</remedy>
+        <potency>30CH</potency>
+        <regimen>1 χαπάκι εβδομαδιαίως για 4 εβδομάδες.</regimen>
+        <other_notes>Followup #3: 10/12/2014 Οι πονοκέφαλοι είναι καλύτερα κατα 80%. Η ασθενής είναι καλύτερα σε όλα τα επίπεδα, δείχνει πιο "λαμπερή" και βλέπει τη ζωή της "πιο αισιόδοξα".</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

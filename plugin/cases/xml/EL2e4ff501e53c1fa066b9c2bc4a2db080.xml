@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2e4ff501e53c1fa066b9c2bc4a2db080</ID>
+  <patient>
+    <case_date>2015-09-10 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Θ.Χ.</patient_initials>
+    <age>26</age>
+    <circumstances>ελεύθερη, άνεργη, φοιτήτρια καλών τεχνών.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Κατάθλιψη και αϋπνία-άσχημος ύπνος από 5μήνου.</origin>
+        <causative_factors>Μεγάλη απογοήτευση γιατί δεν την πήραν στο erasmus. Δυσκολεύεται στο σπίτι γιατί μένει με τη ματέρα της. Δεν τελειώνει τη σχολή της και αγχώνεται. Οικονομική ανασφάλεια. Η κατάσταση στην ελλάδα την επηρεάζει πολύ.</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>Καθημερινά-μόνιμα.</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Τρίζει τα δόντια 2. Δυσκοιλιότητα 2. Νιώθει κόμπο στο λαιμό 3. Κάποιες φορές την πιάνει φαγούρα στο κεφάλι και το ξύνει μέχρι να ματώσει. Κοκκινίζει κάποιες φορές το αρ μάτι χωρίς φαγούρα. Νιώθει πολύ μεγάλη εξάντληση 3.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα παιδικά εμβόλια που προβλέπονται από το ΕΣΥ. Αντιβιώσεις. Κορτιζόνη (έρπης ζωστήρας). Αντισυλληπτικά. </therapies_vaccination>
+          <traumas>Κατάθλιψη στα 13-14 γιατί έφυγαν οι αδερφές της από το σπίτι για σπουδές.</traumas>
+          <infections>-</infections>
+          <other>Έρπης ζωστήρας στα 14. Κατάθλιψη στα 13-14 γιατί έφυγαν οι αδερφές της από το σπίτι για σπουδές. Νεύρωση στομάχου στομαχου στο γυμνάσιο. Τάση για ηγμορίτιδα. Πολυκυστικές ωοθήκες από 5ετίας. Υψηλό πυρετό έχει να κάνει 5-6 χρόνια. Σπάνια κάνει πυρετό-3 φορές στη ζωή της θυμάται υψηλό πυρετό. Πέρισυ δεν είχε ούτε συνάχι. </other>
+        </personal>
+        <family>
+          <diseases>Μητέρα = Α.Υ., κατάθλιψη. Πατέρας = Α.Υ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Παλιά ζεσταινόταν, τώρα έχει γίνει πιο κρυουλιάρα. Της αρέσει μια μέση θερμοκρασία.</reactions>
+        <sleeping_habits>Ξεκινά να κοιμάται στο αρ πλάϊ, μετά γυρνά μπρούμητα και μετά ανάσκελα. Ξεσκεπάζει τα πόδια 2. Δεν την ξεκουράζει ο ύπνος 3. Αργεί να κοιμηθεί 2. Ξυπνά πολλές φορές κατά τη διάρκεια του ύπνου 3.</sleeping_habits>
+        <food_modalities>απέχθειες = κοτόπουλο 3, λίπος 3. &lt; απο το σκόρδο 2 και από τα γλυκά 2.</food_modalities>
+        <menstruation>Ασταθής έμμηνος ρύση 2. Έχει ροή κυρίως κατά τη διάρκεια της ημέρας. Έχει σεξουαλική διάθεση.</menstruation>
+      </physical>
+      <mental_emotional>Κατάθλιψη 3. Κλέινεται στον εαυτό της 3-είναι αντικοινωνική(ενώ πριν ήταν κοινωνική) 3-προτιμά να είναι μόνη της 3. Νιώθει αγοραφοβική 2. Εκνευριστικά ευαίσθητη 3 . Συναισθηματική 2. Επηρεάζεται απο τις καταστάσεις 3. Έχει πολλές ψυχολογικές μεταπτώσεις 3. Έχει άγχος 2. Είναι νευρική 2. Δε θέλει καθόλου την παρηγοριά-είναι ενάντια σε αυτό 3. Δεν κλαίει όσο θέλει. Έχει πολύ άγχος 2 και στενοχώρια 3. Φοβίες = μη μείνει μόνη της 2, τις βελόνες 3, κλειστοφοβία 2, τα έντομα.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Αρκετά επιβαρυμένο ιστορικό γιατί δεν έχει την ικανότητα να κάνει πυρετό και έχει κάνει λίγες φορές στη ζωή της. Επίσης έχει πολλά ψυχοδιανοητικά συμπτώματα και έχει πάθει κατάθλιψη σε πολλή μικρή ηλικία. Ακόμη έχει υποστεί κατασταλτικές αγωγές.</personal_medical_history>
+        <family_medical_history>Επιβαρυμένο από τη μητέρα λόγω της καταθλιψης.</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>Θα χρειαστεί σειρά φαρμάκων για να βελτιωθεί και είναι μια αρκετά δύσκολη περίπτωση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Δε θέλει καθόλου παρηγοριά 3. Φοβάται τις βελόνες 3. Κλειστοφοβία 2. Τρίζει τα δόντια 2. &lt; από τα γλυκά 2. &lt; από το σκόρδο 2. Ευαίσθητη στους εξωτερικούς παράγοντες 3. Ξεσκεπάζει τα πόδια 2. απέχθεια στο κατόπουλο 3 και στο λίπος 3. Συναισθηματική 2.</peculiar>
+        <intense>Προτιμά να είναι μόνη της 3. Πολλές ψυχολογικές μεταπτώσεις 3. Αδυναμία 3. Ο ύπνος δεν ξεκουράζει 3. Ξυπνά συχνά στον ύπνο 3. Ασταθής έμμηνος ρύση 2. Δυσκοιλιότητα 2. Υπερευαίσθητη 3. Φοβάται μη μείνει μόνη της 2. Άγχος 2. Νευρική 2. Αίσθημα κόμπου στο λαιμό 3.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Θ.Χ.(1).pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Στη δ.δ. Ign, Nat-m, Phos, Puls, Sil, Sep. Δυσκολεύτηκα να επιλέξω μεταξύ Ign και Nat-m. Τελικά επέλεξα την Ign, γιατί έχει νεύρα, είναι κυκλοθυμική, κλείνεται στον εαυτό της και είναι πολύ συναισθηματική. </remedies_differentiation>
+      <prescription>
+        <remedy>Ignatia amara</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-15 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μία εβδομάδα μετά το φάρμακο έσφιγγε περισσότερο το στόμα και την πονούσαν τα δόντια, είχε πονοκέφαλο, δεν κοιμόταν καθόλου καλά και είχε πάρα πολλές ψυχολογικές μεταπτώσεις. Αυτό κράτησε 7-10 μέρες. Μετά ο ύπνος της ήταν καλύτερος, της πέρασαν οι πονοκέφαλοι, σταμάτησε να σφίγγει το στόμα και ένιωθε γενικά καλύτερα. Έκανε ένα ήπιο οξύ με συνάχι. Αλλά 10 μέρες πριν τη συνεδρία υποτροπίασε πάλι. Τώρα νιώθει λιγότερο αντικοινωνική. Το σφίξιμο στα δόντια δεν είναι τόσο έντονο. Δεν επηρεάζεται τόσο από τα κοινωνικά θέματα/περιβάλλον, γιατί την έχουν ρουφήξει τα δικά της πράγματα. Ο φόβος μη μείνει μόνη της αυξήθηκε λίγο. Επισης επιθυμεί τα γλυκά 2 και χειροτερεύει όταν σκέφτεται τα προβλήματά της 1.</reaction>
+      <analysis>Καλή αντίδραση, είχε αρχική επιδείνωση και ακολούθησε βελτίωση, όμως μετά υποτροπίασε με την ίδια εικόνα.</analysis>
+      <conclusion>Θα δώσω το ίδιο φάρμακο σε μεγαλύτερη δυναμοποίηση.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Θ.Χ.(2).pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ignatia amara</remedy>
+        <potency>1M</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-23 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Είχε πονοκεφάλους την πρώτη εβδομάδα που πήρε το φάρμακο. Δε νιώθει καθόλου εξάντληση. Δεν νιώθει αγοραφοβική, ανοίχτηκε και είναι πιο κοινωνική. Μειώθηκαν αρκετά οι ψυχολογικές μεταπτώσεις. Μειώθηκε λίγο το αίσθημα κόμπου στο λαιμό και ο ύπνος της είναι λίγο καλύτερος.</reaction>
+      <analysis>Αρκετά καλή αντίδραση. Έκανε αρχική επιδείνωση και μετά μεγάλη βελτίωση αναλογικά με το χαμηλό επίπεδο υγείας της.</analysis>
+      <conclusion>Θα δώσω placebo.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Θ.Χ.(3).pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3b653d7949ebae48e3a414ebfa90a6e4</ID>
+  <patient>
+    <case_date>2015-08-04 04:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΣΚ</patient_initials>
+    <age>80</age>
+    <circumstances>ΓΥΝΑΙΚΑ 80 ΕΤΩΝ ΧΗΡΑ ΜΕ ΕΝΑ ΠΑΙΔΙ 48 ΕΤΩΝ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΠΡΟ 5ΕΤΙΑΣ ΜΕΤΑ ΤΟΝ ΘΑΝΑΤΟ ΤΟΥ ΣΥΖΥΓΟΥ ΕΜΦΑΝΙΣΕ ΑΥΠΝΙΑ ΚΑΙ ΠΟΝΟΚΕΦΑΛΟΥΣ ΚΥΡΙΩΣ ΤΟ ΠΡΩΙ.</origin>
+        <causative_factors>ΣΤΕΝΑΧΩΡΙΑ ΜΕΤΑ ΤΟΝ ΘΑΝΑΤΟ ΤΟΥ ΣΥΖΥΓΟΥ ΤΗΣ</causative_factors>
+        <modalities>ΕΠΙΔΕΙΝΩΣΗ ΜΕ ΤΗΝ ΖΕΣΤΗ ΤΟ STRESS ΤΗΝ ΚΟΥΡΑΣΗ ΤΟΝ ΗΛΙΟ</modalities>
+        <occurrence_time>ΠΟΝΟΚΕΦΑΛΟΙ ΚΥΡΙΩΣ ΤΟ ΠΡΩΙ ΑΥΠΝΙΑ ΤΗΝ ΝΥΧΤΑ ΚΑΙ ΤΙΣ ΠΡΩΤΕΣ ΠΡΩΙΝΕΣ ΩΡΕΣ.ΒΕΛΤΙΩΣΗ ΟΤΑΝ ΕΙΝΑΙ ΑΠΑΣΧΟΛΗΜΕΝΗ.</occurrence_time>
+        <body_side>ΚΥΡΙΩΣ ΣΤΟ ΔΕΞΙ ΗΜΙΜΟΡΙΟ ΤΟΥ ΚΕΦΑΛΙΟΥ ΚΑΙ ΣΤΟΝ ΑΥΧΕΝΑ</body_side>
+        <appearence_frequency>ΣΧΕΔΟΝ ΚΑΘΗΜΕΡΙΝΑ</appearence_frequency>
+        <pain_desc>ΣΑΝ ΜΙΚΡΑ ΣΦΥΡΑΚΙΑ ΚΑΙ  ΒΕΛΟΝΕΣ ΣΤΟΥΣ ΚΡΟΤΑΦΟΥΣ ΚΑΙ ΣΤΟ ΜΕΤΩΠΟ</pain_desc>
+        <complaint_ext>Ο ΠΟΝΟΣ ΕΠΕΚΤΕΙΝΕΤΑΙ ΣΤΟΝ ΑΥΧΕΝΑ ΚΑΙ ΤΑ ΜΑΤΙΑ</complaint_ext>
+        <other_complaints>ΗΠΙΑ ΥΠΕΡΤΑΣΗ ΡΥΘΜΙΖΟΜΕΝΗ  ΜΕ ΔΙΟΥΡΗΤΙΚΟ ΗΠΙΑ ΥΠΕΡΛΙΠΙΔΑΙΜΙΑ ΠΟΥ ΑΝΤΙΜΕΤΩΠΙΖΕΤΑΙ ΜΕ ΔΙΑΙΤΑ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΠΑΥΣΙΠΟΝΑ ΑΝΤΙΦΛΕΓΜΟΝΩΔΗ ΑΝΤΙΥΠΕΡΤΑΣΙΚΟ(ΔΙΟΥΡΗΤΙΚΟ)</conv_med_presc>
+        <lab_tests>
+          <desc>ΕΡΑΣΤΗΡΙΑΚΟΣ ΕΛΕΓΧΟΣ ΚΦ ΠΛΗΝ ΗΠΙΑΣ ΥΠΕΡΛΙΠΙΔΑΙΜΙΑΣ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>IGNATIA ΠΡΟ 5ΕΤΙΑΣ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΟΤΙ ΠΡΟΒΛΕΠΟΤΑΝ ΣΤΟ ΠΑΛΙΟ ΠΡΟΓΡΑΜΜΑ ΕΜΒΟΛΙΑΣΜΩΝ</therapies_vaccination>
+          <traumas>ΟΙΚΟΝΟΜΙΚΗ ΚΑΤΑΣΤΡΟΦΗ ΤΗΣ ΠΑΤΡΙΚΗΣ ΟΙΚΟΓΕΝΕΙΑΣ ΣΕ ΗΛΙΚΙΑ16 ΕΤΩΝ ΨΥΧΟΛΟΓΙΚΑ ΠΡΟΒΛΗΜΑΤΑ ΤΟΥ ΜΙΚΡΟΥ ΤΗΣ ΑΔΕΛΦΟΥ ΣΕ ΗΛΙΚΙΑ 25 ΕΤΩΝ ΘΑΝΑΤΟΣ ΜΙΑΣ ΑΝΙΨΙΑΣ ΣΕ ΗΛΙΚΙΑ 35 ΕΤΩΝ ΘΑΝΑΤΟΣ ΤΟΥ ΣΥΖΥΓΟΥ ΣΕ ΗΛΙΚΙΑ 75 ΕΤΩΝ</traumas>
+          <infections>ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΕΛΕΥΘΕΡΟ ΟΙΚΟΓΕΝΕΙΑΚΟ ΙΣΤΟΡΙΚΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΑΙΝΕΤΑΙ ΑΠΟΦΕΥΓΕΙ ΤΟΝ ΗΛΙΟ</reactions>
+        <sleeping_habits>ΑΝΑΣΚΕΛΑ Η ΠΛΑΙ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΑΛΜΥΡΑ ΑΛΛΑ ΤΑ ΑΠΟΦΕΥΓΕΙ ΛΟΓΩ ΥΠΕΡΤΑΣΗΣ ΚΟΤΟΠΟΥΛΟ ΓΑΛΑ ΓΙΑΟΥΡΤΙ ΣΟΥΠΕΣ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΚΛΕΙΣΤΟΣ ΧΑΡΑΚΤΗΡΑΣ ΣΤΕΝΑΧΩΡΗ ΔΕΝ ΤΗΣ ΑΡΕΣΕΙ Η ΠΑΡΗΓΟΡΙΑ ΤΟ ΚΟΥΤΣΟΜΠΟΛΙΟ ΣΤΕΝΑΧΩΡΙΕΤΑΙ ΜΕ ΤΙΣ ΚΑΚΕΣ ΕΙΔΗΣΕΙΣ ΧΕΙΡΟΤΕΡΕΥΕΙ Ο ΠΟΝΟΚΕΦΑΛΟΣ.ΠΡΟΤΙΜΑ ΤΗΝ ΕΝΑΣΧΟΛΗΣΗ ΜΕ ΔΟΥΛΕΙΕΣ ΤΟΥ ΣΠΙΤΙΟΥ ΚΑΙ ΤΗΝ ΦΡΟΝΤΙΔΑ ΤΟΥ ΓΙΟΥ ΤΗΣ.ΣΠΑΝΙΑ ΑΝΑΣΤΕΝΑΖΕΙ ΔΕΝ ΚΛΑΙΕΙ ΕΥΚΟΛΑ.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΑΤΟΜΟ ΜΕ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ  ΠΟΥ ΕΠΗΡΕΑΖΕΤΑΙ ΣΥΝΑΙΣΘΗΜΑΤΙΚΑ ΑΠΟ ΘΛΙΒΕΡΑ ΓΕΓΟΝΟΤΑ ΚΑΙ ΔΕΝ ΕΞΩΤΕΡΙΚΕΥΕΙ ΣΥΝΑΙΣΘΗΜΑΤΑ ΟΠΟΤΕ ΣΩΜΑΤΟΠΟΙΕΙ ΤΗΝ ΘΛΙΨΗ ΚΑΙ ΕΚΔΗΛΩΝΕΙ ΠΟΝΟΚΕΦΑΛΟΥΣ ΚΑΙ ΑΥΠΝΙΕΣ</personal_medical_history>
+        <family_medical_history>ΕΛΕΥΘΕΡΟ</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>ΣΧΕΤΙΚΑ ΚΑΛΗ ΠΡΟΓΝΩΣΗ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΠΟΝΟΚΕΦΑΛΟΣ ΣΤΟ ΑΚΟΥΣΜΑ ΑΣΧΗΜΩΝ ΕΙΔΗΣΕΩΝ4</peculiar>
+        <intense>ΠΟΝΟΚΕΦΑΛΟΙ4 ΑΥΠΝΙΑ3 ΑΝΟΡΕΞΙΑ2 ΔΥΣΠΕΨΙΑ2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>NATRIUM MURIATICUM IGNATIA NATRIUM CARBONICUM</remedies_differentiation>
+      <prescription>
+        <remedy>NATRIUM MURIATICUM</remedy>
+        <potency>200ch</potency>
+        <regimen>1CAPS200CH ΚΑΙ ΣΤΗΝ ΣΥΝΕΧΕΙΑ 12CH ΓΙΑ 20 ΗΜΕΡΕΣ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-18 03:00:00</followup_date>
+      <conv_med_presc>ΔΙΟΥΡΗΤΙΚΟ  ΠΑΥΣΙΠΟΝΟ ΜΙΑ ΦΟΡΑ ΣΤΟ ΔΕΚΑΗΜΕΡΟ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΥΠΗΡΞΕ ΜΙΚΡΗ ΕΠΙΔΕΙΝΩΣΗ ΤΩΝ ΠΟΝΟΚΕΦΑΛΩΝ ΓΙΑ 3ΗΜΕΡΕΣ ΜΕΤΑ ΤΗΝ ΕΝΑΡΞΗ ΤΗΣ ΑΓΩΓΗΣ ΚΑΙ ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΣΑΦΗΣ ΒΕΛΤΙΩΣΗ ΣΤΗΝ ΣΥΧΝΟΤΗΤΑ ΚΑΙ ΤΗΝ ΕΝΤΑΣΗ ΤΟΥΣ ΟΠΩΣ ΚΑΙ ΣΤΗΝ ΑΥΠΝΙΑ.ΜΕΤΑ ΑΠΟ 1ΜΗΝΑ ΕΜΦΑΝΙΣΕ ΜΙΑ ΔΕΡΜΑΤΙΤΙΔΑ ΣΤΑ ΑΚΡΑ ΧΕΡΙΑ ΠΟΥ ΕΙΧΕ ΠΑΡΟΥΣΙΑΣΕΙ ΠΡΟ15 ΕΤΙΑΣ</reaction>
+      <analysis>ΠΟΛΥ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ΜΕ ΑΡΙΚΗ ΘΕΡΑΠΕΥΤΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΚΑΙ ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΒΕΛΤΙΩΣΗ ΤΗΣ ΕΙΚΟΝΑΣ ΚΑΙ ΕΠΑΝΕΜΦΑΝΙΣΗ ΠΑΛΙΟΥ ΣΥΜΠΤΩΜΑΤΟΣ ΠΟΥ ΑΦΟΡΑ ΣΕ ΠΕΡΙΦΕΡΕΙΑΚΟ ΟΡΓΑΝΟ ΠΟΥ ΑΠΟΤΕΛΕΙ ΚΑΛΟ ΠΡΟΓΝΩΣΤΙΚΟ ΔΕΙΚΤΗ.</analysis>
+      <conclusion>ΠΟΛΥ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

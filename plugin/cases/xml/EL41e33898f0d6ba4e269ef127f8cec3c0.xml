@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL41e33898f0d6ba4e269ef127f8cec3c0</ID>
+  <patient>
+    <case_date>2016-02-29 22:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Σ.</patient_initials>
+    <age>52</age>
+    <circumstances>Χωρίς παιδιά, άγαμη, εκπαιδευτικός, περιστασιακά κάπνισμα,εμμηνόπαυση προ 3ετίας</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από διμήνου περίπου νιώθει πολύ κουρασμένη,έχει πολλά νεύρα, προσπαθεί να συγκρατηθεί,δεν έχει υπομονή με τους ανθρώπους.Επίσης αναφέρει πόνους κάθε φορά σε διαφορετικό σημείο: κνήμες,σφυρά,κεφάλι-ινίο-κρόταφοι,αυχένα και εξάνθημα- έκζεμα  στη βάση του δεξιού αντίχειρα.</origin>
+        <causative_factors>Επικείμενη αλλαγή εργασιακού περιβάλλοντος και τόπου κατοικίας</causative_factors>
+        <modalities>Βελτίωση στη θάλασσα(3)</modalities>
+        <occurrence_time>Το πρωί που ξυπνά χειρότερα</occurrence_time>
+        <body_side>οχι</body_side>
+        <appearence_frequency>Κουρασμένη σχεδόν καθημερινά</appearence_frequency>
+        <pain_desc>οχι</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints>οχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>gaviscon περιστασιακά για δυσπεπτικά ενοχλήματα, Τ4 125 για υποθυρεοειδισμό</conv_med_presc>
+        <lab_tests>
+          <desc>καλά ρυθμιζόμενη θυρεοειδική λειτουργία και λοιπές εξετάσεις</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>όλοι οι υποχρεωτικοί εμβολιασμοί,gaviscon, αφαίρεση ινομυώματος μήτρας 2008 και χειρουργική αφαίρεση πυώδους συλλογής τραχήλου 1998( επινέμηση οδοντικής βλάβης)</therapies_vaccination>
+          <traumas>Oxι</traumas>
+          <infections>Oxι</infections>
+          <other>Oxι</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας με αρτηριακή υπέρταση,καλοήθη υπρεπλασία προστάτη,κήλη&#13;
+Μητέρα με αρτηριακή υπέρταση,θυρεοειδοπάθεια υπερλιπιδαιμία</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Δυσανεξία στη ζέστη(3) δεν την ενοχλεί η υγρασία</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα(3), κοιμάται αργά,λειτουργεί καλύτερα το βραδυ, δεν θυμάται τα όνειρα</sleeping_habits>
+        <food_modalities>Επιθυμεί τα αλμυρά(3) τα ξινά( 3),παγωτό(2) σοκολάτα(2) ,ψωμί(3),κρέας(3),ψάρι(3),γάλα-την ηρεμεί&#13;
+(2).κρεμμύδια(3),λικέρ(2),κρασί(2)&#13;
+Απεχθάνεται το λίπος(3) αυγά(2)</food_modalities>
+        <menstruation>Εμμηνόπαυση από 3ετίας</menstruation>
+      </physical>
+      <mental_emotional>Φόβοι: ύψος (2),πνεύματα(2),σεισμούς(2),φίδια(3). &#13;
+Τελευταία αισθάνεται κι άλλη παρουσία πίσω της(2)&#13;
+Τελευταία ξεχνά λέξεις(2)&#13;
+Κάποιες φορές νιώθει σκληρότητα απέναντι στα ζώα , ενώ κατα βάση τα αγαπάει(2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>39.5 πυρετός το 2009</personal_medical_history>
+        <family_medical_history>Προδιάθεση για αρτηριακή υπέρταση και θυρεοειδοπάθεια</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Το γεγονός ότι εμφάνισε το τελευταίο οξύ προ 6ετίας δείχνει οτι δεν ανήκει σε υψηλό επίπεδο υγείας..Μάλλον ανήκει στο group B ή ίσως L7</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Αίσθηση ότι κάποιος είναι δίπλα της(2),βελτίωση στη θάλασσα(3), επιθυμία: για ξινά(3),λικέρ(2), ξεχνά λέξεις(2)&#13;
+σκληρότητα στα ζώα(2) ενώ τα αγαπά,φόβος πνευμάτων(2)</peculiar>
+        <intense>Ζεσταίνεται(3),βελτίωση στη θάλασσα(3), επιθυμία για ξινά(3),ψωμί(3)), αλάτι(3),κρέας(3),ψάρι(3) κρεμμύδια (3),φόβος φιδιών(3) ,απέχθεια λίπους(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>warm aggr(3),amel.at sea(3) &#13;
+,des.:salt(3),sour(3),ice cream(2),chocolate(2),meat(3),fish(3),liquor(2).onions(3),wine(2),bread(3),milk(2), aversion: egg(2),fat(3) fears: ghosts(2),high places(2)snakes(3),earthquakes(2),someone is behind her(2), forgets words(2).sometimes cruelty to animals(2)-she used to have animals at home,</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>οχι</remedies_differentiation>
+      <prescription>
+        <remedy>medorrhinum</remedy>
+        <potency>1M</potency>
+        <regimen>1x1</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-29 21:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc>οχι</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις 2 πρώτες μέρες είχε έντονη υπνηλία και έντονη κούραση .&#13;
+Στην πρώτη εβδομάδα πόνο στις πατούσες κατά το βάδισμα διήρκεσε περίπου μια εβδομάδα&#13;
+Προς το τέλος του μήνα περιορισμός των νεύρων  κατά πολύ,  &#13;
+εξαφανίστηκε η αίσθηση ότι κάποιος είναι δίπλα της,βελτιώθηκαν οι φόβοι της &#13;
+Εχει περσσότερη ενέργεια. &#13;
+Βελτίωση του ύπνου.</reaction>
+      <analysis>Η υπνηλία και η έντονη κούραση μπορούν να θεωρηθούν αρχική επιδείνωση και προσπάθεια του οργανισμού προς οικονομία δυνάμεων πράγμα που οδηγεί στο συμπέρασμα οτι το φάρμακο είναι σωστό.&#13;
+Επίσης ο πόνος στα πέλματα -ανήκει στις ιδιότητες του medorrhinum επιβεβαιώνει την επιλογή του φαρμάκου.&#13;
+Το γεγονός οτι έχει ενέργεια επίσης δηλώνει την καλή έκβαση.&#13;
+H ύπαρξη αρχικής επιδείνωσης δείχνει οτι μάλλον ανήκει στο L5 σύμφωνα με την παρατήρηση 4 </analysis>
+      <conclusion>Καλή απάντηση στο φάρμακο περιμένουμε</conclusion>
+      <repertorization>
+        <desc>fear of ghosts,high places someone behind her  δεν υπάρχουν μετά από ένα μήνα.Το εξάνθημα παραμένει.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-29 21:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>4 μήνες μετά την πρώτη συνταγογράφηση παραμένει σε πολύ καλή κατάσταση με ελάχιστες φοβίες στον πρώτο βαθμό</reaction>
+      <analysis>πολύ καλό επίπεδο ενέργειας, ανήκει μάλλον σε υψηλότερο επίπεδο υγείας</analysis>
+      <conclusion>αναμονή</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>όχι</remedy>
+        <potency>όχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>όχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4f520df3a0e97d2270f6a2ab78877459</ID>
+  <patient>
+    <case_date>2015-10-03 20:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Γ.Κ.</patient_initials>
+    <age>37</age>
+    <circumstances>Ελεύθερος, καθηγητής Η/Υ.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ψωρίαση, εμφανίστηκε 1η φορά στο γυμνάσιο στη βουβωνική χώρα και μετά από λίγο καιρό εξαφανίστηκε. Επανεμφανίστηκε πριν 10 χρόνια στους αγκώνες από ερωτική απογοήτευση 1 και έχει σταδιακή επιδείνωση. Τώρα έχει δερματικές βλάβες στους αγκώνες, στις κνήμες, στο αντιβράχιο, στους μηρούς και στην άκρα χείρα με παραμόρφωση και δυσχρωματισμό των νυχιών ---3. Οι βλαβες είναι ξηρές 2. </origin>
+        <causative_factors>ερωτική απογοήτευση 1 και γενικά επιδείνωση μετά από διάφορα ψυχολογικά στρες.</causative_factors>
+        <modalities>&lt; από τον κρύο υγρό καιρό 3 (το χειμώνα). &lt; με το μπάνιο 2.</modalities>
+        <occurrence_time>καλοκαιρινοί μήνες 2.</occurrence_time>
+        <body_side>στους αγκώνες 3, στις κνήμες 3, στο αντιβράχιο 3, στους μηρούς 3 και στην άκρα χείρα με παραμόρφωση και δυσχρωματισμό των νυχιών 2.</body_side>
+        <appearence_frequency>μόνιμα.</appearence_frequency>
+        <pain_desc>Έχει πολλή φαγούρα που έχει επιδεινωθεί τελευταία 3 και το ξίνει μέχρι να ματώσει 3.</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Δύσοσμα πόδια 2. Δύσοσμα κόπρανα 2. Κουράζεται στην ανηφόρα 1. Αδυναμία-νωχελικότητα 2. Κατά καιρούς βγάζει δοθιήνες σε διάφορα μέρη του σώματος 1. Κάποιες περιόδους έχει διάρροια. </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ω3 (ανά περόδους συστηματικά).</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Sulph πριν 5-6χρόνια δεν υπήρξε βελτίωση) και τον ιούνιο του 2015 Sulph μαζί με Ars (μάλλον υπήρξε μία μικρή βελτίωση).</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα παιδικά εμβόλια που προβλέπονται από το ΕΣΥ. Αντιβιώσεις (όχι μεγάλη χρήση). Dovobet cream μόνο μία φορά για την ψωρίαση.</therapies_vaccination>
+          <traumas>Έχει σπασει το αρ χέρι σε παιδική ηλικία.</traumas>
+          <infections>-</infections>
+          <other>Το φεβρουάριο του 2015 έκανε εμπύρετο έως 39. Είχε 3 χρόνια να κάνει πυρετό.</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα = Α.Υ. Πατέρας = Α.Υ. απεβίωσε στα 63 λόγω μαζικής πνευμονικής εμβολής.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt; με το κρύο και την υγρασία 3. Κρύα πόδια 3. &lt; κρύο 2.</reactions>
+        <sleeping_habits>Κοιμάται κυρίως μπρούμητα 1.  Κοιμάται καλά, αλλά πριν κοιμηθεί τον πιάνει φαγούρα και δυσκολεύεται να κοιμηθεί 2. Ξυπνάει καλά, μπορεί να ξυπνήσει και με νεύρα. Θέλει ακόμη και το καλοκαίρι σκέπασμα. </sleeping_habits>
+        <food_modalities>επιθυμίες = γλυκά 3, λίπος 3, μέλι 2. απέχθειες= μπάμιες.</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Ακατάστατος-ατιμέλητος 2. Ντροπαλός 1. Δεν είναι σούπερ κοινωνικός. Τον τρενάρει ψυχολογικά η ψωρίαση και έχει απογοητευτεί. Άγχος για την υγεία του 2, ειδικά μετά το θάνατο του πατέρα του. Δεν έχει ιδιαίτερο άγχος για τους δικούς του. Εναλλαγές διάθεσης 2. Φόβοι = σκυλιά 2, ύψος 2, αν γίνει κάποιος τσακωμός και δεν είναι προπετοιμασμένος. Τον επηρεάζουν οι καταστάσεις γύρω του. Δε θέλει να είναι πάντα με παρέα.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Μέτρια επιβαρυμένο, γιατί οι εκδηλώσεις του είναι δερματικές και γιατί ο οργανισμός μπορέι να κάνει ακόμη πυρετό. Βέβαια από την άλλη πάσχει από αυτοάνοσο νόσημα, το οποίο πρωτοεμφανίστηκε σε μικρή ηλικία και αυτό κάνει την περίπτωση δύσκολη.</personal_medical_history>
+        <family_medical_history>Επιβαρυμένο από την πλευρά του πατέρα, λόγω του οτι απεβίωσε σε μικρή ηλικία.</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Θα βελτιωθούν τα συμπτώματα με τη σωστή συνταγογράφηση, αλλά θα χρειαστεί χρόνια θεραπεία.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Φόβος σκυλιών 2, ύψους 2. Προβλήματα μετά από ερωτική απογοήτευση 1. Ακατάστατος-ατιμέλητος 2. Κίτρινα νύχια 2. Εύθραυστα νύχια 2. Δύσοσμα πόδια 2. Κοιμάται μπρούμητα 1. Ξύνει μέχρι να ματώσει 3. Κνησμός 2. Του αρέσει το λίπος 3.</peculiar>
+        <intense>Άγχος υγείας 2. Εναλλαγή διάθεσης 2. Δύσοσμα κόπρανα 2. &lt; από το κρύο 2. Κρύα πόδια 3. Εξανθήματα στα άκρα 3. Ξηρά δερματικά εξανθήματα 2. Κουράζεται στην ανηφόρα 1. &lt; από το μπάνιο 2. Του αρέσουν τα γλυκά 3. Αδυναμία-νωχελικότητα 2. &lt; από τον υγρό κρύο καιρό 3.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Γ.Κ.1.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Στη δ.δ. Sulph, Calc-c, Arg-n, Sil, Ars, Graph. Η δ.δ. με δυσκόλεψε μεταξύ Sulph και Calc-c και τελικά επέλεξα το Sulph, γιατί ξύνει τις βλάβες μέχρι να ματώσει, έχει δυσχρωμία στα νύχια και μεγάλη επιθυμία για το λίπος.</remedies_differentiation>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>30CH</potency>
+        <regimen>20 caps 1x1 καθημερινά.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-27 19:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την 1η εβδομάδα μετά το φάρμακο είχε μεγάλη έξαρση με πληγές, ξυνόταν και έβγαιναν μεγάλες πλάκες, έφευγε αίμα, λερωνόταν το σεντόνι. Η επιδείνωση ήταν εμφανής και στο περιβάλλον του. Είχε διάρκεια 7-10 μέρες και κατόπιν ξεκίνησε μία σταδιακή βελτίωση (εμφανής βδομάδα με τη βδομάδα). Μειώθηκε το άγχος για την υγεία του και έχει κάποιες νότες αισιοδοξίας. Κρυώνει λιγότερο. Τα νύχια του βελτιώθηκαν. Οι βλάβες βελτιώθηκαν. Η φαγούρα μειώθηκε, όπως και η επιθυμία να το ξύνει. Νιώθει καλύτερα ενεργειακά.</reaction>
+      <analysis>Πάρα πολύ καλή αντίδραση με έντονη αρχική επιδείνωση και μετά σταδιακή βελτίωση.</analysis>
+      <conclusion>Θα συνταγογραφήσω το ίδιο φάρμακο στην ίδια δυναμοποίηση σε επαναλήψεις για να δώσω κι άλλη ώθηση στον οργανισμό.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Γ.Κ.2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>30CH</potency>
+        <regimen>20 caps 1x1 καθημερινά.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-30 19:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η φαγούρα μειώθηκε κι άλλο. Οι βλάβες συνεχίζουν να βελτιώνονται. Ενεργειακά είναι καλά. Ενώ ο καιρός γίνεται πιο κρύος και υγρός αυτός συνεχιζει να βελτιώνεται, αντι να επιδεινωθεί όπως συνέβαινε κάθε χρόνο.</reaction>
+      <analysis>Πολύ καλή πορεία νόσου.</analysis>
+      <conclusion>Θα περιμένω και θα δώσω placebo. </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Γ.Κ.3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>5 caps 1x1 για 5 μέρες.</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,168 @@
+1
+00:00:19,488 --> 00:00:31,800
+-Ko uporabljate VES sistem, pridete la¾je do razultatov. Kako ste ga razvili?
+
+2
+00:00:39,520 --> 00:00:48,651
+- Povedal vam bom pravila, ki sem jih uporabljal, ko sem razvijal VES.
+
+3
+00:00:51,915 --> 00:01:31,915
+Razvijal sem ta strokovni sistem z uporabo dveh osnovnih pravil. Prvo je bilo entuziazem, drugo pa znanje o tem, kar sem poèel, med tem, ko sem zdravil doloèen primer. Dve osnovni pravili.
+
+4
+00:01:35,925 --> 00:02:00,420
+In sedaj ¹e nekaj podrobnosti. Namur univerza v Belgiji je pristopila k meni, ljudje iz Univerze so mi povedali, da so se 7 let pripravljali s skupino programerjev
+
+5
+00:02:00,520 --> 00:02:09,696
+za izgradnjo strokovnega sistema na osnovi katere smo jih vnesli v raèunalnik.
+
+6
+00:02:11,232 --> 00:02:22,347
+Vas zanima izdelava strokovnega sistema? Ne, sem rekel, ne verjamem,  da bi lahko raèunalnik na¹el pravo zdravilo.
+
+7
+00:02:23,560 --> 00:02:29,493
+Kajti gola repertorizacija, veèina zdravil, ipd, ne deluje, sem rekel.
+
+8
+00:02:30,667 --> 00:02:41,397
+Ne, so rekli. Vprogramirali bomo va¹ naèin razmi¹ljanja in ga vnesli v raèunalnik.
+
+9
+00:02:42,600 --> 00:02:51,872
+Rekel sem; kaj je to? Kasneje boste prodajali moje mo¾gane.
+
+10
+00:02:52,469 --> 00:02:59,680
+Ampak v redu, èe to deluje, vam bom dal informacije. Kaj ¾elite vedeti?
+
+11
+00:03:00,832 --> 00:03:09,216
+Bila je cela ekipa programerjev in zaèeli so spra¹evati. Kaj bi naredili v tem primeru? Kaj bi naredili v tistem primeru?
+
+12
+00:03:10,389 --> 00:03:23,160
+In razlagal sem jim. Kako razmi¹ljate? Kaj je to, kaj je tisto? Odgovarjal sem jim in zapisovali so si nekak¹ne matematiène enaèbe, kot sem govoril.
+
+13
+00:03:23,960 --> 00:03:40,064
+Kaj si zapisujete, sem vpra¹al. Govorite, povejte nam, so rekli. Zakaj v tem primeru niste dali Sulphurja, ki je pokrival veèino simptomov in ste dali Lach, ki je pokrival to.
+
+14
+00:03:40,917 --> 00:03:52,680
+Razlo¾il sem jim in nato sem v doloèenem trenutku bolj ali manj zaèel razumeti, kaj so ¾eleli. To se je dogajalo eno leto in pol.
+
+15
+00:03:53,269 --> 00:04:03,808
+Da bi pospe¹ili celoten proces, sem na koncu rekel: v redu, potem vam bom povedal pravila.
+
+16
+00:04:04,560 --> 00:04:16,337
+Date to in tisto, poudarite to in tisto, povedal sem jim za vsa pravila, kar so me spra¹evali zadnje leto in pol.
+
+17
+00:04:16,437 --> 00:04:30,620
+Ko sem jim po¹teno povedal vsa pravila, se nisem veè spomnil, kaj sem jim razlagal ves ta èas. Nemogoèe je bilo zapomniti si vsa ta pravila.
+
+18
+00:04:30,720 --> 00:04:40,459
+A oni so jih zapisali. Ali je to zdaj dokaz, da je to res strokovni sistem? Ja ali ni?
+
+19
+00:04:43,339 --> 00:04:50,620
+Ko so konèali, so me prosili, naj za test vnesem tri primere, ki ste jih zdravili. 
+
+20
+00:04:50,720 --> 00:05:08,880
+En primer nevralgije trigeminusa, kjer sem dal Verbascum. Zdravnik mi je povedal 25-30 simptomov, zdravilo pa sem predpisal na osnovi treh kljuènih simptomov, ne spominjam se zdaj toèno.
+
+21
+00:05:10,347 --> 00:05:24,384
+Vzel sem ta primer in si misli: to je nemogoèe, da bi mi raèunalnik povedal, da bi izbral zdravilo Verbascum,. To ni mogoèe, kajti pred Verbascumom je bilo 17 drugih zdravil.
+
+22
+00:05:24,840 --> 00:05:35,861
+Vzel sem torej primer Nux vomice in Ntrum muriaticuma, kjer smo se odloèili za zdravilo predvsem na osnovi kljuènih simptomov.
+
+23
+00:05:37,120 --> 00:05:49,835
+To je bilo namreè prvo. Mislim, da je imel primer z Natrum muriaticum okoli 40 simptomov.
+
+24
+00:05:50,731 --> 00:06:04,967
+Sku¹ali so jih vnesti v raèunalnik. Takrat je bil raèunalnik kot ta vrata, velik. Raèunalnik se je sesul, saj je moral preveè preraèunavati.
+
+25
+00:06:05,067 --> 00:06:25,319
+Torej se je sesul, se ustavil. Kaj pa zdaj? Profesor iz Namurske univerze je bil tam, ¹tudentje, ki so sodelovali, èlovek, ki je financiral ta projekt, jaz, programerji skupaj z mano,...sesulo se je.
+
+26
+00:06:25,419 --> 00:06:39,200
+©li smo v sosednjo sobo, vklopili veèji raèunalnik... Raèunalnik je rekel, da je to primer Natrum muriaticuma.
+
+27
+00:06:40,200 --> 00:06:49,035
+V redu, sem rekel, mogoèe sem prinesel enostaven primer.
+
+28
+00:06:52,085 --> 00:07:04,721
+Poglejmo. Dajte ta primer. Prebral sem simptome primera, vnesli so jih v raèunalnik. Izbral sem Verbascum.
+
+29
+00:07:04,821 --> 00:07:14,507
+Raèunalnik je rekel, da je zdravilo Verbascum. Nisem mogel verjeti, kako je to mogoèe?
+
+30
+00:07:15,019 --> 00:07:28,800
+Kako, zaboga? Od 32 simptomov je Verbascum pokril samo 5. Kako je bilo mogoèe, da je ta preklet raèunalnik rekel, da je to pravo zdravilo?
+
+31
+00:07:29,376 --> 00:07:47,189
+Medtem, ko smo na¹li drugo zdravilo, je profesor naroèil tajnici, naj gre po ¹ampanjec, da proslavimo. Saj ni mogel verjeti, da sta bila od treh dva pravilna.
+
+32
+00:07:47,960 --> 00:08:02,187
+Vnesli smo tretji primer, to je bila Nux vomica... Nux vomica je primer s precej¹njo gotovostjo. Ker smo bili gotovi, boste videli, ¹e vedno je tukaj.
+
+33
+00:08:03,168 --> 00:08:16,209
+Bili smo zelo vznemirjeni in profesor je rekel, da nikoli ni mogel verjel, da bi sistem lahko deloval.
+
+34
+00:08:16,309 --> 00:08:26,193
+Kajti èe bi bila na kateremkoli mestu kak¹na napaka, bi bile kalkulacije obrnjene in ne bi dale pravega rezultata.
+
+35
+00:08:26,293 --> 00:08:39,313
+To pomeni, da so v ta repertorij sprogramirali, kot sem rekel, toèno moje razmi¹ljanje.Ni enostavno to prekopirati in dati vseh pravil.
+
+36
+00:08:39,413 --> 00:08:54,155
+Eno leto in pol smo se torej sreèevali in rekel sem: v redu, èe vam uspe prekopirati moje mo¾gane, lahko to prodajate.
+
+37
+00:08:58,443 --> 00:09:12,935
+Kljub temu je bilo na¹e delo leta 1990 drugaèno od vseh teh nesmislov, ki so bili nazadnje dodani.
+
+38
+00:09:13,035 --> 00:09:21,547
+Dodali so vse te fantazije in vsa ta zdravila in seveda je sistem zdaj preobrnjen.
+
+39
+00:09:22,507 --> 00:09:27,819
+-Kaj pravite o (?) delih v repertoriju?
+
+40
+00:09:36,600 --> 00:09:50,033
+-Katerem repertoriju?
+-Synthesis pravi, da je v (?) to potrjen simptom.
+
+41
+00:09:50,133 --> 00:10:12,832
+-Spra¹uje, èe (?) so bile informacije zanesljive. Ja (?) je bil eden od tistih, ki so prakticirali (?) homeopatijo in je bil zmo¾en dodajanja nekaterih potrditev in nekaterih dodatkov.
+
+42
+00:10:13,856 --> 00:10:15,300
+Bil je zelo dober homeopat.

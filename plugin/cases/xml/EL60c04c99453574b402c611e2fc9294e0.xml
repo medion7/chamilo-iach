@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL60c04c99453574b402c611e2fc9294e0</ID>
+  <patient>
+    <case_date>2016-02-20 03:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΓΚ</patient_initials>
+    <age>13</age>
+    <circumstances>ΑΓΟΡΙ 12 ΕΤΩΝ ΜΕ ΕΝΑ ΔΙΔΥΜΟ ΑΔΕΦΟ ΣΤΗΝ ΟΙΚΟΓΕΝΕΙΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ ΕΦΙΑΛΤΕΣ ΑΠΟ 2ΜΗΝΟΥ ΜΕ ΕΠΙΔΕΙΝΩΣΗ ΤΟ ΤΕΛΕΥΤΑΙΟ 10 ΗΜΕΡΟ ΟΠΟΥ ΤΟ ΠΑΙΔΙ ΔΥΣΚΟΛΕΥΕΤΑΙ ΝΑ ΑΚΟΛΟΥΘΗΣΕΙ ΤΟ ΣΧΟΛΙΚΟ ΠΡΟΓΡΑΜΜΑ</origin>
+        <causative_factors>ΔΙΑΖΥΓΙΟ ΓΟΝΙΩΝ ΠΡΟ1ΕΤΟΥΣ ΑΛΛΑΓΗ ΣΧΟΛΕΙΟΥ</causative_factors>
+        <modalities>ΕΠΙΔΕΙΝΩΣΗ ΑΓΧΟΥΣ ΤΙΣ ΒΡΑΔΥΝΕΣ ΩΡΕΣ ΚΑΙ ΟΤΑΝ ΒΡΙΣΚΕΤΑΙ ΜΕ ΚΟΣΜΟ</modalities>
+        <occurrence_time>ΒΕΛΤΙΩΣΗ ΣΤΟ ΣΠΙΤΙ ΜΕ ΤΗΝ ΜΑΜΑ Η ΤΟΝ ΑΔΕΛΦΟ Η ΤΟΥΣ ΦΙΛΟΥΣ ΤΟΥ ΚΑΙ ΟΤΑΝ ΤΡΩΕΙ.</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>ΣΤΗΝ ΑΡΧΗ ΜΙΑ ΦΟΡΑ ΤΗΝ ΕΒΔΟΜΑΔΑ ΤΩΡΑ ΚΑΘΗΜΕΡΙΝΑ</appearence_frequency>
+        <pain_desc>ΠΟΝΟΚΕΦΑΛΟΣ ΣΑΝ ΝΑ ΤΟΥ ΑΝΕΒΑΙΝΕΙ ΤΟ ΑΙΜΑ ΣΤΟ ΚΕΦΑΛΙ ΑΓΧΟΣ ΦΟΒΟΣ ΤΑΧΥΠΑΛΜΙΑ . ΤΟ ΒΡΑΔΥ ΜΟΛΙΣ ΠΕΣΕΙ ΣΤΟ ΚΡΕΒΒΑΤΙ  ΒΛΕΠΕΙ ΕΦΙΑΛΤΕΣ ΜΕ ΦΑΝΤΑΣΜΑΤΑ ΚΑΙ ΑΝΑΖΗΤΑ ΤΗΝ ΜΑΜΑ ΤΟΥ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>ΔΙΑΡΡΟΙΕΣ ΞΗΡΟΣ ΒΗΧΑΣ ΤΟ ΒΡΑΔΥ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ ΕΦΙΑΛΤΕΣ</conv_med_presc>
+        <lab_tests>
+          <desc>ΓΕΝΙΚΗ ΑΙΜΑΤΟΣ ΗΛΕΚΤΡΟΛΥΤΕΣ ΘΥΡΕΟΕΙΔΙΚΗ ΛΕΙΤΟΥΡΓΙΑ ΚΦ ΝΕΥΡΟΛΟΓΙΚΗ ΕΞΕΤΑΣΗ ΚΦ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΣΥΝΗΘΕΙΣ ΕΜΒΟΛΙΑΣΜΟΙ  ΕΚΤΟΣ ΙΛΑΡΑΣ ΕΡΥΘΡΑΣ ΠΑΡΩΤΙΤΙΔΑΣ ΑΝΕΜΕΥΛΟΓΙΑΣ</therapies_vaccination>
+          <traumas>ΔΙΑΖΥΓΙΟ ΓΟΝΙΩΝ ΠΡΟ1 ΕΤΟΥΣ ΑΛΛΑ ΓΗ ΣΧΟΛΕΙΟΥ ΠΡΟ 7 ΜΗΝΟΥ</traumas>
+          <infections>ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ ΑΣΘΜΑ </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΑΙΝΕΤΑΙ ΙΔΡΩΝΕΙ </reactions>
+        <sleeping_habits>ΠΡΟΤΙΜΑΕΙ ΤΟ ΔΕΞΙ ΠΛΑΙ ΑΛΛΑ ΚΟΙΜΑΤΑΙ ΚΑΙ ΑΝΑΣΚΕΛΑ .ΑΠΟ ΜΙΚΡΟΣ ΗΘΕΛΕ ΦΩΣ ΣΤΟ ΔΩΜΑΤΙΟ ΤΗΝ ΝΥΧΤΑ ΦΟΒΟΤΑΝ ΤΑ ΦΑΝΤΑΣΜΑΤΑ.</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΣΟΚΟΛΑΤΑ ΨΑΡΙ ΠΑΓΩΤΑ ΓΑΛΑΚΤΟΚΟΜΙΚΑ ΖΥΜΑΡΙΚΑ ΔΙΨΑ ΜΕΤΡΙΑ ΠΡΟΤΙΜΑ ΚΡΥΟ ΝΕΡΟ ΑΠΕΧΘΕΙΑ ΛΑΔΕΡΑ ΑΥΓΟ ΟΣΠΡΙΑ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΦΟΒΟΣ ΟΤΙ ΚΑΤΙ ΘΑ ΣΥΜΒΕΙ ΣΤΟ ΣΠΙΤΙ ΤΟΥΣ ΠΡΟΣΚΟΛΛΗΣΗ ΣΤΗΝ ΜΗΤΕΡΑ ΖΗΛΕΙΑ ΓΙΑ ΤΟΝ ΑΔΕΛΦΟ ΤΟΥ  ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ ΣΕ ΕΜΠΟΡΙΚΑ ΚΕΝΤΡΑ  ΣΙΝΕΜΑ ΕΦΙΑΛΤΕΣ ΤΟ ΒΡΑΔΥ ΚΟΙΝΩΝΙΚΟΣ ΕΚΔΗΛΩΤΙΚΟΣ ΠΡΙΝ ΕΜΦΑΝΙΣΕΙ ΤΙΣ ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ. ΒΟΗΘΑΕΙ ΠΑΝΤΑ ΤΑ ΑΛΛΑ ΠΑΙΔΙΑ ΣΤΟ ΣΧΟΛΕΙΟ ΟΤΑΝ ΕΧΟΥΝ ΑΝΑΓΚΗ ΤΗΝ ΒΟΗΘΕΙΑ ΤΟΥ ΣΥΜΜΕΤΕΧΕΙ ΣΕ ΕΘΕΛΟΝΤΙΚΗ ΟΡΓΑΝΩΣΗ ΣΤΟ ΣΧΟΛΕΙΟ. ΚΑΛΟΣ ΜΑΘΗΤΗΣ ΜΕΘΟΔΙΚΟΣ ΚΑΚΗ ΣΧΕΣΗ ΜΕ ΤΟΝ ΠΑΤΕΡΑ ΠΡΟΣΤΑΤΕΥΤΙΚΟΣ ΜΕ ΤΗΝ ΜΗΤΕΡΑ ΤΟΥ.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΠΝΕΥΜΟΝΙΑ ΣΕ ΗΛΙΚΙΑ 6 ΕΤΩΝ ΩΤΙΤΙΔΕΣ ΜΕΧΡΙ ΤΗΝ ΗΛΙΚΙΑ ΤΩΝ5 ΕΤΩΝ ΡΙΝΟΡΑΓΙΕΣ ΜΕΧΡΙ 7 ΕΤΩΝ</personal_medical_history>
+        <family_medical_history>ΠΑΤΕΡΑΣ ΑΣΘΜΑ</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>ΣΧΕΤΙΚΑ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΑΣ ΜΕ ΔΙΑ ΤΑΡΑΧΗ ΟΜΩΣ ΚΥΡΙΩΣ ΣΤΟ MENTAL EMOTIONAL.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>                                                                   ΦΟΒΟΣ   ΦΑΝΤΑΣΜΑΤΩΝ4 ΦΟΒΟΣ ΟΤΙ ΚΑΤΙ ΘΑ ΣΥΜΒΕΙ ΣΤΟ ΣΠΙΤΙ ΤΟΥ3 ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ3</peculiar>
+        <intense>ΕΦΙΑΛΤΕΣ ΜΕ ΦΑΝΤΑΣΜΑΤΑ 4 ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ 3. ΔΙΑΡΡΟΙΕΣ 2 ΞΗΡΟΣ ΒΗΧΑΣ 1</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>PHOSPHORUS ARGENTUM NITRICUM ARSENICUM</remedies_differentiation>
+      <prescription>
+        <remedy>PHOSPHORUS</remedy>
+        <potency>1M</potency>
+        <regimen>1caps 1Mκαι στην συνεχεια 12ch για 20 ημερες.</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-20 02:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc>δεν ζητηθηκαν</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>το πρωτο βραδυ μεγαλη αυπνια και φοβος. Την επομενη ημερα βελτιωση, θελησε να βγει βολτα με την μαμα και τον αδελφο του και ηταν χαρουμενος και την μεθεπομενη πηγε στο σχολειο . Αρχισε να κοιμαται καλυτερα το βραδυ περιπου7 ωρες.Μετα την 6η μερα κοιμοταν ολο το βραδυ με ανοιχτο φως στο δωματιο , χωρις την μαμα του και επανηλθε πληρως στις δραστηριοτητες του.Παρεμεινε ενα μικρο αγχος για τα εμπορικα κεντρα και το σινεμα.</reaction>
+      <analysis>Το επιπεδο υγειας του παιδιου ηταν καλο το φαρμακο καθαρο και παρολο που η διαταραχη ηταν σε πνευματικο επιπεδο παρουσιασε θεραπευτικη επιδεινωση και στην συνεχεια σημαντικοτατη βελτιωση.</analysis>
+      <conclusion>Αναμενομενη αντιδραση η οποια λογικα  εαν δεν επελθει καποιο ισχυρο stress θα κρατησει για μεγαλο χρονικο διαστημα.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

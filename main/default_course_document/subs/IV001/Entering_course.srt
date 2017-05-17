@@ -1,0 +1,144 @@
+﻿1
+00:00:00,995 --> 00:00:09,763
+In this video we will see how to enter course.We click on the e-learning platform menu item.
+
+2
+00:00:12,514 --> 00:00:16,450
+If you are not logged in you will be redirected to the log in form.
+
+3
+00:00:16,717 --> 00:00:20,593
+We enter our data and click the login button.
+
+4
+00:00:32,648 --> 00:00:36,976
+The list with the courses you are registered to is displayed.
+
+5
+00:00:37,073 --> 00:00:39,689
+To enter a course just click on it.
+
+6
+00:00:42,726 --> 00:00:48,664
+This is the main page of the course, and these are the available features of the course.
+
+7
+00:00:49,766 --> 00:01:00,952
+Online tests and excersises, announcements about the course, assignments, online notebook, and the course content.
+
+8
+00:01:02,105 --> 00:01:05,345
+We click on this icon to access the videos.
+
+9
+00:01:10,052 --> 00:01:14,244
+From the list on the left you can select the content you want to view.
+
+10
+00:01:14,999 --> 00:01:23,140
+The main types of content are the videos, the pdf notes, and self assessment questions for the corresponding video.
+
+11
+00:01:24,204 --> 00:01:30,858
+The green ticks on the right of the title means that you have visited this link but not necessarily seen the content.
+
+12
+00:01:31,757 --> 00:01:35,477
+Now we click on the play button to start the video.
+
+13
+00:02:01,964 --> 00:02:05,116
+These are the options we have for the video.
+
+14
+00:02:05,515 --> 00:02:08,321
+We can move the playbar to the minute we want.
+
+15
+00:02:13,021 --> 00:02:16,047
+And from here can choose the quality of the video.
+
+16
+00:02:16,795 --> 00:02:21,338
+For slow internet connections, it is better to choose the lower quality.
+
+17
+00:02:25,878 --> 00:02:31,822
+By clicking this button, we can switch the subtitles to another language or disable them.
+
+18
+00:02:35,611 --> 00:02:39,669
+We can also edit the sound and set video on fullscreen mode.
+
+19
+00:02:43,439 --> 00:02:50,431
+Please make sure that you are using the pause button, which is excactly below the video player together with another resume button
+
+20
+00:02:50,778 --> 00:02:54,594
+instead of the pause button at the bottom left of the video player.
+
+21
+00:03:00,307 --> 00:03:02,914
+Here we can keep notes for the video.
+
+22
+00:03:07,314 --> 00:03:11,829
+Click the "Save my notes" button to save them before leaving the page.
+
+23
+00:03:25,378 --> 00:03:31,754
+Depending on the module, theory or materia medica, you can find more information or references below the player.
+
+24
+00:03:32,209 --> 00:03:36,953
+For example the other books, that you need to study along side with the video.
+
+25
+00:03:42,437 --> 00:03:45,637
+Below each video link there are notes in pdf format.
+
+26
+00:03:50,888 --> 00:03:54,648
+You can either download them on your device by clicking this button,
+
+27
+00:03:55,989 --> 00:03:58,357
+or print them by clicking this button
+
+28
+00:03:59,488 --> 00:04:05,791
+If you can't view the pdf notes, please make sure you have a pdf reader installed on your device.
+
+29
+00:04:10,000 --> 00:04:17,469
+The self assessment questions are questions about the corresponding video and help you assess if your have understood the content.
+
+30
+00:04:18,422 --> 00:04:24,364
+Read the question and try to answer it then click the show answer link to confirm your answer.
+
+31
+00:04:38,240 --> 00:04:42,098
+We click the "Course home" link to go back to courses main page.
+
+32
+00:04:45,562 --> 00:04:49,723
+Here is another way to keep notes for the course.
+
+33
+00:04:51,913 --> 00:04:55,809
+As you can see here are the notes we kept for the video.
+
+34
+00:04:56,523 --> 00:05:00,211
+We can edit or export them to pdf format.
+
+35
+00:05:08,481 --> 00:05:11,730
+We can also create new notes by clicking here.
+
+36
+00:05:15,309 --> 00:05:21,822
+In the next video you will see how to enter an online test, and how to submit your assignments and tests.
+

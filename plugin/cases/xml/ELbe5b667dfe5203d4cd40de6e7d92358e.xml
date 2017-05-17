@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELbe5b667dfe5203d4cd40de6e7d92358e</ID>
+  <patient>
+    <case_date>2015-12-18 23:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Γ.Π</patient_initials>
+    <age>36</age>
+    <circumstances>Παντρεμένος με 2 παιδιά, άνεργος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πόνος σε αρθρώσεις κυρίως σε Αριστερό ώμο (Τενοντίτιδα)</origin>
+        <causative_factors>Υπερκόπωση-καταπόνηση των αρθρώσεων&#13;
+</causative_factors>
+        <modalities>Υγρασία επιδεινώνει,&#13;
+ρευμα αέρα επιδεινώνει &#13;
+Βελτίωση με το ζεστό μπάνιο</modalities>
+        <occurrence_time>Συνήθως χειρότερα το πρωί</occurrence_time>
+        <body_side>Αριστερά</body_side>
+        <appearence_frequency>υπάρχει μονιμη ενόχληση με εξάρσεις </appearence_frequency>
+        <pain_desc>πόνος βαθύς που εμποδίζει την κίνηση όλου του άκρου</pain_desc>
+        <complaint_ext>σπανιότερα εμφανίζεται πόνος στην οσφύ ή δυσκαμψία στον αυχένα</complaint_ext>
+        <other_complaints>Αλλεργίες &#13;
+Ευαισθησία σε λοιμώξεις ανώτερου αναπνευστικου.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβόλια :Διφθερίτις-Τετανος-κοκκύτης, Πολυομυελίτιδα, Ηπατίτιδα Β&#13;
+Αντιβιότικά στο παρελθόν, για αμυγδαλίτιδες-ωτίτιδες.&#13;
+κορτιζόνη περιστασιακά για αλλεργίες, άσθμα, ατοπική δερματίτιδα </therapies_vaccination>
+          <traumas>ηλεκτροπληξία προ 10 ετίας </traumas>
+          <infections>-&#13;
+</infections>
+          <other>Εμφανίζει 2-3 εμπυρετα το χρόνο συνήθως με χαμηλοό πυρετό.&#13;
+Πριν 1 χρόνο περίπου πυρετός &gt;39,5 διήρκεσε 5 μέρες (όχι αντιβίωση) </other>
+        </personal>
+        <family>
+          <diseases>πατέρας καρδιοπαθής.&#13;
+ιστορικό φυματίωσης από πλευρας της μητέρας</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>γενικά κρυώνει, αλλά δεν ανέχεται την πολλή ζέστη.&#13;
+Η υγρασία επιδεινώνει τα προβλήματα στις αρθρώσεις</reactions>
+        <sleeping_habits>κοιμάται ανάσκελα.&#13;
+χωρίς προβλήματα με τον ύπνο</sleeping_habits>
+        <food_modalities>Αλλεργία σε φουντουκι&#13;
+επιθυμεί τυρί, κρέας, καπνιστά, φρουτα ζουμερά&#13;
+επιθυμει γάλα παγωμένο αλλά τον επιδεινώνει στο στομάχι&#13;
+απέχθεια: σαλιγκάρια</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>νοσταλγία για το παρελθόν&#13;
+φόβος θανάτου&#13;
+ανησυχία &#13;
+ </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>βρεφικό έκζεμα,&#13;
+αλλεργίκό υπόβαθρο (κάθε άνοιξη)&#13;
+Άσθμα πιο παλιά.&#13;
+κονδυλώματα</personal_medical_history>
+        <family_medical_history>κληρονομική προδιάθεση για καρδιοαναπνευστικές παθήσεις </family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Παρά τις καταστάλτικές θεραπείες του παρελθόντος, ο ασθενής φαινεται οτι κρατιέται σε αρκετά καλό επίπεδο υγείας, πιθανότατα μάλιστα να έχει βελτιωθεί τα τελευταία χρόνια-άν λάβουμε υπόψιν το όξυ εμπύρετο που εμφάνισε περυσι. </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Επιθυμία για λίπος (3)&#13;
+επιθυμία για καπνιστά (2)&#13;
+Νοσταλγία για το παρελθόν (2)&#13;
+Δεν αντέχει τον ήλιο (2)</peculiar>
+        <intense>Βελτίωση με το ζεστό μπάνιο (3)&#13;
+βελτίωση στη θάλασσα (3) &#13;
+επιθυμία για τυρί (3)&#13;
+προβλήματα από κούραση (2)&#13;
+εσωστρεφής (2)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Γ.Π.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Medorrhinum, Rhus tox, Nitruc acid, tuberculinum</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORRHINUM</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>Ο ασθενής στο μέλλον θα χρειαστεί κάποιο από τα άλλα υποψήφια φάρμακα.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-05 22:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν αναφέρει καμμία διαφορά ούτε στο βασικό πρόβλημα, ούτε στην ψυχοσυναισθηματική σφαίρα</reaction>
+      <analysis>Καταρχάς ο ασθενής δεν είχε κάποια ιδιαίτερη παθολογία στο mental-emotional level.&#13;
+Eπειδή είναι ακόμα νωρίς και η εικόνα του αμετάβλητη, θα επιμείνουμε στο medorrhinum</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Γ.Π follow up 1.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Επανεξέταση σε 2-3 εβδομάδες</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-06-23 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ο ασθενής εξακολουθεί να βρίσκεται στα ίδια.</reaction>
+      <analysis>Το φάρμακο δεν έχει δράσει. Αντιδότηση δεν προκύπτει.Ξαναπαίρνουμε την περίπτωση..</analysis>
+      <conclusion>Το φάρμακο έξακολουθεί να είναι το Medorrhinum.&#13;
+</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Γ.Π follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Medorrhinum</remedy>
+        <potency>200CH, 1M</potency>
+        <regimen>1 caps 200CH&#13;
+1 caps 1M</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-09-18 21:25:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρή βελτίωση στο βασικό πρόβλημα, χωρίς επιδείνωση. Νιωθει πιο ξεκούραστος</reaction>
+      <analysis>Ολα δείχνουν πως το φάρμακο αρχίζει να δρα. Θα περιμένουμε την εξέλιξη&#13;
+(Οφείλουμε ωστόσο να συνυπολογίσουμε και το γεγονός οτι μεσολάβησε καλοκαίρι)</analysis>
+      <conclusion>Αναμονή</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Γ.Π follow up 3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

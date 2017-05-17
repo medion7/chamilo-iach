@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELca096ebe36b8d7be5d9cf0ece691ab3a</ID>
+  <patient>
+    <case_date>2016-02-08 11:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Σ.Κ.</patient_initials>
+    <age>5</age>
+    <circumstances>Πρώτη επίσκεψη 8 Μαίου 2015&#13;
+Παιδί 3,5 ετών Πηγαίνει στον παιδικό σταθμό.&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από μωρό κοιμάται με τους γονείς μέχρι και σήμερα.Ξυπνάει ξαφνικά ουρλιάζοντας,χωρίς επικοινωνία για κάποια λεπτά.</origin>
+        <causative_factors>\\\</causative_factors>
+        <modalities>\\\</modalities>
+        <occurrence_time>\\\</occurrence_time>
+        <body_side>\\\</body_side>
+        <appearence_frequency>Κάθε βράδυ.</appearence_frequency>
+        <pain_desc>\\\</pain_desc>
+        <complaint_ext>\\\</complaint_ext>
+        <other_complaints>Χρόνια ρινίτιδα.Δεν έχει καταρροή,μόνο μπούκωμα.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Διαταραχές ύπνου</conv_med_presc>
+        <lab_tests>
+          <desc>\\\</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Calcarea carbonica για ένα χρόνο,από άλλον ομοιοπαθητικό</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Ουρολοίμωξη σε ηλικία 40 ημερών,νοσηλεύτηκε,έλαβε i.v. αντιβίωση για 11 μέρες.&#13;
+Εμβόλια: όλα τα υποχρεωτικά&#13;
+Περιπρωκτικό ερύθημα σε ηλικία ενός έτους,που πέρασε σε 2 μήνες&#13;
+Πρόσφατα ,μολυσματικό κηρίο για το οποίο πήρε αντιβίωση .</therapies_vaccination>
+          <traumas>Δεν αναφέρονται.</traumas>
+          <infections>\\</infections>
+          <other>Τελευταίος πυρετός προ μηνός</other>
+        </personal>
+        <family>
+          <diseases>Μαμά :αλλεργική πορφύρα&#13;
+Παππούς από τη μητέρα : πέθανε από καρδιά&#13;
+Πατέρας κφ&#13;
+Μητέρα του πατέρα :ψωρίαση</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται 1&#13;
+Ιδρώνει πολύ το καλοκαίρι 3&#13;
+Τον ενοχλεί ο ήλιος 3</reactions>
+        <sleeping_habits>Κοιμάται αριστερά.</sleeping_habits>
+        <food_modalities>Des σοκολάτα 3.αυγό βραστό,σφιχτό 2,λεμόνι 2,παγωτό 2&#13;
+Av. αηδιάζει με τις κρέμες 3</food_modalities>
+        <menstruation>\\\</menstruation>
+      </physical>
+      <mental_emotional>Ουρλιάζει στον ύπνο 3&#13;
+Δαγκώνει και φτύνει τους άλλους γύρω του όταν δεν γίνεται το δικό του 2&#13;
+Φοβάται το σκοτάδι 3&#13;
+Φοβάται τον σκούρο βυθό 2&#13;
+Φοβάται το νερό όταν του πέφτει στο πρόσωπο 2&#13;
+Πιάνει τα γεννητικά του όργανα 2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Παρά την ουρολοίμωξη σε μικρή ηλικία ,φαίνεται ότι ο οργανισμός ακόμη μπορεί και εκτονώνεται στο δέρμα,αφού μετά εμφάνισε το μολυσματικό κηρίο και το ερύθημα.Κάνει οξέα.Ισχυρός αμυντικός οργανισμός.</personal_medical_history>
+        <family_medical_history>Προδιάθεση για δερματικά και από τους 2 γονείς.</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Καθαρό φάρμακο,καλό επίπεδο υγείας.Πρόγνωση καλή.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ουρλιάζει τη νύχτα 3&#13;
+Κοιμάται με τους γονείς 2&#13;
+Στα νεύρα του χτυπιέται και πετάει πράγματα , δαγκώνει 2</peculiar>
+        <intense>Πιάνει τα γεννητικά του όργανα 2&#13;
+Φοβάται το νερό στο πρόσωπο 2&#13;
+Φοβάται το σκοτάδι 2&#13;
+Φοβάται το βυθό 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND ­ SHRIEKING ­ sleep ­ during 3&#13;
+MIND ­ BITING 2&#13;
+MIND ­ MANIA, madness ­ bites and spits those around 2&#13;
+MIND ­ FEAR ­ dark 3&#13;
+MIND ­ FEAR ­ water, of ­ deep and dark 1&#13;
+GENITALIA­MALE ­ HANDLES 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ ice­cream ­ desire 2&#13;
+GENERALITIES ­ WARM ­ agg. 1&#13;
+MIND ­ FEAR ­ water, of ­ running water on his head (feeling of suffocation when water is poured on head) 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ lemons ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chocolate ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ eggs ­ desire ­ boiled ­ hard 2&#13;
+MIND ­ COMPANY ­ desire for ­ children, in ­ child wants to sleep with the parents 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Belladona : επίσης ουρλιάζει στον ύπνο,δαγκώνει όταν νευριάζει και της αρέσει το λεμόνι, αλλά δεν φοβάται το σκοτάδι,δεν κοιμάται με τους γονείς και δεν φοβάται το νερό στο πρόσωπο.</remedies_differentiation>
+      <prescription>
+        <remedy>Stramonium</remedy>
+        <potency>200ch/1M/6x</potency>
+        <regimen>Μία κάψουλα 200 και μία 1Μ την πρώτη μέρα και μετά 6χ για ένα μήνα.</regimen>
+        <other_notes>\\</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-08 10:00:00</followup_date>
+      <conv_med_presc>Stramonium</conv_med_presc>
+      <lab_tests>
+        <desc>\\\</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις πρώτες μέρες η μαμά αναφέρει πως ήταν πολύ πιο αντιδραστικό.Δεν στεκόταν πουθενά. Μετά την πρώτη εβδομάδα άρχισε να βελτιώνεται κατά πολύ η διάθεσή του,ήταν πολύ πιο ήρεμο και ξύπνησε τα 3 μόνο βράδια.Κοιμάται ακόμα με τους γονείς αλλά πολύ πιο ήρεμα την τελευταία εβδομάδα.Έχουν βελτιωθεί και τα νεύρα του.</reaction>
+      <analysis>Βελτίωση μετά από αρχική επιδείνωση.</analysis>
+      <conclusion>Σωστό φάρμακο,καλή αντίδραση.Περιμένω.</conclusion>
+      <repertorization>
+        <desc>\\\</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δίνω άλλο φάρμακο.Περιμένω.</remedy>
+        <potency>\\\</potency>
+        <regimen>\\\</regimen>
+        <other_notes>\\\</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-08 10:00:00</followup_date>
+      <conv_med_presc>Χορηγήθηκε ενδιάμεσα Mercurius Solubilis  για κυνάγχη. </conv_med_presc>
+      <lab_tests>
+        <desc>\\\</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ύπνος και τα νεύρα έχουν περαιτέρω βελτίωση.Κάποιες μέρες της εβδομάδας κοιμάται και στο κρεβάτι του.</reaction>
+      <analysis>Πολύ καλή αντίδραση.Περιμένω.</analysis>
+      <conclusion>Σωστό φάρμακο,βελτίωση που διαρκεί.Πρόγνωση πολύ καλή.</conclusion>
+      <repertorization>
+        <desc>\\\</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δίνω άλλο φάρμακο</remedy>
+        <potency>\\</potency>
+        <regimen>\\</regimen>
+        <other_notes>\\</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

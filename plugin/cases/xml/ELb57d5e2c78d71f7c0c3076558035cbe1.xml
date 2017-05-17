@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELb57d5e2c78d71f7c0c3076558035cbe1</ID>
+  <patient>
+    <case_date>2014-01-16 10:30:00</case_date>
+    <gender>male</gender>
+    <patient_initials>MV</patient_initials>
+    <age>25</age>
+    <circumstances>Please enter the personal circumstances&#13;
+&#13;
+A boy aged 23 years approached me on 16th of January, 2014 stating that he was suffering from pain in the stomach and vomiting, if he ate anything, even the mildest form of food which could be digested easily. As an engineering college student he could not attend the classes because of the pain and vomiting. He consulted an allopathic doctor for treatment and underwent the treatment for the past one month.  Though he was taking the medicines regularly, the problems were persisting and the troubles made him to suffer a lot. Some of his friends and his family members advised him to try homeopathy which would do something good to him. He and his mother requested me at least to reduce the pain and help him to take food regularly, so that he could continue his studies by staying in the hostel. More over the homeopathic medicines won't have the adverse side effects, they opined.          &#13;
+&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+&#13;
+When he was twenty one years old  there was similar complaint after taking farinaceous,fatty food.&#13;
+Now  there is severe pain in the stomach after eating food followed by nausea and vomiting. Bilious, sour or acrid vomiting with burning. Burning in the epigastric region, with tenderness after vomiting food. Burning in the region of pancreas and spleen. Farinaceous food and sweets aggravates previously but now even the lightest meal aggravates. Easily vexed and irritable. Much depressed. Fears that the disease is incurable and he cannot eat like the others. He cannot fix his attention on studies and his thoughts are wandering while writing his assignments and taking notes in the class. His lips are so dry and eyes sunken. There is hunger but he cannot eat because of the fear of pain and vomiting. There will be a mild headache like migraine. Whenever he sees good looking, good flavoured food he cannot resist to avoid them though his sufferings are high. When the pains are severe slightly bending forward gives him some relief.  </origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+&#13;
+Whenever he took stuffy, farinaceous and fatty food he suffered  from vomiting and pain in stomach and took treatment from an allopathic doctor.  The doctor who treated him advised to take a CT scan of his abdomen because of the persisting vomiting and pain. The scan report dated 11th, January, 2014 stated that " mild atrophic pancreatic parenchyma with heterogeneous enhancement, mild duct dilation, multiple small calculi in the duct and parenchyma, a cyst in lesser sac with mildly thickened walls, s/o chronic atrophic calculus pancreatitis with pseudocyst formation". </causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+&#13;
+Great nausea and vomiting  after eating farinaceous food. Vomiting of  bitter substance. Vomiting of ropy mucous. His pancreas, and digestive tract are  affected. Migraine like headache after vomiting. Sweets also aggravates but he desires much. Sleeplessness at times.  &#13;
+&#13;
+&#13;
+</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+&#13;
+At any time after eating fat and farinaceous food and at times eating sweets there would be severe vomiting. </occurrence_time>
+        <body_side>Please enter side of the body&#13;
+&#13;
+Only his digestive system was affected.</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+&#13;
+Any kind of food which is hard to digest aggravates his complaints. Only very easily digestible food alone could be tolerated. Any simple deviation would aggravate all his symptoms.   </appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+&#13;
+Pain in the stomach during vomiting. He had to hold his stomach at that time. After pain and vomiting he had mild migraine like headache. </pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ &#13;
+Complaints remain in the same area not extending to other parts.</complaint_ext>
+        <other_complaints>Pain in head migraine like after the vomiting and the pain in the stomach. </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+&#13;
+He was taking allopathic medicine prescribed by his doctor and could not remember their names.&#13;
+A stoop shouldered boy, holding his stomach by his hands entered the room followed by his mother. She assisted him to sit in the chair. He was very lean and could not stand for some time. He was very weak and his eyes were looking so tired as if he was in a famine. His lips were so dry and the agony of the pain revealed through the eyes. He could not answer loud enough to hear. He was thin and tall but so weak and not having the energy as the other boys of his age. His mother stated that after eating some farinaceous, fast food, the stomach pain was aggravated and thereafter there was heavy vomiting with nausea and still the vomiting and pain continued even if he took a very little, very light food. Followed by that a mild headache like migraine was also disturbed him. Because of the sufferings he was much depressed and complained that he could not eat like other boys. He stated that he could not fix his mind on any subject and thoughts were wandering while writing.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file>https://courses.vithoulkas.edu.gr/main/upload/users/1075/vignesh 004.jpg</file>
+        </lab_tests>
+        <pre_homeo_presc>He was taking allopathic drugs only previously.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+&#13;
+He had all kinds of vaccinations and for the vomiting and stomach pain </therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+&#13;
+Found nothing to record here.</traumas>
+          <infections>Please enter Acute infectious diseases &#13;
+&#13;
+No infectious disease he had in his earlier days. &#13;
+</infections>
+          <other>Eating half cooked children </other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-04-16 02:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

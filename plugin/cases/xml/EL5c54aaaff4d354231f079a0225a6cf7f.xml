@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL5c54aaaff4d354231f079a0225a6cf7f</ID>
+  <patient>
+    <case_date>2014-12-07 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Ι. Π.</patient_initials>
+    <age>38</age>
+    <circumstances>Ελεύθερος, 1 παιδί, συγγραφέας.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Δεν μπορεί να κοιμηθεί καλά – αϋπνία. Κοιμάται περίπου 4-5 ώρες την ημέρα.&#13;
+&#13;
+Χειρότερα από 1,5 χρόνο, όταν ξαναγύρισε στην Ελλάδα από το εξωτερικό. Όμως το άγχος που είχε λόγω προβλημάτων στις σπουδες-δουλειά-προσωπική ζωή είναι λιγότερο τώρα.&#13;
+Χειρότερα όταν σκέφτεται κάτι «πνευματικό» (δουλεύει σαν συγγραφέας-δημοσιογράφος). Νοιώθει πως πρέπει να το ολοκληρώσει – έμμονη ιδέα.&#13;
+Agg. από έτους όταν έγινε πατέρας. Άγχος πως πρέπει να αναλάβει τις ευθύνες του. &#13;
+</origin>
+        <causative_factors>Μεγάλο άγχος και επαγγελματικές-οικονομικές δυσκολίες που είχε όταν ζούσε στο εξωτερικό (γύρισε στην Ελλάδα πριν απο 1,5 χρόνο.</causative_factors>
+        <modalities>Χειρότερα όταν σκέφτεται κάτι «πνευματικό» (δουλεύει σαν συγγραφέας-δημοσιογράφος). Νοιώθει πως πρέπει να το ολοκληρώσει – έμμονη ιδέα.&#13;
+Χειρότερα από έτους όταν έγινε πατέρας. Άγχος πως πρέπει να αναλάβει τις ευθύνες του. </modalities>
+        <occurrence_time>Δεν αναφέρει.</occurrence_time>
+        <body_side>Δεν αναφέρει.</body_side>
+        <appearence_frequency>Η αυπνία είναι καθημερινή.</appearence_frequency>
+        <pain_desc>Δεν υπάρχει πόνος.</pain_desc>
+        <complaint_ext>Δεν αναφέρει.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Διάγνωση: αϋπνία.&#13;
+&#13;
+Δεν αναφέρει φαρμακευτική αγωγή.&#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν αναφέρει.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Δεν αναφέρει.</therapies_vaccination>
+          <traumas>Τραυματισμός τένοντα (δε) χεριού προ 10ετίας.</traumas>
+          <infections>Θεραπεία με αντιβιοτικά για ακμή προ 20ετίας.&#13;
+&#13;
+Κηρσοκήλη (;) το 2007, πήρε αγωγή για 3μηνο ως χρόνια προστατίτιδα. Η διάγνωση έγινε από σπερματογράμματα. Είχε την αίσθηση ατελούς ούρησης.&#13;
+</infections>
+          <other>Έχει να κάνει εμπύρετο από 15ετίας.</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας: θυρεοειδοπάθεια, AF, Parkinson’s. Μητέρα: ΚΦ&#13;
+Γιαγιά (Π): Alzheimer’s, Παππούς (Π): Parkinson’s&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Του αρέσουν: ήλιος, θάλασσα, το βράδυ (2)&#13;
+Ζεσταίνεται (2) – κατά τη διάρκεια του ύπνου όμως κρυώνει.&#13;
+</reactions>
+        <sleeping_habits>Δεν μπορεί να κοιμηθεί ανάσκελα – ροχαλίζει.&#13;
+Μάλλον τρίζει τα δόντια του.&#13;
+Προτιμά στο (δε) πλευρό.&#13;
+</sleeping_habits>
+        <food_modalities>Desires: μακαρόνια (2), όσπρια, πιπέρι, αλκοόλ (3) [5 μπίρες και παραπάνω καθημερινά]&#13;
+Aversion: αγκινάρες&#13;
+Νερό: βρύσης, κανονική ποσότητα&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Τον ανησυχούν: Ο χρόνος περνάει, αυτός μεγαλώνει και δεν έχει κάνει αυτά που ήθελε να κάνει.&#13;
+Θέλει να είναι καθαρά τα χέρια του, συχαίνεται να τον αγγίζουν (2-3). Χειρότερα στο παρελθόν.&#13;
+Γενικά έχει εμμονές.&#13;
+Φόβοι: ύψη (1), για τον γιό του (2) – βλέπει όνειρα πως τον παίρνουν κτλ.&#13;
+Μοιράζεται τα συναισθήματά του – παρηγοριά amel.&#13;
+Δεν κλαίει εδώ και χρόνια.&#13;
+Τον ενοχλούν: Οι πολλές διαχύσεις, οι αλλαγές από το ένα θέμα στο άλλο.&#13;
+Αυτοπεποίθηση: χαμηλή (2-3)&#13;
+Σεξ ζωή: φυσιολογικά&#13;
+Δεν τον απασχολούν τα οικονομικά.&#13;
+Θεωρεί πως είναι γκρινιάρης.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Υπάρχουνε συμπτώματα και απο το φυσικό, όσο και απο το διανοητικό επίπεδο. Ο ασθενής δεν παρουσιάζει οξέα εδώ και 15 χρόνια. Αυτά είναι δυσμενή σημάδια για την πρόγνωση.&#13;
+Παρόλα αυτά η εικόνα φαρμάκου που παρουσιάζει είναι σχετικά καθαρή, γεγονός θετικό ως προς την πρόσβαση.</personal_medical_history>
+        <family_medical_history>Υπάρχει οικογενειακό ιστορικό εκφυλιστικών παθήσεων του ΚΝΣ απο την μεριά του πατέρα, που κάνει την πρόγνωση πιο δυσμενή.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Ο ασθενής εδώ και χρονια δεν παρουσιάζει οξέα, οπότε το επίπεδο υγείας του είναι στην ομάδα C. Παρόλα αυτά η εικόνα φαρμάκου που παρουσιάζει είναι σχετικά καθαρή, γεγονός θετικό ως προς την πρόσβαση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Αϋπνια (3)&#13;
+Συχαίνεται τις επαφές - θέλει να πλένει τα χέρια του (2-3).&#13;
+Φόβος για τον γιο (2), για τα ύψη (1).&#13;
+Ιστορικό κιρσοκήλης - φλεγμονής των σπερματικών σωληναρίων.&#13;
+&#13;
+</peculiar>
+        <intense>Des αλκοόλ (3).&#13;
+Χαμηλή αυτοπεποίθηση (2-3).&#13;
+Ιστορικό ακμής για την οποία έλαβε θεραπεία.&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>SLEEP - SLEEPLESSNESS (3)&#13;
+MIND -WASHING - DESIRE TO - ALWAYS WASHING HER HANDS (2)&#13;
+MIND - TOUCHED - AVERSION TO BEING (2)&#13;
+MIND - FEAR - HIGH PLACES, OF (1)&#13;
+GENERALITIES - FOOD AND DRINKS - ALCOHOLIC DRINKS - DESIRE (2)&#13;
+CHEST - ERUPTIONS (1) / BACK - ERUPTIONS (1)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Καθαρή σχετικά εικόνα του syphilinum, με δεύτερο το sulphur.</remedies_differentiation>
+      <prescription>
+        <remedy>Syphilinum</remedy>
+        <potency>200 CH</potency>
+        <regimen>200 CH εφάπαξ.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-18 15:00:00</followup_date>
+      <conv_med_presc>Δεν λαμβανει.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Follow up μετά απο 1,5 μήνα (23/01/2015)&#13;
+&#13;
+Φαίνεται ανανεωμένος. Αναφέρει πως νοιώθει σωματική και ψυχική ευεξία.&#13;
+Τις πρώτες μέρες μετά τη λήψη του φαρμάκου κοιμόταν πολύ (μέχρι 8ωρο) και είχε ατονία. Έπειτα δεν κοιμάται τόσο, αλλά πολύ καλύτερα από πριν. Βυθίζεται καλύτερα στον υπνο, τον ξεκουράζει περισότερο.&#13;
+Είχε μια μικρή έξαρση της ακμής στο πρόσωπο 10 ημέρες μετά τη λήξη της αγωγής που κράτησε για 2-3 εβδομάδες και μετά υποχώρησε μόνη της.&#13;
+Η εμμονή του να πλένεται είναι καλύτερα (6/10), το διάχυτο άγχος έχει υποχωρήσει, έχει μειώσει το αλκοόλ λόγω καλύτερης διάθεσης (πίνει πια κάθε δυο μέρες).&#13;
+Τώρα τελευταία βλέπει άσχημα όνειρα λόγω άγχους για κάποιες υποχρεώσεις.&#13;
+</reaction>
+      <analysis>Καλή θεραπευτική αντίδραση, με επακόλουθη βελτίωση σε όλα τα επίπεδα και στην γενική ενέργεια του ασθενούς.</analysis>
+      <conclusion>Το φάρμακο ήταν σωστό. Δεν χρειάζεται περαιτέρω συνέχιση της θεραπείας.</conclusion>
+      <repertorization>
+        <desc>Δεν έγινε.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δόθηκε φάρμακο</remedy>
+        <potency>Δεν δόθηκε φάρμακο</potency>
+        <regimen>Δεν δόθηκε φάρμακο</regimen>
+        <other_notes>Δεν δόθηκε φάρμακο</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-18 15:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>(15/06/2015) Follow up μετά από 6 μήνες από την λήψη της αγωγής. Ο ασθενής εξακολουθεί να κοιμάται καλά. Εϊχε μικρές υποτροπές σε περιόδους στρες, αλλά ποτέ πλήρη υποτροπή. Συχαίνεται τις επαφές με άλλους πολύ λίγο πια.&#13;
+&#13;
+Καλή έκβαση. Δεν χρειάζεται προς το παρόν περαιτέρω συνέχιση της θεραπείας.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δόθηκε φάρμακο.</remedy>
+        <potency>Δεν δόθηκε φάρμακο.</potency>
+        <regimen>Δεν δόθηκε φάρμακο.</regimen>
+        <other_notes>Δεν δόθηκε φάρμακο.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

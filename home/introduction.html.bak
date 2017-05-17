@@ -1,0 +1,123 @@
+<script type='text/javascript' src='/main/inc/lib/mediaplayer/swfobject.js'></script>
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 12px
+}
+.style3 {font-family: 'Verdana'; font-weight: bold; font-size: 12px; }
+.style6 {font-family: 'Verdana'}
+-->
+</style>
+
+<p><style type="text/css">body{}</style><!-- to fix a strange bug appearing with firefox when editing this template --></p>
+<p><style type="text/css">body{}</style></p>
+<p><style type="text/css">body{}</style></p>
+
+<p align="justify"><span style="font-size: larger;"><span class="style1 Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"><strong><table width="400" border="0" align="right" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div id="mediaspace" align="right">This text will be replaced</div>
+    <script type='text/javascript'>
+  var so = new SWFObject('/main/inc/lib/mediaplayer/player.swf','mpl','360','280','9');
+  so.addParam('allowfullscreen','true');
+  so.addParam('allowscriptaccess','always');
+  so.addParam('wmode','opaque');
+  so.addVariable('file','iach/introduction.mp4');
+  so.addVariable('streamer','rtmp://wms-ec2.medion7.com/vods3');
+  so.write('mediaspace');
+</script>
+</td>
+  </tr>
+</table>E-LEARNING PROGRAM</strong></span><strong><span class="Apple-style-span style1" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"><br />
+&nbsp; <br />
+&quot;This is an excellent chance to learn Homeopathy with George Vithoulkas&quot;<br />
+&nbsp;</span></strong></span><span class="style1"><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"><br />
+Vithoulkas' teachings will be available to everyone by our E-LEARNING PROGRAM.<br />
+This program is based on the highest educational standards. <br />
+Each student will be moderated for his progress in his studies and a teacher will be available together with George Vithoulkas in order to answer&nbsp; questions from the students.<br />
+It will contain:<br />
+</span></strong></span></p>
+<div align="justify">
+  <ul class="style1">
+    <li><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">Theory</span></strong></li>
+    <li><strong><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"> Materia Medica<br />
+    </span></strong></strong></li>
+    <li><strong><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"> Case Study<br />
+    </span></strong></strong></li>
+    <li><strong><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"> Repertorisation<br />
+    </span></strong></strong></li>
+    <li><strong><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"> Parameters determing the Level of Health of each patient<br />
+    </span></strong></strong></li>
+    <li><strong><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"> Evaluation and Analysis of each case that shows the process of finding the correct remedy.<br />
+    </span></strong></strong></li>
+    <li><strong><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"> General Topics about Homeopathy and Health<br />
+    </span></strong></strong></li>
+  </ul>
+</div>
+<p align="justify"><span class="style1"><strong><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">It is a unique chance to learn homeopathy AT HOME, save money for hotel and travel and study with George while you sit at home.<br />
+The program contains all you need to become an excellent homeopath because you will understand the rules of homeopathy and learn how to apply them.<br />
+The program is also a challenge for every experienced homeopath to deepen the knowledge based on what was until now only available for those students who travelled to the greek island Alonissos or booked the video training.<br />
+You will understand what is important for prescribing within the patient and what is important within the Materia Medica to base the prescription onto.<br />
+You will be able to spot remedies you would never have been able to find without the clear and structured teaching George Vithoulkas is famous for.<br />
+The theory of the Levels of Health will enable you to deeply understand the process your patient is going through and you will understand when to apply what potency, how often to repeat it and what to expect as a reaction.<br />
+You will learn when an aggravation will happen or why sometimes you may see first an amelioration on certain symptoms and then an aggravation after which a long standing amelioration takes place. <br />
+Because of the structure and clarity of the teaching it will lead to perfection in prescribing.<br />
+&nbsp;<br />
+You will have the possibility to see his analysis of many cases, how he takes the case, how he synthesizes the information in order to find the correct remedy, information about differential Materia Medica, strategies of homeopathic prescribing and generally you will attend an absolutely high standard and quality of teaching.<br />
+&nbsp;<br />
+During the course of the E-LEARNING PROGRAM, you will have the chance to attend live lectures of George Vithoulkas on line!<br />
+&nbsp;<br />
+E-LEARNING PROGRAM will contain many other facilities for the students (moderators will response to your questions, a database for searching to George Vithoulkas&rsquo; books will be offered to you etc.)<br />
+&nbsp;<br />
+There is no question by anyone or quarters that George Vithoulkas is the best educational exponent of Classical Hahnemannian Homeopathy.<br />
+&nbsp;<br />
+If you want to become a successful homeopath the first step is to see this free introduction video.</span><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"></span></strong></strong></span><strong><strong><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Verdana'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;"><br />
+&nbsp;<br />
+<br />
+</span></strong></strong></p>
+<table width="100%" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><div align="center">
+      <embed src=http://video.google.com/googleplayer.swf?docid=-8541490638345636720&hl=en&fs=true style=width:200px; height:200px id=VideoPlayback allowfullscreen=true allowscriptaccess=always type=application/x-shockwave-flash name="VideoPlayback"> </embed>
+    </div></td>
+    <td><div align="center">
+      <embed src="http://video.google.com/googleplayer.swf?docId=3337384948827445392&hl=en&fs=true "style=width:200px; height:200px id=VideoPlayback allowfullscreen=true allowscriptaccess=always type=application/x-shockwave-flash name="VideoPlayback" ></embed>  
+    </div></td>
+    <td><div align="center">
+<embed src="http://video.google.com/googleplayer.swf?docId=-5121874922612511216&hl=en&fs=true "style=width:200px; height:200px id=VideoPlayback allowfullscreen=true allowscriptaccess=always type=application/x-shockwave-flash name="VideoPlayback" ></embed>
+    </div></td>
+  </tr>
+  <tr>
+    <td><div align="center" class="style3"> Phosphorus</div></td>
+    <td><div align="center" class="style3">Platina &amp; Cancer case</div></td>
+    <td><div align="center" class="style3">Arnica</div></td>
+  </tr>
+  <tr>
+    <td><div align="center">
+      <embed src="http://video.google.com/googleplayer.swf?docId=4500007037796538939&hl=en&fs=true "style="width:200px;" height:200px="height:200px" id="VideoPlayback3" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash" name="VideoPlayback" ></embed>
+    </div></td>
+    <td><div align="center">
+      <embed src="http://video.google.com/googleplayer.swf?docId=7741901286414279708&hl=en&fs=true "style="width:200px;" height:200px="height:200px" id="VideoPlayback4" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash" name="VideoPlayback" ></embed>
+    </div></td>
+    <td><div align="center">
+      <embed src="http://video.google.com/googleplayer.swf?docId=1035272114420425449&hl=en&fs=true "style="width:200px;" height:200px="height:200px" id="VideoPlayback5" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash" name="VideoPlayback" ></embed>
+    </div></td>
+  </tr>
+  <tr>
+    <td><div align="center" class="style3">Digitalis</div></td>
+    <td><div align="center" class="style3">Hyoscyamus</div></td>
+    <td><div align="center" class="style3">Pulsatilla</div></td>
+  </tr>
+  <tr>
+    <td><div align="center">
+      <embed src="http://video.google.com/googleplayer.swf?docId=8565583999164494091&hl=en&fs=true "style="width:200px;" height:200px="height:200px" id="VideoPlayback6" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash" name="VideoPlayback" ></embed>
+    </div></td>
+    <td><div align="center"></div></td>
+    <td><div align="center"></div></td>
+  </tr>
+  <tr>
+    <td><div align="center" class="style3">Stramonium</div></td>
+    <td><span class="style6"></span></td>
+    <td><span class="style6"></span></td>
+  </tr>
+</table>
+

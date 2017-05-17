@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL8dbc3ba7bb07d1bd293274ceaea2b315</ID>
+  <patient>
+    <case_date>2014-12-14 10:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Κ.Π.</patient_initials>
+    <age>3</age>
+    <circumstances>ΘΗΛΥ ΤΡΙΩΝ ΕΤΩΝ.&#13;
+ΑΙΤΙΑ ΠΡΟΣΕΛΕΥΣΗΣ:υποτροπιάζουσες εμπύρετες βρογχίτιδες(3),μια ΩΤΙΤΙΔΑ προ μηνός.Η μικρή απο την ηλικία των 10 μηνών περίπου άρχισε ,με την ευκαιρία των ιώσεων,να εμφανίζει βρογχίτιδες.Στην αρχή αντιμετωπiζονταν με σιρόπι asthmotrat και αντιβιοτικά κάποιες φορές,σύντομα ομως χρειάστηκε να λαμβάνει εισπνεόμενα βρογχοδιασταλτικά και μοντελουκάστη</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Απο την έναρξη του παιδικού σταθμού με την ευκαιρία των ιογενών λοιμώξεων,σε έδαφος με κληρονομική προδιάθεση.</origin>
+        <causative_factors>1.κληρονομική επιβάρυνση&#13;
+2.ατομική ευαισθησία</causative_factors>
+        <modalities>Οταν ξαπλώνει ο βήχας χειροτερεύει .Πολλές φορές κάνει εμετό για να ησυχάσει</modalities>
+        <occurrence_time>Χειροτερεύει μολις πέσει για ύπνο,ξυπνάει και μέσα στην νύχτα κάθιδρη,βήχοντας και κλαίγοντας.</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>2-3 φορές το μήνα</appearence_frequency>
+        <pain_desc>νιώθει πόνο στον θώρακα όταν βήχει</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>δεν υπάρχουν</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>aerolin,flixotide,singulair, augmentin, claripen.</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εχει κάνει όλα τα εμβόλια που αναλογούν στην ηλικία της&#13;
+Εχει πάρει εισπνεόμενα βρογχοδιασταλτικά και κορτικοειδή και μοντελουκάστη καθως και αντιβιοτικά</therapies_vaccination>
+          <traumas>δεν υπάρχουν</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Και οι δυο γονείς ειχαν βρογχίτιδες στην παιδική τους ηλικία.&#13;
+Ανάλογο ιστορικό ειχαν και οι παπούδες και οι γιαγιάδες με αναπνευστικά προβλήματα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Μάλλον ζεσταίνεται.&#13;
+Την ενοχλεί ο κρύος υγρός καιρός</reactions>
+        <sleeping_habits>ΥΠΝΟΣ:παραμιλάει(2),κάποτε κλαίει,ξεσκεπάζεται,κοιμάται ακατάστατα,κοιμάται μπρούμυτα,με τα πόδια προς την κοιλιά ή απλωμένα,χέρια στο στήθος,στριφογυρίζει,παλεύει στον ύπνο της.</sleeping_habits>
+        <food_modalities>ΤΡΟΦΙΜΑ:desires:μακάρονια(4),κιμάς(4),αυγό βραστά μελάτο(2),πατάτες τηγανιτές(3),φακές(2),τρώει λίγα φρούτα ,μπανάνα,χυμός πορτοκαλιού,γλυκα(2)&#13;
+Αversions:λαχανικά,σπανακόρυζο,λοιπά όσπρια,&#13;
+ΔΙΨΑ:πίνει αρκετό νερό (2)απο τη βρύση ,μετά το φαγητό,καθώς και όταν ειναι άρρωστη(2)</food_modalities>
+        <menstruation>νήπιο</menstruation>
+      </physical>
+      <mental_emotional>ΠΡΟΣΩΠΙΚΟΤΗΤΑ:&#13;
+δυναμική(3),&#13;
+απαιτητική(3),&#13;
+ατίθαση(2),&#13;
+ευαίσθητη(2)-αν την προσβάλλεις κλαίει(2),&#13;
+-δεν μοιράζεται τα πράγματα της,&#13;
+φτιάχνει ιστορίες με την φαντασία της.&#13;
+ΦΟΒΟΙ:φοβάται το σκοτάδι (1),να κοιμάται μόνη της(1)&#13;
+ΣΥΜΠΕΡΙΦΟΡΑ:κάποιες φορές επιθετική,ιδίως όταν δεν της κάνεις το χατήρι,χτυπάει τα αλλα παιδιά(2),&#13;
+Βαριέται εύκολα(3),της αρέσει να ζωγραφίζει,θέλει μόνο να νικά(3),αλλιώς χτυπά τον συμπαίκτη </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Στο έδαφος μιας οικογενειακής προδιάθεσης και μιας ατομικής ευαισθησίας, εμφανίζει βρογχίτιδες που πυροδοτούνται απο ιώσεις και απο την αλλαγή του καιρού</personal_medical_history>
+        <family_medical_history>Υπάρχει κληρονομική προδιάθεση </family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>ΜΕ ΤΗΝ ΟΡΘΗ ΕΠΙΛΟΓΗ ΟΜΟΙΟΠΑΘΗΤΙΚΟΥ ΦΑΡΜΑΚΟΥ ΘΑ ΒΟΗΘΗΣΟΥΜΕ ΝΑ ΦΥΓΕΙ ΚΑΙ ΤΟ ΣΤΡΩΜΑ ΤΗΣ ΚΛΗΡΟΝΟΜΙΚΗΣ ΕΠΙΒΑΡΥΝΣΗΣ ΤΟΥ ΑΝΑΠΝΕΥΣΤΙΚΟΥ ΠΡΟΒΛΗΜΑΤΟΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>βαριέται εύκολα(3)</peculiar>
+        <intense>1.υποτροπιάζουσες βρογχίτιδες(4)&#13;
+2.ιδρώνει στον ύπνο της(3)&#13;
+3.κοιμάται μπρούμυτα(3)&#13;
+4.αγαπά τα γλυκά(3)&#13;
+5.θυμώνει εύκολα(3)&#13;
+6.βαριεται ευκολα(3)&#13;
+7.κοιμάται σε γονατοαγκωνιαία θέση(3)&#13;
+8.χειροτερεύει με κρύο υγρό καιρό(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>1.chest inflamation bronchitis, children&#13;
+2.personal bronchitis, reccurent&#13;
+3.perspiration, sleep during&#13;
+4.sleep position, abdomen&#13;
+5.sleep position, knee chest&#13;
+6.sweets des&#13;
+7.eggs des&#13;
+8.mind, anger irascibility children&#13;
+9.mind,desire change&#13;
+10.stomach thirst, heat during&#13;
+11.wet  cold weather aggr</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η διαφοροδιάγνωση ειναι ανάμεσα στα:&#13;
+1.TUBERCULINUM BOVINUM&#13;
+2.CALCAREA CARBONICA&#13;
+α.Λόγω των υποτροπιαζουσών βρογχιτίδων,&#13;
+β.του νυκτερινού ιδρώτα,&#13;
+γ.της θέσης του ύπνου,&#13;
+δ.της επιθυμίας για γλυκά,αυγά,&#13;
+ε.της δίψας οταν πυρέσσει,&#13;
+στ.του γεγονότος οτι βαριέται εύκολα και θέλει να αλλάζει.&#13;
+&#13;
+H calc carb εχει αρκετά στοιχεία επίσης,αλλά θα ήταν μια δεύτερη επιλογή(επιθυμία για γλυκά,αυγό,νυκτερινός ιδρώτας,θυμώνει)&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Tuberculinum Bovinum</remedy>
+        <potency>30ch, και 200ch</potency>
+        <regimen>30 ch kai 200 ch απαξ</regimen>
+        <other_notes>είπαμε να επανεκτιμήσουμε την κατάσταση σε ένα μήνα εκτός απροόπτου.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-01-14 12:00:00</followup_date>
+      <conv_med_presc>14-1-15&#13;
+πρωτο follow up&#13;
+&#13;
+Η μικρή ειναι πολύ καλά.Για τα επόμενα δύο 24ωρα μετά την έναρξη της αγωγής έβηχε έντονα. Επειτα ο βηχας της εξαφανίστηκε!.Κοιμάται καλύτερα ,δεν παραμιλάει τόσο στον ύπνο της και γενικά ειναι πιο ήρεμο παιδί.Εξακολουθεί να πηγαίνει στον παιδικό σταθμό χωρίς προβλήματα.&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν δόθηκε φάρμακο</reaction>
+      <analysis>-</analysis>
+      <conclusion>Το TUBERCULINUM BOVINUM ΕΔΡΑΣΕ ΠΟΛΥ ΚΑΛΑ.Περιμένουμε να δούμε τη συνέχεια με τις επόμενες ιώσεις που θα συναντά η μικρή στον παιδικό σταθμό.Οι γονείς ειναι εντυπωσιασμένοι και περιμένουν και εκείνοι με αγωνία να δουν τι θα γίνει στο επόμενο διάστημα.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-03-12 08:00:00</followup_date>
+      <conv_med_presc>δευτερο follow up&#13;
+12-3-15&#13;
+Η μικρή εξακολουθεί να είναι καλά.Πέρασε κάποιες ιώσεις&#13;
+με ήπιες ρινίτιδες χωρις να χρειαστεί να παρει φάρμακο.&#13;
+οι γονείς ΠΑΡΑΤΗΡΗΣΑΝ ΜΙΑ ΑΠΟΦΟΛΙΔΩΣΗ ΣΕ ΟΛΑ ΤΑ ΝΥΧΙΑ ΤΗΣ ,ΠΟΔΙΩΝ ,ΧΕΡΙΩΝ&#13;
+"σαν να άλλαζε νυχια" και λιγες εβδομάδες αργότερα αυτο αποκαταστάθηκε.Εμφάνισε ενα περιστατικό ηπιας βρογχίτιδας που ελ'εγχθηκε γρήγορα με ενα tuberculinum 200ch</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>πήγε σε λίγες ώρες καλά με ενα tuberculinum 200 ch</reaction>
+      <analysis>Η αντίδραση ήταν εξαιρετική και γρήγορη.Το παιδί ειναι σε πολύ καλή γενική καταστάση</analysis>
+      <conclusion>Το τuberculinum  θα βοηθήσει να εξαφανιστεί η ατομική ευαισθησία της με το κατώτερο αναπνευστικό,και να ''διώξει'' απο την μικρή την κληρονομική επιβάρυνση.</conclusion>
+      <repertorization>
+        <desc>reccurent bronchitis children&#13;
+chest inflamation bronchitis children&#13;
+generalities,history of reccurent personal bronchitis</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>tuberculinum bovinum</remedy>
+        <potency>200CH</potency>
+        <regimen>εφ απαξ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-06-18 08:00:00</followup_date>
+      <conv_med_presc>τριτο follow up&#13;
+18 6 15&#13;
+Η μικρη ασθενής ειναι πολυ καλά.&#13;
+Οι βρογχιτιδες της ειναι παρελθόν.&#13;
+Στο μεσοδιάστημα που μεσολάβησε, δεν εχει ξαναπάρει αντιβίωση ή βρογχοδιασταλτικά,ειναι πολυ δραστήριο και χαρούμενο παιδι,οι φοβίες της δεν υπάρχουν.&#13;
+Χρειάστηκε για μια ακομη φορα που εμφάνισε μια&#13;
+ ρινίτιδα με κολλώδη παχύρεστη βλέννη να πάρει kali BICHROMICUM 200chάπαξ .&#13;
+&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ηταν άμεση και αποτελεσματική</reaction>
+      <analysis>-</analysis>
+      <conclusion>Το φάρμακο που αρχικά χορηγήθηκε(tuberculinum bov)ηταν σωστή επιλογή γιατί απομάκρυνε απο την ασθενή το στρώμα της παθολογίας που ειχε κληρονομήσει σχετικά με το αναπνευστικό.Η άμυνα του οργανισμού της ανταποκρίνεται εξαιρετικά στις λοιμώξεις που αφορούν την ηλικία της.&#13;
+Τα προβλήματα που αντιμετώπισε μέχρι στιγμής,ηταν ασήμαντα,δεν χρειάστηκε φάρμακο.</conclusion>
+      <repertorization>
+        <desc>-nose discharges stringy,thick</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>η μικρη εχει αλλαξει επιπεδο υγειας.&#13;
+ΝΟΜΙΖΩ ΠΩΣ ΤΩΡΑ ΕΙΝΑΙ ΣΤΟ LEVEL 2</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

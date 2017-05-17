@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL868a1fd99cd51345f487b59a9df5d23e</ID>
+  <patient>
+    <case_date>2014-01-29 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΡΣ</patient_initials>
+    <age>53</age>
+    <circumstances>60 κιλά, 167 εκ, παντρεμένη, 4 παιδιά, οικιακά </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Διάρροιες 4, από 10 ετίας. 3-4 τη μέρα, μαζί με φουσκώματα, ανάλογα με τη διατροφή και το άγχος. Πολύ περιορισμένη διατροφή με ρύζι και ζυμαρικά μόνο.</origin>
+        <causative_factors>μετά από χορήγηση Augmentin, προ 10 ετίας</causative_factors>
+        <modalities>άγχος 3, τσάι, όσπρια 3</modalities>
+        <occurrence_time>καλυτέρευση ή επιδείνωση χωρίς χρονολογική  συσχέτιση</occurrence_time>
+        <body_side>Κωλικοειδή άλγη 3 στην αριστερή κοιλιακή χώρα 2. Ενίοτε και δεξιά.</body_side>
+        <appearence_frequency>1-2 φορές την εβδομάδα</appearence_frequency>
+        <pain_desc>κωλικοειδές άλγος 3, αριστερά 2, φουσκώματα 2</pain_desc>
+        <complaint_ext>χωρίς επεκτάσεις</complaint_ext>
+        <other_complaints>ψωρίαση τριχωτού κεφαλής, σε ύφεση με τοπικά στεροειδή</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Thyrohormone 75 μg</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>propiosalic τοπικά στο τριχωτό κεφαλής για ψωρίαση, από 8 χρονών</therapies_vaccination>
+          <traumas>όχι ιδιαίτερα</traumas>
+          <infections>παραρινοκολπίτιδα προ 15 ημερών με πυρετό 38,5οC</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατέρας: απεβίωσε 70 χρ, Alzheimer μετά από το θάνατο της συζύγου&#13;
+Μητέρα: απεβίωσε 68χρ, από Χρόνια Νεφρική Ανεπάρκεια μετά από μαστεκτομή για Ca</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει 3, &gt; με ζέστη και ζεστά επιθέματα 2</reactions>
+        <sleeping_habits>κοιμάται πλάι δεξιά 2, ήσυχος ύπνος</sleeping_habits>
+        <food_modalities>Επιθυμίες: αλμυρά 3, λεμόνι 3, λαχανικά 2, ζεστά ροφήματα 2, γλυκά 1&#13;
+Απέχθειες: λίπος 2, τυρί φέτα 3&#13;
+Επιδεινώσεις: κρεμμύδια 3, σκόρδα 2</food_modalities>
+        <menstruation>εμμηνόπαυση από 3 ετίας</menstruation>
+      </physical>
+      <mental_emotional>άγχος 4, ιδίως για την υγεία 3, τη δική της και των δικών της, συμπάσχει 2, ανοικτή 2, τακτική 3, ανήσυχη- κινείται συνέχεια 3, επικριτική 2, φόβος ύψους 2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>4 φυσιολογικοί τοκετοί, ψωρίαση από το δημοτικό, υποθυρεοειδισμός υπό αγωγή, πλευρίτιδα στο γυμνάσιο</personal_medical_history>
+        <family_medical_history>πατέρας Alzheimer, μητέρα Ca μαστού, χρόνια νεφρική ανεπάρκεια. Χωρίς ιστορικό προβλημάτων από το πεπτικό</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Πιθανά 5ο με 6ο επίπεδο υγείας, αφού κάνει ακόμη πυρετούς &gt;38οC. Το πρόβλημα βρίσκεται στο σωματικό επίπεδο και στο συναισθηματικό. Δεν υπάρχει κληρονομικό ιστορικό σε προβλήματα εντέρου.&#13;
+Θα χρειασθούν 1 ή 2 φάρμακα για τη θεραπεία.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>δεν υπάρχουν ιδιαίτερα περίεργα συμπτώματα</peculiar>
+        <intense>άγχος 4, διάρροιες 3, φουσκώματα 3, άγχος για την υγεία 3, τακτική 3, επιθυμεί λεμόνι 3, αλμυρά 3, απέχθεια : τυρί φέτα 3, κρυώνει 3, τακτική 3, ανήσυχη- κινείται συνέχεια 3, επιδεινώσεις: κρεμμύδια 3, σκόρδα 2, επικριτική 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>1. 		RECTUM - DIARRHOEA 	2&#13;
+2. 		RECTUM - DIARRHOEA - heat - external amel. 	2&#13;
+3. 		RECTUM - DIARRHOEA - onions, after 	3&#13;
+4. 		RECTUM - DIARRHOEA - warm - applications amel. 	2&#13;
+5. 		GENERALITIES - COLD - agg. 	3&#13;
+6. 		CHILL - CHILLINESS 	2&#13;
+7. 		GENERALITIES - FOOD and DRINKS - salt - desire 	3&#13;
+8. 		GENERALITIES - FOOD and DRINKS - lemons - desire 	3&#13;
+9. 		GENERALITIES - FOOD and DRINKS - warm drinks - desire 	3&#13;
+10. 		GENERALITIES - FOOD and DRINKS - fat - aversion 	2&#13;
+11. 		GENERALITIES - FOOD and DRINKS - cheese - aversion 	3&#13;
+12. 		MIND - FEAR - high places, of 	2&#13;
+13. 		MIND - ANXIETY - health, about - relatives, of 	2&#13;
+14. 		MIND - ANXIETY - health, about 	3&#13;
+15.            MIND-ANXIETY 4&#13;
+16.           ABDOMEN - PAIN - cramping,griping   3&#13;
+17.           ABDOMEN - FLATULENCE  3&#13;
+18.          MIND - CENSORIOUS, critical  2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Lycopodium: διάρροιες, φουσκώματα, κρυώνει, επιθυμεί ζεστά ποτά. Όμως δεν συμφωνεί η ψυχοδιανοητική εικόνα.&#13;
+&#13;
+Arsenicum: κρυώνει, διάρροιες, φουσκώματα, ανήσυχη, τακτική, επικριτική, άγχος για την υγεία, επιθυμεί λεμόνι. Η εικόνα των σωματικών συμπτωμάτων συμφωνεί με την ψυχοδιανοητική.</remedies_differentiation>
+      <prescription>
+        <remedy>Arsenicum</remedy>
+        <potency>30 CH, 200 CH</potency>
+        <regimen>30 CH, την πρώτη μέρα&#13;
+200 CH, τη δεύτερη μέρα&#13;
+6x από την τρίτη μέρα, για 40 μέρες</regimen>
+        <other_notes>Επιλέγθηκε χαμηλή δυναμοποίηση παρόλο που το φάρμακο δείχνει καθαρή εικόνα, για την αποφυγή έντονης επιδείνωσης (διάρροιες)</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>15/3/2014, Thyrohormone όπως πριν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Οι διάρροιες εμφανίζονται 1-2 στις 15 μέρες. (αραίωσαν) &#13;
+Συνεχίζει να έχει άγχος για την υγεία και να είναι επικριτική. Αντιλαμβάνομαι ότι είναι και τσιγκούνα (3) !. &#13;
+Έχει καλύτερη ενέργεια αλλά θα ήθελε και καλύτερα- μου παραπονείται. Ο χαρακτήρας των συμπτωμάτων είναι ο ίδιος. </reaction>
+      <analysis>Το φάρμακο ήταν σωστό και έδρασε - το βασικό σύμτωμα είναι καλύτερα, η ενέργεια καλύτερα. Το συναισθηματικό επίπεδο δεν έχει επηρεαστεί ακόμη. &#13;
+Στην πορεία εμφανίσθηκαν και κάποια ακόμη επιβεβαιωτικά στοιχεία του φαρμάκου ( μπορεί και να υπήρχαν από πριν και να μην είχαν αποκαλυφθεί)</analysis>
+      <conclusion>καλή αντίδραση</conclusion>
+      <repertorization>
+        <desc>χωρίς αλλαγές - μόνο χαμηλότερης έντασης συμπτώματα</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Arsenicum</remedy>
+        <potency>6x</potency>
+        <regimen>για 2 μήνες</regimen>
+        <other_notes>Θα ήταν αναμενόμενο να επηρεαστεί αργότερα και το συναισθηματικό επίπεδο, αφού τα ψυχοδιανοητικά συμπτώματα εμπίπτουν στην παθολογία του ίδιου φαρμάκου.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up : 20/5/2014 ίδια</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Οι διάρροιες είναι ελάχιστες, ήταν πιο ήρεμη αλλά συμβαίνει τώρα κάτι που την έχει εκνευρίσει: η ψωρίαση στο κεφάλι της έχει επεκταθεί  με κνησμό έντονο (3) και έχει εμφανισθεί και στο σώμα (3) σε σημεία που ποτέ δεν είχε. Έβαλε τοπικά κορτιζόνη, χωρίς καλά αποτελέσματα.</reaction>
+      <analysis>Το φάρμακο συνεχίζει να δρα με πολύ καλά αποτελέσματα αφού εμφανίσθηκε τόσο περιφερικό σύμπτωμα και μάλιστα με τόση ένταση. Ο εκνευρισμός της οφείλεται στη μερική καταπίεση που προσπαθεί να κάνει με την κορτιζόνη.</analysis>
+      <conclusion>Το φάρμακο δρα σωστά και η θεραπεία έχει τη σωστή κατεύθυνση. Της εξηγώ ότι αν διώξει το εξάνθημα με κορτιζόνη θα επιστρεψουν οι διάρροιες και το άγχος.</conclusion>
+      <repertorization>
+        <desc>SKIN - ERUPTION - itching 3, μαζί με το προηγούμενο repertorization.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>τίποτα</remedy>
+        <potency>τίποτα</potency>
+        <regimen>αναμονή</regimen>
+        <other_notes>Έχει τόσο άγχος για την υγεία της και είναι τόσο τυπική που συμορφώνεται. Στοιχεία επίσης επιβεβαιωτικά του Arsenicum</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>follow up: 10/12/14, ίδια αγωγή για το θυρεοειδή</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν έχει πια διάρροιες, κάνει υγιεινή διατροφή αλλά μπορεί να δεχθεί τροφές που πριν δεν μπορούσε. Η ψωρίαση έχει υποχωρήσει κατά 90%, δεν την ενοχλεί, απλά βάζει τοπικά ενυδατική κρέμα. Είναι πιο ήρεμη και ίσως λιγότερο τυπική με τις δουλειές του σπιτιού. Νιώθει καλύτερα στην υγεία της και είναι χαρούμενη.</reaction>
+      <analysis>Πολύ καλή αντίδραση. Έχει βελτιωθεί και το ψυχοδιανοητικό επίπεδο. </analysis>
+      <conclusion>Το φάρμακο έδρασε ολιστικά.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>τίποτα</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

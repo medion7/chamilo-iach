@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELb7a6d1b62dd301e8c4301ff39902b6c9</ID>
+  <patient>
+    <case_date>2015-10-22 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Κ.Δ</patient_initials>
+    <age>34</age>
+    <circumstances>παντρεμενη με 2 παιδια οικοκυρικα</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>τριχοπτωση εδω και ενα χρονο περιπου</origin>
+        <causative_factors>ερωτικη απογοητευση</causative_factors>
+        <modalities>δεν υπαρχουν </modalities>
+        <occurrence_time>το ιδιο συνεχομενα τον τελεθταιο χρονο</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>καθημερινη</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>οχι </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>οχι</conv_med_presc>
+        <lab_tests>
+          <desc>οχι</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εμβολια τα καλσσικα &#13;
+εεπεμβαση για κυστη στον κολπο πριν 6 μηνες</therapies_vaccination>
+          <traumas>επεμβαση για κυστη στον κολπο &#13;
+ερωτικη απογοητευση</traumas>
+          <infections>γριπη με 40 πυρετο πριν 2 μηνες</infections>
+          <other>οχι</other>
+        </personal>
+        <family>
+          <diseases>πατερασ με διαβητη&#13;
+μητερα τιποτα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει 4&#13;
+κρυα χερια ποδια </reactions>
+        <sleeping_habits>κοιμαται με καλτσες </sleeping_habits>
+        <food_modalities>δεν εχει ορεξη να φαει εχει χασει περιπου 10 κιλα τον τελευταιο χρονο &#13;
+γλυκα /παγωτα σοκολατεσ 3&#13;
+απέχθεια στο ψαρι 1</food_modalities>
+        <menstruation>καθε 25 μερες κοκκινο αιμα καθαρο νορμαλ ροη περιπου 5 μερες </menstruation>
+      </physical>
+      <mental_emotional>θρηνη για τον ερωτα της &#13;
+νιωθει ντροπη απογοητευση γιατι δεν νιωθει το ιδιο κ αυτος &#13;
+λιωνει για τον χαμενο ερωτα της</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>φυσιολογικες γεννες&#13;
+επεμβαση για κυστη στον κολπο &#13;
+</personal_medical_history>
+        <family_medical_history>πατερας με διαβητη&#13;
+μητερα τιποτα </family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>υψηλο επιπεδο υγειας</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>θλιψη /ερωτικη απογοητευση 4&#13;
+κρυα 3&#13;
+κρυα χερια ποδια 3&#13;
+τριχοπτωση 3&#13;
+γλυκα 2&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>head hair falling 3&#13;
+mind -fastidious 2general-food and drinks-fish-aversion 1&#13;
+mind-consolation amel 1&#13;
+general-food and drinks-sweets desire 3&#13;
+extremities-coldness-hand 2&#13;
+mind-ailmentsfrom -love;disapointed 4&#13;
+female genitale/sex-tumors-vagina-cyst</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>το ves βγαζει τα παρακατω φαρμακα&#13;
+ιγνατια---δεν εχει κομπο στο λαιμο ,τρωει φρουτα,,δεν αναστεναζει&#13;
+νατρουμ μουριατικουμ--εχει την επιδεινωση με τον ηλιο,απεχθεια στο λιπος,θελει αλμυρα,κλειστη σαν χαρακτηρασ &#13;
+σταφυσαγκρια--της αρεσει το γαλα ,δεν βγαζει κριθαρακι δεν σπανε νυχια ξεσπαει τα βγαζει τα νευρα της θα το πει&#13;
+αουρουμ-δεν εχει την εικονα του αουρουμ ,την μελαγχολια την μουσικη θελει γρηγορη ζωηρη μουσικη δεν εχει σκεψεις αυτοκτονιας</remedies_differentiation>
+      <prescription>
+        <remedy>natrum muriaticum</remedy>
+        <potency>1m</potency>
+        <regimen>once</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-04-01 18:00:00</followup_date>
+      <conv_med_presc>natrum muriaticum 1m</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>βελτιωση ψυχο διαννοητικα &#13;
+τι ηταν αυτο που μου εδωσες!!!!&#13;
+επανηλθαν οι δυναμεισ της νιωθει καλα &#13;
+δεν θρηνει πια συνεχιζει τη ζωη της μπορει να τον δει χωρις ντροπη &#13;
+δεν ειχε αρχικη επιδεινωση&#13;
+επανηλθε η ορεξη της &#13;
+η τριχοπτωση εχει ελλατωθει αλλα δεν εχει σταματησει &#13;
+εκανε γενικη αιματος εχει αναιμια κ χαμηλο φυλλικο θα κανει ενεσεις</reaction>
+      <analysis>φαινεται μια εντυπωσιακη βελτιωση μετα το φαρμακο χωρις αρχικη επιδεινωση γιατι η ασθενης ειναι σε υψηλο επιπεδο υγειας &#13;
+το φαρμακο ηταν το σωστο </analysis>
+      <conclusion>το φαρμακο εχει παρει ολη την εικονα της ερωτικης απογοητευσης η ασθενης νιωθει δυνατη κ καλα &#13;
+σωστο φαρμακο </conclusion>
+      <repertorization>
+        <desc>==</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-07-22 18:00:00</followup_date>
+      <conv_med_presc>νατρουμ μουριατικουμ 1 μ</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>χωρις αρχικη επιδεινωση &#13;
+θεαματικη επαναφορα &#13;
+νιωθει οπως παλια μια χαρα συνεχιζει την ζωη της &#13;
+δεν εχει αλλα προβληματα</reaction>
+      <analysis>φαινεται να το εχει ξεπερασει&#13;
+δεν νιωθει την αναγκη για βοηθεια παραπερα εχει επανελθει στην ζωη της οπως παλια </analysis>
+      <conclusion>το νατρουμ μοθριατικουμ ηταν το σωστο φαρμακο πηρε ολη την εικινα της ερωτικης απογοητευσης κ η ασθενης νιωθει καλα </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>η ασθενης εχει επιστρεψει στη ζωη της &#13;
+αισθανεται ελευθερη απο οτι εγινε δεν θελει παραπερα υποστηριξη</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2016-02-24 18:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2016-02-24 18:00:00</followup_date>
+      <conv_med_presc>-Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>-Please enter Analysis of the reaction</analysis>
+      <conclusion>-Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy-</remedy>
+        <potency>-</potency>
+        <regimen>-Please enter regimen</regimen>
+        <other_notes>-Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>5</number>
+      <followup_date>2016-02-24 18:00:00</followup_date>
+      <conv_med_presc>-Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>-Please enter Analysis of the reaction</analysis>
+      <conclusion>-Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy-</remedy>
+        <potency>-</potency>
+        <regimen>-Please enter regimen</regimen>
+        <other_notes>-Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

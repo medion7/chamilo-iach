@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL33f833acbbd4d461723708e1bd1b807f</ID>
+  <patient>
+    <case_date>2015-06-04 23:55:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Κ.Κ.</patient_initials>
+    <age>32</age>
+    <circumstances>Άγαμος, σε σχέση τα τελευταία 5 χρόνια, 1 αδελφή μεγαλύτερη, Επάγγελμα: μηχανολόγος μηχανικός-εργάζεται στο εξωτερικό</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Η δυσκοιλιότητα ξεκίνησε πριν 2 χρόνια όταν άλλαξε εργασιακό περιβάλλον και ωράριο εργασίας. Ανά περιόδους υπάρχει μεγαλύτερη ή μικρότερη απώλεια αίματος κατά την κένωση με το αίμα να έχει ζωηρό κόκκινο χρώμα. Τα κόπρανα έχουν σκούρο χρώμα και είναι σκληρά.</origin>
+        <causative_factors>Ο ασθενής είχε πάντα τάση για δυσκοιλιότητα. Το πρόβλημα επιδεινώθηκε όταν ξεκίνησε να δουλεύει στην τελευταία του δουλειά. Επειδή άλλαξε το καθημερινό του πρόγραμμα, άλλαξε και η συνήθειά του ως προς την τουαλέτα. Πολλές φορές έχει τάση για αφόδευση στη δουλειά, αλλά ποτέ δεν θα επισκεφθεί την τουαλέτα στον εργασιακό του χώρο.  Δεν πηγαίνει στην τουαλέτα ούτε στο σπίτι του όταν η κοπέλα του εκεί. </causative_factors>
+        <modalities>&lt; καυτερά φαγητά , κόκκινο κρασί, γενικά αλκοόλ&#13;
+</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Κένωση μία φορά ή και δύο την εβδομάδα αλλά μόνο το σαββατοκύριακο που είναι στο σπίτι και μόνο εάν είναι μόνος του</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Δυσκοιλιότητα-Αιμορροΐδες (μία εξωτερική)</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχουν γίνει όλα τα εμβόλια</therapies_vaccination>
+          <traumas>Δεν υπάρχει κάποιο</traumas>
+          <infections>Παρουσιάζει οξέα κάθε 2-3 χρόνια.&#13;
+Μολυσματική τέρμινθος στα 25.</infections>
+          <other>Άφθες και επιχείλιος έρπητας παλαιότερα &#13;
+</other>
+        </personal>
+        <family>
+          <diseases>Η μητέρα έχει επίσης δυσκοιλιότητα και υποθυρεοειδισμό&#13;
+Ο πατέρας έχει αιμορροΐδες.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει (3)</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα. Ο ύπνος δεν ξεκουράζει ιδιαίτερα(2)-Νιώθει ότι θέλει κι άλλο. Βλέπει περιστασιακά όνειρα σχετικά με τη δουλειά του και ξυπνάει αγχωμένος.</sleeping_habits>
+        <food_modalities>Des: ζυμαρικά (3), αλκοόλ (3), ουίσκι (2), τυρί (3), αλμυρά (2), σοκολάτα&#13;
+Avers: βραστό κοτόπουλο(2), γλοιώδη (2)&#13;
+Πίνει σχεδόν 4 λίτρα νερό την ημέρα-όχι κρύο</food_modalities>
+        <menstruation>--</menstruation>
+      </physical>
+      <mental_emotional>Αγχωμένος με τη δουλειά του και το μέλλον του (1). Ζει στο εξωτερικό και του λείπουν οι δικοί του και η κοπέλα του.&#13;
+Άτομο συγκρατημένο που δεν εκφράζεται εύκολα. Εσωστρεφής(2). Τον τελευταίο χρόνο νιώθει να έχει δυσκολία στην συγκέντρωση (2).&#13;
+Φόβοι: δεν υπάρχουν</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η βασική παθολογία είναι στο σωματικό επίπεδο. Το άτομο κάνει οξέα και δεν υπάρχουν συμπτώματα από το ψυχικό ή το νοητικό επίπεδο. Έχει καλή υγεία γενικά. Ο ασθενής βρίσκεται σε παραγωγική ηλικία και το άγχος του δικαιολογείται από το είδος και το περιβάλλον εργασίας του. </personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Το κύριο πρόβλημα δεν είναι σοβαρό παρά του ότι η έντασή του είναι μεγάλη. Το επίπεδο υγείας του είναι υψηλό. Η πρόγνωση είναι καλή. &#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Αδυναμία να πάει τουαλέτα υπό την παρουσία άλλων (4)</peculiar>
+        <intense>Δυσκοιλιότητα(3)&#13;
+Αιμορροΐδες(2)&#13;
+Δυσκολία στη συγκέντρωση(2)&#13;
+Επιθυμία για ζυμαρικά (3), αλκοόλ&#13;
+Απέχθεια σε γλοιώδη</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Βάσει του ιστορικού θα μπορούσε να δοθεί &#13;
+Natrum Muriaticum: λόγω των διατροφικών συνηθειών (ζυμαρικά,αλμυρά, αλκοόλ και avers. στα γλοιώδη), της δυσκοιλιότητας  και της ψυχοδιανοητικής κατάστασης του ασθενούς (εσωστρεφής-συγκρατημένος)&#13;
+Ambra Grisea: λόγω της δυσκολίας στη συγκέντρωση, της δυσκοιλιότητας και των αιμορροΐδων αλλά περισσότερο λόγω του ότι ο ασθενής εκδήλωσε την παθολογία όταν ξεκίνησε τη δουλειά του και ντρεπόταν να πάει τουαλέτα στον επαγγελματικό του χώρο ή όταν η κοπέλα του έμενε στο σπίτι μαζί του.</remedies_differentiation>
+      <prescription>
+        <remedy>Ambra Grisea</remedy>
+        <potency>200ch+1M</potency>
+        <regimen>200 ch/1 caps. την πρώτη μέρα&#13;
+1M/1 caps. τη δεύτερη</regimen>
+        <other_notes>Είναι πολύ πιθανό ότι ο ασθενής κάποια στιγμή θα χρειαστεί το Nat.muriaticum γιατί τα περισσότερα συμπτώματά του ανταποκρίνονται στο φάρμακο αυτό. Ωστόσο προτιμήθηκε η Ambra Grisea στη φάση αυτή λόγω του ότι είναι πολύ έντονο το ιδιαίτερο χαρακτηριστικό: unable to pass stool in presence of others.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-10 19:55:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ασθενής αναφέρει πως έχει πολύ περισσότερη ενέργεια και περισσότερη διαύγεια. Ξεκουράζεται περισσότερο από τον ύπνο και στο διάστημα αυτό δεν είδε όνειρα με τη δουλειά του. Δεν ξύπνησε κατά τη διάρκεια του ύπνου. Η δυσκοιλιότητα είναι καλύτερα. Έχει τάση για αφόδευση τα βράδια που γυρίζει από τη δουλειά- πριν δεν είχε.Η αιμορροΐδα έχει μειωθεί σε μέγεθος. Κρυώνει. Οι διατροφικές συνήθειες είναι οι ίδιες. </reaction>
+      <analysis>Αυτή η αντίδραση ήταν αναμενόμενη καθώς ο ασθενής ανήκει στα ανώτερα επίπεδα υγείας.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Θα πρέπει να περιμένουμε.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-02 20:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ασθενής προσήλθε για την δεύτερη αξιολόγηση μετά από 2 μήνες. Όλο αυτό το διάστημα ήταν καλά. Κένωση 3-4 φορές την εβδομάδα. Αγχώθηκε με κάποια θέματα στη δουλειά του και παρουσίασε επιχείλιο έρπητα που είχε καιρό να βγάλει. </reaction>
+      <analysis>Η καλή πορεία του ασθενούς υποστηρίζεται από τη γενικότερη καλή κατάσταση της υγείας του. Δεν θα χρειαστεί άλλη παρέμβαση.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

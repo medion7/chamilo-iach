@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL41bd7918842254049c24373fcd6731a5</ID>
+  <patient>
+    <case_date>2015-06-04 14:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΚΠ</patient_initials>
+    <age>13</age>
+    <circumstances>ΑΓΟΡΑΚ12ΕΤΩΝ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ 1,5 ΕΤΟΥΣ ΒΡΟΓΧΙΤΙΔΕΣ 1ΕΠΕΙΣΟΔΙΟ ΤΟΝ ΜΗΝΑ ΚΥΡΙΩΣ ΤΟ ΧΕΙΜΩΝΑ</origin>
+        <causative_factors>ΙΩΣΕΙΣ ΠΑΙΔΙΚΟΣ ΣΤΑΘΜΟΣ</causative_factors>
+        <modalities>ΒΗΧΑΣ ΣΤΑ ΠΛΑΙΣΙΑ ΙΩΣΕΩΝ ΚΥΡΙΩΣ ΤΗΝ ΝΥΧΤΑ ΤΟΝ ΧΕΙΜΩΝΑ ΚΑ ΣΤΗΝ ΑΣΚΗΣΗ ΒΕΛΤΙΩΣΗ ΤΟ ΚΑΛΟΚΑΙΡΙ ΦΘΙΝΟΠΩΡΟ</modalities>
+        <occurrence_time>ΤΟ ΧΕΙΜΩΝΑ ΤΗΝ ΝΥΧΤΑ ΣΤΗΝ ΑΣΚΗΣΗ ΒΕΛΤΙΩΣΗ ΚΑΛΟΚΑΙΡΙ ΦΘΙΝΟΠΩΡΟ</occurrence_time>
+        <body_side>ΟΤΑΝ ΒΗΧΕΙ ΠΟΝΑΕΙ ΣΤΟ ΘΩΡΑΚΑ ΔΕΞΙΑ</body_side>
+        <appearence_frequency>1 ΕΠΕΙΣΟΔΙΟ ΒΡΟΓΧΙΤΙΔΑΣ ΠΕΡΙΠΟΥ ΤΟΝ ΜΗΝΑ ΠΟΥ ΔΙΑΡΚΕΙ 10ΠΕΡΙΠΟΥ ΗΜΕΡΕΣ</appearence_frequency>
+        <pain_desc>ΟΤΑΝ ΒΗΧΕΙ ΠΟΝΑΕΙ ΣΤΟΝ ΘΩΡΑΚΑ ΔΕΞΙΑ ΑΝΑΚΟΥΦΙΖΕΤΑΙ ΑΚΟΥΜΠΩΝΤΑΣ ΤΟ ΣΤΗΘΟΣ</pain_desc>
+        <complaint_ext>ΔΕΝ ΥΠΑΡΧΟΥΝ</complaint_ext>
+        <other_complaints>ΜΥΡΜΗΓΚΙΕΣ ΤΟΝ  ΤΕΛΕΥΤΑΙΟ 1,5 ΧΡΟΝΟ ΣΥΧΝΑ ΠΑΡΑΤΡΙΜΜΑΤΑ ΜΕΧΡΙ 3 ΕΤΩΝ.ΡΙΝΙΤΙΔΕΣ ΤΟΝ ΧΕΙΜΩΝΑ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>AEROLIN FLIXOTIDE ΓΙΑ ΣΥΧΝΑ ΕΠΕΙΣΟΔΙΑ ΒΡΟΓΧΙΤΙΔΑΣ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>AEROLIN FLIXOTIDE ΣΥΝΗΘΗΣ ΕΜΒΟΛΙΑΣΜΟΣ</therapies_vaccination>
+          <traumas>ΔΥΣΚΟΛΙΑ ΣΤΗΝ ΠΡΟΣΑΡΜΟΓΗ ΣΤΟ ΣΧΟΛΕΙΟ</traumas>
+          <infections>ΟΣΤΡΑΚΙΑ 3ΕΤΩΝ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ ΣΟΒΑΡΟ ΑΣΘΜΑ ΜΠΑΜΠΑΣ ΥΓΙΗΣ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΑΙΝΕΤΑΙ ΒΕΛΤΙΩΣΗ ΣΤΗΝ ΘΑΛΑΣΣΑ ΤΟΥ ΑΡΕΣΕΙ ΤΟ ΚΟΛΥΜΠΙ ΚΑΙ ΤΟ ΧΕΙΜΩΝΑ</reactions>
+        <sleeping_habits>ΜΠΡΟΥΜΥΤΑ</sleeping_habits>
+        <food_modalities>ΓΛΥΚΑ ΖΥΜΑΡΙΚΑ ΠΑΤΑΤΑΚΙΑ ΜΠΑΝΑΝΑ ΠΟΡΤΟΚΑΛΙΑ ΚΑΙ ΛΕΜΟΝΙΑ ΠΑΓΑΚΙΑ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΣΩΣΤΡΕΦΗΣ ΕΚΡΗΚΤΙΚΟΣ ΠΟΛΛΕΣ ΦΟΡΕΣ ΟΤΑΝ ΔΕΝ ΓΙΝΕΤΑΙ ΤΟ ΔΙΚΟ ΤΟΥ  ΔΥ.ΣΚΟΛΟΣ ΣΤΟΝ ΧΕΙΡΙΣΜΟ ΖΩΗΡΟΣ ΥΠΕΡΚΙΝΗΤΙΚΟΣ ΡΙΨΟΚΙΝΔΥΝΟΣ ΑΓΑΠΑ ΠΟΛΥ ΤΗΝ ΜΗΤΕΡΑ ΤΟΥ ΚΑΙ ΤΟ ΚΑΤΟΙΚΙΔΙΟ ΤΟΥ (ΣΚΥΛΑΚΙ) ΤΟ ΠΑΙΡΝΕΙ ΠΑΝΤΑ  ΜΑΖΙ ΤΟΥ ΚΑΙ ΚΟΙΜΑΤΑΙ ΜΑΖΙ ΤΟΥ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΒΡΟΓΧΙΤΙΔΕΣ ΑΠΟ 1,5 ΕΤΟΥΣ ΠΑΡΑΤΡΙΜΜΑΤΑ ΜΕΧΡΙ ΤΑ 3ΕΤΗ ΡΙΝΙΤΙΔΕΣ ΤΟΝ ΧΕΙΜΩΝΑ ΜΥΡΜΗΓΚΙΕΣ ΑΠΟ 1,5ΕΤΟΥΣ</personal_medical_history>
+        <family_medical_history>ΜΑΜΑ ΣΟΒΑΡΟ ΑΣΘΜΑ</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>ΥΠΑΡΧΟΥΝ ΣΥΜΠΤΩΜΑΤΑ MEDORINUM VERATRUM ΚΑΙ BRYONIA ΑΛΛΑ ΥΠΕΡΤΕΡΕΙ Η ΙΔΙΟΣΥΓΚΡΑΣΙΑ ΤΟΥ MEDORINUM</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar> ΕΠΙΘΥΜΕΙ ΞΙΝΑ 3 ΕΠΙΘΥΜΕΙ ΠΑΓΑΚΙΑ3 ΑΓΑΠΑΕΙ ΠΟΛΥ ΤΗΝ ΘΑΛΑΣΣΑ3 ΑΓΑΠΑΕΙ ΤΟ ΣΚΥΛΑΚΙ ΤΟΥ 3 ΒΗΧΑΣ ΠΟΥ ΑΝΑΚΟΥΦΙΖΕΤΑΙ ΣΥΧΝΑ ΟΤΑΝ ΠΙΕΖΕΙ ΤΟ ΣΤΗΘΟΣ2</peculiar>
+        <intense>ΒΗΧΑΣ4 ΕΠΙΘΥΜΕΙ ΞΙΝΑ ΚΑΙ ΠΑΓΑΚΙΑ3 ΑΓΑΠΑΕΙ ΤΗΝ ΘΑΛΑΣΣΑ3 ΑΓΑΠΑΕΙ ΤΟ ΣΚΥΛΑΚΙ ΤΟΥ3 ΜΥΡΜΗΓΚΙΕΣ3 ΡΙΝΙΤΙΔΕΣ2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>MEDORINUM VERATRUM BRYONIA</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORINUM</remedy>
+        <potency>1M</potency>
+        <regimen>1CAPS 1M</regimen>
+        <other_notes>ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΚΑΘΑΡΟ ΦΑΡΜΑΚΟ ΚΑΛΗ ΠΡΟΓΝΩΣΗ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-30 13:00:00</followup_date>
+      <conv_med_presc>KAMMIA</conv_med_presc>
+      <lab_tests>
+        <desc>ΔΕΝ ΕΓΙΝΑΝ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΤΟ ΠΡΩΤΟ ΒΡΑΔΥ ΕΞΑΡΣΗ ΤΟΥ ΒΗΧΑ .ΤΙΣ ΕΠΟΜΕΝΕΣ ΜΕΡΕΣ ΒΕΛΤΙΩΣΗ .ΤΟΥ ΒΗΧΑ ΚΑΙ ΤΗΣ ΝΕΥΡΙΚΟΤΗΤΑΣ.ΛΟΓΩ ΤΗΣ ΒΕΛΤΙΩΣΗΣ ΚΑΙ ΤΩΝ ΚΑΛΟΚΑΙΡΙΝΩΝ ΔΙΑΚΟΠΩΝ ΔΕΝ ΕΠΑΝΗΛΘΑΝ ΣΕ ΕΝΑ ΜΗΝΑ ΓΙΑ ΤΟ ΠΡΩΤΟ FOLLOW UP. ΤΟΝ ΣΕΠΤΕΜΒΡΗ ΠΗΓΕ ΓΥΜΝΑΣΙΟ ΚΑΙ ΕΧΑΣΕ ΤΟΥΣ ΠΑΛΙΟΥΣ ΤΟΥ ΦΙΛΟΥΣ ΟΠΟΤΕ ΑΥΤΟ ΤΟΝ ΣΤΕΝΑΧΩΡΗΣΕ ΠΟΛΥ .ΠΑΡΟΥΣΑΣΕ ΛΟΙΠΟΝ ΕΠΙΔΕΙΝΩΣΗ ΤΟΥ ΒΗΧΑ ΤΗΣ ΔΕΡΜΑΤΙΤΙΔΟΣ ΚΑΙ ΤΗΣ ΝΕΥΡΙΚΟΤΗΤΑΣ ΟΧΙ ΟΜΩΣ ΣΤΟΝ ΠΡΟΗΓΟΥΜΕΝΟ ΒΑΘΜΟ.</reaction>
+      <analysis>Η ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΚΑΙ Η ΒΕΛΤΙΩΣΗ ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΕΠΙΒΕΒΑΙΩΝΕΙ  ΤΗΝ ΟΡΘΟΤΗΤΑ ΤΟΥ ΦΑΡΜΑΚΟΥ.Η ΜΙΚΡΗ ΥΠΟΤΡΟΠΗ ΤΙΣ ΤΕΛΕΥΤΑΙΕΣ ΜΕΡΕΣ ΑΠΟΔΙΔΕΤΑΙ ΣΤΗΝ ΨΥΧΟΛΟΓΙΚΗ ΠΙΕΣΗ ΛΟΓΩ ΤΗΣ ΑΛΛΑΓΗΣ ΣΧΟΛΕΙΟΥ.ΠΕΡΙΜΕΝΟΥΜΕ ΜΕΧΡΙ ΝΑ ΕΜΦΑΝΙΣΕΙ ΠΛΗΡΗ ΥΠΟΤΡΟΠΗ ΓΙΑ ΝΕΑ ΣΥΝΤΑΓΟΓΡΑΦΗΣΗ.</analysis>
+      <conclusion>ΣΩΣΤΟ ΦΑΡΜΑΚΟ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ Η ΥΠΟΤΡΟΠΗ ΑΠΟΔΙΔΕΤΑΙ ΣΕ ΨΥΧΙΚΟ STRESS ΚΑΙ ΠΕΡΙΜΕΝΩ ΕΑΝ  ΔΕΝ ΥΠΟΧΩΡΗΣΕΙ ΚΑΙ ΓΙΝΕΙ ΠΛΗΡΗΣ ΥΠΟΤΡΟΠΗ ΝΑ ΔΩΣΩ ΝΕΟ ΦΑΡΜΑΚΟ  Η ΤΟ ΙΔΙΟ ΕΑΝ ΤΑ KEY NOTES ΕΙΝΑΙ ΤΑ ΙΔΙΑ.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΚΑΜΜΙΑ.ΑΝΑΜΟΝΗ.</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

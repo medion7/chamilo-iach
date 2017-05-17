@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL48b61dd1c3fd61bf2eef82c416aa0475</ID>
+  <patient>
+    <case_date>2015-12-30 10:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α Χ</patient_initials>
+    <age>46</age>
+    <circumstances>Παντρεμένος, με δύο παιδιά, ιδιωτικός υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Το κύριο ενόχλημα είναι η φαγούρα στον πρωκτό (3), που εμφανίστηκε από τετραμήνου (κυρίως το μεσημέρι και το απόγευμα).&#13;
+</origin>
+        <causative_factors>Έχει πολύ άγχος λόγω του επαγγέλματος της συζύγου, για τους βαθμούς των παιδιών του, για τα δικά του .</causative_factors>
+        <modalities>&lt; ζέστη, ζεστό μπάνιο&#13;
+&gt; κρύα επιθέματα, κρύο μπάνιο</modalities>
+        <occurrence_time>Τα συμπτώματα εμφανίζονται κυρίως το μεσημέρι και το απόγευμα</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Τα συμπτώματα εμφανίζονται σχεδόν καθημερινά</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Δεν έχει πόνο ή δυσκοιλιότητα. Παρατηρεί λιγοστό αίμα όταν σκουπίζεται μετά την κένωση</complaint_ext>
+        <other_complaints>Αυχενικό σύνδρομο, λόγω του βάρους και της μυϊκής καταπόνησης στην εργασία του</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Πήρε αντιβίωση για προστατίτιδα προ 8 μηνών.Λαμβάνει ατορβαστατίνη 20mg.&#13;
+Εφαρμόζει τοπικά σκευάσματα για αιμορροϊδοπαθεια</conv_med_presc>
+        <lab_tests>
+          <desc>Εντός φυσιολογικών ορίων</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Συχνή λήψη αντιβίωσης, λόγω χρόνιας προστατίτιδας (με επασβεστώσεις) - συχνές εξάρσεις και υφέσεις, τελευταία φορά πήρε αντιβίωση πριν από 8 μήνες&#13;
+Έχει κάνει τα συνιστώμενα εμβόλια&#13;
+Ιστορικό αλλεργικού βήχα για τον οποίο πήρε αγωγή και υποχώρησε</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητέρα : Σακχαρώδης διαβήτης τύπου ΙΙ, παροξυσμική κολπική μαρμαρυγή, ήπιο ισχαιμικό ΑΕΕ&#13;
+Πατέρας: πέθανε μάλλον από σήψη, όταν ο ασθενής ήταν βρέφος.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Πιο πολύ κρυώνει (1). Βάζει κάλτσες στον ύπνο, αλλά ενίοτε τις βγάζει. &#13;
+Κάθεται στον ήλιο χωρίς πρόβλημα. &#13;
+Δεν έχει πρόβλημα με τα ρεύματα.&#13;
+Δεν ιδρώνει ιδιαίτερα (κυρίως στο πρόσωπο και τα πόδια, χωρίς ιδιαίτερη οσμή)</reactions>
+        <sleeping_habits>Ύπνος ελαφρύς, μπορεί να σηκωθεί 2-3 φορές. Ξυπνάει πολύ εύκολα και δεν μπορεί να ξανακοιμηθεί. &#13;
+Κοιμάται στη ΔΕΞΙΑ πλευρά (2) (δεν μπορεί να ξαπλώσει για πολλή ώρα αριστερά)&#13;
+Ονειρεύεται ότι τον παίρνουν στο στρατό. Ροχαλίζει.&#13;
+Ο ύπνος δεν αναζωογονεί.</sleeping_habits>
+        <food_modalities>Επιθυμεί: Γλυκά (3),κυρίως σοκολάτα, λίπος (3), μπίρα, ψάρι (3), αβγό (κυρίως τηγανητό)&#13;
+απέχθειες: αλμυρά, καυτερά (1)&#13;
+Τρώει σχεδόν τα πάντα, το φαγητό του αρέσει περισσότερο χλιαρό προς κρύο.&#13;
+Επιθυμεί κρύο νερό (2)</food_modalities>
+        <menstruation>Όλα φυσιολογικά στο σεξουαλικό τομέα</menstruation>
+      </physical>
+      <mental_emotional>Είναι άνθρωπος καχύποπτος, συγκρατημένος, κρατάει τις αποστάσεις του.&#13;
+Ψύχραιμος σε θέματα υγείας, δεν πανικοβάλλεται εύκολα.&#13;
+Δεν έχει άγχος υγείας ούτε για τον ίδιο, ούτε για τους δικούς του. Πιο πολύ αγχώνεται για τα οικονομικά, για την πρόοδο των παιδιών του...&#13;
+Φοβίες: Ύψη (1), νερό (φοβάται τη θάλασσα, ότι θα πνιγεί, είχε ένα επεισόδιο παλαιότερα, βάζει το κεφάλι μέσα, φόβάται το βάθος, δεν πάει εκεί που δεν πατάει),  Αεροπλάνο (1)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Βρογχοπνευμονία όταν ήταν στρατιώτης&#13;
+Χρόνια προστατίτιδα</personal_medical_history>
+        <family_medical_history>Μητέρα: Διαβήτης, και κολπική μαρμαρυγή&#13;
+Πατέρα: Θάνατος από σήψη σε νεαρή ηλικία</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-07-28 20:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELdb14cf9563a505eb157015b39747bb81</ID>
+  <patient>
+    <case_date>2015-02-22 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>M.Z.</patient_initials>
+    <age>53</age>
+    <circumstances>Παντρεμένη με 2 παιδιά, είναι κομμώτρια</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Εξάψεις  από 4ετίας</origin>
+        <causative_factors>Η εμμηνόπαυση</causative_factors>
+        <modalities>Είναι πολύ καλύτερα στον ανοιχτό αέρα, με όσο το δυνατόν λιγότερα ρούχα. Όταν είναι σε κλειστό χώρο χειροτερεύει, ανοίγει τα παράθυρα και  ρίχνει κρύο νερό στο κεφάλι της.&#13;
+</modalities>
+        <occurrence_time>Καλύτερα το χειμώνα που έχει κρύο.&#13;
+</occurrence_time>
+        <body_side>Περισσότερο στο κεφάλι  και κυρίως στο πρόσωπο. &#13;
+</body_side>
+        <appearence_frequency>Πολλές φορές κατά τη διάρκεια της ημέρας ( έως και 30 φορές) </appearence_frequency>
+        <pain_desc>Αρχίζουν με ένα αίσθημα θερμότητας στο κεφάλι στη συνέχεια κοκκινίζει και τέλος ιδρώνει. Η όλη διάρκεια είναι 1 με 2 λεπτά.  &#13;
+Είναι τόσο έντονες οι εξάψεις μερικές φορές και η δυσφορία που νοιώθει που ανοίγει την πόρτα του ψυγείου και βάζει μέσα το κεφάλι</pain_desc>
+        <complaint_ext>Περιορίζεται μόνο στο κεφάλι.</complaint_ext>
+        <other_complaints>Υπέρταση που άρχισε λίγο πριν την εμμηνόπαυση και ρυθμίζεται καλά με τα φάρμακα&#13;
+ισχιαλγία δεξιά λόγω δισκοκοίλης. Την ενοχλεί μερικές φορές και περνά με αντιφλεγμονώδη και ξεκούραση&#13;
+&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Αντιυπερτασικά</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Τα συνήθη εμβόλια </therapies_vaccination>
+          <traumas>Δεν αναφέρει κανένα &#13;
+&#13;
+</traumas>
+          <infections>2 με τρεις φορές τον χρόνο οι συνηθισμένες ιώσεις</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>χωρίς ιδιαίτερα προβλήματα πέραν της υπέρτασης που έχουν και οι δύο που είναι ηλικίας 80 και 78 ετών</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Προτιμά το κρύο και τον καθαρό φρέσκο αέρα.Δεν αντέχει τη ζέστη.&#13;
+ Ακόμα και τον χειμώνα δεν φορά κάλτσες.</reactions>
+        <sleeping_habits>Κοιμάται αριστερά πλάγια. Κοιμόταν πολύ καλά μέχρις ότου άρχισαν οι εξάψεις και λόγω αυτών αναγκάζεται να ξυπνά και να σηκώνεται κατά τη διάρκεια της νύχτας. Λόγω αυτών είναι κουρασμένη το πρωί</sleeping_habits>
+        <food_modalities>Πίνει αρκετό νερό  θερμοκρασίας δωματίου. Ιδιαίτερη όρεξη για γλυκά  και ζυμαρικά . Όχι κρεμμύδια , την ενοχλούν</food_modalities>
+        <menstruation>Τώρα δεν έχει . Όταν είχε περίοδο  ήταν κανονική κάθε μήνα με διάρκεια 3-4 ημερών, με  κεφαλαλγία λίγες μέρες πριν να έρθει και με σταμάτημα του πονοκεφάλου όταν ερχόταν η περίοδος</menstruation>
+      </physical>
+      <mental_emotional>Όχι φοβίες . Πολύ άγχος για την υγεία της και των δικών της (γονείς και παιδιά) .Τρέχει αμέσως στο Νοσοκομείο. Έχει την αίσθηση ότι κάτι κακό θα συμβεί και είναι ανήσυχη.&#13;
+Έχει πολλές φίλες , είναι κοινωνική, το κέντρο της παρέας και όλοι  υπολογίζουν την γνώμη της αν και μερικές φορές της προσμετρούν ότι δεν αφήνει τους άλλους να μιλήσουν. Παραδέχεται ότι είναι πολυλογού &#13;
+Δεν ενδιαφέρεται τελευταία για το sex, παλαιά πολύ και ζήλευε πολύ τον άνδρα της, τώρα λιγότερο και κάνει έρωτα όχι από επιθυμία αλλά από φόβο μήπως την απατήσει αν του πει ότι δεν ενδιαφέρεται&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Χωρίς σημαντικά προβλήματα, σπάνια εμπύρετα. Φανερώνουν ότι η ασθενής ανήκει σε ψηλό επίπεδο υγείας.</personal_medical_history>
+        <family_medical_history>Κανένα κληρονομικό ιστορικό που να επιβαρύνει τηνπρόγνωση</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Η διαταραχή εντοπίζεται στο σωματικό επίπεδο χωρίς να έχει mental και emotional συμπτώματα .&#13;
+Ψηλό επίπεδο υγείας και όχι κληρονομική προδιάθεση&#13;
+Καλή πρόγνωση</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Φόβος πως κάτι κακό θα συμβεί (2)&#13;
+Εξάψεις με εφίδρωση στο κεφάλι (3)&#13;
+Επιθυμεί φρέσκο καθαρό αέρα (3)</peculiar>
+        <intense>Επιθυμία για γλυκά(3)&#13;
+Επιθυμία για ζυμαρικά (2)&#13;
+Επιδείνωση από τα κρεμμύδια (2)&#13;
+Ζηλεύει αρκετά τον άνδρα της (2)&#13;
+Αδιαφορία για το σεξ (2)&#13;
+Πολυλογού(2)&#13;
+Κόμπο στο λαιμό που την πνίγει (2)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>1. Head -heat flashes of (3)&#13;
+2.Generalities air open desire to (2)&#13;
+3.Generalities flushes of from upper part (2)&#13;
+4.Generalities sweets desire (3)&#13;
+5. Gener. pastry desire (2)&#13;
+6.Gener, onions avertion (2)&#13;
+7.Gener, sleep position side on left (2)&#13;
+8.Gener. hypertention (2)&#13;
+9.Mind fear happen something (bad) will (3)&#13;
+10.Mind jealousy (2)&#13;
+11. Mind  loquacity (2)&#13;
+12 Genitalia coitio sex avertion to (1)&#13;
+&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>1. Αmyl nitrosum &#13;
+2.lachesis &#13;
+Υπέρ του amyl nitrosum είναι:a η εντόπιση των εξάψεων στο κεφάλι.&#13;
+                                            b ο φόβος πως κάτι κακό θα συμβείη&#13;
+Υπέρ του lachesis  a η φλυαρία&#13;
+                            b η ζήλια&#13;
+                            c η επιθυμία για αμυλώδεις τροφές&#13;
+Δεν έχει φόβο για φίδια, κοιμάται πάντα αριστερά χωρίς πρόβλημα</remedies_differentiation>
+      <prescription>
+        <remedy>Amyl nitrosum</remedy>
+        <potency>1M</potency>
+        <regimen>εφάπαξ</regimen>
+        <other_notes>Το φάρμακο είναι πολύ καθαρό &#13;
+Το lachesis που έρχεται δεύτερο δεν επιβεβαιώνεται ( δεν φοβάται καθόλου τα φίδια, κοιμάται κυρίως αριστερά )</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>καμία </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>30/3/15&#13;
+Πολύ περισσότερες εξάψεις από την επόμενη μέρα για 2 ημέρες. Μετά σταδιακή βελτίωση έτσι ώστε τώρα η συχνότητα να έχει πέσει στις 3 με 4 φορές το εικοσιτετράωρο και με μικρότερη ένταση.&#13;
+Κοιμάται καλύτερα και έχει περισσότερη ενέργεια</reaction>
+      <analysis>Η αρχική επιδείνωση με την σταδιακή βελτίωση στο σύμπτωμα και η βελτίωση στο ενεργειακό επίπεδο επιβεβαιώνουν το ψηλό επίπεδο υγείας της ασθενούς όπως και το φάρμακο</analysis>
+      <conclusion>Καλή ανταπόκριση στο φάρμακο σε όλα τα επίπεδα.Περιμένουμε&#13;
+</conclusion>
+      <repertorization>
+        <desc>όχι</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>κανένα</remedy>
+        <potency>καμια</potency>
+        <regimen>οχι</regimen>
+        <other_notes>Επανεκτίμηση σε 2μήνες</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>όχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>20/6/15&#13;
+Η βελτίωση συνεχίστηκε όλο το χρονικό διάστημα και τώρα σπάνια έχει εξάψεις. &#13;
+Κοιμάται πολύ καλά,έχει ενέργεια&#13;
+Δεν έχει απέχθεια για το sex που είχε</reaction>
+      <analysis>Συμπληρώθηκε η δράση του φαρμάκου σε όλα τα επίπεδα &#13;
+φυσικό: δεν έχει εξάψεις&#13;
+emotional: όχι απέχθεια για sex&#13;
+mental: καλός ύπνος γεμάτη ενέργεια </analysis>
+      <conclusion>περιμένουμε. Η διάρκεια του φαρμάκου μπορεί να κρατήσει για μεγάλο χρονικό διάστημα</conclusion>
+      <repertorization>
+        <desc>Δεν χρειάζεται</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>όχι</remedy>
+        <potency>όχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>δεν χρειάζεται να επανέλθει εκτός και προκύψει κάποιο πρόβλημα</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

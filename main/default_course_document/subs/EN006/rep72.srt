@@ -1,0 +1,169 @@
+1
+00:00:19,488 --> 00:00:31,800
+-When you are using the VES system comes out easier. How did you develop the VES system?
+
+2
+00:00:39,520 --> 00:00:48,651
+-I'll tell you the rules I developed the VES.
+
+3
+00:00:51,915 --> 00:01:31,915
+I developed this expert system through two basic rules. One was enthusiasm, the second was knowledge of what I was doing while I was treating a case. Two basic rules.
+
+4
+00:01:35,925 --> 00:02:00,420
+And some details now. The Namur University from Belgium, they approach me, the people from the University and they said, we have done a preparation for 7 years with a team of programmers
+
+5
+00:02:00,520 --> 00:02:09,696
+for an expert system to be built on the basis on which we have put in the computer.
+
+6
+00:02:11,232 --> 00:02:22,347
+You are interested to make an expert system? I said, no I don't believe that any computer can come out with correct remedy.
+
+7
+00:02:23,560 --> 00:02:29,493
+Because flat repertorization, most of the remedies etc. I said, this doesn't work.
+
+8
+00:02:30,667 --> 00:02:41,397
+They said no. We are going to program your way of thinking and put it into computer.
+
+9
+00:02:42,600 --> 00:02:51,872
+I said, what is this? You sell my brain later on.
+
+10
+00:02:52,469 --> 00:02:59,680
+But it's OK, if this works, I will give you the information. What do you want to know?
+
+11
+00:03:00,832 --> 00:03:09,216
+And there was a team of programmers and they start asking questions. What you would do in this case? What would you do in that case?
+
+12
+00:03:10,389 --> 00:03:23,160
+And I was telling them. How do you think? What is this and that? I was giving the answers and they were writing down some mathematical equations, as I was talking.
+
+13
+00:03:23,960 --> 00:03:40,064
+I said, what are you writing down there? They said, you talk, you tell us. Why you did not give in this case Sulphur that was covering most of the symptoms and you gave Lachesis that was covering this.
+
+14
+00:03:40,917 --> 00:03:52,680
+I explained to them and then at a certain moment I understood, more or less, what they wanted. This was going on for one and a half year.
+
+15
+00:03:53,269 --> 00:04:03,808
+In the end to speed up the process, I said OK I will give you the rules, after that.
+
+16
+00:04:04,560 --> 00:04:16,337
+You give this and that and points this and that and I gave all the rules which took one and a half year, which you asked me to tell you now.
+
+17
+00:04:16,437 --> 00:04:30,620
+After I had given all the rules honestly I could not remember myself what I was telling all this time. It was not possible to remember all the rules.
+
+18
+00:04:30,720 --> 00:04:40,459
+But they had written them down. So where was now the proof, if this was really an expert system? Yes or no?
+
+19
+00:04:43,339 --> 00:04:50,620
+After they finished, they asked me to bring 3 cases to test that you have treated.
+
+20
+00:04:50,720 --> 00:05:08,880
+One case of trigeminal neuralgia I've given Verbascum but the doctor has given me 25-30 symptoms. But I prescribed Verbascum on 3 keynotes, I can't remember now.
+
+21
+00:05:10,347 --> 00:05:24,384
+I take this case, I say it is not possible that the computer will tell me, will choose a remedy Verbascum, it's not possible because they were 17 others before Verbascum.
+
+22
+00:05:24,840 --> 00:05:35,861
+So I took a case of Nux Vomica and a case of Natrum Muriaticum that were chosen mostly on keynotes.
+
+23
+00:05:37,120 --> 00:05:49,835
+Because it was the first. I think the Natrum Muriaticum case had about 40 symptoms.
+
+24
+00:05:50,731 --> 00:06:04,967
+They try to put it in the computer. By that time  there was the computer like this door, big. The computer breaks down because the calculations were too many to bring out...
+
+25
+00:06:05,067 --> 00:06:25,319
+So it breaks down, it stops. Now what we do? The Professor of Namur University is there, the students who are the associates, the man who had financed this project, myself, the programmers together with me... broke down.
+
+26
+00:06:25,419 --> 00:06:39,200
+We go to the next room, we open the bigger computer... The computer says, this is a case of Natrum Muriaticum.
+
+27
+00:06:40,200 --> 00:06:49,035
+I said, OK maybe I brought an easy case.
+
+28
+00:06:52,085 --> 00:07:04,721
+Let's see. Put this case. I read the symptoms of the case, they put them, I choose Verbascum.
+
+29
+00:07:04,821 --> 00:07:14,507
+The computer says the remedy is Verbascum. I couldn't believe it myself, how is that possible?
+
+30
+00:07:15,019 --> 00:07:28,800
+How the hell out of 32 symptoms, Verbascum covered only 5 symptoms. How it was possible this bloody computer would say, this is the remedy?
+
+31
+00:07:29,376 --> 00:07:47,189
+In the meantime when the second remedy was found, the Professor said to the secretary go and bring champagne to celebrate, because he did not believe that out of 3 cases, 2 were correct.
+
+32
+00:07:47,960 --> 00:08:02,187
+We put the third case, it was Nux Vomica... Nux Vomica is the case with great certainty. Because we had certainty values, you will see still is there.
+
+33
+00:08:03,168 --> 00:08:16,209
+It was a great excitement and the Professor says, I could never believe that the system could work.
+
+34
+00:08:16,309 --> 00:08:26,193
+Because if there was any mistake in any place, the calculations would be upside down, would not bring out the real.
+
+35
+00:08:26,293 --> 00:08:39,313
+That means they had programmed, as I have said exactly my thinking, in this Repertory. It's not so easy to duplicate and give you all the rules.
+
+36
+00:08:39,413 --> 00:08:54,155
+What I can give you is that one and a half year we met together and I said OK. If you manage to duplicate my brain, you can sell it.
+
+37
+00:08:58,443 --> 00:09:12,935
+But still what we were working in 1990 it was different than all this rubbish that has been added into the last.
+
+38
+00:09:13,035 --> 00:09:21,547
+They put all these imaginations and all these remedies and of course the system is upside down now.
+
+39
+00:09:22,507 --> 00:09:27,819
+-What do you say about the (?) parts in the Repertory?
+
+40
+00:09:36,600 --> 00:09:50,033
+-Which Repertory?
+-The Synthesis, it says that in (?) is a confirmed symptom.
+
+41
+00:09:50,133 --> 00:10:12,832
+-He is asking whether (?) information was reliable. Yes (?) was one of those people who practiced (?) Homeopathy and was able to give some confirmations or some additions.
+
+42
+00:10:13,856 --> 00:10:15,300
+He was a very good homeopath.
+

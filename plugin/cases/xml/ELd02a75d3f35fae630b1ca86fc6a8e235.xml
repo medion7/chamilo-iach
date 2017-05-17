@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd02a75d3f35fae630b1ca86fc6a8e235</ID>
+  <patient>
+    <case_date>2015-04-06 20:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α.Α.</patient_initials>
+    <age>59</age>
+    <circumstances>παντρεμένη, έχει 3 παιδιά, συνταξιούχος φιλόλογος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>κατάθλιψη από το 2004</origin>
+        <causative_factors>οικογενεικά προβλήματα</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>χρόνιο πρόβλημα</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>άλγος στα κάτω άκρα περισσότερο δε (κοίλες στην οσφύ) περιστασιακά&#13;
+άλγος στον αντίχειρα περιστασιακά&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Tildiem 200mg 1x1&#13;
+Karvzide 300/12,5mg 1x1&#13;
+Effexor 75mg&#13;
+T4 200mcg&#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>δε θυμάται τα φάρμακα που έχει πάρει - τελευταία φορά πριν 8 χρόνια</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>όλα τα παιδικα εμβόλια που προβλέπονται από το ΕΣΥ&#13;
+Tildiem από 42 ετών&#13;
+Karvzide από 42 ετών&#13;
+Effexor από το 2005&#13;
+ραδιενεργό ιώδιο προ 3ετίας</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>ερυθρά, ιλαρά, ανεμεβλογιά, παρωτίτιδα στο δημοτικό</infections>
+          <other>σκωλ/μή 2,5 ετών&#13;
+αδενοειδεκτομή 5 ετών&#13;
+αμυγδ/μή 19 ετών&#13;
+θρόμβωση στο μάτι 42 ετών&#13;
+θυρεοειδεκτομή προ 3ετίας&#13;
+χολοκ/μή προ έτους (μετά από 1 επεισόδιο παγκρεατίτιδας και 1 χολαγγειίτιδας)&#13;
+ινομύωμα μήτρας 3εκ&#13;
+φλεβική ανεπάρκεια&#13;
+δυσκοιλιότητα&#13;
+κάνει ήπια οξέα&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>πατέρας απεβίωσε στα 74 (ΧΑΠ)&#13;
+μητέρα απεβίωσε στα 84 (ΑΕΕ,έμφραγμα, Κ.Μ.) </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταίνεται πολύ (το χειμώνα βγάζει το μπουφαν) - δεν αντέχει τους αποπνικτικούς χώρους&#13;
+&gt; με την υγρασία &#13;
+&gt; στον ανοιχτό αέρα </reactions>
+        <sleeping_habits>καλός ύπνος&#13;
+βλεπει στενάχωρα όνειρα,κάποιες φορές τα θυμάται&#13;
+κανονικά κοιμόταν δε,αλλά επειδή πιάνεται το πόδι γυρνά αρ&#13;
+αγαπημένη στάση μπρούμητα,αλλά της πιάνεται η μέση&#13;
+ξεσκεπάζεται στον ύπνο γιατί ζεσταίνεται </sleeping_habits>
+        <food_modalities>επιθυμίες = πολύ τα γλυκά, καφές, γάλα&#13;
+απέχθειες = ζεστά ροφήματα</food_modalities>
+        <menstruation>στα 54 ξεκίνησε η εμμηνόπαυση&#13;
+εδώ και 2-3 χρόνια όχι σεξουαλική επιθυμία</menstruation>
+      </physical>
+      <mental_emotional>κλαίει&#13;
+ανασφάλεια&#13;
+ζήλια&#13;
+δε θέλει να κοροιδεύει τους άλλους&#13;
+θέλει να κλαίει μόνη,δε θέλει παρηγοριά πλέον&#13;
+επηρεάζεται εύκολα από καταστάσεις&#13;
+τακτική&#13;
+δεν μπoρεί την αδικία και την αχαριστία&#13;
+νιώθει οτι καταπιέζεται&#13;
+κάνει χιούμορ, η ψυχή της παρέας&#13;
+ντρέπεται να λέει οτι παίρνει το Effexor&#13;
+βαρεμάρα&#13;
+φοβάται για τη υγεία των παιδιών της, τον πόνο, τους σεισμούς, τα κύματα στη θάλασσα</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>θετικά στοιχεία = κοινωνική και ανοιχτή, εκφράζει τα προβλήματα της, κάνει ακόμη ήπια οξέα&#13;
+αρνητικά στοιχέια = πολύ επιβαρυμένο ατομικό ιστορικό, ψυχοδιανοητικά συμπτώματα&#13;
+δύσκολη περίπτωση, όμως ο οργανισμός έχει ακόμη αποθέματα και με τη σωστή χρόνια ομοιοπαθητική θεραπεία έχει πιθανότητες να πάει καλά και να ανεβεί επίπεδο υγείας</personal_medical_history>
+        <family_medical_history>σχετικά επιβαρυμένο</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>δύσκολη περίπτωση, όμως ο οργανισμός έχει ακόμη αποθέματα και με τη σωστή χρόνια ομοιοπαθητική θεραπεία έχει πιθανότητες να πάει καλά και να ανεβεί επίπεδο υγείας&#13;
+Επίπεδο Υγείας = 7-ανώτερα επίπεδα του 8</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>&gt; με τη συννεφιά 1&#13;
+ξεσκεπάζει τα πόδια στον ύπνο 3&#13;
+δεν αντέχει τους κλειστούς αποπνικτικούς χώρους 3&#13;
+φοβάται τον πόνο 2&#13;
+κάνει χιούμορ, η ψυχή της παρέας 1&#13;
+απεχθάνεται τα ζεστά ροφήματα 3&#13;
+φόβος για την υγεία των παιδιών της 2&#13;
+φοβάται τους σεισμούς 2&#13;
+&gt; με την υγρασία 1</peculiar>
+        <intense>κατάθλιψη - κλαίει 3&#13;
+επηρεάζεται εύκολα από το περιβάλλον - ευαίσθητη 3&#13;
+ζήλεια 1&#13;
+επιθυμεί γλυκά 3&#13;
+ανασφάλεια 1&#13;
+&gt; στον ανοιχτό αέρα 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Α.Α.1.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>δ.δ. Puls, Phos, Sulph, Arg-n, Lyc, Med&#13;
+τα 2 φάρμακα που έψαξα πιο πολύ γιατί μου ταιριάζουν είναι η Puls και ο Phos &#13;
+&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Pulsatilla</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>η εικόνα είναι μετρίως καθαρή. &#13;
+Επέλεξα την Pulsatilla γιατί ταιριάζει πιο πολύ στα ψυχοδιανοητικά και συμπληρώνεται η εικόνα από τα γενικά συμπτώματα που έχει</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-26 20:50:00</followup_date>
+      <conv_med_presc>ίδια</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>για κάποιο χρονικό διάστημα μετά το φάρμακο είχε όρεξη να κάνει δουλειές-δραστηριότητα και ήταν βελτιωμένη σε όλα τα επίπεδα.&#13;
+δε φοβάται πλέον μην κλάψει&#13;
+ζεσταίνεται λιγότερο&#13;
+δεν ντρέπεται που παίρνει το Effexor&#13;
+φοβάται τα κύματα λιγότερο</reaction>
+      <analysis>δεν είχε αρχική επιδείνωση και υποτροπίασε με την ίδια εικόνα&#13;
+εφόσον παρουσίασε βελτίωση θα συνταγογραφήσω το ίδιο φάρμακο σε διαφορετική δυναμοποίηση</analysis>
+      <conclusion>θα συνταγογραφήσω το ίδιο φάρμακο σε διαφορετική δυναμοποίηση</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Α.Α.-2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Pulsatilla </remedy>
+        <potency>30CH</potency>
+        <regimen>7 caps 1x1 κάθε μέρα</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-02 19:00:00</followup_date>
+      <conv_med_presc>ίδια</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>τη 2η-3η μέρα αφού πήρε το 1ο φάρμακο την έπιανε πονοκέφαλος κάθε απόγευμα για 4-5 μέρες&#13;
+κάποιες φορές κοιμάται ανάσκελα (πιθανό prooving)&#13;
+σκέφτεται το παρελθόν και νευριάζει,ενώ κάπου το είχε θάψει μέσα της&#13;
+δε νιώθει καταπιεσμένη&#13;
+κοιμάται και ξυπνάει καλά&#13;
+τούρμπο ενεργειακά &#13;
+δεν της έρχεται να κλάψει, είναι καλά ψυχολογικά&#13;
+στενοχωριέται όταν στενοχωριούνται τα παιδιά της&#13;
+ζηλεύει λιγότερο, όσο πάει και αδιαφορεί&#13;
+φοβάται μη μείνει μόνη της</reaction>
+      <analysis>πολύ καλή αντίδραση, γιατί είχε αρχική επιδείνωση με επακόλουθη βελτίωση</analysis>
+      <conclusion>σωστό φάρμακο και σωστή δυναμοποίηση&#13;
+θα περιμένω και θα δώσω placebo</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Α.Α.-3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

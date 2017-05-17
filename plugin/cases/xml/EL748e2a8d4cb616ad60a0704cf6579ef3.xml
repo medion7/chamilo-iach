@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL748e2a8d4cb616ad60a0704cf6579ef3</ID>
+  <patient>
+    <case_date>2014-10-29 12:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>KΓ</patient_initials>
+    <age>70</age>
+    <circumstances>Επάγγελμα ναυτικός-λιμενάρχης&#13;
+ΠΑΝΤΡΕΜΕΝΟΣ ΧΩΡΙΣ ΠΑΙΔΙΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+Χρόνια ρινοφαρυγγίτιδα(3), με πρωινές βλέννες&#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+Άγνωστοι δεν το συνδιάζει με τίποτα </causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+&#13;
+Η υγρασία και το ρεύμα αέρος</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+&#13;
+&lt; το πρωί όταν ξυπνήση οι βλέννες(3) στην αρχή άσπρες μετά κίτρινες </occurrence_time>
+        <body_side>Please enter side of the body&#13;
+Και από τις 2 ρινικές κοιλότητες</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+&#13;
+Κάθε μέρα</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+Δεν πονάει</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+-</complaint_ext>
+        <other_complaints>Κάτω από την αριστερή  πατούσα πάτησα ένα χαλικάκι και έβγαλα πολλά οζίδια σκληρά χωρίς υγρό και τα καυτηρίασα, έχω μυκητιάσεις(3) στα δάκτυλα των  ποδιών και των χεριών&#13;
+Στον Παναμά όταν ταξίδευα έπαθα αλλεργία από κάτι ψάρια πού έφαγα και παραλίγο να πεθάνω &#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+ΔΕΝ ΠΑΙΡΝΕΙ</conv_med_presc>
+        <lab_tests>
+          <desc>ΔΕΝ ΕΧΕΙ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΥΠΑΡΧΟΥΝ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+Ολους τους εμβολιασμούς όταν ήταν μικρός&#13;
+Αντιβιώσεις στα χειρουργεία που έκανε</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+&#13;
+Συναισθηματικά τραύματα από ένα πατέρα σατράπη που με έσπαζε στο ξύλο, έφυγα για να γλυτώσω&#13;
+Πολύ κακή σχέσει με την γυναίκα του η οποία τον βρίζει καθημερινά.Δεν χωρίζει γιατί αυτή έχει αναπηρία και την λυπάτε</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+&#13;
+Από μικρός είχα αμυγδαλίτιδες(3)  λαρυγγίτιδες(3</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+&#13;
+Πατέρας προστάτη, Μητέρα και όλο το σόι της είχε κοίλες ,σκωληκοειδίτιδα, νεφρική ανεπάρκεια, χοληστερίνη αλλά πέθαναν σε μεγάλη ηλικία</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεστή ιδιοσυστασία (1)&#13;
+ </reactions>
+        <sleeping_habits>Κοιμάμαι καλά, ,στο πλάι δεξιά και μπρούμυτα, ροχαλίζω λίγο, βλέπω ωραία όνειρα, τα πόδια μου είναι παγωμένα , ιδρώνω μερικές φορές  γύρο στο λαιμό και στο στήθος</sleeping_habits>
+        <food_modalities>Γάλα(3) αυγά(1) κρέας (1), ψάρια (3) χορταρικά (3) όσπρια(3) καυτερά (3) γλυκά (3) κρασί(1) ,λεμόνι (2) αλάτι κφ λίπος όχι,, αδιψία&#13;
+Σοκολάτα(2) φρούτα(2) σκληρά &#13;
+</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+Μνήμη καλή ,όλα τα  mental φυσιολογικά&#13;
+ΦΟΒΙΕΣ Καμιά&#13;
+προοδευτικός ,ριψοκίνδυνος(2), προσεχτικός  οργανωτικός(2), τελειομανής(2), θυμώνω(1) εύκολα πχ όταν οδηγώ και με εκνευρίζουν δεν συγκρατιέμαι φωνάζω αλλά δεν βρίζω ποτέ, συχωρώ (3)εύκολα τους ανθρώπους δεν έχω κακία&#13;
+Ερωτεύομαι (3)συχνά τα πάντα , αγαπώ(3) πολύ δεν μπορώ την αχαριστία και την αδικία(3) ,προστατεύω τους άλλους αν κινδυνεύουν η αν αδικηθούν, γράφω ποιήματα ζωγραφίζω,  επιθυμία για sex (2) ,   νοιάζομαι(2) για τους άλλους και το κάνω δικό μου, κλαίω αν συγκινηθώ. Εμπιστεύομαι(3) δύσκολα ,φοβάμαι μη με προδώσουν, δεν λέω τα προβλήματά μου  τα μυστικά μου τα ξέρει ένας γλάρος και η θάλασσα. Κάθε μέρα χειμώνα καλοκαίρι  από το πρωί μέχρι το βράδυ  είμαι στην θάλασσα και όλα μου περνούν ,όταν πάω σπίτι αρρωσταίνω. Με την γυναίκα μου έχω κακή σχέση είναι σκληρή αυταρχική δεν έχει αισθήματα γιαυτό είμαι όλη μέρα στη θάλασσα. Μου αρέσει ο ήλιος(4) ,η θάλασσα(4) το βουνό  (3)&#13;
+Με λένε ιδιότροπο γιατί προσέχω τι τρώω, αθλούμαι, είμαι όλη μέρα στη θάλασσα αντί να είμαι στις ταβέρνες&#13;
+&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+Πριν 10 χρόνια προστατίτιδα(3), οίδημα στους όρχεις(2) πριν 5 χρόνια&#13;
+Έχει κάνει πολλές εγχειρίσεις &#13;
+ 1)σκωληκοειδίτιδα πριν 30 χρόνια&#13;
+2) βουβωνοκήλη  επτά φορές,&#13;
+3)δισκοκήλες,&#13;
+4) θυρεοειδεκτομή&#13;
+</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+Πατέρας προστάτη, Μητέρα και όλο το σόι της είχε κοίλες ,σκωληκοειδίτιδα, νεφρική ανεπάρκεια, χοληστερίνη</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+Η πρόγνωσή του είναι καλή γιατί δεν έχει κληρονομική επιβάρυνση ως προς το βασικό του πρόβλημα που είναι η ρινοφαρυγγλιτιδα με τις πρωινές βλέννες.Αποφεύγει τα χημικά φάρμακα αρα δεν παίρνει φάρμακα τα οποία να επειραιάσουν την ομοιοπαθητική θεραπεία και να χαμηλώνουν το επίπαδο υγείας του&#13;
+Ως προς το θέμα με τον προστάτη εδώ ισως να μην πάει πολύ καλά λόγω της κληρονομικότητας αλλά επειδή το φάρμακο ε'ιναι ξεκάθαρο η πρόγνωση είναι καλή&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+&#13;
+Δεν έχει κανένα περίεργο σύμπτωμα</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+&#13;
+ήλιος(4) ,η θάλασσα(4) το βουνό  (3) Ερωτεύομαι (3)&#13;
+αδικία(3) βλέννες ρινικές (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Στην επιλόγή του φαρμάκου στηρίζωμαι στην μελάλη αγάπη του για την  θάλασσα(4) η θάλλασα είναι το φάρμακό του και της ψυχής και του σώματος γιαυτό χειμώνα καλοκαίρι περνά όλη του την μέρα στην θάλασσα, η μεγάλη ευαισθησία στα βότσαλα, η θέση υπνου του και ο ερωτικός του χαρακτήρας δεν αφήνει άλλα περιθώρια για να σκευτώ άλλο φάρμακο</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+&#13;
+Το φάρμακο είναι ξεκάθαρο από το ότι η ζωή του είναι η θάλασσα ,ευαισθησία στα πέλματα από τα βότσαλα(3)&#13;
+&#13;
+Ερωτεύεται (3)συχνά τα πάντα , αγαπά(3)  ευαισθησία στο ανώτερο αναπνευστικό,η θέση ύπνου που είναι μπρούμητα</remedies_differentiation>
+      <prescription>
+        <remedy>Medorrhinum </remedy>
+        <potency>200ch και 1Μ</potency>
+        <regimen>Πρωί βράδι εφάπαξ</regimen>
+        <other_notes>Αποφυγή καφέ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-11-29 11:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+&#13;
+Δεν του δίνω άλλο ομοιοπαθητικό φάρμακο</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν έχει</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+Την πρώτη εβδομάδα είχε υπνηλία και μεγάλη όρεξη&#13;
+&#13;
+ Οι βλέννες  χειροτέρευσαν  και έμεινε στο κρεβάτι 3  μέρες &#13;
+Από την δεκάτη μέρα και μετά άρχισαν να υποχωρούν τα συμπτώματα&#13;
+Στο ψυχολογικό είναι λίγο καλύτερα&#13;
+ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+Ειναι ο νόμος του Herring για εξοικονόμηση ενέργειας&#13;
+Είχε αρχική επιδείνωση στο σύμπτωμα άρα το φάρμακο ήταν σωστό&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Το φάρμακο από την αρχική αντίδραση και την εν συνεχεία καλυτέρευση σε όλα τα επίπεδα αποδεικνύει την σωστή επιλογή του Med.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα </remedy>
+        <potency>-</potency>
+        <regimen>Please enter regimen&#13;
+-</regimen>
+        <other_notes>ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ 3 ΜΗΝΕΣ&#13;
+Είμαι πολύ καλύτερα σε όλα &#13;
+&#13;
+ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ 6 ΜΗΝΕΣ&#13;
+Η προστατίτιδα είναι &gt; και το οίδημα στους όρχεις &gt;, Ο πόνος στα γόνατα &lt;, οι βλέννες &gt; αλλά υπάρχουν ακόμα κάθε πρωί, ιδρώνω το ίδιο&#13;
+&#13;
+</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-29 11:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+Καμία</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+-</reaction>
+      <analysis>Please e-nter Analysis of the reaction--&#13;
+&#13;
+-</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+&#13;
+Είναι καλύτερα σε  όλα τα επίπεδα βελτιώνεται αργά αλλά σταθερά&#13;
+ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ 6 ΜΗΝΕΣ&#13;
+Η προστατίτιδα είναι &gt; και το οίδημα στους όρχεις &gt;, Ο πόνος στα γόνατα &lt; (αλλά έτρεξε Μαραθώνιο και τραυματίστηκε) οι βλέννες &gt; αλλά υπάρχουν ακόμα κάθε πρωί λίγες, η βελτίωση ειναι 80% ιδρώνω το ίδιο</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν του δίνω </remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Το αρχικό Med δουλεύει ακόμα συνεπώς δεν του δίνω τίποτα</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

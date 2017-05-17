@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4f5c2a737ce30cbea7e7f124d71943a5</ID>
+  <patient>
+    <case_date>2013-06-19 00:30:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Δ</patient_initials>
+    <age>12</age>
+    <circumstances>Κοριτσάκι 6.5 χρόνων, μοναχοπαίδι, παχουλό και δύσκαμπτο , με λευκό δέρμα.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Κάνει συχνά αμυγδαλίτιδες και λαμβάνει αντιβιοτικά και αντιπυρετικά.</origin>
+        <causative_factors>Υγρασία, έκθεση στο κρύο, κατανάλωση παγωμένου νερού.</causative_factors>
+        <modalities>Οι γονείς σπεύδουν να δώσουν χημειοθεραπευτικά φάρμακα οπότε δε γνωρίζουμε αν υπάρχουν τροποποιητικοί παράγοντες που επιδεινώνουν ή βελτιώνουν την κατάσταση.</modalities>
+        <occurrence_time>Αρρωσταίνει συνήθως το χειμώνα, ή και το καλοκαίρι αν ιδρώσει και εκετεθεί σε πιο δροσερό περιβάλλον.</occurrence_time>
+        <body_side>Προσβάλλονται και η δεξιά και η αριστερή αμυγδαλή.</body_side>
+        <appearence_frequency>Περίπου κάθε 2 εβδομάδες τελειώνοντας με την αντιβίωση κάνει νέα αμυγδαλίτιδα.</appearence_frequency>
+        <pain_desc>Ξεκινά με κυνάγχη, διογκώνονται οι αμυγδαλές με διαφορετική εικόνα κάθε φορά (συνήθως είναι πυώδεις), διογκώνονται οι τραχηλικοί λεμφαδένες και σταδιακά ανεβάζει πολύ υψηλό πυρετό που φτάνει και 40C</pain_desc>
+        <complaint_ext>Ενίοτε πονά και το αυτί της.</complaint_ext>
+        <other_complaints>Τάση για δυσκοιλιότητα.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Δε λαμβάνει φάρμακα, δεν πάσχει απο κάτι χρόνιο.</conv_med_presc>
+        <lab_tests>
+          <desc>Δεν προσκομίζει.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλοι οι προβλεπόμενοι εμβολιασμοί, αντιβιοτικά, αντιφλεγμονώδη και αντιπυρετικά προκειμένου να αντιμετωπιστεί η αμυγδαλίτιδα.</therapies_vaccination>
+          <traumas>Οι γονείς της απουσιάζουν από το πρωί έως το βράδυ και το παιδί δεν έχει ουσιαστική επικοινωνία με τους γονείς.</traumas>
+          <infections>Δεν υπάρχουν. </infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Οι δυο γονείς είναι παχύσαρκοι, ο πατέρας με πολλαπλούς υποτροπιάζοντες ρινικούς πολύποδες, δυσκολία στην αναπνοή ιδιαίτερα κατά τη νύχτα όπου κάνει άπνοιες κι ελαφριάς μορφής κολίτιδα.&#13;
+Η μητέρα δεν αναφέρει προβλήματα υγείας.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions> Συνήθως κρυώνει πιο εύκολα (2), το χειμώνα ζητά καλτσάκια το βράδυ, το βράδυ ιδρώνει σε μασχάλες και αυχένα, είναι κρυουλιάρα (2), &lt; με την υγρασία</reactions>
+        <sleeping_habits>Κοιμάται καλά, βαθειά, χωρίς να ξυπνά μέσα στη νύχτα, κάνει ανήσυχο ύπνο, χωρίς μαξιλάρι.&#13;
+Δεν παραμιλά, δεν τρίζει ή σφίγγει δόντια, δε βλέπει εφιάλτες, κοιμάται στο πλάι(όποιο να'ναι) σε εμβρυική στάση.</sleeping_habits>
+        <food_modalities>Des: αυγό μελάτο (3) το σφιχτό το τρώει μόνο το Πάσχα, αλάτι (2) γαλακτομπούρεκο (3),παγωτό σοκολάτα (3), πίτσα, σουβλάκι (3), τοστ, λίπος (2), κολοκύθια,φέτα, γιαούρτι με πέτσα, τα μικρά ψαράκια, πίνει πολύ  νερό βρύσης(2).&#13;
+Av: γάλα, ξινά (2), γλοιώδη (3)</food_modalities>
+        <menstruation>Δεν έχει ακόμη</menstruation>
+      </physical>
+      <mental_emotional>Κοινωνική, νευρική (2), προσεκτική (3), παρατηρητική(3), επίμονη (3), απότομη (2), εκδηλωτική (3), μνήμη (3), ομιλητική (3), πανέξυπνη (3), ωριμότητα (3).&#13;
+Φόβοι: αστραπές, βροντές (3), έντομα (3).&#13;
+Της αρέσει να κάνει μπάνιο (3).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εκτός απο τις αμυγδαλίτιδες το ιστορικό της είναι ελεύθερο.</personal_medical_history>
+        <family_medical_history>Οικογενειακό ιστορικό ελεύθερο χωρίς κληρονομική προδιάθεση.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Το παιδί έχει καθαρή εικόνα φαρμάκου και λαμβάνοντάς το, το επίπεδο υγείας του θα ανέλθει πολύ σύντομα.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar> Ιδρώνει σε αυχένα το βράδυ(3)</peculiar>
+        <intense> av γάλα, des αυγό μελάτο (3) ,δυσκοιλιότητα (2),κρυώνει (2), ιδρώνει σε μασχάλες και αυχένα (2), , νευρική (2),επίμονη (3)&#13;
+Φόβοι:αστραπές, βροντές (3), έντομα(3)&#13;
+Κάνει υψηλούς πυρετούς πολύ συχνά(2)&#13;
+Μιλάει με τις κούκλες (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Sulfur: Της αρέσει το λίπος, ιδρώνει σε μασχάλες χωρίς όμως να μυρίζει άσχημα (μυρίζει όξινο) αλλά είναι κρυουλιάρα, δε ζεσταίνεται, δεν ξεσκεπάζεται το βράδυ, της αρέσει το μπάνιο πολύ (το Sulfur δύσκολα μπαίνει να πλυθεί).&#13;
+Επίσης δεν είναι ακατάστατη. Της αρέσει πολύ η τάξη, είναι πολύ καθαρή, κι επειδή της αρέσει πολύ το αυγό (μελάτο-3), ιδρώνει το βράδυ στον αυχένα, έχει κρύα ποδαράκια, της αρέσουν πολύ τα γλυκά και βαριέται τη γυμναστική συνιστούμε Calcarea carbonica  </remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea Carbonica</remedy>
+        <potency>200 CH, 1 M, 6x</potency>
+        <regimen>1 κάψουλα Calcarea Carbonica 200CH την πρώτη μέρα της θεραπείας&#13;
+1 κάψουλα  Calcarea Carbonica 1M τη δεύτερη μέρα της θεραπείας&#13;
+40 κάψουλες Calcarea Carbonica 6x καθημερινά απο την τρίτη μέρα</regimen>
+        <other_notes>παχουλό παιδάκι, δεν έχει καθόλου ευλυγισία,  χαρούμενο,μιλάει πολύ και επιζητά την προσοχή και την επιβράβευση.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2013-08-27 23:30:00</followup_date>
+      <conv_med_presc>Δεν λαμβάνει.</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν προσκομίζει</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Followup #1 &#13;
+Περίπου 2-3 μέρες μετά την έναρξη της ομοιοπαθητικής θεραπείας έκανε υψηλό πυρετό μαζί με κυνάγχη, χρησιμοποίησε propolis tinct πολλές φορές ημερησίως και δεν έφτασε να κάνει αμυγδαλίτιδα.</reaction>
+      <analysis>Αναμενόμενη αντίδραση του οργανισμού προκειμένου να βγεί προς τα έξω οτι έχει καταπιεστεί με την αντιβίωση και τα αντιπυρετικά φάρμακα.</analysis>
+      <conclusion>Το φάρμακο είναι το σωστό και συνεχίζουμε με το ίδιο.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea Carbonica</remedy>
+        <potency>6x</potency>
+        <regimen>40 κάψουλες Calcarea Carbonica 6x καθημερινά </regimen>
+        <other_notes>Παρά το γεγονός ότι έκανε υψηλό πυρετό το παιδί η κατάστασή του ήταν πολύ καλύτερη σε σχέση με τις προηγούμενες φορές κι εκτός αυτού κράτησε πολύ λιγότερο </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2013-12-26 23:30:00</followup_date>
+      <conv_med_presc>Δε χρειάστηκε μέχρι τώρα να χρησιμοποιήσει κάποιο φάρμακο.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά την πρώτη αντίδραση, το παιδί είναι υγιέστατο. Κάποια μικροεξανθήματα ασυμπτωματικά εμφανίστηκαν τους προηγούμενους μήνες αλλά αυτοπεριορίστηκαν  σύντομα χωρίς τοπική θεραπεία.</reaction>
+      <analysis>Το παιδί είναι υγιές και για το λόγο αυτό βελτιώνεται γρήγορα προκαλώντας πρόσκαιρη και ελαφριά αντίδραση στο πιο περιφερικό όργανο, που είναι το δέρμα.</analysis>
+      <conclusion>Συνεχίζουμε με το ίδιο φάρμακο και περιμένουμε.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6x</potency>
+        <regimen>Μια κάψουλα καθημερινά , το πρωί περίπου 20' προ φαγητού και για  40 μέρες .</regimen>
+        <other_notes>Υψηλό επίπεδο υγείας-γρήγορη ανταπόκριση στο ομοιοπαθητικό φάρμακο.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

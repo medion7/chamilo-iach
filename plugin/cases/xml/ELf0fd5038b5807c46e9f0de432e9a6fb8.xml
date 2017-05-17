@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELf0fd5038b5807c46e9f0de432e9a6fb8</ID>
+  <patient>
+    <case_date>2014-12-12 20:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Σ.Σ.</patient_initials>
+    <age>55</age>
+    <circumstances>12/12/2014 ΠΡΩΤΗ ΕΠΙΣΚΕΨΗ&#13;
+Έγγαμος, δύο τέκνα, διοικητικός υπάλληλος. &#13;
+Λεπτός, ψηλός, με φαλάκρα, ευγενής γλυκός χαμογελαστός, εξυπηρετικός, διακριτικός, συνεσταλμένος σοβαρός.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Περισσότερο από 10 χρόνια πριν. Θεωρεί το άγχος αιτιολογικό παράγοντα</origin>
+        <causative_factors> 15 χρόνια πριν (2000) πιθανώς  μετά από καταστολή αλλεργικής ρινίτιδας η οποία υποχώρησε μετά από  πάρα πολλά θαλάσσια μπάνια. (Συνδυάσθηκε μετά από το πρώτο FU).&#13;
+Κάνει χρήση αντιπιτυριδικών σαμπουάν, διότι απολέπιση λόγω ξηροδερμίας του δέρματος της κεφαλής. Τα διέκοψε </causative_factors>
+        <modalities>&lt;Χειρότερα με το stress, κυρίως να ανταποκριθεί στην δουλειά.&#13;
+Μπορεί το καλοκαίρι να ανακουφισθεί λίγο με κρύα επιθέματα. </modalities>
+        <occurrence_time>Πολλές φορές ξυπνάει το πρωί με πονοκάφαλο, αλλά συνήθως έρχεται κατά την ώρα της δουλειάς μετά από Stress</occurrence_time>
+        <body_side>Άμφω κροταφικά</body_side>
+        <appearence_frequency>Περισσότερο από 2-3 φορές την εβδομάδα</appearence_frequency>
+        <pain_desc>Παλλόμενοι κυρίως στους κροτάφους, αυξανόμενης έντασης βαθμιαία &lt;από το stress&#13;
+Δερματικά εξανθήματα αποφολίδωση δεξιά κάτω από το μάτι –ερεθισμός και κοκκίνισμα.&#13;
+</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Πιτυρίδα στο κεφάλι. (Σαμπουάν που καταστέλλει την πιτυρίδα- το σταμάτησε&#13;
+Σμήγμα στην πλάτη&#13;
+Δόντια δεν τα τρίζει&#13;
+Ευαισθησία στο στομάχι-Ερυγές &#13;
+Δυσκοιλιότητα (κάθε 2 ημέρα)&#13;
+Αιμορροΐδες ήπιας μορφής&#13;
+Φτέρνες ξηρότητα&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Χρόνιες Κεφαλαλγίες&#13;
+Παυσίπονα σε συχνή βάση. </conv_med_presc>
+        <lab_tests>
+          <desc>Χαμηλή Β12 -Λήψη συμπλήρωματος</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΝΕΟΣ ΑΣΘΕΝΗΣ στην Ομοιοπαθητική</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβολιασμοί πλήρως συμβατοί με την ηλικία&#13;
+Πιθανώς  μετά από καταστολή αλλεργικής ρινίτιδας η οποία υποχώρησε μετά από  πάρα πολλά θαλάσσια μπάνια. (Συνδυάσθηκε μετά από το δεύτερο FU).&#13;
+Κάνει χρήση αντιπιτυριδικών σαμπουάν, διότι απολέπιση λόγω ξηροδερμίας του δέρματος της κεφαλής χωρίς αυτά. Τα διέκοψε με την έναρξη της θεραπείας </therapies_vaccination>
+          <traumas>ΚΦ</traumas>
+          <infections>-</infections>
+          <other>ΠΥΡΕΤΟΣ (Τελευταία εκδήλωση): Δεν θυμάται πολλά χρόνια πριν&#13;
+Κύριες παθολογίες χρονολογικά:&#13;
+Φυματίωση στα 13?&#13;
+Αιμορροΐδες ήπιας μορφής&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: Ζει&#13;
+Πατέρας: λευχαιμία&#13;
+Μητέρα αδελφός Ca εντέρου&#13;
+Πατέρα αδελφή: Ca εντέρου&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Γενικώς κρυώνει αλλά το κεφάλι του καίει, ιδίως στην ώρα του πονοκεφάλου&#13;
+Aversion sun Στοιχεία Ναt-m</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα 12-5,30 ξυπνάει πολύ συχνά στις 4.00&#13;
+ΣΕΞΟΥΑΛΙΚΗ ΣΥΜΠΕΡΙΦΟΡΑ: Προς το αυξημένη&#13;
+</sleeping_habits>
+        <food_modalities>Επιθυμεί σοκολάτα πικρή +++&#13;
+Λεμόνι+&#13;
+Αλάτι ++(+?)&#13;
+Πικρά ραδίκια με τηγανητές πατάτες.&#13;
+Απεχθάνεται τα γλοιώδη -Στοιχεία Ναt-m&#13;
+Αδιψία όχι παγωμένο&#13;
+Απέχθεια λίπος&#13;
+Αλλαντικά ΝΑΙ&#13;
+Αλκοόλ χαλαρώνει&#13;
+Επιθυμία για τυρί+++&#13;
+</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Θέλω να ανταποκριθώ σε όλα. Θα το κάνω σωστά. Θέλω να ευχαριστώ τους άλλους+++&#13;
+Ανακουφίζει η εκκλησιαστική μουσική και η εκκλησία &#13;
+Σκυλιά δεν τα θέλει&#13;
+Μ' αρέσει να χορεύω, ανακουφίζομαι συναισθηματικά&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>H αναφερόμενη παθολογία είναι πολύ ενοχλητική για τον ασθενή, δεν του επιτρέπει να λειτουργήσει και να αποδώσει πλήρως, αλλά δεν δείχνει να είναι σοβαρή κλινικά.</personal_medical_history>
+        <family_medical_history>Η κληρονομικότητα από  κακοήθεια είναι μεγάλη και αυτό ίσως προδιαθέτει για μία γονιδιακή επιβάρυνση</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Η κληρονομικότητα από  κακοήθεια είναι μεγάλη, η έλλειψη πυρετού για χρόνια είναι μία ένδειξη του όχι πολύ υψηλού επιπέδου υγείας. Η επιθυμία του να ευχαριστεί τους άλλους και να καταπιέζει τις δικές του επιθυμίες δείχνει καταπιεσμένο άτομο και μας κάνει να σκεπτόμαστε και σαν επιλογή το Carcinocin</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>MIND ¬ PLEASING ¬ desire to please others 2 είναι ένα key-note του carcinocin</peculiar>
+        <intense>MIND ¬ SENSITIVE, oversensitive 1 &#13;
+GENERALITIES ¬ HISTORY ¬ family (Inheritance) ¬ cancer 1&#13;
+STOMACH ¬ THIRSTLESS 1 &#13;
+MIND ¬ PLEASING ¬ desire to please others 2&#13;
+SLEEP ¬ POSITION ¬ abdomen, on 2 &#13;
+GENERALITIES ¬ FOOD and DRINKS ¬ chocolate ¬ desire 2 &#13;
+GENERALITIES ¬ FOOD and DRINKS ¬ salt ¬ desire 2 &#13;
+GENERALITIES ¬ FOOD and DRINKS ¬ slimy food ¬ aversion 2 &#13;
+MIND ¬ TIMIDITY 1 HEAD ¬ PAIN (headache) 3 &#13;
+HEAD ¬ PAIN (headache) ¬ pulsating 3 &#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND ­ PLEASING ­ desire to please others 2&#13;
+MIND ­ SENSITIVE, oversensitive 1&#13;
+MIND ­ TIMIDITY 1&#13;
+HEAD ­ PAIN (headache) 3&#13;
+HEAD ­ PAIN (headache) ­ pulsating 3&#13;
+STOMACH ­ THIRSTLESS 1&#13;
+SLEEP ­ POSITION ­ abdomen, on 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chocolate ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ slimy food ­ aversion 2&#13;
+GENERALITIES ­ HISTORY ­ family (Inheritance) ­ cancer</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η διαφοροποίηση θα γίνει μεταξύ των Carc και Νat-m.&#13;
+Λόγω της κληρονομικότητος της κακοήθειας, της έλλειψης χρονίως πυρετού, αλλά και της πραγματικά μεγάλης επιθυμίας να ευχαριστεί τους άλλους αλλά και της συναισθηματικής ανακούφισης με τον χορό, όπως μόνος ανέφερε, επιλέγεται ως πρώτο φάρμακο το Carcinocin.</remedies_differentiation>
+      <prescription>
+        <remedy>CARCINOCIN</remedy>
+        <potency>Carc 200Ch and Carc 1M</potency>
+        <regimen>Carc 200CH και την επομένη Carc 1M</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-01-30 18:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΗΜΕΡΟΜΗΝΙΑ ΠΡΩΤΟΥ FU 30/1//2015 &#13;
+ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ: &#13;
+Τις 5 πρώτες ημέρες χωρίς πονοκέφαλο και την Πέμπτη ημέρα έντονη επιδείνωση που τον ανάγκασε να μείνει κλινήρης, συνοδεύτηκε από εμμετό και κρύα πόδια και πόνο στο δεξιό υποχόνδριο. Η επιδείνωση διήρκησε 4 ημέρες συνεχόμενες  και μετά δεν είχε καθόλου πονοκέφαλο.&#13;
+ Μετά ένα μήνα περίπου από την αρχική λήψη του φαρμάκου (δηλαδή λίγε ημέρες πριν από το FU και γιαυτό προσήλθε) ξεκίνησε πόνος στο λαιμό και συνάχι που διαρκούσε με έντονη καταρροή που  ενοχλούσε εντονότατα τον ασθενή διότι το συνάχι στερεοποιήθηκε και εκδηλώθηκε δύσπνοια αλλεργικού τύπου όπως και παλαιοτέρα,δηλαδή πριν περίπου 15  χρόνια που τον ξυπνούσε στις 4.00 &#13;
+</reaction>
+      <analysis>Η αντίδραση είναι πολύ καλή διότι δείχνει ότι ο οργανισμός έχει δυνατότητα να αντιδράσει στο φάρμακο να κάνει αρχική επιδείνωση αλλά να εμφανίσει και παλαιότερα συμπτώματα. Πιθανώς να είναι και level 5 και κακώς εκτιμήθηκε για 6 αρχικά. Η εκδήλωση παλαιοτέρων συμπτωμάτων δείχνει ότι ο ασθενής επιστρέφει σε προηγούμενο στάδιο υγείας( εκδήλωση παλαιών συμπτωμάτων Νόμος του Hering).&#13;
+</analysis>
+      <conclusion>O ασθενής δεν παρουσίασε καθόλου πονοκέφαλο, βασικό σύμπτωμα για το οποίο προσήλθε αλλά η δύσπνοια και ο βήχας ενοχλεί πολύ τον ασθενή. &#13;
+Προτείνεται να περιμένει μερικές ημέρες αλλά μετά από 5 ημέρες η κατάσταση συνεχίζεται και αποφασίζεται να δοθεί το επόμενο φάρμακο</conclusion>
+      <repertorization>
+        <desc>RESPIRATION ­ ASTHMATIC ­ night ­ midnight, after ­ from 04:00 to 05:00 2&#13;
+RESPIRATION ­ DIFFICULT (Dyspnoea) 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 2&#13;
+GENERALITIES ­ SUN ­ from exposure to ­ agg</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>nat-sulph.</remedy>
+        <potency>Nat-sulph 200ch X1 nat-sulph 12CH X30</potency>
+        <regimen>Nat-sulp Nat-sulph 200ch X1&#13;
+nat-sulph 12CH X30&#13;
+</regimen>
+        <other_notes>To nat-sulph είναι βασικό φάρμακο για το άσθμα και έχει ως key-note ότι το άσθμα είναι χειρότερα στις 4-5 το πρωί.&#13;
+Επιπλέον η επιδείνωση από τον ήλιο αλλά και η επιθυμία για αλάτι μας επιβεβαιώνει το nat-s&#13;
+</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-03-18 18:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΗΜΕΡΟΜΗΝΙΑ FU 2   18/3/2015&#13;
+ Ο ασθενής τις τρεις πρώτες ημέρες είχε εντονότατη καταρροή συνεχόμενα όλη την ημέρα, χωρίς βήχα. Μετά την τρίτη ημέρα η καταρροή άρχισε να μειώνεται, να παραμένει λίγο το πρωί που τον ξύπναγε κατά τις 4.00.&#13;
+Μετά από 15 ημέρες η καταρροή σταμάτησε τελείως</reaction>
+      <analysis>Ο ασθενής πάλι παρουσίασε αρχική επιδείνωση και μετά καλυτέρευση η οποία διαρκεί μέχρι και την την επίσκεψη του 2ου FU.&#13;
+</analysis>
+      <conclusion>Η αρχική επιδείνωση και η καλυτέρευση του ασθενούς δείχνει την επιλογή σωστού φαρμάκου αλλά και  το καλό επίπεδο υγείας του ασθενούς που προφανώς είναι υψηλότερα από το 6 που αρχικά είχε εκτιμηθεί.</conclusion>
+      <repertorization>
+        <desc>Δεν χρειάσθηκε να γίνει επόμενο repertorazation</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Μέχρι σήμερα 31/7/2015  ο ασθενής παραμένει χωρίς κεφαλαλγίες (αναφέρει μία φορά μετά από μεγάλο stress στην δουλειά) και χωρίς δύσπνοια αλλεργικού τύπου. </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

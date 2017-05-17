@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL8cc161a788d4263a227f2c0f2e0d057b</ID>
+  <patient>
+    <case_date>2014-04-14 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>T.E</patient_initials>
+    <age>70</age>
+    <circumstances>*ΠΡΩΤΗ ΕΠΙΣΚΕΨΗ 14/4/2014&#13;
+Γυναίκα 67 ετών. Έγγαμος με ένα γιο που υπεραγαπά και δύο εγγόνια που είναι η ζωή της. Ξανθιά λεπτοκαμωμένη με χοντρά δυνατά χέρια.  Λεπτή με ριτίδες, ΠΟΙΗΤΡΙΑ Καλλιτέχνης, ζωγράφος&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Εδώ και τρεις μήνες. Συνεχής θλίψη δεν μπορεί να λειτουργήσει όπως παλιά. Θλίψη με αίσθηση απώλειας(3)  και κόπωση(3), κοιμάται το μεσημέρι (όχι παλιά). Γίνεται βαριά και δυσκίνητη, σαν άδεια (παλιά γεμάτη δύναμη και ενέργεια) Αναστενάζει(2) Βάρος στο στήθος(2)  Έχασε τον αδελφό της πριν από 3 μήνες, από οξύ έμφραγμα. Επιπλέον χώρισε ο γιός της πριν από ένα χρόνο περίπου και αισθάνεται αθροιστικά το βάρος και συνεχόμενη θλίψη. </origin>
+        <causative_factors>Η απώλεια του αδελφού της ήταν πολύ συνδεδεμένοι αλλά και με όλη την οικογένειά της (την δική της με τους γονείς και τα αδέλφιά της) και ο χωρισμός του γιού της</causative_factors>
+        <modalities>&gt;&gt; Καλυτερεύει, όταν ασχολείται με υποχρεώσεις, με πρέπει και με τα εγγόνια της</modalities>
+        <occurrence_time>Χειρότερα το βράδυ δεν μπορεί να κοιμηθεί καλά.</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Ελαφρά υπόταση</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>Πριν ένα χρόνο χώρισε ο γιός της και στεναχωρήθηκε πάρα πολύ. «με ζόρισε πολύ αυτό το γεγονός. Αναρωτιέμαι τι την πείραξε την νύφη και χωρίζει τον γιό της». </traumas>
+          <infections>-</infections>
+          <other>8 ετών ρευματικό πυρετό.19 ετών κύστη κόκκυγος&#13;
+Παλαιότερα ΠΟΝΟΚΕΦΑΛΟΣ  Ημικρανίες στο ινιακό, πόνος δεξιά επεκτείνετο  μπροστά στο δεξί μάτι&#13;
+Δυσκοιλιότητα την ρύθμισε την διατροφή. Σπάνια ρινίτιδα, επιδείνωση με την σκόνη&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ: έμφραγμα στα 64 ,  είναι εν ζωή &#13;
+ΜΗΤΕΡΑ: Μυοκαρδίτιδα –απεβίωσε από λάθη στο νοσοκομείο. Κληρονομικότητα σε προβλήματα καρδιάς και γλαυκώματος.&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>.  ΚΦ. Τίποτα εκτός μέτρου Αντέχει την υψηλή θερμοκρασία στα χέρια της</reactions>
+        <sleeping_habits>ΥΠΝΟΣ κατά διαστήματα, τώρα λόγω της στεναχώριας. " Έχω χάσει τον ύπνο μου. Ξυπνάω στις 2-3 και συχνά  δεν ξανακοιμάμαι. 5-6 ώρες το πολύ κοιμάμαι. Ξυπνάω μέσα  στην θλίψη(2)" ΟΝΕΙΡΑ: προφητικά “ Ήξερε τι θα συμβεί» και  Υπολόγιζε τα πράγματα σε όλη της την ζωή.</sleeping_habits>
+        <food_modalities>Δεν διψάει.  ΟΧΙ ΛΙΠΟΣ.  Το λίπος το βγάζει όλο. Ελαφριά φαγητά. Όταν έμεινε έγκυος έπινε τόνους γάλα. ΑΛΑΤΙ  της  αρέσει το αλάτι (2 προς 3) της θάλασσας και το μαζεύει. ΓΛΥΚΑ ΚΑΙ ΑΛΑΤΙ     ΑΛΜΥΡΟ ΚΑΙ ΓΛΥΚΟ ΜΑΖΙ. Απεχθάνεται τα γλοιώδη. Δεν της αρέσει το κοτόπουλο.</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Αγέρωχη αλλά- Θλίψη -Ταραχή -Απογοητευμένη. &#13;
+Διακριτική και δεν διανοείται να ενοχλήσει κανένα. &#13;
+Τα ελέγχω όλα. ΠΡΕΠΕΙ υπέρ της οικογένειας.&#13;
+ Πανευτυχής όταν βλέπει την θάλασσα. &#13;
+Δεν έβρισκε τα κατάλληλα λόγια για την μαμά για να την αποχαιρετήσει όταν πέθανε, όταν τα είπε με ποίημα τότε ανακουφίστηκε. Έκλαιγε πολύ παλιά αλλά πάντα κρυφά. Πολύ συγκεντρωμένη. Τώρα φεύγουν τα δάκρυα από τα μάτια της, αλλά σπίτι όταν κλαίει πάντα μόνη της. Δουλεύει περισσότερο για να ξεχνιέται. &#13;
+Μπορώ να στεναχωρηθώ για το ΠΡΕΠΕΙ. Να βοηθάει τους άλλους.&#13;
+ Δεν αναζητάει την παρηγοριά &#13;
+Ελάχιστους ανθρώπους έχει για φίλους και θέλει να το περνάει μόνη. Μπορώ να πετάξω έχω φτερά και φεύγω. Φορτώθηκα πράγματα δυσανάλογα με τις δυνάμεις μου. Προσπαθούσα να μην χάσω την σκυτάλη. Θα τα καταφέρω πάντα έλεγα, Αυτοέλεγχο. Το πρόγραμμα της επόμενης ημέρας ετοίμαζε πάντα από προηγούμενη και ηρεμούσε. ΤΑΣΗ ΔΟΜΗ λέξεις που αναφέρει συχνά.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Το ιατρικό ιστορικό της  δεν δείχνει καμμία σοβαρή παθολογία εκτός του ρευματοειδούς πυρετού που πέρασε μικρή.</personal_medical_history>
+        <family_medical_history> Η κληρονομική προδιάθεση για καρδιά (μόνη της το αναφέρει), δεν έχει δώσει ακόμη, μέχρι αυτή την ηλικία συμπτώματα, συνεπώς και από κληρονομικής άποψης δεν υπάρχει επιβάρυνση τουλάχιστον σοβαρή. </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Επειδή το επίπεδο υγείας της ασθενούς είναι πολύ καλό και το φάρμακο διακρίνεται αρκετά καθαρά, θεωρούμε ότι η πιθανότητα να βοηθηθεί η ασθενής είναι μεγάλη.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>GENERALITIES ¬ FOOD and DRINKS ¬ slimy food ¬ aversion 2</peculiar>
+        <intense>MIND ¬ GRIEF ¬ ailments from 3 &#13;
+MIND ¬ RESPONSIBILITY - taking responsibility too seriously 3 &#13;
+GENERALITIES ¬ FOOD and DRINKS ¬ salt - desire 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND ¬ GRIEF ¬ ailments from 3 MIND ¬ SIGHING 2 GENERALITIES ¬ WEAKNESS 2 STOMACH ¬ THIRSTLESS 1 GENERALITIES ¬ FOOD and DRINKS ¬ salt ¬ desire 2 GENERALITIES ¬ HYPOTENSION 2 MIND ¬ CLAIRVOYANCE 1 MIND ¬ GRIEF 1 MIND ¬ RESPONSIBILITY ¬ taking responsibility too seriously 3 MIND - SYMPATHETIC 2 GENERALITIES ¬ FOOD and DRINKS ¬ slimy food ¬ aversion 2 GENERALITIES ¬ FOOD and DRINKS ¬ chicken ¬ aversion 2 GENERALITIES - FOOD and DRINKS ¬ pepper ¬ desire 2 GENERALITIES ¬ FOOD and DRINKS ¬ fat - aversion 2 SLEEP ¬ SLEEPLESSNESS 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η σκέψη είναι ματαξύ Ignatia (έχει την θλίψη, την απώλεια από θάνατο, τον αναστεναγμό), αλλά τρώει πάρα πολλά φρούτα και δεν βλέπουμε καθόλου μια εναλλαγή διαθέσεως ή κάτι υστερικό στην συμπεριφορά της και του Nat-m το οποίο φαίνεται καθαρά από την αρχή τουιστορικού με την μεγάλη αίσθηση του πρέπει και των ευθυνών.</remedies_differentiation>
+      <prescription>
+        <remedy>Natrium-muriaticum</remedy>
+        <potency>200CH +1Μ  και 12ch X30</potency>
+        <regimen>Nat-m  200CH την πρώτη ημέρα.Nat-m 1M την επομένη και κάθε ημέρα Nat-m 12CH για 30 ημέρες</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>12/12/ 2014 μετά από 8 μήνες Follow up : Δεν προσήλθε στον ένα μήνα διότι αισθάνθηκε πολύ καλύτερα μετά την πρώτη εβδομάδα που ξεκίνησε το φάρμακο. Την πρώτη ημέρα έκανε ένα πονοκέφαλο όπως παλιά με μία έντονη πίεση πάνω και από τα δύο μάτια, αλλά μετά συναισθηματικά ήταν πάρα πολύ καλά και δεν χρειάσθηκε να έρθει.  Τώρα προσέρχεται διότι ο οφθαλμίατρος διέγνωσε πίεση και στα 2 μάτια (21mmHg)-γλαύκωμα (ως φυσιολογικό το ανώτατο όριο των 21 mm Hg),  και ότι θα έπρεπε να της δώσει θεραπεία. Εκείνη όμως τον ενημέρωσε ότι θα προσπαθήσει πρώτα με Ομοιοπαθητική. </reaction>
+      <analysis>Η αντίδραση στο πρώτο φάρμακο ήταν πολύ καλή και η θλίψη, ίσως μόνο για το διαζύγιο του γιού της λίγο ακόμη έχει παραμείνει αλλά σίγουρα το διαχειρίζεται πολύ καλύτερα.  Έκανε μία μικρή αρχική επιδείνωση με ένα πονοκέφαλο που είναι παλιό της σύμπτωμα και αυτό δείχνει ότι το φάρμακο έδρασε πολύ καλά.</analysis>
+      <conclusion>Επειδή τα δεδομένα της ασθενούς, εκτός της σημαντικής βελτίωσης στο συναισθηματικό επίπεδο, παραμένουν σταθερά και η καινούργια repertorization μας υποδεικνύει πάλι το Nat-m, το οποίο βοήθησε την προηγούμενη φορά και συχνά εκδηλώνει προβλήματα με την όραση, θα χορηγηθεί πάλι Nat-m. Η ασθενής λόγω του υψηλού επιπέδου υγείας είναι πολύ πιθανό να παραμένει στο ίδιο φάρμακο λόγω της σχετικής αρμονίας του οργανισμού της και της σταθερότητας του αμυντικού μηχανισμού της. </conclusion>
+      <repertorization>
+        <desc>MIND ¬ GRIEF ¬ ailments from 1 GENERALITIES ¬ WEAKNESS 1 GENERALITIES - FOOD and DRINKS ¬ salt ¬ desire 3 GENERALITIES ¬ HYPOTENSION 2 MIND - CLAIRVOYANCE 1 MIND ¬ RESPONSIBILITY ¬ taking responsibility too seriously 3 MIND ¬ SYMPATHETIC 1 GENERALITIES ¬ FOOD and DRINKS ¬ slimy food - aversion 2 GENERALITIES ¬ FOOD and DRINKS ¬ chicken ¬ aversion 2 GENERALITIES ¬ FOOD and DRINKS ¬ pepper ¬ desire 2 EYE ¬ GLAUCOMA 2 EYE - PAIN ¬ pressing, pressure, etc. 2 HEAD ¬ PAIN (headache) ¬ Pressing ¬ weight, as from 2 GENERALITIES ¬ FOOD and DRINKS ¬ fat ¬ aversion 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrium-muriaticum</remedy>
+        <potency>200CH X3  12CH X 60pills</potency>
+        <regimen>200CH 1Χ3 για τρείς ημέρες και 12CH για 60 ημέρες.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>29/1/2015 &#13;
+«Στις 15 ημέρες περίπου κατάλαβα ότι κάτι έτρεξε –παροχέτευσε μέσα στο μάτι μου και αμέσως μειώθηκε το βάρος που αισθανόμουν και ανακουφίσθηκα». Η μέτρηση της πιέσεως στον οφθαλμίατρο έδειξε 19 mmHg και στα δύο μάτια. Κοιμάμαι καλά και είμαι πολύ καλά.&#13;
+Λόγω της κληρονομικότητος για γλαύκωμα αλλά και της οριακής ακόμη τιμής της πιέσεως συνεστήθη Nat-m 12CH για 60 ημέρες.&#13;
+</reaction>
+      <analysis>Η αντίδραση στο φάρμακο ήταν πολύ καλή, έστω και εαν δεν υπήρχε έκδηλη αρχική επιδείνωση. Η πίεση μειώθηκε σε φυσιολογικά επίπεδα έστω και υψηλά.</analysis>
+      <conclusion>Το φάρμακο βοήθησε.Λόγω της κληρονομικότητος για γλαύκωμα αλλά και της οριακής ακόμη τιμής της πιέσεως συνεστήθη Nat-m 12CH για ακόμη 60 ημέρες.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Νat-m</remedy>
+        <potency>12CH X60 pills</potency>
+        <regimen>1 X1 pill την ημέρα. </regimen>
+        <other_notes>31/3/2015 Από τηλεφωνική ενημέρωση η πίεση σταθερά στα 18 mmHg. Δεν συνεστήθη επανάληψη του φαρμάκου μέχρι σήμερα 15/8/2015</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

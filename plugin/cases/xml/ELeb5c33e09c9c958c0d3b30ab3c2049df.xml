@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELeb5c33e09c9c958c0d3b30ab3c2049df</ID>
+  <patient>
+    <case_date>2014-12-12 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Φ</patient_initials>
+    <age>57</age>
+    <circumstances>Please enter the personal circumstances&#13;
+ΕΧΕΙ ΧΑΣΕΙ ΤΟΝ ΑΝΤΡΑ ΤΗΣ ΕΔΩ ΚΑΙ ΕΝΑ ΧΡΟΝΟ.ΕΧΕΙ ΕΝΑ ΓΙΟ 23 ΧΡΟΝΩΝ&#13;
+ΕΙΝΑΙ ΣΥΝΤΑΞΙΟΥΧΟΣ ΑΣΦΑΛΙΣΤΙΚΗΣ ΕΤΑΙΡΕΙΑΣ.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ΒΡΟΓΧΙΚΟ ΑΣΘΜΑ ΑΠΟ ΤΟ 1996 ΤΟ ΟΠΟΙΟ ΞΕΚΙΝΗΣΕ ΜΕΤΑ ΑΠΟ ΒΑΡΥ ΕΜΠΥΡΕΤΟ ΚΡΥΟΛΟΓΗΜΑ</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ΔΕΝ ΓΝΩΡΙΖΕΙ ΕΧΕΙ ΚΑΝΕΙvast-test  ΚΑΙ ΒΡΕΘΗΚΕ ΑΛΛΕΡΓΙΚΗ ΣΤΗΝ ΕΛΙΑ ΚΑΙ ΤΟ ΓΡΑΣΙΔΙ</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+ΔΕΝ ΕΧΕΙ ΠΑΡΑΤΗΡΗΣΕΙ</modalities>
+        <occurrence_time>ΧΕΙΡΟΤΕΡΕΥΕΙ ΣΤΙΣ1-5 ΤΟ ΠΡΩΙ</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΟΧΙ</body_side>
+        <appearence_frequency>Please enter frequency of appearance2-3 ΦΟΡΕΣ ΤΗΝ ΒΔΟΜΑΔΑ</appearence_frequency>
+        <pain_desc>Please enter a description of the pa&#13;
+ΟΧΙ</pain_desc>
+        <complaint_ext>ΟΧΙ</complaint_ext>
+        <other_complaints>ΠΟΝΟΚΕΦΑΛΟΣ,ΑΠΟ 20 ΕΤΩΝ ΜΕ ΕΝΤΟΠΙΣΗ ΣΤΟΥΣ ΚΡΟΤΑΦΟΥΣ Ο ΟΠΟΙΟΣ ΚΑΛΥΤΕΡΕΥΕΙ ΜΕ ΣΦΙΞΙΜΟ ΜΑ ΝΤΗΛΙΟΥ ΚΑΙ ΕΝΤΡΙΒΗ ΜΕ ΟΙΝΟΠΝΕΥΜΑ&#13;
+ΧΟΛΗΔΕΚΤΟΜΗ ΤΟ 2005</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical PrescriptionsMEDROL 8mg 2/24 hours&#13;
+symbicort 2 εισπνοεςπρωι-βραδυ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΚΟΡΤΙΖΟΝΗ ΛΟΓΩ ΑΣΘΜΑΤΟΣ.ΚΑΙ ΕΜΒΟΛΙΑ ΟΛΑ ΟΣΑ ΓΙΝΟΝΤΑΝ ΤΑ ΧΡΟΝΙΑ ΠΟΥ ΗΤΑΝ ΜΙΚΡΗ</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)ΔΕΝ ΑΝΑΦΕΡΕΙ ΚΑΠΟΙΟ ΕΚΤΟΣ ΑΠΟ ΤΟΝ ΘΑΝΑΤΟ ΤΟΥ ΑΝΤΡΑ ΤΗΣ</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΟΧΙ</infections>
+          <other>ΧΟΛΗΔΕΚΤΟΜΗ&#13;
+ΣΚΩΛΗΚΟΕΙΔΕΚΤΟΜΗ</other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ ΕΠΕΡΤΑΣΗΚΑΙ ΕΙΝΑΙ ΥΠΟ ΑΓΩΓΗ&#13;
+ΠΑΤΕΡΑΣ ΠΕΘΑΝΕ ΑΠΟ ΕΜΦΡΑΓΜΑ ΣΕ ΗΛΙΚΙΑ 57 ΧΡΟΝΩΝ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΑΜΙΑ ΣΗΜΑΝΤΙΚΗ</reactions>
+        <sleeping_habits>ΣΥΝΗΘΩΣ ΣΤΟ ΠΛΑΙ ΚΑΙΔΕΞΙΑ.ΕΜΦΑΝΙΖΕΙ ΑΥΠΝΙΑ ΛΟΓΩ ΠΟΛΛΩΝ ΥΠΟΧΡΕΩΣΕΩΝΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ,ΞΥΠΝΑΕΙ ΣΤΙΣ4 ΤΟ ΠΡΩΙ ΚΑΙ ΔΕΝ ΞΑΝΑΚΟΙΜΑΤΑΙ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙΑΓΟΥΡΑ, ΞΙΝΑ,ΚΑΡΥΚΕΥΜΑΤΑ ΚΡΥΟ ΝΕΡΟ&#13;
+ΑΠΕΧΘΑΝΕΤΑΙ ΓΑΛΑ ΚΟΤΟΠΟΥΛΟΥ ΛΙΠΟΣ</food_modalities>
+        <menstruation>ΣΤΑ12 ΕΝΑΡΞΗ ΚΥΚΛΟΣ 28 ΗΜΕΡΩΝ ΑΛΛΑ ΣΥΧΝΑ ΜΕ ΠΟΝΟΚΕΦΑΛΟ.ΤΩΡΑ ΠΙΑ ΔΕΝ ΕΧΕΙ.</menstruation>
+      </physical>
+      <mental_emotional>ΕΚΝΕΥΡΙΖΕΤΑΙ ΑΠΟ ΤΗΝ ΚΑΤΑΠΙΕΣΗ ΚΑΙΜΕ ΕΝΟΧΛΕΙ Η ΠΟΝΗΡΙΑ.ΣΤΙΣ ΣΧΕΣΕΙΣ ΤΗΣ ΦΙΛΙΚΕΣ Η ΕΡΩΤΙΚΕΣ ΟΤΑ ΤΕΛΕΙΩΝΟΥΝ ΒΑΖΕΙ Χ.ΕΣΩΣΤΡΕΦΗΣ, ΚΟΙΝΩΝΙΚΗ,ΥΠΕΡΗΦΑΝΗ ΑΚΑΜΠΤΗ,ΘΕΛΕΙ ΝΑ ΠΕΡΝΑΕΙ ΤΟ ΔΙΚΟ ΤΗΣ ΤΑΚΤΙΚΗ ΔΕΝ ΣΥΜΠΑΘΩ ΤΟΥΣ ΜΑΥΡΟΥΣ ΚΑΙ ΤΟΥΣ ΑΛΒΑΝΟΥΣ ΓΟΗΤΕΥΕΤΑΙ ΑΠΟ ΟΤΙ ΕΧΕΙ ΠΟΛΥΤΕΛΕΙΑ&#13;
+ΦΟΒΑΤΑΙ ΣΚΟΤΑΔΙ ΚΑΙ ΤΙΣ ΡΥΤΙΔΕΣ&#13;
+ΕΠΙΘΥΜΕΙ ΤΑΞΙΔΙΑ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+Η ΧΡΟΝΙΑ ΛΗΨΗ ΚΟΡΤΙΖΟΝΗΣ ΕΧΕΙ ΕΠΙΒΑΡΥΝΕΙ ΤΗΝ ΥΓΕΙΑ ΤΗΣ</personal_medical_history>
+        <family_medical_history>ΠΑΤΕΡΑΣ ΠΕΘΑΝΕ ΑΠΟ ΕΜΦΡΑΜΑ ΣΤΑ 57 ΤΟΥ ΧΡΟΝΙΑ ΚΑΙ Η ΜΗΤΕΡΑ ΕΧΕΙ ΥΠΕΡΤΑΣΗ.ΑΡΑ ΚΑΙ ΑΠΟ ΤΙΣ ΔΥΟ ΠΛΕΥΡΕΣ ΕΙΝΑΙ ΕΠΙΒΑΡΥΜΕΝΟ ΤΟ ΚΥΚΛΟΦΟΡΙΚΟ ΤΗΣ</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Η ΑΣΘΕΝΗΣ ΕΛΠΙΖΩ ΜΕ ΤΟ ΣΩΣΤΟ ΦΑΡΜΑΚΟ ΝΑ ΔΕΙ ΒΕΛΤΙΩΣΗ ΣΤΟ ΠΡΟΒΛΗΜΑ ΤΗΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΦΟΒΟΣ ΡΥΤΙΔΕΣ[2]ΔΕΝ ΣΥΜΠΑΘΕΙ ΤΟΥΣ ΜΑΥΡΟΥΣ ΚΑΙ ΤΟΥΣ ΑΛΒΑΝΟΥΣ[2]</peculiar>
+        <intense>ΕΣΩΣΤΡΕΦΗΣ[2],ΚΟΙΝΩΝΙΚΗ[2] ΥΠΕΡΗΦΑΝΗ[2]ΤΥΠΙΚΗ[1]ΦΟΒΑΤΑΙ ΣΚΟΤΑΔΙ[1]ΡΥΤΙΔΕΣ[2]ΑΥΠΝΙΑ [2]&#13;
+ΕΠΙΘΥΜΕΙ ΞΙΝΑ[3] ΑΓΟΥΡΑ[3] ΚΑΡΥΚΕΥΜΑΤΑ[2] ΣΕΞ[2]ΑΙΦΗΣΗ ΑΝΩΤΕΡΟΤΗΤΑΣ[2]</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation> ΤΑ ΠΙΟ ΚΟΝΤΙΝΑ ΦΑΡΜΑΚΑ ΕΙΝΑΙ ΤΟ MEDORRHINUM KAI TO VERATRUM ALBUM ME TO  PHOSPHORUS NA ΑΚΟΛΟΥΘΕΙ &#13;
+TO MED.EXEI ΕΠΙΘΥΜΙΑ ΓΙΑ ΑΓΟΥΡΑ[2] ΞΙΝΑ[2] ΣΕΞ[3] .&#13;
+ΕΙΝΑΙ ΚΛΕΙΣΤΟΣ[2] ΕΠΙΚΟΙΝΩΝΙΑΚΟΣ[1]ΦΟΒΑΤΑΙ ΣΚΟΤΑΔΙ[2]&#13;
+ΤΟ.VERATRUMEXEI:ΑΙΣΘΗΣΗ ΑΝΩΤΕΡΟΤΗΤΑΣ[3]ΕΙΝΑΙ ΚΛΕΙΣΤΟΣ[1]ΕΠΙΘΥΜΕΙ ΞΙΝΑ[3] ΑΓΟΥΡΑ[1]ΣΕΞ[3]ΚΑΡΥΚΕΥΜΑΤΑ[1]</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORRHINUM</remedy>
+        <potency>200CH,1M,30CH</potency>
+        <regimen>I  CAPS 200CH ΤΟ ΠΡΩΙ&#13;
+1CARS IM ΤΟ ΒΡΑΔΥ&#13;
+1 CAPS 30CH KΑΘΕ ΠΡΩΙ ΓΙΑ 30 ΜΕΡΕΣ</regimen>
+        <other_notes>ΟΧΙ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-25 17:00:00</followup_date>
+      <conv_med_presc>medrol8mg/12HOURS</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΤΟ ΒΡΟΓΧΙΚΟ ΑΣΘΜΑ ΕΙΝΑΙ ΚΑΛΥΤΕΡΑ ΚΑΝΕΙ ΛΙΓΟΤΕΡΕΣ ΚΡΙΣΕΙΣ.ΟΙ ΠΟΝΟΚΕΦΑΛΟΙ ΒΕΛΤΙΩΘΗΚΑΝ ΚΑΙ ΤΟ ΠΡΟΒΛΗΜΑ ΤΟΥ ΥΠΝΟΥ ΕΞΟΜΑΛΥΝΘΗΚΕ&#13;
+ΝΙΩΘΕΙ ΠΙΟ ΧΑΛΑΡΗ ΔΕΝ ΕΚΝΕΥΡΙΖΕΤΑΙ ΤΟΣΟ ΕΥΚΟΛΑ ΜΕ ΤΟΥΣ ΑΛΛΟΥΣ ΚΑΙ ΜΠΟΡΕΙ ΝΑ ΠΕΙ ΟΤΙ ΕΙΝΑΙ ΠΙΟ ΔΙΑΛΛΑΚΤΙΚΗ</reaction>
+      <analysis>Η ΑΝΤΙΔΡΑΣΗ ΤΗΣ ΗΤΑΝ ΠΟΛΥ ΚΑΛΗ.ΠΑΡΟΛΟ ΠΟΥ ΣΥΝΕΧΙΖΕΙ ΤΗΝ ΚΟΡΤΙΖΟΝΗΚΑΙ ΔΕΙΧΝΕΙ ΝΑ ΕΧΕΙ ΠΕΡΙΘΩΡΙΟ ΒΕΛΤΙΩΣΗΣ</analysis>
+      <conclusion> ΤΟ ΦΑΡΜΑΚΟ ΕΦΕΡΕ ΚΑΛΟ ΑΠΟΤΕΛΕΣΜΑ ΣΤΗΝ ΑΣΘΕΝΗ ΚΑΙ ΣΤΑ ΣΩΜΑΤΙΚΑ ΚΑΙ ΣΤΑ ΝΟΗΤΙΚΑ ΣΥΜΠΤΩΜΑΤΑ.ΕΠΟΜΕΝΩΣ ΔΕ ΘΑ ΑΛΛΑΞΩ ΤΙΠΟΤΑ ΣΤΗΝ ΣΥΝΤΑΓΟΓΡΑΦΗΣΗ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΟΧΙ</remedy>
+        <potency>Please enter potencyΚΑΜΙΑ</potency>
+        <regimen>ΟΧΙ</regimen>
+        <other_notes>ΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-06-20 17:00:00</followup_date>
+      <conv_med_presc>MEDROL 4 MG/12HOURS</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultationΣΠΑΝΙΑ ΕΧΕΙ ΚΡΙΣΗ ΑΣΘΜΑΤΟΣ ΚΑΙ Η ΠΟΝΟΚΕΦΑΛΟΙ ΕΞΑΦΑΝΙΣΤΗΚΑΝ ΤΟ ΙΔΙΟ ΚΑΙ Η ΑΥΠΝΙΑ</reaction>
+      <analysis>ΑΠΟ ΤΗΝ ΣΤΙΓΜΗ ΠΟΥ ΕΧΟΥΜΕ ΣΥΝΕΧΗ ΒΕΛΤΙΩΣΗ ΤΟ ΦΑΡΜΑΚΟ ΕΙΝΑΙ ΣΩΣΤΟ ΚΑΙΔΕΝ ΑΛΛΑΖΟΥΜΕ</analysis>
+      <conclusion>Please enter followup conclusionΔΕΝ ΠΡΟΣΘΕΤΟΥΜΕ ΚΑΤΙ ΑΛΛΟ ΓΙΑΤΙ ΤΟ ΦΑΡΜΑΚΟ ΔΕΙΧΝΕΙ ΑΚΟΜΑ ΝΑ ΔΟΥΛΕΥΕΙ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΟΧΙ</remedy>
+        <potency>ΚΑΜΙΑ</potency>
+        <regimen>ΟΧΙ</regimen>
+        <other_notes>Please enter other followup notesΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

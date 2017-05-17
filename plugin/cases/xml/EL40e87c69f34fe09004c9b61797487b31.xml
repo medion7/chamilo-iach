@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL40e87c69f34fe09004c9b61797487b31</ID>
+  <patient>
+    <case_date>2016-02-29 22:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Φ.Α.</patient_initials>
+    <age>52</age>
+    <circumstances>Διαζευγμένη, ένα παιδί,δημόσιος υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Εδώ και 8 μήνες δεν θέλει να ζήσει-σκέψη αυτοκτονίας </origin>
+        <causative_factors>Απόρριψη από την κόρη της, η οποία δεν θέλει και να επικοινωνεί μαζί της. Η κόρη της διαμένει με τον πατέρα της από 1 1/2 έτους.</causative_factors>
+        <modalities>Η σκέψη για τερματισμό της ζωής της είναι πιο έντονη όταν συμβαίνει οξύ επεισόδιο κακής επικοινωνίας με την κόρη της</modalities>
+        <occurrence_time>Δεν υπάρχει διαφοροποίηση</occurrence_time>
+        <body_side>οχι</body_side>
+        <appearence_frequency>Κάθε μέρα</appearence_frequency>
+        <pain_desc>οχι</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμία</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλοι οι εμβολιασμοί&#13;
+Αμυγδαλίτιδες σε νηπιακή ηλικία&#13;
+14 ετών έλαβε στρεπτομυκίνη&#13;
+2012 Επιγαστραλγία-γαστροσκόπηση2014, εκρίζωση cambylobacter  με klaricid amoxilκαι PPI.Έκτοτε δεν έχει επιγαστραλγία.&#13;
+11/2014 οξύ με πυρετό 39</therapies_vaccination>
+          <traumas>οχι</traumas>
+          <infections>Άγνωστο λοιμώδες νόσημα για το οποίο έλαβε στρεπτομυκίνη στο νοσοκομείο λοιμωδών νοσημάτων σε ηλικία 14 ετών</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητέρα με υποθυρεοειδισμό, καρδιακή ανεπάρκεια, συστηματικό ερυθηματώδη λύκο με χρόνια νεφρική ανεπάρκεια υπό περιτοναική κάθαρση, αγγειακά εγκεφαλικά επεισόδια, θανούσα προ 2ετίας.&#13;
+Πατέρας με αρτηριακή υπέρταση&#13;
+Αδερφή με ετερόζυγο β-μεσογειακή αναιμία</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Δεν κρυώνει πολύ, δεν ζεσταίνεται ιδιαίτερα, δεν την ενοχλεί η υγρασία.&#13;
+</reactions>
+        <sleeping_habits>Κοιμάται στο αριστερό πλάι,κάποιες φορές μπρούμυτα.Αναφέρει αρρυθμίες κάποιες φορές προ του ύπνου(2).&#13;
+Βλέπει δυσάρεστα όνειρα με τη μητέρα της , ξυπνά τρομαγμένη και δυσκολεύεται να ξανακοιμηθεί.&#13;
+Δεν τρίζει τα δόντια της, βλέπει λίγο σάλιο στο μαξιλάρι.</sleeping_habits>
+        <food_modalities>Επιθυμεί  ψάρια(3), λίπος του(2),κρέας(2), τυριά(3), κρεμμύδια(2),φρούτα(2) ,γλυκά(1) ,αλκοόλ(2)   και το φαγητό ζεστό.&#13;
+Δεν επιθυμεί: αυγά(3), γάλα(3), αλάτι κ.φ.&#13;
+</food_modalities>
+        <menstruation>Ε.Ρ. κ.φ.</menstruation>
+      </physical>
+      <mental_emotional>Φόβοι: .Δεν φοβάται το ύψος, τις αστραπές, τα ζώα, μόνη  στο σπίτι,τον καρκίνο, την αρρώστια, το θάνατο .Φόβος φιδιών (1).Έχει μεγάλη θλίψη για την κακή σχέση με την κόρη της(2)&#13;
+Προσεύχεται(3)-επισκέπτεται μοναστήρια.Η σκέψη της αυτοκτονίας-με το αυτοκίνητό της την ανακουφίζει(3)&#13;
+Είναι ευέξαπτη(3), δεν ζηλεύει, είναι πολύ τακτική(3), σοβαρή(3)., φοβάται την αποτυχία σε ό,τι κάνει(2)&#13;
+Το απόγευμα-βράδυ νιώθει καλύτερα(2)&#13;
+Η μουσική τη βελτιώνει(2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εύκολα εμφανίζει επιχείλιο έρπητα&#13;
+Προ μηνός εμφάνισε οίδημα κνημών άμφω μετά από πολύωρο ταξίδι το οποίο υποχώρησε μόνο του . Διενεργήθη triplex αγγείων κάτω άκρων το οποίο ήταν φυσιολογικό. Έγινε πλήρης αιματολογικός έλεγχος: φυσιολογικός.Ανευρέθη οριακή μικρολευκωματουρία- επισκέφθηκε νεφρολόγο δεν διαγνώστηκε νεφρολογικό νόσημα.</personal_medical_history>
+        <family_medical_history>Επιβαρυμένο οικογενειακό ιστορικό από την πλευρά της μητέρας λόγω του ερυθηματώδους λύκου με τις επιπλοκές του</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>υψηλό επίπεδο υγείας.περιμένουμε αρχική επιδείνωση</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Σκέψη για αυτοκτονία(3) που την ανακουφίζει(3),προσεύχεται(3),αρρυθμίες προ ύπνου(2)</peculiar>
+        <intense>Ευερέθιστη(3),τακτική(3),σκέψη αυτοκτονίας(3) που την ανακουφίζει(3),προσεύχεται(3),σοβαρή(3),&#13;
+Επιθυμεί ψάρια(3),τυρί(3),απέχθεια για αυγά(3),γάλα(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>suicidal disposition(3),thoughts about suicide amel.(3),praying(3),grief(2),fastidious(3),irritable(3).fear pf failure(2),evening amel.(2),music amel(2),serious(3),heart beat violent(2), des. meat(2),cheese(3),fish(3),fruit(2),onion(2),fat(2),alcohol(2),&#13;
+aversio eggs(3),milk(3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η σκέψη αυτοκτονίας ,η τάση να προσεύχεται,η βελτίωση με τη μουσική οδηγούν στο aurum</remedies_differentiation>
+      <prescription>
+        <remedy>aurum</remedy>
+        <potency>200CH</potency>
+        <regimen>1 CAP ΜΙΑ ΦΟΡΑ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-29 21:00:00</followup_date>
+      <conv_med_presc>Καμία</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction> Μετά τη λήψη του φαρμάκου ανέφερε αίσθηση χαλαρότητας,"κατατονίας".Την επόμενη μέρα σταδιακή βελτίωση.Ας σημειωθεί ότι πρόκειται για νευρικό ενεργητικό άτομο.</reaction>
+      <analysis>Η αντίδραση φαίνεται να είναι θετική ως προσπάθεια του οργανισμού να ανασυγκροτηθεί.</analysis>
+      <conclusion>Αναμονή</conclusion>
+      <repertorization>
+        <desc>Ενα μήνα μετά δεν σκέφτεται την αυτοκτονία.Εξακολουθεί την προσευχή(2).Είναι όμως πιο ήρεμη όταν επικοινωνεί με την κόρη της irritable(2).</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>κανένα</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-29 21:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δεν έχει σκέψεις αυτοκτονίας 5 μήνες μετά.</reaction>
+      <analysis>η επιθυμητή απάντηση στο φάρμακο</analysis>
+      <conclusion>επανέλεγχος σε 2 μήνες</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

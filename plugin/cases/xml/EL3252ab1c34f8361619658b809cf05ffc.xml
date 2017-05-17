@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3252ab1c34f8361619658b809cf05ffc</ID>
+  <patient>
+    <case_date>2015-12-19 22:25:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Σ.Κ.</patient_initials>
+    <age>45</age>
+    <circumstances>Παντρεμένος,πατέρας δύο παιδιών&#13;
+επάγγελμα πυροσβέστης</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ψωρίαση αγκώνων άμφω απο πενταετίας(5)</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>χειρότερα με την ζέστη και μετά απο το μπάνιο(αίσθημα φαγούρας.κνησμός και όχι επιδείνωση του ψωριασικού εξανθήματος)</modalities>
+        <occurrence_time>χρόνια κατασταση με περιορισμένες υφέσεις η εξάρσεις κατά την διάρκεια του έτους</occurrence_time>
+        <body_side>ψωριασικέες πλάκες αγκώνων άμφω</body_side>
+        <appearence_frequency>ψωριασικές πλάκες παρούσες συνεχώς</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΨΩΡΙΑΣΗ&#13;
+χρήση τοπικών σκευασματων(κορτιζονούχες αλοιφές) </conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>αναφέρεται το σύνηθες πρόγραμμα εμβολιασμών,τοπικά χρήση κορτιζονούχων αλοιφών με μικρή συχνότητα τα 5 χρόνια του προβλήματος</therapies_vaccination>
+          <traumas>Δεν αναφέρει κάτι ιδιαίτερο</traumas>
+          <infections>εποχιακές ιώσεις</infections>
+          <other>φλεγμονή δεξιού γλουτού με σχηματισμό αποστήματος που αντιμετωπίστηκε χειρουργικα ένα έτος πριν την έναρξη ομοιπαθητικής αγωγής</other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταίνεται πολύ εύκολα,ιδρώνει πολύ,το καλοκαίρι ειδικά τα μπλουζάκια που φοράει βάφονται κίτρινα&#13;
+τα μαλλιά του λαδώνουν εύκολα,πρέπει να τα πλένει κάθε 2 μέρες</reactions>
+        <sleeping_habits>κοιμάται ανάσκελα συνήθως και πάντα (χειμώνα η καλοκαίρι) βγάζει τα τα πόδια του έξω απο τα σκεπάσματα</sleeping_habits>
+        <food_modalities>του αρέσουν τα λιπαρά φάγητά,το κρέας(θέλει το λιπάκι απο το κρέας)(3),τα αμυλώδη,τα γλυκά&#13;
+Αναφέρει ότι μετά το μπάνιο έχει αίσθημα κνησμού στις περιοχές του ψωριασικών πλακών και ένα αίσθημα ήπιας δυσφορίας&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>νεχωλική ιδισυγκρασία με μια αδιόρατη αίσθηση ότι όλα γενικά είναι μάταια στη ζωή&#13;
+Ανησυχεί ιδιαίτερα για τις δυό του κόρες</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ελεύθερο σοβαρών νοσημάτων </personal_medical_history>
+        <family_medical_history>κφ</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>χρόνιο νόσημα υγείας</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>αίσθημα κνησμού μετά απο το μπάνιο(2)&#13;
+βγάζει τα πόδια έξω απο τα σκεπάσματα(3)&#13;
+&#13;
+&#13;
+</peculiar>
+        <intense>αίσθημα ζέστης στα κάτω άκρα και το κεφάλι(3)&#13;
+επιθυμία λιπαρών τροφών(2)&#13;
+έντονη εφίδρωση(3)&#13;
+Δύσοσμές εκρίσεις (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Τυπικότατη περίπτωση sulphur</remedies_differentiation>
+      <prescription>
+        <remedy>SULPHUR</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps εφ'απαξ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-19 21:25:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ασθενής δηλώνει ενθουσιασμένος,ζητάει επίμονα επίμονα επανάληψη του φαρμάκου(με αρνητική απάντηση απο μέρους μου),αφού του εξηγήθηκαν οι λόγοι της άρνησης μου έδειξε κατανόηση.&#13;
+  Είναι περισσότερο ενεργητικός,ανανεώθηκε όπως ο ίδιος αναφέρει , ποιό ευκίνητος στις κινήσεις του αλλά και στην ομιλία του&#13;
+ Οι ψωριασικές πλάκες εμφανίζουν μια μικρή αύξηση της έκτασης τους,πάντα στην ίδια περιοχή κάτι που ανησυχεί τον ασθενή</reaction>
+      <analysis>Βελτίωση ψυχοδιανοητικης κατάστασης,μικρή επιδείνωση του αξανθήματος</analysis>
+      <conclusion>Πολύ καλή αντίδραση και πολύ ποιό γρήγορα απο το αναμενόμενο,την περίοδο της επανεξέτασης δεν γνώριζα καλά τα επίπεδα υγείας σε όλες τις λεπτομέρειες τους αλλά ήξερα απο την αντίδραση  στό φάρμακο ότι α)&#13;
+εχει γίνει σωστ'η επιλογή φαρμάκου, β) ότι θα έχει πολύ καλά αποτελέσματα η θεραπεία.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδέν,αναμονή</remedy>
+        <potency>ουδεν</potency>
+        <regimen>ουδέν</regimen>
+        <other_notes>αυτή η επίσκεψη στο ιατρείο έγινε για άλλον άσχετο λόγο αν και είχε καθορισθεί επανεξέταση μερικές εβδομάδες αργότερα</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-08-08 21:25:00</followup_date>
+      <conv_med_presc>ουδέν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Σημαντική βελτίωση ψυχοδιανοητικής εικόνας&#13;
+Βελτίωση των ψωριασικών πλακών,η έκταση τους είναι στο ένα τρίτο της αρχικής εικόνας.&#13;
+Εμφάνιση νέου γενικευμένου εξανθήματος φυσαλιδοφλυκταινώδους</reaction>
+      <analysis>Πολύ καλή αντίδραση</analysis>
+      <conclusion>Πολύ καλή εξέλιξη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδέν</remedy>
+        <potency>ουδέν</potency>
+        <regimen>ουδέν</regimen>
+        <other_notes>Σε αυτή την επίσκεψη η οποία έγινε έκτακτα εμφανίζει γενικευμένο εξάνθημα φυσσαλιδοφλυκταινώδες σε όλο την έκταση του κορμού,σε στήθος και πλάτη,το εξάνθημα είναι ιδιαίτερα έντονο με άσχημη εικονα αλλά ο ασθενής είναι ήρεμος και δεν ανησυχεί ιδιαίτερα εκτός απο τον κνησμό που συνυπάρχει και αυτός έίναι ήπιος κατά τα λεγόμενα του .Η εικόνα αξιολογήται ώς άσχημη απο μέρους μου,μερικόύς μήνες νωρίτερα θα την αντιμετώπιζα με ενδοφλέβια χρήση κορτιζόνης και αντισταμινικών,η ήρεμη όμως ψυχική εικόνα του ασθενή σε συνδιασμό με α) την δυνατότητα άμεσης επαφής ασθενή-ιατρού αν χρειαστεί και β) το δυσανάλογο της είκονας του εξανθήματος με τα συνοδά συμπτώματα(κνησμός,γενική δυσφορία) γ)η καλύτερη γνώση των επιπέδων υγείας που είχα εκείνη την εποχή, μέ έκαναν να συστήσω αναμονή στον ασθενή . Υπήρχε τηλεφωνική επικοινωνία τακτικά και δύο μέρες αργότερα μου δήλωσε ότι το εξάνθημα είχε εξαφανιστεί</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2014-10-01 21:00:00</followup_date>
+      <conv_med_presc>ουδεν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ασθενής προσέρχεται στο ιατρείο ιδιαίτερα χαρούμενος,μου δηλώνει ότι δεν υπάρχουν ψωριασικές πλάκες.Τον εξετάζω ο ίδιος και παρατηρώ απόλυτα φυσιολογικό δέρμα στους αγκώνες</reaction>
+      <analysis>Εξαιρετική πορεία</analysis>
+      <conclusion>Πλήρης ίαση με μία μόνο κάψούλα sulphur.To περιστατικό αυτό ήταν το πρώτο που χρησιμοποίησα ομοιοπαθητική αγωγή και εκτος του ότι με χαροποίησε σε όλη την διάρκεια της πορείας του με έκανε ένθερμο οπαδό της ομοιπαθητικής</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδεν</remedy>
+        <potency>ουδεν</potency>
+        <regimen>ουδεν</regimen>
+        <other_notes>Ο ασθενής δηλώνει ενθουσιασμένος και απόλυτα ικανοποιημένος</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2015-02-12 22:00:00</followup_date>
+      <conv_med_presc>τοπική χρήση αντιβιοτικής αλοιφής απο το ίδιο τον ασθενή σε νεοεμφανιζόμενο δοθιήνα δεξιού γλουτού</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πλήρης ίαση των αρχικών ψωριασικών πλακών σε αγκώνες,ο ασθενής προσέρχεται για την αντίμετώπιση δοθιήνα δεξιού γλουτού μετά απο επιπόλαιο τραυματισμό της περιοχής,έχει οδηγήσει σε σχηματισμό αποστήματος μεγέθους μεγάλου αυγού σαφώς οριζόμενου,η περιοχη γύρω απο το απόστημα είναι θερμή και εξέρυθρη. Αναφέρει αναλογο επεισόδιο πριν απο δύο χρόνια περίπου που αντιμετωπίστηκε με λήψη αντιβιοτικών και χειρουργικό καθαρισμό,διαδικασία που τον ταλαιπώρησε ιδιαίτερα .</reaction>
+      <analysis>Ιδιοσυγκρασία sulphur ,αναμενόμενη εξέλιξη</analysis>
+      <conclusion>Δύο φάρμακα ήρθαν στο νού μου κατά την εξέταση το hepar sulphur και η silica,προτίμησα την silica γιατί ταίριαζε καλύτερα στον ασθενη,το δε sulphur ηταν ενα εξίσου πιθανό φάρμακο </conclusion>
+      <repertorization>
+        <desc>ζεσταίνεται γενικά,ειναι καλύτερα με την ζέστη,ιδρώνει</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>SILICA</remedy>
+        <potency>200CH</potency>
+        <regimen>1X1 για 6 ημέρες&#13;
+</regimen>
+        <other_notes>Αυτη η συνταγογράφηση ήταν η πρώτη που έγινε εν θερμώ,χωρις προηγούμενη μελέτη η repertorization ,οπως αναφερθηκε επιλέχθηκε η silica και είχα ιδιαιτερο ενδιαφέρον για την εξέλιξη της πορείας του ασθενή.Μελετώντας την ίδια μέρα διάβασα ότι η silica αντιδοτεί το sulphur και το ενδιαφερον μου αυξήθηκε για το πως θα αντιδράσει ο ασθενης. Την έκτη ημέρα ο ασθενης προσέρχεται στο ιατρείο,το αποστημα είχε μικρύνει στο μισό περίπου,πυορραγούσε ελαφρά η δεν φλεγμονή της γύρω περιοχης είχε αυξηθεί ελαφρά σε έκταση αλλα συνυπήρχαν  διασπαρτες μεγάλες περιοχές δέρματος με φυσιολογικο χρώμα και θερμοκρασία .Μετά απο 5 μέρες περίπου το απόστημα είχε εξαφανιστει και όλα ήταν φυσιολογικά.Ο ασθενής για αλλη μια φορα ήταν ικανοποιημένος που είχε αποφύγει τον χειρουργικό καθαρισμό. &#13;
+  Σε ότι αφορά την ψωρίαση αυτή απουσιαζει πλήρως μέχρι και την ημέρα υποβολης της περιπτωσης.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

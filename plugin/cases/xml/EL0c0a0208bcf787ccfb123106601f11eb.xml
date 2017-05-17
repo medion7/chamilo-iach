@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL0c0a0208bcf787ccfb123106601f11eb</ID>
+  <patient>
+    <case_date>2015-01-26 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Γ. Χ</patient_initials>
+    <age>4</age>
+    <circumstances>Το πρώτο και μοναδικό παιδί της οικογένειας.&#13;
+Έναρξη βρεφονηπιακού σταθμού το Σεπτέμβριο 2014</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από τον πρώτο χρόνο ζωής ήπια επεισόδια βρογχίτιδας 1-2 φορές το χρόνο κατά τους χειμερινούς μήνες. Από το φθινόπωρο του 2014 με την έναρξη παιδικού σταθμού συχνά επεισόδια βρογχίτιδας ανά 15-20 μέρες με σπαστικό βήχα, κάποιες φορές δύσπνοια και πυρετό&gt;38-38,5 ή πυρέτιο&lt;38</origin>
+        <causative_factors>Κοινά κρυολογήματα, ιογενείς λοιμώξεις, ρινίτιδες</causative_factors>
+        <modalities>&lt;αέρας(1), κρύος, υγρός καιρός(1)&#13;
+&gt;καλοκαίρι(3)</modalities>
+        <occurrence_time>&lt; νυχτερινές ώρες(1), &lt; χειμερινή περίοδο(3)</occurrence_time>
+        <body_side>δεν υπάρχει επικράτηση</body_side>
+        <appearence_frequency>ανά 15-20 μέρες</appearence_frequency>
+        <pain_desc>όχι πόνος</pain_desc>
+        <complaint_ext>μόνο στο αναπνευστικό&#13;
+Επίσης, επισκοπικά παρουσιάζει "γκρί συννεφάκια" στους επιπεφυκότες (χρώση σκληρού χιτώνα)</complaint_ext>
+        <other_complaints>όχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>βρογχοδιασταλτικά (aerolin inh) πολύ τακτικά</conv_med_presc>
+        <lab_tests>
+          <desc>γενική αίματος, σίδηρος, φερριτίνη, έλεγχος ανοσοσφαιρινών και αλλεργιών: φυσιολογικός</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Σε ηλικία 15 μηνών είχε πάρει 1 δόση baryta carbonica 200CH γιατί άργησε να περπατήσει, ήταν πολύ συνεσταλμένος και "κολλημένος" στη μαμά του και τον είχε βοηθήσει πολύ. Σε 3 μήνες από το φάρμακο ήταν πολύ πιο ανοιχτός και με επιτάχυνση στην ανάπτυξή του.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει εμβολιαστεί κανονικά. Τον τελευταίο χρόνο δεν εμβολιάστηκε.&#13;
+Προ μηνός αντιβίωση λόγω βρογχοπνευμονίας.</therapies_vaccination>
+          <traumas>όχι εμφανή.&#13;
+Οι γονείς είναι σχετικά μεγάλης ηλικίας, μορφωμένοι και τον έχουν σε πρόγραμμα (καταπίεση?)</traumas>
+          <infections>συχνές ιογενείς λοιμώξεις με πυρέτιο ή πυρετό ανά 15-20 ημέρες από 4 μήνου</infections>
+          <other>οχι</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα, 45 χρ, βρογχικό άσθμα από την παιδική ηλικία που της πέρασε στην εφηβεία και την ταλαιπωρεί από την ηλικία των 20 ετών και πάλι με συχνές κρίσεις και παρακολούθηση από πνευμονολόγο.&#13;
+Πατρ. παππούς: καρκίνος&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt;κρύο(1), υγρασία(2), αέρας(1)&#13;
+&gt; ξηρός καιρός(2)&#13;
+κρυώνει(1)&#13;
+ιδρώνει&lt;μόλις αποκοιμηθεί (3)-γίνεται μούσκεμα και χρειάζεται να τον αλλάξουν.</reactions>
+        <sleeping_habits>Κοιμάται μόνος του, σκεπασμένος, ιδρώνει (μούσκεμα η πυτζάμα του και το μαξιλάρι του και η μητέρα τον αλλάζει ενδιάμεσα), τρίζει δόντια (2), παραμιλάει όχι καθαρές λέξεις, κάποιες φορές αγχωτικά 1-2 φορές την εβδομάδα (1).  Ήσυχος ύπνος εκτός από τις περιόδους που κρυολογεί που τον ταλαιπωρεί συχνά βήχας &lt; 12-2π.μ (2). Ξυπνάει καλά με όρεξη και ενέργεια(2)&#13;
+Κοιμάται και το μεσημέρι για 2 ώρες. Κάποιες φορές ξυπνάει με νεύρα το απόγευμα(1)</sleeping_habits>
+        <food_modalities>επιθυμεί: φρούτα (όχι άγουρα ή ξινά) (2), χυμό πορτοκάλι (2), τυρί (2)&#13;
+δεν επιθυμεί: αυγά (2), ψάρι (2), γάλα (3), σοκολάτα (1), λίπος (2), γλυκά (2)&#13;
+δίψα αρκετή, όχι για κρύο (2)</food_modalities>
+        <menstruation>όχι</menstruation>
+      </physical>
+      <mental_emotional>Έξυπνο, σοβαρό παιδί που θέλει να είναι το επίκεντρο, με πολύ καλή αντίληψη και εξυπνάδα (2)&#13;
+Φόβοι: σκοτάδι(1), πλήθος κόσμου (1), κλειστά μέρη (2), μοναξιά (2)&#13;
+Πεισματάρης(2), κάποιες φορές έχει νεύρα και μπορεί να φωνάξει(1), αλλά δεν χτυπάει. Ευαίσθητος (1), κλαίει εύκολα (1), &gt;παρηγοριά(2)&#13;
+Αγαπάει τα ζώα. Ίσως φοβάται τα σκυλιά. Γενικά δεν θα πλησιάσει τα ζώα έξω (γάτες ή σκυλιά) απλώς τα παρατηρεί αλλά δεν δείχνει να μαζεύεται/φοβάται.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>βρογχικό άσθμα με κληρονομικότητα από τη μητέρα</personal_medical_history>
+        <family_medical_history>Μητέρα με βρογχικό άσθμα</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Υπάρχει έντονη ευαισθησία για λοιμώξεις αναπνευστικού όπως και στη μητέρα του (μίασμα τουμπερκουλινικό?)</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Perspiration-profuse-night-sleep, during (3)&#13;
+Teeth-grinding-sleep (2)</peculiar>
+        <intense>Respiration-asthmatic-children (3)&#13;
+Perspiration profuse night, in sleep (3)&#13;
+Teeth-grinding-sleep (2)&#13;
+aversion milk (3)&#13;
+aversion egg (2)&#13;
+Stomach-thirst (2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>respiration-asthmatic-children (3),generalities- personal history of reccurent  bronchitis(3), mind-fear-crowd-in a(2), mind-fear-narrow places, in (2), mind-fear-dark (1), mind-fear-alone, of being (2),mind-fear-dogs (1) mind-consolation ameliorates (2),teeth-grinding-sleep during(2), mind-restlessness, nervousness-children, in (1), &#13;
+perspiration- profuse- night-sleep, during(3),mind-talking-sleep,in (1), aversion milk(3), aversion chocolate (1), aversion eggs (2), aversion sweets (2), aversion fish (2), desire cheese (2)&#13;
+stomach thirst (2), generalities tendency to take cold(3), generalities- sleep- afternoon agg(1), eye-blyeness-conjunctiva (2)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>tuberculinum ( το οικογενειακό ιστορικό από τη μητέρα, το τρίξιμο των δοντιών, οι νυχτερινοί ιδρώτες και ο φόβος για τα σκυλια (δεν αναφέρεται για τις γάτες) θέτουν ως βασική επιλογή πρώτης συνταγογράφησης το συγκεκριμένο φάρμακο)&#13;
+phosphorus (συμπαθητικό παιδί, πίνει νερό, έχει πολλούς φόβους)&#13;
+pulsatilla (&gt; παρηγοριά, κρυώνει όμως παρά ζεσταίνεται, δεν του αρέσει το λίπος, πίνει πολύ νερό που δε συμβαίνει στο φάρμακο, είναι πεισματάρης και κλαίει εύκολα)&#13;
+calcarea carbonica (δεν έχει στοιχεία υπέρ, εκτός από το ότι είναι κρυουλιάρης, ιδρώνει πολύ, έχει φόβους)&#13;
+natrum sulphuricum (είναι φάρμακο για το παιδικό άσθμα, &lt;υγρασία, δεν του αρέσει το γάλα)</remedies_differentiation>
+      <prescription>
+        <remedy>Tuberculinum  bovinum </remedy>
+        <potency>200 CH, 1M</potency>
+        <regimen>200CH την πρώτη μέρα&#13;
+1Μ τη δεύτερη μέρα</regimen>
+        <other_notes>Το φάρμακο δεν είναι τόσο καθαρό, έχει στοιχεία από πολλά φάρμακα το ιστορικό αλλά το κληρονομικό ιστορικό, οι νυχτερινοί ιδρώτες και το τρίξιμο των δοντιών το τοποθετούν ως πρώτη επιλογή.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-19 08:00:00</followup_date>
+      <conv_med_presc>βρογχοδιασταλτικά  (aerolin)</conv_med_presc>
+      <lab_tests>
+        <desc>Γενική αίματος, σίδηρος, φερριρίνη: φυσιολογικά</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνέχισε να εμφανίζει επεισόδια βήχα και δύσπνοιας αραιότερα όμως σε διάρκεια και μεσοδιαστήματα, όπου χρειαζόταν να πάρει aerolin με μάσκα.1 μήνα μετά την αρχική συνταγογράφηση χρειάστηκε να δοθεί 1 tuberculinum 1M εφάπαξ (επανάληψη φαρμάκου) λόγω έντονου ασθματικού επεισοδίου με μικρή και παροδική βελτίωση. Σε 3 κρίσεις έχει δοθεί arsenicum 200 CH (με βάση key-notes οξέος) και βοηθήθηκε να ξεπεράσει το σπαστικό βήχα και τη δύσπνοια. Επίσης, έχει πάρει antimonium tartaricum 30 CH γιατί ήταν γεμάτος υγρούς ρόγχους και φλέγματα που δεν μπορούσε να βγάλει με πολύ καλό αποτέλεσμα.&#13;
+Πήρε βάρος περίπου 1,5 κιλό, είχε πολύ καλή όρεξη χωρίς να μεταβληθούν οι διατροφικές του προτιμήσεις. Εξακολουθεί να έχει νυχτερινούς ιδρώτες πιο έντονους όταν είναι άρρωστος. Το τρίξιμο των δοντιών έχει σταματήσει. Οι επιπεφυκότες του είναι πιο καθαροί και το παιδί δείχνει πολύ καλύτερα ως ζωτική ενέργεια</reaction>
+      <analysis>Το παιδί εξακολουθεί να απασχολεί με τα ασθματικά επεισόδια. Βέβαια, η ένταση των επεισοδίων είναι τέτοια που αν είχε ακολουθήσει την κλασσική θεραπεία θα είχε πάρει πολλή αντιβίωση και κορτιζόνη, ενώ προς το παρόν χρειάζεται από χημικά  aerolin σε εισπνοές. Το επίπεδο υγείας του ίσως είναι πιο κάτω από την αρχική εκτίμηση, ίσως 5 ή 6 γιατί και από το ιστορικό δεν προκύπτει καθαρό φάρμακο και η κληρονομική επιβάρυνση είναι έντονη (άσθμα μητέρας). Η αντίδραση στην πρώτη συνταγογράφηση δεν κρίνεται πολύ ικανοποιητική.</analysis>
+      <conclusion>Δεν έχει ικανοποιητική απάντηση μετά το πρώτο φάρμακο. Επίσης, δεν είναι καθαρό κατά τη γνώμη μου το επόμενο φάρμακο. Με βάση την ένταση του άσθματος σε μικρό παιδί, το ότι είναι συμπαθητικό, ομιλητικό, θέλει παρηγοριά, έχει φόβους και δεν θέλει να είναι μόνος του, διψάει πολύ(δεν του αρέσει βέβαια το γάλα) επιλέγεται ως επόμενο φάρμακο phosphorus σε καθημερινή μικρή δυναμοποίηση.</conclusion>
+      <repertorization>
+        <desc>respiration asthmatic Children (3), generalities-cold-tendency to take (3), generalities-history-personal-bronchitis, of reccurent (3), generalities-food and drinks-milk aversion (2), fruit desire (2), eggs aversion (2), fish aversion (1), sweets aversion (2), stomach-thirst (2), perspiration-sleep-during (3), mind-sympathetic (2), generalities-sleep-afternoon-agg (1), mind-fear dark (1), mind-fear alone, being of (2), consolation ameliorates (2), coldness in general (1)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>30 CH</potency>
+        <regimen>Καθημερινά για 2 μήνες-επανεκτίμηση</regimen>
+        <other_notes>Το διάστημα που μεσολάβησε είχαμε τηλεφωνική επικοινωνία, είναι πολύ καλά, το καλοκαίρι βέβαια είναι μια καλή εποχή για το παιδί, έκανε και πολλά μπάνια. Θα επανεκτιμηθεί εκ νέου τον Σεπτέμβριο-Οκτώβριο και κυρίως από το πως θα αντιδράσει ο οργανισμός του με την έναρξη του σχολείου.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

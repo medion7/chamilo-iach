@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL08e65e7231a0fa4484abe7369c7b9907</ID>
+  <patient>
+    <case_date>2015-12-18 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΞΒ</patient_initials>
+    <age>24</age>
+    <circumstances>Ελεύθερη&#13;
+δασκάλα σε ιδιωτικό σχολείο&#13;
+Πρώτη επίσκεψη 25 Μαϊου 2015</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>πάντα πονούσε στην περίοδο,δεν θυμάται πότε ακριβώς επιδεινώθηκε τόσο πολύ που δεν την πιάνουν τα Depon , κλαίει από τον πόνο και μπορεί και να λιποθυμήσει αν δεν πάρει το χάπι εγκαίρως.</origin>
+        <causative_factors>---</causative_factors>
+        <modalities>καλυτερεύει με τα ζεστά επιθέματα</modalities>
+        <occurrence_time>---</occurrence_time>
+        <body_side>---</body_side>
+        <appearence_frequency>έντονοι πόνοι σε κάθε κύκλο</appearence_frequency>
+        <pain_desc>κράμπα χαμηλά στην κοιλιά</pain_desc>
+        <complaint_ext>---</complaint_ext>
+        <other_complaints>--</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Προεμμηνορρυσιακό σύνδρομο&#13;
+Νeurofen tab πρίν και κατά την αρχή της περιόδου</conv_med_presc>
+        <lab_tests>
+          <desc>---</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Πολλά ομοιοπαθητικά δεν θυμάται κανένα </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Πριν λίγους μήνες κονδυλώματα που τα καυτηρίασε,στο test Pap της είπαν για "μικρή φλεγμονή", μυρμηγκιές στα χέρια στην Γ΄Λυκείου,τότε και τρανσαμινασαιμία σε τυχαίο εργαστηριακό έλεγχο,χωρίς κλινική συμπτωματολογία,U/S και ηπατίτιδες αρνητικά.&#13;
+Προ έτους αμυγδαλίτιδα χωρίς πυρετό,με πύον ,που υποτροπίαζε για 3 μήνες και χρειάστηκε να πάρει πολύ αντιβίωση για όλο αυτό το διάστημα.(πήρε τότε Mercurius iodatus flavus χωρίς αποτέλεσμα)&#13;
+Αλλεργία που ξεκινάει τον Απρίλιο και τελειώνει αρχές Ιουνίου&#13;
+ινοαδένωμα αριστερού μαστού&#13;
+Τελευταίος πυρετός πριν 2 χρόνια 38,5</therapies_vaccination>
+          <traumas>---</traumas>
+          <infections>κονδυλώματα</infections>
+          <other>της αρέσει και τη βελτιώνει η θάλασσα&#13;
+δεν μπορεί να περπατήσει ξυπόλυτη στα χαλίκια</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας ψωρίαση&#13;
+Μητέρα αναιμία</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Δεν αντέχει τη ζέστη το καλοκαίρι, προτιμάει το χειμώνα</reactions>
+        <sleeping_habits>κφ-&#13;
+πλάι ή μπρούμυτα ,ποτέ ανάσκελα</sleeping_habits>
+        <food_modalities>Επιθυμίες:γλυκά, σοκολάτα&#13;
+Απέχθειες μπανάνες,αυγά&#13;
+Δίψα κφ για κρύο νερό και το χειμώνα</food_modalities>
+        <menstruation>μεγάλη ροή,μεγάλη διάρκεια (7 μέρες) ζωηρό κόκκινο</menstruation>
+      </physical>
+      <mental_emotional>άγχος για τους δικούς της, φόβος για τις καταιγίδες (μικρή περισσότερο)&#13;
+ανοιχτή επικοινωνιακή</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Ευαισθησία στο ανώτερο αναπνευστικό και το γεννετικό σύστημα.&#13;
+Πιθανό συκωτικό μίασμα.&#13;
+Σωματική παθολογία όχι σοβαρή &#13;
+δεν είναι πολύ καθαρό ένα φάρμακο, έχει συμπτώματα από περισσότερα φάρμακα&#13;
+Πιθανώς στα κατώτερα του groupA ή στα ανώτερα του groupB</personal_medical_history>
+        <family_medical_history>κληρονομική προδιάθεση από τη μητέρα για παθολογία του κυκλοφορικού και από τον πατέρα για δερματικά</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Παρότι η παθολογία δεν είναι σοβαρή δεν είναι πολύ καθαρή περίπτωση,δεν δίνει καθαρά ένα φάρμακο, έχει κληρονομική προδιάθεση για πεσμένο αμυντικό μηχανισμό και τουλάχιστο ένα μίασμα</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>χειροτερεύει με το σκόρδο 2&#13;
+προτιμά κρύο νερό 3 &#13;
+άγχος υγείας και άγχος για τους δικούς της 2&#13;
+βελτιώνεται στη θάλασσα 2&#13;
+φοβάται τις καταιγίδες 2&#13;
+θέλει σοκολάτα 3</peculiar>
+        <intense>ζεσταίνεται 3&#13;
+θέλει γλυκά 3&#13;
+πονάει στην περίοδο και βελτιώνεται με τη ζέστη 2&#13;
+φοβάται να μείνει μόνη 2 &#13;
+επιθυμεί παρέα 2&#13;
+συμπάσχει 2&#13;
+κονδυλώματα 2 μυρμηγκιές 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENITALIA­FEMALE ­ CONDYLOMATA 3&#13;
+SKIN ­ WARTS 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cold ­ drinks, water ­ desire 3&#13;
+GENERALITIES ­ SEASHORE, at the ­ amel. 2&#13;
+MIND ­ ANXIETY ­ health, about 2&#13;
+MIND ­ ANXIETY ­ health, about ­ relatives, of 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ protracted 2&#13;
+MIND ­ COMMUNICATIVE 2&#13;
+SLEEP ­ POSITION ­ back, on ­ impossible 1&#13;
+SLEEP ­ POSITION ­ abdomen, on 2&#13;
+MIND ­ FEAR ­ thunderstorm, of 2&#13;
+MIND ­ LOQUACITY 2&#13;
+SLEEP ­ DREAMS ­ falling, of 2&#13;
+EXTREMITIES ­ COLDNESS ­ Foot 2&#13;
+MIND ­ COMPANY ­ desire for 2&#13;
+MIND ­ SYMPATHETIC 2&#13;
+MIND ­ FEAR ­ alone, of being 2&#13;
+GENERALITIES ­ SLEEP ­ after ­ amel. 2&#13;
+GENERALITIES ­ BATHING ­ sea ­ amel. 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cold ­ drinks, water ­ amel. 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ garlic ­ agg. 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ painful (Dysmenorrhoea) 2&#13;
+ABDOMEN ­ PAIN ­ menses ­ during 2&#13;
+ABDOMEN ­ PAIN ­ menses ­ during ­ heat amel. 2&#13;
+ABDOMEN ­ PAIN ­ Inguinal region ­ menses, during 3&#13;
+ABDOMEN ­ PAIN ­ cramping, griping ­ menses, during 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chocolate ­ desire 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Μedorrhinum :έχει τα κονδυλώματα,κοιμάται μπρούμυτα,βελτιώνεται στη θάλασσα , δεν περπατάει ξυπόλυτη στα χαλίκια,αλλά δεν έχει επιθυμία για άγουρα φρούτα,δεν έχει την αίσθηση ότι κάποιος βρίσκεται πίσω της και είναι καλύτερα το πρωί,όχι το βράδυ&#13;
+&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus </remedy>
+        <potency>30/200</potency>
+        <regimen>εφάπαξ μία κάψουλα απόγευμα και την άλλη το επόμενο πρωί</regimen>
+        <other_notes>----</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-17 23:00:00</followup_date>
+      <conv_med_presc>9 Ιουλίου 2015&#13;
+Phosphorus 30/200</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Kαμία αρχική επιδείνωση, καμία αλλαγή στο κύριο σύμπτωμα,ούτε στη γενική της κατάσταση&#13;
+Ξαναπέρνω το ιστορικό.</reaction>
+      <analysis>Λάθος φάρμακο</analysis>
+      <conclusion>Λάθος φάρμακο. Ξαναπέρνω την περίπτωση.&#13;
+Τελικά ο πόνος αρχίζει μια εβδομάδα πριν την περίοδο, κορυφώνεται την πρώτη μέρα και μόλις αρχίσει η ροή βελτιώνεται.Ρωτάω για Lachesis και πράγματι δεν ανέχεται καθόλου τα κλειστά"ούτε φουλάρι δεν φοράω,πνίγομαι !"</conclusion>
+      <repertorization>
+        <desc>SKIN ­ WARTS 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cold ­ drinks, water ­ desire 3&#13;
+GENERALITIES ­ SEASHORE, at the ­ amel. 2&#13;
+MIND ­ ANXIETY ­ health, about ­ relatives, of 1&#13;
+GENITALIA­FEMALE ­ MENSES ­ protracted 2&#13;
+MIND ­ COMMUNICATIVE 2&#13;
+SLEEP ­ POSITION ­ back, on ­ impossible 2&#13;
+SLEEP ­ POSITION ­ abdomen, on 1&#13;
+MIND ­ FEAR ­ thunderstorm, of 2&#13;
+MIND ­ LOQUACITY 3&#13;
+EXTREMITIES ­ COLDNESS ­ Foot 1&#13;
+MIND ­ COMPANY ­ desire for 2&#13;
+MIND ­ SYMPATHETIC 2&#13;
+MIND ­ FEAR ­ alone, of being 2&#13;
+GENERALITIES ­ BATHING ­ sea ­ amel. 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cold ­ drinks, water ­ amel. 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ painful (Dysmenorrhoea) 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chocolate ­ desire 3&#13;
+ABDOMEN ­ PAIN ­ Hypogastrium ­ menses ­ before 3&#13;
+MIND ­ JEALOUSY 2&#13;
+EXTERNAL THROAT ­ CLOTHING agg. 2&#13;
+GENERALITIES ­ MENSES ­ during ­ amel. ­ beginning of menses 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Lachesis</remedy>
+        <potency>30/200</potency>
+        <regimen>εφάπαξ μία κάψουλα απόγευμα ,μία το επόμενο πρωί</regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-18 01:00:00</followup_date>
+      <conv_med_presc>Lachesis 30/200</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η περίοδος μετά τη Lachesis της ήρθε στον ύπνο, ούτε που το κατάλαβε. Το είδε το πρωί που ξύπνησε. Μόλις σηκώθηκε αισθάνθηκε μικρή ενόχληση και πήρε Depon (μέχρι τώρα το Depon δεν την ανακούφιζε,χρειαζόταν Neurofen).&#13;
+ Αρχική επιδείνωση δεν είχε.Είχε άμεση βελτίωση.Έχω εκτιμήσει λάθος το επίπεδο υγείας,είναι χαμηλότερο του 6.</reaction>
+      <analysis>Καλή αντίδραση,σωστό φάρμακο.</analysis>
+      <conclusion>Σωστό φάρμακο.</conclusion>
+      <repertorization>
+        <desc>---</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα φάρμακο</remedy>
+        <potency>---</potency>
+        <regimen>-----</regimen>
+        <other_notes>----</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-12-18 01:20:00</followup_date>
+      <conv_med_presc>Lachesis 30/200</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>πολύ καλή&#13;
+Τώρα εμφανίζει οξύ. Πυώδης αμυγδαλίτιδα με πυρετό 39,6</reaction>
+      <analysis>Εμφάνιση οξέος 5 μήνες μετά τη Lachesis, με χαρακτήρες της περυσινής αμυγδαλίτιδας αλλά και ψηλό πυρετό που τότε δεν είχε.&#13;
+Καθαρό Mercuri .&#13;
+Καλή πρόγνωση.</analysis>
+      <conclusion>Επανεμφάνιση παλιού συμπτώματος, επανεμφάνιση οξέος σε επίπεδο υγείας 7-σωστό φάρμακο,καλή πρόγνωση,μεταπήδηση επιπέδου.</conclusion>
+      <repertorization>
+        <desc>THROAT ­ PAIN ­ Tonsils 3&#13;
+TONSILLITIS ­ SWALLOW agg. 3&#13;
+TONSILLITIS ­ TONSILS ­ swelling 2&#13;
+TONSILLITIS ­ DRINKS, cold drinks amel. 3&#13;
+TONSILLITIS ­ OFFENSIVE odor of mouth (breath), with 3&#13;
+FEVER ­ FACE hot and red with cold feet 2&#13;
+TONSILLITIS ­ RIGHT to LEFT side 2&#13;
+FEVER ­ THIRST for cold drinks, with 2&#13;
+TONSILLITIS ­ SALIVATION during sleep, with 3&#13;
+THROAT ­ INFLAMMATION ­ Tonsils (Tonsillitis) 3&#13;
+TONSILLITIS ­ PAIN extending to ear 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Mercuri</remedy>
+        <potency>200 ch</potency>
+        <regimen>μία κάψουλα επί πυρετού.&#13;
+</regimen>
+        <other_notes>Βελτιωνόταν λίγο αλλά υποτροπίαζε γρήγορα. Έδωσα 1 Μ και το αποτέλεσμα ήταν θεαματικό. Άμεσα υποχώρησε ο πυρετός από το 39,6 στο 36,6 κατάπινε πιο εύκολα και την άλλη μέρα το πύον εξαφανίστηκε, Την τρίτη μέρα ήταν τελείως καλά.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL44167a27515d17a389fed907ce40fe1f</ID>
+  <patient>
+    <gender>male</gender>
+    <patient_initials>&Pi;&Beta; </patient_initials>
+    <age>50</age>
+    <circumstances>&Upsilon;&Psi;&Omicron;&Sigma; 178 &#13;
+&Beta;&Alpha;&Rho;&Omicron;&Sigma; 77&#13;
+&Pi;&Alpha;&Nu;&Tau;&Rho;&Epsilon;&Mu;&Epsilon;&Nu;&Omicron;&Sigma; &Mu;&Epsilon; 2 &Pi;&Alpha;&Iota;&Delta;&Iota;&Alpha; (6-12)&#13;
+&Kappa;&Alpha;&Theta;&Eta;&Gamma;&Eta;&Tau;&Eta;&Sigma;</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>&Rho;&Iota;&Nu;&Iota;&Kappa;&Eta;  &Pi;&Omicron;&Lambda;&Upsilon;&Pi;&Omicron;&Delta;&Iota;&Alpha;&Sigma;&Eta;   &Alpha;&Pi;&Omicron;  10   &Epsilon;&Tau;&Iota;&Alpha;&Sigma;   &Mu;&Epsilon;&Tau;&Alpha;  &Alpha;&Pi;&Omicron;  &Chi;&Rho;  &Alpha;&Lambda;&Lambda;&Epsilon;&Rho;&Gamma;&Iota;&Kappa;&Eta;  &Rho;&Iota;&Nu;&Iota;&Tau;&Iota;&Delta;&Alpha; ( &Upsilon;&Pi;&Eta;&Rho;&Chi;&Epsilon; &Epsilon;&Nu;&Tau;&Omicron;&Nu;&Omicron; &Sigma;&Tau;&Rho;&Epsilon;&Sigma; &Epsilon;&Kappa;&Epsilon;&Iota;&Nu;&Eta; &Tau;&Eta;&Nu; &Pi;&Epsilon;&Rho;&Iota;&Omicron;&Delta;&Omicron; &Mu;&Epsilon; &Tau;&Eta;&Nu; &Epsilon;&Rho;&Gamma;&Alpha;&Sigma;&Iota;&Alpha; &Tau;&Omicron;&Upsilon; )</origin>
+        <causative_factors>&Alpha;&Gamma;&Chi;&Omicron;&Sigma; </causative_factors>
+        <modalities>&Kappa;&Rho;&Upsilon;&Omicron; AGG&#13;
+&Theta;&Alpha;&Lambda;&Alpha;&Sigma;&Sigma;&Alpha;  AMEL</modalities>
+        <occurrence_time>&Pi;&Omicron;&Nu;&Omicron;&Kappa;&Epsilon;&Phi;&Alpha;&Lambda;&Omicron;&Sigma; &Chi;&Epsilon;&Iota;&Rho;  &Pi;&Rho;&Omega;&Iota;  &Kappa;&Alpha;&Lambda;&Upsilon;&Tau;&Epsilon;&Rho;&Epsilon;&Upsilon;&Epsilon;&Iota; &Tau;&Omicron; &Beta;&Rho;&Alpha;&Delta;&Upsilon; </occurrence_time>
+        <body_side>&Epsilon;&Kappa;&Zeta;&Epsilon;&Mu;&Alpha;  &Delta;&Epsilon; &Chi;&Epsilon;&Rho;&Iota; - &Eta;&Mu;&Iota;&Kappa;&Rho;&Alpha;&Nu;&Iota;&Alpha; &Delta;&Epsilon; </body_side>
+        <appearence_frequency>&Pi;&Omicron;&Nu;&Omicron;&Kappa;&Epsilon;&Phi;&Alpha;&Lambda;&Omicron;&Sigma; &Kappa;&Alpha;&Theta;&Epsilon;  2-3 &Mu;&Epsilon;&Rho;&Epsilon;&Sigma;  &#13;
+&Epsilon;&Kappa;&Zeta;&Epsilon;&Mu;&Alpha; &Epsilon;&Pi;&Iota;&Delta;&Epsilon;&Iota;&Nu;&Omega;&Sigma;&Eta;  &Chi;&Epsilon;&Iota;&Mu;&Omega;&Nu;&Alpha;</appearence_frequency>
+        <pain_desc>&Omicron; &Pi;&Omicron;&Nu;&Omicron;&Sigma; &Xi;&Epsilon;&Kappa;&Iota;&Nu;&Alpha;&Epsilon;&Iota; &Iota;&Nu;&Iota;&Alpha;&Kappa;&Alpha; &Kappa;&Alpha;&Iota; &Epsilon;&Omega;&Sigma; &Tau;&Omicron; &Mu;&Alpha;&Tau;&Iota; &Sigma;&Upsilon;&Nu;&Eta;&Theta;&Omega;&Sigma; &Delta;&Epsilon; - &Sigma;&Omicron;&Upsilon;&Beta;&Lambda;&Iota;&Epsilon;&Sigma; &Sigma;&Tau;&Omicron;&Nu; &Epsilon;&Sigma;&Omega; &Kappa;&Alpha;&Nu;&Theta;&Omicron; &#13;
+&Delta;&Epsilon;&Nu; &Alpha;&Nu;&Tau;&Epsilon;&Chi;&Epsilon;&Iota; &Phi;&Omega;&Sigma; - &Theta;&Omicron;&Rho;&Upsilon;&Beta;&Omicron; &Kappa;&Alpha;&Lambda;&Upsilon;&Tau;&Epsilon;&Rho;&Alpha; &Sigma;&Tau;&Omicron; &Sigma;&Kappa;&Omicron;&Tau;&Alpha;&Delta;&Iota;</pain_desc>
+        <complaint_ext>&Chi;&Rho;&Omicron;&Nu;&Iota;&Alpha; &Pi;&Alpha;&Chi;&Upsilon;&Beta;&Lambda;&Epsilon;&Nu;&Nu;&Omicron;&Gamma;&Omicron;&Nu;&Iota;&Tau;&Iota;&Delta;&Alpha; &Iota;&Gamma;&Mu;&Omicron;&Rho;&Epsilon;&Iota;&Omega;&Nu; &Alpha;&Mu;&Phi;&Omega; </complaint_ext>
+        <other_complaints>&Epsilon;&Kappa;&Zeta;&Epsilon;&Mu;&Alpha;  &Delta;&Epsilon;  &Chi;&Epsilon;&Rho;&Iota; &Alpha;&Nu;&Omega; &Epsilon;&Pi;&Iota;&Phi;&Alpha;&Nu;&Epsilon;&Iota;&Alpha;&#13;
+&Upsilon;&Pi;&Epsilon;&Rho;&Theta;&Upsilon;&Epsilon;&Omicron;&Epsilon;&Iota;&Delta;&Iota;&Sigma;&Mu;&Omicron;&Sigma;  &Upsilon;&Pi;&Omicron;  &Theta;&Epsilon;&Rho;&Alpha;&Pi;&Epsilon;&Iota;&Alpha; &#13;
+&Eta;&Mu;&Iota;&Kappa;&Rho;&Alpha;&Nu;&Iota;&Alpha;  &Sigma;&Upsilon;&Nu;&Eta;&Theta;&Omega;&Sigma;  &Delta;&Epsilon; &#13;
+&Gamma;&Omicron;&Pi;   &Mu;&Epsilon;  &Kappa;&Alpha;&Omicron;&Upsilon;&Rho;&Alpha;  &Kappa;&Alpha;&Iota; &Rho;&Epsilon;&Psi;&Iota;&Mu;&Alpha;&Tau;&Alpha; &#13;
+&Upsilon;&Pi;&Epsilon;&Rho;&Tau;&Alpha;&Sigma;&Eta;</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>XOZAL - THYROSTAT - ELOCON CREAM  PULMICORT NASAL SPRY - OMEPRAZOLE</conv_med_presc>
+        <lab_tests>
+          <desc>&Gamma;&Alpha;&Sigma;&Tau;&Rho;&Omicron;&Sigma;&Kappa;&Omicron;&Pi;&Eta;&Sigma;&Eta; = &Epsilon;&Iota;&Kappa;&Omicron;&Nu;&Alpha; &Chi;&Rho; &Gamma;&Alpha;&Sigma;&Tau;&Rho;&Iota;&Tau;&Iota;&Delta;&Alpha;&Sigma; &Kappa;&Alpha;&Iota; &Chi;&Alpha;&Lambda;&Alpha;&Rho;&Omega;&Sigma;&Eta;  &Sigma;&Eta;&Iota;&Gamma;&Gamma;&Kappa;&Tau;&Eta;&Rho;&Alpha;&#13;
+&Epsilon;&Nu;&Delta;&Omicron;&Sigma;&Kappa;&Omicron;&Pi;&Eta;&Sigma;&Eta; &Rho;&Iota;&Nu;&Omicron;&Sigma;  = &Rho;&Iota;&Nu;&Iota;&Kappa;&Eta; &Pi;&Omicron;&Lambda;&Upsilon;&Pi;&Omicron;&Delta;&Iota;&Alpha;&Sigma;&Eta; &Alpha;&Mu;&Phi;&Omega; &Mu;&Epsilon; &Omicron;&Pi;&Iota;&Sigma;&Theta;&Omicron;&Rho;&Iota;&Nu;&Iota;&Kappa;&Eta; &Kappa;&Alpha;&Tau;&Alpha;&Rho;&Rho;&Omicron;&Eta;&#13;
+</desc>
+          <file>https://courses.vithoulkas.edu.gr/main/upload/users/5204/my_cases/ΙΣΤΟΡΙΚΟ1a.png</file>
+        </lab_tests>
+        <pre_homeo_presc>&Omicron;&Chi;&Iota;</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>&Sigma;&Epsilon; &Pi;&Alpha;&Iota;&Delta;&Iota;&Kappa;&Eta;  &Eta;&Lambda;&Iota;&Kappa;&Iota;&Alpha;  &Epsilon;&Chi;&Epsilon;&Iota;  &Kappa;&Alpha;&Nu;&Epsilon;&Iota; &Omicron;&Lambda;&Omicron;&Upsilon;&Sigma;  &Tau;&Omicron;&Upsilon;&Sigma;  &Epsilon;&Mu;&Beta;&Omicron;&Lambda;&Iota;&Alpha;&Sigma;&Mu;&Omicron;&Upsilon;&Sigma;&#13;
+&Epsilon;&Pi;&Iota;  10  &Chi;&Rho;&Omicron;&Nu;&Iota;&Alpha;  &Pi;&Alpha;&Upsilon;&Sigma;&Iota;&Pi;&Omicron;&Nu;&Alpha;  &Gamma;&Iota;&Alpha;  &Eta;&Mu;&Iota;&Kappa;&Rho;&Alpha;&Nu;&Iota;&Alpha; &Kappa;&Alpha;&Iota; &Alpha;/&Phi;&Lambda;&Epsilon;&Gamma;&Mu;&Omicron;&Nu;&Omega;&Delta;&Omicron;&Iota;   &Epsilon;&Pi;&Iota; 10 &Chi;&Rho;&Omicron;&Nu;&Iota;&Alpha;   &Theta;&Epsilon;&Rho;&Alpha;&Pi;&Epsilon;&Iota;&Alpha; &Mu;&Epsilon; &Alpha;&Nu;&Tau;&Iota;&Sigma;&Tau;&Alpha;&Mu;&Iota;&Nu;&Iota;&Kappa;&Alpha;  &Kappa;&Alpha;&Iota; &Kappa;&Omicron;&Rho;&Tau;&Iota;&Zeta;&Omicron;&Nu;&Omicron;&Upsilon;&Chi;&Alpha;  &Gamma;&Iota;&Alpha; &Tau;&Omicron; &Epsilon;&Kappa;&Zeta;&Epsilon;&Mu;&Alpha;   $ &Tau;&Eta;&Nu; &Alpha;&Lambda;&Lambda;&Epsilon;&Rho;&Gamma;&Iota;&Kappa;&Eta;  &Rho;&Iota;&Nu;&Iota;&Tau;&Iota;&Delta;&Alpha; </therapies_vaccination>
+          <traumas>&Epsilon;&Iota;&Nu;&Alpha;&Iota; &Alpha;&Nu;&Epsilon;&Rho;&Gamma;&Omicron;&Sigma; &Kappa;&Alpha;&Iota; &Kappa;&Alpha;&Nu;&Epsilon;&Iota; &Mu;&Epsilon;&Tau;&Alpha;&Phi;&Rho;&Alpha;&Sigma;&Epsilon;&Iota;&Sigma;  &Sigma;&Tau;&Omicron; &Sigma;&Pi;&Iota;&Tau;&Iota; ( &Tau;&Omicron;&Nu; &Pi;&Rho;&Omicron;&Beta;&Lambda;&Eta;&Mu;&Alpha;&Tau;&Iota;&Zeta;&Epsilon;&Iota;  &Pi;&Omicron;&Lambda;&Upsilon;  &Alpha;&Upsilon;&Tau;&Eta;  &Eta; &Kappa;&Alpha;&Tau;&Alpha;&Sigma;&Tau;&Alpha;&Sigma;&Eta; )</traumas>
+          <infections>&Omicron;&Upsilon;&Delta;&Epsilon;&Nu;</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>&Epsilon;&Kappa;&Zeta;&Epsilon;&Mu;&Alpha;  &Alpha;&Nu;&Omega; &Alpha;&Kappa;&Rho;&Omega;&Nu;   &Omicron; &Pi;&Alpha;&Tau;&Epsilon;&Rho;&Alpha;&Sigma; &#13;
+&Upsilon;&Pi;&Epsilon;&Rho;&Tau;&Sigma;&Eta;  &Eta; &Mu;&Eta;&Tau;&Epsilon;&Rho;&Alpha; </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&Kappa;&Rho;&Upsilon;&Omega;&Nu;&Epsilon;&Iota;  &Epsilon;&Iota;&Delta;&Iota;&Kappa;&Alpha;  &Tau;&Alpha;  &Kappa;&Alpha;&Tau;&Omega;  &Alpha;&Kappa;&Rho;&Alpha;  &Tau;&Omicron;  &Chi;&Epsilon;&Iota;&Mu;&Omega;&Nu;&Alpha;  &Epsilon;&Iota;&Nu;&Alpha;&Iota; &Kappa;&Rho;&Upsilon;&Alpha; </reactions>
+        <sleeping_habits>&Kappa;&Omicron;&Iota;&Mu;&Alpha;&Tau;&Epsilon;  &Alpha;&Nu;&Alpha;&Sigma;&Kappa;&Epsilon;&Lambda;&Alpha;  &#13;
+&Omicron;  &Upsilon;&Pi;&Nu;&Omicron;&Sigma;  &Delta;&Epsilon;&Nu;  &Xi;&Epsilon;&Kappa;&Omicron;&Upsilon;&Rho;&Alpha;&Zeta;&Epsilon;&Iota; { &Xi;&Upsilon;&Pi;&Nu;&Alpha;&Omega;  &Chi;&Alpha;&Lambda;&Iota;&Alpha;  }</sleeping_habits>
+        <food_modalities>&Kappa;&Rho;&Epsilon;&Alpha;&Sigma;  DES  3&#13;
+LIPOS 1&#13;
+GLYKA  3</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>KLEISTO  ATOMO  3&#13;
+DEILOS  2&#13;
+&Kappa;&Alpha;&Pi;&Omicron;&Upsilon;- &Kappa;&Alpha;&Pi;&Omicron;&Upsilon;  &Epsilon;&Chi;&Epsilon;&Iota;    &Xi;&Epsilon;&Sigma;&Pi;&Alpha;&Sigma;&Mu;&Alpha;&Tau;&Alpha;  &Mu;&Epsilon; &Phi;&Omega;&Nu;&Epsilon;&Sigma; &#13;
+&Alpha;&Nu;&Alpha;&Pi;&Omicron;&Phi;&Alpha;&Sigma;&Iota;&Sigma;&Tau;&Omicron;&Sigma; 3&#13;
+&Upsilon;&Psi;&Omicron;&Phi;&Omicron;&Beta;&Iota;&Alpha;  3&#13;
+&Kappa;&Lambda;&Epsilon;&Iota;&Sigma;&Tau;&Omicron;&Phi;&Omicron;&Beta;&Iota;&Alpha; 1&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <disturbance_depth></disturbance_depth>
+        <personal_medical_history>&Upsilon;&Pi;&Epsilon;&Rho;&Theta;&Upsilon;&Rho;&Omicron;&Epsilon;&Iota;&Delta;&Iota;&Sigma;&Mu;&Omicron;&Sigma;  - &Upsilon;&Pi;&Epsilon;&Rho;&Tau;&Alpha;&Sigma;&Eta;  &Tau;&Alpha;  &Tau;&Epsilon;&Lambda;&Epsilon;&Upsilon;&Tau;&Alpha;&Iota;&Alpha;  2 &Chi;&Rho;&Omicron;&Nu;&Iota;&Alpha;</personal_medical_history>
+        <family_medical_history>&Alpha;&Lambda;&Lambda;&Epsilon;&Rho;&Gamma;&Iota;&Kappa;&Eta;  &Pi;&Rho;&Omicron;&Delta;&Iota;&Alpha;&Theta;&Epsilon;&Sigma;&Eta;</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>&Alpha;&Sigma;&Theta;&Epsilon;&Nu;&Eta;&Sigma;  &Mu;&Epsilon;  &Alpha;&Rho;&Chi;&Iota;&Kappa;&Alpha;  &Delta;&Epsilon;&Rho;&Mu;&Alpha;&Tau;&Omicron;&Lambda;&Omicron;&Gamma;&Iota;&Kappa;&Omicron; &Pi;&Rho;&Omicron;&Beta;&Lambda;&Eta;&Mu;&Alpha;  &Kappa;&Alpha;&Iota; &Epsilon;&Pi;&Epsilon;&Kappa;&Tau;&Alpha;&Sigma;&Eta;  &Alpha;&Rho;&Gamma;&Omicron;&Tau;&Epsilon;&Rho;&Alpha;  &Sigma;&Tau;&Omicron;  &Psi;&Upsilon;&Chi;&Omicron;&Delta;&Upsilon;&Alpha;&Nu;&Omicron;&Eta;&Tau;&Iota;&Kappa;&Omicron;  &Lambda;&Omicron;&Gamma;&Omega;  &Phi;&Alpha;&Rho;&Mu;&Alpha;&Kappa;&Epsilon;&Upsilon;&Tau;&Iota;&Kappa;&Eta;&Sigma;  &Kappa;&Alpha;&Tau;&Alpha;&Pi;&Iota;&Epsilon;&Sigma;&Eta;&Sigma; </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>&Kappa;&Lambda;&Epsilon;&Epsilon;&Iota; &Kappa;&Alpha;&Iota; &Sigma;&Upsilon;&Gamma;&Kappa;&Iota;&Nu;&Epsilon;&Iota;&Tau;&Alpha;&Iota;  &Mu;&Epsilon;  &Tau;&Eta;&Nu;  &Mu;&Omicron;&Upsilon;&Sigma;&Iota;&Kappa;&Eta;    3</peculiar>
+        <intense>&Xi;&Eta;&Rho;&Delta;&Epsilon;&Rho;&Mu;&Iota;&Alpha; 3 &Mu;&Epsilon;  &Pi;&Epsilon;&Pi;&Alpha;&Chi;&Upsilon;&Nu;&Sigma;&Eta; &Delta;&Epsilon;&Rho;&Mu;&Alpha;&Tau;&Omicron;&Sigma;  &Delta;&Epsilon;  &Alpha;&Nu;&Omega;  &Epsilon;&Pi;&Iota;&Phi;  &Chi;&Epsilon;&Rho;&Iota;&Omicron;&Upsilon; &Chi;&Epsilon;&Iota;&Rho;  &Tau;&Omicron;  &Chi;&Epsilon;&Iota;&Mu;&Omega;&Nu;&Alpha;  &Kappa;&Alpha;&Iota;  &Kappa;&Rho;&Upsilon;&Omicron; &Kappa;&Alpha;&Mu;&Iota;&Alpha;  &Phi;&Omicron;&Rho;&Alpha;   &Kappa;&Alpha;&Iota; &Rho;&Alpha;&Gamma;&Alpha;&Delta;&Epsilon;&Sigma; 3&#13;
+&Delta;&Upsilon;&Sigma;&Chi;&Epsilon;&Rho;&Epsilon;&Iota;&Alpha;  &Rho;&Iota;&Nu;  &Alpha;&Nu;&Alpha;&Pi;&Nu;&Omicron;&Eta;&Sigma;  &Alpha;&Pi;&Omicron;  &Rho;&Iota;&Nu;  &Pi;&Omicron;&Lambda;&Upsilon;&Pi;  &Mu;&Epsilon; &Epsilon;&Xi;&Alpha;&Rho;&Sigma;&Epsilon;&Iota;&Sigma;  &Kappa;&Alpha;&Iota;  &Upsilon;&Phi;&Epsilon;&Sigma;&Eta;&Sigma;  &Chi;&Epsilon;&Iota;&Rho;  &Alpha;&Nu;&Omicron;&Iota;&Xi;&Eta;  &Kappa;&Alpha;&Iota;  &Phi;&Theta;&Eta;&Nu;&Omicron;&Pi;&Omega;&Rho;&Omicron;  3&#13;
+&Alpha;&Lambda;&Lambda;&Epsilon;&Rho;&Gamma;&Iota;&Kappa;&Eta;  &Rho;&Iota;&Nu;&Iota;&Tau;&Iota;&Delta;&Alpha;  &Chi;&Epsilon;&Iota;&Rho;  &Alpha;&Nu;&Omicron;&Iota;&Xi;&Eta;  2 &#13;
+&Eta;&Mu;&Iota;&Kappa;&Rho;&Alpha;&Nu;&Iota;&Alpha;  &Delta;&Epsilon; 3  &#13;
+&Upsilon;&Pi;&Epsilon;&Rho;&Tau;&Alpha;&Sigma;&Eta;  2  </intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

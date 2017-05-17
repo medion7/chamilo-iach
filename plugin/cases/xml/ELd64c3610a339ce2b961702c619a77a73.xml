@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd64c3610a339ce2b961702c619a77a73</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Κ.</patient_initials>
+    <age>30</age>
+    <circumstances>Ανύπαντρη,ιδιωτικός υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>5 χρόνια πριν</origin>
+        <causative_factors>οι κρίσεις πανικού εμφανίστηκαν μετά από ένα χωρισμό.</causative_factors>
+        <modalities>κρίσεις πανικού παθαίνει όταν βρίσκεται σε λεωφορεία και μέρη με πολύ κόσμο γενικά.η ίδια σημειώνει ότι κάθε φορά που πέφτει ψυχολογικά παθαίνει κρίσεις πανικού.</modalities>
+        <occurrence_time>ανεξάρτητα χρόνου μέσα στην ημέρα.</occurrence_time>
+        <body_side></body_side>
+        <appearence_frequency>ανάλογα τη ψυχολογία της, &#13;
+κατά μέσο όρο συμβαίνει 3-4 φορές το μήνα.</appearence_frequency>
+        <pain_desc>οι κρίσεις της ξεκινάν με θολούρα στο κεφάλι, μάτια βαριά, αίσθηση ότι θα λιποθυμήσει,δύσπνοια, ιδρώτας σε αυχένα και χέρια.&#13;
+αν κάποιος της πει ότι χλώμιασε θα λιποθυμήσει επί τόπου.</pain_desc>
+        <complaint_ext></complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>κρίσεις πανικού εδώ και 5 χρόνια.&#13;
+βαλεριάνες και ψυχολόγο.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>έχουν γίνει όλοι οι παιδικοί εμβολιασμοί, κατασταλτικές θεραπείες σπάνια(αντιβιώσεις κπα έχει να πάρει πάνω από 10 χρόνια)&#13;
+καυτηριασμός κονδυλωμάτων σε τράχηλο μήτρας(τα καυτηρίαζε συνέχεια και ξανάβγαιναν),κριθαράκι στα μάτια έβγαζε παλιά(2) αλλά εδώ και 2-3 χρόνια δε ξαναβγήκε.κάποια κρέμα έβαζε για αυτό δε θυμάται σκεύασμα.</therapies_vaccination>
+          <traumas>βιασμός από τον τότε σύντροφο της(6 χρόνια πριν),υπό την επήρεια αλκοόλ και των δύο.</traumas>
+          <infections>κονδυλώματα σε τράχηλο μητρας</infections>
+          <other>ρινορραγίες (3) σε παιδική ηλικία.&#13;
+και στη παρούσα φάση βήχας(2) μη παραγωγικός, βραχνάδα(2)</other>
+        </personal>
+        <family>
+          <diseases>πατέρας: μπαλονάκι στη καρδιά 2-3 φορές, έλκος στο στομάχι.&#13;
+μητέρα:υγιής &#13;
+παππούδες: πέθαναν από καρκίνο ο ένας σε πνεύμονες και ο άλλος σε παχύ έντερο(ηλικίες 65,59)&#13;
+γιαγιάδες: ζουν και οι δύο σε ηλικίες 85 και 75 ετών (στην επαρχία),υγιής.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρύα άκρα(2) και γενικά κρυώνει(3)&#13;
+δεν επηρεάζεται ιδιαίτερα από υγρασία ή ξηρό κλίμα.&#13;
+</reactions>
+        <sleeping_habits>παραμιλά(2),τινάγματα λίγο αφού τη πάρει ο ύπνος(1),&#13;
+ύπνος μπρούμυτα και λίγο δεξιά.&#13;
+ο ύπνος την ανανεώνει την ανακουφίζει(2),&#13;
+βλέπει αρκετά όνειρα(συχνά όνειρα με τάφους ,ταφόπλακες, νεκροταφεία..)&#13;
+σχεδόν κάθε βράδυ πριν κοιμηθεί βγαίνει από το σώμα (''σαν η ψυχή να διαχωρίζεται από το φυσικό μου σώμα ,αλλού είμαι εγώ αλλού το σώμα μου'')</sleeping_habits>
+        <food_modalities>δίψα μεγάλη(3) και σε μεγάλες ποσότητες για κρύο νερό (πάντα από ψύκτη)&#13;
+επιθυμία: γλυκά-παγωτό(1),καυτερά(3),πικάντικα(3),γλυκόξινα(2),καπνιστά(1),αλκοόλ(3)&#13;
+απέχθεια: λαδερά(2) ,παχύ(2)</food_modalities>
+        <menstruation>διάρκεια 5 ημέρες, καθαρό έντονο κόκκινο χρώμα. κυκλος κφ.</menstruation>
+      </physical>
+      <mental_emotional>Φοβίες:&#13;
+για νεκροταφεία(2),για ασθένεια(3),οτι κάτι κακό θα συμβεί(2) ,''αν μάθω κακό νέο θα μου κοπούν τα πόδια''( και αδυναμία κατάπτωση νύστα) ,αστραπές καταιγίδες(2),όταν πέφτουν οι παλμοί πριν το ύπνο(2), σεισμούς(2),αεροπλάνα(4).&#13;
+προσωπικότητα:&#13;
+ευαίσθητη ρομαντική ,συμπάσχει(2),καταπιεσμένα συναισθήματα(2)(φοβάται ότι θα χάσει τον άλλον αν μιλήσει), εξωστρεφής (2) (''το παιδί της παρέας'')&#13;
+νιώθει απόρριψη από γονείς(2),&#13;
+-δεν σκέφτεται ιδιαίτερα ,αυθόρμητες ,ευκρινείς,γρήγορες απαντήσεις.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>παντελώς απουσία πυρετού.</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion></conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>πεντακάθαρος phosphorus</remedies_differentiation>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>200ch</potency>
+        <regimen>1 κάψουλα</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELee77a2e5c4f329c4995d3156ccec34d2</ID>
+  <patient>
+    <case_date>2016-10-07 14:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Π.Λ.</patient_initials>
+    <age>0</age>
+    <circumstances>Καπνιστρια, χωρισμενη</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ιγμορίτιδα</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>Πιο ευαίσθητη δεξια</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Βήχας , ενοχλήσεις σε γόνατα, πολλές ελιες</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Sulphur</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αντιβιωσεις (και ενέσιμη, δεν την έπιανε πια) +  αντιισταμινικά από 1992 ως 2006 όπου ξεκίνησε ομοιοπαθητικη( για την ιγμορίτιδα)</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητέρα Ca θυρεοειδους</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεστενεται(3), χειρότερα στον ηλιο(3), συχνά ξεσκεπάζει τα πόδια στον υπνο</reactions>
+        <sleeping_habits>Κοιμάται πλάι αριστερά και δεξιά, σπάνια ονειρα</sleeping_habits>
+        <food_modalities>Επιθυμει Ζυμες(2),λεμόνι(2), λίπος(2), αυγά(3)&#13;
+Απεχθεια σουπες&#13;
+Δεν διψαει( περνάει και μέρα που δεν πίνει νερό)</food_modalities>
+        <menstruation>Κανονικός κυκλος</menstruation>
+      </physical>
+      <mental_emotional> δεν κλαίει εύκολα, το έχει δουλέψει πολύ για να μπορεί να εκφράσει τα συναισθήματά της,  κλειστοφοβια</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Δεν κατουραει μπροστά σε αλλους</peculiar>
+        <intense>Βήχας το πρωι(2), φλεματα (1), ιδρώτας(3), μπουκωμα1)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>-</remedies_differentiation>
+      <prescription>
+        <remedy>Νat-m</remedy>
+        <potency>1M(1), 10M(1), 6x(30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-10-07 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετρια</reaction>
+      <analysis>Τα φλεματα σταμάτησαν αλλά όχι και το μπούκωμα, ξεφυσαει(3), δεν έχει διάθεση, άγχος,περναει χωρισμο τα γόνατά ενταξει, κρυώνει πιο πολύ, κρύα πόδια, ανήσυχα ονειρα, λιγότερο ιδρώτα, μετριάζει πιο γρηγορα</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ignatia</remedy>
+        <potency>200M(1), 1M(1)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-10-07 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Νιώθει πολύ καλύτερα, δεν έχει νευρα, έκανε πυρετο,  έχει πάλι φλεματα, μπούκωμα τα ίδια ,ωξεφυσαει, φρουτα δεν τρωει</analysis>
+      <conclusion>Περιμενω</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ignatia</remedy>
+        <potency>6X</potency>
+        <regimen>*30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

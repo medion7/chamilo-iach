@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL1f2f87eb0b700b3a75c5672e085950d8</ID>
+  <patient>
+    <case_date>2014-10-15 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ρ.Φ</patient_initials>
+    <age>8</age>
+    <circumstances>ΚΟΡΙΤΣΑΚΙ 5 ΧΡΟΝΩΝ&#13;
+ΠΑΕΙ ΒΡΕΦΟΝΗΠΕΙΑΚΟ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>δυσκολια στον υπνο ,θελει να κοιμαται με την μαμα της&#13;
+παντα ηταν δυσκολη</origin>
+        <causative_factors>φοβαται</causative_factors>
+        <modalities>βελτιωνεται με τα χαδια και την παρηγορια κοιμαται καλλιτερα &#13;
+θελει να κοιμαται με την μαμα τη&#13;
+της αρεσει να παιζει εξω </modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>οχι</conv_med_presc>
+        <lab_tests>
+          <desc>οχι</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εχει κανει ολα τα εμβολια &#13;
+συχνες ωτιτιδες,παιρνει αντιβιωση </therapies_vaccination>
+          <traumas>---</traumas>
+          <infections>κανει πυρετο 2-3 φορεσ το χρονο</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>τιποτα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>δεν της αρεσει η ζεστη &#13;
+ολο ξεσκεπαζεται &#13;
+δεν θελει ζακετα </reactions>
+        <sleeping_habits>αλλαζει συνεχει ασταση &#13;
+ψαχνει τη μητερα της</sleeping_habits>
+        <food_modalities>τρωει μονο γλυκα με το ζορι λιγο φαγητο </food_modalities>
+        <menstruation>--</menstruation>
+      </physical>
+      <mental_emotional>καλο παιδι ,της αρεσουν τα χαδια ,αγκαλιες φιλια &#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>τιποτα </personal_medical_history>
+        <family_medical_history>τιποτα</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>υψηλο επιπεδο υγειας</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>--</peculiar>
+        <intense>δεν κοιμαται μονη της 3&#13;
+της αρεσουν τα χαδια 3&#13;
+θελει παρηγορια 3&#13;
+γλθκα 3&#13;
+καλλιτερα εξω απο το σπιτι 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind -consolation amel 3&#13;
+generals -food and drinks -sweet desire 3&#13;
+mind -company-desire for 2&#13;
+mind -fear-alone of being -night 2&#13;
+mind-weeping-air in open -amel 3&#13;
+mind fear-dark of 3&#13;
+mind -fear-alone of being -darkness in the 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>pulsatilla </remedy>
+        <potency>200ch</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-10 18:00:00</followup_date>
+      <conv_med_presc>pulsatilla 200ch</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>βελτιωθηκε πολυ η συμπεριφορα της &#13;
+δεν ειναι τοσο κλαψιαρα ,ακομα δεν κοιμαται μονη της &#13;
+εκανε ωτιτιδα κ πηρε αντιβιωση&#13;
+ επανερχονται τα αρχικα συμπτωματα </reaction>
+      <analysis>η θεραπεια διακοπηκε απο την αντιβιωση που κατα πασα πιθανοτητα αντιδοτησε την pulsatilla</analysis>
+      <conclusion>αναγκη επαναληψης λογω αντιδοτησης &#13;
+η εικονα της πθλσατιλλας ειναι καθαρη καθως κ το επιπεδο θγειας οποτε ανεβαζω δθναμοποιηση</conclusion>
+      <repertorization>
+        <desc>mind consulation amel 3&#13;
+generals food and drink desire sweets 3&#13;
+mind company desire 2&#13;
+mind weeping -air in open amel 3 mind company desire for 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>pulsatilla </remedy>
+        <potency>1m</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-03-29 18:00:00</followup_date>
+      <conv_med_presc>pulsatilla 1 m</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>βελτιωση στην ψυχολογια του παιδιου ειναι πιο αυτονομο δεν γρινιαζει τοσο &#13;
+εφυγαν οι φοβοι οι εντονοι παει σχολειο χωρις να κλαιει </reaction>
+      <analysis>εχει βελτιωση κ στην ψυχολογια του παιδιου κ στισ φοβιες του οι γονεις σημειωνουν βελτιωση κ στην αυτονομια του &#13;
+σωστο φαρμακο </analysis>
+      <conclusion>καθαρη εικονα φαρμακου υψηλο επιπεδο υγειας </conclusion>
+      <repertorization>
+        <desc>==</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2016-02-24 18:00:00</followup_date>
+      <conv_med_presc>δεν χρειαστηκε</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

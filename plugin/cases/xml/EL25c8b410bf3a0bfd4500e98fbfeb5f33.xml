@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL25c8b410bf3a0bfd4500e98fbfeb5f33</ID>
+  <patient>
+    <case_date>2014-11-28 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΝΛ</patient_initials>
+    <age>9</age>
+    <circumstances>Παιδι 8χρονων μαθητης Δημοτικου</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πριν 20 μερες εμφανιστηκε δερματικη βλαβη με μικροαποστηματια-κιτρινου χρωματος κατω απ το κατω χειλος ανωδυνη χωρις πυρετο που εκλεισε μονη της αλλα ξαναγινε πολυ μεγαλυτερη μπροστα απ το δεξι αυτι.Ταυτοχρονα το παιδι παρουσιασε εντονη ευερεθιστοτητα-νευρικοτητα3,μιλουσε δυνατα στον υπνο3, ετριζε δοντια 3(για πρωτη φορα) και το βραδυ ενιωθε κρυα τα ποδια 2και ηθελε ζεστη και τριψιμο και το κεφαλι ζεστο 1 χωρις να ανεβαζει πυρετο-μονο δεκατα</origin>
+        <causative_factors>Μολυνση μικροβιακη απο σταφυλοκκοκο</causative_factors>
+        <modalities>&lt;με κοπωση (η δερματικη βλαβη χειροτερα μετα τις τελευταιες 5μερες που πηγαν ταξειδι κ κουραστηκε πολυ το παιδι)</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>&lt;δεξια&#13;
+ μπροστα απ το δεξι αυτι τεραστια δερματικη βλαβη μεγεθους φασολιου με κιτρινα μικροαποστηματια</body_side>
+        <appearence_frequency>τελευταιες 20 μερες</appearence_frequency>
+        <pain_desc>οχι πονος</pain_desc>
+        <complaint_ext>Στο δερμα κατω απο το κατω χειλος-επουλωθηκε η βλαβη μονη της και πηγε μπροστα απο δεξι αυτι πολυ μεγαλυτερη σε εκταση με πολλα μικροαποστηματια γυρω γυρω</complaint_ext>
+        <other_complaints>Χρονια προβληματα:Ηπια απνοια στον υπνο2&#13;
+                             Ανορεξια3&#13;
+                             Eυθιξια μεγαλη στις επιπληξεις3 και ευκολο κλαμα οταν θιγεται η σε επιπληξη2&#13;
+                             Ρινορρααγιες παλαιοτερα&#13;
+                             Φοβος για το σκοταδι2-θελει καποιος ναναι διπλα του μεχρι ναποκοιμηθει &#13;
+                             </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>οχι</conv_med_presc>
+        <lab_tests>
+          <desc>οξυ περιστατικο:κ/α δερματικης βλαβης με πυον=σταφυλοκκοκος aerus</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Ναι- Phos--&gt;βοηθησε πολυ κ σταματησαν ρινορραγιες</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αντιβιωτικη αγωγη με αμινογλυκοσιδες και κεφαλοσπορινες 3ης στη γεννηση λογω εμφανισης διαχυτου-καθολικου εξανθηματος με τη γεννηση&#13;
+&#13;
+Εμβολια:μονο μια δοση Αιμοφιλου και 2 δοσεις Αντιτετανικου</therapies_vaccination>
+          <traumas>οχι</traumas>
+          <infections>οστρακια-στρεπτοκκοκικος 2φορες(η μια με κυναγχη-εξανθημα και συμμετοχη των αρθρωσεων)</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητερα 44χρονων-ενδομητριωση βαρια με χειρουργικη κ φαρμακευτικη αποκατασταση &#13;
+&#13;
+Πατερας54χρονων-με ηπια ψυχαναγκαστικη κ διπολικη διαταραχη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt;κρυο ειδικα στα ποδια το βραδυ&#13;
+&lt;&lt;πολυ ζεστη&#13;
+</reactions>
+        <sleeping_habits>Sleep, position =πλαγια με τα χερακια στο μαγουλο&#13;
+κοιμαται λιγο &lt;8ωρες (για την ηλικια του)&#13;
+Ονειρα σπανια τα θυμαται</sleeping_habits>
+        <food_modalities>desire:SWEETS, SALT3,  , MEAT3,FISH3, EGG2, BREAD3, PASTA,2) &#13;
+Σοκολατες 4(kinder)-παγωτα3  φρουτα4 ,αλεσμενα3&#13;
+Φοβος μην πνιγει.Παραδοξο=τρωει-μασαει κρεας,ψαρι,ψωμι, λοιπα πχ(βραστα λαχανικα,οσπρια τα τρωει αλεσμενα-φοβαται μην πνιγει 3&#13;
+Νερο πινει αρκετο2&#13;
+aversion:Fat 1, λαχανικα3,οσπρια2 </food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Ευερεθιστοτητα-Νευρικοτητα3,με την εμφανιση της λοιμωξης&#13;
+Φοβος για το σκοταδι2-θελει καποιος ναναι διπλα του μεχρι ναποκοιμηθει &#13;
+Συμπασχει με τους φτωχους κ απορους-θελει να τους βοηθησει3-(οχι τοσο με τους γονεις)&#13;
+Βιαστικος 2 Ανυπομονος2 Πεισματαρης2&#13;
+                             </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>1)Πολλες λαρυγγιτιδες απο βρεφος μεχρι νηπιο&#13;
+2)Στη γεννηση εμφανιση διαχυτου-καθολικου εξανθηματος (αδιευκρινηστης αιτιολογιας-πιθανον παρατασιακο βρεφος0&#13;
+3)οστρακια-στρεπτοκκοκικος 2φορες(η μια με κυναγχη-εξανθημα και συμμετοχη των αρθρωσεων)&#13;
+4)Ρινορραγιες απο 3μεχρι 7χρονων (εφυγαν με το Phos)</personal_medical_history>
+        <family_medical_history>Γονεις και παππουδες εν ζωη χωρις ιδιατερα προβληματα</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>φαρμακο για οξεια κατασταση</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>FACE ¬ ERUPTIONS-boils 3 &#13;
+HEAD-HEAT-COLDNESS - extrimities,with coldness of3&#13;
+TEETH-GRINDING3&#13;
+MIND-IRRITABILITY4&#13;
+MIND - TALKING ¬ sleep3&#13;
+</peculiar>
+        <intense>MIND-IRRITABILITY4&#13;
+FACE ¬ ERUPTIONS-boils 3 &#13;
+TEETH-GRINDING3&#13;
+MIND - TALKING ¬ sleep3&#13;
+MIND ¬ FEAR ¬ dark 3 &#13;
+RESPIRATION - ARRESTED-sleep during2&#13;
+HEAD-HEAT-COLDNESS - extrimities,with coldness of2 &#13;
+HEAD-HEAT2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>FACE ¬ ERUPTIONS-boils 3 &#13;
+HEAD-HEAT-COLDNESS - extrimities,with coldness of2 &#13;
+HEAD-HEAT2&#13;
+TEETH-GRINDING3&#13;
+MIND-IRRITABILITY4&#13;
+MIND - TALKING ¬ sleep3&#13;
+MIND ¬ FEAR ¬ dark 3 &#13;
+RESPIRATION - ARRESTED 2&#13;
+ MIND ¬ OFFENDED, easily 3 .&#13;
+STOMACH-THIRST2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>BELLADONNA STRAMONIUM</remedies_differentiation>
+      <prescription>
+        <remedy>BELL</remedy>
+        <potency>200CH</potency>
+        <regimen>3XAΠΙΑ (ΕΝΑ ΚΑΘΕ ΜΕΡΑ)</regimen>
+        <other_notes>ΘΕΑΜΑΤΙΚΗ ΥΠΟΧΩΡΗΣΗ ΤΟΥ ΕΞΑΝΘΗΜΑΤΟΣ </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-01-01 00:00:00</followup_date>
+      <conv_med_presc>ΟΧΙ</conv_med_presc>
+      <lab_tests>
+        <desc>ΚΦ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΘEAMATIKH υποχωρηση της σταφυλοκκοκικης λοιμωξης χωρις αντιβιωτικη αγωγη&#13;
+Επιδεινωση την πρωτη νυχτα:σαν διωκτικο παραληρημα με εφιαλτες κ ταση φυγης απ το κρεββατι μεσα στη νυχτα</reaction>
+      <analysis>Φαρμακο σωστο βελτιωση στην οξεια κατασταση  μετα απο agg </analysis>
+      <conclusion>Οχι φαρμακο μεχρι να βγει καθαρη εικονα νεου φαρμακου</conclusion>
+      <repertorization>
+        <desc>οχι</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-05-21 08:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc>κφ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>καλη</reaction>
+      <analysis>συνταγογραφηση 6μηνες μετα το οξυ</analysis>
+      <conclusion>δδ μεταξυ SULPH-NAT-M K CARC&#13;
+λογω ισχυρων key-notes MIND UNTIDY3 GENERALITIES FOODand DRINKS eggs aversion2 και λοιπης ψυχοδ εικονας --&gt;αποφασιστηκε το sulph</conclusion>
+      <repertorization>
+        <desc>MIND UNTIDY3&#13;
+MIND HURRY2&#13;
+MIND IMPATIENCE3&#13;
+MIND IRRITABILITY2&#13;
+MIND JESTING2&#13;
+MIND OFFENDED,easily 3&#13;
+MIND SENSITIVE,oversensitive reprimands,3&#13;
+MIND SINGING2&#13;
+MIND TALKINGpleasure in his own talking 3&#13;
+MIND TALKINGsleep,in 1&#13;
+MIND TALKINGsleep,in loud1&#13;
+MIND WEEPING,tearful mood, etc. admonitions,cause 3&#13;
+GENERALITIES FOODand DRINKS chocolatedesire 3&#13;
+GENERALITIES FOODand DRINKS eggs aversion2&#13;
+GENERALITIES FOODand DRINKS farinaceousfood desire k salt 2&#13;
+GENERALITIES FOODand DRINKS icecreamdesire 3&#13;
+GENERALITIES FOODand DRINKS meatdesire2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>SULPH</remedy>
+        <potency>200CH</potency>
+        <regimen>MIA ΚΑΨΟΥΛΑ</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-08-17 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

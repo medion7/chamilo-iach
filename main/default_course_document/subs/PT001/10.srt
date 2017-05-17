@@ -1,0 +1,2036 @@
+﻿1
+00:00:08,583 --> 00:00:17,367
+Experimentações
+
+2
+00:00:21,569 --> 00:00:32,471
+Mesmo Hanemann tinha alguns pontos que foram demonstrado não estarem corretos.
+
+3
+00:00:32,889 --> 00:00:38,582
+Um desses pontos é quando diz que:
+
+4
+00:00:41,639 --> 00:00:50,631
+uma doença é curada com um remédio, porque este remédio produz
+
+5
+00:00:51,708 --> 00:00:59,868
+uma doença artificial no corpo, a qual é mais forte que a doença natural.
+
+6
+00:01:01,396 --> 00:01:07,194
+Definitivamente esta é uma suposição equivocada de Hahnemann.
+
+7
+00:01:09,938 --> 00:01:18,756
+E não é importante mesmo para ele já que no Organon diz
+
+8
+00:01:19,381 --> 00:01:27,506
+que não se importem tanto como  se consegue a cura, mas que sim curem e se desejam uma explicação
+
+9
+00:01:27,610 --> 00:01:42,715
+posso dizer-lhes que uma doença artificial é mais forte que a doença e portanto elimina a doença natural e instala a artificial.
+
+10
+00:01:42,923 --> 00:01:50,804
+Talvez a doença artificial tenha mais sintomas, o que vemos depois de um tempo.
+
+11
+00:01:51,639 --> 00:01:56,534
+Depois que dão um remédio, podem ver alguns sintomas deste  mais tarde.
+
+12
+00:01:58,375 --> 00:02:09,833
+Assim que Hahnemann pensou que é esta doença artificial que se instala a si mesma e elimina a natural
+
+13
+00:02:10,042 --> 00:02:16,951
+e então a doença artificial segue o seu curso e desaparecerá com o tempo.
+
+14
+00:02:17,610 --> 00:02:23,652
+Estou  falando muito rápido para os alemães?
+
+15
+00:02:28,548 --> 00:02:31,673
+Quem pensa que falo muito rápido?
+
+16
+00:02:37,125 --> 00:02:41,152
+Apenas um. A Apis.
+
+17
+00:03:02,542 --> 00:03:17,576
+Quero que acompanhem  o que estou dizendo e se certifiquem que nos comunicamos, caso contrário não há necessidade que eu fale.
+
+18
+00:03:19,104 --> 00:03:22,506
+Se apenas se sentam e dormem e dizem estamos muito felizes...!
+
+19
+00:03:33,444 --> 00:03:38,860
+Este assunto tem que ser esclarecido.
+
+20
+00:03:42,610 --> 00:03:59,832
+Estão todos na classe?  Têm o horário? Houve algum mal-entendido sobre o horário.
+
+21
+00:04:02,368 --> 00:04:06,256
+Os alemães têm algum problema com o horário?
+
+22
+00:04:10,180 --> 00:04:13,201
+Nenhum problema.
+
+23
+00:04:15,944 --> 00:04:25,804
+Estão virando Mediterrâneos, verão, na Grecia, Itália ou Espanha
+
+24
+00:04:27,298 --> 00:04:33,652
+acontece isto, dizemos que começa às 9:30h e começamos às 10:00h e todos estão felizes.
+
+25
+00:04:34,590 --> 00:04:39,624
+No momento em que entram na sala às 10h, todos estão felizes falando emocionados.
+
+26
+00:04:40,319 --> 00:04:55,944
+Se fazem isto na Alemanha e entram na sala meia hora atrasados, ninguém fala ou ri. Vão direto sentar-se.
+
+27
+00:05:00,423 --> 00:05:13,686
+Uma vez na Alemanha liguei o pisca-pisca para virar na rua principal e escutei  alguém buzinando, bip,bip,bip.
+
+28
+00:05:14,485 --> 00:05:24,381
+Não entendi o que acontecia, será que fiz alguma coisa errada? Não vi uma pequena rua que havia antes de ligar o sinal.
+
+29
+00:05:25,146 --> 00:05:33,235
+A rua estava ali e liguei o sinal antes. Deveria ter virado nessa rua e não na rua seguinte.
+
+30
+00:05:33,444 --> 00:05:39,277
+Essa pessoa pensou que se ligasse o pisca-pisca antes dessa rua deveria virar nessa rua.
+
+31
+00:05:41,396 --> 00:05:43,688
+Isso é correto.
+
+32
+00:05:45,319 --> 00:05:50,527
+Então a partir de amanhã teremos horário alemão.
+
+33
+00:05:54,764 --> 00:06:02,715
+Eu gostaria de começar esta aula
+
+34
+00:06:06,673 --> 00:06:10,840
+com a ideia das experimentações.
+
+35
+00:06:12,402 --> 00:06:20,978
+Em Homeopatia temos informação do que um remédio pode fazer nas experimentações.
+
+36
+00:06:26,188 --> 00:06:35,597
+Já que muitas pessoas atualmente, e isto é muito bom e interessante,
+
+37
+00:06:36,465 --> 00:06:41,637
+estão realmente interessadas e envolvidas nas experimentações.
+
+38
+00:06:43,896 --> 00:06:48,235
+Temos que saber o que estamos fazendo quando fazemos experimentações
+
+39
+00:06:48,340 --> 00:06:53,200
+caso contrário  estaremos com problemas
+
+40
+00:06:53,305 --> 00:07:02,576
+e pessoas sérias nos olharão e rirão de nós, a menos que sejamos sérios naquilo que fazemos.
+
+41
+00:07:03,826 --> 00:07:14,034
+Como fazer uma experimentação? Se quiséssemos fazer uma experimentação nesta sala, o que deveríamos fazer?
+
+42
+00:07:17,229 --> 00:07:38,271
+Hahnemann escreveu no parágrafo 32 que todas as substâncias medicinais têm um poder ilimitado sobre o organismo humano.
+
+43
+00:07:38,652 --> 00:07:41,152
+O que significa isto?
+
+44
+00:07:43,618 --> 00:07:50,457
+Enquanto as doenças, estas têm um poder limitado sobre o organismo humano,
+
+45
+00:07:51,430 --> 00:07:59,764
+Nas doenças, têm que ter uma predisposição para que haja  a epidemia, Têm que ter a predisposição para a doença.
+
+46
+00:07:59,868 --> 00:08:07,680
+Têm uma predisposição para apresentar a psoríase ou a doença sistémica ou a doença neuromuscular
+
+47
+00:08:08,097 --> 00:08:10,457
+têm que ter uma predisposição
+
+48
+00:08:11,152 --> 00:08:12,749
+com a substância medicinal...
+
+49
+00:08:15,667 --> 00:08:26,465
+Não podem encontrar o parágrafo, ok.
+
+50
+00:08:34,625 --> 00:08:43,063
+A ideia geral de  Hahnemann  foi que as substâncias medicinais, ou seja o medicamento,
+
+51
+00:08:43,722 --> 00:08:49,659
+tem um poder maior que a doença
+
+52
+00:08:49,972 --> 00:09:07,472
+e isso o levou à ideia que já que o remédio é mais forte, domina a doença e esta segue seu curso.
+
+53
+00:09:08,201 --> 00:09:17,645
+Isto vem da ideia que disse: todas as substâncias medicamentosas têm poder limitado com uma condição,
+
+54
+00:09:19,208 --> 00:09:27,923
+que, se são dadas numa dose grande e suficiente,
+
+55
+00:09:28,548 --> 00:09:32,471
+dose grande e suficiente.
+
+56
+00:09:33,965 --> 00:09:36,186
+O que significa?
+
+57
+00:09:40,006 --> 00:09:57,402
+Numa classe como esta, se começamos uma experimentação com um remédio, com uma planta, com Bryonia.
+
+58
+00:10:01,014 --> 00:10:06,951
+Para produzir sintomas em toda a classe
+
+59
+00:10:07,750 --> 00:10:15,979
+temos que dar uma dose grande e suficiente, não como regra geral,
+
+60
+00:10:17,125 --> 00:10:22,819
+senão como uma necessidade individual para cada organismo.
+
+61
+00:10:23,375 --> 00:10:37,610
+O que significa que começamos dando Bryonia em tintura-mãe 30 gotas a todos.
+
+62
+00:10:39,243 --> 00:10:47,436
+No dia seguinte dois ou três de vocês vêm e dizem desenvolvi estes sintomas.
+
+63
+00:10:50,597 --> 00:10:57,436
+Isso significa que dois ou três organismos de toda a classe são mais sensíveis
+
+64
+00:11:02,264 --> 00:11:15,180
+e continuam, aqueles que já desenvolveram sintomas têm que parar de tomar a substância
+
+65
+00:11:16,083 --> 00:11:24,347
+logo no dia seguinte, o restante da classe continua  tomando 30 gotas por dia,
+
+66
+00:11:26,118 --> 00:11:34,936
+em 3 dias aparece outro pequeno grupo que desenvolveu alguns sintomas.
+
+67
+00:11:36,188 --> 00:11:42,715
+Param e os outros continuam assim até que alcançam aos organismos mais resistentes
+
+68
+00:11:43,340 --> 00:11:52,887
+que podem haver desenvolvido alguns sintomas no 20º dia e depois de uma repetição de várias vezes.
+
+69
+00:11:54,139 --> 00:11:58,305
+Isto significa 30 gotas 4 vezes por dia.
+
+70
+00:11:59,381 --> 00:12:03,999
+Então , mesmo o último desenvolverá sintomas deste remédio.
+
+71
+00:12:05,423 --> 00:12:18,131
+Agora, o argumento com que contribuem os médicos alopatas é: Como é possível que
+
+72
+00:12:19,243 --> 00:12:25,215
+digam que têm sintomas do sal, sal comum? Natrum Muriaticum
+
+73
+00:12:29,521 --> 00:12:41,569
+Natrum muriaticum é sal comum, uma vez que todos consumimos de 5 a 7 gramas por dia de sal comum.
+
+74
+00:12:44,313 --> 00:12:50,875
+A solução está na observação de Hahnemann, doses  grandes e suficientes.
+
+75
+00:12:51,430 --> 00:12:54,902
+Há alguns de vocês que estão tomando o dobro de sal, comparando com os outros
+
+76
+00:12:55,944 --> 00:12:59,971
+mesmo assim não há sintomas, certo?
+
+77
+00:13:00,215 --> 00:13:16,499
+Mas tentem uma dose tripla, em vez de tomar 7 gramas tomem 14 ou 21 gramas ou 1/2 kg e vejam se  não desenvolverão sintomas.
+
+78
+00:13:16,569 --> 00:13:22,158
+Portanto cada organismo necessita uma dose particular,
+
+79
+00:13:24,069 --> 00:13:32,332
+então imediatamente verão a sede que se desenvolve em Natrum Muriaticum, verão a secura.
+
+80
+00:13:32,784 --> 00:13:43,166
+verão os primeiros sintomas, verão eventualmente as dores de cabeça e verão como afeta a todo o organismo.
+
+81
+00:13:43,792 --> 00:13:46,985
+O mesmo com tintura-mãe em Bryonia.
+
+82
+00:13:51,048 --> 00:14:02,054
+o outro argumento que dão é que afirmam que ao dar uma dose de Natrum Muriaticum 200
+
+83
+00:14:03,930 --> 00:14:07,645
+num outro grupo produzem sintomas.
+
+84
+00:14:10,389 --> 00:14:15,006
+Isto é certo? Sim ou não?
+
+85
+00:14:21,152 --> 00:14:28,270
+Há algo que a classe deve entender muito bem, caso contrário
+
+86
+00:14:28,375 --> 00:14:36,500
+se se envolvem neste tipo de discussões
+
+87
+00:14:37,610 --> 00:14:43,756
+ou aplicações a vocês mesmos ou a outros, saibam o que estão fazendo.
+
+88
+00:14:43,860 --> 00:15:01,429
+Suponhamos que toda a classe agora em vez de 100 gramas de sal, toma uma dose de Natrum Muriaticum 200.
+
+89
+00:15:03,167 --> 00:15:09,173
+Quem desenvolverá sintomas?  Quem não desenvolverá sintomas?
+
+90
+00:15:18,652 --> 00:15:23,340
+Os sensíveis, os sensíveis a Natrum Muriaticum desenvolverão sintomas rápido.
+
+91
+00:15:24,833 --> 00:15:33,444
+Quais são os sensíveis? Como sabemos quais são os sensíveis?
+
+92
+00:15:35,701 --> 00:15:46,985
+Direi algo mais,  não quero fazer uma verdadeira experimentação como esta,  mas poderia fazê-la e demonstrar-lhes.
+
+93
+00:15:47,402 --> 00:15:49,137
+mas é fácil de entender.
+
+94
+00:15:49,485 --> 00:15:51,569
+amanhã lhes darei
+
+95
+00:15:52,610 --> 00:16:01,325
+um pó, porque concordaram em fazer uma experimentação.
+
+96
+00:16:01,465 --> 00:16:14,590
+Todos tomam o pó e no dia seguinte, lhes digo a alguns amigos, como Fred, quem poderia fazê-lo muito bem
+
+97
+00:16:15,631 --> 00:16:24,207
+que a substância que tomaram é radioativa
+
+98
+00:16:26,256 --> 00:16:40,735
+e Fred murmura: radioativa, radioativa, radioativa e na aula seguinte vêm e me dizem seus sintomas
+
+99
+00:16:41,812 --> 00:16:45,110
+e então verão
+
+100
+00:16:45,319 --> 00:16:57,262
+todo tipo de sintomas, mesmo desmaios, ataques epilépticos, paralisia, todo tipo de coisas acontecerão
+
+101
+00:16:57,333 --> 00:16:59,590
+e todo o grupo estará sentindo algo.
+
+102
+00:16:59,694 --> 00:17:06,811
+Esta é uma experimentação, uma  grande experimentação e escreveremos os sintomas e tudo está na sua imaginação,
+
+103
+00:17:08,131 --> 00:17:11,152
+é só imaginação.
+
+104
+00:17:11,500 --> 00:17:26,569
+Portanto quando damos uma potência alta, apenas as pessoas sensíveis a este remédio podem desenvolver sintomas,  ninguém mais.
+
+105
+00:17:27,333 --> 00:17:39,521
+Portanto se vêem uma experimentação na qual  se deu um remédio e todos os experimentadores desenvolvem grupo de sintomas
+
+106
+00:17:40,493 --> 00:17:58,374
+centenas de sintomas, dirão, esperem um momento, há uma palavra em inglês muito elegante mas não para as demais, tolices
+
+107
+00:18:04,034 --> 00:18:16,048
+é a imaginação das pessoas que são parte da experimentação. Tomo a substância logo vou desenvolver alguns sintomas!!!      sintomas!!
+
+108
+00:18:16,152 --> 00:18:28,929
+agora fecho os meus olhos e algumas vezes. Como o fazem? Verão, tomamos a potência e fechamos os olhos e meditamos...
+
+109
+00:18:35,284 --> 00:18:37,090
+Meditar em que?
+
+110
+00:18:37,889 --> 00:18:42,506
+E em seguida escrevem os sintomas e tudo isso, isso é um tolice total.
+
+111
+00:18:44,868 --> 00:18:49,624
+Temos muitas experimentações hoje em dia que são feitas desta maneira,
+
+112
+00:18:50,840 --> 00:19:06,360
+E estas experimentações se foram aos livros e revistas e inclusive ao sistema Radar, esperem um momento. Como obtiveram isso?
+
+113
+00:19:12,506 --> 00:19:25,527
+Assim que têm um projeto, como sabem farão exames por escrito todo o tempo.
+
+114
+00:19:26,256 --> 00:19:44,242
+Um dos projetos que têm que fazer é inscrever os parágrafos que se referem às experimentações  no Organon.
+
+115
+00:19:53,235 --> 00:20:06,707
+Estes são indivíduos e cada um tem uma frequência vibratória diferente.
+
+116
+00:20:07,229 --> 00:20:10,944
+Cada um tem uma frequência vibratória diferente.
+
+117
+00:20:11,639 --> 00:20:21,499
+E assim, a que frequência serão sensíveis quando der Natrum Muriaticum?
+
+118
+00:20:21,673 --> 00:20:40,006
+Aqui está uma pessoa cuja frequência é muito próxima, esta pessoa e esta estão próximas, damos Natrum Muriaticum 200.
+
+119
+00:20:41,569 --> 00:20:46,985
+A frequência desta pessoa é exata. O que vai acontecer?
+
+120
+00:20:53,860 --> 00:20:58,340
+Curar... será curada.
+
+121
+00:21:00,527 --> 00:21:05,215
+Qualquer um, mesmo com poucos sintomas.
+
+122
+00:21:06,188 --> 00:21:10,146
+Havia uma cientista que veio fazer-me um entrevista
+
+123
+00:21:11,951 --> 00:21:20,631
+de uma revista cientifica na Alemanha.
+
+124
+00:21:22,055 --> 00:21:41,707
+Ela é bioquímica,  e me disse: não creio em tudo isso, que uma 200 criará qualquer sintoma.
+
+125
+00:21:44,764 --> 00:21:48,444
+Você pode me dar uma prova disto?
+
+126
+00:21:52,610 --> 00:22:00,908
+Olhei para ela, ficou aqui 3 dias, uma entrevista de 3 dias, 7 horas por dia
+
+127
+00:22:01,256 --> 00:22:10,631
+porque estava escrevendo, o mais provável é que o vejam na Alemanha, é uma revista séria
+
+128
+00:22:10,840 --> 00:22:19,346
+e pensei: devo desculpar-me, dar-lhe todas as teorias ou fazer a experimentação?
+
+129
+00:22:20,805 --> 00:22:24,103
+e disse: Ok, farei a experiência.
+
+130
+00:22:24,173 --> 00:22:31,082
+Nesse tempo entendi que ela tinha uma constituição próxima a Natrum Muriaticum.
+
+131
+00:22:31,188 --> 00:22:37,159
+e disse, oh Deus, se for exato ela será curada,
+
+132
+00:22:37,402 --> 00:22:42,158
+se não for exato, mesmo assim desenvolverá alguns sintomas como uma experimentação.
+
+133
+00:22:43,652 --> 00:22:51,499
+Desta forma, sem  explicar-lhe esses pensamentos, é  claro, disse: Ok, tome Natrum Muriaticum 200
+
+134
+00:22:51,777 --> 00:22:56,152
+e se desenvolve alguns sintomas suspenda, tome-o todos os dias.
+
+135
+00:23:01,048 --> 00:23:06,013
+Ela veio a Berlim.
+
+136
+00:23:07,264 --> 00:23:12,472
+Tinha uma consulta comigo e disse  não aconteceu nada.
+
+137
+00:23:13,618 --> 00:23:23,791
+Eu escrevi num envelope quais sintomas que poderia ter desenvolvido, caso o remédio não fosse exato, se tivesse sido próximo.
+
+138
+00:23:24,208 --> 00:23:28,340
+Ela teria desenvolvido algumas dores de cabeça e secura na boca, ou algo parecido.
+
+139
+00:23:28,444 --> 00:23:36,846
+Ela disse:  não senti  nenhum dos sintomas que escreveu.
+
+140
+00:23:41,708 --> 00:23:51,465
+Eu disse: mas você parece tão radiante. Ela parecia realmente feliz.
+
+141
+00:23:52,194 --> 00:23:55,908
+A primeira vez que a vi, perguntei: Você está triste?
+
+142
+00:23:56,014 --> 00:24:03,166
+Não, não, estou muito bem. Eu disse ok.
+
+143
+00:24:03,409 --> 00:24:15,909
+Agora, em Berlim, ela estava radiante e disse-lhe: você parece muito melhor do que na última vez em que nos vimos.
+
+144
+00:24:16,014 --> 00:24:28,305
+Ela disse, é verdade. Eu disse, bem, este é o pensamento e expliquei-lhe.
+
+145
+00:24:32,715 --> 00:24:41,950
+Ela refletiu sobre essa ideia e, esta ideia é exata, o que lhes estou dando, aqui vão ser curados.
+
+146
+00:24:42,055 --> 00:24:54,520
+Isto, dão um remédio próximo e terão alguns sintomas do remédio desenvolvendo-se, mas não uma cura.
+
+147
+00:24:54,694 --> 00:24:58,791
+Agora o importante é...
+
+148
+00:25:07,646 --> 00:25:19,868
+As vibrações que estão mudando quanto mais longe vão da sensibilidade do remédio, menos são afetados,
+
+149
+00:25:19,972 --> 00:25:27,368
+aqui  não estão afetados em absoluto, estas pessoas  não serão afetadas em absoluto.
+
+150
+00:25:27,472 --> 00:25:35,457
+Como sabemos isso? Sabemos porque quando damos o remédio errado a pessoa regressa e diz
+
+151
+00:25:35,563 --> 00:25:41,396
+O que aconteceu? Nada, está igual? absolutamente igual.
+
+152
+00:25:43,409 --> 00:25:57,680
+Mas, algumas vezes, uma pessoa regressa porque deram um remédio próximo, deram Natrum Muriaticum,
+
+153
+00:25:57,819 --> 00:26:00,110
+desenvolverá alguns sintomas
+
+154
+00:26:00,180 --> 00:26:03,027
+e esta pessoa lhes dirá...
+
+155
+00:26:03,131 --> 00:26:15,388
+digamos que venha por causa da dor de cabeça e prescrevem Natrum mur,
+
+156
+00:26:17,090 --> 00:26:24,207
+e a dor de cabeça passa e então desenvolve vertigem
+
+157
+00:26:27,090 --> 00:26:37,263
+isto é o que chamamos um remédio próximo, que  não cura, mas muda os sintomas,
+
+158
+00:26:44,243 --> 00:26:53,061
+então podem entender o que acontecerá se dão 5 ou 25 remédios.
+
+159
+00:26:53,305 --> 00:27:00,631
+Quantos sintomas da pessoa mudarão? E então há uma confusão.
+
+160
+00:27:05,319 --> 00:27:23,791
+Exercício Nº 2: Encontrem no Organon o aforismo onde Hahnemann fala exatamente deste tema.
+
+161
+00:27:26,048 --> 00:27:38,929
+Qual é o tema? Dão um remédio, mudam um sintoma, talvez o sintoma principal e o mudam
+
+162
+00:27:39,347 --> 00:27:42,159
+mas o caso  não está curado.
+
+163
+00:27:42,506 --> 00:27:48,721
+Qual é o parágrafo no qual Hahnemann se refere a esse tema?
+
+164
+00:27:50,042 --> 00:27:52,506
+247.
+
+165
+00:27:52,610 --> 00:28:03,929
+Não,  estão enganados, infelizmente  não é, não o digam porque todo o grupo escreverá 247 e todos terão zero.
+
+166
+00:28:08,965 --> 00:28:24,936
+Não quero cooperação nos trabalhos, não é permitido, se todos me dão a resposta  certa,  significa
+
+167
+00:28:25,042 --> 00:28:31,465
+que uma pessoa a encontrou e espalhou a resposta.
+
+168
+00:28:32,610 --> 00:28:35,700
+Não é 247.
+
+169
+00:28:38,514 --> 00:28:58,791
+Têm que estudar o Organon e de 100 a 200 talvez encontrem a resposta. Estudem 100 aforismos e então venham.
+
+170
+00:28:58,896 --> 00:29:12,958
+O interessante aqui é que se queremos fazer uma experiência, uma experimentação. Como faremos?
+
+171
+00:29:13,027 --> 00:29:16,950
+Estamos falando de assuntos técnicos.
+
+172
+00:29:18,340 --> 00:29:26,395
+Ao preparar uma dose sub-tóxica do remédio
+
+173
+00:29:28,409 --> 00:29:37,784
+e em seguida dá-lo aos experimentarores  e ver qual deles é o mais sensível.
+
+174
+00:29:38,375 --> 00:29:52,680
+Quais deles desenvolverão sintomas deste remèdio e nestes experimentadores quais deles desenvolveram sintomas.
+
+175
+00:29:52,784 --> 00:30:02,020
+No primeiro ou segundo dia da experimentação apenas aqueles experimentadores podem dar uma alta potência
+
+176
+00:30:02,125 --> 00:30:06,985
+e descobrir o que acontece com esta potência
+
+177
+00:30:08,722 --> 00:30:20,041
+os outros  não servirão uma vez que  vão apresentar sintomas pouco confiáveis.
+
+178
+00:30:23,340 --> 00:30:33,513
+Comentavam de uma experiência que fizeram na América com 3 grupos. O 1º grupo tomou o remédio. o 2º tomou placebo e o 3º  não tomou nada.
+
+179
+00:30:36,396 --> 00:30:42,889
+O remédio a experimentar foi Radium Bromatum,
+
+180
+00:30:43,652 --> 00:30:48,166
+temos alguma coisa de sintomatologia na Matéria Médica.
+
+181
+00:30:51,465 --> 00:31:06,881
+O que aconteceu quando tiveram os resultados...  Qual foi o grupo que apresentou os sintomas mais próximos?
+
+182
+00:31:12,402 --> 00:31:14,590
+O placebo.
+
+183
+00:31:14,833 --> 00:31:36,708
+Não, os que  não tomaram nada. Os que  não tomaram nada imaginaram os sintomas que encaixariam melhor na experimentação de Radium brom.
+
+184
+00:31:45,909 --> 00:31:59,416
+Percebem a importância da teoria? Tudo o que fazemos se baseia nas experimentações.
+
+185
+00:32:00,006 --> 00:32:06,499
+Se as experimentações são feitas de forma incorreta, se a informação vem
+
+186
+00:32:07,298 --> 00:32:13,513
+e está danificada, misturada, informação imaginária em vez de informação real
+
+187
+00:32:13,618 --> 00:32:22,368
+De 50 pessoas. o mais provável 1 ou 2 delas apresentaram sintomas corretos, mas... Quem está correto?
+
+188
+00:32:22,889 --> 00:32:28,444
+Como podem descobrir quais são os corretos e quais os mal informados?
+
+189
+00:32:29,069 --> 00:32:31,916
+Não é possível.
+
+190
+00:32:32,021 --> 00:32:39,381
+Porque o lider disse sintoma, sintoma. Como descobrem qual é o correto?
+
+191
+00:32:40,527 --> 00:32:50,840
+e então aplicam isto e algumas vezes dizem, as pessoas que fazem este tipo de experimentações
+
+192
+00:32:50,944 --> 00:32:59,971
+dirão, mas dei este remédio a algumas pessoas e houve cura.
+
+193
+00:33:00,110 --> 00:33:15,874
+Claro que houve cura, porque tiveram o chamado efeito placebo ou usaram um ou dois sintomas da experimentação real
+
+194
+00:33:15,944 --> 00:33:22,090
+dos 500 sintomas que eram falsos.
+
+195
+00:33:24,381 --> 00:33:31,533
+Se dou um remédio todos apresentarão sintomas, claro.
+
+196
+00:33:31,881 --> 00:33:40,944
+Mas o mais provável  é que 2  não sensíveis ao remédio, o que significa que seus sintomas eram confiáveis. Como saber?
+
+197
+00:33:41,048 --> 00:33:55,319
+Apenas através deste processo de primeiro experimentar no nível sub-tóxico e continuar elevando as potências.
+
+198
+00:33:55,423 --> 00:34:05,666
+caso contrário a informação que virá para ser usada por nós será pouco confiável.
+
+199
+00:34:06,847 --> 00:34:14,207
+Este é o motivo pelo qual decidi neste curso, que lhes darei de todos os remédios que ensino
+
+200
+00:34:14,277 --> 00:34:31,881
+a experiência que tenho deste tipo de sintomas que são confiáveis em cada remédio e podem usá-los com toda confiança.
+
+201
+00:34:40,840 --> 00:34:44,763
+Por que não sabiam que tipo de remédio tinham experimentado?
+
+202
+00:34:45,563 --> 00:34:55,110
+Não, ninguém soube que era Radium Bromatum.
+
+203
+00:34:55,215 --> 00:35:03,304
+No entanto produziram sintomas, como é possível?
+
+204
+00:35:03,409 --> 00:35:18,097
+Não entendem, bem, há outra experiência, tive um problema com estas experimentações.
+
+205
+00:35:18,201 --> 00:35:24,798
+Provaram Hidrogénio e trouxeram um caderno com sintomas de Hidrogénio.
+
+206
+00:35:25,527 --> 00:35:35,215
+Eu disse, bem, é muito extranho, porque primeiro Hidrogénio é um gás muito volátil
+
+207
+00:35:35,389 --> 00:35:51,847
+Não podem encontrar Hidrogénio. No momento em que se junta com o Oxigénio,  boom uma explosão e é água.
+
+208
+00:35:52,021 --> 00:36:09,104
+Além disso disse, ok, o mesmo que usou este grupo  usou, um grupo de Itália, doutores que vieram e fizeram a experimentação.
+
+209
+00:36:09,208 --> 00:36:13,756
+Eu disse: Ok, façam esta experimentação. Não sabiam o que era.
+
+210
+00:36:14,381 --> 00:36:29,137
+O que acontece é que fora do placebo e do grupo que tomou o remédio, apresentaram os mesmos sintomas.
+
+211
+00:36:30,527 --> 00:36:43,061
+Havia 20 sintomas no grupo placebo, e 25, pequena diferença, no grupo que tomou o remédio.
+
+212
+00:36:43,167 --> 00:36:55,354
+Nenhum desses 25 sintomas eram característicos do Hidrogénio, do que o outro grupo escreveu.
+
+213
+00:37:00,389 --> 00:37:07,090
+E assim, onde está a verdade? A verdade depende da imaginação dos experimentadores.
+
+214
+00:37:07,402 --> 00:37:16,533
+Imaginam sintomas e depende da interpretação dos sintomas pelo lider.
+
+215
+00:37:17,715 --> 00:37:20,874
+Interpretação dos sintomas.
+
+216
+00:37:22,298 --> 00:37:43,340
+Ah,você  sonhou com um fantasma, porque você tem medo de fantasmas.
+
+217
+00:37:43,860 --> 00:37:52,194
+Você sonhou que sua mãe estava de pé junto a você, mas a figura da mãe não era exata.
+
+218
+00:37:52,298 --> 00:38:04,069
+Significa que era sua mãe, mas não como a recorda. Ok, isso é medo de fantasmas. Depende da interpretação.
+
+219
+00:38:04,972 --> 00:38:19,902
+Desta forma quase destruimos a Homeopatia Clássica. Por isso considero que este tema é muito importante.
+
+220
+00:38:21,465 --> 00:38:39,936
+Disseram-me, como já lhes contei, potencializamos o muro de Berlin, o muro que foi construido para separar Alemanha de Berlin.
+
+221
+00:38:40,944 --> 00:38:52,541
+Eu disse: O que fizeram?  Pegaram uma pedaço pequeno de cimento e o potencializaram? Disseram, não.
+
+222
+00:38:52,680 --> 00:39:03,652
+Disseram, pegámos na poeira que pusémos debaixo do muro, nos sentámos em volta, e meditámos.
+
+223
+00:39:07,264 --> 00:39:17,368
+Eu disse, a quem prescreveram o remédio?  Responderam: aqueles que querem se divorciar.
+
+224
+00:39:22,646 --> 00:39:24,451
+Separação.
+
+225
+00:39:28,860 --> 00:39:42,887
+Se alguém vem como paciente e diz: não suporto meu marido, há um desejo de separação... muro de Berlim.
+
+226
+00:39:50,597 --> 00:40:01,639
+Todo esse tipo de tolice que acontece, tem que parar, caso contrário a Homeopatia irá por água abaixo.
+
+227
+00:40:01,743 --> 00:40:10,840
+e começará a desaparecer e ninguém dará atenção com toda essa loucura que acontece
+
+228
+00:40:10,909 --> 00:40:14,485
+e que afeta a imagem da Homeopatia.
+
+229
+00:40:17,125 --> 00:40:30,944
+O que me assusta é que as pessoas não reagem a estas tolices, crêem que são novas ideias e questionam por que não aderimos a estas ideias.
+
+230
+00:40:31,222 --> 00:40:33,478
+Ideias criativas.
+
+231
+00:40:45,805 --> 00:40:51,985
+Temos regras exatas no Organon sobre as experimentações.
+
+232
+00:40:52,090 --> 00:40:56,916
+Ah sim, mas não as seguem.
+
+233
+00:40:59,104 --> 00:41:09,938
+Além do mais têm que saber que as experimentações, ou seja a informação que está na Materia Médica, vem de onde?
+
+234
+00:41:10,250 --> 00:41:14,625
+A primeira fonte é da experimentação.
+
+235
+00:41:15,493 --> 00:41:20,284
+A segunda fonte é toxicologia.
+
+236
+00:41:23,167 --> 00:41:34,938
+Toxicologia, significa toxidade acidental ou intencional ocasionada pela substância.
+
+237
+00:41:35,631 --> 00:41:37,506
+E a terceira...       .
+
+238
+00:41:40,076 --> 00:41:46,811
+A terceira que é uma das mais importantes fontes, são os casos clínicos.
+
+239
+00:41:46,917 --> 00:41:50,042
+Casos clínicos.
+
+240
+00:41:51,813 --> 00:42:05,389
+Pelo fato de que a informação na Matéria Médica provenha das experimentações, comecemos com isso
+
+241
+00:42:05,667 --> 00:42:10,493
+acrescentamos toxicologia, se podemos encontrá-la (!)
+
+242
+00:42:10,597 --> 00:42:18,930
+e então a aplicamos e vemos se num caso clínico esse remédio afetou o caso,
+
+243
+00:42:19,729 --> 00:42:27,472
+E que outros sintomas foram curados além daqueles pelos quais prescrevemos
+
+244
+00:42:29,694 --> 00:42:36,985
+e se há alguns sintomas que foram curados pelo remédio os anotamos no caderno
+
+245
+00:42:38,548 --> 00:42:45,492
+e então no próximo caso que vemos, de acordo a estes sintomas podemos prescrever
+
+246
+00:42:46,292 --> 00:43:00,110
+e se este está ativo, acontece que se cura podemos começar a pensar que estes novos sintomas pertencem ao remédio.
+
+247
+00:43:19,590 --> 00:43:34,485
+É verdade que o ponto mais importante é o terceiro? Sim, tem-se provado, várias vezes, que o remédio tem ajudado a clínica,
+
+248
+00:43:35,076 --> 00:43:36,743
+É este o mais importante?
+
+249
+00:43:37,610 --> 00:43:43,444
+Não podem dizer qual é mais importante, não podem dizer isto. Algumas vezes os sintomas
+
+250
+00:43:44,555 --> 00:43:49,555
+importantes vêm desta fonte, algumas vezes desta fonte, às vezes daquela fonte.
+
+251
+00:43:51,014 --> 00:43:56,534
+Não podem dizer, o mais importante são as experimentações ou o mais importante são os casos clínicos.
+
+252
+00:43:59,381 --> 00:44:09,971
+O problema é que tal informação já foi para a Materia Médica.
+
+253
+00:44:10,631 --> 00:44:26,395
+Informação nada confiável e se pegarem em Clarke, não sei se Boericke o tem.
+
+254
+00:44:26,500 --> 00:44:33,131
+Por exemplo uma experimentação de lua, a luz do luar.
+
+255
+00:44:37,264 --> 00:44:42,749
+É tolice, a luz do luar não pode produzir sintomas.
+
+256
+00:44:46,777 --> 00:44:51,673
+Uma substância a maneira que cura
+
+257
+00:44:52,298 --> 00:44:58,686
+tem que ter a capacidade de produzir sintomas no organismo humano.
+
+258
+00:44:59,451 --> 00:45:00,701
+Caso contrário não será curado.
+
+259
+00:45:04,381 --> 00:45:18,444
+Portanto a lua ou sol ou o vento ou a chuva são fenómenos físicos que não produzem sintomas.
+
+260
+00:45:19,347 --> 00:45:29,139
+O que fazem, os fenómenos físicos, porque os organismos algumas vezes se transtornam, os fenómenos físicos
+
+261
+00:45:30,423 --> 00:45:36,846
+mesmo o sol, mesmo a lua,
+
+262
+00:45:36,951 --> 00:45:50,041
+porque estão doentes, a humidade, a chuva as tempestades, etc, estes fenómenos físicos, já que os nossos sistemas estão transtornados,
+
+263
+00:45:50,146 --> 00:45:57,646
+porque os sistemas estão transtornados, então podem reagir e produzir alguns sintomas.
+
+264
+00:45:57,750 --> 00:46:11,430
+Dizer por exemplo, não me sinto bem durante uma tempestade de raios, ok, potencializamos o raio, se o damos e estão bem é uma tolice.
+
+265
+00:46:13,722 --> 00:46:28,478
+Não me sinto bem com a lua cheia, é verdade mas porque você está louco, quer dizer, você está perturbado
+
+266
+00:46:29,764 --> 00:46:38,999
+e portanto tenho uma erupção pela exposição ao sol, naturalmente porque seu fígado não funciona e por isso o sol...etc,
+
+267
+00:46:40,563 --> 00:46:41,881
+Quando alguém diz: eu estou...
+
+268
+00:46:44,243 --> 00:46:56,360
+pior no mar,  não potencializamos o mar, dão um remédio diferente que fica pior no mar.
+
+269
+00:46:57,021 --> 00:47:10,701
+Naturalmente que o mar, porque contem  muitos elementos, pode produzir, se vão e bebem 3 litros de água do mar, o que acontece?
+
+270
+00:47:11,500 --> 00:47:12,715
+Claro que vão adoecer.
+
+271
+00:47:19,625 --> 00:47:26,604
+Quero saber se está claro, se têm algumas perguntas.
+
+272
+00:47:27,923 --> 00:47:34,138
+Depende de como  foi feita a experimentação
+
+273
+00:47:34,277 --> 00:47:40,804
+Se foi feita com água do mar, antes de tudo não conheço a experimentação.
+
+274
+00:47:41,673 --> 00:47:50,770
+Segundo, se a experimentação foi feita adequadamente, então podem confiar em tais sintomas.
+
+275
+00:47:50,875 --> 00:48:00,110
+Se não foi feita adequadamente e foi feita dando alta potência e meditando, esqueçam.
+
+276
+00:48:01,222 --> 00:48:12,715
+Como disse, talvez alguns sintomas são reais, mas a maioria de tais sintomas são imaginação dos experimentadores.
+
+277
+00:48:16,465 --> 00:48:28,582
+Façam outro exercício. Quais são as qualidades dos experimentadores como determinou Hahnemann, e em qual aforismo?
+
+278
+00:48:29,798 --> 00:48:32,124
+Qualidades dos experimentadores.
+
+279
+00:48:34,798 --> 00:48:47,923
+É uma pena que as pessoas que estão dispostas e gastam seu tempo e energia não o façam de forma adequada
+
+280
+00:48:48,201 --> 00:48:53,235
+para que possamos ter informação confiável, é uma pena,
+
+281
+00:48:53,340 --> 00:49:05,770
+Porque perdem tempo e energia e põem muita desinformação na ciência.
+
+282
+00:49:10,250 --> 00:49:20,180
+Por favor, dêem-me todos seus pensamentos e quaisquer que sejam as dúvidas para esclarecer o tema.
+
+283
+00:49:20,771 --> 00:49:34,208
+E que tal sobre outros imponderáveis como raio-X e a eletricidade? E, segundo, o sol produz sintomas como queimaduras.
+
+284
+00:49:34,277 --> 00:49:58,860
+Ok, examinemos primeiro estes imponderáveis como raio-X e a eletricidade e, em seguida, examinaremos o sol.
+
+285
+00:49:59,521 --> 00:50:13,514
+Quanto tempo podem permanecer sob os raios-X?  Hora e meia e vamos ver o que acontece.
+
+286
+00:50:14,277 --> 00:50:25,700
+Naturalmente os raios-X têm a possibilidade de produzir sintomas no organismo humano.
+
+287
+00:50:27,542 --> 00:50:34,208
+Por isso os raios-X podem ser um remédio, se forem usados adequadamente.
+
+288
+00:50:34,313 --> 00:50:52,333
+Agora, como podemos experimentar os raios-X? Não necessitamos experimentá-los num nível tóxico, porque há um nível tóxico
+
+289
+00:50:52,646 --> 00:51:04,451
+temos efeitos secundários, temos esses casos gravados na literatura, em  medicina que são os efeitos dos raios-X.
+
+290
+00:51:05,667 --> 00:51:18,722
+A partir daqui podemos começar tendo um guia e, naturalmente, neste caso vamos com as pessoas
+
+291
+00:51:20,180 --> 00:51:26,673
+que foram sensíveis aos raios-X, que tiveram o problema
+
+292
+00:51:27,784 --> 00:51:38,618
+e os convidamos a uma experiência com raio-X 200, então podem encontrar alguns sintomas interessantes para registar.
+
+293
+00:51:38,826 --> 00:51:49,520
+Mas, a não ser que façam isso, ir e encontrar as pessoas sensíveis aos raios-X e que tiveram esses problemas e as convidem
+
+294
+00:51:49,590 --> 00:51:58,582
+e os organizem, não podem dizer prescrevo raios-X e vejamos o que acontece, isso é para os raios-X,  agora vejamos para a eletricidade.
+
+295
+00:51:58,722 --> 00:52:02,472
+Para a eletricidade.
+
+296
+00:52:06,777 --> 00:52:30,700
+Se tivéssemos um grande transformador, já sabem de grande poder, uma grande fonte de poder de eletricidade
+
+297
+00:52:31,014 --> 00:52:34,139
+e temos tais casos.
+
+298
+00:52:34,764 --> 00:52:47,680
+Desde que trabalho neste departamento, dentro de um campo eletromagnético, de um gerador elétrico de tal poder.
+
+299
+00:52:47,958 --> 00:53:02,819
+Não me sinto bem.  O que você tem? 1,2,3,20 sintomas, ok. Encontrem essas pessoas que são sensíveis à eletricidade e
+
+300
+00:53:02,923 --> 00:53:15,041
+então, naturalmente o que podem fazer é deixar os pós sob este poderoso gerador por um período de tempo
+
+301
+00:53:15,146 --> 00:53:24,173
+e tentem potencializá-lo e ver os resultados.
+
+302
+00:53:24,868 --> 00:53:39,347
+Assim, poderosos campos eletromagnéticos ou geradores elétricos podem produzir sintomas em pessoas sensíveis.
+
+303
+00:53:39,972 --> 00:53:46,707
+Encontrem essas pessoas, façam a experiência, prescrevam-lhes a eletricidade, descubram e nos dêem os resultados.
+
+304
+00:53:46,985 --> 00:53:54,069
+Mas estas são experiências sérias que nos trazem informação séria, certo?
+
+305
+00:53:54,764 --> 00:54:11,847
+Agora, vamos ao sol. Sim, sentimos o sol desde as nove da manhã. No sol das nove da manhã até à noite
+
+306
+00:54:12,784 --> 00:54:15,527
+deitados ao sol e vemos o resultado.
+
+307
+00:54:15,631 --> 00:54:18,235
+O que significa primeiramente, que estão loucos,
+
+308
+00:54:21,083 --> 00:54:25,146
+por definição não estão bem
+
+309
+00:54:26,256 --> 00:54:32,783
+e o experimentador a fim de fazer a experiência, uma das condições que verão,
+
+310
+00:54:34,868 --> 00:54:39,034
+é que o experimentador esteja saudável mental, emocional e fisicamente.
+
+311
+00:54:40,805 --> 00:54:46,465
+O segundo é, se põem a alguém num forno o queimam,
+
+312
+00:54:49,417 --> 00:54:53,583
+vão potencializar o fogo para curá-lo?
+
+313
+00:54:54,173 --> 00:55:08,512
+De modo que, se o calor está queimando alguém, não potencializam o calor para curá-lo, nem tampouco terão um efeito por isso.
+
+314
+00:55:13,235 --> 00:55:22,853
+concluimos que potencializar o sol é uma loucura, potencializar a lua também é loucura.
+
+315
+00:55:23,548 --> 00:55:30,075
+E direi-lhes algo. Tive um caso, dos pólos magnéticos, o pólo magnético sul
+
+316
+00:55:32,264 --> 00:55:36,291
+exatamente como está descrito nos livros.
+
+317
+00:55:37,298 --> 00:55:47,124
+Disse aos doutores: ok, prescrevam Polo sul magnético 200,
+
+318
+00:55:49,000 --> 00:55:55,006
+o caso não poderia ser melhor descrito, sem nenhum efeito, nada.
+
+319
+00:56:00,076 --> 00:56:09,868
+Dirão que há um caso que foi curado, num seminário anterior um doutor israelita disse-me
+
+320
+00:56:10,389 --> 00:56:24,868
+bem, o que diriam vocês sobre um caso no qual um doutor que tinha uma colite grave e foi a vários dos seus colegas, e nenhum podia curá-lo,
+
+321
+00:56:25,458 --> 00:56:28,097
+finalmente foi a um homeopata.
+
+322
+00:56:28,235 --> 00:56:36,707
+Aceitou o caso e prescreveu um remédio, e este é o caso publicado. O homeopata prescreveu para o caso.
+
+323
+00:56:38,409 --> 00:56:42,472
+E o doutor foi curado,
+
+324
+00:56:45,006 --> 00:56:53,270
+mas como ele disse, o paciente, que é um médico, nunca tomou o remédio.
+
+325
+00:56:58,618 --> 00:57:13,756
+Assim que, desta experiencia surgiu a ideia que somente tem que pensar no remédio, não têm que dá-lo.
+
+326
+00:57:13,930 --> 00:57:17,124
+Apenas pensem no remédio e o paciente está curado.
+
+327
+00:57:22,159 --> 00:57:29,972
+Essa é outra tolice, outra coisa,  que degrada a ciência.
+
+328
+00:57:30,597 --> 00:57:39,520
+De modo a que este homem pudesse justificar, porque a pessoa começou a sentir-se bem depois da consulta,
+
+329
+00:57:40,527 --> 00:57:44,590
+ele disse, pensei no remédio certo e o paciente melhorou
+
+330
+00:57:45,563 --> 00:57:50,631
+e cria uma  "teoria"  e todos crêem que é verdade.
+
+331
+00:57:52,610 --> 00:58:02,402
+Mas o que realmente aconteceu é que, em muitos casos que temos como Homeopatas, temos o efeito placebo.
+
+332
+00:58:04,104 --> 00:58:08,271
+Em muitos casos temos o efeito placebo.
+
+333
+00:58:08,305 --> 00:58:17,472
+O remédio V não fez nada e o paciente diz que está melhor, não podemos ignorar isso.
+
+334
+00:58:19,902 --> 00:58:28,929
+Temos algumas regras para saber se o remédio fez algum efeito ou não. Temos regras em Homeopatia.
+
+335
+00:58:31,360 --> 00:58:42,923
+A pergunta é, que se estamos falando de raios-X, de que forma trazemos a influência dos raios-X ao paciente?
+
+336
+00:58:43,444 --> 00:58:48,200
+Com pilulas de açúcar? O que está por trás? de sal ou de açúcar ou de qualquer outra coisa?
+
+337
+00:58:49,000 --> 00:59:00,701
+É impossível tomar o equipamento de raios-X,e em seguida potencializá-lo 10 vezes e depois mais 10 vezes, e prescrevem-no e dão ao paciente.
+
+338
+00:59:01,083 --> 00:59:11,014
+A pergunta é, se há algum estudo de alguma substância que se usa para os remédios.
+
+339
+00:59:12,506 --> 00:59:28,304
+Estas são perguntas legítimas para tais casos, mas o primeiro que vem à minha mente é que não posso expor um pó
+
+340
+00:59:29,381 --> 00:59:37,923
+à influência dos raios-X e pegar este pó e potencializá-lo várias vezes.
+
+341
+00:59:38,479 --> 00:59:46,118
+O mais provável é que terão que potencializar o remédio raio-X, é o mais provável.
+
+342
+00:59:46,951 --> 00:59:55,353
+mas, como disse, em tais experiências, há vários temas que têm que ser examinados, todo o tempo.
+
+343
+00:59:56,396 --> 01:00:10,458
+O que quero dizer com isso é que sejamos mais sérios sobre isto, não podem dizer-lhes darei um remédio, a todos vocês e vão dormir
+
+344
+01:00:11,256 --> 01:00:22,715
+e amanhã me dizem o que viram em seus sonhos, e já que tiveram vários sonhos levarei em conta como causado pelo remédio, tolices.
+
+345
+01:00:24,069 --> 01:00:32,194
+Pode haver 1 ou 2 pessoas, mas quem são elas, ninguém sabe.
+
+346
+01:00:32,646 --> 01:00:34,243
+O resto é tolice
+
+347
+01:00:35,875 --> 01:00:46,743
+e muitas vezes, este grupo que tomou o remédio, diz que teve o mesmo sonho que o grupo que não tomou o remédio.
+
+348
+01:00:47,229 --> 01:00:57,542
+Esta é uma prova de que é um verdadeiro sintoma do remédio, absolutamente não, ao contrário.
+
+349
+01:00:58,583 --> 01:01:11,743
+É verdade que o sonho que tiveram é pelo clima, um fator geral que influencia as pessoas.
+
+350
+01:01:16,708 --> 01:01:24,381
+O que você pensa sobre cheirar os remédios?  Apenas cheirar os frascos.
+
+351
+01:01:30,527 --> 01:01:34,971
+Nunca o fiz, por isso não sei de que se trata.
+
+352
+01:01:36,083 --> 01:01:43,375
+Até onde podemos extender a Materia Médica?
+
+353
+01:01:45,284 --> 01:01:52,298
+Boa pergunta, presume-se que tenho êxito ao prescrever.
+
+354
+01:01:52,506 --> 01:02:03,895
+Pelo menos quando vim a Atenas e estava prescrevendo, porque não prescrevia em casos arruinados por Homeopatas como o faço agora.
+
+355
+01:02:03,930 --> 01:02:07,923
+Hoje prescrevo em casos arruindos por diferentes Homeopatas.
+
+356
+01:02:08,375 --> 01:02:14,764
+Quando prescrevia ao início a taxa de êxito era muito alta.
+
+357
+01:02:15,563 --> 01:02:23,722
+Não necessitava de mais remédios além dos que havia na Matéria Médica e poderia dizer que até esses eram muitos.
+
+358
+01:02:26,014 --> 01:02:38,478
+Agora, devido à falta de informação básica dos remédios, o praticante encontra-se totalmente enrolado.
+
+359
+01:02:39,277 --> 01:02:44,311
+O que devemos fazer? Não sei. Ok, deixe-me tentar isto ou aquilo.
+
+360
+01:02:45,493 --> 01:02:57,923
+Numa pesquisa de opinião escrevi no primeiro jornal Europeu, era um caso que necessitava Pulsatilla.
+
+361
+01:02:59,381 --> 01:03:16,012
+Como 12 pessoas  me escreveram que o mais provável era que o remédio fosse Luna, então percebi o problema.
+
+362
+01:03:17,090 --> 01:03:25,770
+Recebi 2 respostas, não lembro de um total de quantas  pessoas.
+
+363
+01:03:26,847 --> 01:03:34,243
+12 pessoas escreveram este é um caso de Luna, mas era um caso de Pulsatilla.
+
+364
+01:03:53,930 --> 01:04:08,340
+Com relação a experimentação da eletricidade, disse que tem que encontrar uma pessoa sensível, uma das coisas importantes
+
+365
+01:04:09,798 --> 01:04:16,325
+é que não sabe o que está experimentando quando está na experimentação. Como ligamos isto?
+
+366
+01:04:16,847 --> 01:04:22,610
+Como saber com antecipação quem será sensível às substâncias radioativas?
+
+367
+01:04:23,583 --> 01:04:28,652
+Os experimentadores saberão o que lhes será dado.
+
+368
+01:04:29,347 --> 01:04:52,228
+O que digo com relação aos impoderáveis, por exemplo, querem fazer um estudo em Radium Bromatum, ou... não sei
+
+369
+01:04:52,368 --> 01:04:56,777
+em Chernobyl, qual era a substância radioativa.
+
+370
+01:04:57,298 --> 01:05:07,749
+Em  Chernobyl descobriram que as pessoas mais sensíveis tinham morrido, nem toda a população morreu.
+
+371
+01:05:08,896 --> 01:05:13,756
+Os mais sensíveis apresentaram sintomas imediatamente.
+
+372
+01:05:14,521 --> 01:05:23,756
+O que digo é vão e encontrem estas pessoas que são sensíveis e lhes dêem uma alta potência
+
+373
+01:05:25,110 --> 01:05:31,638
+a estas pessoas nestes casos dos imponderáveis, então podem descobrí-lo.
+
+374
+01:05:33,131 --> 01:05:43,999
+O segundo que disse é que se experimentam um remédio, que tem alguma toxicidade então o que podem fazer é dizer
+
+375
+01:05:45,076 --> 01:05:54,173
+tomem doses sub-tóxicas, desenvolvam sintomas, fora o primeiro da lista
+
+376
+01:05:54,451 --> 01:05:59,034
+o segundo na lista, terceiro na lista, o restante esqueçam, fora.
+
+377
+01:05:59,139 --> 01:06:10,840
+Aqueles primeiros na lista que são sensíveis, não sabem ainda o que estão tomando.
+
+378
+01:06:11,673 --> 01:06:17,645
+O segundo passo, tomar uma potência mais alta, ainda não sabem o que estão tomando.
+
+379
+01:06:18,375 --> 01:06:24,902
+Terceiro passo, tomem outra potência, e em seguida obtenham toda a informação possível.
+
+380
+01:06:25,215 --> 01:06:27,263
+Está claro? Ok.
+
+381
+01:06:29,625 --> 01:06:38,201
+A minha pergunta é saber se realmente pensam que é necessário aumentar a Matéria Médica, e explico porquê.
+
+382
+01:06:38,305 --> 01:06:50,944
+Disseram-me que alguém como Lippe, foi um excelente prescritor, o qual praticamente nunca falhou em curar nenhum dos seus pacientes.
+
+383
+01:06:51,256 --> 01:07:03,929
+Se isto é certo ou não, não sei. A Matéria Médica nesse momento era suficiente para curar o que quer que fosse para ser curado.
+
+384
+01:07:04,034 --> 01:07:10,145
+Por isso, você crê que atualmente que há necessidade de aumentar a Matéria Médica ou não?
+
+385
+01:07:10,354 --> 01:07:26,292
+Para mim uma experiência útil, seria ir ao que já temos como remédios pequenos na Matéria Médica
+
+386
+01:07:26,292 --> 01:07:35,771
+e melhorar a informação nesses remédios. Descobrir principalmente o que podem produzir nos níveis mental e emocional.
+
+387
+01:07:36,360 --> 01:07:50,631
+Este é uma experiência interessante para mim, agora, devido ao fato de que a maioria dos praticantes de êxito
+
+388
+01:07:51,014 --> 01:08:09,069
+não necessitam realmente de todos estes remédios extraterrestres, bem então diremos que a Matéria Médica já é suficiente.
+
+389
+01:08:09,173 --> 01:08:16,673
+Mas pode ser melhorada e não devemos deter isso, eu não quero deter a experimentação.
+
+390
+01:08:17,610 --> 01:08:24,207
+Quero  reabilitar aqueles que fazem experimentações e fazê-las de forma adequada.
+
+391
+01:08:24,798 --> 01:08:29,173
+E então estarei muito feliz, agora estou infeliz.
+
+392
+01:08:30,006 --> 01:08:39,624
+Porque me convidaram a ir à Universidade em Bonn, me convidaram e me disseram: O que acontece com a sua profissão?
+
+393
+01:08:39,625 --> 01:08:46,917
+Escutamos estas e outras coisas, é verdade? Você acredita nessas coisas?
+
+394
+01:08:47,159 --> 01:08:50,110
+Eu disse, pelo amor de Deus, não têm sentido.
+
+395
+01:08:51,118 --> 01:09:01,499
+E esta informação, têm que entender que vai direto, todo mundo sabe o que acontece.
+
+396
+01:09:01,917 --> 01:09:10,076
+E todos estão organizando, outras pessoas em outros lugares, que são as companhias farmacêuticas e
+
+397
+01:09:10,215 --> 01:09:17,541
+os Conselhos de medicina, organizam-se e pegam nesta informação e dizem, vejam-nos.
+
+398
+01:09:18,235 --> 01:09:20,666
+São pessoas sérias  nas quais se pode confiar para curar a população?
+
+399
+01:09:22,958 --> 01:09:29,104
+E este é  meu problema porque eu obtenho a retro-alimentação, recebo o impacto.
+
+400
+01:09:30,701 --> 01:09:34,103
+Vêm a mim e dizem, o que você está fazendo?
+
+401
+01:09:36,951 --> 01:09:44,832
+Tenho mais perguntas sobre os raios-X, não há dúvida que se produzem efeitos tóxicos se recebem raios-X.
+
+402
+01:09:45,909 --> 01:10:00,006
+Mas o que duvido é se faço um remédio (pó) que pus sob os raios-X e penso que posso comer quilos desse pó
+
+403
+01:10:00,527 --> 01:10:12,610
+sem  sentir simtomas, então duvido do valor real  da forma como este remédio foi produzido.
+
+404
+01:10:13,444 --> 01:10:27,228
+Mas neste caso dos raios-X, eu disse as doses sub-tóxicas, são as doses que tomam quando se permitem estar sob os raios.X por certo tempo,
+
+405
+01:10:28,860 --> 01:10:32,090
+porque podem se tornar muito tóxicos, como qualquer outra coisa.
+
+406
+01:10:32,472 --> 01:10:41,395
+Mas sub-tóxico significa que este organismo pode permanecer por três segundos,
+
+407
+01:10:42,368 --> 01:10:50,944
+esta é uma dose sub-tóxica e há pessoas, que podem ser encontradas nos hospitais
+
+408
+01:10:52,264 --> 01:11:01,326
+nos departamentos de raios-X,  terão pessoas que estão começando a adoecer por terem sido expostas aos raios-X.
+
+409
+01:11:01,917 --> 01:11:14,659
+Estamos interessados nestas pessoas, encontramos e potencializamos o pó, não o pó da maneira que está, não creio que se ative completamente,
+
+410
+01:11:15,527 --> 01:11:25,353
+mas se potencializarmos o pó creio que pode curar e também, em certos indivíduos sensíveis, pode produzir sintomas.
+
+411
+01:11:25,805 --> 01:11:34,798
+Sim, mas isto é extranho para mim, se você me diz que o pó não está ativo, mas se o potencializa estará ativo.
+
+412
+01:11:37,680 --> 01:11:55,631
+Ok, é extranho, mas lhe darei outro exemplo, preparam pó de ouro ou de uma pedra e tomam-no.
+
+413
+01:11:56,430 --> 01:11:57,784
+Este será evacuado.
+
+414
+01:12:05,979 --> 01:12:13,444
+Ok, não o pulverize finamente, um pouco somente, faça umas pequenas peças de ouro e tome. Será evacuado.
+
+415
+01:12:16,360 --> 01:12:26,950
+Façam pequenas peças  de pó de pedra da areia, mas potencializado e terão Silicea, então terão um efeito.
+
+416
+01:12:28,548 --> 01:12:40,249
+Pegue muitas plantas que não estão abertas, no que chamamos de abertas no seu poder medicinal,
+
+417
+01:12:40,909 --> 01:12:41,916
+quando estão na primeira etapa.
+
+418
+01:12:43,027 --> 01:12:56,985
+Da mesma forma, pode ser que muitos outros químicos não afetem completamente, mas se os potencializamos podem chegar a ser muito efetivos.
+
+419
+01:12:58,652 --> 01:13:05,423
+Suponho que aqui chegamos a um ponto muito interessante, necessitamos da definição de remédio homeopático, O que é isso?
+
+420
+01:13:06,500 --> 01:13:15,667
+Porque no caso, como o que falamos agora, sobre este efeito produzido pelos raios-X, estou seguro que depende em que substância
+
+421
+01:13:16,951 --> 01:13:28,826
+a que está sob os raios-X, assim que o açúcar terá um efeito, realmente duvido que seja o mesmo efeito com sal ou qualquer outro produto.
+
+422
+01:13:29,139 --> 01:13:36,777
+Por isto qual seria aqui a definição de remédio homeopático que nos poderia dar?
+
+423
+01:13:39,000 --> 01:13:49,972
+Não posso imginar a forma em que passamos às pessoas, a influência que é produzida pela vibração dos campos electromagnéticos
+
+424
+01:13:50,180 --> 01:14:00,805
+ou o que quer que seja, se o fazemos através de substâncias então estamos falando do efeito produzido por uma
+
+425
+01:14:01,256 --> 01:14:12,298
+substância que está sob a influência destes campos eletromagnéticos, gravitacionais ou forte eletromagneto
+
+426
+01:14:13,826 --> 01:14:23,027
+que podemos pôr num acelerador físico, esta é a primeira pergunta: Qual é a definição de remédio homeopático?
+
+427
+01:14:23,131 --> 01:14:32,749
+e a segunda é: Vale a pena passar tanto tempo por estas substâncias, por estes remédios homeopáticos?
+
+428
+01:14:33,027 --> 01:14:41,117
+os quais provavelmente podem ser usados em tais casos extremos como Chernobyl ou qualquer outro, 99% do que temos
+
+429
+01:14:41,256 --> 01:14:44,381
+na nossa prática diária está muito longe disso.
+
+430
+01:14:46,326 --> 01:14:56,256
+Bem, é a mesma pergunta que apresentei antes: É necessário produzir todos estes novos remédios?
+
+431
+01:14:56,360 --> 01:15:13,408
+Já dei minha opinião, mas isso também é certo, ouvi que a eletricidade curou 1 ou 2 casos,
+
+432
+01:15:13,514 --> 01:15:24,034
+casos que trabalhavam sob fortes campos eletromagnéticos e com uma alta potência de eletricidade, ficaram bem.
+
+433
+01:15:24,173 --> 01:15:32,506
+Agora, foi um efeito placebo ou foi realmente eletricidade, não sei.
+
+434
+01:15:33,860 --> 01:15:43,200
+Seria interessante usar raios-X em pessoas que ficaram doentes pelo efeito de raios-X, seria interessante usar em Chernobyl
+
+435
+01:15:43,305 --> 01:15:52,610
+altas potências de Radium Bromatum ou a substância que foi liberada ali, em altas potências
+
+436
+01:15:52,715 --> 01:15:59,590
+para ter uma ideia de quantas pessoas poderiam  beneficiar.
+
+437
+01:16:01,639 --> 01:16:22,715
+Neste momento há um grande problema a nível universal com respeito às pessoas da guerra do Golfo.
+
+438
+01:16:22,819 --> 01:16:29,762
+Alguns dos soldados, Americanos e Ingleses, desenvolveram uma sintomatologia e há um
+
+439
+01:16:30,042 --> 01:16:37,854
+grande argumento sobre o que havia ali. O que aconteceu? Porque estes soldados desenvolveram estes sintomas?
+
+440
+01:16:39,347 --> 01:16:54,624
+Minha opinião é que a vacina que tomaram para serem protegidos de possível exposição química
+
+441
+01:16:55,215 --> 01:17:08,027
+a vacina produziu tal turbulência no sistema imunológico que resultou em síndrome, o que significa
+
+442
+01:17:08,027 --> 01:17:17,367
+uma experimentação massiva desta vacina em particular, não sei como a produziram.
+
+443
+01:17:17,506 --> 01:17:31,291
+Mas é muito interessante que os soldados Franceses, que também estiveram na guerra do Golfo, não apresentaram estes sintomas.
+
+444
+01:17:31,985 --> 01:17:43,965
+O que prova definitivamente que aqueles que tomaram a vacina foram afetados, não à exposição a gases, como eles querem
+
+445
+01:17:44,694 --> 01:17:56,777
+fazer crer ou a imaginação dos soldados como outros querem fazer, é um grande tema, muito dinheiro envolvido,
+
+446
+01:17:57,506 --> 01:18:03,270
+porque abririam processos por danos e tentariam encobrir o assunto.
+
+447
+01:18:04,625 --> 01:18:16,222
+O assunto é muito claro para mim, dão a vacina e estas pessoas desenvolvem, nem todas elas, apenas as que são sensíveis,
+
+448
+01:18:16,326 --> 01:18:24,590
+é cerca de 80%  os que desenvolveram estes sintomas.
+
+449
+01:18:24,694 --> 01:18:35,840
+Claro que seria interessante, nestes casos, dar uma dose alta da mesma substância para ver quantos deles, creio que cerca de 10%
+
+450
+01:18:36,465 --> 01:18:47,090
+destes, melhorariam por uma alta potência, os outros necessitariam tratamento homeopático.
+
+451
+01:18:49,208 --> 01:19:03,305
+Eu gostaria de dizer algo sobre Chernobyl, aqueles que morreram ou adoeceram eram sensíveis aos raios, mas creio
+
+452
+01:19:04,347 --> 01:19:13,826
+também tiveram altas e suficientes doses, se dão altas doses a uma pessoa morrerá de qualquer jeito, não necessita ser sensível.
+
+453
+01:19:16,465 --> 01:19:26,916
+Isto é certo, para os que morreram imediatamente, mas mesmo depois de 10 anos ainda temos os efeitos de
+
+454
+01:19:27,715 --> 01:19:34,971
+Chernobyl e as pessoas irão viver 20 anos mais com estes efeitos.
+
+455
+01:19:36,014 --> 01:19:55,770
+Ela perguntou pelos efeitos por cheirar e eu disse que não sabia, mas se estamos falando de cristais
+
+456
+01:19:55,875 --> 01:20:09,902
+ou remédios de Florais de Bach, têm um efeito ainda por usar, o que significa um efeito pelas vibrações e quando
+
+457
+01:20:11,048 --> 01:20:22,471
+falamos das potências homeopáticas 200 não curam no nível físico, curam pelas vibrações.
+
+458
+01:20:24,485 --> 01:20:28,374
+Não nego isso.
+
+459
+01:20:28,756 --> 01:20:39,658
+Quero saber se você pode tomar os glóbulos ou se apenas os usa na sua bolsa, se já tem o efeito que vem da vibração do glóbulo?
+
+460
+01:20:40,042 --> 01:21:00,180
+Bem, creio que Hahnemann dizia, podem pôr o remédio líquido numa parte do braço ou em áreas sensíveis da pele.
+
+461
+01:21:00,389 --> 01:21:15,353
+Isso também posso entender, estamos de acordo que estes remédios atuam a nível de vibrações, não há questão,
+
+462
+01:21:15,458 --> 01:21:22,958
+mas essa vibração tem que estar bem perto da pessoa.
+
+463
+01:21:23,826 --> 01:21:31,603
+Caso contrário temos que aceitar, que os que trabalham em companhias farmacêuticas homeopáticas
+
+464
+01:21:31,708 --> 01:21:36,396
+estão expostos a milhares de remédios pelas vibrações.
+
+465
+01:21:36,500 --> 01:21:47,194
+Podem imaginar? Este ambiente está cheio de 3000 remédios e trabalham todo o dia abrindo e fechando frascos.
+
+466
+01:21:47,298 --> 01:21:53,096
+eu estaria afetado, isto é o que eu acredito, sinto muito.
+
+467
+01:21:55,423 --> 01:22:06,360
+Creio que para poder ser afetado, deve haver um contato real quer seja com as membranas mucosas
+
+468
+01:22:06,465 --> 01:22:14,590
+ou partes sensíveis da pele, claro as membranas mucosas é a melhor parte.
+
+469
+01:22:23,930 --> 01:22:35,076
+Posso dizer algo sobre o problema de Chernobyl? Fiz experiências com um grupo de colegas.
+
+470
+01:22:36,152 --> 01:22:50,353
+Tratamos crianças de Chernobyl, vieram de férias à Bavária e tínhamos cerca de 10 crianças e pensamos: agora necessitamos destes
+
+471
+01:22:50,458 --> 01:23:03,097
+grandes remédios radioativos e não necessitamos de nenhum deles, depois fomos à Rússia e os tratamos novamente.
+
+472
+01:23:05,180 --> 01:23:12,923
+Fizeram o tratamento de acordo aos sintomas que requeriam outros remédios.
+
+473
+01:23:12,958 --> 01:23:22,610
+Tínhamos só remédios normais e fomos à Rússia e foi a mesma coisa, não encontramos nenhuma criança, mesmo aqueles no
+
+474
+01:23:23,618 --> 01:23:35,389
+hospital, que necessitassem dum remédio radioativo, isto para nós foi uma grande lição que as pessoas reagem
+
+475
+01:23:35,667 --> 01:23:39,243
+como qualquer outra. Não reagem a raios radioativos.
+
+476
+01:23:42,021 --> 01:23:51,256
+Isso é certo e estivemos de acordo e disse que se ainda houvesse algum efeito sua observação é limitada.
+
+477
+01:23:51,881 --> 01:23:57,367
+Não podem generalizar e dizer que ninguém necessita  Radium Bromatum, não podem dizer isso.
+
+478
+01:23:57,472 --> 01:24:05,145
+Portanto é provável que algumas pessoas necessitem Radium Bromatum e talvez em número substancial
+
+479
+01:24:05,250 --> 01:24:11,777
+talvez cerca de 3 a 5%, ou até 10% como eu disse na vacinação.
+
+480
+01:24:12,159 --> 01:24:23,478
+Mas como matéria de interesse, eu disse isto no tema das vacinas, dêem a potência mais alta e possivelmente
+
+481
+01:24:23,860 --> 01:24:35,700
+verão alguns deles sair, mas a maioria, 95% não terão efeito e necessitarão doutro remédio.
+
+482
+01:24:35,840 --> 01:24:50,666
+A observação é correta, mas  não podemos generalizar e dizer que ninguém o necessita porque não trataram todos.
+
+483
+01:25:01,396 --> 01:25:16,708
+Desculpem-me, não sei muito de Matéria Médica mas os gases podem causar toxicidade, se alguém está envenenado por gás.
+
+484
+01:25:16,812 --> 01:25:21,604
+não sei o que necessita para neutralizar o efeito.
+
+485
+01:25:24,173 --> 01:25:35,804
+Sempre observar os sintomas da pessoa no momento, com o mesmo gás, as pessoas apresentarão sintomas diferentes.
+
+486
+01:25:37,576 --> 01:25:53,686
+É claro dispneia e algumas queimaduras comuns, etc, mas as modalidades de cada um deles serão diferentes
+
+487
+01:25:54,139 --> 01:25:57,541
+portanto necessitam pesquisar para encontrar o remédio indicado.
+
+488
+01:25:57,610 --> 01:26:00,075
+Não necessita esfriar o gas e fazer o material?
+
+489
+01:26:00,944 --> 01:26:06,048
+Bem, podem fazer isso, mas só uma pequena percentagem será afetada,
+
+490
+01:26:09,243 --> 01:26:14,728
+é exatamente como uma epidemia.
+
+491
+01:26:15,458 --> 01:26:26,500
+Na epidemia vem Gels, em 10% dos casos, 20%, 50%, mas o restante tem que ser tratado por outros remédios.
+
+492
+01:26:27,333 --> 01:26:31,847
+Mas o remédio principal Gelsemium, creio que será várias vezes.
+
+493
+01:26:40,944 --> 01:26:52,054
+George, há um remédio chamado Oscillococcinum, que usamos em grande escala em França, gostaria de saber sua opinião sobre ele.
+
+494
+01:26:53,409 --> 01:27:08,340
+É prescrito para qualquer pessoa para prevenir ou curar um resfriado no inverno e realmente funciona, a prova é que o laboratório
+
+495
+01:27:08,792 --> 01:27:23,756
+vende 32 milhões de caixas todos os invernos, portanto tem um efeito e tem muitos aminoácidos dentro do remédio
+
+496
+01:27:23,860 --> 01:27:32,332
+este fortalece o sistema imunológico. Qual é sua opinião sobre ele? É contrário à Homeopatia Clássica?
+
+497
+01:27:33,167 --> 01:27:47,438
+Quando tentei usá-lo, não teve efeito, mas é minha experiência pessoal, por isso não sei, necessitaria realmente fazer a experiência.
+
+498
+01:27:47,542 --> 01:28:02,958
+Se queremos experimentar esse medicamento em geral, necessitaria da experiência de 10 homeopatas sérios e importantes em 10 países diferentes.
+
+499
+01:28:03,479 --> 01:28:10,597
+E então diria ok, prescrevam-no e me dêem a informação.
+
+500
+01:28:11,639 --> 01:28:19,936
+A não ser que fizesse esse tipo de experimentação não poderia fazer uma declaração.
+
+501
+01:28:25,110 --> 01:28:40,006
+Quando combinam fazer uma experimentação, algumas vezes encontram pessoas que reagem imediatamente a cada remédio.
+
+502
+01:28:40,146 --> 01:28:42,715
+Eles são experimentadores ou não?
+
+503
+01:28:44,104 --> 01:29:02,958
+É bom para vocês mas não para eles, se encontram estas pessoas enviem-nas. Na experiência  de uma pessoa como eu,
+
+504
+01:29:03,027 --> 01:29:16,048
+tive milhares e milhares de casos, poderia dizer que 10 casos na minha vida tiveram essas qualidade, eram organismos sensíveis,
+
+505
+01:29:17,472 --> 01:29:26,326
+muitos hipocondríacos na sua natureza e eram muito observadores da mais pequena mudança no seu organismo
+
+506
+01:29:26,430 --> 01:29:34,590
+e então cada vez que lhes dão um remédio, dizem as características dos sintomas do remédio que prescreveram.
+
+507
+01:29:35,389 --> 01:29:46,465
+e dizem: oh meu Deus, e tentam várias vezes, casos muito difíceis de curar, mas sujeitos muito bons para experimentar um remédio.
+
+508
+01:29:46,569 --> 01:29:54,520
+Normalmente em tais casos deram 1 ou 2 sintomas principais do remédio
+
+509
+01:29:54,625 --> 01:30:00,597
+não lhes dão uma série de sintomas, ou novos sintomas, raras vezes dão novos sintomas.
+

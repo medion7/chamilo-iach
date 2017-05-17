@@ -1,0 +1,968 @@
+﻿1
+00:00:08,000 --> 00:00:15,000
+Comenzamos con un poco de teoría, hoy he seleccionado el parágrafo 210 del Organón.
+
+2
+00:00:42,366 --> 00:00:57,632
+Creo que hay una confusión y veremos cuál es la confusión con respecto a este parágrafo.
+
+3
+00:00:57,633 --> 00:01:17,833
+Hay algunos profesores que han traducido este parágrafo 210 diciendo que en cada caso tienen síntomas mentales.
+
+4
+00:01:18,533 --> 00:01:25,833
+Esto es lo que dice Hahnemann. En todos los casos se presentan síntomas mentales. Por lo tanto, buscan en todos los casos por
+
+5
+00:01:25,933 --> 00:01:40,833
+estos síntomas mentales y encuentran un remedio que se ajuste a estos síntomas mentales en todos los casos.
+
+6
+00:01:40,933 --> 00:02:01,899
+Y aquí hay un tipo de interpretación errónea del Organón y les diré por qué. Voy a leer el parágrafo 210 en el que Hahnemann
+
+7
+00:02:02,000 --> 00:02:15,133
+habla de las enfermedades mentales. Dice, la mayoría de las enfermedades que he descrito anteriormente como unilateral,
+
+8
+00:02:15,233 --> 00:02:24,366
+pertenecen a la psora y esto parece ser más difícil de curar debido al desarrollo parcial.
+
+9
+00:02:24,466 --> 00:02:37,132
+Donde todos los demás síntomas de la enfermedad están obscurecidos, debido a la presencia de un gran síntoma prominente .
+
+10
+00:02:37,233 --> 00:02:47,966
+En realidad lo que quiere decir aquí es cuando tenemos un trastorno mental, los síntomas mentales son cada vez más fuertes y
+
+11
+00:02:48,066 --> 00:02:57,466
+todos los demás síntomas desaparecen o se suprimen.
+
+12
+00:03:02,566 --> 00:03:11,732
+Las enfermedades denominadas de la mente y el temperamento son de este tipo.
+
+13
+00:03:11,833 --> 00:03:23,733
+Sin embargo, estos no constituyen una clase de enfermedades estrictamente distinto de las demás.
+
+14
+00:03:23,833 --> 00:03:39,233
+Debido a que el estado de la mente siempre está alterado en las llamadas enfermedades físicas.
+
+15
+00:03:39,333 --> 00:03:57,799
+Y aquí es donde viene la mala interpretación. El estado de la mente está siempre alterado, modificado.
+
+16
+00:03:57,933 --> 00:04:07,266
+Así que aquellos profesores que lean esto, dicen aquí Hahnemann dice que en todos los casos se encuentran síntomas mentales.
+
+17
+00:04:07,366 --> 00:04:16,666
+Por lo tanto, ustedes tienen que encontrar un remedio que se ajuste a la imagen mental.
+
+18
+00:04:25,933 --> 00:04:41,833
+¿Es esto correcto? Ustedes están leyendo este parágrafo 210 y dice Hahnemann, el estado de la mente siempre está alterado
+
+19
+00:04:41,933 --> 00:04:59,733
+en cualquier enfermedad física o de otra manera. Por lo tanto, ¿tiene o no tiene síntomas mentales?
+
+20
+00:05:03,833 --> 00:05:09,966
+Si Hahnemann dice ¿cómo vamos a pensar de otra manera?
+
+21
+00:05:11,366 --> 00:05:22,399
+Aquí Hahnemann da una sub-nota 116, con un ejemplo de lo que quiere decir.
+
+22
+00:05:22,466 --> 00:05:36,632
+Dice que en las enfermedades dolorosas, por ejemplo, de varios años, se reúnen con frecuencia con las disposiciones suaves
+
+23
+00:05:36,733 --> 00:05:43,233
+demandando respeto y compasión por parte del médico, para el paciente.
+
+24
+00:05:43,333 --> 00:05:59,733
+Pero tan pronto como la enfermedad es vencida y el paciente recupera la salud, la posibilidad, de  ocurrencia frecuente bajo tratamiento
+
+25
+00:05:59,833 --> 00:06:10,399
+homeopático, el médico con frecuencia se asombra y se sorprende de los terribles cambios en la disposición del paciente.
+
+26
+00:06:10,466 --> 00:06:28,366
+La ingratitud,  obstinación,  malicia refinada y los más vergonzosos y degradantes caprichos a menudo parecen reaparecer
+
+27
+00:06:28,466 --> 00:06:39,399
+todos los cuales eran peculiares del paciente en tiempos de salud. ¿Es esta una supresión?
+
+28
+00:06:39,500 --> 00:06:46,900
+La persona que se curó de una enfermedad de largo tiempo.
+
+29
+00:06:47,000 --> 00:07:00,633
+Y le cura y mientras él estaba bien, entonces se convierte en malicioso, irritable.
+
+30
+00:07:00,733 --> 00:07:10,333
+Hahnemann ¿habla de una supresión aquí?
+
+31
+00:07:10,433 --> 00:07:19,166
+Y continúa en el mismo parágrafo. Dice, las personas que son pacientes en la salud, se encuentran con frecuencia en la enfermedad
+
+32
+00:07:19,266 --> 00:07:28,166
+siendo obstinadas, violentas y precipitadas o con intolerante y deplorable, impaciencia o desesperación.
+
+33
+00:07:28,266 --> 00:07:36,566
+Los que eran previamente castos y modestos luego se encuentran lascivos y desvergonzados.
+
+34
+00:07:36,666 --> 00:07:49,732
+Un intelecto brillante no es raro encontrar estar embotado, una persona común de mente débil, por otro lado, será más sensible,
+
+35
+00:07:49,833 --> 00:08:00,466
+mientras que uno de intelecto lento, a veces muestra gran presencia de ánimo y prontitud, resoluciones, etc
+
+36
+00:08:00,566 --> 00:08:20,166
+Así que lo que dice es, ambas cosas son posibles. Una persona que era malicioso, etc, durante una enfermedad crónica grave
+
+37
+00:08:20,266 --> 00:08:31,332
+cambia su disposición, su temperamento, su sintomatología mental y se hace muy agradable. Y lo opuesto es verdad.
+
+38
+00:08:31,333 --> 00:08:44,066
+Algunas personas que estaban muy bien, durante la enfermedad se tornan irritables, enojados, etc.
+
+39
+00:08:44,166 --> 00:08:57,332
+Nuestra pregunta que se examina es ¿en todos los casos, vamos a la búsqueda de síntomas mentales?
+
+40
+00:08:57,433 --> 00:09:14,366
+¿Vamos a la búsqueda de síntomas mentales en todos los casos? ¿Tenemos los síntomas mentales en cada caso?
+
+41
+00:09:14,466 --> 00:09:24,699
+Hahnemann parece; de acuerdo con las interpretaciones que los profesores dicen; que  hay.
+
+42
+00:09:24,800 --> 00:09:44,400
+Pero Hahnemann no dice que la mente está siempre enferma, él dice que la mente está siempre alterada.
+
+43
+00:09:44,466 --> 00:10:08,866
+Y en el párrafo 253 se hace una distinción entre una mente sana y la mente enferma.
+
+44
+00:10:09,000 --> 00:10:18,966
+Aunque no es visible en todo el estado de la mente y el comportamiento general del paciente son algunos de los signos más comprensibles
+
+45
+00:10:19,066 --> 00:10:26,166
+algunas de incipiente mejoría o de agravación en todas las enfermedades, especialmente en los agudos.
+
+46
+00:10:26,266 --> 00:10:36,332
+Si ustedes leen este parágrafo en relación con el 210 y la sub-nota del 210
+
+47
+00:10:36,466 --> 00:10:46,666
+van a pensar que, o bien Hahnemann se contradice, o quiere decir otra cosa.
+
+48
+00:10:46,766 --> 00:11:00,666
+Hahnemann en realidad era un gran observador. Un hombre que tenía gran poder de pensamiento y pudo observar
+
+49
+00:11:00,666 --> 00:11:06,866
+y luego poner las cosas en orden, poner las cosas en el contexto adecuado.
+
+50
+00:11:06,966 --> 00:11:19,966
+Por lo tanto, dice, incipiente mejoría sin embargo leve, se indica por aumento de la sensación de confort, gran tranquilidad
+
+51
+00:11:20,066 --> 00:11:31,199
+y la libertad de la mente, mayor valor y retorno de la naturalidad en los sentimientos del paciente.
+
+52
+00:11:31,266 --> 00:11:41,766
+Los signos de agravación, sin embargo ligeros, pueden ser opuestos de los precedentes y consisten en un apenado e indefenso
+
+53
+00:11:41,866 --> 00:11:48,866
+estado de la mente, mientras que el desarrollo de la conducta, actitud y acciones del paciente apelan a nuestra simpatía.
+
+54
+00:11:48,966 --> 00:12:01,399
+Esta condición es fácil de ser vista o demostrada en un observador atento, pero no se describe en pocas palabras.
+
+55
+00:12:01,500 --> 00:12:12,000
+Hahnemann dice que si ustedes tienen estos sentimientos, tranquilidad, libertad, etc. son saludables.
+
+56
+00:12:12,100 --> 00:12:19,300
+Por lo que describe lo que es la salud y describe lo que es la enfermedad.
+
+57
+00:12:19,400 --> 00:12:28,000
+En el parágrafo 210, dice, la mente está siempre alterada.
+
+58
+00:12:28,100 --> 00:12:39,800
+Y explica en la sub-nota que la mente puede llegar a estar tranquila, etc, y lo opuesto puede ser verdad.
+
+59
+00:12:39,866 --> 00:12:46,399
+Durante la enfermedad la mente puede ser agresiva, etc.
+
+60
+00:12:46,533 --> 00:12:57,133
+El tema parece un poco complicado.
+
+61
+00:12:57,200 --> 00:13:10,133
+En el parágrafo 211, dice; el estado mental del paciente y su temperamento
+
+62
+00:13:12,466 --> 00:13:20,999
+es de la más decisiva importancia, en la selección del remedio homeopático.
+
+63
+00:13:21,133 --> 00:13:28,499
+Antes él ha dicho, la mente está siempre alterada. En el parágrafo siguiente dice, el estado de ánimo del paciente y su temperamento
+
+64
+00:13:28,633 --> 00:13:40,099
+es "con frecuencia", no siempre, de una importancia decisiva. Por supuesto, todos sabemos que cuando tenemos
+
+65
+00:13:40,200 --> 00:13:49,266
+los síntomas mentales, estos síntomas son importantes, para ser tenidos en cuenta para nuestra prescripción homeopática.
+
+66
+00:13:49,333 --> 00:13:54,733
+Son importantes con frecuencia, no siempre.
+
+67
+00:13:59,200 --> 00:14:03,400
+¿Qué significa esto?
+
+68
+00:14:03,500 --> 00:14:14,633
+El parágrafo 212. El efecto sobre el estado de la mente y la disposición es la característica principal de todas las enfermedades
+
+69
+00:14:14,766 --> 00:14:18,699
+y parece haber sido especialmente ordenado por el Creador de todos los poderes de curación.
+
+70
+00:14:18,766 --> 00:14:27,032
+No hay una sola sustancia, que no posea el poder de alterar sensiblemente la condición mental y estado de ánimo
+
+71
+00:14:27,166 --> 00:14:31,432
+de una persona sana, que voluntariamente prueba un medicamento.
+
+72
+00:14:31,533 --> 00:14:40,099
+De hecho cada sustancia medicinal afecta a la mente de una manera diferente. Dice que todas las sustancias medicinales
+
+73
+00:14:40,200 --> 00:14:49,300
+afectan a la mente también. Eso es diferente. Si continúa golpeando a una persona con una sustancia,
+
+74
+00:14:49,400 --> 00:14:57,233
+que afectará su mente también, un momento u otro.
+
+75
+00:14:57,333 --> 00:15:05,799
+Esto es diferente a decir que en todas las enfermedades, que van a encontrar, en frente de ustedes, tienen un paciente
+
+76
+00:15:05,900 --> 00:15:17,233
+en donde siempre van a encontrar los síntomas mentales. Aquí, en estos parágrafos dice otra cosa también.
+
+77
+00:15:17,233 --> 00:15:30,533
+La pregunta es, ¿hemos probado todas las sustancias disponibles?
+
+78
+00:15:30,633 --> 00:15:38,799
+Por lo tanto, si no han probado todas las sustancias, vamos a tener algunos estados mentales que no están
+
+79
+00:15:38,900 --> 00:15:47,600
+cubiertos por los remedios conocidos. Pueden obtener un estado mental de un paciente perteneciente a una droga
+
+80
+00:15:47,666 --> 00:15:54,232
+que no se ha demostrado hasta el momento y por lo tanto no está disponible. ¿Qué van a hacer?
+
+81
+00:15:54,366 --> 00:16:02,499
+Tenemos pequeñas drogas para las cuales no conocemos, los síntomas mentales de las pequeñas drogas.
+
+82
+00:16:02,600 --> 00:16:10,133
+Así que si un caso mental pertenece a ese medicamento, del que no sabemos los síntomas mentales,
+
+83
+00:16:10,200 --> 00:16:22,166
+¿cómo vamos a encontrar los síntomas mentales en ese caso?. Si realmente tratamos decir,  el tiene síntomas mentales,
+
+84
+00:16:22,266 --> 00:16:27,232
+por lo tanto, vamos a basar nuestra prescripción en los síntomas mentales solamente
+
+85
+00:16:27,333 --> 00:16:36,566
+y estamos obligando a una solución de acuerdo con estos síntomas mentales, que pertenecen a Arundo.
+
+86
+00:16:36,666 --> 00:16:46,899
+No sabemos la sintomatología mental de Arundo, pero es similar a Phosphorus. Así que lo encajamos y le damos Phosphorus.
+
+87
+00:16:48,133 --> 00:16:49,999
+Y por supuesto fallamos.
+
+88
+00:16:58,000 --> 00:17:05,566
+La mayoría de las llamadas enfermedades de la mente Son en realidad las enfermedades corporales.
+
+89
+00:17:05,633 --> 00:17:12,699
+Ciertos síntomas mentales y emocionales son peculiares de todas las enfermedades corporales. Estos síntomas se desarrollan
+
+90
+00:17:12,800 --> 00:17:20,533
+más o menos rápidamente, en un estado de mayor visible unilateralidad y finalmente se transfiere como un local de la enfermedad
+
+91
+00:17:20,633 --> 00:17:29,866
+en los órganos invisibles sutiles de la mente, donde su presencia parece ocultar los síntomas corporales.
+
+92
+00:17:30,366 --> 00:17:36,999
+Lo que dice aquí es muy interesante. El dice, ¿usted tiene síntomas corporales?
+
+93
+00:17:38,733 --> 00:17:49,633
+¿Los suprime de una manera u otra. Los suprime y ¿qué es lo que ve? Los síntomas mentales.
+
+94
+00:17:49,733 --> 00:17:54,866
+Y esto se ha convertido en una enfermedad unilateral.
+
+95
+00:17:57,066 --> 00:18:06,166
+Y da un ejemplo en el parágrafo siguiente. Dice, es una observación común que una enfermedad física peligrosa,
+
+96
+00:18:06,866 --> 00:18:14,632
+tales como la supuración de los pulmones, que significa la tuberculosis u otras afecciones destructivas y agudas,
+
+97
+00:18:14,733 --> 00:18:25,933
+tienen ciertos síntomas mentales. Estos están sujetos a un rápido desarrollo y con frecuencia degenera en locura, melancolía
+
+98
+00:18:26,166 --> 00:18:35,466
+o delirio donde todos los síntomas que amenazan lo físico van a desaparecer y parecen ser reemplazados por una salud perfecta.
+
+99
+00:18:36,733 --> 00:18:48,133
+Se ha observado que cuando a la tuberculosis le iba mejor a través de medidas represivas, vemos la locura.
+
+100
+00:18:50,500 --> 00:19:01,666
+Eso significa que la enfermedad entra en la mente y luego, cuando tratamos, vemos el orden inverso.
+
+101
+00:19:01,800 --> 00:19:06,033
+Tratamos a la locura, vemos la tuberculosis en desarrollo.
+
+102
+00:19:06,133 --> 00:19:14,133
+Durante el período de la tuberculosis, no se buscan los síntomas mentales.
+
+103
+00:19:14,200 --> 00:19:25,666
+Prescriben Veratrum Album para un caso mental y después del remedio verán el desarrollo de la tuberculosis.
+
+104
+00:19:28,533 --> 00:19:37,633
+Y ahora tienen frente a ustedes un problema físico grave. Ahora ustedes van a buscar otro remedio, lo más probable.
+
+105
+00:19:37,766 --> 00:19:44,932
+¿Van a tener en cuenta una vez más los síntomas mentales que estaban antes?
+
+106
+00:19:45,033 --> 00:19:55,433
+Si lo hacen, tendrán que dar el mismo remedio, pero este no es el caso la mayoría de las veces.
+
+107
+00:19:55,533 --> 00:20:03,199
+La mayoría de las veces se necesita otro remedio y basarán la prescripción, para que en la segunda prescripción
+
+108
+00:20:03,266 --> 00:20:16,299
+se basen en los síntomas físicos del paciente. Les voy a dar un ejemplo, un ejemplo real que estoy tratando en este momento.
+
+109
+00:20:16,766 --> 00:20:27,032
+Una grave ansiedad con fobias, ¿qué es esto?, ¿qué es eso?, me estoy muriendo.
+
+110
+00:20:27,133 --> 00:20:36,766
+Este es cáncer, no se trata de mi corazón. Corre al cardiólogo, corre al oncólogo, corre a un médico tras otro,
+
+111
+00:20:36,866 --> 00:20:46,399
+algo está sucediendo todo el tiempo. Van a morir, ustedes lo saben la ansiedad es terrible de manejar.
+
+112
+00:20:46,466 --> 00:20:59,099
+Y entonces la batalla con 1,2,3 remedios equivocados. El cuarto remedio da en el blanco y luego se ha calmado.
+
+113
+00:20:59,200 --> 00:21:06,333
+Lo que se ve en la mayoría de los casos, si se trata de una neurosis de ansiedad severa, en la mayoría de los casos podrán ver dos cosas.
+
+114
+00:21:06,433 --> 00:21:16,933
+Me refiero especialmente a las mujeres, ya sea que vean una erupción en la piel o vean severas leucorreas.
+
+115
+00:21:17,033 --> 00:21:25,666
+Flujo vaginal con picazón. La vagina se irrita y luego descarga rápida.
+
+116
+00:21:25,766 --> 00:21:44,732
+Durante este prurito y secreción, que se llama micosis o lo que sea tal vez el diagnóstico alopático.
+
+117
+00:21:44,833 --> 00:21:58,399
+Durante este tiempo la persona se siente mejor y mejor. Cuanto más la descarga mejor se siente. Así que dicen, ¿ahora no tienen ningún temor?
+
+118
+00:21:58,533 --> 00:22:07,533
+No, no tengo ningún temor. Pero ven ahora algo muy severo. Antes que pudiera ver nada. Ella se imagina solamente.
+
+119
+00:22:07,600 --> 00:22:15,500
+Tengo un dolor aquí, hay un dolor, quizá es el desarrollo de cáncer, ¿se puede ver? Le dije: Yo no veo nada.
+
+120
+00:22:15,600 --> 00:22:20,666
+Pero es algo que ha llegado hasta aquí. No, yo no veo nada.
+
+121
+00:22:20,766 --> 00:22:34,499
+Y luego viene con una secreción, picazón, la vagina está irritada y ella dice: no, no me importa.
+
+122
+00:22:34,600 --> 00:22:44,433
+Esto significa que la mente se ha vuelto sana y ahora tenemos que tratar la descarga.
+
+123
+00:22:44,533 --> 00:22:50,966
+¿Vamos a forzarla aquí para encontrar los síntomas mentales en ese estado? Yo les diré.
+
+124
+00:22:51,033 --> 00:23:02,666
+He intentado tratar este caso por 6 meses y no pude. Di 1,2, Sepia, Carbolic acid, remedios diferentes. No pude.
+
+125
+00:23:02,766 --> 00:23:16,266
+En realidad, yo agravaba más y más la leucorrea, la descarga. Así que se hartó de mí y se fue a un ginecólogo
+
+126
+00:23:16,366 --> 00:23:25,766
+y él dice que es muy fácil, no es fácil, tuvo que tomar el tratamiento durante unos meses y la descarga fue suprimida realmente.
+
+127
+00:23:25,866 --> 00:23:42,432
+Por un período de tiempo 3,4,5, meses no me acuerdo que no tuvo descarga, sin ansiedad. Ella estaba feliz. Ok.
+
+128
+00:23:42,533 --> 00:23:53,499
+6 meses más tarde viene otra vez. Ella no viene a mí, ella empieza a ir de nuevo cardiólogo, un oncólogo,
+
+129
+00:23:53,600 --> 00:24:02,500
+hace la ronda entera, pagando todo ese dinero y finalmente, después de que ella tiene la misma respuesta que antes, ya saben.
+
+130
+00:24:02,600 --> 00:24:12,000
+Tomar tranquilizantes, toma esto, toma esto, entonces ella vuelve a mí y digo que bien, empezar de nuevo.
+
+131
+00:24:12,100 --> 00:24:20,566
+Toma este remedio. Ahora sé el remedio, es más fácil para mí curarla, su ansiedad.
+
+132
+00:24:20,666 --> 00:24:27,432
+La ansiedad se va, otra vez la descarga está ahí.
+
+133
+00:24:27,766 --> 00:24:40,132
+Ahora bien, este es el caso en que ustedes están tratando ahora la descarga y hay que tratar de acuerdo a los síntomas físicos.
+
+134
+00:24:40,233 --> 00:24:49,399
+Estos son los síntomas guía ahora, pero el caso puede venir a ti, directo como un caso de leucorrea.
+
+135
+00:24:49,533 --> 00:24:59,333
+En cuyo caso incluso Sepia no tendrá la imagen mental de Sepia. No verán la imagen mental de Sepia.
+
+136
+00:24:59,433 --> 00:25:10,833
+A pesar del hecho de que ven la leucorrea de Sepia, así que en este caso se tendrá que basar su prescripción en los síntomas físicos.
+
+137
+00:25:10,933 --> 00:25:23,833
+No tienen ya más síntomas mentales y yo les digo en mi experiencia de 35 a 36 años, en el tratamiento de enfermedades severas,
+
+138
+00:25:23,933 --> 00:25:33,233
+las enfermedades sistémicas, lo que llamamos las enfermedades de la colágena, lupus eritematoso, artritis reumatoide, etc.
+
+139
+00:25:33,333 --> 00:25:44,066
+Tienen estos casos que son severos y no ven síntomas mentales. ¿Tiene miedo? No. ¿Usted tiene ansiedad? No.
+
+140
+00:25:44,166 --> 00:26:00,832
+¿Usted tiene algún tipo de depresión? No. Son muy saludables en el estado mental. ¿Cómo se va a encontrar síntomas mentales?
+
+141
+00:26:00,933 --> 00:26:09,833
+Ella está tan enferma, que no encontrarán los síntomas mentales. Tienen que prescribir en la sintomatología física.
+
+142
+00:26:09,933 --> 00:26:19,599
+Si ustedes quieren ser realistas, si quieren ser profesionales, si ustedes van a tratar los casos de una forma profesional.
+
+143
+00:26:19,666 --> 00:26:30,999
+Esto significa que cada día tienes que ver 10 casos y hay que tratarlos, hay que tener éxito en 7-8 de ellos.
+
+144
+00:26:31,133 --> 00:26:47,233
+Tener éxito una vez al año y tener un caso bonito que te llevan y lo presentan en video, esto no es profesional.
+
+145
+00:26:47,333 --> 00:26:58,466
+Profesional es tratar a por lo menos 8 de cada 10 casos. Este es el profesionalismo.
+
+146
+00:26:58,566 --> 00:27:13,932
+Y esto es lo que nos proponemos cuando nos dicen que los estudiantes necesitan una formación adecuada.
+
+147
+00:27:14,000 --> 00:27:17,633
+La capacitación adecuada es alcanzar ese estado.
+
+148
+00:27:26,533 --> 00:27:35,166
+Así que esto es claro. La mente se ve alterada, lo que significa que puede ser alterada en la dirección correcta.
+
+149
+00:27:35,233 --> 00:27:43,899
+Está alterada, modificada, cambiada en la dirección correcta. Hahnemann sabía lo que estaba escribiendo.
+
+150
+00:27:44,000 --> 00:27:53,900
+Ahora llegamos a la última pregunta en la que decimos, ¿qué quiere decir cuando dice que
+
+151
+00:27:54,000 --> 00:28:07,466
+después de una enfermedad severa que usted cura, el mal carácter viene de nuevo?.
+
+152
+00:28:07,566 --> 00:28:17,232
+¿Es esta una supresión? ¿Cómo lo saben?
+
+153
+00:28:17,333 --> 00:28:37,233
+Hay ciertos factores que les daré, para juzgar si se trata de una supresión o no. En primer lugar la supresión, no dura por mucho tiempo.
+
+154
+00:28:37,333 --> 00:28:50,999
+El organismo lo traerá de vuelta. En segundo lugar una supresión, hará que la persona que tiene ahora los síntomas mentales,
+
+155
+00:28:51,066 --> 00:29:02,199
+se sienta mucho peor que antes, que cuando tenía los síntomas físicos. La persona se sentirá mucho peor ahora.
+
+156
+00:29:02,333 --> 00:29:18,899
+La limitación de esta persona va a ser mayor. Donde no fue capaz de trabajar antes, no era capaz de funcionar socialmente antes, ahora,
+
+157
+00:29:19,000 --> 00:29:28,900
+cuando sus síntomas físicos son suprimidos y tiene problemas mentales, ahora es peor.
+
+158
+00:29:29,000 --> 00:29:42,166
+Pero si las limitaciones de la persona, que se ha curado, son menos que antes, esto significa que ha llegado hasta
+
+159
+00:29:42,266 --> 00:29:56,632
+ya sea con sus rasgos de personalidad, cualidades y cada uno de nosotros tiene cualidades como una personalidad.
+
+160
+00:29:56,733 --> 00:30:10,666
+Uno de nosotros nace con una personalidad flemática, no importa lo que sucede, sucede, no para los demás, no para mí.
+
+161
+00:30:10,766 --> 00:30:25,999
+Otro nace con una personalidad mucho más excitable. Otro nace con la idea de que el mundo debe ser así y actúa de acuerdo
+
+162
+00:30:26,066 --> 00:30:35,199
+con esta idea. Otro ha nacido con otra idea y actúa de acuerdo con esta idea. Así que hay personalidades únicas.
+
+163
+00:30:35,333 --> 00:30:44,199
+Cada uno de nosotros tiene una personalidad diferente. Es por eso que nunca podemos estar de acuerdo totalmente en todo.
+
+164
+00:30:44,533 --> 00:30:50,166
+Cada uno de nosotros, tiene una personalidad diferente y así es como debe ser.
+
+165
+00:30:51,066 --> 00:31:02,732
+Estas cualidades de la personalidad, nunca van a cambiar. Si se intenta con la homeopatía tratar de cambiar la personalidad,
+
+166
+00:31:02,833 --> 00:31:12,133
+esto es totalmente erróneo. Lo que puede cambiar sobre la personalidad, tienen alguna patología.
+
+167
+00:31:12,266 --> 00:31:25,566
+Mi personalidad es ser excitable. ¿Qué te pasó? Escucha esta es tu personalidad. Ahora viene la patología.
+
+168
+00:31:25,666 --> 00:31:43,832
+Me convierto en trastornado mental, en vez de decir ¿qué le pasó? y yo escucho, la ansiedad que me abruma y digo: Dios mío.
+
+169
+00:31:43,933 --> 00:31:56,766
+Se convierte en mucho más grande este rasgo de personalidad. Se convierte en patología ahora. Mis cualidades naturales
+
+170
+00:31:56,833 --> 00:32:19,499
+se vuelven más grandes.No me puedo controlar. Algo le ha pasado a mi hijo. Mi Dios. Helleborus actuará de una forma, Phosphorus,
+
+171
+00:32:19,600 --> 00:32:26,733
+Arsenicum actuarán de otra manera, Nux vomica actuará de otra manera, sobre el mismo problema.
+
+172
+00:32:26,833 --> 00:32:36,299
+Antes de que pudieran controlar, había una especie de equilibrio en este rasgo de personalidad.
+
+173
+00:32:36,400 --> 00:32:48,566
+Ahora bien, si la patología llega a la persona en este nivel, entonces estas cualidades se acentúan.
+
+174
+00:32:48,666 --> 00:33:09,099
+Uno de ellos es flemático, él dice no importa. Mañana será mejor. Y entonces sucede algo fuera y dice no tengo sentimientos.
+
+175
+00:33:09,200 --> 00:33:20,566
+No siento nada. Esto es patología. Antes había algunos sentimientos, ahora ya no hay sentimientos.
+
+176
+00:33:20,666 --> 00:33:35,166
+Es como una piedra en el interior. Total indiferencia. Ellos dicen, ¿qué quiere decir,? ¿por qué vivimos?
+
+177
+00:33:35,233 --> 00:33:55,899
+Esta es la indiferencia total. Es la patología. No es un estado flemático. Una persona que es  seria, es estudioso y cumplido.
+
+178
+00:33:56,000 --> 00:34:11,833
+Pero cuando esa cualidad del deber, se acentúa, entonces tendrá que trabajar, trabajar y trabajar hasta que se agota y el colapso total,
+
+179
+00:34:11,933 --> 00:34:16,399
+esto es patología.
+
+180
+00:34:16,466 --> 00:34:24,099
+Y entonces se necesita un tratamiento, por supuesto. Pero ustedes nunca van a cambiar la cualidad básica de la persona.
+
+181
+00:34:24,233 --> 00:34:33,999
+Es por eso que a veces las personas buscan en sí mismos y no les gusta algunos de los rasgos que tienen.
+
+182
+00:34:34,066 --> 00:34:50,432
+Y vienen al homeópata y dicen, ¿qué puede hacer por mi excitabilidad?. Estoy muy excitable. ¿Qué puede hacer?, soy rápido.
+
+183
+00:34:50,533 --> 00:34:57,333
+Ves a la gente, son rápidos, la gente es lenta, nace así como una cualidad. No se puede cambiar eso.
+
+184
+00:34:57,433 --> 00:35:09,966
+La patología puede cambiar por supuesto. Por ejemplo, un niño Veratrum Album, Veratrum acelera la mente del niño
+
+185
+00:35:10,066 --> 00:35:19,432
+y el niño se convierte en pensamiento torcido.
+
+186
+00:35:19,533 --> 00:35:30,199
+Entonces no piensas más de una forma directa. Ellos piensan de una manera torcida. Ellos hacen una pregunta, antes de saber la respuesta,
+
+187
+00:35:30,333 --> 00:35:39,399
+otra pregunta que es en esa dirección. Y se siente que este niño es muy inteligente.
+
+188
+00:35:39,466 --> 00:35:52,732
+Personas del extranjero me trajeron a su hijo. Nuestro hijo es muy inteligente, en realidad demasiado inteligente.
+
+189
+00:35:52,833 --> 00:36:05,966
+Tenemos miedo, porque él es muy inteligente. Y tenían razón. El estaba en una escuela específica para niños inteligentes
+
+190
+00:36:06,066 --> 00:36:18,032
+y se podía ver que el niño mantenía esta sobre excitabilidad de la mente y pronto el niño simplemente se vendría abajo
+
+191
+00:36:18,133 --> 00:36:29,933
+y se convertirá en nada y dejaría la escuela. Se podía sentir eso. Los padres podían sentir también esto.
+
+192
+00:36:30,066 --> 00:36:41,699
+Ellos dijeron, por otra parte emocionalmente el niño está totalmente más allá de su edad. Mentalmente, sobre-estimulación de la mente.
+
+193
+00:36:41,766 --> 00:36:57,599
+Emocionalmente, inmadurez. Trajeron al niño y estaban preocupados. El niño no estaba interesado en las niñas.
+
+194
+00:36:57,733 --> 00:37:07,133
+El no tiene ningún interés y las pequeñas cosas que demuestran la inmadurez emocional, pero los padres estaban realmente preocupados.
+
+195
+00:37:07,233 --> 00:37:18,199
+Yo dije, bueno, si lo prescribo, ¿qué es lo que van a ver?, ya no será el primero en su clase. Será el segundo o tercero.
+
+196
+00:37:18,266 --> 00:37:28,999
+Tal vez el cuarto. Pero esto será bueno, no se preocupen. Ellos entendieron. Ellos dijeron, usted tiene razón, estamos sintiendo lo mismo
+
+197
+00:37:29,133 --> 00:37:39,266
+que el niño se va a venir abajo muy pronto. Tenía 12,13 años, cuando fue traído a mí. Ahora él es un niño sano.
+
+198
+00:37:39,333 --> 00:37:50,599
+Terminó su escuela con Veratrum Album. Si Veratrum album no fuese dado a ese niño, Dios los ayude.
+
+199
+00:37:50,700 --> 00:38:01,966
+Habría sido una persona insana a la edad de 18 años. Locura definitivamente.
+
+200
+00:38:09,466 --> 00:38:19,866
+En este caso particular, o en general. En este caso en particular, de acuerdo con mi evaluación, fueron varios factores.
+
+201
+00:38:21,800 --> 00:38:30,200
+Hay una cierta predisposición hereditaria en primer, lugar para un niño para ir hacia ese estado.
+
+202
+00:38:30,333 --> 00:38:43,233
+A continuación, esta predisposición se activa o es excitada por varios factores. Uno de ellos, uno muy temprano es la inmunización de los niños.
+
+203
+00:38:43,333 --> 00:39:00,233
+El niño recibe las vacunas que estimulan el mecanismo de defensa. Obligan al organismo a producir anticuerpos.
+
+204
+00:39:00,333 --> 00:39:10,733
+Produce los anticuerpos de ese tipo, de ese tipo y entonces el niño tiene su primera bronquitis.
+
+205
+00:39:10,833 --> 00:39:25,199
+Y llegan los antibióticos. Hay una familia, se trataba de una familia muy rica, de un país europeo, de la que estoy hablando
+
+206
+00:39:25,300 --> 00:39:35,433
+y ustedes saben en estas familias, como los niños son tratados. Eres el rey y el niño tiene que desempeñarse.
+
+207
+00:39:35,533 --> 00:39:49,266
+Sintiendo la mente estimulada, con la obligación hacia los padres de ser bueno, se obliga a sí mismo a estimular su mente
+
+208
+00:39:49,366 --> 00:39:58,732
+y convertirse en el primer o segundo en su clase. Para el niño fue muy interesante, ya saben, en los niños Veratrum Album
+
+209
+00:39:58,833 --> 00:40:17,766
+verán una especie de indiferencia hacia el logro. Es natural para mí ser así, olvídalo, no es grave, sí, yo soy el primero, no importa.
+
+210
+00:40:17,866 --> 00:40:37,866
+El niño Veratrum Album piensa muy rápido, pero ustedes verán, percibirán que algo anda mal. Incluso en la forma de hacer movimientos.
+
+211
+00:40:37,966 --> 00:40:55,632
+Las piernas no irán directamente, van a ir así a veces, movimientos reedondeados, ellos tendrán todo tipo de movimientos.
+
+212
+00:40:55,733 --> 00:41:06,333
+Recuerdo un caso, yo estaba intentando de tratar al niño de un amigo, que nos visitaba aquí en Alonissos.
+
+213
+00:41:06,433 --> 00:41:17,166
+El niño era muy inteligente y muy activo. Ellos habían venido a mi casa.
+
+214
+00:41:17,266 --> 00:41:36,332
+En mi casa tengo estas cosas para los mosquitos en las puertas y el de la puerta principal estaba un poco roto, el mosquitero.
+
+215
+00:41:36,466 --> 00:41:57,632
+Y vi al niño mirando a la puerta y diciendo a su mente y esto es la patología, que bueno sería si pateo esta puerta y le abro un gran agujero.
+
+216
+00:41:57,733 --> 00:42:06,733
+Así que mis ojos lo atraparon pensando eso y lo dejé, me olvidé de él.
+
+217
+00:42:06,833 --> 00:42:26,266
+Una hora más tarde veo y hay un gran agujero allí. Lefteris ven aquí. Le dije ¿por qué lo hiciste?
+
+218
+00:42:26,333 --> 00:42:34,433
+Lefteris lo hizo cuando nadie lo estaba mirando, por supuesto. Estaba seguro de que nadie estaba mirando.
+
+219
+00:42:34,566 --> 00:42:45,232
+Tenía 5-6 años de edad, pero lo que capté, la elaboración del pensamiento, su inquietud, y la inteligencia
+
+220
+00:42:45,333 --> 00:42:55,733
+puse las cosas en conjunto y dije: Oh Dios mío, esto es un caso Veratrum. Antes de llegar a ese estado le hablé al niño y le digo,
+
+221
+00:42:55,833 --> 00:43:08,266
+¿Por qué hiciste eso? Yo era muy agradable. Quería saber si me podía explicar su pensamiento. Le dije, ¿por qué hiciste eso?
+
+222
+00:43:08,366 --> 00:43:35,099
+Yo no lo hice. Le dije sí, pero yo te vi. Quería irse. Yo dije, explicame ¿por qué? No, yo no lo hice y se fue.
+
+223
+00:43:35,200 --> 00:43:45,633
+Le hablo a su madre y le dije, porque esto es sólo imaginación, yo he imaginado que lo vi, pero tal vez algo accidental ha ocurrido.
+
+224
+00:43:45,733 --> 00:43:54,633
+Le hablo a su madre y le dije, por favor ve esto es lo que ha sucedido. Y esto es importante para mí saberlo.
+
+225
+00:43:54,733 --> 00:44:07,966
+Y yo empecé a poner las cosas juntas para el paciente. Entonces, la madre llamó y dijo, él siempre dice la verdad.
+
+226
+00:44:08,066 --> 00:44:18,432
+Todas las madres. Así que me lo dirá. Le preguntó Lefteris, ¿lo hiciste? Así que la madre viene a darme la respuesta.
+
+227
+00:44:18,533 --> 00:44:33,666
+Ella dice, él no lo aceptó, pero él no lo negó tampoco. Lo que me da la sospecha de que probablemente lo ha hecho. Yo dije, ok.
+
+228
+00:44:33,766 --> 00:44:50,432
+La próxima vez que venga, Lefteris hola, ¿por qué lo hiciste? ¿Por qué lo hiciste? No hay respuesta.
+
+229
+00:44:50,533 --> 00:44:56,999
+Segundo día, tercer día, el cuarto día, cinco días le dice a su madre ¿por qué vamos con George otra vez?
+
+230
+00:44:57,066 --> 00:45:08,432
+Dice que siente una carga pesada... porque siempre me pregunta por la puerta.
+
+231
+00:45:08,533 --> 00:45:29,333
+Pero luego pude observar cómo se mueve, cómo lo iba a hacer y entonces es una característica interesante en los niños Veratrum Album
+
+232
+00:45:29,433 --> 00:45:45,599
+como tener un tipo heroico de personalidad. Las personas que se enfrentarían por los demás y todo eso.
+
+233
+00:45:45,733 --> 00:45:58,966
+Una de esas noches había 10 niños jugando alrededor de mi casa y ellos se entusiasmaron y gritaban, jugando
+
+234
+00:45:59,033 --> 00:46:16,266
+y estábamos hablando. Grité, cállense. Todos los niños estaban congelados. Lefteris viene, ¿por qué gritas?
+
+235
+00:46:16,366 --> 00:46:31,566
+¿Que no nos dejas jugar tampoco? Se enfrentó. Hemos dado Phosphorus para él, porque estaba muy bien, muy inteligente, Phosphorus,
+
+236
+00:46:31,666 --> 00:46:44,799
+y por supuesto era uno de los médicos en Atenas y luego vienen a mí y yo observo esto y por supuesto la observación de la salud mental
+
+237
+00:46:44,866 --> 00:46:50,466
+y la disposición. Esto por supuesto es realmente  patología en este caso. Ahora Lefteris es muy inteligente,
+
+238
+00:46:50,600 --> 00:46:56,766
+él es uno de los primeros en su clase, pero no está activo como asi.
+
+239
+00:46:56,866 --> 00:47:09,266
+Desde entonces, 5-6 años tenía que repetir el remedio 2-3 veces, no puedo recordar. Dentro de los 5 años cada vez que tenía una
+
+240
+00:47:09,366 --> 00:47:22,532
+recaída, llendo de nuevo a ese estado. La inquietud y la madre sabe que otra vez está en ese estado,
+
+241
+00:47:22,633 --> 00:47:36,299
+se lo da y a los pocos días el niño se calma. Esto es un poco de Veratrum.
+
+242
+00:47:36,333 --> 00:47:49,066
+Vamos a tener un descanso y después voy a presentar el caso del que he estado hablando con ustedes.
+

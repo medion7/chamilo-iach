@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELde44a8fdf5c544e92e01576fc533d2f1</ID>
+  <patient>
+    <case_date>2014-03-02 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Θ.Δ</patient_initials>
+    <age>41</age>
+    <circumstances>παντρεμενη-χωρισμενη εδω και 2 χρονια  χωρις παιδια &#13;
+ιδιωτικη υπαλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>δεν το συνδεεει με κατι εμφανιστηκε  πρωτη φορα σε ενα μαγαζι που ειχε πολυ ζεστη και ενιωσε οτι θα λιποθυμησει απο τοτε αρχισε να φοβαται οτι θα πεθανει εχει ταχυπαλμιες τρεμουλο φοβαται οτι θα παθει καρδιακο επεισοδιο παρα το οτι εχει παει 2 φορες σε καρδιολογο εκανε ολες τισ εξετασεισ και ολα βγηκαν καλα &#13;
+ </origin>
+        <causative_factors>δεν το συνδεει με κατι &#13;
+(ο αδερφος της ετοιμαζεται να αρραβωνιαστει κ δεν συμφωνει με την επιλογη του)</causative_factors>
+        <modalities>χειροτερευει στη ζεστη &#13;
+χειροτερα απο τοον καπνο του τσιγαρου &#13;
+καλλιτερα με το περπατημα &#13;
+χειροτερα το πρωι οταν ξυπναει εχει ταχυπαλμιες &#13;
+μολις ζοριστει κανει ταχυπαλμιες </modalities>
+        <occurrence_time>δεν εχει σταθερο χρονο &#13;
+χειροτερα στη ζεστη &#13;
+χειροτερα απο τσιγαρο χειροτερα οταν ζοριζεται &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>καθημερινα &#13;
+&#13;
+</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>δεν εχει </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>κρισεις πανικου</conv_med_presc>
+        <lab_tests>
+          <desc>εξκανε ολες τις εξετασεις βγηκαν ολες φυσιολογικες &#13;
+δεν θελει να παρει αλλοπαθητικα φαρμακα </desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>τα κλασσικα εμβολια &#13;
+οχι κατι ιδιαιτερο&#13;
+</therapies_vaccination>
+          <traumas>το διαζυγιο της πριν 2 χρονια </traumas>
+          <infections>εκανε πυρετο πριν2- 3 χρονια </infections>
+          <other>--</other>
+        </personal>
+        <family>
+          <diseases>μητερα τιποτα &#13;
+πατερασ εμφραγμα </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει αλλα δεν μπορει τη ζεστη &#13;
+εχει γινει εμμονη η ζεστη </reactions>
+        <sleeping_habits>δεξια &#13;
+οχι κατι ιδιαιτερο &#13;
+</sleeping_habits>
+        <food_modalities>λιγο νερο &#13;
+γλυκα 4 &#13;
+μακαρονια &#13;
+λαδερα </food_modalities>
+        <menstruation>δεν εχει σταθερο κυκλο μολισ αγχωθει δεν της ερχεται η περιοδος μπορει και για 2-3-μηνες &#13;
+αιμα με λιγα πηγματα ,πονο την πρωτη μερα </menstruation>
+      </physical>
+      <mental_emotional>φοβαται οτι θα παθει εμφραγμα 3&#13;
+φοβαται οτι θα πεθανει 3&#13;
+ανησυχει για τους δικους της πολυ4 ,στεναχωριεται για τον αδερφο της</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>δεν εχει κανενα προβλημα σωματικο ολα ειναι ψυχολογικα ,</personal_medical_history>
+        <family_medical_history>πατερας με εμφραγμα &#13;
+μητερα τιποτα</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>ψυχοσωματικα&#13;
+ καλο επιπεδο υγειας </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>χειροτερα με τον καπνο του τσιγαρου 3&#13;
+καλλιτερα με το περπατημα 2&#13;
+ταχυπαλμιες 4 &#13;
+χειροτερα με την ζεστη 3&#13;
+γλυκα 3&#13;
+σοκολατα 3&#13;
+φοβο να μεινει μονη της 3</peculiar>
+        <intense>ταχυπαλμιες με καθε ερεθισμα 4&#13;
+τρεμουλο 2&#13;
+θερμοφοβια2&#13;
+αγχος για την οικογενεια 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND-SMOKING AGG 3&#13;
+MIND-PALPITATION AGG 3&#13;
+MIND-FEAR -PALPITATION WITH 2&#13;
+MIND-FEAR- DEATH ,OF-IMPENDING DEATH OF 3&#13;
+MIND- FEAR -ALONE OF BEING 4&#13;
+GENERALS- FOOD AND DRINK CHOCOLATE DESIRE 4&#13;
+GENERALS FOOD AND DRINK SWEET DESIRE 2&#13;
+MIND EMOTION SUPRESSED 3&#13;
+MIND -HEAT HEAD AGG,OF 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>ONCE</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-04-16 18:00:00</followup_date>
+      <conv_med_presc>PHOSPHORUS 200 CH</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δεν εκανε αρχικη επιδεινωση &#13;
+ειναι λιγο καλλιτερα δεν την ενοχλει τοσο ο καπνος &#13;
+εχει ακομα ταχυπαλμιες &#13;
+δεν αντεχει την ζεστη &#13;
+αδυναμια &#13;
+τρεμουλο &#13;
+</reaction>
+      <analysis>μικρη αλλαγη τα συμπτωματα παραμενουν με μικρη βελτιωση περιμενουμε</analysis>
+      <conclusion>περιμενουμε</conclusion>
+      <repertorization>
+        <desc>το ιδιο </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>τιποτα</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-24 18:00:00</followup_date>
+      <conv_med_presc>=</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη βελτιωση σε καποια συμπτωματα αλλα επιδεινωθηκαν κ βγηκαν καινουργια&#13;
+μεγαλη κοπωση δεν μπορει να βγαλει την μερα της &#13;
+οι ταχυπαλμιες ειναι καλλιτερα &#13;
+δεν την ενοχλει ο καπνος &#13;
+μενει μονη της ,δεν φοβαται μη πεθανει &#13;
+αγχοσ και στεναχωρια για τον αδερφο της &#13;
+πολλα αερια κ διαρροια μετα τα γλυκα σε ποιο μεγαλο βαθμο &#13;
+κλειστοφοβια</reaction>
+      <analysis>κοντινο φαρμακο αλλα οχι το  σωστο </analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>MIND-PALPITATION-AGG 2&#13;
+MIND FEAR-DEATH;OF-IMPENDINGDEATH OF 1&#13;
+MIND-FEAR-ALONE;OF BEING 2&#13;
+GENERALS-FOOD AND DRINKS-SWEETS DESIRE 3&#13;
+GENERALS-FOOD AND DRINKS-CHOCOLATE-DESIRE 4&#13;
+MIND -HEAT-HEAD AGG;OF 3&#13;
+MIND FEAR -NARROW PLACE;IN 2&#13;
+RECTUM-DIARRHEA-SUGAR-AFTER 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ARGENTUM NITRICUM</remedy>
+        <potency>1M</potency>
+        <regimen>ONCE</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2016-02-24 18:00:00</followup_date>
+      <conv_med_presc>argentum nitricum 1m</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>εκανε αρχικη επιδεινωση μετα το φαρμακο  εντονη διαρροια για 1 μερα &#13;
+επανηλθαν οι δυναμεισ της &#13;
+καλλιτερα οι ταχυπαλμιες,μονο οταν ζοριζεται αλλα ξερει και τις ελεγχει &#13;
+νιωθει καλλιτερα </reaction>
+      <analysis>επιβεβαιωση του φαρμακου απο την αρχικη επιδεινωση και την βελτιωση</analysis>
+      <conclusion>αρχικη επιδεινωση που μας επιβαιβεωνει το φαρμακο θεραπευτικη δραση του φαρμακου που συνεχιζεται </conclusion>
+      <repertorization>
+        <desc>MIND-PALPITATION-AGG 2&#13;
+MIND FEAR-DEATH;OF-IMPENDINGDEATH OF 1&#13;
+MIND-FEAR-ALONE;OF BEING 2&#13;
+GENERALS-FOOD AND DRINKS-SWEETS DESIRE 3&#13;
+GENERALS-FOOD AND DRINKS-CHOCOLATE-DESIRE 4&#13;
+MIND -HEAT-HEAD AGG;OF 3&#13;
+MIND FEAR -NARROW PLACE;IN 2&#13;
+RECTUM-DIARRHEA-SUGAR-AFTER 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>το πρωτο φαρμακο ηταν κοντινο &#13;
+το σωστο φαρμακο ηταν το argentum</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL52b86fb0d86b517dc331fa5e5604bb6a</ID>
+  <patient>
+    <case_date>2014-10-12 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ν.Δ.</patient_initials>
+    <age>87</age>
+    <circumstances>ΤΗΛΕΦΩΝΙΚΗ ΠΡΩΤΗ ΕΠΙΚΟΙΝΩΝΙΑ 12/10/2014 Γυναίκα 86 ετών με ευαισθησία στην ηπατική λειτουργία (γ-GT από 50-90 U/L)  λόγω σκληρυντικής χολαγγειίτιδας (διάγνωση προ 5ετίας με MRCP) </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>12/10/2014 Παρουσίασε ξαφνικά γενική αδυναμία ++++, δεν μπορούσε να σηκωθεί από το κρεββάτι ++++ Έπρεπε να την κρατάνε δύο άτομα για να μπορέσει να σταθεί. Δεν είχε καθόλου όρεξη και είχε διάρροια η οποία άρχιζε να αποχρωματίζεται. &#13;
+13/10 /2014 Εισαγωγή σε νοσοκομείο και στα επόμενο 24ωρα  εκδήλωσε  πυρετό 39,3 0C.  Η όλη κατάσταση  ξεκίνησε  μετά από γεύμα σε εστιατόριο με θαλασσινά. Η αιμοκαλλιέργεια  Θετική  για Klebsiella κοινότητος και οι τιμές στο ηπατικό έλεγχο επιπλέον πολύ αυξημένες (γ-GT : 1200 U/L) . Χορηγήθηκε ενδοφλέβια αντιβίωση. Η κόπωση και η μυϊκή αδυναμία  ήταν τόσο μεγάλη. Η ίδια έλεγε "Αφήστε με να πεθάνω", ενώ  πάντα είναι δυνατή και έχει άγχος υγείας και προσπαθεί να περνά πολύ καλά. Μετά την χορήγηση της αντιβίωσης το πρώτο 24ωρο ο πυρετός παρέμεινε σταθερά υψηλός και δεν υπήρξε βελτίωση των ηπατικών τιμών. Μειώθηκε ο ρυθμός των κενώσεων και άρχισε μερικός σχηματισμός. Εκείνο που δεν βελτιώθηκε καθόλου ήταν η μεγάλη σωματική αδυναμία, δεν μπορούσε να σταθεί καθόλου μόνη της. &#13;
+</origin>
+        <causative_factors>Μόλυνση από Klebsiella κοινότητος</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>-</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Λήψη καθημερινά URSOFALK 1Χ1</conv_med_presc>
+        <lab_tests>
+          <desc> Η αιμοκαλλιέργεια  Θετική  για Klebsiella κοινότητος και οι τιμές στο ηπατικό έλεγχο επιπλέον πολύ αυξημένες (γ-GT : 1200 U/L)</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>-</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>-</reactions>
+        <sleeping_habits>-</sleeping_habits>
+        <food_modalities>-</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>-</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Σκληρυντικής χολαγγειίτιδας (διάγνωση προ 5ετίας με MRCP) </personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>GENERALITIES ¬ WEAKNESS ¬ paralytic ¬ sliding down in bed 3 </peculiar>
+        <intense>GENERALITIES ¬ WEAKNESS 4</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENERALITIES ¬ WEAKNESS 4&#13;
+ FEVER ¬ HEAT in general 2 &#13;
+GENERALITIES ¬ WEAKNESS ¬ paralytic ¬ sliding down in bed 3 &#13;
+MIND ¬ TALK ¬ indisposed to, desire to be silent, taciturn 1 &#13;
+RECTUM ¬ DIARRHOEA 2 &#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Πρώτο φάρμακο mur-ac. Το repertorization υπέδειξε  το Phosphoric acid ως δεύτερο φάρμακο. Η ασθενής δεν είχε όμως καμμία συναισθηματική επιβάρυνση, ούτε επιθυμία για χυμούς, ούτε ήταν απαθής και η πλήρης δυσλειτουργία του ήπατος μαζί με τα υπόλοιπα συμπτώματα ιδίως το «GENERALITIES - WEAKNESS ¬ paralytic ¬ sliding down in bed 3», υποδείκνυε το mur-acid </remedies_differentiation>
+      <prescription>
+        <remedy>Muriatic-acid</remedy>
+        <potency>200CH X 3 X 3</potency>
+        <regimen>200CH χ3 φορές την ημέρα Χ 3 ημέρες.</regimen>
+        <other_notes>Το  mur-ac ήταν από τα πιό  πιθανά φάρμακα διότι ενδείκνυται  σε blood poisoning, έχει μεγάλη μυϊκή  κόπωση από ηπατική δυσλειτουργία και  η ασθενής έχει αυτό το χαρακτηριστικό σύμπτωμα «GENERALITIES ¬ WEAKNESS ¬ paralytic - sliding down in bed 3», που χαρακτηρίζει το mur-acid</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η βελτίωση ήταν άμεση (από το ίδιο 24ωρο), η κόπωση βελτιώθηκε μπορούσε να καθίσει να σηκωθεί και άρχισε να τρώει κανονικά. Άρχισαν να βελτιώνονται με ταχύτατους ρυθμούς και οι τιμές των ηπατικών εξετάσεων.</reaction>
+      <analysis>Δεν υπήρξε αρχική επιδείνωση διότι η ασθενής βρισκόταν σε σοβαρή οξεία κατάσταση και πιθανώς το φάρμακο εξαντλήθηκε και ο αμυντικός μηχανισμός του οργανισμού δεν είχε την δυνατότητα να δώσει αρχική επιδείνωση. Δεν υπήρξε επανάληψη ή χορήγηση άλλου φαρμάκου. Η ασθενής παραμένει υγιής μέχρι σήμερα, 5/8/2015. με την τρέχουσα συμβατική φαρμακευτική της αγωγή</analysis>
+      <conclusion>Το φάρμακο ήταν απολύτως σωστό και βοήθησε άμεσα την ασθενή.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

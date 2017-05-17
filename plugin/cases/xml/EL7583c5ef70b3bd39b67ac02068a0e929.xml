@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL7583c5ef70b3bd39b67ac02068a0e929</ID>
+  <patient>
+    <case_date>2014-10-10 18:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Κ.Σ.</patient_initials>
+    <age>68</age>
+    <circumstances>Παντρεμένος με 2 κόρες, συνταξιούχος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ο ασθενής εμφάνισε έντονη επιγαστραλγία πριν από 4 μήνες χωρίς άλλα συνοδα συμπτώματα (χωρίς εμέτους, ναυτία).</origin>
+        <causative_factors>Η επιγαστραλγία εμφανίστηκε σε σύντομο διάστημα μετά την συνταξιοδότηση του ασθενούς.</causative_factors>
+        <modalities>Η επιγαστραλγία βελτιώνεται όταν δεν καταναλώνει καφέ και δεν καπνίζει. Γενικότερα καλύτερα με προσεκτική διατροφή.&#13;
+Ο ίδιος παραδέχεται ότι δεν φροντίζει να συμμορφώνεται με τις συγκεκριμένες οδηγίες.</modalities>
+        <occurrence_time>Δεν αναφέρει συγκεκριμένο χρόνο βελτίωσης/επιδείνωσης του άλγους κατά τη διάρκεια της ημέρας.</occurrence_time>
+        <body_side>Επιγάστριο.</body_side>
+        <appearence_frequency>Σε καθημερινή βάση.</appearence_frequency>
+        <pain_desc>Οξύς, διαξιφιστικός πόνος "σαν να τον τρυπάνε βελόνες", με εξάρσεις και υφέσεις.</pain_desc>
+        <complaint_ext>Δεν αναφέρει επέκταση της ασθένειας σε άλλα σημεία.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ο ασθενής λαμβάνει φαρμακευτική αγωγή για γαστρίτιδα (caps losec 20).</conv_med_presc>
+        <lab_tests>
+          <desc>Ο ασθενής πρόσφατα έκανε γαστροσκόπηση στα πλαίσια διερεύνησης της έντονης επιγαστραλγίας των τελευταίων 4 μηνών (γνωμάτευση γαστρίτιδας, εξέταση για Helicobacter pylori αρνητική).&#13;
+Έγινε σύσταση για U/S ήπατος-χοληφόρων-παγκρέατος χωρίς ανάδειξη παθολογικών ευρημάτων.&#13;
+Γενική εξέταση αίματος και βιοχημικός έλεγχος: κ.φ., α/α θώρακος: κ.φ.&#13;
+Καρδιολογική εκτίμηση, ΗΚΓ, τεστ κοπώσεως: κ.φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Δεν θυμάται αν έχει εμβολιαστεί στην παιδική ηλικία. Δεν λαμβάνει φαρμακευτική αγωγή για άλλο λόγο.</therapies_vaccination>
+          <traumas>Αναφέρεται με συγκίνηση στο θάνατο του πατέρα του όταν ο ίδιος ήταν 10 ετών.</traumas>
+          <infections>Δεν αναφέρει.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Ο πατέρας του ασθενούς πέθανε σε ηλικία 43 ετών από N:Parkinson.&#13;
+Η μητέρα του είναι ακόμα εν ζωή και λαμβάνει αντιϋπερτασική αγωγή (μονή), η υγεία της είναι σε καλή κατάσταση.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρύα ιδιοσυστασία, κρυολογεί εύκολα από "το παραμικρό ρεύμα αέρα".</reactions>
+        <sleeping_habits>Αϋπνία, κακή ποιότητα ύπνου εδώ και πολλά χρόνια, συλλογισμοί που αφορούν την δουλειά του τον κρατάνε ξύπνιο ή προκαλούν πρώιμη αφύπνιση. Όνειρα σχετικά με το εργασιακό του περιβάλλον.</sleeping_habits>
+        <food_modalities>Λατρεύει τον καφέ, δεν μπορεί να ξυπνήσει αν δεν πιεί καφέ, υπερβολική κατανάλωση καφέ μέσα στην ημέρα (~4-5 φλυτζάνια). Καπνίζει πολύ (~1,5 πακέτο ημερησίως). Μετά τη διάγνωση της γαστρίτιδας έχει αναγκαστεί να μειώσει τον καφέ στα 2 φλυτζάνια ημερησίως.</food_modalities>
+        <menstruation>Ν/Α</menstruation>
+      </physical>
+      <mental_emotional>Ο ασθενής ήρθε στο ιατρείο με τη σύζυγό του κατόπιν δικής της επιμονής και προσωπικής μου γνωριμίας με την ίδια. Τον περιγράφει ως πολύ νευρικό (το παραδέχεται και ό ίδιος), ανυπόμονο, εύθικτο και τελειομανή ('δεν τολμάμε να αλλάξουμε θέση στα πράγματά του"). Ο ίδιος είναι πολύ επικριτικός απέναντι στην ομοιοπαθητική και δηλώνει ότι ήρθε μόνο "για να κάνει το χατήρι της γυναίκας του". Αρκετά επιθετικός κατά τη διάρκεια της συνέντευξης. Υπήρξε πολύ φιλόδοξο άτομο και στοχοπροσηλωμένος στην δουλειά του η οποία τον ανέδειξε κοινωνικά και του πρόσφερε μεγάλη οικονομική άνεση.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δεν έχει άλλα (γνωστά) προβλήματα υγείας. Τους χειμερινούς μήνες κρυολογεί εύκολα αλλά δεν κάνει ποτέ πυρετό. Συνάχι, βήχας και κόπωση που τον ταλαιπωρούν έως και 1 μήνα αν κρυολογήσει.</personal_medical_history>
+        <family_medical_history>Ο πατέρας του ασθενούς πέθανε σε ηλικία 43 ετών από N:Parkinson.&#13;
+Η μητέρα του είναι ακόμα εν ζωή και λαμβάνει αντιϋπερτασική αγωγή (μονή), η υγεία της είναι σε καλή γενική κατάσταση.</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Είμαι αρκετά επιφυλακτική για την πορεία αυτού του περιστατικού. Αμφιβάλω αν ο ασθενής θα μπορέσει να διακόψει τον καφέ. Δεν δείχνει να παίρνει στα σοβαρά αυτή τη θεραπευτική προσέγγιση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>GENERALITIES AIR draft agg. (2)&#13;
+GENERALITIES FOOD and DRINKS stimulants desire (3)&#13;
+MIND IRRITABILITY (3)&#13;
+MIND AMBITION increased (3)&#13;
+MIND FASTIDIOUS (2)&#13;
+</peculiar>
+        <intense>STOMACH INFLAMMATION (Gastritis) (3)&#13;
+MIND IRRITABILITY (3)&#13;
+MIND AMBITION increased (3)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>STOMACH INFLAMMATION (Gastritis) (3)&#13;
+MIND IRRITABILITY (3)&#13;
+MIND AMBITION increased (3)&#13;
+MIND FASTIDIOUS (2)&#13;
+MIND CENSORIOUS, critical (2)&#13;
+RECTUM CONSTIPATION ineffectual urging and straining (2)&#13;
+SLEEP SLEEPLESSNESS thoughts activity of mind, from (2)&#13;
+GENERALITIES FOOD and DRINKS stimulants desire (3)&#13;
+GENERALITIES WARM amel. (3)&#13;
+GENERALITIES FOOD and DRINKS spices desire (1}&#13;
+GENERALITIES AIR draft agg. (2)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Δ.δ.: Arsenicum album, Veratrum album</remedies_differentiation>
+      <prescription>
+        <remedy>Nux Vomica</remedy>
+        <potency>30CH - 200CH</potency>
+        <regimen>1 χαπάκι 30 CH και την επόμενη ημέρα 1 χαπάκι 200 CH.</regimen>
+        <other_notes>Το φάρμακο είναι καθαρό και αν ο ασθενής συμμορφωθεί με τις οδηγίες διακοπής του καφέ, θα πρέπει να δει βελτίωση.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-11-12 18:00:00</followup_date>
+      <conv_med_presc>Followup #1: 12/11/2014&#13;
+Σε επικοινωνία της συζύγου του ασθενούς μαζί μου, μου αναφέρει ότι η επιγαστραλγία είναι καλύτερα κατά 70% χωρίς να προσέχει ιδιαίτερα την διατροφή του. Έχει γίνει πολύ νευρικός λόγω της διακοπής του καφέ. Ο ίδιος πιστεύει ότι η διακοπή του καφέ ηρέμησε το στομάχι του και ότι το συμβατικό φάρμακο που έπαιρνε ήθελε το χρόνο του για να δράσει (παρά το ότι το παίρνει 4 μήνες χωρίς διαφοροποίηση του πόνου!!!). Την συμβουλεύω να κάνει προσπάθεια να μην πιει καφέ, γιατί απ'ότι φαίνεται, το φάρμακο έχει δράσει.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πόνος στο στομάχι βελτιωμένος κατά 70%.&#13;
+Περισσότερη νευρικότητα λόγω διακοπής του καφέ.&#13;
+Καλό επίπεδο ενεργητικότητας, δραστηριότητας.&#13;
+Ο ίδιος δεν το παραδέχεται αλλά η σύζυγος αναφέρει καλύτερο ύπνο (δεν ξυπνάει πλέον 3-4 φορές την νύχτα).</reaction>
+      <analysis>Το φάρμακο ήταν καθαρό και έδρασε στη σωστή κατεύθυνση. </analysis>
+      <conclusion>Λίγες μέρες μετά ο ασθενής άρχισε να πίνει πάλι καφέ. Η επιγαστραλγία επέστρεψε με πιο έντονο χαρακτήρα αυτή τη φορά. Ο ασθενής πήρε με δική του πρωτοβουλία Nux Vomica όπως στην πρώτη συνταγογράφηση. Καμία βελτίωση μετά από 1 μήνα (παρά το ότι στο διάστημα αυτό δεν πίνει καφέ!!!!)&#13;
+Αρνήθηκα συνταγογράφηση από το τηλέφωνο και ο ασθενής αρνείται δεύτερης επίσκεψης. Η σύζυγός του (κάνει χρόνια ομοιοπαθητική θεραπεία και είναι πολύ ευχαριστημένη) μου είπε χαρακτηριστικά ότι "ο εγωισμός του θα τον καταστρέψει".</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ν/Α</remedy>
+        <potency>Ν/Α</potency>
+        <regimen>Ν/Α</regimen>
+        <other_notes>Ν/Α</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

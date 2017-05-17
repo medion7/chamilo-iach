@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELcd177e4fb8a74d6244e75eca66fae85c</ID>
+  <patient>
+    <case_date>2015-11-29 13:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Τ</patient_initials>
+    <age>38</age>
+    <circumstances>ΑΓΑΜΗ,ΟΔΟΝΤΙΑΤΡΟΣ,ΦΟΙΤΗΤΡΙΑ ΣΧΟΛΗΣ ΚΑΛΩΝ ΤΕΧΝΩΝ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΔΙΑΡΡΟΙΚΕΣ ΚΕΝΩΣΕΙΣ ΕΔΩ ΚΑΙ ΜΙΑ ΕΒΔΟΜΑΔΑ,ΚΑΙ ΕΜΦΑΝΙΣΗ ΜΙΑΣ ΚΥΣΤΗΣ ΣΤΟΝ ΑΡΙΣΤΕΡΟ ΜΑΣΤΟ ΜΕ ΠΟΝΟ ΚΑΙ ΟΙΔΗΜΑ ΓΙΑ ΤΗΝ ΟΠΟΙΑ ΠΗΡΕ ΑΝΤΙΒΙΟΣΗ.</origin>
+        <causative_factors>ΟΙΚΟΝΟΜΙΚΗ ΑΝΑΣΦΑΛΕΙΑ,ΑΓΧΟΣ ΓΙΑ ΤΗΝ ΣΧΟΛΗ ΤΗΣ ΓΙΑΤΙ ΘΕΛΕΙ ΝΑ ΑΛΛΑΞΕΙ ΕΡΓΑΣΤΗΡΙΟ.</causative_factors>
+        <modalities>ΝΙΩΘΕΙ ΚΑΛΑ ΟΤΑΝ ΖΩΓΡΑΦΙΖΕΙ ,ΟΤΑΝ ΑΚΟΥΕΙ ΚΛΑΣΣΙΚΗ ΜΟΥΣΙΚΗ,ΟΤΑΝ ΠΕΡΠΑΤΑΕΙ ΣΕ ΚΑΘΑΡΟ ΑΕΡΑ.</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>ΚΥΣΤΗ ΣΤΟΝ ΑΡΙΣΤΕΡΟ ΜΑΣΤΟ.</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΚΥΣΤΗ ΣΤΟΝ ΑΡΙΣΤΕΡΟ ΜΑΣΤΟ,ΠΗΡΕ AUGMENTIN 1ΓΡ ΓΙΑ 7 ΗΜΕΡΕΣ.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ 74 ΕΤΩΝ ΕΧΕΙ ΠΙΕΣΗ,ΧΟΛΗΣΤΕΡΙΝΗ ΚΑΙ ΚΑΤΑΡΑΚΤΗ ΓΙΑ ΤΟΝ ΟΠΟΙΟ ΧΕΙΡΟΥΡΓΗΘΗΚΕ.ΠΑΤΕΡΑΣ ΠΕΘΑΝΕ 62 ΕΤΩΝ ΣΕ ΤΡΟΧΑΙΟ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ (4)</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΜΕ ΚΑΛΤΣΕΣ ΚΑΙ ΠΑΝΤΟΤΕ ΚΑΛΑ ΝΤΥΜΕΝΗ ΓΙΑΤΙ ΚΡΥΩΝΕΙ,ΚΟΙΜΑΤΑΙ ΣΤΟ ΔΕΞΙ ΠΛΑΙ,ΒΛΕΠΕΙ ΟΝΕΙΡΑ ΑΓΧΟΤΙΚΑ ΚΥΡΙΩΣ,ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΗ.</sleeping_habits>
+        <food_modalities>ΘΕΛΕΙ ΤΟ ΑΛΑΤΙ(3),ΤΑ ΓΛΥΚΑ(3),ΦΡΟΥΤΑ ΩΡΙΜΑ ,ΛΑΧΑΝΙΚΑ ΤΑ ΘΕΛΕΙ,ΑΠΕΧΘΕΙΑ ΣΤΟ ΛΙΠΟΣ(3).ΤΗΝ ΤΕΛΕΥΤΑΙΑ ΕΒΔΟΜΑΔΑ ΟΤΑΝ ΤΡΩΕΙ ΜΕΤΑ ΑΠΟ ΜΙΣΗ ΩΡΑ ΕΧΕΙ ΔΙΑΡΡΟΙΚΗ ΚΕΝΩΣΗ.</food_modalities>
+        <menstruation>ΚΥΚΛΟΣ ΚΑΘΕ 28 ΗΜΕΡΕΣ ΜΕ ΚΑΝΟΝΙΚΗ ΡΟΗ,ΧΩΡΙΣ ΠΥΓΜΑΤΑ</menstruation>
+      </physical>
+      <mental_emotional>ΑΓΧΟΣ(3),ΘΥΜΟΣ(3),ΘΛΙΨΗ(3) ΑΠΟ ΤΙΣ ΑΡΧΕΣ ΤΟΥ ΑΥΓΟΥΣΤΟΥ,ΝΙΩΘΕΙ Ο ΔΕΣΜΟΦΥΛΑΚΑΣ ΤΟΥ ΕΑΥΤΟΥ ΤΗΣ,ΦΟΒΟΣ ΓΙΑ ΣΕΞΟΥΑΛΙΚΗ ΕΠΑΦΗ(3),ΝΙΩΘΕΙ ΟΤΙ ΚΑΤΑΠΙΕΖΕΤΑΙ(3)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΤΟ 2012 ΕΚΑΝΕ ΓΡΙΠΗ ΜΕ ΠΥΡΕΤΟ 39.</personal_medical_history>
+        <family_medical_history>ΜΗΤΕΡΑ 74 ΕΤΩΝ ΕΧΕΙ ΠΙΕΣΗ,ΧΟΛΗΣΤΕΡΙΝΗ ΚΑΙ ΚΑΤΑΡΑΚΤΗ ΓΙΑ ΤΟΝ ΟΠΟΙΟ ΧΕΙΡΟΥΡΓΗΘΗΚΕ.ΠΑΤΕΡΑΣ ΠΕΘΑΝΕ 62 ΕΤΩΝ ΣΕ ΤΡΟΧΑΙΟ.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>ΕΚΑΝΕ ΠΥΡΕΤΟ 39 ΠΡΙΝ 3 ΧΡΟΝΙΑ ΟΠΟΤΕ ΒΡΙΣΚΕΤΑΙ ΣΕ ΥΨΗΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΑΓΧΟΣ(3),ΘΥΜΟΣ(3),ΘΛΙΨΗ(3),ΦΟΒΟΣ ΓΙΑ ΣΕΞΟΥΑΛΙΚΗ ΕΠΑΦΗ(3) ΚΑΙ ΣΙΧΑΙΝΕΤΑΙ(3),ΝΙΩΘΕΙ ΟΤΙ ΚΑΤΑΠΙΕΖΕΤΑΙ(3),ΚΡΥΩΝΕΙ (4),ΘΕΛΕΙ ΝΑ ΠΛΕΝΕΙ ΤΑ ΧΕΡΙΑ ΤΗΣ ΣΥΝΕΧΕΙΑ(3).</peculiar>
+        <intense>ΚΡΥΩΝΕΙ (4),ΘΕΛΕΙ ΤΟ ΑΛΑΤΙ(3),ΑΠΕΧΘΕΙΑ ΣΤΟ ΛΙΠΟΣ(3).</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>STAPHISAGRIA,NATRUM MURIATICUM,ARSENICUM ALBUM,CARCINOSINUM,AURUM METALLICUM,CALCAREA CARBONICA,PHOSPHORUS,SYPHILINUM.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ΑΝ ΚΑΙ ΠΡΩΤΟ ΦΑΡΜΑΚΟ ΒΓΑΙΝΕΙ Η STAPHISAGRIA ,ΘΑ ΔΩΣΩ NATRUM MURIATICUM ΕΠΕΙΔΗ Η ΑΣΘΕΝΗΣ ΕΙΝΑΙ ΠΟΛΥ ΚΛΕΙΣΜΕΝΗ ΣΤΟΝ ΕΑΥΤΟ ΤΗΣ ΚΑΙ ΦΟΒΑΤΑΙ ΝΑ ΑΝΟΙΧΤΕΙ ΣΥΝΑΙΣΘΗΜΑΤΙΚΑ,ΦΟΒΑΤΑΙ ΜΗΠΩΣ ΠΛΗΓΩΘΕΙ.</remedies_differentiation>
+      <prescription>
+        <remedy>Ν.MURIATICUM</remedy>
+        <potency>200CH</potency>
+        <regimen>200CH x1 και 6X x 30</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-11-29 12:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΕΚΑΝΕ ΔΥΝΑΤΟ ΠΟΝΟΚΕΦΑΛΟ ΤΗΝ ΙΔΙΑ ΜΕΡΑ ΠΟΥ ΠΗΡΕ ΤΟ ΦΑΡΜΑΚΟ,ΟΙ ΔΙΑΡΡΟΙΕΣ ΣΤΑΜΑΤΗΣΑΝ ΣΤΑΔΙΑΚΑ,ΝΙΩΘΕΙ ΜΙΑ ΒΕΛΤΙΩΣΗ 10% ΣΕ MENTAL EMOTIONAL,ΝΙΩΘΕΙ ΠΙΟ ΗΡΕΜΗ,ΕΧΕΙ ΜΕΙΩΘΕΙ  Ο ΘΥΜΟΣ ΛΙΓΟ ΚΙΑ ΤΟ ΚΛΑΜΑ ΒΓΑΙΝΕΙ ΠΙΟ ΕΥΚΟΛΑ,ΝΙΩΘΕΙ ΟΤΙ ΕΧΕΙ ΠΕΣΕΙ ΕΝΕΡΓΕΙΑΚΑ,ΣΥΝΕΧΙΖΕΙ ΝΑ ΜΗΝ ΚΟΙΜΑΤΑΙ ΚΑΛΑ.</reaction>
+      <analysis>ΔΕΝ ΕΔΡΑΣΕ ΤΟ ΦΑΡΜΑΚΟ ΟΠΩΣ ΘΑ ΠΕΡΙΜΕΝΑ,ΜΑΛΛΟΝ ΚΟΝΤΙΝΟ,ΑΠΟΦΑΣΙΣΑ ΝΑ ΤΗΣ ΔΩΣΩ ΤΗΝ STAPHISAGRIA ΕΦΟΣΟΝ ΣΥΝΕΧΙΖΕΙ ΝΑ ΑΙΣΘΑΝΕΤΑΙ ΤΟ ΙΔΙΟ ΣΤΟ 90%.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

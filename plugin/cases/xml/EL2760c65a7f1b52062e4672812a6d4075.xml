@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2760c65a7f1b52062e4672812a6d4075</ID>
+  <patient>
+    <case_date>2015-01-19 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Κ.Κ.</patient_initials>
+    <age>32</age>
+    <circumstances>Έγγαμη, 1 παιδί,  καθηγήτρια αγγλικών</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Άρχισε προ 6ετίας, να νοιώθει  βάρος στο κεφάλι το πρωί, που ξυπνούσε και γίνεται συνεχώς πιο έντονο, με τον χρόνο.  Πονάει στο επάνω μέρος του κεφαλιού της2    Δυσπεψία2 μετά το φαγητό    Δυσκοιλιότητα1</origin>
+        <causative_factors>Αναγκάστηκε να δουλεύει περισσότερο, επειδή απολύθηκε ο σύζυγος.</causative_factors>
+        <modalities>&lt; με το άγχος2         &lt;με φασαρία2       &lt;στην κίνηση-μποτιλιάρισμα1           &gt;με ζέστη2                  &gt;όταν ξαπλώνει2  </modalities>
+        <occurrence_time>&lt;μετά το φαγητό</occurrence_time>
+        <body_side>Πονοκέφαλος στο θόλο του κρανίου2      Βάρος στο στομάχι</body_side>
+        <appearence_frequency>1-2 φορές τηνεβδομάδα ο πονοκέφαλος,       η δυσκοιλιότητα περιστασιακά,       το βάρος στο στομάχι, αρκετά συχνά</appearence_frequency>
+        <pain_desc>Έντονη πίεση 2  στο κρανίο          βάρος στο στομάχι  με αίσθηση ατελούς κένωσης</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>  Άγχος στην πολυκοσμία2             Αυπνία2, (ξυπνάει 3-4)     Δεν την ξεκουράζει ο ύπνος1      Σφίγγει τα δόντια της στον ύπνο1        Φούσκωμα στην κοιλιά- τυμπανισμό1     Δυσκοιλιότητα1, με αίσθημα ατελούς κένωσης1  </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Excedrin για τον πονοκέφαλο, Lipitor για χοληστερίνη,     Νujol  για την δυσκοιλιότητα</conv_med_presc>
+        <lab_tests>
+          <desc>Kολονοσκόπηση :.κφ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>Την ενοχλεί που είναι άνεργος, ο σύζυγος της</traumas>
+          <infections>Κάνει κάποιες ιώσεις, χωρίς ιδιαίτερα υψηλό  πυρετό.  Πέρυσι έκανε ωτίτιδα και έκανε πυρετό 39,3 </infections>
+          <other>Σκοληκοειδεκτομή, πριν 8 χρόνια</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: αρθρίτιδα     Πατέρας: υπέρταση, χοληστερίνη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει2</reactions>
+        <sleeping_habits>Κοιμάται λίγες ώρες2        Ξυπνάει3- 4 η ώρα           ανάσκελα2</sleeping_habits>
+        <food_modalities>Des:φρούτα2, λίπος2, ζεστά ροφήματα1         aver:γάλα2</food_modalities>
+        <menstruation>Εμμηνόπαυση</menstruation>
+      </physical>
+      <mental_emotional>Είναι ιδιαίτερα νευρική2 και φωνάζει1       σχολαστική με την τάξη3       βιαστική - ανυπόμονη2      απαιτιτική3     </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δεν έχει σοβαρά  σωματικά προβλήματα. Πιέζεται με την δουλειά και γιαυτό άρχισαν τα προβλήματα. </personal_medical_history>
+        <family_medical_history>Και οι γονείς της ,δεν έχουν σοβαρά προβληματα.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Περιμένω να &gt; με τη θεραπεία μας</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Πονοκέφαλος2          Αυπνία 2,         δυσκοιλιότητα1</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc> Mind -fastidious3         Mind - anger - irascability3                Mind - shrieking1      Mind - fear - crowd - in a1                 Mind - fear - sudden   -   (panic attack - )1             Head - pain - temples2       Head - pain - morning - waking, on1         Abdomen - flatulence1       Rectum - constipation  - difficult stool1         Rectum - constipation -  insufficient,incomplete,unsatisfactory stools2                  Sleep - position back,on2     Sleep - unrefreshing - morning1       Generalities - cold - tedency - to take1        Teeth - clenched - firmly - constact - inclination to1             Generalities - food and drinks - fat - desire2               Generalities - food and drinks - sweets- desire1 </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>To compass δίνει:1Nux vomica,   2 Lycopodium (δεν είναι όμως  δειλή),     3 Stramonium  ( δεν είναι όμως τόσο επιθετική και νευρική),</remedies_differentiation>
+      <prescription>
+        <remedy>Nux vomica</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Την πρώτη μέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-14 08:00:00</followup_date>
+      <conv_med_presc>Δεν άλλαξε κάτι</conv_med_presc>
+      <lab_tests>
+        <desc>=</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την τρίτη ημέρα, άρχισε έντονος πονοκέφαλος που κράτησε 4 ημέρες Μετά, είχε &gt; και τις τελευταίες μέρες άρχισε πάλι να&lt; .   Τη ρώτησα για αντιδότηση και μου είπε πως άρχισε να πίνει καφέ την 15η ημέρα.</reaction>
+      <analysis>Φαίνεται πως το φάρμακο είχε αρχίσει να δρα, αλλά αντιδοτήθηκε. Θέλει επανάληψη.</analysis>
+      <conclusion>Θα ξαναδώσω το αρχικό φάρμακο.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Nux vomica</remedy>
+        <potency>200ch</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Nα ληφθεί το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-15 08:00:00</followup_date>
+      <conv_med_presc>Depon ,όταν έχει πονοκέφαλο</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά την 3η εβδομάδα  άρχισε &gt;στα νεύρα της,        ο πονοκέφαλος&gt;1από τις πρώτες 10 ημέρες, η δυσκοιλιότητα &gt;1τις τελευταίες 15 ημέρες</reaction>
+      <analysis>Φαίνεται, πως το φάρμακο συνεχίζει να δρα και περιμένουμε</analysis>
+      <conclusion>Περιμένουμε, όσο δρα το φάρμακο</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Να προσέχει, να μην αντιδοτήσει!</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-06-16 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνεχίζεται η καλή πορεία της.  &gt;τα προβλήματα του πεπτικού1, η αυπνία&gt;2, ο πονοκέφαλος&gt;1 και πολύ πιο ήρεμη</reaction>
+      <analysis> Συνεχίζεται η δράση του φαρμάκου.   ( Άρχισε να εργάζεται ο σύζυγος της και συντέλεσε και αυτό στην καλύτερη ψυχολογική της κατάσταση).</analysis>
+      <conclusion>Περιμένω ,όσο δεν έχει ιδιαίτερα προβλήματα.  Το φάραμκο δρα και δεν αλλάζω, ούτε επαναλαμβάνω</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

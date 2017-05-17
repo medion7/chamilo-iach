@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELb0c72c548ab2310b42133838d5461469</ID>
+  <patient>
+    <case_date>2015-11-29 15:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Π.Β</patient_initials>
+    <age>62</age>
+    <circumstances>ΧΩΡΗΣΜΕΝΗ ΜΕ ΔΥΟ ΠΑΙΔΙΑ,ΣΥΝΤΑΞΙΟΥΧΟΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΤΡΙΧΟΠΤΩΣΗ ΠΡΙΝ 6 ΧΡΟΝΙΑ ΜΕΤΑ ΑΠΟ ΚΑΒΓΑ ΠΟΥ ΕΙΧΕ ΜΕ ΤΗΝ ΜΗΤΕΡΑ ΤΗΣ ,ΞΗΡΟΤΗΤΑ ΤΟΥ ΚΟΛΠΟΥ ΜΕΤΑ ΤΗΝ ΕΜΜΗΝΟΠΑΥΣΗ.</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>ΟΤΑΝ ΕΚΤΕΘΕΙ ΣΤΟ ΚΡΥΟ Η ΞΗΡΟΤΗΤΑ &lt;,ΜΕ ΤΗ ΖΕΣΤΑΣΙΑ ΕΙΝΑΙ&gt;,ΟΤΑΝ ΞΑΠΛΩΝΕΙ &gt;</modalities>
+        <occurrence_time> Η ΤΡΙΧΟΠΤΩΣΗ ΕΙΝΑΙ ΗΠΙΑ ΣΕ ΚΑΘΗΜΕΡΙΝΗ ΒΑΣΗ,Η ΞΗΡΟΤΗΤΑ  ΣΥΜΒΑΙΝΕΙ 1-2 ΦΟΡΕΣ ΤΟ ΜΗΝΑ ΝΕ ΠΟΝΟ ,ΑΙΣΘΑΝΕΤΑΙ ΠΩΣ ΤΑ ΓΕΝΝΗΤΙΚΑ ΤΗΣ ΟΡΓΑΝΑ ΠΕΦΤΟΥΝ ΠΡΟΣ ΤΑ ΚΑΤΩ.ΚΑΛΥΤΕΡΕΥΕΙ ΜΟΝΟ ΟΤΑΝ ΞΑΠΛΩΝΕΙ ΚΑΙ ΞΕΚΟΥΡΑΖΕΤΑΙ ΚΑΙ ΜΕ ΤΗ ΖΕΣΤΑΣΙΑ.</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Η ΤΡΙΧΟΠΤΩΣΗ ΕΙΝΑΙ ΗΠΙΑ ΣΕ ΚΑΘΗΜΕΡΙΝΗ ΒΑΣΗ,Η ΞΗΡΟΤΗΤΑ  ΣΥΜΒΑΙΝΕΙ 1-2 ΦΟΡΕΣ ΤΟ ΜΗΝΑ. </appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>ΦΥΣΗΜΑ ΣΤΗΝ ΚΑΡΔΙΑ,ΤΣΙΜΠΗΜΕΝΑ ΤΡΙΓΛΥΚΕΡΙΔΙΑ.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΜΙΣΟ ΧΑΠΙ ΓΙΑ ΤΗΝ ΠΙΕΣΗ ΠΡΩΙ -ΒΡΑΔΥ.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file>https://courses.vithoulkas.edu.gr/main/upload/users/5193/ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΓΩΓΗ.pdf</file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΧΕΙΡΟΥΡΓΕΙΟ:ΑΜΥΓΔΑΛΕΣ ΣΤΑ 10,ΑΦΑΙΡΕΣΗ ΠΟΛΥΠΟΔΑ ΣΤΗ ΜΗΤΡΑ ΣΤΑ 38.</therapies_vaccination>
+          <traumas>ΚΑΤΑΓΜΑ ΛΕΚΑΝΗΣ ΚΑΙ ΠΟΔΙΟΥ ΣΤΑ 7,ΤΗΝ ΕΙΧΕ ΠΑΤΗΣΕΙ ΕΝΑ ΦΟΡΤΗΓΟ</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ ΠΕΘΑΝΕ 82 ΕΤΩΝ ΑΠΟ ΚΑΡΔΙΑ,ΜΗΤΕΡΑ ΠΕΘΑΝΕ 86 ΕΤΩΝ ΑΠΟ CA ΠΑΧΕΩΣ ΕΝΤΕΡΟΥ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ(3) </reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΣΤΟ ΠΛΑΙ ΑΡΙΣΤΕΡΑ,ΦΟΡΑΕΙ ΚΑΛΤΣΕΣ ΣΤΟΝ ΥΠΝΟ,ΒΛΕΠΕΙ ΟΝΕΙΡΑ,ΕΙΝΑΙ ΣΚΕΠΑΣΜΕΝΗ ΚΑΙ ΤΟ ΚΕΦΑΛΙ ΠΑΝΤΑ ΕΞΩ.ΞΥΠΝΑΕΙ ΚΑΛΑ.</sleeping_habits>
+        <food_modalities>ΘΕΛΕΙ ΤΑ ΓΛΥΚΑ(3),ΜΕΛΙ(4),ΣΟΚΟΛΑΤΑ(3),ΤΑΧΙΝΙ(3) ,ΤΟ ΑΛΑΤΙ(3) ΓΕΝΙΚΑ ΤΟ ΚΑΛΟ ΦΑΓΗΤΟ.ΠΙΝΕΙ ΠΟΛΥ ΝΕΡΟ ΓΟΥΛΙΑ-ΓΟΥΛΙΑ,ΣΙΧΑΙΝΕΤΑΙ ΤΟ ΛΙΠΟΣ(3),ΣΙΧΑΙΝΕΤΑΙ ΤΙΣ ΜΥΡΩΔΙΕΣ ΤΟΥ ΦΑΓΗΤΟΥ ΟΤΑΝ ΜΑΓΕΙΡΕΥΕΙ Η ΓΕΙΤΟΝΙΣΣΑ ΚΑΙ ΜΥΡΙΖΕΙ Ο ΔΙΑΔΡΟΜΟΣ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ(4)</food_modalities>
+        <menstruation>ΕΜΜΗΝΟΠΑΥΣΗ</menstruation>
+      </physical>
+      <mental_emotional>ΑΝΗΣΥΧΗ(2),ΦΟΒΑΤΑΙ ΜΗΝ ΠΑΧΥΝΕΙ(4),ΕΝΔΙΑΦΕΡΕΤΑΙ ΠΟΛΥ ΓΙΑ ΤΗΝ ΕΞΩΤΕΡΙΚΗ ΤΗΣ ΕΜΦΑΝΙΣΗ(4),ΦΟΒΑΤΑΙ ΜΗΠΩΣ ΧΑΣΕΙ ΤΑ ΜΑΛΛΙΑ ΤΗΣ(4)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΦΥΣΗΜΑ ΣΤΗΝ ΚΑΡΔΙΑ,ΤΣΙΜΠΗΜΕΝΑ ΤΡΙΓΛΥΚΕΡΙΔΙΑ,ΕΚΑΝΕ ΠΥΡΕΤΟ 38 ΠΡΙΝ 4 ΜΗΝΕΣ ΣΕ ΙΩΣΗ. </personal_medical_history>
+        <family_medical_history>ΠΑΤΕΡΑΣ ΠΕΘΑΝΕ 82 ΕΤΩΝ ΑΠΟ ΚΑΡΔΙΑ,ΜΗΤΕΡΑ ΠΕΘΑΝΕ 86 ΕΤΩΝ ΑΠΟ CA ΠΑΧΕΩΣ ΕΝΤΕΡΟΥ.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΑΝΥΗΣΥΧΗ(2),ΦΟΒΑΤΑΙ ΜΗΝ ΠΑΧΥΝΕΙ(4),ΕΝΔΙΑΦΕΡΕΤΑΙ ΠΟΛΥ ΓΙΑ ΤΗΝ ΕΞΩΤΕΡΙΚΗ ΤΗΣ ΕΜΦΑΝΙΣΗ(4).ΣΙΧΑΙΝΕΤΑΙ ΤΑ ΠΟΝΤΙΚΙΑ ΚΑΙ ΤΑ ΕΝΤΟΜΑ(3),ΣΙΧΑΙΝΕΤΑΙ ΤΙΣ ΜΥΡΩΔΙΕΣ ΤΟΥ ΦΑΓΗΤΟΥ ΟΤΑΝ ΜΑΓΕΙΡΕΥΕΙ Η ΓΕΙΤΟΝΙΣΣΑ ΚΑΙ ΜΥΡΙΖΕΙ Ο ΔΙΑΔΡΟΜΟΣ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ(4)ΦΟΒΑΤΑΙ ΜΗΠΩΣ ΧΑΣΕΙ ΤΑ ΜΑΛΛΙΑ ΤΗΣ(4)</peculiar>
+        <intense>ΦΟΒΑΤΑΙ ΤΟ ΘΑΝΑΤΟ(3) ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΗΣ(3),ΤΟ ΥΨΟΣ(3),ΤΟ ΑΕΡΟΠΛΑΝΟ(3),ΣΙΧΑΙΝΕΤΑΙ ΝΑ ΤΗΣ ΛΕΝΕ ΨΕΜΑΤΑ(4) ΤΗ ΘΥΜΩΝΕΙ ΠΟΛΥ.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>ACONITUM,ARSENICUN,PHOSPHORUS,ARG.NITRICUM,N.MURIATICUM</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5193/Π.Β..pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>ARSENICUM ΘΑ ΔΩΣΩ,ΕΠΕΙΔΗ  Η ΑΣΘΕΝΗΣ ΕΙΝΑΙ ΑΝΗΣΥΧΗ, ΦΟΒΑΤΑΙ ΤΟ ΘΑΝΑΤΟ,ΠΙΝΕΙ ΝΕΡΟ ΓΟΥΛΙΑ ΓΟΥΛΙΑ ΚΑΙ ΕΝΔΙΑΦΕΡΕΤΑΙ ΠΟΛΥ ΓΙΑ ΤΗΝ ΕΞΩΤΕΡΙΚΗ ΤΗΣ ΕΜΦΑΝΙΣΗ.</remedies_differentiation>
+      <prescription>
+        <remedy>ARSENICUM</remedy>
+        <potency>30CH</potency>
+        <regimen>30CHx 30</regimen>
+        <other_notes>ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΛΗΨΗΣ ΤΟΥ ΙΣΤΟΡΙΚΟΥ ΕΙΧΕ ΕΝΑ ΜΠΟΥΚΑΛΑΚΙ ΝΕΡΟ ΚΑΙ ΤΟ ΕΠΙΝΕ ΓΟΥΛΙΑ ΓΟΥΛΙΑ.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-11-29 14:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΑΦΟΥ ΠΗΡΕ ΤΟ ΦΑΡΜΑΚΟ ΕΚΑΝΕ ΠΟΝΟΚΕΦΑΛΟ ΕΛΑΦΡΥ ΚΑΙ ΕΙΧΕ ΦΟΒΕΡΗ ΥΠΝΗΛΙΑ ΓΙΑ ΠΕΡΙΠΟΥ ΜΙΑ ΕΒΔΟΜΑΔΑ,ΑΙΣΘΑΝΕΤΑΙ ΠΙΟ ΗΡΕΜΗ,Η ΞΗΡΟΤΗΤΑ ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ ΑΛΛΑ Η ΤΡΙΧΟΠΤΩΣΗ ΣΥΝΕΧΙΖΕΙ.</reaction>
+      <analysis>ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ, ΠΕΡΙΜΕΝΟΥΜΕ</analysis>
+      <conclusion>ΠΕΡΙΜΕΝΟΥΜΕ</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-29 14:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΥΠΗΡΞΕ ΒΕΛΤΙΩΣΗ ΣΤΗΝ ΞΗΡΟΤΗΤΑ ΤΟΥ ΚΟΛΠΟΥ,ΜΟΥ ΛΕΕΙ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ ΠΩΣ ΤΗΝ ΕΧΕΙ ΞΕΧΑΣΕΙ,Η ΤΡΙΧΟΠΤΩΣΗ ΟΜΩΣ ΣΥΝΕΧΙΖΕΙ,ΤΟΝ ΤΕΛΕΥΤΑΙΟ ΚΑΙΡΟ ΕΧΕΙ ΕΜΦΑΝΙΣΕΙ ΜΙΑ ΞΗΡΟΔΕΡΜΙΑ ΣΤΑ ΚΑΤΩ ΑΚΡΑ ΤΗΝ ΟΠΟΙΑ ΤΗΝ ΕΙΧΕ ΚΑΙ ΣΤΟ ΠΑΡΕΛΘΟΝ</reaction>
+      <analysis>ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ,ΕΜΦΑΝΙΣΗ ΣΥΜΠΤΩΜΑΤΟΣ ΑΠΟ ΠΑΛΙΟΤΕΡΑ ΑΝ ΚΑΙ Η ΤΡΙΧΟΠΤΩΣΗ ΣΥΝΕΧΙΖΕΙ ΛΕΩ ΝΑ ΠΕΡΙΜΕΝΩ.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

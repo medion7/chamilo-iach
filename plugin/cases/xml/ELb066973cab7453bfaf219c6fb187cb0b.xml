@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELb066973cab7453bfaf219c6fb187cb0b</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>Γ Μ</patient_initials>
+    <age>0</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ 1 ΠΑΙΔΙ (25 ΕΤΩΝ )&#13;
+ΙΔΙΩΤΙΚΟΣ ΥΠΑΛΛΗΛΟΣ&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΜΕΤΑ  ΑΠΟ  ΕΝΤΟΝΟ ΑΓΧΟΣ ΜΕ ΤΗΝ  ΕΡΓΑΣΙΑ  ΤΗΣ ( ΦΟΒΟΣ ΑΠΟΛΥΣΗΣ ).&#13;
+</origin>
+        <causative_factors>ΣΤΡΕΣ -  ΟΡΜΟΝΙΚΕΣ  ΑΛΛΑΓΕΣ ( ΚΛΗΜΑΚΤΗΡΙΟ )</causative_factors>
+        <modalities>ΑΓΧΟΣ &lt;&#13;
+ΚΡΥΟ &lt;&#13;
+ΤΡΙΨΙΜΟ &gt;&#13;
+ΥΓΡΑΣΙΑ &lt;</modalities>
+        <occurrence_time>ΠΑΛΙΝΔΡΟΜΗΣΗ ΕΠΙΔΕΙΝΩΣΗ  ΝΥΧΤΑ</occurrence_time>
+        <body_side>ΑΡΙΣΤΕΡΑ</body_side>
+        <appearence_frequency>ΚΑΘΕ  ΜΕΡΑ</appearence_frequency>
+        <pain_desc>ΠΟΝΟΣ  ΣΑΝ  ΒΕΛΟΝΙΕΣ  ΝΑ ΤΗΝ ΧΤΥΠΑΝΕ   </pain_desc>
+        <complaint_ext>ΣΕ ΟΛΗ ΤΗΝ ΚΟΙΛΙΑΚΗ ΧΩΡΑ </complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>LIBRAX  KAI  BUSCOPAN</conv_med_presc>
+        <lab_tests>
+          <desc>ΚΩΛΟΝΟΣΚΟΠΗΣΗ -  ΟΥΔΕΝ ΤΟ ΠΑΘΟΛΟΓΙΚΟ </desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΧΙ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΑΡΚΕΤΑ ΣΥΧΝΑ ΛΑΜΒΑΝΕΙ ΣΠΑΣΜΟΛΥΤΙΚΑ ΚΑΙ ΠΑΥΣΙΠΟΝΑ </therapies_vaccination>
+          <traumas>ΟΧΙ</traumas>
+          <infections>ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ  ΕΝΔΟΜΥΤΡΙΩΣΗ - ΥΠΕΡΤΑΣΗ -  ΣΝ&#13;
+ΠΑΤΕΡΑΣ - ΒΑ </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ  &#13;
+ΕΠΙΔΕΙΝΩΣΗ ΑΠΟ ΚΡΥΟ  ΚΑΙ ΥΓΡΑΣΙΑ </reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΑΡ  ΚΑΙ ΜΠΡΟΥΜΗΤΑ&#13;
+ΚΑΚΟΣ ΥΠΝΟΣ - ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΗ </sleeping_habits>
+        <food_modalities>ΑΛΜΥΡΑ DESS  2&#13;
+MILK  DESS 2&#13;
+PORK AGG 3&#13;
+ΦΡΟΥΤΑ  DESS  2&#13;
+&#13;
+</food_modalities>
+        <menstruation>ΑΠΟ 10 ΜΗΝΟΥ ΔΕΝ ΕΧΕΙ ΠΕΡΙΟΔΟ </menstruation>
+      </physical>
+      <mental_emotional>ΝΙΩΘΕΙ ΑΔΙΑΦΟΡΙΑ ΜΕΧΡΙ ΚΑΙ ΓΙΑ ΤΟ ΠΑΙΔΙ ΤΗΣ  . ΤΟ ΜΟΝΟ ΠΟΥ ΤΗΝ ΤΡΟΜΑΖΕΙ ΕΙΝΑΙ Η ΥΓΕΙΑ ΤΗΣ .&#13;
+ΕΙΝΑΙ ΝΕΥΡΙΚΗ ΚΑΙ ΒΙΑΣΤΙΚΗ . ΚΛΑΙΕΙ ΣΥΧΝΑ  ΚΑΙ ΜΟΝΗ ΤΗΣ ΚΑΙ ΜΠΡΟΣΤΑ ΣΕ ΑΛΛΟΥΣ ΜΕ ΛΙΓΜΟΥΣ  ΚΑΙ ΥΣΤΕΡΙΚΑ .&#13;
+ΝΙΩΘΕΙ ΘΛΙΨΗ ΟΜΩΣ ΝΙΩΘΕΙ ΚΑΛΥΤΕΡΑ ΜΟΝΗ &#13;
+ΑΠΕΧΘΕΙΑ  ΓΙΑ ΕΠΑΦΗ </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>ΙΣΤΟΡΙΚΟ ΥΠΟΤΡΟΠΙΑΖΟΥΣΑ   ΚΥΣΤΙΤΙΔΑ&#13;
+Γ.Ο.Π</personal_medical_history>
+        <family_medical_history>ΠΡΟΔΙΑΘΕΣΗ  ΓΙΑ ΥΠΕΡΤΑΣΗ ΚΑΙ ΡΕΥΜΑΤΙΣΜΟΥΣ </family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>ΑΣΘΕΝΗΣ ΜΕ ΣΧΕΤΙΚΑ ΚΑΛΗ ΥΓΕΙΑ . ΕΧΕΙ ΑΡΚΕΤΑ  ΣΩΜΑΤΙΚΑ  ΑΛΛΑ    ΑΠΟΥΣΙΑΖΟΥΝ   ΨΥΧΟΔΙΑΝΟΗΤΙΚΑ  ΣΥΜΠΤΩΜΑΤΑ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΚΛΑΙΕΙ ΚΑΙ ΔΕΝ ΑΝΤΕΧΕΙ ΤΗΝ ΠΑΡΗΓΟΡΙΑ  2&#13;
+ΒΙΑΣΥΝΗ  ΟΤΑΝ ΠΕΡΠΑΤΑΕΙ  2&#13;
+ΧΑΝΕΙ ΟΥΡΑ ΜΕ ΤΟΝ ΒΗΧΑ ΚΑΙ ΣΦΥΞΙΜΟ &#13;
+ΚΑΠΟΙΕΣ ΦΟΡΕΣ ΝΙΩΘΕΙ ΟΤΙ Ο ΣΥΖΗΓΟΣ ΜΥΡΙΖΕΙ ΚΑΙ ΤΟΥ ΛΕΕΙ ΝΑ ΠΑΕΙ ΝΑ ΠΛΥΘΕΙ </peculiar>
+        <intense>ΕΞΑΨΕΙΣ  ΣΤΟ ΠΡΟΣΩΠΟ  3  ΚΑΙ ΣΩΜΑ   ΜΕ ΕΝΤΟΝΗ ΕΦΙΔΡΩΣΗ 2&#13;
+ΠΟΝΟΣ ΣΤΗΝ ΚΟΙΛΙΑ  2  ΑΡ  ΜΕ ΦΟΥΣΚΩΜΑ  1 &#13;
+ΘΛΙΨΗ  2&#13;
+ΤΕΤΑΡΑΓΜΕΝΟΣ ΥΠΝΟΣ  2&#13;
+ΡΕΨΙΜΑΤΑ 2&#13;
+ΔΥΣΚΟΙΛΙΟΤΙΤΑ 1&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>SULPHUR = ΚΡΥΩΝΕΙ , ΕΣΩΣΤΡΕΦΗΣ , ΑΠΕΧΘΑΝΕΤΑΙ ΤΟ ΛΙΠΟΣ &#13;
+NA MUR =  Η ΘΛΙΨΗ ΣΧΕΤΙΖΕΤΑΙ ΜΕ ΟΡΜΟΝΙΚΕΣ ΑΛΛΑΓΕΣ ΚΑΙ ΟΧΙ ΜΕ ΑΠΩΛΕΙΑ &#13;
+LYC= ΔΕΝ  ΕΙΝΑΙ ΔΕΙΛΗ   ΔΕΝ ΑΓΑΠΑΕΙ ΤΑ ΓΛΥΚΑ ΔΕΝ ΕΧΕΙ ΑΕΡΙΑ ΠΟΥ ΑΝΑΚΟΥΦΙΖΟΥΝ</remedies_differentiation>
+      <prescription>
+        <remedy>sepia και plb nr 45</remedy>
+        <potency>200 ch </potency>
+        <regimen>ΚΑΘΕ ΜΕΡΑ </regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>ΚΑΜΙΑ </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΕΤΑ ΑΠΟ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΜΕ ΠΟΝΟ ΣΤΟ ΕΝΤΕΡΟ ΓΙΑ 2 ΜΕΡΕΣ  ΑΡΧΙΣΕ Η ΣΤΑΔΙΑΚΗ ΒΕΛΤΙΩΣΗ . ΤΩΡΑ Η ΑΣΘΕΝΗΣ ΑΝΑΦΕΡΕΙ ΟΤΙ ΕΙΝΑΙ ΚΑΛΥΤΕΡΑ  ΚΑΤΑ 70% ΣΕ ΟΛΑ ΤΑ ΣΥΜΤΩΜΑΤΑ .&#13;
+</reaction>
+      <analysis>ΤΕΛΕΙΑ ΑΝΤΙΔΡΑΣΗ  .ΣΩΣΤΟ ΦΑΡΜΑΚΟ </analysis>
+      <conclusion>Ο ΟΡΓΑΝΙΣΜΟΣ ΣΕ ΘΕΡΑΠΕΥΤΙΚΗ ΠΟΡΕΙΑ</conclusion>
+      <repertorization>
+        <desc>ΑΝΑΜΟΝΗ </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>PLB NR 30</remedy>
+        <potency>12CH </potency>
+        <regimen>ΜΕΡΑ ΠΑΡΑ ΜΕΡΑ </regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

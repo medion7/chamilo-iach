@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd34f2f885b20731b2b02e68a49a048a4</ID>
+  <patient>
+    <case_date>2016-10-04 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>AM</patient_initials>
+    <age>38</age>
+    <circumstances>Χωρισμένος, ιδιωτικός υπαλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αλκοολισμός, καταθλιψη, αϋπνία</origin>
+        <causative_factors>Χωρισμός μετά από 4 χρόνια γάμου</causative_factors>
+        <modalities>Χειρότερα όταν εινάι μονος</modalities>
+        <occurrence_time>Έχει μεγάλη θλίψη όλη την ημέρα, μπορεί να βάλει τα κλάματα οποιαδήποτε στιγμή</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>-</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Καμια</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Καμία</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Παιδικά εμβολια</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>Παχυσαρκία, γαστρικό δακτύλιο και αργότερα γαστρικό μανικι</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα  ανεύρυσμα αορτής, ca μητρας&#13;
+Πατέρας ουρικό οξυ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεστενεται ευκολα, Δεν αντέχει την ζέστη, χειρότερα στην ζεστη</reactions>
+        <sleeping_habits>-- Αϋπνία  ( το μεσημέρι αν και πολύ κουρασμένος, κλείνουν τα μάτια του αλλά δεν μπορεί να κοιμηθεί- το βράδυ ξαπλώνει  από τις 11 μ.μ. αλλά καταφέρνει να κοιμηθεί στις 4-6π.μ.)&#13;
+-- Εφιάλτες καθε μέρα (βλέπει ότι τον έγκαταλειπει ή γυναίκα του - ονειρεύεται συχνά ότι κοιμάται και ότι νιώθει την παρουσία κάποιου στο σπίτι, σηκώνεται και καταλαβαινει πώς ειναι ή γυναικα του αλλά δεν μπορεί να την δει, φωνάζει αλλά δεν απαντάει κανείς, τελικά την βρίσκει στην αυλή κουκουλωμενη με μία κουβέρτα, την ξεσκεπάζει και πέφτει στα ποδια της με λιγμους, αυτή γελάει και αυτός ξυπνάει.&#13;
+Το όνειρο αυτό επαναλαμβάνεται 3-4 φορές την εβδομάδα.- βλεπει γενικά ανήσυχα όνειρα.)</sleeping_habits>
+        <food_modalities>Τρώει πολύ αλατι,  πίνει πολύ αλκοολ, , όχι γλυκά , όχι λίπος σε κρεας, όχι φρουτα</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Μεγαλη λύπη και θλιψη, λεει ο ίδιος χαρακτηριστικά οτι νιώθει απίστευτο ψυχολογικό βιασμό, εγκατάλειψη, κλαίει παρά πολύ κάθε μέρα όπου κι αν είναι, ακόμα και στη δουλειά ( κλαίει κατά την διάρκεια  του ιστορικου 2 φορές), κλαίει πολυ εύκολα είτε μόνος του είτε βλεποντας κάτι στην τηλεοραση που τον συγκινεί, κλαίει κυριως μόνος αλλά και μπροστά σε άλλους, αναστεναζει.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Κλάμα που εναλλάσσεται με υστερικο γελιο(1)</peculiar>
+        <intense>Θλιψη(4), Κλάμα(4),κλαίει ακουσια(3), αναστεναζει(1), αίσθημα εγκατάλειψης(1), καλυτερα με παρηγοριά(1), νιώθει προσβολή/ταπεινωση(1),καταθλιψη μετά από χωρισμό(4), χειρότερα στον ηλιο(2), επιθυμεί αλκοόλ(4), αλάτι(2),τυρί(1), απεχθεια σε φρουτα(2),κρέας και λίπος(1),ζεστενεται(2),αϋπνία(3),δυσάρεστα όνειρα(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Nat-m και puls. Επιλέγω τελικά την ignatia εξαιτίας της μεγάλης θλίψης μετά από χωρισμό, την απέχθεια για φρούτα και τον αναστεναγμο</remedies_differentiation>
+      <prescription>
+        <remedy>Ignatia amara</remedy>
+        <potency>1M + 10M</potency>
+        <regimen>1 caps από την κάθε δυναμοποιηση</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-11-20 06:00:00</followup_date>
+      <conv_med_presc>Καμία</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Οι Εφιάλτες μειώθηκαν, το κλάμα μειώθηκε σε συχνότητα αλλά αυξήθηκε σε ένταση, αλκοόλ σχεδόν καμία αντιδραση</analysis>
+      <conclusion>έδρασε ελάχιστα και περιμενω, μετά το φάρμακο ανεβασε πυρετό και πήρε αντιβιωση</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ignatia</remedy>
+        <potency>6x</potency>
+        <regimen>4 caps ( 1caps/ εβδομαδα)</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-12-05 07:10:00</followup_date>
+      <conv_med_presc>Καμια</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Το κλάμα τα ιδια, ύπνος ελάχιστα καλυτερα, αλκοόλ καμια βελτιωση.Αυξήθηκε η επιθυμία για αλάτι(3), για νερό (2)) κρυο(2), αυξήθηκε η απεχθεια για λίπος(2), ζεστενεται πολύ δεν αντέχει την ζέστη και τον ήλιο( 3), είναι πιο κλειστος</analysis>
+      <conclusion>Βγηκε πιο καθαρή εικόνα nat-m </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Nat-m </remedy>
+        <potency>10 Μ caps</potency>
+        <regimen>Χ 4</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-05-18 07:00:00</followup_date>
+      <conv_med_presc>Καμια</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Ύπνος τέλεια, δεν κλαίει πια, αλκοόλ καμια αλλαγη</analysis>
+      <conclusion>_</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Νat- m</remedy>
+        <potency>6x</potency>
+        <regimen>X30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

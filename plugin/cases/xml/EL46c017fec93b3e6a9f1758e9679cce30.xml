@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL46c017fec93b3e6a9f1758e9679cce30</ID>
+  <patient>
+    <case_date>2016-05-19 16:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΒΒ</patient_initials>
+    <age>6</age>
+    <circumstances>Please enter the personal circumstances&#13;
+ΠΑΙΔΙ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+Η ΡΙΝΙΚΗ ΣΥΜΦΟΡΗΣΗ ΑΠΟ ΔΙΕΤΙΑΣ&#13;
+ΤΟ ΕΚΖΕΜΑ ΑΠΟ ΕΤΟΥΣ&#13;
+ΧΩΡΙΣ ΑΙΤΙΑ</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ΧΩΡΙΣ ΑΙΤΙΑ&#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate&#13;
+ΤΟ ΑΓΧΟΣ ΕΠΙΔΕΙΝΩΝΕΙ ΤΟ ΕΚΖΕΜΑ</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+ΔΕΝ ΑΝΑΦΕΡΕΤΑΙ</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΣΤΟΝ ΚΟΡΜΟ</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ΤΟ ΜΠΟΥΚΩΜΑ ΜΟΝΙΜΟ&#13;
+ΤΟ ΕΚΖΕΜΑ ΚΑΘΕ 10 ΜΕΡΕΣ </appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΗΠΙΟΣ ΚΝΗΣΜΟΣ , ΧΩΡΙΣ ΑΝΤΙΙΣΤΑΜΙΝΙΚΑ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ΟΧΙ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+ΚΑΜΙΑ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΥΠΑΡΧΟΥΝ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΑΝΕΜΒΟΛΙΑΣΤΟΣ</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+ΔΕΝ ΑΝΑΦΕΡΟΝΤΑΙ</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΜΗΤΕΡΑ : ΨΩΡΙΑΣΗ , ΑΛΛΕΡΓΙΚΗ ΡΙΝΙΤΙΣ&#13;
+ΠΑΤΕΡΑΣ : ΚΝΙΔΩΣΗ , ΑΛΛΕΡΓΙΚΗ ΡΙΝΙΤΙΣ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΑ ΙΔΙΟΣΥΓΚΡΑΣΙΑ</reactions>
+        <sleeping_habits>ΜΠΡΟΥΜΥΤΑ&#13;
+ΚΑΛΟΣ ΥΠΝΟΣ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΙΕΣ :ΜΕΛΑΤΑ ΑΥΓΑ , ΚΡΥΟ ΓΑΛΑ , ΠΑΓΩΜΕΝΟ ΝΕΡΟ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+ΦΟΒΙΚΟ , ΑΓΧΩΔΕΣ ΠΑΙΔΙ&#13;
+ΦΟΒΙΕΣ : ΣΚΟΤΑΔΙ , ΝΑ ΜΕΙΝΕΙ ΜΟΝΟ ΤΟΥ , ΑΣΤΡΑΠΕΣ&#13;
+ΔΕΝ ΚΟΙΜΑΤΑΙ ΧΩΡΙΣ ΤΗΝ ΠΑΡΟΥΣΙΑ ΤΩΝ ΓΟΝΕΩΝ ΤΟΥ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+ΕΛΕΥΘΕΡΟ</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΑΛΛΕΡΓΙΚΗ ΠΡΟΔΙΑΘΕΣΗ</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+ΠΑΙΔΙ ΜΕ ΑΛΛΕΡΓΙΚΟ ΥΠΟΣΤΡΩΜΑ ΚΑΙ ΠΑΘΟΛΟΓΙΑ ΣΤΟ ΣΥΝΑΙΣΘΗΜΑΤΙΚΟ ΕΠΙΠΕΔΟ &#13;
+ΠΡΟΓΝΩΣΗ ΚΑΛΗ ΓΙΑΤΙ ΕΧΕΙ ΕΞΑΝΘΗΜΑ ΚΑΙ ΔΕΝ ΕΧΕΙ ΕΠΙΒΑΡΥΝΘΕΙ ΜΕ ΕΜΒΟΛΙΑ ΚΑΙ ΧΗΜΙΚΑ ΦΑΡΜΑΚΑ </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΣΤΑΣΗ ΥΠΝΟΥ ΜΠΡΟΥΜΥΤΑ-2&#13;
+ΕΠΙΘΥΜΙΑ ΓΙΑ ΚΡΥΟ ΓΑΛΑ-2&#13;
+</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΡΙΝΙΚΗ ΣΥΜΦΟΡΗΣΗ-3&#13;
+ΕΚΖΕΜΑ-3&#13;
+ΦΟΒΟΣ ΝΑ ΜΕΙΝΕΙ ΜΟΝΟΣ ΤΟΥ-3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>SKIN-ERUPTION EKZEMA-3&#13;
+SKIN-ERUPTION-ITCHING-2&#13;
+MIND-ANGER-AILMENTS AFTER ANGER-3&#13;
+NOSE-OBSTRUCTION-3&#13;
+MIND-FEAR-ALONE BEING-3&#13;
+MIND-FEAR-DARK-3&#13;
+MIND-FEAR-THUNDERSTROM-2&#13;
+MIND-ANXIETY-3&#13;
+MIND-DESIRE FOR COMPANY-3&#13;
+MIND-COMMUNICATIVE-2&#13;
+GEN-COLD DRINKS DES-2&#13;
+GEN-COLD MILK DES-2&#13;
+GEN-EGGS BOILED SOFT DES-2&#13;
+SLEEP POSITION ON ABDOMEN-2&#13;
+GEN-ALLERGIC CONSTITUTION-1&#13;
+GEN-COLD AGG-2&#13;
+&#13;
+PHOS 15/16&#13;
+CALC 13/16&#13;
+LYC 12/16&#13;
+STRAM 9/16&#13;
+ARS 12/16&#13;
+PULS 13/16&#13;
+RHUS-TOX 9/16&#13;
+CAUST 12/16&#13;
+CALC PHOS 10/16&#13;
+NAT-M 11/16&#13;
+&#13;
+ &#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+phos : ταιριάζει , ως φοβικό φάρμακο ,επιθυμία για κρύα και κρύο γάλα , δεν μπορεί μόνος του&#13;
+calc : θα μπορούσε να είναι και αυτό ως φοβικό φάρμακο , επιθυμία για αυγά μελάτα , είναι όμως πιο ανεξάρτητη.&#13;
+lyc : στην ανασφάλεια ταιριαζει με τον phos , δεν επιθυμει κρυο γαλα και ειναι πιο κλειστο παιδι&#13;
+stram : δεν υπαρχει επιθετικότητα και βία&#13;
+ars : δεν υπάρχει ανησυχία&#13;
+puls : ειναι ζεστη ιδιοσυγκρασια και δεν εχουμε εναλλαγες διαθεσης , ωστόσο της αρεσουν τα αυγα μελάτα&#13;
+rhustox : δεν υπάρχει υπερκινητικότητα ,δεν ταιριαζει το essence&#13;
+caust : δεν φοβάται να μείνει μόνος του&#13;
+calc phos : δυσαρέσκεια , δεν ταιριάζει το  essence&#13;
+nat-m : θέλει να μένει μόνος του&#13;
+&#13;
+ΔΥΣΚΟΛΙΑ ΜΕΤΑΞΥ PHOS ΚΑΙ CALC&#13;
+ΔΙΑΛΕΓΩ ΤΟΝ PHOS ΓΙΑΤΙ ΕΙΝΑΙ ΕΞΑΡΤΗΜΕΝΟ ΑΤΟΜΟ ΕΝΩ Η CALC ΕΙΝΑΙ ΠΙΟ ΑΝΕΞΑΡΤΗΤΗ&#13;
+&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedyPHOSPHORUS</remedy>
+        <potency>Please enter potency200 CH</potency>
+        <regimen>Please enter regimen&#13;
+1ΚΑΨΟΥΛΑ</regimen>
+        <other_notes>Please enter other notesΟΧΙ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-05-19 14:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΟΧΙ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΕΝΑ ΜΗΝΑ ΜΕΤΑ&#13;
+ΑΠΟ ΤΗΝ ΤΕΤΑΡΤΗ ΜΕΡΑ ΑΡΧΙΣΕ ΣΤΑΔΙΑΚΑ ΝΑ ΕΞΑΦΑΝΙΖΕΤΑΙ ΤΟ ΕΚΖΕΜΑ ΚΑΘΩΣ ΚΑΙΗ ΡΙΝΙΚΗ ΣΥΜΦΟΡΗΣΗ&#13;
+ΣΤΟ ΤΕΛΟΣ ΤΟΥ ΜΗΝΑ ΑΣΥΜΠΤΩΜΑΤΙΚΟΣ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΗΤΑΝ ΤΟ ΣΩΣΤΟ ΦΑΡΜΑΚΟ&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Η ΑΛΛΕΡΓΙΚΗ ΠΡΟΔΙΑΘΕΣΗ ΙΑΘΗΚΕ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+ΑΝΑΜΟΝΗ</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedyΑΝΑΜΟΝΗ</remedy>
+        <potency>Please enter potency-</potency>
+        <regimen>Please enter regimen-</regimen>
+        <other_notes>Please enter other followup notesΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-05-19 15:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+8 ΜΗΝΕΣ ΜΕΤΑ&#13;
+ </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΕΠΑΝΕΜΦΑΝΙΣΗ ΜΟΝΟ ΤΟΥ ΕΚΖΕΜΑΤΟΣ ΣΕ ΠΟΛΥ ΗΠΙΟ ΒΑΘΜΟ ΣΥΓΚΡΙΤΙΚΑ</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΤΟ ΜΠΟΥΚΩΜΑ ΕΞΑΦΑΝΙΣΤΗΚΕ ΕΝΤΕΛΩΣ , ΑΛΛΑ ΥΠΟΤΡΟΠΙΑΣΕ ΤΟ ΔΕΡΜΑΤΙΚΟ&#13;
+ΣΕ ΚΑΛΟ ΔΡΟΜΟ Η ΑΝΤΙΔΡΑΣΗ&#13;
+ΘΕΛΕΙ ΕΠΑΝΑΛΗΨΗ ΠΡΟΦΑΝΩΣ ΤΟ ΙΔΙΟ ΦΑΡΜΑΚΟ  </analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΔΙΝΩ ΤΟ ΙΔΙΟ ΦΑΡΜΑΚΟ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+SKIN-ERUPTION EKZEMA-3&#13;
+SKIN-ERUPTION-ITCHING-2&#13;
+MIND-ANGER-AILMENTS AFTER ANGER-3&#13;
+MIND-FEAR-ALONE BEING-3&#13;
+MIND-FEAR-DARK-3&#13;
+MIND-FEAR-THUNDERSTROM-2&#13;
+MIND-ANXIETY-3&#13;
+MIND-DESIRE FOR COMPANY-3&#13;
+MIND-COMMUNICATIVE-2&#13;
+GEN-COLD DRINKS DES-2&#13;
+GEN-COLD MILK DES-2&#13;
+GEN-EGGS BOILED SOFT DES-2&#13;
+SLEEP POSITION ON ABDOMEN-2&#13;
+GEN-ALLERGIC CONSTITUTION-1&#13;
+GEN-COLD AGG-2&#13;
+&#13;
+PHOS 14/15&#13;
+CALC 12/15&#13;
+STRAM 8/15&#13;
+LYC 11/15&#13;
+ARS 11/15&#13;
+CALC PHOS 11/15&#13;
+PULS 12/15&#13;
+RHUS-TOX 8/15&#13;
+TUB 5/15&#13;
+MED 7/15&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedyPHOS</remedy>
+        <potency>Please enter potency1M</potency>
+        <regimen>Please enter regimen1KAΨΟΥΛΑ</regimen>
+        <other_notes>Please enter other followup notesΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

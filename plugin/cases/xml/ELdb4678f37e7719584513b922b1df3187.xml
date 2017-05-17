@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELdb4678f37e7719584513b922b1df3187</ID>
+  <patient>
+    <case_date>2014-12-15 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Χ Τ</patient_initials>
+    <age>5</age>
+    <circumstances>Μαθήτρια νηπιαγωγείου.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από τους πρώτους μήνες της ζωής της όταν ξεκίνησαν τα εμβόλια. Εμφανίστηκε στο πρόσωπο και κυρίως στις παρειές.&#13;
+Πριν δύο μέρες ξύπνησε το πρωί με κόκκινα τα μάγουλα και τα χέρια από το μέσο του βραχίονα έως τον καρπό.</origin>
+        <causative_factors>Το πρώτο εμβόλιο στο τρίτο μήνα. Ακολούθησαν και άλλα εμβόλια.</causative_factors>
+        <modalities>Χειρότερα με την ζέστη.</modalities>
+        <occurrence_time>Σχεδόν μόνιμο με υφέσεις και εξάρσεις.</occurrence_time>
+        <body_side>Αριστερά και δεξιά στις παρειές.</body_side>
+        <appearence_frequency>Μόνιμη κατάσταση.</appearence_frequency>
+        <pain_desc>Έντονη φαγούρα.</pain_desc>
+        <complaint_ext>Πουθενά αλλού.</complaint_ext>
+        <other_complaints>Δεν υπάρχουν.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ατοπική δερματίτιδα.&#13;
+Καμία φαρμακευτική αγωγή.</conv_med_presc>
+        <lab_tests>
+          <desc>Εργαστηριακές εξετάσεις δεν υπάρχουν.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Σε ηλικία 1 έτους πήρε ομοιοπαθητικό φάρμακο για το ίδιο πρόβλημα αλλά τότε μολύνθηκε και πήρε αντιβίωση και κορτιζόνη. &#13;
+Η μητέρα δεν θυμάται ποιο φάρμακο ήταν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Κορτιζόνη στο έκζεμα και εμβολιασμοί.</therapies_vaccination>
+          <traumas>Τίποτα</traumas>
+          <infections>Τίποτα</infections>
+          <other>Δυσκοιλιότητα.</other>
+        </personal>
+        <family>
+          <diseases>Η μητέρα είχε έκζεμα σε βρεφική ηλικία.&#13;
+Ο πατέρας ταλαιπωρείται όλα τα χρόνια από έκζεμα.&#13;
+Υπαρχει κληρονομικη προδιαθεση απο τους γονεις.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει 3, έχει ευαισθησία στο κρύο ρεύμα αέρα 3, κρυολογεί συχνά 3, ιδρώνει εύκολα και μετά κρυολογεί 1, ιδρώνει στο αυχένα και τον χειμώνα 3, δύσοσμος ιδρώτας στα πόδια 3.</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα, καλό ύπνο, όχι όνειρα.</sleeping_habits>
+        <food_modalities>Επιθυμεί γάλα 2, παγωτό 3, αυγά 3, ψωμί 3, τυρί 3, γλυκά 3.&#13;
+Δεν θέλει το λίπος 4, δεν της αρέσουν τα αλμυρά 4.&#13;
+Ξεχνάει να πιεί νερό 2.</food_modalities>
+        <menstruation>Δεν υπάρχει.</menstruation>
+      </physical>
+      <mental_emotional>Ευαίσθητη 4, συνεσταλμένη 3, ήσυχο παιδί 1, ντελικάτη 1, αδύνατη με λευκό δέρμα, δεν είναι κοινωνική με τα άλλα παιδάκια 1, πιο πολύ παίζει μόνη της 1, της αρέσουν οι αγκαλιές 3, της αρέσει να ασχολείται πολλές ώρες με όποιο παιχνίδι την ενδιαφέρει 1.&#13;
+Φοβάται το αίμα 2, τα φαντάσματα 1, το σκοτάδι 4, αστραπές βροντές 3 και καταιγίδες4.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Συχνές ιώσεις  με πυρετό λόγω νηπιαγωγείου.&#13;
+Δυσκοιλιότητα  4 και ατοπική δερματίτιδα από βρέφος.</personal_medical_history>
+        <family_medical_history>Η μητέρα είχε έκζεμα σε βρεφική ηλικία.&#13;
+Ο πατέρας ταλαιπωρείται όλα τα χρόνια από έκζεμα.&#13;
+Άρα υπάρχει κληρονομική προδιάθεση.</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Θα έχει καλή πρόγνωση γιατί το επίπεδο υγείας είναι υψηλό και έχει καθαρή εικόνα φαρμάκου.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Δεν υπάρχουν.</peculiar>
+        <intense>Ξεχνάει να πιεί νερό 2, φόβος για το αίμα 2.&#13;
+&#13;
+Κρυώνει 3, ευαισθησία στο κρύο ρεύμα αέρα 3, δύσοσμος ιδρώτας στα πόδια 3, ιδρώνει στον αυχένα 3, έχει φόβο για τα φαντάσματα 3, της αρέσουν οι αγκαλιές 3, ευαίσθητη και συνεσταλιμένη 3, επιθυμεί το παγωτό, το ψωμί και το τυρί 3, κρυολογεί συχνά 3, ευθραστα νυχια 3, δυσοσμο ιδρωτας 3.&#13;
+&#13;
+Δυσκοιλιότητα 4, φόβος για το σκοτάδι 4, φόβος για καταιγίδες, αστραπές και βροντές 3, επιθυμεί το γάλα 2, τα αυγά 3, τα γλυκά 3, απέχθεια για το λίπος 4 και αλμυρά 4, ευαισθητη 4.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Επισυναπτεται αρχειο pdf</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5200/g3.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Silica, &#13;
+Calcarea Carbonica&#13;
+Κοινά στοιχεία και των δύο είναι ότι ιδρώνει στον αυχένα, επιθυμεί τα αυγά.&#13;
+Η Silica έχει επιπλέον ότι είναι ευαίσθητη, συνεσταλμένη, αδύνατη με λευκό δέρμα, κρυολογεί συχνά και ότι επιθυμεί το παγωτό, το ψωμί, τα γλυκά και δεν θέλει το λίπος.</remedies_differentiation>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>200 CH</potency>
+        <regimen>Μία κάψουλα το πρωί.</regimen>
+        <other_notes>Δεν υπάρχουν.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-25 12:00:00</followup_date>
+      <conv_med_presc>Πρώτο Followup: 21 Ιανουαρίου 2015.&#13;
+Καμία αλλοπαθητική φαρμακευτική αγωγή.</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν υπάρχουν.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την τρίτη και τέταρτη ημέρα επιδείνωση και από την πέμπτη ημέρα αρχίζει η καλυτέρευση μέχρι που πέρασε εντελώς.</reaction>
+      <analysis>Δυνατός αμυντικός μηχανισμός. </analysis>
+      <conclusion>Σωστό φάρμακο, καλή πρόγνωση και αναμονή για μεγάλο χρονικό διάστημα.</conclusion>
+      <repertorization>
+        <desc>Επισυναπτεται αρχειο pdf</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5200/g3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα.</remedy>
+        <potency>Καμία.</potency>
+        <regimen>Καμία.</regimen>
+        <other_notes>Μέχρι τώρα 6 μήνες μετά δεν ξαναεμφανίστηκε έκζεμα.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

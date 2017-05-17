@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL29565ddb67163eb08cf6d6c0de2a6b65</ID>
+  <patient>
+    <case_date>2015-03-02 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Μ. Π.</patient_initials>
+    <age>5</age>
+    <circumstances>Παιδί 5 χρονών, πάει νήπια, έχει άλλα 2 αδέρφια.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αλλεργικός βήχας-ρινίτιδα.&#13;
+Πριν  περίπου ένα μήνα όταν έπαιζε στη φύση ανέπτυξε εκζεματώδες εξάνθημα στο πρόσωπό του (παρειές). Έλαβε θεραπεία από δερματολόγο με κρέμες για 7 ημέρες και το εξάνθημα υποχώρησε. Έκτοτε έχει βήχα και μπούκωμα στη μύτη. Πήρε αντιϊσταμινικό (xozal) για 7 ημέρες και otrivin, τα συμπτώματα συνεχίζουν.&#13;
+Έχει παρόμοια συμπτώματα από την αλλαγή του καιρού (άνοιξη-φθινόπωρο) εδώ και 2 χρόνια.&#13;
+Επίσης έχει ιστορικό «βρογχοσπασμου» [μάλλον έντονου βήχα, απο την περιγραφή της μητέρας], που συμπίπτει με τα επεισόδια ρινίτιδας, κυρίως το βράδυ μετά την κατάκλιση, για τα οποία λάβαινει αγωγή από τον παιδίατρο aerolin, seretide και singulair για 10 ημέρες, απο 1,5 χρονών.</origin>
+        <causative_factors>Πιθανότατα η καταπίεση δερματικού εξανθήματος με κορτιζονούχα σκευάσματα.</causative_factors>
+        <modalities>Χειρότερα με ζεστό νερό (το νερό εύκολα του φαίνεται ζεστό), επιδεινώνεται το εξάνθημα. Παρόλα αυτά του αρέσει το μπάνιο.&#13;
+</modalities>
+        <occurrence_time>Δεν αναφέρει.</occurrence_time>
+        <body_side>Δεν αναφέρει.</body_side>
+        <appearence_frequency>Δεν αναφέρει.</appearence_frequency>
+        <pain_desc>Δεν υπάρχει πόνος.</pain_desc>
+        <complaint_ext>Δεν αναφέρει.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Διαγνωση: αλλεργικός βήχας - ρινίτιδα.&#13;
+&#13;
+Δεν λαμβανει χρόνια φαρμακευτική αγωγή.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Πλήρης βασικός εμβολιασμός.</therapies_vaccination>
+          <traumas>Δεν αναφέρει.</traumas>
+          <infections>Ορώδης ωτίτιδα προ 6μήνου με πτώση της ακοής. Έλαβε αντιβιοτική αγωγή (ceclor) για ~ 2 εβδομάδες.&#13;
+Λοιμώδης μονοπυρηνωση προ 2ετίας.&#13;
+</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Δεν αναφέρεται κάποιο ιδιαίτερο πρόβλημα υγείας από την οικογένεια. Δεν αναφέρεται ιστορικό αλλεργίας των γονέων.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται (2).</reactions>
+        <sleeping_habits>Ανήσυχος. Μερικές φορές τρίζει τα δόντια του. Μερικές φορές έχει κακοσμία στο στόμα</sleeping_habits>
+        <food_modalities>Τρώει γενικά τα πάντα.&#13;
+Δεν του αρέσουν: λιπαρά, αυγά, συκώτι.&#13;
+Θέλει το γάλα του ζεστό (2)&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Του αρέσει η παρηγοριά όταν είναι στενοχωρημένος. Ευαίσθητος (2). Θέλεια αγκαλιά, αλλά δεν κλαίει ούτε γκρινιάζει.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Παιδί μικρής ηλικίας, χωρίς ιδιαίτερους προδιαθεσικούς παράγοντες. Τα συμπτώματα είναι στην περιφέρεια [δεν έχει διαγνωστεί με "αληθές" άσθμα].&#13;
+Έχουμε αρκετά καθαρό αιτιολογικό παράγοντα την καταπίεση του δερματικού εξανθήματος με κορτιζονούχα σκευάσματα.</personal_medical_history>
+        <family_medical_history>Δεν αναφέρεται κάτι ιδιαίτερο από τους γονεις. Χωρίς εμφανή κληρονομική επιβάρυνση.</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Καλή πρόγνωση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Εξανθημα στις παρειές (2).&#13;
+Ρινίτιδα και μπούκωμα μετά από καταπίεση εξανθήματος (3).&#13;
+Υποτροπιάζουσα (αλλεργική) ρινίτιδα και βήχας (2).&#13;
+Χειρότερα με το μπάνιο με ζεστό νερό (2).&#13;
+</peculiar>
+        <intense>Ζεσταίνεται (2).&#13;
+Δεν του αρέσουν αυγά, λιπαρά.&#13;
+Ευαίσθητος (2).</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>FACE - ERUPTIONS - RASH (3)&#13;
+SKIN  - ERUPTIONS - SUPPRESSED (3)&#13;
+GENERALITIES - WARM - AGG (2)&#13;
+NOSE -CORYZA - ANUAL (HAY FEVER) (3)&#13;
+COUGH - DRY (2)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Τα συμπτώματα που δίνει το ιστορικό είναι λίγα, γιατί το εξάνθημα καταπιέστηκε γρήγορα με αλλοπαθητικά φάρμακα. Επίσης ο ασθενής είναι πολύ μικρής ηλικίας για να βοηθήσει στην περιγραφή. Στο repertorization 1ο φάρμακο ήταν η Pulsatilla, 2ο το Sulphur και 3ο to Rhus Tox. H Pulsatilla δεν επιβεβαιώνεται απο το essence, καθώς το παιδί αν και ευαίσθητο δεν κλαίει ούτε γκρινιάζει. Επέλξα το sulphur καθώς το κύριο ενόχλημα, ανεξαρτήτως εκδήλωσης, προήλθε απο καταπίεση εξανθήματος (υπογραμμισμένο με 4 στο sulphur)</remedies_differentiation>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>200 CH</potency>
+        <regimen>Εφαπαξ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-18 15:00:00</followup_date>
+      <conv_med_presc>Δεν λαμβανει.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>(15/03/2015)&#13;
+Η μητέρα παρατήρησε πως μετά τη λήψη του φαρμάκου το παιδί εμφάνισε εξάνθημα στον θώρακα που κράτησε λίγες μέρες και υποχώρησε μόνο του. Το παιδί καλύτερα ψυχολογικά, έπαψε να κοιμάται με τους γονείς του. Εμφανίζει πιο έντονο εγώ. Εξακολουθεί να μη του αρέσει η ζέστη. Ιδρώνει πολύ. Ξύνεται. &#13;
+Η ρινίτιδα και ο βήχας υποχώρησαν.&#13;
+&#13;
+Κάποιες μέρες μετά την βελτίωση εμφάνισε έντονο βήχα το βράδυ. Η μητέρα του ανησύχησε, έδωσε εισπνεόμενα και το πήγε στον παιδίατρο, ο οποίος έδωσε aerolin, seretide και singulair για 10 ημέρες. Διέγνωσε βρογχόσπασμο.&#13;
+Η μητέρα μου ανέφερε ιστορικό τέτοιων κρίσεων «βρογχοσπασμου», κυρίως το βράδυ μετά την κατάκλιση, για τα οποία πάντα λάβαινε την ίδια αγωγή από 1,5 χρονών. Ο «βρογχόσπασμος» είναι μάλλον βήχας έντονος, και πάντα συμπίπτει μετά τα επεισόδια ρινίτιδας.&#13;
+&#13;
+Μετά απο αυτή την αγωγή η καταρροή και το μπούκωμα επανήλθε.&#13;
+</reaction>
+      <analysis>Καλή αρχική αντίδραση. Υπήρξε αντιδότηση απο την φαρμακευτική αγωγή με εισπνεόμενα (πιθανότατα απο τα κορτικοειδή).</analysis>
+      <conclusion>Υπήρξε αντιδότηση σε καλή αντίδραση. Συστήνεται επανάληψη της αρχικής δόσης.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>200 CH</potency>
+        <regimen>Μια φορα την ημέρα για 3 ημέρες.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-18 15:00:00</followup_date>
+      <conv_med_presc>Δεν λαμβανει.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>Follow up 5 μήνες μετά την επανάληψη δόσης. (08/08/2015)&#13;
+Η μητέρα αναφέρει πως μετά την δεύτερη δόση Sulphur το παιδί έβγαλε μεγάλη ποσότητα παχύρρευστης βλέννης από την μύτη, και έπειτα η καταρροή και το μπούκωμα υποχώρησαν. Έκτοτε δεν τον έχει απασχολήσει κάτι αντίστοιχο.&#13;
+Η μητέρα αναφέρει πως το παιδί είναι πιο "αυτόνομο" πια, με πιο δυναμωμένο εγώ.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δόθηκε φάρμακο.</remedy>
+        <potency>Δεν δόθηκε φάρμακο.</potency>
+        <regimen>Δεν δόθηκε φάρμακο.</regimen>
+        <other_notes>Δεν δόθηκε φάρμακο.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

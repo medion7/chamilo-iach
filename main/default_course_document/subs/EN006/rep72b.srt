@@ -1,0 +1,1532 @@
+1
+00:00:25,040 --> 00:00:37,160
+It is a problem, I admitted and we'll talk now about the possible solutions, the possible tools that are there to find back information.
+
+2
+00:00:38,645 --> 00:00:46,460
+First of all you are aware that the Repertory is structured chapters within a chapter, alphabetical. They have modalities, extensions and all that, you know all this.
+
+3
+00:00:46,560 --> 00:01:04,203
+I don't have to explain to you that the goal of the structure of the Repertory is to find back information. I will leave this unless you have questions.
+
+4
+00:01:05,547 --> 00:01:29,355
+The second way to help Repertory users to find back information it is the standardized language.
+
+5
+00:01:31,253 --> 00:01:38,976
+By this we mean that if you are speaking and you have a symptom while speaking, it will not be entered like this in the Repertory.
+
+6
+00:01:40,384 --> 00:01:51,563
+But it will be entered like talking. In the Repertory we don't speak, we talk. Do you understand what I'm trying to say?
+
+7
+00:01:52,800 --> 00:02:01,600
+The number of words are limited, we don't use all the synonyms of speaking. We always use talking.
+
+8
+00:02:03,061 --> 00:02:18,997
+Another example, when something is improved by a position, an action, we say ... amel. We don't say ... I'm better by, relieved by, no. We say ... amel.
+
+9
+00:02:20,064 --> 00:02:26,464
+So the language is standardized.
+
+10
+00:02:28,107 --> 00:02:37,429
+In Kent's Repertory the language is less standardized and with each subsequent version of Synthesis, we have (?) lines, the language of the Repertory, a little bit more.
+
+11
+00:02:38,731 --> 00:02:48,032
+And we can (?) even more, we have to do it. But it is such a big task that it is an ongoing task.
+
+12
+00:02:49,440 --> 00:02:56,757
+So far this is the job of the one who inserts the symptoms.
+
+13
+00:02:59,403 --> 00:03:11,477
+But then for the people who search, we have different possibilities really on the level of language and the first, as you know, are the synonyms.
+
+14
+00:03:14,485 --> 00:03:22,272
+So abandoned is a synonym to forsaken. You see it on the screen.
+
+15
+00:03:23,253 --> 00:03:38,293
+It means we don't add remedies, we don't (?) rubrics to abandoned whenever we want to express something about abandoned. We will add it to forsaken because within Repertory context abandoned and forsaken are the same.
+
+16
+00:03:38,763 --> 00:03:53,056
+Obviously there will always be someone who says, yes but abandoned and forsaken, for me there is a difference because if the person is forsaken, it is more deep wounds and....
+
+17
+00:03:53,675 --> 00:04:05,536
+It will be an explanation but in general we try to have synonyms and I would even say, we try to have more and more synonyms, not to differentiate too much.
+
+18
+00:04:06,368 --> 00:04:13,771
+Because otherwise you become too dependent upon finding the right words.
+
+19
+00:04:14,560 --> 00:04:24,309
+But I must admit that in fact it is a matter of discussion, a matter of taste almost whether two words are considered synonymous or not.
+
+20
+00:04:25,141 --> 00:04:37,792
+And if they are not considered synonymous, they are what we call cross references.
+
+21
+00:04:38,667 --> 00:04:49,703
+Jealousy and envy are cross references. Maybe some people say, jealous, envious is more or less the same. They would put it as a synonym.
+
+22
+00:04:49,803 --> 00:04:58,613
+But in Repertory language which is a little bit different from the natural language, I must say, you know we have defined a difference between jealousy and envy.
+
+23
+00:04:59,787 --> 00:05:09,984
+Can anyone explain to me, jealousy and envy?
+
+24
+00:05:16,320 --> 00:05:23,222
+-I don't know if I'm correct but maybe jealousy is more towards lover or something like that and envy is
+
+25
+00:05:23,322 --> 00:05:28,123
+if you see somebody who has nice things and you are jealous about that. That is what I would think.
+
+26
+00:05:29,440 --> 00:05:35,036
+-Yes it's perfect. Jealous is on an emotional level and envy is on a material level.
+
+27
+00:05:35,136 --> 00:05:42,624
+So we make a clear distinction between jealousy and envy. But they are cross references because sometimes it goes together
+
+28
+00:05:42,724 --> 00:05:50,112
+sometimes you may want to combine rubrics into one, new, big rubric etc.
+
+29
+00:05:56,107 --> 00:06:16,992
+In the Repertory you see, if you are positioned on abandoned in Radar, it is just efficient to hit "enter" once on your keyboard, to hit it and you will jump to forsaken.
+
+30
+00:06:17,920 --> 00:06:26,507
+So I hit and I am in forsaken in the Repertory. So you jump.
+
+31
+00:06:30,091 --> 00:06:35,979
+This time I will speak with English because I must use language examples.
+
+32
+00:06:39,243 --> 00:06:47,015
+The same way if you see a cross reference, I hope you are aware that forsaken feeling, you want to look at desire for company
+
+33
+00:06:47,115 --> 00:06:55,095
+you click on desire company twice, left click and you are at desire company.
+
+34
+00:06:56,907 --> 00:07:05,856
+So there are jumps in the book, as you see more easy in the software, to jump to different places to reflect on the remedies on the meaning
+
+35
+00:07:05,956 --> 00:07:14,805
+and to decide for the correct rubric within the cross references and considering the synonyms.
+
+36
+00:07:15,893 --> 00:07:18,923
+So that's one level.
+
+37
+00:07:20,075 --> 00:07:29,489
+Of course there is a problem because any symptom you want to search in the Repertory...
+
+38
+00:07:29,589 --> 00:07:36,928
+Suppose you have the book, only the book, what is the first thing you need to do?
+
+39
+00:07:37,803 --> 00:07:52,757
+It is to decide in which chapter it is. Sometimes it is easy, if I have itching in my ear, I must look in my nose and vice versa.
+
+40
+00:07:53,184 --> 00:07:59,712
+But sometimes it is really difficult and it is almost  arbitrary decision in which chapter it is (?).
+
+41
+00:08:00,680 --> 00:08:16,401
+So we are dependent upon the structure, chapters etc., alphabet, modalities and so on to find the symptom and here there is a function which is available in all the homeopathic soft wares
+
+42
+00:08:16,501 --> 00:08:23,328
+that you can search symptom with keywords.
+
+43
+00:08:26,400 --> 00:08:39,243
+Keywords mean the word which is a key. So the (?) you were storing and you take out the word which is a key.
+
+44
+00:08:40,352 --> 00:08:49,355
+I will show you examples in English but it is exactly the same in German, you can try it for any German words.
+
+45
+00:08:50,464 --> 00:09:17,109
+What you need to do, to use this tool in this program at least, you type a "?" and then you type for example the word "snoring".
+
+46
+00:09:17,621 --> 00:09:31,381
+Because your mother in law is snoring all the time and you don't know if you have to go and look in the rubric "nose" or (?) or "minds ailments from" or whatever.
+
+47
+00:09:31,936 --> 00:09:38,955
+You don't know where to look for snoring. But you know the keyword is "snoring".
+
+48
+00:09:39,509 --> 00:09:58,411
+So you type "? snoring" and then you get a list of 9 symptoms and you see that there is a big symptom with 59 remedies which (?) its presence in the chapter "respiration".
+
+49
+00:10:00,480 --> 00:10:06,901
+So find a symptom using one word.
+
+50
+00:10:08,864 --> 00:10:16,392
+I give another example. You remember this morning I couldn't find the symptom and everybody was looking at me
+
+51
+00:10:16,492 --> 00:10:23,920
+and I got very nervous and so I didn't find the symptom, I must say.
+
+52
+00:10:24,440 --> 00:10:32,843
+But I knew the symptom existed. So I can use the same tool to find the symptom.
+
+53
+00:10:33,717 --> 00:10:43,531
+(?) Arsenicum, yes I know Arsenicum better is another remedy which has the symptom in a very prominent way and it is (?) a little bit different.
+
+54
+00:10:44,440 --> 00:11:14,421
+So what I will do, I type"?", I type "death" and (?). At this moment the program will find for me all the symptoms which contain the word "death" all along, wherever they are in the structure of the Repertory.
+
+55
+00:11:18,795 --> 00:11:36,672
+And then you see 5 symptoms. The first starts of "death when alone". And this is the remedy I wanted you to find.
+
+56
+00:11:45,867 --> 00:12:04,988
+-We have another way to come to this result. We always did it, it's better your way. When you click on this icon...
+
+57
+00:12:05,088 --> 00:12:23,627
+-So Miriam was clicking on an icon when she was in Israel. Now that she has been in Alonissos she will type the "?" because she feels it is better.
+
+58
+00:12:25,163 --> 00:12:35,403
+If you find something better, change it. Someone likes to click on icons, she can click on icons.
+
+59
+00:12:37,728 --> 00:12:42,940
+-I don't understand how I get to the"?" You just put it in or you have ...
+
+60
+00:12:43,040 --> 00:12:45,429
+-You type the "?"
+-Without anything else?
+
+61
+00:12:54,389 --> 00:13:07,381
+-When you type the "?" this appears. That's just the way it works.
+
+62
+00:13:09,429 --> 00:13:16,720
+So a word to find a symptom. Be careful because I'm going to ask you a question after that.
+
+63
+00:13:18,688 --> 00:13:26,009
+We go on a step further. So the keyword search is a very big step forward
+
+64
+00:13:26,109 --> 00:13:33,329
+it is related to the homeopathic soft wares or in a way also to some books like (?) Index of Repertory.
+
+65
+00:13:33,429 --> 00:13:40,071
+You know this book? Index of Repertory? It's a big book almost a Repertory by itself.
+
+66
+00:13:40,171 --> 00:13:45,205
+It has keywords and behind every keyword all the pages where it appears.
+
+67
+00:13:45,760 --> 00:13:53,227
+Of course in the software when you see immediately the result, it is more easy.
+
+68
+00:13:54,400 --> 00:14:02,840
+But the keyword "search" in the Repertory and the software does it, it is a very big step forward because we don't need to structure anymore.
+
+69
+00:14:03,787 --> 00:14:10,485
+We can find the symptom regardless of the structure.
+
+70
+00:14:11,701 --> 00:14:15,627
+The next step to help you find symptoms is that we were aware that with the synonyms
+
+71
+00:14:15,727 --> 00:14:19,552
+with more cross references, with the keyword search, with grammatical synonyms
+
+72
+00:14:32,501 --> 00:14:40,608
+with the general language synonyms etc., still more tools are needed to find the symptoms.
+
+73
+00:14:41,547 --> 00:14:57,781
+And that's why we introduced, related to Synthesis this time, about 2-3 years ago, concepts.
+
+74
+00:15:03,349 --> 00:15:22,016
+A concept is an idea and it is like a box. In the concepts in the box are the Repertory symptoms which express the idea; then it's a concept.
+
+75
+00:15:22,848 --> 00:15:28,224
+So you have a concept in many ways, in many different ways.
+
+76
+00:15:29,056 --> 00:15:36,849
+I will not expand very much and let to discover it yourself, after this and just give a few examples.
+
+77
+00:15:42,005 --> 00:15:58,219
+Someone asked about pregnancy. Restructure the Repertory and make a chapter "pregnancy". Well, it is possible to do it but with concepts we have another tool.
+
+78
+00:15:59,051 --> 00:16:10,961
+Because is like a spider web above the Repertory which holds together symptoms from very different parts, very different meaning
+
+79
+00:16:11,061 --> 00:16:16,721
+made it much more apart than the cross references.
+
+80
+00:16:16,821 --> 00:16:24,395
+In a cross reference you have two symptoms which are related; in a concept you may have a lot of symptoms which are not related at all
+
+81
+00:16:24,821 --> 00:16:29,749
+among each other but only do belong to the same idea.
+
+82
+00:16:30,267 --> 00:16:37,643
+I will give you few examples so that you understand more easily.
+
+83
+00:16:38,440 --> 00:16:50,919
+To have access to the keywords, we use one "?". To have access to the concepts we use two "??"
+
+84
+00:16:51,019 --> 00:16:55,584
+We did it especially for the people from Israel.
+
+85
+00:16:56,736 --> 00:17:15,872
+So I type two ?? pregnancy and then I get a list of concepts, as you see, by Zulian and by Fonseca there is a concept "pregnancy".
+
+86
+00:17:16,853 --> 00:17:31,595
+And if I click on the little book here which is an icon for Synthesis, I will see all the symptoms that are related to pregnancy.
+
+87
+00:17:32,469 --> 00:17:39,836
+Anger during pregnancy, anxiety-pregnancy, aversion company-pregnancy, delirium after abortion...
+
+88
+00:17:39,936 --> 00:17:44,337
+So the word pregnancy doesn't need to be present all the time.
+
+89
+00:17:44,437 --> 00:17:48,945
+Despair during delivery again is not the word search, it is not a keyword search.
+
+90
+00:17:49,045 --> 00:18:00,608
+Fear from threatening abortion and sadness after disappearance of milk.
+
+91
+00:18:02,187 --> 00:18:10,955
+You see the symptoms is not with the presence of the word pregnancy. It is just anything which has to do with pregnancy.
+
+92
+00:18:11,808 --> 00:18:17,547
+So that's we call the ID, the concept pregnancy.
+
+93
+00:18:19,552 --> 00:18:27,445
+It's one example of the concepts. The concept can be used for other very interesting points.
+
+94
+00:18:28,427 --> 00:18:38,261
+Maybe you have in your family someone who has the disease of Alzheimer.
+
+95
+00:18:39,755 --> 00:18:51,019
+It is difficult to use it in homeopathic way. It would be easier to say there is rubric generals Alzheimer, 25 remedies.
+
+96
+00:18:51,957 --> 00:19:01,479
+But do you believe, as a well trained homeopath, that it is so easy that you just go and look at the 25 remedies of Alzheimer, you give it and it's fixed?
+
+97
+00:19:04,565 --> 00:19:16,021
+You have to take the case and be more precise. So these are homeopathic symptoms which may apply, if you use Alzheimer.
+
+98
+00:19:17,792 --> 00:19:33,344
+So I type ??Alzheimer which means I search for the idea, for the concept Alzheimer and then the program shows me here
+
+99
+00:19:34,176 --> 00:19:53,681
+a box; I click on it and I see 24 symptoms throughout the Repertory, mind and others, speech indistinct. Ah yes, OK.
+
+100
+00:19:53,781 --> 00:20:02,912
+So you find the homeopathic symptoms which you did not know about when you were considering Alzheimer.
+
+101
+00:20:03,936 --> 00:20:18,848
+Like this, we have in the Radar concepts180 different diseases and each disease is a concept, a box and contains 10,20, 30, 40 symptoms
+
+102
+00:20:19,701 --> 00:20:25,355
+which are interesting to think of or to question about, when you have a case with that disease.
+
+103
+00:20:32,864 --> 00:20:37,329
+So these are the concepts of  diseases, just to give another example what a concept can be.
+
+104
+00:20:37,429 --> 00:20:49,675
+So there is this spider web Alzheimer disease and throughout the Repertory it takes all the symptoms related to Alzheimer.
+
+105
+00:20:57,717 --> 00:21:09,800
+-From which version does it work?
+-7 onwards.
+
+106
+00:21:21,589 --> 00:21:30,592
+Anyway on the technical side I will look in the break. Let me first explain you the idea of concepts and this new access to Repertory.
+
+107
+00:21:33,515 --> 00:21:40,839
+These are the different concepts, the Radar and acute diseases I explained to you.
+
+108
+00:21:51,392 --> 00:22:05,792
+We have Fonseca concepts. I will explain Fonseca concepts. Two Brazilian people they have done huge work on minds.
+
+109
+00:22:06,624 --> 00:22:12,647
+Often it is difficult to find back the correct mind symptom.
+
+110
+00:22:12,747 --> 00:22:17,063
+What they did, they have different approaches but I will speak about analogic group.
+
+111
+00:22:17,163 --> 00:22:28,192
+They divided basically all the mind symptoms into 3 analogical groups, concepts.
+
+112
+00:22:29,173 --> 00:22:40,032
+One group, all mind symptoms related to others, all mind symptoms related to the person himself and all mind symptoms related to the environment.
+
+113
+00:22:41,056 --> 00:22:47,776
+So you are searching for a mental symptom, even you don't know the word you have to search for, so keyword search you don't know.
+
+114
+00:22:48,843 --> 00:23:04,288
+But you know that this symptom is related to the person himself. So you select the concept, the box "mental symptoms related to himself".
+
+115
+00:23:04,800 --> 00:23:13,803
+You go down one step and in this box you have another series of boxes, sub-concepts.
+
+116
+00:23:24,491 --> 00:23:31,111
+We are in Synthesis, I will explain how to start this go into this Repertory.
+
+117
+00:23:37,312 --> 00:23:50,475
+Search and at the bottom you have Find Concepts. I miss the nice icons but anyway.
+
+118
+00:23:55,019 --> 00:24:12,661
+So I select Fonseca. Search, Find Concepts, here you are and I'm going back in my analogical group, related to himself.
+
+119
+00:24:13,451 --> 00:24:20,412
+Then they have created sub-concepts, the groups of symptoms related to the person oneself.
+
+120
+00:24:20,512 --> 00:24:28,533
+death, health, intellect... etc. I will just give you an example to see how it works.
+
+121
+00:24:31,520 --> 00:24:35,324
+I just click on the choice I make.
+
+122
+00:24:35,424 --> 00:24:47,392
+So if the symptom is related to himself, I click on related to himself.
+
+123
+00:24:49,464 --> 00:24:55,669
+-I don't understand how did you get this one? I just got analogical, illusions...
+
+124
+00:24:56,800 --> 00:25:11,819
+-You click on analogical groups. To get something you must click on it. It's a very important rule on all computer programs.
+
+125
+00:25:12,331 --> 00:25:22,208
+Select the word, click on it. That is in word processors. In Radar, you want information about something, click on it.
+
+126
+00:25:24,939 --> 00:25:35,733
+Anyway to get the analogical groups, you click on it. To get all those related to himself, click on it.
+
+127
+00:25:36,331 --> 00:25:46,144
+Then there is a group, for example self-esteem, it is a symptom related to self-esteem
+
+128
+00:25:46,699 --> 00:25:55,253
+and you see again a group of sub-boxes, it is low self-esteem, it is egotism, it can be hyper or hypo
+
+129
+00:25:55,723 --> 00:25:57,152
+so it has divided the whole mind in concepts and sub-concepts.
+
+130
+00:25:59,051 --> 00:26:08,032
+And you can scroll down, step down in the hierarchy, you go to low self-esteem
+
+131
+00:26:08,132 --> 00:26:17,013
+for example discontented with himself, self-depreciation and then you have no more boxes.
+
+132
+00:26:18,827 --> 00:26:30,795
+Then you say OK and then you get the box of self-depreciation and you have a list of 16 Repertory symptoms which express self-depreciation.
+
+133
+00:26:31,733 --> 00:26:39,548
+You knew about anger about mistakes and anger with himself, maybe you had in your mind discontented with himself
+
+134
+00:26:39,648 --> 00:26:56,352
+because it's a big rubric but when you scroll down you see quarrelsome with herself and interesting a symptom I never saw before, sadness, feeling superfluous.
+
+135
+00:26:58,677 --> 00:27:06,869
+But it is part of the concept and so this is the way I can find the symptom which was completely unknown to me, even the words were unknown to me.
+
+136
+00:27:07,659 --> 00:27:13,745
+I have a related idea and with the concepts I get there.
+
+137
+00:27:13,845 --> 00:27:27,584
+Still let's move on. You say, superfluous feeling that is very close but maybe you want to find out if you can find a symptom which is still closer.
+
+138
+00:27:28,843 --> 00:27:40,412
+If you need an idea, you click on the bulb and you get another interesting idea
+
+139
+00:27:40,512 --> 00:27:48,113
+because here you arrived at the rubric sadness, superfluous feeling and we see that it is related to a number of concepts
+
+140
+00:27:49,472 --> 00:28:00,757
+the ones we just looked at, low self-esteem, etc. but also responsibility commitments.
+
+141
+00:28:01,675 --> 00:28:08,800
+And you want to look maybe at the other symptoms of responsibility.
+
+142
+00:28:09,632 --> 00:28:28,683
+And then you find 23 symptoms which are now related to superfluous in some way and you decide that finally the real symptom is dullness for cares for his business.
+
+143
+00:28:32,800 --> 00:28:39,520
+So it is not one web which is over the Repertory but a lot of spider webs, really scary, you know?
+
+144
+00:28:40,736 --> 00:28:48,693
+And you can jump from one web to another. You just have to remember you click on the bulb, it brings you into the concepts.
+
+145
+00:28:50,123 --> 00:28:55,712
+You click on the Synthesis icon, it brings you to the Repertory symptoms of the concepts.
+
+146
+00:28:56,565 --> 00:29:00,512
+And like this you can scroll through the Repertory.
+
+147
+00:29:01,493 --> 00:29:08,128
+Before I give you a little exercise, are they any questions about this?
+
+148
+00:29:11,093 --> 00:29:16,661
+Then we will go ahead immediately with the exercise.
+
+149
+00:29:17,667 --> 00:29:24,832
+-I (?) up the Radar 7.3 and therefore I can't do anything of that.
+
+150
+00:29:25,515 --> 00:29:27,605
+-You better go home.
+
+151
+00:29:28,437 --> 00:29:32,021
+-No, I mean I'm saying maybe it's the case of other people.
+-Anyway.
+
+152
+00:29:32,960 --> 00:29:46,400
+The point is this is available from version 7 onwards. But for the exercise I will give you, you can use all these.
+
+153
+00:29:46,997 --> 00:29:52,352
+Those who have concepts they will be delighted to play around with concepts but of course if you don't have it, what can I say?
+
+154
+00:29:53,035 --> 00:30:01,995
+I can only say that we have developed I believe about 3000 different concepts, 3000 different spider webs over the Repertory
+
+155
+00:30:03,445 --> 00:30:08,672
+and once you know how to use it, it's really fantastic.
+
+156
+00:30:19,275 --> 00:30:26,037
+How did I get it? Where did I come from? I click on the bulb, so in the Radar it's easy you click on a bulb to have an idea
+
+157
+00:30:26,699 --> 00:30:30,780
+you click on Synthesis icon to have Repertory symptoms. That's the basics.
+
+158
+00:30:30,880 --> 00:30:43,445
+-... who has all the program, is there a possibility to fill it up with new things or each one just (?) and stuck with the old version?
+
+159
+00:30:44,192 --> 00:30:56,508
+-Never believe your dead ended. What we call it in this case of technical computer, to not believe that your dead ended is called upgrade.
+
+160
+00:30:56,608 --> 00:31:01,963
+So you can upgrade.
+
+161
+00:31:03,029 --> 00:31:12,309
+This is a nice feature. I will give you now an exercise about finding the symptoms in the Repertory, even if you just have the book you can do the exercise.
+
+162
+00:31:13,397 --> 00:31:19,392
+I just tell you what is available now today, I think it's a big jump forward for helping people to find symptoms
+
+163
+00:31:19,492 --> 00:31:25,387
+but whatever means you have, now you will start to find the symptom.
+
+164
+00:31:32,149 --> 00:31:44,224
+You imagine someone you know very well, a child, you mother in law, a neighbor, your boss...
+
+165
+00:31:44,971 --> 00:31:53,824
+and what you need to know about this person, is a fear, a fear they have.
+
+166
+00:31:54,891 --> 00:31:58,837
+So they tell you a story... I'm afraid.... but it must be concrete, you must know the person, you must not just imagine
+
+167
+00:32:03,403 --> 00:32:13,408
+because (?) will be to interrogate you about the fear of, say your child.
+
+168
+00:32:14,155 --> 00:32:27,232
+What I would like you to do and you can help each other is to find the one or maybe two or three rubrics which express this fear in a Repertory language.
+
+169
+00:32:28,683 --> 00:32:37,749
+And if you come across a fear or an aspect of the fear, which you say I don't know where to find it in the Repertory
+
+170
+00:32:37,849 --> 00:32:42,187
+you write it down and it will be a question.
+
+171
+00:32:44,363 --> 00:32:56,224
+But now please imagine a person, you know pretty well, he/she is afraid, it is afraid maybe an animal, why not
+
+172
+00:32:57,035 --> 00:33:05,760
+and then you express the fear and Betty has to find exactly the Repertory symptoms.
+
+173
+00:33:06,955 --> 00:33:13,760
+Anya asks to give a difficult fear, not just fear of dark.
+
+174
+00:33:18,069 --> 00:33:27,051
+You have to tell a story, the story of the fear. I have a child and it's afraid of the dark and I find a rubric fear of dark, that's not what I'm talking about.
+
+175
+00:33:30,763 --> 00:33:58,283
+One last thing before you start doing this, be aware that in the Repertory fears are not only present in the chapter fear but also in delusions and anxiety and cares etc.
+
+176
+00:34:00,080 --> 00:34:04,981
+So if it is too easy, it depends upon you.
+
+177
+00:34:07,072 --> 00:34:18,129
+What I would like to do is to run through the whole quickly. You give a story and you say 1,2,3 Repertory symptoms.
+
+178
+00:34:18,229 --> 00:34:36,305
+First the story, then 1,2,3 Repertory symptoms. So the patient tells a story, you go to the Repertory and you say, maybe it is fear of water (?) of the Repertory rubric.
+
+179
+00:34:36,405 --> 00:34:48,800
+You must imagine fear of water, you go back to the (?) and you say, is it fear of water? Is the story of my patient congruent with the symptom in the Repertory?
+
+180
+00:34:49,909 --> 00:35:03,605
+I step into my next topic which is selecting the correct symptoms, so one point of selecting the correct symptom is the symptom should be congruent.
+
+181
+00:35:04,672 --> 00:35:13,440
+Which means the Repertory symptom should express exactly what the patient is telling you and by preference not more but also not less.
+
+182
+00:35:14,357 --> 00:35:19,669
+So fear of water is not exactly what the patient is saying.
+
+183
+00:35:20,736 --> 00:35:26,197
+Now you can do Repertory search, you see there are cross-references to fear of drinking, fear of liquids, hydrophobia.
+
+184
+00:35:27,392 --> 00:35:33,398
+As far as I know, there is so far no rubric in the Repertory which specifies the fear when the head is under the water
+
+185
+00:35:33,498 --> 00:35:39,403
+so you could say that for the moment the fear of water is the best match.
+
+186
+00:35:41,088 --> 00:35:53,056
+But be aware that it is not the perfect match. It's only close and don't emphasize too much this rubric in your analysis because it is not congruent.
+
+187
+00:35:54,272 --> 00:36:05,472
+If we reflect on which symptoms to take to repertorize, the first criteria is they must be congruent.
+
+188
+00:36:10,592 --> 00:36:16,949
+So this is another topic that you gave me a nice occasion to speak about it.
+
+189
+00:36:17,739 --> 00:36:22,844
+Another Repertory symptom ...
+
+190
+00:36:22,944 --> 00:36:40,715
+-(?) in a big company and sometimes he has to talk in public and he has a very big fear speaking to public but when he has to speak he can do it.
+
+191
+00:36:43,637 --> 00:36:47,719
+So it's fear of speaking in public but capable.
+
+192
+00:36:47,819 --> 00:36:52,277
+-And what is the Repertory symptom?
+
+193
+00:36:53,429 --> 00:37:05,717
+-Fear of speaking in public but capable.
+
+194
+00:37:24,021 --> 00:37:37,440
+-Can you repeat exact symptom because it is not like this...
+
+195
+00:37:38,272 --> 00:37:45,852
+-You see what I did? Have you been following what I did? I'm sorry I went fast but I will repeat slowly.
+
+196
+00:37:46,016 --> 00:37:56,839
+She was giving the syntax of a symptom, I typed it, I didn't find it. So somewhere it was not correct to the structure of the Repertory. Problem.
+
+197
+00:37:56,939 --> 00:38:08,053
+I search for the symptom regardless of the structure of the Repertory, I made a keyword search on the word ?public.
+
+198
+00:38:10,507 --> 00:38:17,980
+And then it tells me there is fear appearing in public and stage freight etc.
+
+199
+00:38:19,467 --> 00:38:26,535
+so fear appearing in public is the closest one, then I say OK interesting  and I see there is a
+
+200
+00:38:26,635 --> 00:38:31,755
+cross-reference towards timidity public. I click on the cross-reference
+
+201
+00:38:32,608 --> 00:38:40,693
+and I see timidity about appearing in public, I look at the sub-rubrics and I find
+
+202
+00:38:41,248 --> 00:38:54,240
+a sub-rubric timidity about appearing in public but capable to do so.
+
+203
+00:38:55,072 --> 00:39:00,619
+So I use the search with the ? I jump with the cross-reference and I find within seconds the correct rubric.
+
+204
+00:39:03,840 --> 00:39:08,064
+This is the symptom related to your story. Thank you.
+
+205
+00:39:09,792 --> 00:39:14,060
+Another story?
+
+206
+00:39:17,557 --> 00:39:30,492
+-She related to me a grown-up lady who always wants people (?)
+
+207
+00:39:30,592 --> 00:39:38,705
+She is a kind of a saint that everything she does is all right and she described it as a fear.
+
+208
+00:39:38,805 --> 00:39:48,625
+So I first looked under fear opinion of others where I found Nux Vomica and Pulsatilla
+
+209
+00:39:48,725 --> 00:39:52,340
+and I want to show you the different rubrics. It was simple in the Repertory to find it.
+
+210
+00:39:55,765 --> 00:40:03,943
+Then I found the arrow showing to delusion appreciate which she is not
+
+211
+00:40:04,043 --> 00:40:13,201
+and which Palladium, Platina, Pulsatilla and (?) and then was another arrow
+
+212
+00:40:13,301 --> 00:40:24,593
+to lamenting appreciated because she is not and there I found the arrow to longing good opinion of others which is really
+
+213
+00:40:24,693 --> 00:40:28,348
+what she described and goes only Palladium.
+
+214
+00:40:29,557 --> 00:40:32,081
+But it was a nice way you find through the Repertory.
+
+215
+00:40:32,181 --> 00:40:38,119
+So she used, she jumped through the Repertory using mainly cross-references
+
+216
+00:40:38,219 --> 00:40:42,599
+One leap of correction in your reasoning, if I may, or something which could improve
+
+217
+00:40:42,699 --> 00:40:47,740
+is in the story that keyword is not fear but is a good opinion.
+
+218
+00:40:49,504 --> 00:40:55,264
+And if you would have searched for good opinion, you would have seen this symptom appearing immediately.
+
+219
+00:40:56,267 --> 00:41:02,197
+But anyway you got there, you got in other way. So that's very nice.
+
+220
+00:41:05,120 --> 00:41:09,664
+One other story maybe?
+
+221
+00:41:20,032 --> 00:41:21,333
+Tell the story.
+
+222
+00:41:22,592 --> 00:41:33,387
+-I tried what you said to use the ? and say good opinion...
+
+223
+00:41:40,533 --> 00:41:44,907
+-One more story someone?
+
+224
+00:42:04,085 --> 00:42:09,504
+-I would like to know how to find the symptom fear of being buried alive?
+
+225
+00:42:10,400 --> 00:42:18,492
+-What is the keyword in the symptom?
+Buried.
+
+226
+00:42:20,768 --> 00:42:30,432
+So you type buried and within a second you see the symptom is not under fear but under delusion.
+
+227
+00:42:41,867 --> 00:42:50,912
+In dreams, dreams being buried alive.
+
+228
+00:42:52,917 --> 00:43:00,213
+To find symptoms, in fact to understand the patients you extract what is most important.
+
+229
+00:43:04,437 --> 00:43:13,141
+These are some examples and I hope you found many more interesting with yourself about how to find symptoms in the Repertory.
+
+230
+00:43:15,104 --> 00:43:22,507
+I will speak a second part of introduction to the VES.
+
+231
+00:43:22,880 --> 00:43:29,504
+This morning I have explained to the different repertorisation matters and I taught you basically what the VES does.
+
+232
+00:43:30,400 --> 00:43:39,367
+It considers all the different repertorization matters and in fact it considers all the different repertorization matters
+
+233
+00:43:39,467 --> 00:43:42,027
+for each step you take at the same time, everything.
+
+234
+00:43:42,837 --> 00:43:51,435
+It looks at the 11 symptoms, in every way and then gives a balanced suggestion.
+
+235
+00:43:53,461 --> 00:44:02,549
+Before we get to some more explanation about the VES, there is one other step I must take you.
+
+236
+00:44:02,600 --> 00:44:14,439
+And it is that I must explain you a little bit more about the choice of the correct symptoms to repertorize.
+
+237
+00:44:17,589 --> 00:44:27,211
+After you have found them, you can repertorize but first which symptoms are interesting, which symptoms are needed.
+
+238
+00:44:30,304 --> 00:44:44,199
+And therefore I would like to remind you first that you were outside, down to the beach, at the restaurant
+
+239
+00:44:44,299 --> 00:44:49,760
+and it was nice to be in the open air.
+
+240
+00:44:50,507 --> 00:44:56,764
+Everybody likes the (?) together the four hours. So everybody wanted to be outside in the open air.
+
+241
+00:44:59,467 --> 00:45:05,717
+Maybe some people went out already because they couldn't wait.
+
+242
+00:45:09,195 --> 00:45:13,824
+In the simple story, do you know any symptom there?
+
+243
+00:45:18,389 --> 00:45:23,765
+-Desire to be in the open air.
+
+244
+00:45:35,947 --> 00:45:45,525
+-Impatience and also anticipation, waiting to be out.
+
+245
+00:45:48,800 --> 00:45:52,288
+-Desire to escape you mean.
+
+246
+00:45:55,829 --> 00:46:06,112
+Anyway. Now the first point I want to make is that a symptom is only a symptom when it is a symptom.
+
+247
+00:46:07,755 --> 00:46:11,320
+Do you understand this?
+
+248
+00:46:15,285 --> 00:46:28,256
+So here you have the intensity and you have desire for open air and to some level all of us have a desire for open air
+
+249
+00:46:28,356 --> 00:46:30,439
+which will be repeated in a few minutes.
+
+250
+00:46:32,053 --> 00:46:41,547
+But for the desire for open air to be a symptom, it must be above a certain level.
+
+251
+00:46:42,677 --> 00:46:44,775
+Otherwise it is not a symptom.
+
+252
+00:46:44,875 --> 00:46:52,780
+So if you listen to a story, yes then we went outside and it was nice to be in the air and I looked at the sea
+
+253
+00:46:52,880 --> 00:47:01,195
+and I made deep respiration... ah, a symptom, respiration, breathing deep, desires to make these deep respirations
+
+254
+00:47:03,904 --> 00:47:10,773
+be careful. It has to be above a certain level before you consider a symptom.
+
+255
+00:47:13,717 --> 00:47:22,880
+A certain level. And it can not be defined, I can not say how much desire for open air you need because it is relative.
+
+256
+00:47:24,555 --> 00:47:36,480
+It is relative to the heat in the room, the external circumstances and it is relative to your way of speaking to me.
+
+257
+00:47:38,656 --> 00:47:44,999
+If you never say anything the whole time and then you say, now I'm going to the open air
+
+258
+00:47:45,099 --> 00:47:52,096
+and desire for my open air, then for your story, for the way you express things
+
+259
+00:47:53,120 --> 00:47:59,115
+it is more a symptom than someone who speaks all the time and says I do this, I have an aversion for this...
+
+260
+00:48:00,139 --> 00:48:02,300
+you have (?) of symptoms, you have to be very careful.
+
+261
+00:48:10,464 --> 00:48:14,268
+So at a certain level what the patient says becomes a homeopathic symptom.
+
+262
+00:48:14,368 --> 00:48:17,184
+It has to be above a certain level.
+
+263
+00:48:17,696 --> 00:48:23,804
+So that is why very often during interrogation of George and anyone who is aware how he should take a case
+
+264
+00:48:27,339 --> 00:48:33,532
+that symptoms (?) to be interesting, he says wait a minute, when did you do it? How often did you do it?
+
+265
+00:48:36,149 --> 00:48:39,612
+And is it very important for you and what happens if you don't go in the open air?
+
+266
+00:48:39,712 --> 00:48:44,028
+And you say, why I need to know all that? It's not in the Repertory.
+
+267
+00:48:44,128 --> 00:48:49,788
+Desire open air one time the day, one time the week, one time an hour? No.
+
+268
+00:48:49,888 --> 00:48:54,396
+It is to know if it is a symptom. That's the first step.
+
+269
+00:48:56,821 --> 00:49:04,401
+So make sure was it only today, here that you had a desire to go in the open air and
+
+270
+00:49:04,501 --> 00:49:10,176
+then at home you are always inside? You have a big garden but you sit inside because in fact you prefer to be in the house.
+
+271
+00:49:11,160 --> 00:49:19,889
+You must be careful to evaluate the intensity in a  way of a symptom.
+
+272
+00:49:19,989 --> 00:49:25,536
+That is the second point.
+
+273
+00:49:30,549 --> 00:49:34,560
+Is it a symptom?
+
+274
+00:49:36,779 --> 00:49:43,697
+Now you have a symptom, you look in the Repertory and then something we touched already in the morning
+
+275
+00:49:45,141 --> 00:49:59,463
+I will write here, you have a nice sub-rubric like, I take a very easy example, headache in the morning.
+
+276
+00:49:59,563 --> 00:50:05,621
+Because that's what the person tells you, I have a headache in the morning.
+
+277
+00:50:06,000 --> 00:50:08,999
+So will you take the sub-rubric or will you take headache?
+
+278
+00:50:09,099 --> 00:50:14,823
+Let's say head pains stitching in the morning. Will you take head pains stitching morning or head pains stitching?
+
+279
+00:50:15,477 --> 00:50:17,703
+Will you take the sub-rubric or the super rubric?
+
+280
+00:50:20,384 --> 00:50:30,972
+You can not say do this or that. But I can tell you first of all it depends upon the congruency.
+
+281
+00:50:31,072 --> 00:50:39,569
+If you take the rubric head pains stitching in the morning, it means that the headache stitching in the morning
+
+282
+00:50:39,669 --> 00:50:43,601
+is in the morning, almost every time.
+
+283
+00:50:43,701 --> 00:50:49,717
+If you go back to your patient, you say is it every time in the morning? And he says yes, yes it's in the morning
+
+284
+00:50:50,272 --> 00:50:56,764
+and also in the evening and when I sit in my car etc.
+
+285
+00:50:56,864 --> 00:51:00,028
+It's not relevant to sub-rubric anymore.
+
+286
+00:51:00,128 --> 00:51:05,739
+So you use the sub-rubric depending on the congruency.
+
+287
+00:51:06,741 --> 00:51:14,257
+The second reason is the size. I don't know by heart how many remedies are in head pain stitching morning
+
+288
+00:51:14,357 --> 00:51:21,632
+but suppose there is only 5 remedies.
+
+289
+00:51:22,229 --> 00:51:27,740
+Then be careful because it may be more interesting to use head pain stitching, if this is really important
+
+290
+00:51:27,840 --> 00:51:32,860
+if it's all the time stitching, than the sub-rubric.
+
+291
+00:51:32,960 --> 00:51:39,829
+Because you have more remedies which cover that bit of information.
+
+292
+00:51:40,725 --> 00:51:43,072
+So decide between the sub and the super rubric.
+
+293
+00:51:43,627 --> 00:51:47,808
+Another reason to decide between the sub and the super rubric is, you work out the case
+
+294
+00:51:48,597 --> 00:51:56,277
+and you find no relevant remedy at all. A way to get other choices is to replace
+
+295
+00:51:57,429 --> 00:52:06,972
+the more detailed symptom with a less detailed symptom.
+
+296
+00:52:07,072 --> 00:52:11,025
+Head pain stitching morning by head pain stitching.
+
+297
+00:52:12,427 --> 00:52:16,629
+Jealousy during menstruation by jealousy.
+
+298
+00:52:49,184 --> 00:53:02,180
+This brings me to my next point that you must be careful in the Repertorisation
+
+299
+00:53:02,280 --> 00:53:08,192
+not to have two similar rubrics.
+
+300
+00:53:09,664 --> 00:53:13,020
+I will give an example.
+
+301
+00:53:13,120 --> 00:53:19,761
+If you would put head pain stitching and head pain stitching in the morning, it is better
+
+302
+00:53:19,861 --> 00:53:25,351
+to make one combined rubric, out of this.
+
+303
+00:53:25,451 --> 00:53:28,587
+So you create a new rubric which contains all remedies.
+
+304
+00:53:29,120 --> 00:53:36,999
+Because what happens otherwise in all the methods of analysis, including the VES in a way
+
+305
+00:53:37,099 --> 00:53:43,399
+the remedies which appear in head pain stitching morning or jealousy during menses
+
+306
+00:53:44,971 --> 00:53:50,380
+probably, for some major part, are repeated in the super rubric.
+
+307
+00:53:50,480 --> 00:53:55,445
+And you emphasize these remedies too much. It's not really expanding.
+
+308
+00:53:56,789 --> 00:54:01,297
+Because the (?) is two arguments. You have an argument for Pulsatilla because of jealousy
+
+309
+00:54:01,397 --> 00:54:05,799
+and an argument for Pulsatilla because of jealousy during menses.
+
+310
+00:54:07,669 --> 00:54:15,463
+So you make a combined rubric which holds all the remedies or the 1,2,3,4 sub-rubrics.
+
+311
+00:54:21,387 --> 00:54:28,860
+One reason so far, the major reason why people find often two Carcinosinum, you know what it is?
+
+312
+00:54:28,960 --> 00:54:37,735
+It is this. And the rubrics they put too often, most of the time are even the same.
+
+313
+00:54:40,587 --> 00:54:51,623
+Are the rubrics of food and Carcinosin is prominent in a few of very interesting food rubrics.
+
+314
+00:54:51,765 --> 00:54:58,549
+So if you put food rubrics, it says what you like to eat. This and this and butter and eggs and meat and fat etc.
+
+315
+00:54:59,381 --> 00:55:05,620
+You put all these and then a few more aversions because it says we must have an equilibrated repertorisation.
+
+316
+00:55:05,720 --> 00:55:11,719
+Not only 5 desires, 2 aversions and 1 aggravation, it is too much talk about food.
+
+317
+00:55:11,819 --> 00:55:17,713
+Now you may like to talk about food but not in the repertorisation.
+
+318
+00:55:17,813 --> 00:55:29,397
+If someone tells you 10, 15 symptoms about food, you must be very careful to select maybe 1 or 2 or 3 but not just put everything.
+
+319
+00:55:31,616 --> 00:55:38,257
+And because people too often put these food rubrics, they get a lot of Carcinosinum.
+
+320
+00:55:38,357 --> 00:55:46,215
+So eliminate or at least combine the desires for egg and meat and cheese and whatever
+
+321
+00:55:46,315 --> 00:55:51,036
+which is protein, maybe in one rubric and the Carcinosinum will go down.
+
+322
+00:55:54,827 --> 00:56:07,249
+-When I take a sub-rubric and combine them with a super rubric together, I have different degrees from the same remedy.
+
+323
+00:56:07,349 --> 00:56:13,607
+Perhaps Sulphur in the morning, stitching pain one degree and super rubric three degrees
+
+324
+00:56:13,707 --> 00:56:17,973
+and I change degree by combining them and I feel the intensity.
+
+325
+00:56:18,827 --> 00:56:29,415
+-What happens with the degree is that the program, it takes the highest degree.
+
+326
+00:56:34,891 --> 00:56:44,796
+So be careful for too many similar rubrics. The point is not to have a lot of rubrics to cover the case but to have the relevant rubrics.
+
+327
+00:56:56,267 --> 00:57:06,592
+-Could you please explain again how to do the combination, it would be with a, b or look for one symptom?
+
+328
+00:57:11,712 --> 00:57:16,540
+-I will show it very quickly because again it's a bit technical.
+
+329
+00:57:16,640 --> 00:57:31,132
+I believe this is different in different programs. I will just choose an example at random.
+
+330
+00:57:33,621 --> 00:57:49,479
+I have two symptoms, so not true combination but anyway. I select the two symptoms and then
+
+331
+00:57:49,579 --> 00:58:05,237
+I add these added qualifications and I create a group which is indicated by a letter, for example A.
+
+332
+00:58:06,027 --> 00:58:11,440
+And at this moment these two symptoms are considered as one symptom A.
+
+333
+00:58:12,171 --> 00:58:18,827
+If you have a problem I prefer to explain to you in the break.
+
+334
+00:58:22,816 --> 00:58:29,131
+How to select the correct symptoms for repertorisation?
+
+335
+00:58:33,824 --> 00:58:38,460
+Yes, another important point. Maybe you have reflected while I was speaking this morning
+
+336
+00:58:38,560 --> 00:58:46,780
+when I told you how Kent was repertorising and maybe many of you are aware, if you use a book, how you are repertorising.
+
+337
+00:58:46,880 --> 00:58:53,749
+And if you are not aware, I will make you aware today.
+
+338
+00:58:54,624 --> 00:59:02,240
+Do you know what you do? You listen to the patient and it tells you one thing after another
+
+339
+00:59:03,243 --> 00:59:22,343
+and then he tells you I'm squandering my money.
+
+340
+00:59:22,443 --> 00:59:31,851
+I say, interesting. Why? Because this is a rubric which has 20 remedies and I like it.
+
+341
+00:59:32,789 --> 00:59:38,407
+Why do I like it? Because then I don't have too much work to compare between the remedies
+
+342
+00:59:38,507 --> 00:59:42,161
+with the 50 remedies of the other rubric.
+
+343
+00:59:42,261 --> 00:59:49,436
+This is what Kent did in the elimination. And the story goes on and you hear everything that he is telling
+
+344
+00:59:49,536 --> 00:59:53,632
+and then he tells, fear of ghosts. Another one.
+
+345
+00:59:54,144 --> 01:00:06,759
+Only 27 remedies, I can manage. And you take out of the story of the patient, not the relevant, let it be exact information
+
+346
+01:00:06,859 --> 01:00:10,507
+but the information you can use to repertorize.
+
+347
+01:00:11,061 --> 01:00:14,304
+And you have not seen that the patient was restless. Maybe you have seen it.
+
+348
+01:00:15,157 --> 01:00:19,253
+But of course what can you do with restlessness, 450 remedies.
+
+349
+01:00:20,192 --> 01:00:31,377
+So you ask him are you restless in the morning? He says, no, no all the time restless. Evening, day time, internal, outer restless.
+
+350
+01:00:31,477 --> 01:00:39,505
+But are you restless when you are sitting down, here like today? No, no, restless sitting down, restless standing up
+
+351
+01:00:39,605 --> 01:00:45,329
+restless walking around. No modality.
+
+352
+01:00:45,429 --> 01:00:52,263
+What do all the working heroes do? You say we remember the restlessness, when we look at the picture
+
+353
+01:00:52,363 --> 01:00:56,181
+but it does not go into the repertorisation.
+
+354
+01:00:56,501 --> 01:01:04,544
+So even when it is the main feature, when it is a big, big feature, the restlessness, you don't use it in the repertorisation with the book.
+
+355
+01:01:05,291 --> 01:01:09,713
+Now with the computer you can reason more correctly.
+
+356
+01:01:09,813 --> 01:01:31,047
+If restlessness or whatever big rubric it is important, you use the big or the small rubric.
+
+357
+01:01:31,147 --> 01:01:37,340
+And you say yes but this contains all the (?) that's why I don't do it this way.
+
+358
+01:01:37,440 --> 01:01:43,477
+Not correct. Just try to escape from hard labor.
+
+359
+01:01:46,912 --> 01:01:54,492
+Because if we look at these famous 450 remedies of restlessness, what do we see?
+
+360
+01:01:54,592 --> 01:02:00,956
+We do see the Anacardium, the Arsenicum, the Belladonna, the Camphora, the Calcarea etc.
+
+361
+01:02:01,056 --> 01:02:09,873
+but we do see between the 450 remedies also Asarum, Asafoetida, Arum Triphyllum etc.
+
+362
+01:02:10,123 --> 01:02:18,300
+So the small remedies are there and if you take this rubric in consideration in your repertorization
+
+363
+01:02:18,400 --> 01:02:29,628
+and there is another symptom of Arum Triphyllum, then the restlessness will help you to see that it is an Arum Triphyllum case.
+
+364
+01:02:34,336 --> 01:02:47,932
+I have done, long ago, repertorisations by hand 20, 30, 40, 50 minutes because I was aware of this play we (?) on ourselves
+
+365
+01:02:48,032 --> 01:02:55,356
+using the interesting rubrics for repertorization and skipping the reality.
+
+366
+01:02:56,288 --> 01:03:02,481
+There is an advantage with the computer repertorizations, we can focus on what the patient really says
+
+367
+01:03:02,581 --> 01:03:05,461
+we don't have to like at the size, in a way.
+
+368
+01:03:06,357 --> 01:03:14,023
+If it is congruent, if it is not too much similar, if we have decided about modality yes or no
+
+369
+01:03:14,123 --> 01:03:19,783
+we can use the appropriate rubric regardless of the size.
+
+370
+01:03:19,883 --> 01:03:24,881
+And it will even help to find a small remedy.
+
+371
+01:03:24,981 --> 01:03:29,873
+Because for many of the small remedies you will read, if you go to the Materia Medica, they don't tell you
+
+372
+01:03:29,973 --> 01:03:35,847
+restlessness better when moving about, restlessness driving out of bed, we don't have all these modalities.
+
+373
+01:03:36,075 --> 01:03:41,244
+So the small remedies are known to be very restless.
+
+374
+01:03:41,344 --> 01:03:47,957
+Restless is one big feature of the remedy. And the other feature is weakness.
+
+375
+01:03:48,683 --> 01:03:53,995
+Weakness in morning, evening, when drinking, eating, sleeping, playing golf, no weakness.
+
+376
+01:03:54,507 --> 01:03:59,569
+It's a combination of weakness, exhaustion and restlessness.
+
+377
+01:03:59,669 --> 01:04:11,979
+What remedy are you thinking of? Arsenicum. Another possibility. Many other possibilities, many (?) will come out.
+
+378
+01:04:12,811 --> 01:04:23,697
+But do you know this combination of restlessness and exhaustion, weakness, this combination is typical also for (?)
+
+379
+01:04:23,797 --> 01:04:33,084
+(?) you will not find, find set modalities of restlessness and weakness but you will find that these two big issues
+
+380
+01:04:33,184 --> 01:04:40,849
+restlessness and nervous exhaustion in combination are typical for (?)
+
+381
+01:04:49,803 --> 01:04:55,115
+But it will show many remedies, it will need one more symptom.
+
+382
+01:04:57,803 --> 01:05:05,568
+I just want to make the case that don't play again on yourself when repertorising.
+

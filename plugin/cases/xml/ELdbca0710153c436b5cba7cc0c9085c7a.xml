@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELdbca0710153c436b5cba7cc0c9085c7a</ID>
+  <patient>
+    <case_date>2015-08-12 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Λ.</patient_initials>
+    <age>24</age>
+    <circumstances>ελεύθερη, φοιτήτρια(μεταπτυχιακό), εργάζεται σαν γραμματέας σε φροντιστήριο (με 6μηνη σύμβαση)</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>συχνές γριππώδεις συνδρομές (από την παιδική ηλικία) και συχνές φλεγμονές. Τελευταία φλεγμονή = μυκητιασική φλεγμονή του μεγάλου δακτύλου του ποδιού άμφω που την ταλαιπωρεί από 6μήνου.</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>&lt; με το κρύο και την υγρασία 3.</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>2-3 φορές το χρόνο παθαίνει ιώσεις ή διάφορες λοιμώξεις με πυρετό&gt;38,5.</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Τώρα είναι σε αποδρομή μυκητιασική φλεγμονή του μεγάλου δακτύλου του ποδιού άμφω 1. Τα νύχια του μεγάλου δακτύλου του ποδιού μπαίνουν στο δέρμα άμφω 2. Κουράζεται εύκολα 1. Δυσκοιλιότητα 2.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>canespro cream και zaonail cream 3 φορές τη βδομάδα για 3 μήνες (είναι στον τελευταίο μήνα αγωγής - για μυκητιασική φλεγμονή του μεγάλου δακτύλου του ποδιού άμφω).</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>1 φορά στο νηπιαγωγείο, 1 φορά στην 3η γυμνασίου και 1 φορά στην 3η λυκείου - δε θυμάται τα φάρμακα. </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα παιδικά εμβόλια που προβλέπονται από το ΕΣΥ. Αντιβιώσεις. Έχει κάνει λέιζερ στα μάτια για μυωπία. Κορτιζόνη (για λοιμώδη μονοπυρήνωση). lamicil pos και cream προ 4μήνου (για μυκητιασική φλεγμονή του μεγάλου δακτύλου του ποδιού άμφω). Εμπύρετο 2 φορές φέτος με θ=39,5 και 38,7.</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>λοιμώδης μονοπυρήνωση.</infections>
+          <other>Συχνές αμυγδαλίτιδες . Ακμή στο λύκειο.</other>
+        </personal>
+        <family>
+          <diseases>πατέρας = Α.Υ. μητέρα = Α.Υ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει 3. Πόδια παγωμένα 3. &lt; με το κρύο και την υγρασία 3. Την πιάνει πονοκέφαλος από την υγρασία 1. &lt; από τα ρεύματα αέρα 2. &lt; όταν ξεσκεπάζεται και όταν δεν είναι καλά ντυμένη 2.</reactions>
+        <sleeping_habits>Κοιμάται μπρούμητα και στο πλάι. Αργεί να την παρει ο ύπνος, στριφογυρνά αρκετή ώρα στο κρεβάτι πριν κοιμηθεί. Κοιμάται με τις κάλτσες.</sleeping_habits>
+        <food_modalities>επιθυμίες = κοτόπουλο 2.  απέχθειες = μπάμιες 2. Δεν πίνει πολύ νερό.</food_modalities>
+        <menstruation>κ.φ. Πριν της έρθει η περίοδος έχει φουσκώματα στην κοιλιά 2.</menstruation>
+      </physical>
+      <mental_emotional>Ντροπαλή 3. Εναλλαγές διάθεσης 2. Ευαίσθητη 2. Εσωστρεφής 3. Όταν στενοχωριέται θέλει παρηγοριά 1. Ακατάστατη 1. Άγχος να εκτεθεί σε κοινό 2. Φόβοι = ενέσεις 3, κλειστοφοβία 2, ύψος 1, σκυλιά 2.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Σχετικά επιβαρυμένο ιστορικό λόγω της μεγάλης χρήσης αντιβιωτικής αγωγής και είναι κλειστή και εσωστρεφής, όμως ο οργανισμός είναι σε θέση να κάνει πυρετό.</personal_medical_history>
+        <family_medical_history>όχι ιδιαίτερα επιβαρυμένο.</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Με τη σωστή ομοιοπαθητική θεραπεία θα βελτιωθεί.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Τα νύχια του μεγάλου δακτύλου του ποδιού μπαίνουν στο δέρμα άμφω 2.&#13;
+Πριν της έρθει η περίοδος έχει φουσκώματα στην κοιλιά 2.&#13;
+Φοβάται τα σκυλιά 2.&#13;
+Φοβάται τα ύψη 1.&#13;
+Φοβάται τις ενέσεις 3.&#13;
+Κλειστοφοβία 2.&#13;
+Άγχος να εκτεθεί σε κοινό 2.&#13;
+Θέλει παρηγοριά 1.&#13;
+Πονοκέφαλος από την υγρασία 2.&#13;
+Απέχθεια στις μπάμιες 2.</peculiar>
+        <intense>Ευαίσθητη 2.&#13;
+Κρυώνει 3.&#13;
+Εναλλαγές διάθεσης 2.&#13;
+Ντροπαλή 3.&#13;
+&lt; με την υγρασία και το κρύο 3.&#13;
+Δεν πίνει πολύ νερό 2.&#13;
+Δυσκοιλιότητα 2.&#13;
+&lt; από τα ρεύματα αέρα 2.&#13;
+Κουράζεται εύκολα 1.&#13;
+Επιθυμεί κοτόπουλο 2.&#13;
+&lt; όταν ξεσκεπάζεται και όταν δεν είναι καλά ντυμένη 2.&#13;
+Κρύα πόδια 3.&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Λ.1.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>δ.δ Sil, Calc-c, Puls, Graph, Lyc, Spig, Arg-n, Med, Sulph. Τα 2 πιο πιθανά φάρμακα είναι η Sil και η Calc-c. Επιλέγω τη Sil γιατί είναι παρόντα πολλα key note του φαρμάκου,όπως επισης και τοπικά συμπτώματα και ακόμη ταιριάζει η ψυχοδιανοητική εικόνα.</remedies_differentiation>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-20 17:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν είχε αρχική επιδείνωση. Είναι λιγότερο ευαίσθητη, έχει λιγότερες εναλλαγές στη διάθεση, είναι λιγότερο ντροπαλή. Κουράζεται λιγότερο και η δυσκοιλιότητα είναι λίγο καλύτερα, της έχει ανοίξει η όρεξη. Η ενέργειά της είναι καλύτερη, ψυχολογικά είναι καλύτερα και ο ύπνος της είναι καλύτερος. Της αρέσουν πιο πολύ τα αυγά 2, το παγωτό 2 και το λίπος 2. Έκανε σχέση στο μεσοδιάστημα.</reaction>
+      <analysis>Δεν μου είναι ξεκάθαρη η αντίδραση,αν και φαίνεται βελτιωμένη γενικά,στα επιμέρους συμπτώματα δεν είναι ξεκάθαρη η βελτίωση.</analysis>
+      <conclusion>Θα περιμένω και θα δώσω placebo.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Λ.2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-10-30 17:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Είχε πολλά νεύρα αυτή την περίοδο 2. &gt; στον ανοιχτό αέρα 2. Φοβάται λιγότερο τις ενέσεις. Η διάθεση της ήταν σταθερή. Δεν ξαναεμφανίστηκε φλεγμονή στο μεγάλο δάχτυλο του ποδιού.</reaction>
+      <analysis>Υπάρχει η πιθανότητα τα νεύρα να είναι μια καθυστερημένη αντίδραση στο φάρμακο.</analysis>
+      <conclusion>Πιστεύω οτι σύντομα θα εμφανίσει μια εικόνα πιο καθαρή, πιθανώς να χρειαστεί καινούριο φάρμακο. Θα περιμένω και θα δώσω placebo. </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Λ.3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

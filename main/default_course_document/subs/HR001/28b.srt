@@ -1,0 +1,1163 @@
+1
+00:00:57,870 --> 00:01:02,620
+Zna li tko za teoriju o visokim potencijama?
+
+2
+00:01:03,970 --> 00:01:12,870
+Grupa nas u Grčkoj s malim grozdovima, znate li za to?
+
+3
+00:01:12,970 --> 00:01:15,370
+-Ne.
+
+4
+00:01:15,470 --> 00:01:32,000
+-Tko zna? Pročitali ste naš rad?
+grozdovi molekula razrjeđeni u vodi.
+
+5
+00:01:32,100 --> 00:01:36,610
+-To je hipoteza koju smo iznijeli.
+
+6
+00:01:58,680 --> 00:02:15,600
+-...200K ili C, ista stvar, razika je u pripremanju
+
+7
+00:02:15,700 --> 00:02:23,240
+ali je 200 puta razrjeđeno i sukusirano oboje.
+
+8
+00:02:25,000 --> 00:02:32,390
+Postoji vrsta dezinformacije koja kruži o C potencijama,
+
+9
+00:02:32,490 --> 00:02:39,390
+da su Hahnemanove potencije su jače od Korsakovljevih.
+
+10
+00:02:39,490 --> 00:02:41,740
+To nije istina.
+
+11
+00:02:42,990 --> 00:02:50,640
+Ako pripremate tako da uzmete jednu kap iz prve otopine
+
+12
+00:02:50,740 --> 00:02:57,680
+i stavite tu kap u drugu bočicu sa 100 i onda razrjedite i sukusirate,
+
+13
+00:02:57,780 --> 00:03:03,240
+to je Hahnemannska metoda ili C.
+
+14
+00:03:03,340 --> 00:03:13,070
+Ako ispraznite bočicu i napunite je, istu bočicu sa 100 kapi,
+
+15
+00:03:13,170 --> 00:03:26,070
+ono što je ostalo na stijenkama bočice je jedan dio tako da opet imate 1 dio u 99
+
+16
+00:03:26,170 --> 00:03:28,310
+i onda sukusirate.
+
+17
+00:03:28,410 --> 00:03:35,820
+U oba slučaja, imate jedan dio u 99 i onda sukusirate i onda opet 1 u 99
+
+18
+00:03:35,920 --> 00:03:45,920
+i sukusirate, tako da bi efekt obje metode trebao biti isti ako su dobro sukusirani.
+
+19
+00:03:46,920 --> 00:03:48,660
+Nema razlike.
+
+20
+00:03:50,170 --> 00:03:58,310
+Razlika je u tom što kad pripremate tom metodom, trebate 200 bočica
+
+21
+00:03:58,410 --> 00:04:13,910
+i trebate puno više otopine, što god da pripremate.
+
+22
+00:04:14,670 --> 00:04:20,390
+Možda je to skuplja metoda. Problem je to što
+
+23
+00:04:22,500 --> 00:04:33,310
+ako kažu da je to 1000 puta hahnemanskog načina, jesu li to zbilja napravili?
+
+24
+00:04:33,410 --> 00:04:45,150
+Zato jer to znači da kad 1000 puta netko uzme bočicu, uzme jednu kap, uzme drugu bočicu,
+
+25
+00:04:45,250 --> 00:04:48,730
+napuni, stavi tu kap i sukusira.
+
+26
+00:04:48,830 --> 00:04:54,580
+Uzme jednu kap ponovno. To nije automatski,
+
+27
+00:04:55,340 --> 00:04:59,830
+Dok kod druge metode, pražnjenja i punjena, to je automatski.
+
+28
+00:05:02,340 --> 00:05:08,480
+Tu imamo problem, kad kažu da je to 10000, jesu li zbilja napravili 10000?
+
+29
+00:05:08,580 --> 00:05:13,560
+Je li to zbilja 10000 hahnemanskog načina?
+
+30
+00:05:13,660 --> 00:05:18,410
+Teško da vjerujem u to.
+
+31
+00:05:30,160 --> 00:05:36,900
+Kako biste koristili istu bočicu, morate proći kroz jako visoke temperature da biste uništili
+
+32
+00:05:37,000 --> 00:05:43,000
+i nastavili, itd. To je dugačak proces koji postaje sve skuplji.
+
+33
+00:05:44,660 --> 00:05:50,080
+Ali neke farmaceutske kompanije kako bi kompenzirale za to,
+
+34
+00:05:50,180 --> 00:06:01,170
+kažu da je Hahnemanova potencija, recimo, 12 potencija je jednaka 200 Korsakovljevoj.
+
+35
+00:06:05,160 --> 00:06:07,670
+U Kanadi ne kažete takvo što.
+
+36
+00:06:10,660 --> 00:06:21,900
+Kad su male nakupine formirane takvim procesom,
+
+37
+00:06:22,000 --> 00:06:31,960
+nakupine molekula originalne supstance u vodi i oko njih
+
+38
+00:06:32,060 --> 00:06:41,740
+su molekule vode koje obavijaju te nakupine.
+
+39
+00:06:41,840 --> 00:06:48,210
+Što idete više i više, ono što ostaje su klatrati,
+
+40
+00:06:48,310 --> 00:06:58,460
+ostaje neka vrsta oblika stanice originalnih nakupina.
+
+41
+00:06:58,560 --> 00:07:10,810
+Te nakupine, kako se formiraju fizički, često se zalijepe za stijenke bočice.
+
+42
+00:07:11,560 --> 00:07:18,700
+Zato je Korsakovljeva metoda ta u kojoj se uzima originalna supstanca sa stijenki
+
+43
+00:07:18,800 --> 00:07:25,200
+- jer ako ispraznite bočicu i nagnete je, ono što ostaje je
+
+44
+00:07:25,300 --> 00:07:35,700
+ono što se zalijepilo za stijenke - to su otopine koje sadrže najviše tih nakupina molekula.
+
+45
+00:07:35,800 --> 00:07:42,960
+Tako da ako uzmete iz sredine, možda nećete dobiti te nakupine molekula ponekad
+
+46
+00:07:43,060 --> 00:07:47,460
+dok ih na stijenkama definitivno ima.
+
+47
+00:07:47,560 --> 00:07:56,810
+Korsakovljeva metoda je pouzdanije od Hahnemannove.
+
+48
+00:07:59,300 --> 00:08:05,380
+I kao što znate, imam veliki problem često
+
+49
+00:08:06,980 --> 00:08:10,130
+jer lijek nije potentiziran za stvarno.
+
+50
+00:08:10,230 --> 00:08:13,310
+Rekli bi mi da se radi o 1M, i ništa.
+
+51
+00:08:14,060 --> 00:08:19,470
+Zato sam i predložio različitim farmaceutskim kompanijma
+
+52
+00:08:19,570 --> 00:08:26,880
+da pripravljaju lijekove, kad bih im ja davao upute kako to napraviti,
+
+53
+00:08:26,980 --> 00:08:33,950
+na način da bi to bio automatski stroj.
+
+54
+00:08:34,050 --> 00:08:40,120
+Stroj koji bi suplicirao originalan način priprmanja lijeka,
+
+55
+00:08:40,220 --> 00:08:54,370
+a to je udaranje, tako se priprema. Tako je homeopatija i počela.
+
+56
+00:08:54,470 --> 00:09:01,380
+različite kompanije su imale različite načine, kao staviti i vibrirati, ubaciti vodu
+
+57
+00:09:01,480 --> 00:09:04,050
+i druge ideje koje su dolazile.
+
+58
+00:09:04,150 --> 00:09:10,790
+Rekao sam zaboravite to sve, želim originalan način, želim originalne elektronske strojeve
+
+59
+00:09:10,890 --> 00:09:15,290
+koji neće ometati nimalo, ljudsko biće neće smetati.
+
+60
+00:09:15,390 --> 00:09:21,790
+Možete promijeniti i reći, želim da ove potencije budu odabrane
+
+61
+00:09:21,890 --> 00:09:29,830
+i stroj će automatski napuniti, protresti i čuvati istovremeno,
+
+62
+00:09:29,930 --> 00:09:38,900
+čuvatii 12 potenciju, 30 potenciju i raditi automatski cijeli dan i noć.
+
+63
+00:09:39,650 --> 00:09:45,320
+Tako sam siguran kad dajem 1M potenciju da je to zaista 1M potencija,
+
+64
+00:09:45,420 --> 00:09:51,640
+da nije 12 ili 20 umjesto 200.
+
+65
+00:09:52,390 --> 00:10:05,790
+Bilo je par farmaceutskih kompanija koje su bile zainteresirane i kad su to čule,
+
+66
+00:10:05,890 --> 00:10:12,710
+smtarali su to jako skupim, koliko bi lijekova uspjeli prodati i na kraju nisu bili zainteresirani.
+
+67
+00:10:12,810 --> 00:10:21,220
+Jedna tvrtka u Italiji koja je radila strojeve za dijalizu za bubrege
+
+68
+00:10:21,320 --> 00:10:25,710
+se zainteresirala. Rekli su da žele raditi homeopatiju, što vi želite?
+
+69
+00:10:25,810 --> 00:10:32,460
+Ja želim tim ovakvih ljudi, inženjere strojarstva, itd. i reći ću im točno
+
+70
+00:10:32,560 --> 00:10:35,790
+kakav stroj želim i što sam zamislio.
+
+71
+00:10:35,890 --> 00:10:46,400
+Želim original i dao sam im snagu kojom treba udarati i brzinu.
+
+72
+00:10:47,400 --> 00:10:53,460
+Original je drugačiji, ne mogu zamisliti da na taj način radi, kao strojevi koje oni imaju.
+
+73
+00:10:53,560 --> 00:11:02,700
+Treba vremena i mora stajati vodoravno i onda udarati i udarati.
+
+74
+00:11:02,800 --> 00:11:11,630
+Drkčije je, jer ti klatrati, te nakupine koje molekule stvaraju, moraju se izravnati.
+
+75
+00:11:11,730 --> 00:11:16,810
+Inače postaje kao mahnitost u vodi.
+
+76
+00:11:19,810 --> 00:11:30,210
+U svakom slučaju, moja ideje proizvodnje originala je došla iz čiste logike
+
+77
+00:11:30,310 --> 00:11:37,630
+da su originalni lijekovi bili proizvedeni rukom, dovedeni do i manifestirani u homeopatiji.
+
+78
+00:11:37,730 --> 00:11:44,730
+To je način na koji se lijekovi trebaju nastaviti raditi.
+
+79
+00:11:45,640 --> 00:11:57,870
+Ta tvrtka, ta talijanska tvrtka, proizvodi trenutno takvu vrstu potencija.
+
+80
+00:11:57,970 --> 00:12:01,230
+Korsakovljeva metoda.
+
+81
+00:12:01,810 --> 00:12:06,390
+-Kako se zove tvrtka?
+-Zove se SIFFRA.
+
+82
+00:12:09,640 --> 00:12:18,300
+I sad kad želim dati 10M ili 50M potenciju, znam da je to 50M potencija
+
+83
+00:12:18,400 --> 00:12:25,800
+i ako ne djeluje, znam da je to moja krivica a ne činjenica
+
+84
+00:12:25,900 --> 00:12:29,140
+da nema lijeka unutra.
+
+85
+00:12:30,650 --> 00:12:36,550
+To je druga stvar kojom sam doprinjeo homeopatiji kako bi osigurao ideju,
+
+86
+00:12:36,650 --> 00:12:42,890
+jer ovisimo u potpunosti o integritetu farmacije.
+
+87
+00:12:43,650 --> 00:12:47,050
+Čuli ste za slučaj mandragore, ono što je ona rekla.
+
+88
+00:12:47,150 --> 00:12:50,300
+Zato jer je osjetljiva razumije, uzela je lijek
+
+89
+00:12:50,400 --> 00:12:53,220
+i nije bilo ničega u njemu.
+
+90
+00:12:57,980 --> 00:13:04,630
+Bill Gray je ovdje i možda će se on sjetiti incidenta u Berkeleyu.
+
+91
+00:13:04,730 --> 00:13:11,870
+Baker, jedan naturopatski liječnik je sjedio tamo i vidio sam ga kako kolabira.
+
+92
+00:13:11,970 --> 00:13:12,870
+I pitao sam što se događa?
+
+93
+00:13:12,970 --> 00:13:19,620
+Znojio se, rekao je, imam proljev, povraćam, ne osjećam se dobro.
+
+94
+00:13:19,720 --> 00:13:31,370
+Odveli smo ga gore u jednu sobu hotela i koji smo mu lijek propisali?
+
+95
+00:13:31,470 --> 00:13:36,160
+Propisao sam mu Carbo Vegetabilis. Ostavio sam ga gore,
+
+96
+00:13:36,260 --> 00:13:42,960
+i otišao dolje nastaviti predavanje i nakon 1 sat otišao sam provjeriti kako je.
+
+97
+00:13:43,060 --> 00:13:59,560
+Nakon sat vremena, situacija je bila ista. Rekao je, mislimda nisam Carbo Vegetabilis.
+
+98
+00:14:00,060 --> 00:14:03,950
+Mislim da trebam Arsenicum. Zašto?
+
+99
+00:14:04,050 --> 00:14:11,960
+Zato jer imam strah, strah od smrti, bio je potpuno izmoren.
+
+100
+00:14:12,060 --> 00:14:18,900
+I dao sam mu jednu dozu Carbo Vegetabilisa 1M.
+
+101
+00:14:20,640 --> 00:14:26,460
+Ali ja kad dajem lijek, znam zašto ga dajem i kad vidim simptome,
+
+102
+00:14:26,560 --> 00:14:31,960
+simptomi su Carbo Vegetabilisa. Rekao sam, mora da nešto ne valja s lijekom,
+
+103
+00:14:32,060 --> 00:14:33,960
+lijek nije bio ispravan.
+
+104
+00:14:34,060 --> 00:14:37,210
+Otišao sam dolje i pitao ima li netko Carbo Vegetabilis 200?
+
+105
+00:14:37,310 --> 00:14:50,040
+Da, jedan student je imao, i onda sam mu ga otišao dati. U manje od jedne minute, čovjek je rekao
+
+106
+00:14:50,140 --> 00:14:53,140
+da se osjeća bolje.
+
+107
+00:14:53,890 --> 00:15:00,790
+Za sat vremena, vraćao se nazad otkud je putovao
+
+108
+00:15:00,890 --> 00:15:03,730
+simo tamo da bi došao na seminar.
+
+109
+00:15:06,230 --> 00:15:11,230
+Što je 1M sadržavao? Ništa, čistu vodu.
+
+110
+00:15:14,730 --> 00:15:19,300
+Bio je još jedan slučaj, Bill se možda još sjeća.
+
+111
+00:15:23,310 --> 00:15:34,210
+Phosphorus 50M. Mjesec dana kasnije došlo je izvješće Nancy Herring.
+
+112
+00:15:34,310 --> 00:15:40,460
+Izvješće kaže da je malo bolje, ništa zbilja...
+
+113
+00:15:40,560 --> 00:15:47,060
+Pitao sam razred, što ne valjda? Lijek ne valja.
+
+114
+00:15:50,310 --> 00:15:59,960
+Kažem, ovaj lijek, Phosphorus 50M je djelovao kao da je bila jedna doza 12, koliko ja razumijem.
+
+115
+00:16:00,060 --> 00:16:11,310
+Rekao sam, lijek ne valja, dajte joj dozu 200 iz druge ljekarne, i prekrasna reakcija.
+
+116
+00:16:16,230 --> 00:16:20,380
+Slučaj Paris Quadrifolije u Londonu kad sam predavao,
+
+117
+00:16:20,480 --> 00:16:23,230
+to su javni slučajevi o kojima pričam.
+
+118
+00:16:23,730 --> 00:16:29,380
+Dođem 3 mjeseca kasnije, predavati opet i taj slučaj bude prezentiran, i ništa.
+
+119
+00:16:29,480 --> 00:16:34,130
+Isto. Odem do razreda i kažem lijek na valja.
+
+120
+00:16:34,230 --> 00:16:39,130
+Da li da probamo naći drugi lijek? Ne, odite u 3 druge ljekarne,
+
+121
+00:16:39,230 --> 00:16:45,880
+nađite ponovno Paris Quadrifoliju 30 iz 3 druge ljekarne, kako biste bili sigurni i dajte joj.
+
+122
+00:16:45,980 --> 00:16:48,980
+3 mjeseca poslije bila je izlječena.
+
+123
+00:16:49,980 --> 00:17:01,130
+Sve to i puno drugih iskustava u Ateni gdje je lijek bio otvaran i zatvaran.
+
+124
+00:17:01,230 --> 00:17:05,630
+Ljekarna dobiju bočicu i iz te bočice daje različitim pacijentima.
+
+125
+00:17:05,730 --> 00:17:12,710
+Ponekad je bočica uništena, ili zbog nekih mirisa ili čega god
+
+126
+00:17:12,810 --> 00:17:21,060
+i da dozu iz te bočice i lijek ne djeluje.
+
+127
+00:17:22,820 --> 00:17:28,210
+Onda liječnik, kad pacijent dođe, liječnik misli -
+
+128
+00:17:28,310 --> 00:17:33,220
+pogotovo ako nije jako siguran u lijek - lijek ne djeluje,
+
+129
+00:17:33,320 --> 00:17:36,970
+Dam drugi lijek i drugi lijek i drugi lijek.
+
+130
+00:17:37,070 --> 00:17:45,970
+Sjećam se još jednog slučaja iz Berkeleya. Uzeo sam slučaj, osoba je uzela 150 lijekova.
+
+131
+00:17:46,070 --> 00:17:53,560
+150 lijekova u 7 godina!
+
+132
+00:17:55,320 --> 00:18:05,220
+Rekao sam, što da radim? Čitao sam i čitao te lijekove i uzeo slučaj
+
+133
+00:18:05,320 --> 00:18:09,710
+i rekao lijek kojeg vidim je jako jasan, ali nije ovdje.
+
+134
+00:18:09,810 --> 00:18:17,970
+Dao je 150 lijekova i u 150 pokušaja nije pogodio pravi lijek,
+
+135
+00:18:18,070 --> 00:18:23,710
+to je nevjerojatno, liječnik je bio tamo i nisam znao što reći,
+
+136
+00:18:23,810 --> 00:18:26,730
+bio je to jasan slučaj Gelsemiuma.
+
+137
+00:18:26,980 --> 00:18:30,220
+Rekao sam, to je jasan slučaj Gelsemiuma.
+
+138
+00:18:30,320 --> 00:18:37,230
+Ah, kaže, Gelsemium je prvi lijek koji sam dao. Prije 7 godina.
+
+139
+00:18:38,980 --> 00:18:43,400
+Nije ga napisao jer je napisao samo zadnje lijekove.
+
+140
+00:18:47,650 --> 00:18:51,050
+Rekao je da je to bio prvi lijek, iz koje ljekarne? Iz ove ljekarne.
+
+141
+00:18:53,480 --> 00:18:59,230
+dajte Gelsemium iz 3 druge ljekarne, i djelovat će.
+
+142
+00:19:00,480 --> 00:19:08,130
+Sve me to navelo da vjerujem da nešto ne valja s ljekarnama,
+
+143
+00:19:08,230 --> 00:19:12,560
+moramo imati pouzdane lijekove.
+
+144
+00:19:13,060 --> 00:19:20,730
+Kad kažem u ovom slučaju da nisam siguran oko lijeka, kažem Psorinum i ne djeluje,
+
+145
+00:19:20,830 --> 00:19:26,830
+odmah će ići na Silicu, ali ako lijek nije pouzdan, što se događa?
+
+146
+00:19:26,930 --> 00:19:34,570
+Jer nisam siguran. U slučaju Lachesisa sam siguran, u slučaju Sulphura sam siguran,
+
+147
+00:19:34,670 --> 00:19:37,320
+u ovom slučaju nisam siguran.
+
+148
+00:19:37,420 --> 00:19:44,240
+Odmah ću skočiti na drugi lijek i ako lijek nije pravi izgubit ću cijelu stvar.
+
+149
+00:19:44,340 --> 00:19:50,990
+Razumijete li koliko je važno da možemo vjerovati lijeku?
+
+150
+00:19:51,090 --> 00:19:56,250
+I kad kažemo 200 da je to zaista 200 i kad kažemo 1M da je to 1M.
+
+151
+00:19:56,350 --> 00:20:03,990
+Zato sam ih pitao i oni pripremaju na taj način, dupliciraju rukom rađene potencije,
+
+152
+00:20:04,090 --> 00:20:08,740
+na elektronski način a da ruka ne ometa cijelu stvar.
+
+153
+00:20:08,840 --> 00:20:18,600
+Znate koliko je teško za nekog sjediti i brojati 200 puta.
+
+154
+00:20:20,670 --> 00:20:25,170
+Naručili smo 200, a bilo je samo 20 puta, zašto?
+
+155
+00:20:25,270 --> 00:20:33,400
+Zato što je između 20 i 180 kojih je falilo, čovjek je otišao provjeriti svoje dijete
+
+156
+00:20:33,500 --> 00:20:37,500
+koje je bolesno, to je bilo u Italiji.
+
+157
+00:20:37,960 --> 00:20:44,660
+Čovjek koji je bio odgovoran, nakon ispitivanja, i nakon inzistiranja, saznali smo
+
+158
+00:20:44,760 --> 00:20:52,660
+da je otišao i u ono vrijeme kad je trebao napraviti 200, bio je kod kuće,
+
+159
+00:20:52,760 --> 00:21:01,970
+brinuo se za dijete koje je bilo bolesno. Ali to je ono što se događa kad se oslonite na čovjeka.
+
+160
+00:21:04,680 --> 00:21:13,430
+Zato sada kađem 200, 1M i 10M. Možda će biti jedna od tih 3.
+
+161
+00:21:14,430 --> 00:21:22,180
+Ima više šanse da pogodim jer vidio sam da ste se malo pogoršali.
+
+162
+00:21:22,920 --> 00:21:26,420
+Ali nažalost to je moje iskustvo.
+
+163
+00:21:31,680 --> 00:21:39,670
+U jednom danu ujutro, u podne i navečer. U jednom danu sva 3 različita, da.
+
+164
+00:21:41,430 --> 00:21:45,570
+-Da li su, u vašem iskustvu, homeopatski lijekovi osjetljivi na magnetska polja,
+
+165
+00:21:45,670 --> 00:21:52,010
+jaka polja?
+-Ne, nisu.
+
+166
+00:21:53,260 --> 00:22:03,160
+Osjetljivi su na vrućinu i to je sigurno.
+
+167
+00:22:03,260 --> 00:22:13,010
+Ako ih izložite suncu, da se zagriju na više od 40-50 stupnjeva, možete imati problem.
+
+168
+00:22:15,760 --> 00:22:27,660
+-Pročitao sam knjigu liječnika (ime liječnika) doktorski rad i iznio je iskustva s razrjeđivanjem.
+
+169
+00:22:27,760 --> 00:22:33,660
+I rekao je da se čini da lijekovi imaju sinusoidan efekt, različita razrjeđivanja, znači
+
+170
+00:22:33,760 --> 00:22:38,910
+da će neka razrjeđivanja imati pozitivan efekt, a da drugo razrjeđivanje
+
+171
+00:22:39,010 --> 00:22:46,170
+će imati suprotan ili nikakav efekt, kontrola razrjeđivanja, na neki način.
+
+172
+00:22:46,270 --> 00:22:51,010
+-To je rad Benveniste.
+
+173
+00:22:51,760 --> 00:23:01,410
+-Iznosio je puno radova o razrjeđivanju, kontrolnih razrjeđivanja i izvjestio je
+
+174
+00:23:01,510 --> 00:23:09,750
+da što god da su pokušali, postoji sinusoidnog efekta s nekim razrjeđivanjima...
+
+175
+00:23:09,850 --> 00:23:19,660
+-Možda je to bilo prije Beneviste. Beneviste je napravio eksperiment. Znate to?
+
+176
+00:23:19,760 --> 00:23:25,920
+Taj eksperiment je imao neke probleme i napravili smo kontra efekt za homeopatiju
+
+177
+00:23:26,020 --> 00:23:33,990
+i on je iznio ideju da je jedno razrjeđenje aktivno, a drugo nije.
+
+178
+00:23:34,090 --> 00:23:37,490
+Ne prihvaćam to, ne.
+
+179
+00:23:37,590 --> 00:23:43,740
+-Možete li opisati što tražite u ovom stadiju dana koji dolazi?
+
+180
+00:23:43,840 --> 00:23:49,600
+Različitih potencija? Je li moguće opisati promjene koje tražite?
+
+181
+00:23:50,850 --> 00:24:01,330
+-U ovom slučaju? Zašto sam dao 3 potencije?
+
+182
+00:24:01,430 --> 00:24:07,170
+-I što točno tražite tijekom dana?
+
+183
+00:24:09,670 --> 00:24:17,160
+-Ne tražim ništa specifično ni za što. Pokušavam stvoriti reakciju od lijeka.
+
+184
+00:24:17,260 --> 00:24:26,990
+Da sam jako siguran da je lijek zbilja potentiziran 10000 puta
+
+185
+00:24:27,090 --> 00:24:32,000
+rekao bih da uzme jednu dozu Psorinuma 10000.
+
+186
+00:24:32,100 --> 00:24:38,000
+Ali s obzirom na to da nisam siguran u to, dao sam 3 mogućnosti, jedan 200,
+
+187
+00:24:38,100 --> 00:24:45,750
+mogućnost da je potentiziran lijek 1M i 10M druga mogućnost.
+
+188
+00:24:45,850 --> 00:24:51,000
+Da su sve 3 potentizirane,
+
+189
+00:24:51,100 --> 00:24:57,440
+onda ćemo vjerojatno imati veću reakciju od normalne.
+
+190
+00:24:57,930 --> 00:25:05,830
+Neki ljudi tvrde, kao Marjorie Blackie iz Engleske, prije je davala takvu shemu,
+
+191
+00:25:05,930 --> 00:25:10,830
+davali bi 3 potencije i tvrdila je
+
+192
+00:25:10,930 --> 00:25:22,330
+da na taj način minimizira reakciju pacijenta, pogoršanje.
+
+193
+00:25:22,430 --> 00:25:25,060
+Nisam suguran u to.
+
+194
+00:25:36,010 --> 00:25:39,910
+-Samo sam htio pitati ako imate kakvo iskustvo s LM potencijama,
+
+195
+00:25:40,010 --> 00:25:42,910
+da li ih preporučate?
+
+196
+00:25:43,010 --> 00:25:46,410
+-Nemam puno iskustva s njima.
+
+197
+00:25:46,510 --> 00:25:51,910
+Preporučio bih ih ponekad kad su ljudi hipersenzitivni
+
+198
+00:25:52,010 --> 00:25:59,410
+i kad želim dati jako nisku potenciju kako bi došlo do jako malog pogoršanja,
+
+199
+00:26:01,760 --> 00:26:06,160
+Okrećem se LM potencijama kad nemam drugog izbora. Probao sam to jako malo puta.
+
+200
+00:26:06,260 --> 00:26:19,730
+Jednom sam to učinio, moje iskustvo je bilo u Italiji s djetetom koje je imalo epidermolysis bullosu.
+
+201
+00:26:20,730 --> 00:26:28,630
+Za one koji znaju malo o dermatologiji, znaju da je to fatalna bolest kod djece,
+
+202
+00:26:28,730 --> 00:26:36,880
+kad se koža ne formira, apsorpcija minerala se ne dogodi
+
+203
+00:26:36,980 --> 00:26:41,130
+i nema kože zapravo, čim taknete kožu, ona se otvori,
+
+204
+00:26:41,230 --> 00:26:47,370
+napravi se rana i i onda je dijete puno zavoja
+
+205
+00:26:47,470 --> 00:26:53,730
+i žive 3,4,5 godina, najviše 7 i onda umru.
+
+206
+00:26:53,970 --> 00:27:04,210
+Dijete je imalo godinu i pol, bio je jako osjetljiv, njegov lijek je nio Phosphorus
+
+207
+00:27:04,310 --> 00:27:11,470
+i rekao sam dajte mu 3 doze Phosphorusa LM.
+
+208
+00:27:11,570 --> 00:27:17,300
+S prvom potencijom koju su dali, reakcija je bila ogromna
+
+209
+00:27:17,400 --> 00:27:22,880
+i cijela su prsa postala rana, otvorena.
+
+210
+00:27:22,980 --> 00:27:30,310
+To je definitivno bilo jako loše pogoršanje, s jednom dozom LM.
+
+211
+00:27:33,310 --> 00:27:38,470
+I nakon tog, došlo je do pogoršanja i onda je bilo ponavljanje,
+
+212
+00:27:38,570 --> 00:27:42,390
+opet pogoršanje i poboljšanje.
+
+213
+00:27:42,490 --> 00:27:48,390
+To iskustvo imam s LM potencijama i u nekim drugim slučajevima
+
+214
+00:27:48,490 --> 00:27:53,970
+gdje je bilo predloženo kod jako osjetljivih, nisam vidio takvu reakciju,
+
+215
+00:27:54,070 --> 00:27:56,070
+Referiram se na vas.
+
+216
+00:28:02,070 --> 00:28:05,300
+-To dijete koje ste vidjeli u Italiji je bilo izlječeno?
+
+217
+00:28:05,400 --> 00:28:21,050
+-Dječak je još živ, ima 5 godina, još je živ, koža mu nije savršena,
+
+218
+00:28:21,150 --> 00:28:36,630
+ali je puno puno bolje, i vjerujem ako nastave s tretmanom da će biti spašen.
+
+219
+00:28:36,730 --> 00:28:39,630
+-I još je uvijekPhosphorus.
+
+220
+00:28:39,730 --> 00:28:45,730
+-Nakon nekog vremena otišao je u Calcarea carbonica stanje. Nakon dvije godine mislim, propisao sam Calc. carb.
+
+221
+00:28:46,490 --> 00:28:51,140
+-Slučaj koji smo vidjeli, za koji ste propisali Psorinum,
+
+222
+00:28:51,240 --> 00:28:57,640
+brinete li se oko davanja 10M zbog kožnih problema koji bi se mogli vratiti jako jako?
+
+223
+00:28:57,740 --> 00:28:59,630
+-Ne shvaćam?
+
+224
+00:28:59,730 --> 00:29:04,880
+-Jeste li zabrinuti zbog davanja 10M da se ne bi dogodilo jako ozbiljno pogoršanje na koži
+
+225
+00:29:04,980 --> 00:29:07,640
+da se kožni simptomi ne vrate jako intenzivno?
+
+226
+00:29:07,740 --> 00:29:21,480
+-Ne, ne. Htio bih da se vrate i da budu jaki. Nemam problema s njom.
+
+227
+00:29:31,230 --> 00:29:36,140
+-Ako se više potencije čine manje vjerojatnim da budu ono što kažu u bočici
+
+228
+00:29:36,240 --> 00:29:40,160
+zašto daju 3 različite doze 200 potencije iz 3 različite ljekarne?
+
+229
+00:29:40,650 --> 00:29:48,800
+-Jer ako je bočica uništena i vi date 3 doze, nema veze, ona je i dalje uništena.
+
+230
+00:29:48,900 --> 00:29:50,380
+-Ali iz 3 različite bočice.
+
+231
+00:29:50,480 --> 00:29:52,390
+-Iz 3 različite ljekarne?
+
+232
+00:29:52,490 --> 00:29:57,890
+To je druga ideja, što sam i napravio nekoliko puta
+
+233
+00:29:57,990 --> 00:30:07,500
+ali je teže za osobu da ide tražiti 3 različite ljekarne.
+
+234
+00:30:14,740 --> 00:30:21,940
+-Mislite li da bismo trebali dati 3 doze svakog lijeka koje dajemo svakome?
+
+235
+00:30:23,440 --> 00:30:29,340
+-Ako nema problema s pacijentom, ako nema problema s pogoršanjem,
+
+236
+00:30:29,440 --> 00:30:37,800
+da, možete to napraviti, ako vas nije strah duboke patologije i ako se ne radi o staroj osobi
+
+237
+00:30:37,900 --> 00:30:43,900
+i ako nisu zadnji stadiji bolesti, možete to učiniti.
+
+238
+00:30:49,410 --> 00:30:54,400
+-Koje je vaš stav o toj opremi koja priprema lijekove?
+
+239
+00:30:55,190 --> 00:31:05,810
+-Kao radionički strojevi? Žao mi je, ali ne slažem se s tim. Zašto se ne slažem?
+
+240
+00:31:05,910 --> 00:31:13,560
+Zato jer sam izvidio, imam neke ljude koji su imali stroj
+
+241
+00:31:13,660 --> 00:31:19,300
+i pokušali su me nagovoriti da je savršen- Rekao sam, ne vjerujem tome.
+
+242
+00:31:20,910 --> 00:31:25,630
+Ta me osoba zvala da uzmem njen slučaj i bio je prilično ozbiljno bolestan,
+
+243
+00:31:25,730 --> 00:31:33,630
+uzeo sam njegov slučaj i rekao, ok, sad pripremi lijek sa svojim strojem
+
+244
+00:31:33,730 --> 00:31:46,640
+i uzmi ga pa ćemo vidjeti nakon tjedan ili 10 dana što će se dogoditi. Rekao je ahh...
+
+245
+00:31:46,740 --> 00:31:52,380
+Rekao sam, ne, ako vi vjerujete i pokušali ste me nagovarati 45 min
+
+246
+00:31:52,480 --> 00:31:56,890
+da je to dobar stroj, onda pokušajte na sebi.
+
+247
+00:31:56,990 --> 00:32:03,510
+reći ću vam koji je lijek, vi ga pripremite, uzmite i vidite što će se dogoditi.
+
+248
+00:32:07,760 --> 00:32:17,480
+Učinit ćete to na ovaj način i morao je to učiniti i došao je nakon tjedan dana, osjećam se isto.
+
+249
+00:32:17,580 --> 00:32:23,070
+Osjećate se isto, ali moramo čekati još tjedan dana da budemo sigurni.
+
+250
+00:32:26,330 --> 00:32:34,230
+Rekao sam, vi ste znanstvenik, bio je fizičar i htio je znati da li djeluje,
+
+251
+00:32:34,330 --> 00:32:39,410
+pokušavali ste me nagovoriti da postoje magnetna polja i bla bla i sve to.
+
+252
+00:32:39,510 --> 00:32:45,730
+Sada isprobajte na sebi i natjerao sam ga da pati, naravno.
+
+253
+00:32:50,510 --> 00:32:53,980
+I bilo je još eksperimenata koje sam napravio.
+
+254
+00:32:54,080 --> 00:33:04,600
+Ako netko tvrdi da je to to. ja kažem ok, bilo bi u redu da napravimo pravi test.
+
+255
+00:33:04,680 --> 00:33:10,300
+Ako vjerujete u svoj stroj, napravit ćemo pravi test i ja ću vam reći kakav test
+
+256
+00:33:10,400 --> 00:33:16,490
+i ako ga prođete, ja ću prvi reći da je stroj dobar.
+
+257
+00:33:17,730 --> 00:33:27,380
+Njihalo.... ali pomičete rukom.
+
+258
+00:33:27,480 --> 00:33:32,570
+Ne, ne, ne pomičem, ruka se sama njiše.
+
+259
+00:33:35,310 --> 00:33:38,880
+Vidite sad se pomiče u drugom smjeru.
+
+260
+00:33:38,980 --> 00:33:46,300
+Netko drugi dođe na seminar, imao je antenu iz auta.
+
+261
+00:33:46,400 --> 00:33:53,550
+S tom antenom bi tražio lijek i dolazi ljudima rekavši im,
+
+262
+00:33:53,650 --> 00:33:56,300
+George je rekao da je ovaj lijek, ali krivi je.
+
+263
+00:33:56,400 --> 00:34:02,630
+Moja antena kaže da je ovaj lijek i ljudi dođu i pitaju, što je to?
+
+264
+00:34:02,730 --> 00:34:11,460
+Rekao sam, dođite i saznajte svoj lijek. Koji je lijek? Veratrum.
+
+265
+00:34:11,560 --> 00:34:15,710
+Ode do druge osobe, koji lijek vam je rekao? Veratrum.
+
+266
+00:34:15,810 --> 00:34:20,300
+Ode do djeteta, ja sam mu dao Pulsatillu, on kaže da je Veratrum.
+
+267
+00:34:22,350 --> 00:34:29,740
+Morao sam ga nazvati i rekao sam mu da dođe, možeš li učiniti i meni to da vidim kako to radiš?
+
+268
+00:34:29,840 --> 00:34:38,050
+Došao je s antenom, provjerio sve meridijane s antenom
+
+269
+00:34:38,150 --> 00:34:42,890
+i onda pređe preko stvari i kaže Veratrum.
+
+270
+00:34:48,650 --> 00:34:57,880
+Čovjek je  otišao u mentalnu instituciju na kraju, ali bilo je jako zanimljivo.
+
+271
+00:34:57,980 --> 00:35:06,130
+Ili je on uzeo Veratrum ili ga je trebao
+
+272
+00:35:06,230 --> 00:35:13,310
+i svima bi dao Veratrum i svi bi rekli da je skroz lud.
+
+273
+00:35:13,410 --> 00:35:22,920
+Onda sam saznao da je zbilja otišao u kliniku, mentalnu kliniku.
+
+274
+00:35:26,660 --> 00:35:28,700
+To je "antena homeopatija".
+
+275
+00:35:34,450 --> 00:35:38,350
+-To je spekulacija.
+-Da, bila je to spekulacija. Zašto?
+
+276
+00:35:38,450 --> 00:35:44,650
+Mogao bi odabrati jedan lijek, dati ga vama i možda bi ponekad i djelovao
+
+277
+00:35:44,750 --> 00:35:51,830
+ali je li to znanost, što je to? Ne znam što je to?
+
+278
+00:35:52,580 --> 00:35:56,840
+I zato homeopatija ima tako lošu reputaciju.
+
+279
+00:35:58,080 --> 00:36:07,310
+Imao sam slučaj s tim njihalom gdje je student medicine iz Južne Afrike
+
+280
+00:36:07,410 --> 00:36:18,810
+uzimao barem 25-30 lijekova u nekoliko godina svaki dan 50M, CM potencije,
+
+281
+00:36:18,910 --> 00:36:25,810
+svaki dan 3 mjeseca i onda opet drugi lijek 2 mjeseca i drugi lijek
+
+282
+00:36:25,910 --> 00:36:30,910
+mjesec dana... s tim njihalom.
+
+283
+00:36:31,410 --> 00:36:35,820
+kad je došao k meni, bilo je toliko konfuzije u njegovom slučaju,
+
+284
+00:36:35,920 --> 00:36:41,810
+bilo je nemoguće naći nešto, rekao sam, ne mogu vam pomoći, ne vidim nijedan lijek.
+
+285
+00:36:41,910 --> 00:36:48,090
+Imate simptome svih lijekova. Dečko je počinio samoubojstvo.
+
+286
+00:36:49,830 --> 00:36:58,330
+Nije mogao živjeti, jer, čuo sam nakon godinu dvije da se ubio.
+
+287
+00:37:02,280 --> 00:37:13,580
+To su prave energije i ne možemo se igrati pravim energijama.
+
+288
+00:37:14,080 --> 00:37:17,830
+Imate moćan alat koji može liječiti.
+
+289
+00:37:19,580 --> 00:37:27,980
+Obično kažemo da je bezopasno i da nema problema, možete uzeti,
+
+290
+00:37:28,080 --> 00:37:34,040
+da, ali bolje da budete što pažljiviji, s velikim strahom.

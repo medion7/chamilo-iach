@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2c405b2b11154aa1fc9627d36d603a2e</ID>
+  <patient>
+    <case_date>2015-12-29 23:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Ν.Δ.</patient_initials>
+    <age>7</age>
+    <circumstances>Παιδί 7 ετών</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>3 μηνών παρουσίασε κοκκινίλες γύρω από το στόμα που αντιμετωπίστηκαν με κορτιζόνη. Η διάγνωση ήταν ατοπική δερματίτιδα.  Τώρα ο κνησμός ξεκινά από την έσω πλευρά των αρθρώσεων και από το λαιμό, είναι έντονος στην ινιακή περιοχή και στα βλέφαρα παρουσιάζονται σχισμές. Στην εξοχή πυροδοτείται η δερματίτιδα και βγάζει εξανθήματα με υγρό στο αριστερό μάτι και στον λαιμό. Λόγω της ομοιοπαθητικής θεραπείας που έχει κάνει παλαιότερα τα εξανθήματα που παρουσιάζει πια είναι ηπιότερα.</origin>
+        <causative_factors>Βεβαρυμένο ιστορικό των γονέων καθώς το παιδί εμφάνισε την παθολογία πολύ νωρίς στην ζωή του.</causative_factors>
+        <modalities>&gt; με τη θάλασσα&#13;
+&lt; μετά το βραδινό μπάνιο, μάλλινα ρούχα</modalities>
+        <occurrence_time>   </occurrence_time>
+        <body_side>Κυρίως στον λαιμό και στην ινιακή περιοχή, στην έσω επιφάνεια του αγκώνα και την οπίσθια  επιφάνεια του γονάτου</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Κνησμός υπάρχει μόνο</pain_desc>
+        <complaint_ext>   </complaint_ext>
+        <other_complaints>Είναι αλλεργικός σε: αυγά, ξηρούς καρπούς και λάτεξ. &#13;
+Το γάλα και το τυρί τον πειράζουν στην δερματίτιδα.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ατοπική δερματίτιδα - 30/6/2015</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Έχει λάβει παλαιότερα Sulphur, Kali sulphuricum, Arsenicum, Belladonna και Medorrhinum. </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Prevenar 2 μηνών</therapies_vaccination>
+          <traumas>  </traumas>
+          <infections>Αμυγδαλίτιδες με υψηλό πυρετό 1-2 φορές το χρόνο</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Οι γονείς έχουν ψωρίαση και την περίοδο που έκαναν το παιδί έκαναν και θεραπεία με κορτιζόνη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρύα πόδια και χέρια </reactions>
+        <sleeping_habits>Ξύνεται κατά τη διάρκεια του ύπνου και ιδρώνει πολύ στο κεφάλι και στον λαιμό(3). Ξεσκεπάζει τα πόδια στον ύπνο. Σιελόρροια σπάνια. Κοιμάται πάντα μαζί με τη μητέρα του. Δεν μπορεί μόνος του. Τρίζει τα δόντια (3)</sleeping_habits>
+        <food_modalities>Des: αλλαντικά(3), σαλάμι (2), αχλάδι (3), μπανάνα, χοιρινό (2), αλάτι, παγωτά (3), γλυκά (2)&#13;
+Avers: ψάρια&#13;
+Agg: μοσχάρι</food_modalities>
+        <menstruation>----</menstruation>
+      </physical>
+      <mental_emotional>Σιχαίνεται εύκολα, είναι καθαρός.&#13;
+Ζωηρός (2),  νευρικός(2), πεισματάρης(3) και χτυπιέται εάν δεν γίνει το δικό του. Από το κλάμα όταν πεισμώνει μπορεί να κάνει εμετό. &#13;
+Δεν του αρέσουν τα ζώα.&#13;
+Φόβοι: σκοτάδι (2), μαυροντυμένους (2), </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η βασική παθολογία έχει βελτιωθεί σε σχέση με παλαιότερα, παραμένει ευπαθής σε οξέα, ωστόσο υπάρχουν ακόμα σοβαρά συμπτώματα και στα 3 επίπεδα.</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Ο ασθενής, αν και μικρός σε ηλικία, ανήκει στο δεύτερο group καθώς από πολύ νωρίς στη ζωή του παρουσίασε έντονα δερματικά προβλήματα και είχε πολλές αλλεργίες. Έχει ενδιαφέρον ότι παρουσίασε το πρώτο εξάνθημα ένα μήνα μετά το πρώτο εμβόλιο. Δεδομένου ότι υπάρχει κληρονομική προδιάθεση στην οικογένεια η πρόγνωση δεν είναι πολύ καλή. Θετικό στοιχείο το ότι δεν έχει κάνει μακροχρόνιες καταπιεστικές θεραπείες.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Επιθυμεί αλλαντικά (3)&#13;
+Φοβάται τους μαυροντυμένους (2)&#13;
+Σιχαίνεται εύκολα</peculiar>
+        <intense>αλλεργίες (3)&#13;
+τρίζει τα δόντια(3)&#13;
+Φοβάται το σκοτάδι (3)&#13;
+δεν θέλει τα ζώα (2)&#13;
+&#13;
+&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Tuberculinum: λόγω των αλλεργιών, των διατροφικών επιθυμιών (χοιρινό, αλλαντικά, σαλάμι, μπανάνα), επειδή τρίζει τα δόντια στον ύπνο και δεν θέλει τα ζώα. Επίσης είναι πεισματάρης.&#13;
+Stramonium: λόγω του φόβου στο σκοτάδι, το ότι δεν μπορεί να κοιμηθεί μόνος του και είναι νευρικός&#13;
+Calcarea Carbonica: λόγω του ιδρώτα στο κεφάλι και στον αυχένα στον ύπνο και την επιθυμία για γλυκά</remedies_differentiation>
+      <prescription>
+        <remedy>Tuberculinum</remedy>
+        <potency>1M</potency>
+        <regimen>1 caps και placebo για 30 ημέρες</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-29 22:00:00</followup_date>
+      <conv_med_presc>  </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ασθενής προσήλθε για την πρώτη αξιολόγηση 2 μήνες μετά-9/9/2015. Δοκίμασε να φάει τυρί και να πιει γάλα και στο τυρί έκανε αντίδραση. Στο γάλα όμως όχι. Δεν ιδρώνει πια στον ύπνο ούτε τρίζει τα δόντια του. Φοβάται πολύ το σκοτάδι και τις ηλικιωμένες που φοράνε μαύρα. Κοιμάται με τη μητέρα του. Θέλει να την ακουμπάει. Δεν θέλει τα ζώα και η μητέρα του λέει πως φοβάται τα σκυλιά (3). Η ατοπική δερματίτιδα δεν βελτιώθηκε. Το μόνο που άλλαξε είναι ότι δεν κάνει πια τις σχισμές στα βλέφαρα. Εξακολουθεί να είναι νευρικός. &#13;
+Η μητέρα αναφέρει για πρώτη φορά πως όταν ήταν έγκυος τρόμαξε με ένα τροχαίο που συνέβη μπροστά της. &#13;
+Δεν τρώει ιδιαίτερα τα γλυκά τώρα τελευταία και Avers. στις πατάτες. </reaction>
+      <analysis>Το τυρί δεν τον πειράζει πια και αυτό είναι θετικό στοιχείο. Ωστόσο τα περισσότερα συμπτώματα δεν άλλαξαν. Θα πρέπει να δοθεί άλλο φάρμακο το οποίο φαίνεται αρκετά καθαρά από το ιστορικό.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Stramonium</remedy>
+        <potency>1M</potency>
+        <regimen>1 caps και  placebo για 60 ημέρες </regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-29 22:00:00</followup_date>
+      <conv_med_presc>   </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ασθενής προσήλθε μετά από 2,5 μήνες για τη δεύτερη αξιολόγηση -20/11/2015.  Μετά το φάρμακο: υψηλός πυρετός, βήχας για 2 βράδια και κάτι σαν δύσπνοια. Δοκίμασε ξανά τυρί και δεν τον πείραξε. Το γάλα πια το πίνει κανονικά. Δεν φοβάται τα σκυλιά αλλά κάποια βράδια κοιμάται ακόμα με τη μητέρα του. Στο πρόσωπο, στο λαιμό και στα χέρια είναι πολύ καλύτερα. Στα πόδια η δερματίτιδα είναι χειρότερα-βγάζει κολλώδες υγρό και πονάει (3)- και η μητέρα του βάζει διάφορες αλοιφές γιατί υποφέρει. Τον κνησμό τον έχει πια μόνο εάν αγχωθεί (2) . Des: ζυμαρικά(3), γάλα(2)  Avers: πατάτες (2). Κρυώνει(3)</reaction>
+      <analysis>Ο ασθενής πηγαίνει καλά. </analysis>
+      <conclusion>Στο σημείο αυτό θα πρέπει να αλλάξουμε και πάλι το φάρμακο. Αυτό γίνεται γιατί τα συμπτώματα έχουν αλλάξει και κυρίως έχει διαφοροποιηθεί η εκδήλωση της βασικής παθολογίας. Θα δοθεί ο Graphites λόγω του κολλώδους υγρού από τα πόδια που είναι έντονο και του ότι το εξάνθημα πια είναι επώδυνο. Υπάρχει επίσης avers. στα ψάρια (που το είχε πάντα), τώρα τελευταία δεν επιθυμεί τα γλυκά και κρυώνει.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Graphites</remedy>
+        <potency>30ch</potency>
+        <regimen>1 caps και 30 ημέρες placebo </regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

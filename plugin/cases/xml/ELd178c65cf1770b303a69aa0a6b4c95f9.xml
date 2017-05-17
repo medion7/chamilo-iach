@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd178c65cf1770b303a69aa0a6b4c95f9</ID>
+  <patient>
+    <case_date>2014-02-12 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Δ.Π.</patient_initials>
+    <age>40</age>
+    <circumstances>Ελεύθερη, Αισθητικός</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Είχε όζους στο θυρεοειδή στο παρελθόν πριν από 3 χρόνια και έκανε  Θυρεοειδεκτομή . Έρχεται για γενική ενίσχυση του οργανισμού της. </origin>
+        <causative_factors>Κάποια εμβόλια που είχε κάνει σε μικρή ηλικία,δεν θυμάται ποια.</causative_factors>
+        <modalities>Δεν αναφέρει</modalities>
+        <occurrence_time> Δεν υπάρχουν πόνοι για να υπάρχει χειροτέρευση ή επιδείνωση.</occurrence_time>
+        <body_side>Αριστερός λοβός του θυρεοειδή. </body_side>
+        <appearence_frequency>Δεν αναφέρει</appearence_frequency>
+        <pain_desc>Δεν αναφέρει</pain_desc>
+        <complaint_ext>Δεν αναφέρει</complaint_ext>
+        <other_complaints>Έχει έντονη σεξουαλική επιθυμία.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Παίρνει thyrormon. </conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Κάποια εμβόλια που είχε κάνει σε μικρή ηλικία δεν θυμάται ποια.</therapies_vaccination>
+          <traumas>Έχει στεναχώρια γιατί ο γιός της παίρνει χασίς. Επίσης στεναχωριέται και για το διαζύγιο που είχε δύο χρόνια πρίν..  </traumas>
+          <infections>Παλαιότερα έκανε χαλάζια και πέρσι έκανε επιχείλιο έρπη.. </infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Δεν αναφέρει</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει. Φορά κάλτσες στον ύπνο της.</reactions>
+        <sleeping_habits>Κοιμάται ανάσκελα.</sleeping_habits>
+        <food_modalities>Επιθυμία για ψάρια. &#13;
+Απέχθεια στα λιπαρά.</food_modalities>
+        <menstruation>Δεν αναφέρει κάτι παθολογικό</menstruation>
+      </physical>
+      <mental_emotional>Νευριάζει πάρα πολύ εύκολα αλλά τα νεύρα της περνάνε εύκολα. Έχει στεναχώρια γιατί ο γιός της παίρνει χασίς. Επίσης στεναχωριέται και για το διαζύγιο που είχε δύο χρόνια πρίν.&#13;
+  Ψύχραιμη, θαρραλέα, Ισχυρογνώμων, με κράμα ευαισθησίας και εγωισμού. Οι άλλοι λένε ότι είναι δυναμική, άξια, ευαίσθητη. Τα προβλήματα των άλλων δεν την αφήνουν αδιάφορη. Είναι πάρα πολύ κοινωνική.  &#13;
+Διάθεση καλή.&#13;
+     </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Θυρεοειδεκτομή η ίδια και παίρνει thyrormon. Παλαιότερα έκανε χαλάζια και πέρσι έκανε επιχείλιο έρπη. Πέρσι έκανε έναν μικρό κιρσό στο ένα της πόδι. Έχει πεσμένα λευκά αιμοσφαίρια, είναι στα κατώτερα όρια. Βρέθηκε ότι έχει και κάποια οστεοπενία.    </personal_medical_history>
+        <family_medical_history>Δεν αναφέρει</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Η ασθενής έρχεται για μια ενίσχυση του οργανισμού της χωρίς κάποιο ιδιαίτερο πρόβλημα, η ομοιοπαθητική θεραπεία που θα ακολουθήσει θα ενισχύσει το ανοσοποιήτικό της  σύστημα, όπως άλλωστε κάνει. </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ισχυρογνώμων(2)&#13;
+Νευριάζει(2) πάρα πολύ εύκολα.&#13;
+Κοιμάται ανάσκελα(2).&#13;
+</peculiar>
+        <intense>Είναι πάρα πολύ κοινωνική(3). &#13;
+Τα προβλήματα των άλλων δεν την αφήνουν αδιάφορη(3).&#13;
+Ευαίσθητη(3).&#13;
+Επιθυμία για ψάρια(3).&#13;
+ Κρυώνει(3).&#13;
+Έχει έντονη σεξουαλική επιθυμία(3).</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation> Δεν βρίσκω άλλα φάρμακα για διαφοροποίηση, φαίνεται ότι είναι καθαρός Phosph., γιατί είναι πάρα πολύ κοινωνική σε μεγάλο βαθμό, είναι ευαίσθητη πάρα πολύ, επιθυμεί τα ψάρια σε μεγάλο βαθμό, και κρυώνει πάρα πολύ.</remedies_differentiation>
+      <prescription>
+        <remedy>Phosph.</remedy>
+        <potency>1M</potency>
+        <regimen>Phosph. 1M  για ένα μήνα.</regimen>
+        <other_notes>Αναμένω να δώ κάποιες αλλαγές στα συμπτώματα που μου αναφέρει αν το φάρμακο είναι το σωστό.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-05-14 18:00:00</followup_date>
+      <conv_med_presc> Δεν πήρε άλλο φάρμακο εκτός του Phosph. 1M  για ένα μήνα, και το thyrormon που παίρνει. </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>14 Μαίου 2014&#13;
+Τα νεύρα της έχουν μειωθεί δεν νευριάζει τόσο εύκολα τώρα.&#13;
+Δεν προσπαθεί να επιβάλει την γνώμη της τώρα τελευταία άλλα ακούει και την γνώμη των άλλων.&#13;
+Έχει πάψει να στενοχωριέται για το διαζύγιο που είχε πριν δύο χρόνια.&#13;
+Αντί να στενοχωριέται τώρα που ο γιός της παίρνει χασίς, προσπαθεί να τον βοηθήσει να ανεξαρτητοποιηθεί.&#13;
+</reaction>
+      <analysis>Όπως βλέπουμε κάποια συμπτώματα της ασθενούς έχουν βελτιωθεί, επομένως η επιλογή του φαρμάκου έχει αρχίσει να δίνει κάποια ώθηση στον οργανισμό της. Έτσι λοιπόν θα περιμένουμε να βελτιωθεί ακόμα περισσότερο.   </analysis>
+      <conclusion>Πρέπει να περιμένουμε για να δούμε τι άλλαξε στην επόμενη επανεξέταση μας.  </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Placebo effect. </remedy>
+        <potency>6χ</potency>
+        <regimen>3 φορές την ημέρα για 2 μήνες, το φάρμακο είναι άνευ φαρμακευτικής ουσίας.</regimen>
+        <other_notes>Η ασθενής πήγε καλά και περιμένουμε να δούμε την αντίδραση που θα έχει ο οργανισμός της στην επόμενη επανεξέταση.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-08-18 18:00:00</followup_date>
+      <conv_med_presc>Δεν πήρε άλλο φάρμακο από το Placebo 3 φορές την ημέρα για 2 μήνες, το φάρμακο είναι άνευ φαρμακευτικής ουσίας και και το thyrormon που παίρνει κανονικά. </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>18 Αυγούστου 2014&#13;
+Η οστεοπενία της έχει βελτιωθεί πάρα πολύ όπως της είπε ο συμβατικός της γιατρός, την ρώτησα αν έχει μαζί της της εξετάσεις που έκανε πρόσφατα αλλά δεν τις είχε μαζί της.&#13;
+Δεν νευριάζει πλέον πια συγκρατείται.</reaction>
+      <analysis>Η κατάσταση της υγείας της βελτιώθηκε ακόμα πιο πολύ επομένως περιμένουμε να δούμε την αντίδραση του οργανισμού της στην επόμενη επανεξέταση. </analysis>
+      <conclusion>Περιμένουμε να δούμε τι θα αλλάξει στην επόμενη επανεξέταση. </conclusion>
+      <repertorization>
+        <desc>Δεν χρειάστηκε να κάνω γιατί η ασθενής πήγε καλά και δεν χρειάζεται να αλλάξω φάρμακο.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Placebo effect. . </remedy>
+        <potency>6Χ</potency>
+        <regimen> 3 φορές την ημέρα για 3 μήνες.</regimen>
+        <other_notes>¨Έδωσα για άλλους 3 μήνες Placebo φάρμακο 3 φορές την ημέρα για 3 μήνες και περιμένω να την δω στην άλλη επανεξέταση.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2014-12-17 08:00:00</followup_date>
+      <conv_med_presc>Δεν πήρε άλλο φάρμακο από το Placebo 3 φορές την ημέρα για 2 μήνες, το φάρμακο είναι άνευ φαρμακευτικής ουσίας και και το thyrormon που παίρνει κανονικά.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>17 Δεκεμβρίου 2014.&#13;
+Δεν έχει άλλα προβλήματα και η γενική της κατάσταση είναι πάρα πολύ καλή.  &#13;
+</reaction>
+      <analysis>Η ασθενής είναι πάρα πολύ καλά ως αναφορά την κατάσταση της υγείας της.  </analysis>
+      <conclusion>Η ασθενής , πήγε πάρα πολύ καλά.</conclusion>
+      <repertorization>
+        <desc>Δεν χρειάστηκε να κάνω γιατί η ασθενής είναι καλά. θα έκανα αν χρειαζόταν να αλλάξω φάρμακο. </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Placebo effect</remedy>
+        <potency>6χ</potency>
+        <regimen> 3 φορές την ημέρα για 1 μήνα.</regimen>
+        <other_notes> Περιμένω να δω μία σταθερότητα ως αναφορά την υγεία της.  </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

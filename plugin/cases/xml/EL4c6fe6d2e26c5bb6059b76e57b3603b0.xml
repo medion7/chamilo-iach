@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4c6fe6d2e26c5bb6059b76e57b3603b0</ID>
+  <patient>
+    <case_date>2015-10-01 08:10:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Γ.Φ.</patient_initials>
+    <age>38</age>
+    <circumstances>Παντρεμένη  2 Παιδιά  , Δεν καπνίζει , Καθηγήτρια </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ξεκίνησε εδώ και 4 χρόνια </origin>
+        <causative_factors>Δεν αναφέρει</causative_factors>
+        <modalities>επιδείνωση από καπνό</modalities>
+        <occurrence_time>επιδείνωση τις απογευματινές ώρες</occurrence_time>
+        <body_side>και τα δύο μάτια</body_side>
+        <appearence_frequency>μερικές φορές το μήνα</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>σπυράκια στο πηγούνι 10 ημέρες προ Ε.Ρ. τα οποία φεύγουν μετά(έχουν πόνο εσωτερικά )&#13;
+Τυμπανισμός που επιδεινώνεται προ Ε.Ρ.&#13;
+αέρια που δεν μπορεί να βγάλει( όταν βγουν ανακουφίζεται)&#13;
+ Κενώσεις -χρειάζεται πολύ ώρα στην τουαλετα , νιωθει οτι δεν κατεβαίνουν- κάνει πολλαπλές προσπάθειες</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Επιπεφυκίτιδα  , Βλεφαρίτιδα, Δακρύρροια  .&#13;
+Θεραπεία περιστασιακά ,οφθαλμικές σταγόνες</conv_med_presc>
+        <lab_tests>
+          <desc>ΟΧΙ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΧΙ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>όλοι οι εμβολιασμοί&#13;
+όχι κατασταλτικές θεραπείες</therapies_vaccination>
+          <traumas>δεν αναφέρει</traumas>
+          <infections>δεν αναφέρει</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας : υπερχοληστεριναιμία &#13;
+Μητέρα: ΣΔ , αναιμία ,ίλιγγος ,τεχνητό τύμπανο, ομφαλοκήλη, υπερχοληστεριναιμία  ,Αγγειακό Εγκεφαλικό Επεισόδιο  &#13;
+Κόρη :κολποκοιλιακό αποκλεισμό διαγνωσμένη από το 2009</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει (3)&#13;
+πλάτη κρυώνει &#13;
+</reactions>
+        <sleeping_habits>Κ.Φ&#13;
+θέση ύπνου μπρούμυτα, ξυπνά ανάσκελα </sleeping_habits>
+        <food_modalities>DES: γάλα με δημητριακά, αλμυρά (3) τυριά (3) σοκολάτα(2) άγουρα(1) πικάντικα(2)&#13;
+AVER: λίπος (3) σπανάκι(4) &#13;
+AGRR: όσπρια ,γάλα(3)</food_modalities>
+        <menstruation>κανονικός κύκλος&#13;
+σπυράκια στο πηγούνι 10 ημέρες προ Ε.Ρ. τα οποία φεύγουν μετά(έχουν πόνο εσωτερικά )&#13;
+Τυμπανισμός που επιδεινώνεται προ Ε.Ρ.</menstruation>
+      </physical>
+      <mental_emotional>επιφυλακτική , δεν θέλει να φαίνεται και πολύ, δεν είναι αυτή που θα χορέψει αλλά θα χτυπά παλαμάκια.&#13;
+Δυσκολεύεται να ζητήσει βοήθεια ,θεωρεί οτι πρέπει να τα κάνει μόνη της.&#13;
+Δεν της αρέσει να την πιέζουν (αντιδρά με το να μην το κάνει)  &#13;
+κλαίει εύκολα αλλά όχι στον κόσμο&#13;
+νιώθει οτι μεγαλώνει μόνη της χωρίς στήριγμα από τους γονείς της .Αίσθημα εγκατάλειψης  .&#13;
+Έπρεπε να στηριχθεί στον εαυτό της γιατί δεν υπάρχει κάποιος άλλος.&#13;
+Δεν είναι εκδικητική ,άλλα΄δεν ξεχνά.&#13;
+Αίσθημα φυγής &#13;
+Νιώθει αδικία</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Τον περασμένο χειμώνα εμπύρετο μέχρι 39,5 C &#13;
+Αναφέρει εμπύρετο λοίμωξη μία φορά το χρόνο&#13;
+Σκωληκοειδεκτομή 1985&#13;
+Ομφαλοκήλη 2007&#13;
+Διαγνωστική απόξεση 2014 λόγω ενδομήτριου πολύποδα&#13;
+Ακμή σαν φοιτήτρια στην ηλικία 18-27 &#13;
+Επιχείλιος έρπης προ 4 ετίας&#13;
+2 Καισαρικές τομές</personal_medical_history>
+        <family_medical_history>Επιβάρυνση που αφορά το Σαγχαρώδη διαβήτη και την Αγγειοπάθεια (εγκεφαλικό)</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Περιμένουμε αρχική επιδείνωση</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>επιπεφυκίτιδα , σαν να είναι κουρασμένη(2) , τσίμπλες το πρωί(2) , σαν έχει άμμο(2)&#13;
+αέρια που δεν μπορεί να βγάλει(2) &#13;
+κενώσεις -χρειάζεται πολύ ώρα στην τουαλέτα , νιώθει ότι δεν κατεβαίνουν- κάνει πολλαπλές προσπάθειες&#13;
+τυμπανισμός προ ΕΡ(2)</peculiar>
+        <intense>DES: αλμυρά (3) τυριά (3) σοκολάτα(2) πικάντικα(2)&#13;
+AVΕRS: λίπος (3) σπανάκι(4)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>EYE ­ INFLAMMATION ­ conjunctiva (Conjunctivitis) 2&#13;
+EYE ­ INFLAMMATION ­ lids (Blepharitis) 2&#13;
+EYE ­ LACHRYMATION 2&#13;
+ABDOMEN ­ DISTENTION 3&#13;
+ABDOMEN ­ DISTENTION ­ flatus, passing ­ amel. 2&#13;
+GENERALITIES ­ MENSES ­ before 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ agg. 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ beans and peas ­ agg. 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chocolate ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ spices ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ aversion 3&#13;
+RECTUM ­ CONSTIPATION ­ insufficient, incomplete, unsatisfactory stools 3&#13;
+CHILL ­ COLDNESS in general 2&#13;
+BACK ­ COLDNESS (including Chill) 2&#13;
+MIND ­ WEEPING, tearful mood, etc. 2&#13;
+MIND ­ RESERVED 2&#13;
+MIND ­ CAUTIOUS 2&#13;
+MIND ­ DUTY ­ too much sense of duty 2&#13;
+MIND ­ FORSAKEN feeling 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ΟΧΙ</remedies_differentiation>
+      <prescription>
+        <remedy>Natrium Muriaticum</remedy>
+        <potency>200CH 1M</potency>
+        <regimen>1x1 200CH&#13;
+1x1 1M </regimen>
+        <other_notes>OXI</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-11-29 19:10:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις 2-3 πρώτες μέρες απίστευτη δυσκολία συγκέντρωσης και έντονο πονοκέφαλο.&#13;
+τις επόμενες 3-4 μέρες πολύ έντονο φούσκωμα και ξεκίνησε φαγούρα στο κουτουπιέ του ποδιού άμφω για 10 ημέρες.&#13;
+Το 1ο 10ήμερο σπυράκια κόκκινα στο σώμα τα οποία πονούσαν στην πίεση&#13;
+Το 2ο 15ήμερο έντονη δυσπεψία , πολλά ρεψίματα , οξέα στο στομάχι ,ήθελε να τρώει πολλά αλμυρά ενώ δεν είχε φούσκωμα&#13;
+Στο μήνα πάνω σαν να είχε σκουπιδάκι στο μάτι.&#13;
+τελευταίες ημέρες του μήνα ακμή για 7 ημέρες στο πηγούνι που πονούσαν&#13;
+Σήμερα  &gt;φούσκωμα&#13;
+            &gt;δυσπεψία &#13;
+            &gt;μάτια&#13;
+             &gt;ψυχολογία &#13;
+σε περιστατικό της δουλείας αντέδρασε που άλλη περίπτωση δεν θα το έκανε</reaction>
+      <analysis>υπήρχε αρχική αντίδραση , βελτίωση των συμπτωμάτων όπως επίσης και καλύτερη γενική κατάσταση (ζωτικότητα)</analysis>
+      <conclusion>Το φάρμακο είναι το ίδιο .Περιμένω </conclusion>
+      <repertorization>
+        <desc>EYE ­ INFLAMMATION ­ conjunctiva (Conjunctivitis) 0&#13;
+EYE ­ INFLAMMATION ­ lids (Blepharitis) 1&#13;
+EYE ­ LACHRYMATION 0&#13;
+ABDOMEN ­ DISTENTION 1&#13;
+ABDOMEN ­ DISTENTION ­ flatus, passing ­ amel. 1&#13;
+GENERALITIES ­ MENSES ­ before 0&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ agg. 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ beans and peas ­ agg. 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chocolate ­ desire 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ spices ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ aversion 3&#13;
+RECTUM ­ CONSTIPATION ­ insufficient, incomplete, unsatisfactory stools 2&#13;
+CHILL ­ COLDNESS in general 2&#13;
+BACK ­ COLDNESS (including Chill) 2&#13;
+MIND ­ WEEPING, tearful mood, etc. 1&#13;
+MIND ­ RESERVED 2&#13;
+MIND ­ CAUTIOUS 2&#13;
+MIND ­ DUTY ­ too much sense of duty 2&#13;
+MIND ­ FORSAKEN feeling ­&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-06 19:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

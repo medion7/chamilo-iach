@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL64c70ba72cf03eb0a6ad318e9db4b1ce</ID>
+  <patient>
+    <case_date>2014-10-28 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Γ. Κ.</patient_initials>
+    <age>17</age>
+    <circumstances>Μαθητής λυκείου, έχει 1 μικρότερο αδερφό.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Φτάρνισμα, καταρροή.&#13;
+Το έχει περίπου 5 χρόνια. Άρχισε σε περίοδο έντονου stress (περίοδος εξετάσεων). Του έπεφταν και τα μαλλιά.&#13;
+</origin>
+        <causative_factors>Stress λόγω σχολικών εξετάσεων.</causative_factors>
+        <modalities>Amel: στον αέρα, με την άσκηση.&#13;
+Agg: stress, αλλαγή του καιρού, έντωνες μυρωδιές-κολώνιες&#13;
+</modalities>
+        <occurrence_time>Δεν αναφερει.</occurrence_time>
+        <body_side>Δεν αναφερει.</body_side>
+        <appearence_frequency>Η καταρροή είναι κυρίως τις πρωινές ώρες, από το φθινόπωρο ως την άνοιξη. </appearence_frequency>
+        <pain_desc>Δεν υπάρχει πόνος.</pain_desc>
+        <complaint_ext>Δεν αναφερει.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Διάγνωση: αλλεργική ρινίτιδα (φτάρνισμα, καταρροή).&#13;
+Φαρμακευτική αγωγή με αποσυμφορητικά σε μη τακτική βάση.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Πλήρης βασικός εμβολιασμός.</therapies_vaccination>
+          <traumas>Δεν αναφερει.</traumas>
+          <infections>Έχει οξέα εμπύρετα 1-2 φορές τον χρόνο (T=39oC)</infections>
+          <other>Αλλεργία στους ξηρούς καρπούς από μικρός. Τους αποφεύγει. Του προκαλούν δύσπνοια, οίδημα γλώσσας, τάση για εμετό. Τα συμπτώματα περνάνε σε περίπου 30 λεπτά.&#13;
+Κεφαλαλγία-ημικρανία όταν σκέφτεται ή διαβάζει πολύ, κυρίως (δε)</other>
+        </personal>
+        <family>
+          <diseases>Οικογενειακό ιστορικό αλλεργικού άσθματος (από την μεριά του πατέρα). Χωρίς άλλα ιδιαίτερα νοσήματα στο οικογενειακό περιβάλλον.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Χειροτερεύει τον χειμώνα.&#13;
+Προτιμάει την σκιά από τον ήλιο&#13;
+Δεν του αρέσει πολύ η θάλασσα, δεν τον ενοχλούν τα ρεύματα.&#13;
+Προτιμάει τις πρωινές ώρες.&#13;
+Ούτε κρυώνει ούτε ζεσταίνεται πολύ.&#13;
+</reactions>
+        <sleeping_habits>Κρυώνουν τα χέρια και τα πόδια του κατά τον ύπνο (2).&#13;
+Ακούει μουσική μέχρι να αποκοιμηθεί&#13;
+Δεν μπορεί να κοιμηθεί μπρούμυτα. Κοιμάται πιο πολύ δεξιά.&#13;
+Δεν ζεστένεται, δεν ιδρώνει στον ύπνο.&#13;
+Βλέπει «περίεργα» όνειρα.&#13;
+</sleeping_habits>
+        <food_modalities>Του αρεσουν: κοτόπουλο (2), γάλα [κυρίως ζεστό, όχι κρύο] (2)&#13;
+Δεν του αρέσουν: λίπος (2), δεν τρώει τα φασολάκια και γλοιώδη (2)&#13;
+Γλυκά: σοκολάτα, παγωτά&#13;
+Αλατι, φρούτα: αδιάφορα&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Δεν αναφέρει φόβους, δεν ζηλεύει.&#13;
+Αν είναι κλειστός: (+/-) απάντηση [ο ασθενής ήταν πολύ κλειστός κατα τη διάρκεια της συνέντευξης]&#13;
+Θεωρεί πως είναι ευαίσθητος.&#13;
+Δεν θέλει την παρηγοριά (3)&#13;
+Τον ενοχλεί να μην σέβονται οι άνθρωποι την φύση, τους άλλους κτλ.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εχει 1-2 οξέα τον χρόνο. Η παθολογία είναι στους βλενογόννους. Δεν έχει ιδιαίτερα επιβεβαρυμένο ιστορικό, οπότε η πρόγνωση είναι καλή.</personal_medical_history>
+        <family_medical_history>Οικογενειακό ιστορικό αλλεργικού άσθματος (από την μεριά του πατέρα). Οικογενειακή προδιάθεση για τα ίδια συμπτώματα που εμφανίζει, που κάνει την πρόγνωση για πλήρη θεραπεία δυσμενέστερη.</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Η παθολογία δεν εχει προχωρήσει σε βάθος, καλή πρόγνωση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Φτάρνισμα, καταρροή (3), ιδιως τις πρωινές ώρες.&#13;
+Amel στον καθαρό αερα, agg με έντονες μυρωδιές (2).&#13;
+Έχει ενίοτε πονοκεφάλους μετά απο έντονη πνευματική εργασία (είναι μικρός σε ηλικία για τακτικά εμφανιζόμενες κεφαλαλγίες).&#13;
+</peculiar>
+        <intense>Κλειστός χαρακτήρας. Δεν ανέχεται την παρηγοριά (3).&#13;
+Δεν τρώει λίπος (2), γλοιώδη φαγητά (2). Του αρέσει το κοτόπουλο (2) και το γάλα (2).</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>NOSE - CORYZA - annual (hay fever) (3)&#13;
+ΝΟSE - SNEEZING - MORNING (2)&#13;
+NOSE - CORYZA - OPEN AIR AMEL (2)&#13;
+HEAD - PAIN (HEADACHE) - MENTAL EXERTION - AGG. (2)&#13;
+MIND - RESERVED (2)&#13;
+MIND - CONSOLATION AGG (3)&#13;
+GENERALITIES - FOOD AND DRINKS - FAT - AVERSION (2)&#13;
+GENERALITIES - FOOD AND DRINKS - SLIMY FOOD - AVERSION (2)&#13;
+GENERALITIES - FOOD AND DRINKS - CHICKEN - DESIRE (2)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Σχετικά αθαρό αποτέλεσμα Natrum Muriaticum, επιβεβαιώνεται από το essence [η απέχθεια στην παρηγοριά ήταν η μόνη απάντηση κατα τη συνέντευξη με 3 υπογραμμίσεις]. 2ο φάρμακο στο repertory η Pulsatilla, που δεν επιβεβαιώνεται από το essence τόσο κλειστού χαρακτήρα, ακολουθούν Allιum Cepa και Sabadilla.</remedies_differentiation>
+      <prescription>
+        <remedy>Natrum Muriaticum</remedy>
+        <potency>1 M</potency>
+        <regimen>Εφάπαξ.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-18 16:00:00</followup_date>
+      <conv_med_presc>Δεν λαμβανει.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Follow up έναν μήνα μετά τη λήψη της αγωγής (25/11/14).&#13;
+&#13;
+Με την έναρξη της θεραπείας εμφάνησε εξανθήματα, κυρίως στη ραχιαία επιφάνεια των ποδιών, με έντονο κνησμό. Είχε παρόμοια συμπτώματα στο παρελθόν, περίπου όταν εμφανίστηκε το φτάρνισμα-καταρροή. Το εξάνθημα άρχισε να υποχωρεί περίπου μια εβδομάδα μετα.&#13;
+&#13;
+Τα ενοχλήματά του (φτάρνισμα-καταρροή) είχαν μεγάλη βελτίωση.&#13;
+&#13;
+Ο ασθενής δεν αναφέρει αλλαγή στην ψυχική σφαίρα [δεν ανοίχτηκε σε αυτόν τον τομέα ούτε κατά την πρώτη συνέντευξη].</reaction>
+      <analysis>Καλή θεραπευτική αντίδραση, ακολουθήθηκε ο νόμος του Herring.</analysis>
+      <conclusion>Ο ασθενής αντέδρασε καλά και το φάρμακο ήταν σωστό.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δόθηκε φάρμακο</remedy>
+        <potency>Δεν δόθηκε φάρμακο</potency>
+        <regimen>Δεν δόθηκε φάρμακο</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-18 16:00:00</followup_date>
+      <conv_med_presc>Δεν λαμβανει.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>(03/02/15)&#13;
+Τηλεφωνική επικοινωνία. Μέχρι τώρα δεν είχε κανένα πρόβλημα αλλεργίας ή εξανθήματος φέτος. Εδώ και μια εβδομάδα άρχισε να φταρνίζεται, να έχει καταρροή και δακρύρροια. Είχε μεγάλη πίεση από το σχολείο αυτές τις μέρες (προετοιμάζεται για πανελλήνιες εξετάσεις).&#13;
+Δεν αναφέρει ιδιαίτερα συνοδά συμπτώματα, εκτός από μεγάλη δίψα (νερό θερμοκρασίας δωματίου, σε μεγάλες ποσότητες) και μια ήπια επιθυμία για γλυκά. Δεν κρυώνει.&#13;
+Δόθηκε Natrium Muriaticum 1M μια δόση, ελλείψει συμπτωμάτων και λόγω της καλής δράσης στα ίδια συμπτώματα την προηγούμενη φορά.&#13;
+</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum Muciarticum</remedy>
+        <potency>1M</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-08-18 16:00:00</followup_date>
+      <conv_med_presc>Δεν λαμβανει.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>(21/03/2015)&#13;
+Μετά την λήψη του Natrum Muriaticum 1M αναφέρει ήπια επιδείνωση και μετέπειτα καλυτέρευση των συμπτωμάτων (καταρροή, παροξυσμικό φτάρνισμα), αλλά μετά από περίπου 10 ημέρες επέστρεψαν ξανά.&#13;
+Επίσης αναφέρει κεφαλαλγίες, περίπου μια φορά την εβδομάδα, από την έναρξη του 2015. Η κεφαλαγία συμβαίνει συνήθως την Δευτέρα (1η ημέρα της εβδομάδας), το βράδυ, και εντοπίζεται μετωπιαία (ΔΕ). Περνάει με τον ύπνο. Μερικές φορές χρειάζεται να πάρει παρακεταμόλη. Τις έχει συσχετίσει με το άγχος για το σχολείο (δίνει πανελλήνιες σε λίγους μήνες).&#13;
+Δόθηκε αυξημένη δυναμοποίηση Natrum Muriaticum 10M και επειτα 6Χ για 7 ημέρες – λόγω της μέχρι τώρα καλής δράσης του φαρμάκου. Το σύμπτωμα της βραδυνής κεφαλαλγίας εντάσσεται επίσης στο nat. Δεν υπάρχουν στοιχεία που να δικαιολογούν αλλαγή φαρμάκου. Η επίταση των συμπτωμάτων αποδίδεται στο stress των εξετάσεων.&#13;
+&#13;
+</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum Muciarticum</remedy>
+        <potency>10M</potency>
+        <regimen>10M εφάπαξ, και έπειτα 6χ για 7 ημέρες.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2015-08-18 16:00:00</followup_date>
+      <conv_med_presc>Δεν λαμβανει.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>(21/05/2015) Ο ασθενής είχε βελτίωση των συμπτωμάτων του μέσα σε λίγες μέρες, χωρίς επιδείνωση. Δεν αναφέρει κάποιο άλλο πρόβλημα. Δεν απαιτείται συνέχιση της θεραπείας.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δόθηκε φάρμακο.</remedy>
+        <potency>Δεν δόθηκε φάρμακο.</potency>
+        <regimen>Δεν δόθηκε φάρμακο.</regimen>
+        <other_notes>Δεν δόθηκε φάρμακο.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

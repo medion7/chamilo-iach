@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID></ID>
+  <patient>
+    <case_date>2015-08-24 11:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΠΒ</patient_initials>
+    <age>0</age>
+    <circumstances>ΥΨΟΣ 178 &#13;
+ ΒΑΡΟΣ 77&#13;
+ ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ 2 ΠΑΙΔΙΑ (6-12)&#13;
+ ΚΑΘΗΓΗΤΗΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΡΙΝΙΚΗ ΠΟΛΥΠΟΔΙΑΣΗ ΑΠΟ 10 ΕΤΙΑΣ ΜΕΤΑ ΑΠΟ ΧΡ ΑΛΛΕΡΓΙΚΗ ΡΙΝΙΤΙΔΑ ( ΥΠΗΡΧΕ ΕΝΤΟΝΟ ΣΤΡΕΣ ΕΚΕΙΝΗ ΤΗΝ ΠΕΡΙΟΔΟ ΜΕ ΤΗΝ ΕΡΓΑΣΙΑ ΤΟΥ )</origin>
+        <causative_factors>ΑΓΧΟΣ</causative_factors>
+        <modalities>ΚΡΥΟ AGG&#13;
+ ΘΑΛΑΣΣΑ AMEL</modalities>
+        <occurrence_time>ΠΟΝΟΚΕΦΑΛΟΣ ΧΕΙΡ ΠΡΩΙ ΚΑΛΥΤΕΡΕΥΕΙ ΤΟ ΒΡΑΔΥ</occurrence_time>
+        <body_side>ΕΚΖΕΜΑ ΔΕ ΧΕΡΙ - ΗΜΙΚΡΑΝΙΑ ΔΕ</body_side>
+        <appearence_frequency>ΠΟΝΟΚΕΦΑΛΟΣ ΚΑΘΕ 2-3 ΜΕΡΕΣ &#13;
+ ΕΚΖΕΜΑ ΕΠΙΔΕΙΝΩΣΗ ΧΕΙΜΩΝΑ</appearence_frequency>
+        <pain_desc>Ο ΠΟΝΟΣ ΞΕΚΙΝΑΕΙ ΙΝΙΑΚΑ ΚΑΙ ΕΩΣ ΤΟ ΜΑΤΙ ΣΥΝΗΘΩΣ ΔΕ - ΣΟΥΒΛΙΕΣ ΣΤΟΝ ΕΣΩ ΚΑΝΘΟ &#13;
+ ΔΕΝ ΑΝΤΕΧΕΙ ΦΩΣ - ΘΟΡΥΒΟ ΚΑΛΥΤΕΡΑ ΣΤΟ ΣΚΟΤΑΔΙ</pain_desc>
+        <complaint_ext>ΧΡΟΝΙΑ ΠΑΧΥΒΛΕΝΝΟΓΟΝΙΤΙΔΑ ΙΓΜΟΡΕΙΩΝ ΑΜΦΩ</complaint_ext>
+        <other_complaints>ΕΚΖΕΜΑ ΔΕ ΧΕΡΙ ΑΝΩ ΕΠΙΦΑΝΕΙΑ&#13;
+ ΥΠΕΡΘΥΕΟΕΙΔΙΣΜΟΣ ΥΠΟ ΘΕΡΑΠΕΙΑ &#13;
+ ΗΜΙΚΡΑΝΙΑ ΣΥΝΗΘΩΣ ΔΕ &#13;
+ ΓΟΠ ΜΕ ΚΑΟΥΡΑ ΚΑΙ ΡΕΨΙΜΑΤΑ &#13;
+ ΥΠΕΡΤΑΣΗ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>XOZAL - THYROSTAT - ELOCON CREAM  PULMICORT NASAL SPRY - OMEPRAZOLE</conv_med_presc>
+        <lab_tests>
+          <desc>ΓΑΣΤΡΟΣΚΟΠΗΣΗ = ΕΙΚΟΝΑ ΧΡ ΓΑΣΤΡΙΤΙΔΑΣ ΚΑΙ ΧΑΛΑΡΩΣΗ ΣΗΙΓΓΚΤΗΡΑ&#13;
+ ΕΝΔΟΣΚΟΠΗΣΗ ΡΙΝΟΣ = ΡΙΝΙΚΗ ΠΟΛΥΠΟΔΙΑΣΗ ΑΜΦΩ ΜΕ ΟΠΙΣΘΟΡΙΝΙΚΗ ΚΑΤΑΡΡΟΗ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΧΙ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΣΕ ΠΑΙΔΙΚΗ ΗΛΙΚΙΑ ΕΧΕΙ ΚΑΝΕΙ ΟΛΟΥΣ ΤΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ&#13;
+ ΕΠΙ 10 ΧΡΟΝΙΑ ΠΑΥΣΙΠΟΝΑ ΓΙΑ ΗΜΙΚΡΑΝΙΑ ΚΑΙ Α/ΦΛΕΓΜΟΝΩΔΟΙ ΕΠΙ 10 ΧΡΟΝΙΑ ΘΕΡΑΠΕΙΑ ΜΕ ΑΝΤΙΣΤΑΜΙΝΙΚΑ ΚΑΙ ΚΟΡΤΙΖΟΝΟΥΧΑ ΓΙΑ ΤΟ ΕΚΖΕΜΑ $ ΤΗΝ ΑΛΛΕΡΓΙΚΗ ΡΙΝΙΤΙΔΑ</therapies_vaccination>
+          <traumas>ΕΙΝΑΙ ΑΝΕΡΓΟΣ ΚΑΙ ΚΑΝΕΙ ΜΕΤΑΦΡΑΣΕΙΣ ΣΤΟ ΣΠΙΤΙ ( ΤΟΝ ΠΡΟΒΛΗΜΑΤΙΖΕΙ ΠΟΛΥ ΑΥΤΗ Η ΚΑΤΑΣΤΑΣΗ )</traumas>
+          <infections>ΟΥΔΕΝ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΕΚΖΕΜΑ ΑΝΩ ΑΚΡΩΝ Ο ΠΑΤΕΡΑΣ &#13;
+ ΥΠΕΡΤΣΗ Η ΜΗΤΕΡΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ ΕΙΔΙΚΑ ΤΑ ΚΑΤΩ ΑΚΡΑ ΤΟ ΧΕΙΜΩΝΑ ΕΙΝΑΙ ΚΡΥΑ</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΕ ΑΝΑΣΚΕΛΑ &#13;
+ Ο ΥΠΝΟΣ ΔΕΝ ΞΕΚΟΥΡΑΖΕΙ { ΞΥΠΝΑΩ ΧΑΛΙΑ }</sleeping_habits>
+        <food_modalities>ΚΡΕΑΣ DES 3&#13;
+ LIPOS 1&#13;
+ GLYKA 3</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>KLEISTO ATOMO 3&#13;
+ DEILOS 2&#13;
+ ΚΑΠΟΥ- ΚΑΠΟΥ ΕΧΕΙ ΞΕΣΠΑΣΜΑΤΑ ΜΕ ΦΩΝΕΣ &#13;
+ ΑΝΑΠΟΦΑΣΙΣΤΟΣ 3&#13;
+ ΥΨΟΦΟΒΙΑ 3&#13;
+ ΚΛΕΙΣΤΟΦΟΒΙΑ 1</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΥΠΕΡΘΥΡΟΕΙΔΙΣΜΟΣ - ΥΠΕΡΤΑΣΗ ΤΑ ΤΕΛΕΥΤΑΙΑ 2 ΧΡΟΝΙΑ</personal_medical_history>
+        <family_medical_history>ΑΛΛΕΡΓΙΚΗ ΠΡΟΔΙΑΘΕΣΗ</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>ΑΣΘΕΝΗΣ ΜΕ ΑΡΧΙΚΑ ΔΕΡΜΑΤΟΛΟΓΙΚΟ ΠΡΟΒΛΗΜΑ ΚΑΙ ΕΠΕΚΤΑΣΗ ΑΡΓΟΤΕΡΑ ΣΤΟ ΨΥΧΟΔΥΑΝΟΗΤΙΚΟ ΛΟΓΩ ΦΑΡΜΑΚΕΥΤΙΚΗΣ ΚΑΤΑΠΙΕΣΗΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΚΛΕΕΙ ΚΑΙ ΣΥΓΚΙΝΕΙΤΑΙ ΜΕ ΤΗΝ ΜΟΥΣΙΚΗ 3</peculiar>
+        <intense>ΞΗΡΔΕΡΜΙΑ 3 ΜΕ ΠΕΠΑΧΥΝΣΗ ΔΕΡΜΑΤΟΣ ΔΕ ΑΝΩ ΕΠΙΦ ΧΕΡΙΟΥ ΧΕΙΡ ΤΟ ΧΕΙΜΩΝΑ ΚΑΙ ΚΡΥΟ ΚΑΜΙΑ ΦΟΡΑ ΚΑΙ ΡΑΓΑΔΕΣ 3&#13;
+ ΔΥΣΧΕΡΕΙΑ ΡΙΝ ΑΝΑΠΝΟΗΣ ΑΠΟ ΡΙΝ ΠΟΛΥΠ ΜΕ ΕΞΑΡΣΕΙΣ ΚΑΙ ΥΦΕΣΗΣ ΧΕΙΡ ΑΝΟΙΞΗ ΚΑΙ ΦΘΗΝΟΠΩΡΟ 3&#13;
+ ΑΛΛΕΡΓΙΚΗ ΡΙΝΙΤΙΔΑ ΧΕΙΡ ΑΝΟΙΞΗ 2 &#13;
+ ΗΜΙΚΡΑΝΙΑ ΔΕ 3 &#13;
+ ΥΠΕΡΤΑΣΗ 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>EL44167a27515d17a389fed907ce40fe1f.xml</file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+ <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

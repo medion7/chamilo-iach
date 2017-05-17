@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL73560a731d7d07ccc132d3cc0ff29189</ID>
+  <patient>
+    <case_date>2014-10-27 10:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α.Γ.</patient_initials>
+    <age>0</age>
+    <circumstances>-</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ιγμορίτιδα, αλλεργική ρινιτιδα</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>Χειρότερα το πρωι</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Συνάχι, μπούκωμα , φτερνισματα και βήχα - χειρότερα όταν ξυπνάει και σε κλειστούς χωρους, ρινιτιδες και αμυγδαλίτιδα απο μικρή, πονοκέφαλος, φαγούρα στα μάτια την άνοιξη, στοματίτιδα  με φουσκάλες , άσπρη γλωσσα, σάλια σε μαξιλάρι, γεύση αίματος, πρήζεται ή κοιλιά, δυσκοιλιότητα, παλιότερα μύκητες και κολπιτιδες, σπάνε νύχια , τα τρωει, παλιότερα έβγαζε ερπη</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>-</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει, κρύα ακρα&#13;
+Ιδρωνει στον αυχενα</reactions>
+        <sleeping_habits>-</sleeping_habits>
+        <food_modalities>Επιθυμεί γλυκά(2), ξινά&#13;
+Απεχθεια φρουτα</food_modalities>
+        <menstruation>Κύκλος ως 35 ημέρες &#13;
+Πόνος για 4 ημέρες panadol advanced</menstruation>
+      </physical>
+      <mental_emotional>Νεύρα, ντροπαλή, δεν παίρνει εύκολα αποφάσεις, κλάιει ευκο!α  και μπροστά σε αλλους, κοινωνικη</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Μπούκωμα,(1), συνάχι(1), ιδρωνει στον αυχένα(2), κρύες πατούσες(2)(κάλτσες)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>-</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>200 ch</potency>
+        <regimen>x1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-10-27 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Καλύτερα σε όλα, όχι νεύρα, οχι αγχος, όχι κλαμα, δεν έκανε ρινίτιδα, έβγαλε ερπη πάλι, πόνος περιόδου καλύτερα, όχι δυσκοιλιότητα, κρυώνει λιγότερο, πόδια όχι πια παγωμένα και τα χέρια καλυτερα, πίνει περισσότερο νερό, πρώτη φορά μεγάλωσαν τα νυχια χωρις να σπασουν</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6x</potency>
+        <regimen>x30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-10-27 10:20:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Όλα παραμένουν καλά, καθυστέρηση περιόδου 2 φορές( 5 μέρες και 9), πονοκέφαλο και καταρροή τις μέρες που είχε παρά πολυ κρυο, διάθεση καλή, ενέργεια μετρια</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6x</potency>
+        <regimen>30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-10-27 10:00:00</followup_date>
+      <conv_med_presc>Πήρε αντιβιωση</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Εκανε ωτίτιδα με 38.5 πήρε αντιβιωση και έβγαλε μυκητες με υγρά κίτρινα και φαγουρα</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calc- car</remedy>
+        <potency>200ch(x1), 1M(x1)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

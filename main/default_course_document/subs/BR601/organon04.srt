@@ -1,0 +1,2539 @@
+1
+00:00:19,803 --> 00:00:29,949
+Nós temos visto a linha de pensamento de Hahnemann, que tenta convencer todo mundo
+
+2
+00:00:33,755 --> 00:00:38,722
+que temos encontrado aqui algo de grande valor, o que ninguém poderá duvidar
+
+3
+00:00:40,019 --> 00:00:50,466
+que seja assim. Que uma doença é curada por um remédio que apresenta sintomas semelhantes
+
+4
+00:00:51,487 --> 00:00:54,670
+na sua experimentação com uma doença.
+
+5
+00:00:58,521 --> 00:01:08,193
+A partir deste parágrafo em diante, teremos um problema.
+
+6
+00:01:16,740 --> 00:01:23,987
+Nós discordamos de Hahnemann. Não concordo com o que ele escreve e vou explicar
+
+7
+00:01:25,144 --> 00:01:33,133
+para vocês. Este processo de remédio semelhante curando a doença semelhante
+
+8
+00:01:35,918 --> 00:01:41,804
+"depende da seguinte lei da natureza homeopática que era, algumas vezes,
+
+9
+00:01:43,330 --> 00:01:51,113
+de fato, vagamente supôs, mas não totalmente reconhecido até então."
+
+10
+00:01:52,749 --> 00:02:00,146
+Foi mencionado por outros. Mas não totalmente reconhecido.
+
+11
+00:02:01,068 --> 00:02:08,380
+"[...] e para o qual é devido cada cura real que jamais ocorreu antes"
+
+12
+00:02:10,684 --> 00:02:14,281
+E agora ele afirma a lei
+
+13
+00:02:15,735 --> 00:02:25,294
+"[...] Uma afecção dinâmica mais fraca é permanentemente extinguida no organismo vivo
+
+14
+00:02:26,685 --> 00:02:47,791
+por uma mais forte, se o último for muito semelhante ao anterior, nas suas manifestações.
+
+15
+00:02:59,612 --> 00:03:15,176
+A ideia dele é que uma afecção no corpo humano, a doença, é extinta
+
+16
+00:03:17,772 --> 00:03:30,135
+por uma intervenção através do remédio se o último (se esta afecção dinâmica 
+
+17
+00:03:32,203 --> 00:03:37,742
+pelo remédio) é muito semelhante ao anterior, na sua manifestação."
+
+18
+00:03:45,298 --> 00:03:52,738
+Ele tem uma lógica e ele quer dar suporte à esta lógica.
+
+19
+00:03:54,281 --> 00:03:59,212
+Vou elogiar, mais tarde, depois que eu tiver mostrado a vocês parágrafo por parágrafo.
+
+20
+00:04:01,765 --> 00:04:09,075
+"O poder curativo dos medicamentos dependem dos seus sintomas, semelhantes à doença,
+
+21
+00:04:10,349 --> 00:04:14,138
+mas superior a ele na força."
+
+22
+00:04:15,699 --> 00:04:30,546
+O poder curativo dos remédios é devido ao fato de que esta forma dinâmica
+
+23
+00:04:32,295 --> 00:04:43,491
+dos remédios é superior na força do que a doença.
+
+24
+00:04:49,046 --> 00:04:54,670
+"[...] de modo que cada caso individual de doença é mais certamente aniquilado e removido rapidamente, radicalmente e 
+
+25
+00:04:55,780 --> 00:05:00,330
+permanentemente apenas por um medicamento capaz de produzir
+
+26
+00:05:01,380 --> 00:05:05,002
+(no sistema humano) de maneira mais semelhante e completa a totalidade dos
+
+27
+00:05:05,668 --> 00:05:10,299
+seus sintomas e que ao mesmo tempo é mais forte do que a da doença."
+
+28
+00:05:11,430 --> 00:05:22,145
+Ele insiste que o fato do remédio curar a doença é por causa do poder
+
+29
+00:05:22,962 --> 00:05:28,869
+do remédio ser maior do que o poder da doença.
+
+30
+00:05:33,003 --> 00:05:34,603
+Eu lerei um pouco mais.
+
+31
+00:05:36,960 --> 00:05:42,401
+"Como esta lei natural de cura se manifesta em cada experiência pura e cada observação
+
+32
+00:05:43,401 --> 00:05:51,259
+verdadeira no mundo, o fato é consequentemente estabelecido. Tem pouca importância de qual
+
+33
+00:05:53,365 --> 00:06:00,512
+poderá ser a explicação científica de como isso ocorre..."
+
+34
+00:06:02,748 --> 00:06:08,600
+Pela primeira vez, Hahnemann tem uma dúvida do que ele afirma.
+
+35
+00:06:10,756 --> 00:06:17,377
+Até este momento, Hahnemann havia dito que não havia experiência no mundo que pudesse dizer
+
+36
+00:06:18,184 --> 00:06:24,226
+que isso não é assim. É a primeira e a única vez onde ele menciona
+
+37
+00:06:30,022 --> 00:06:39,963
+"[...] Pouco importa qual poderá ser a explicação científica de como isso ocorre..."
+
+38
+00:06:43,796 --> 00:06:47,588
+Não é importante para mim, mas eu direi a vocês a minha ideia.
+
+39
+00:06:48,996 --> 00:06:56,872
+"[...] E eu não atribuo muita importância às tentativas de explicá-lo.
+
+40
+00:07:04,182 --> 00:07:14,274
+Mas a seguinte opinião parece recomendar-se como a explicação mais provável,
+
+41
+00:07:16,396 --> 00:07:22,291
+em que se baseia em premissas derivadas da experiência."
+
+42
+00:07:28,231 --> 00:07:33,322
+"Como toda doença consiste apenas em uma alteração dinâmica mórbida especial da nossa
+
+43
+00:07:33,901 --> 00:07:38,621
+energia vital que se manifesta na sensação e movimento, de modo que em cada cura homeopática
+
+44
+00:07:39,497 --> 00:07:45,137
+este princípio de vida dinamicamente alterada pela doença natural é tomado através da
+
+45
+00:07:45,606 --> 00:07:48,950
+administração da potência medicinal..." etc.
+
+46
+00:07:55,999 --> 00:07:58,099
+Vocês compreendem o que ele diz?
+
+47
+00:08:01,727 --> 00:08:08,734
+O remédio é mais poderoso do que a doença, portanto, o que ele faz, ele explicará
+
+48
+00:08:09,516 --> 00:08:19,670
+mais tarde, ele toma conta da doença, suprime a doença e tudo o que sobra
+
+49
+00:08:20,807 --> 00:08:30,904
+está fora desta intervenção poderosa com o remédio e, em seguida, com o tempo também irá embora.
+
+50
+00:08:33,844 --> 00:08:42,767
+Isso significa que ele entende que existem alguns sintomas que poderão ser deixados,
+
+51
+00:08:43,585 --> 00:08:51,696
+pertencente ao remédio após a cura, mas estes sintomas restantes simplesmente irão embora
+
+52
+00:08:52,927 --> 00:09:04,558
+com tempo. Esta é a sua explicação e ele afirma que a cura ocorre
+
+53
+00:09:05,716 --> 00:09:13,418
+porque o remédio é mais poderoso do que a doença.
+
+54
+00:09:14,528 --> 00:09:21,849
+Quando há uma afecção dinâmica mais fraca, é dominada por uma mais forte
+
+55
+00:09:23,382 --> 00:09:26,176
+e essa vai embora.
+
+56
+00:09:28,695 --> 00:09:34,879
+Eu estava lendo isso naquela época, eu me lembro e lembro também que estava tentando
+
+57
+00:09:35,907 --> 00:09:42,084
+quando as pessoas me perguntavam como isso acontecia. E eu não conseguia convencê-los
+
+58
+00:09:43,109 --> 00:09:45,644
+com esta explicação.
+
+59
+00:09:48,349 --> 00:09:52,588
+Então eu disse a mim mesmo: algo a mais está acontecendo.
+
+60
+00:09:53,681 --> 00:10:00,696
+E eu também não me entendia. Como é possível que isto não seja uma supressão?
+
+61
+00:10:02,781 --> 00:10:06,484
+Se isso é mais forte, ele suprime.
+
+62
+00:10:08,934 --> 00:10:16,485
+Finalmente, eu cheguei à conclusão do que realmente acontece.
+
+63
+00:10:18,398 --> 00:10:27,579
+Eu darei a vocês a minha explicação e assim vocês poderão julgar qual das 2 explicações
+
+64
+00:10:29,202 --> 00:10:31,270
+é a mais provável.
+
+65
+00:10:42,390 --> 00:10:52,188
+A sintomatologia desenvolve-se após o mecanismo de defesa ter sido ativado
+
+66
+00:10:54,517 --> 00:11:04,707
+por uma influência mórbida. Algo ataca o organismo, seja físico ou psíquico,
+
+67
+00:11:06,821 --> 00:11:10,827
+o organismo reage com a totalidade dos sintomas.
+
+68
+00:11:17,143 --> 00:11:19,136
+Por que o organismo faz essa reação?
+
+69
+00:11:22,385 --> 00:11:25,748
+Hahnemann deu o seu raciocínio e eu darei o meu.
+
+70
+00:11:32,942 --> 00:11:40,732
+O que os sintomas representam? Nós dizemos que é uma reação da força vital.
+
+71
+00:11:42,782 --> 00:11:52,945
+Uma reação para quê? O motivo é que há uma reação e os sintomas específicos
+
+72
+00:11:54,185 --> 00:12:03,183
+que o organismo desenvolve para poder curar-se.
+
+73
+00:12:05,801 --> 00:12:16,696
+É por isso que o organismo traz à tona os sintomas. É com intuito de restabelecer o equilíbrio.
+
+74
+00:12:18,098 --> 00:12:20,711
+Um exemplo.
+
+75
+00:12:23,293 --> 00:12:28,291
+Os seus organismos são atacados por bactérias ou microrganismos.
+
+76
+00:12:29,438 --> 00:12:38,544
+A primeira coisa que observamos é a elevação da temperatura do corpo, febre, febre alta.
+
+77
+00:12:45,347 --> 00:12:56,549
+E após 3 dias, se ele tiver tomado remédio ou não, tudo isso desaparece.
+
+78
+00:12:58,635 --> 00:13:06,934
+O organismo retorna ao normal. Ele foi atacado, reagiu e, por causa da reação dele, 
+
+79
+00:13:10,559 --> 00:13:15,995
+por que ele desenvolveu a febre? Porque o organismo percebe que esses microrganismos
+
+80
+00:13:17,448 --> 00:13:31,057
+que entraram no meu corpo são tão violentos, virulentos que eu tenho que fazer algo.
+
+81
+00:13:32,454 --> 00:13:36,229
+Caso contrário, eu morrerei. O que eu poderei fazer?
+
+82
+00:13:39,522 --> 00:13:47,377
+Eu posso elevar a temperatura, assim eu sei que esses microrganismos podem viver somente em um
+
+83
+00:13:48,223 --> 00:13:52,795
+ambiente que é menor do que 40.2ºC.
+
+84
+00:13:56,048 --> 00:14:02,498
+Se eu elevar minha temperatura em 40.3ºC eles morrerão.
+
+85
+00:14:05,272 --> 00:14:15,855
+Esta é a ideia do processo de uma doença aguda, a qual apresenta um período prodrômico,
+
+86
+00:14:20,311 --> 00:14:31,772
+(a multiplicação dos microrganismos), em seguida, surge o período principal, no qual temos
+
+87
+00:14:32,536 --> 00:14:37,141
+a reação do organismo, uma vez que o organismo percebe, assim as bactérias vão
+
+88
+00:14:37,946 --> 00:14:41,805
+me dominando, começa a reação.
+
+89
+00:14:43,144 --> 00:14:53,153
+A reação eleva a temperatura e, finalmente, surge a resolução do agudo,
+
+90
+00:14:53,353 --> 00:15:05,538
+que é ou a cura ou a morte.
+
+91
+00:15:07,247 --> 00:15:18,337
+Se os microrganismos precisam de uma temperatura de 40.3ºC e o organismo consegue elevar até 40ºC,
+
+92
+00:15:20,818 --> 00:15:37,379
+os microrganismos mantêm a multiplicação e em seguida, o organismo tenta mais e mais e
+
+93
+00:15:38,213 --> 00:15:40,767
+finalmente fica exausto, sucumbe e morre.
+
+94
+00:15:43,395 --> 00:15:54,795
+O final de qualquer condição aguda é ou a cura através da reação do organismo,
+
+95
+00:15:56,883 --> 00:16:05,767
+ou a morte, se o organismo não for capaz de apresentar uma reação suficientemente forte.
+
+96
+00:16:10,473 --> 00:16:17,217
+Eles compreenderam isso. Este é o motivo pelo qual nós temos sintomas.
+
+97
+00:16:23,071 --> 00:16:34,366
+Mas se isso é verdade, que os sintomas são úteis para o organismo que está manifestando-os,
+
+98
+00:16:36,137 --> 00:16:39,691
+se eles são úteis, então eles não deveriam ser suprimidos.
+
+99
+00:16:43,085 --> 00:16:50,023
+Porque se vocês suprimi-los, então vocês terão efeitos colaterais.
+
+100
+00:16:53,768 --> 00:17:03,010
+Em algum outro lugar o organismo encontrará uma forma de difundir o problema.
+
+101
+00:17:14,207 --> 00:17:25,138
+Com antibióticos, sabemos o que acontece. Nós temos encontrado formas de sufocar
+
+102
+00:17:27,158 --> 00:17:34,705
+os microrganismos através de antibióticos e, desta forma, os atacamos.
+
+103
+00:17:43,348 --> 00:17:50,203
+Como tratamos com sucesso as condições agudas com a Homeopatia?
+
+104
+00:17:50,893 --> 00:17:54,744
+Com o remédio semelhante. O que é o remédio semelhante?
+
+105
+00:17:56,021 --> 00:18:03,600
+Vocês devem lembrar que demos um remédio que produziu em organismos saudáveis
+
+106
+00:18:04,505 --> 00:18:06,944
+uma totalidade dos sintomas.
+
+107
+00:18:07,980 --> 00:18:12,570
+Nós pegamos este remédio que produz sintomas semelhantes com o organismo
+
+108
+00:18:14,530 --> 00:18:23,335
+sob observação e pegamos este remédio e o damos a este organismo.
+
+109
+00:18:25,220 --> 00:18:33,349
+Mas se este remédio tiver produzido sintomas semelhantes àqueles do organismo,
+
+110
+00:18:34,818 --> 00:18:46,371
+vocês dão este remédio, este remédio, em vez de passar por cima e suprimir
+
+111
+00:18:48,165 --> 00:18:51,905
+a manifestação, o que ele fará?
+
+112
+00:18:53,752 --> 00:18:59,358
+O mecanismo é que, o organismo, com intuito de salvar-se, ele produz
+
+113
+00:19:00,642 --> 00:19:04,807
+a sintomatologia. Quando vocês tomam um remédio que produz uma sintomatologia semelhante
+
+114
+00:19:05,883 --> 00:19:13,121
+e vocês o dão ao organismo. Pelo amor de Deus, o que vai acontecer?
+
+115
+00:19:15,198 --> 00:19:29,828
+Vocês matarão o organismo por causa do remédio que deram, tornarão os sintomas piores.
+
+116
+00:19:33,292 --> 00:19:39,570
+Porque o mecanismo é o mesmo.
+
+117
+00:19:40,767 --> 00:19:46,439
+Quando o organismo recebe essa substância particular, reage de uma forma semelhante, como
+
+118
+00:19:47,452 --> 00:19:58,007
+está reagindo durante a doença. Assim, vocês dão no topo da reação que foi produzida 
+
+119
+00:19:58,935 --> 00:20:06,372
+no organismo, vocês dão um remédio para aumentar a reação do organismo.
+
+120
+00:20:07,863 --> 00:20:16,730
+Para aumentarem os sintomas, não para diminuí-los. Está claro?
+
+121
+00:20:20,032 --> 00:20:27,206
+Portanto, mais provavelmente a ideia de Hahnemann estava errada.
+
+122
+00:20:31,126 --> 00:20:44,612
+Ele compreendeu aquilo... não é importante o que acontece, mas eu direi a vocês.
+
+123
+00:20:45,365 --> 00:20:54,702
+O remédio é mais forte e suprime a perturbação dinâmica mais fraca.
+
+124
+00:20:57,214 --> 00:21:04,682
+Na realidade, ele aumenta a reação do organismo. Nessa altura, o que ele faz?
+
+125
+00:21:06,003 --> 00:21:16,358
+Como eu disse anteriormente, o organismo em uma pneumonia por infecção estreptocócica, necessita alcançar 
+
+126
+00:21:17,486 --> 00:21:26,107
+40.2ºC para que os microrganismos morram.
+
+127
+00:21:31,096 --> 00:21:43,684
+Ele não consegue alcançá-la e faz um esforço, 40, 40.1, pela manhã o organismo está cansado
+
+128
+00:21:44,777 --> 00:21:57,576
+38ºC, à noite surge novamente 40.1ºC para queimar os microrganismos.
+
+129
+00:21:58,858 --> 00:22:04,324
+E no terceiro dia, na pneumonia, o organismo está lutanto e está começando
+
+130
+00:22:04,946 --> 00:22:07,731
+a colapsar. Ele morrerá.
+
+131
+00:22:14,931 --> 00:22:19,901
+Aí vocês virão com os seus conhecimentos e vocês darão este pequeno empurrão para o mecanismo
+
+132
+00:22:20,938 --> 00:22:33,430
+de defesa, a força vital e vocês a estimulam. 40.2ºC e no dia seguinte... sem febre.
+
+133
+00:22:37,353 --> 00:22:43,314
+Vocês percebem a lógica por trás?
+
+134
+00:22:44,812 --> 00:22:50,569
+- Eu acho que por um lado, você está correto. Por exemplo, o fenômeno, se você der Belladonna em
+
+135
+00:22:51,566 --> 00:22:59,578
+febre da infância de 39.5ºC, pode ser que a febre aumente ainda mais, mas
+
+136
+00:23:00,066 --> 00:23:04,588
+em seguida, ela abaixa e eu sempre explico aos pais que a febre tem o seu próprio sentido,
+
+137
+00:23:05,812 --> 00:23:11,526
+em tempos ele funciona melhor, o remédio homeopático não suprime imediatamente, mas
+
+138
+00:23:12,755 --> 00:23:21,491
+ele ajuda a passar por cima do pico da montanha e então ele poderá seguir para a cura.
+
+139
+00:23:23,488 --> 00:23:36,024
+Assim, o período em que a febre aumenta, como uma primeira reação, é em seu sentido a reação
+
+140
+00:23:36,930 --> 00:23:42,628
+o organismo será estimulado ainda mais, mas, em seguida, ele começa o que Hahnemann diz,
+
+141
+00:23:43,858 --> 00:23:51,211
+o aniquilamento e a febre cai por si só.
+
+142
+00:23:52,357 --> 00:23:56,831
+E o organismo sabe por si quando este é o momento.
+
+143
+00:23:58,690 --> 00:24:01,773
+Assim, você está correto e Hahnemann também está correto.
+
+144
+00:24:18,314 --> 00:24:26,481
+- Há um provérbio na Grécia. Nós dizemos: você não pode ter uma torta inteira e ao mesmo tempo
+
+145
+00:24:27,478 --> 00:24:37,440
+o cachorro estar bem alimentado. Isto não é possível.
+
+146
+00:24:38,835 --> 00:24:42,440
+O que você diz não está correto, isso se contradiz.
+
+147
+00:24:45,330 --> 00:24:57,599
+Hahnemann diz que a reação dinâmica - e futuramente ele apoiará esta ideia - 
+
+148
+00:25:00,071 --> 00:25:16,383
+é mais forte... Na verdade, ele dirá mais tarde, que os remédios podem afetar todos os organismos.
+
+149
+00:25:17,934 --> 00:25:30,075
+Isso significa que se eu aumentar a quantidade da substância,
+
+150
+00:25:39,847 --> 00:25:42,496
+aí teremos um efeito em todo mundo.
+
+151
+00:25:47,839 --> 00:25:55,154
+Se eu der a vocês uma substância simples, não venenosa, a tintura mãe de Gelsemium,
+
+152
+00:26:04,062 --> 00:26:16,248
+100 mg, 3 vezes ao dia. No segundo ou no terceiro dia, terão alguns de vocês
+
+153
+00:26:17,087 --> 00:26:20,602
+que dirão: "eu sinto uma tontura."
+
+154
+00:26:23,892 --> 00:26:37,338
+Se eu aumentar isso, 500 mg e em seguida, eu continuo para 1 g da tintura mãe, 2, 3, 5, 10, 
+
+155
+00:26:38,786 --> 00:26:45,327
+20 g, finalmente todo mundo terá os sintomas.
+
+156
+00:26:46,619 --> 00:26:57,530
+Assim, Hahnemann dirá mais tarde que o medicamento poderá ser aumentado em quantidade e poderá
+
+157
+00:26:58,478 --> 00:27:03,009
+afetar todo mundo enquanto a doença não pode afetar todos.
+
+158
+00:27:04,487 --> 00:27:11,897
+Poderá ser uma epidemia e, de nós, apenas 20% serão afetados.
+
+159
+00:27:14,865 --> 00:27:21,718
+A epidemia não afeta todas as pessoas. Vocês precisam ter uma predisposição.
+
+160
+00:27:23,434 --> 00:27:28,767
+Mas com a medicação, vocês não tem que ter uma predisposição.
+
+161
+00:27:30,410 --> 00:27:42,840
+Se eu der a vocês uma substância suficiente, criará o que é conhecido atualmente como efeitos colaterais
+
+162
+00:27:43,887 --> 00:27:46,055
+das drogas químicas.
+
+163
+00:27:47,594 --> 00:27:57,236
+Se eu der a vocês antibióticos por uma semana, alguns de vocês serão destruídos dentro de uma semana.
+
+164
+00:27:58,354 --> 00:28:04,525
+Alguns não sentirão muito bem. Mas se eu continuar e aumentar a dose e, ao invés 
+
+165
+00:28:05,357 --> 00:28:18,504
+de 500 mg, eu dou a vocês 1 g, 3 vezes ao dia, em 10 dias todo mundo estará de cama.
+
+166
+00:28:20,506 --> 00:28:29,626
+A ideia dele é o medicamento, a substância que poderá afetar, portanto, é mais forte do que
+
+167
+00:28:30,792 --> 00:28:35,757
+a doença que pode afetar apenas determinados indivíduos.
+
+168
+00:28:37,657 --> 00:28:48,531
+Aqui é o ponto onde ele cometeu um engano e considerou a explicação.
+
+169
+00:28:50,083 --> 00:28:56,633
+Mas como eu disse, ele mesmo duvidou do que escreveu.
+
+170
+00:28:58,450 --> 00:29:01,728
+"[...] Eu não atribuo muita importância...".
+
+171
+00:29:39,988 --> 00:29:48,275
+"Como toda doença (não inteiramente cirúrgica)..." por que ele diz "não inteiramente cirúrgica"?
+
+172
+00:29:54,028 --> 00:30:00,734
+Ele também observou que quando um tumor tenha sido formado, mais provavelmente naquela época
+
+173
+00:30:02,554 --> 00:30:12,940
+ele teria visto alguns tumores malignos e ele observaria que o organismo
+
+174
+00:30:14,372 --> 00:30:21,610
+teria alcançado um estágio além, no qual o remédio poderia não afetar
+
+175
+00:30:24,140 --> 00:30:28,056
+e ele o nomeia como não-cirúrgico. Isso significa que se há um grande tumor,
+
+176
+00:30:30,536 --> 00:30:35,929
+Eu não sei quando começou a ter cirurgia, mas parece que na época dele,
+
+177
+00:30:37,889 --> 00:30:45,860
+eles começaram algumas cirurgias boas, ele disse que se esta não é uma doença cirúrgica,
+
+178
+00:30:50,080 --> 00:30:52,276
+então poderíamos fazer alguma coisa.
+
+179
+00:30:55,485 --> 00:31:02,335
+"[...] consiste apenas em uma alteração dinâmica mórbida especial da energia vital...
+
+180
+00:31:10,886 --> 00:31:21,817
+manifestada em sensação e movimento, assim em cada cura homeopática, 
+
+181
+00:31:23,331 --> 00:31:30,433
+este princípio de vida dinamicamente alterada pela doença natural é tomado através
+
+182
+00:31:31,362 --> 00:31:38,239
+da administração da potência medicinal selecionada exatamente de acordo com a similitude
+
+183
+00:31:38,439 --> 00:31:48,885
+dos sintomas por uma manifestação similar da doença artificial, um pouco mais forte."
+
+184
+00:31:51,648 --> 00:32:02,987
+A ideia de uma afecção medicinal mais forte ainda continua.
+
+185
+00:32:04,477 --> 00:32:11,776
+"[...] Por isso, a sensação da manifestação dinâmica da doença natural (mais fraca)
+
+186
+00:32:13,018 --> 00:32:14,479
+cessa e desaparece.
+
+187
+00:32:17,555 --> 00:32:24,603
+Esta manifestação da doença não existe mais para o princípio da vida, que é agora
+
+188
+00:32:25,469 --> 00:32:32,099
+ocupada e governada apenas pela manifestação da doença artificial mais forte."
+
+189
+00:32:34,270 --> 00:32:41,456
+A ideia dele é que a doença é mais fraca, o poder medicinal é mais forte
+
+190
+00:32:42,995 --> 00:32:54,948
+e o poder medicinal assume o controle e derrota a manifestação mais fraca e
+
+191
+00:32:55,830 --> 00:33:00,248
+agora o mais forte está governando o organismo.
+
+192
+00:33:06,823 --> 00:33:14,573
+"[...] Esta manifestação da doença artificial gasta brevemente a sua força e deixa
+
+193
+00:33:15,415 --> 00:33:17,795
+o paciente livre da doença e curado."
+
+194
+00:33:20,718 --> 00:33:37,313
+Esta doença artificial mais forte toma conta e deixa o organismo livre.
+
+195
+00:33:39,151 --> 00:33:53,068
+"[...] A dynamis, assim liberta, poderá agora continuar a levar a vida com saúde.
+
+196
+00:33:54,777 --> 00:34:03,425
+Este é o processo muito mais provável..." Vocês percebem que Hahnemann, que nunca duvida, diz
+
+197
+00:34:04,136 --> 00:34:14,500
+"Esse processo muito mais provável recai sobre as seguintes proposições."
+
+198
+00:34:16,753 --> 00:34:21,396
+Assim eu explicarei a vocês isto: é provável.
+
+199
+00:34:24,401 --> 00:34:31,032
+"O corpo humano parece admitir ser muito mais poderosamente afetado
+
+200
+00:34:32,397 --> 00:34:41,817
+na sua saúde por medicamentos do que por estímulos mórbidos naturais, para doenças naturais
+
+201
+00:34:42,822 --> 00:34:45,216
+são curadas e superadas pelos medicamentos adequados."
+
+202
+00:34:47,696 --> 00:34:54,958
+O que eu disse anteriormente. Para ele, as doenças naturais são mais fracas, porque elas são curadas
+
+203
+00:34:56,275 --> 00:34:59,361
+por medicamentos, assim os medicamentos são mais fortes do que as doenças.
+
+204
+00:35:05,675 --> 00:35:11,391
+Ele não percebeu o mecanismo subjacente da sua descoberta.
+
+205
+00:35:12,394 --> 00:35:14,141
+O mecanismo verdadeiro é diferente.
+
+206
+00:35:19,179 --> 00:35:26,696
+"O corpo humano parece admitir ser muito mais poderosamente afetado na
+
+207
+00:35:27,569 --> 00:35:41,062
+sua saúde por medicamentos do que pelas doenças naturais, para as doenças naturais são curadas e superadas pelos medicamentos adequados."
+
+208
+00:35:45,318 --> 00:35:55,087
+Parágrafo 31: "As forças inimigas, parcialmente psíquica, parcialmente física,
+
+209
+00:35:57,805 --> 00:36:11,234
+às quais a nossa existência terrestre é exposta, que são denominados agentes mórbidos 
+
+210
+00:36:12,300 --> 00:36:18,915
+nocivos, não possuem o poder de desarranjar morbidamente a saúde do homem
+
+211
+00:36:20,040 --> 00:36:23,470
+incondicionalmente." Isto é o que dissemos.
+
+212
+00:36:26,353 --> 00:36:39,803
+Os estresses, seja psíquico ou físico, não tem o poder de afetar todos os
+
+213
+00:36:40,925 --> 00:36:43,786
+organismos incondicionalmente.
+
+214
+00:36:50,846 --> 00:36:58,670
+"[...] Mas nos tornamos doentes por eles somente quando nosso organismo está suficientemente disposto
+
+215
+00:36:59,782 --> 00:37:02,426
+e susceptível ao ataque..."
+
+216
+00:37:04,434 --> 00:37:09,539
+Hahnemann havia percebido tudo que estava acontecendo.
+
+217
+00:37:10,111 --> 00:37:15,366
+O fato de que nós discordamos desta pequena explicação, isso não significa nada para tirar
+
+218
+00:37:15,955 --> 00:37:25,028
+a genialidade dele. Ele diz que para alguém adoecer, ele deverá ter predisposição
+
+219
+00:37:25,958 --> 00:37:34,743
+a isso, ele deverá ter uma susceptibilidade, uma predisposição, caso contrário, ele não será afetado.
+
+220
+00:37:36,282 --> 00:37:51,554
+Vocês percebem como esta predisposição é manifestada em um organismo.
+
+221
+00:37:55,077 --> 00:38:03,290
+Eu darei a vocês um exemplo muito prático que todos entenderão.
+
+222
+00:38:09,572 --> 00:38:17,903
+Na idade de 16 anos, vocês tiveram um amante e ele comportou-se muito mal e disse algo
+
+223
+00:38:18,907 --> 00:38:21,185
+que os insultou.
+
+224
+00:38:22,334 --> 00:38:29,072
+Com 18 anos, vocês tiveram outro amante e ele comportou-se de forma semelhante.
+
+225
+00:38:32,736 --> 00:38:44,270
+O terceiro amante que tiveram, vocês esperarão que ele comportará de forma semelhante
+
+226
+00:38:45,541 --> 00:38:56,495
+e vocês já criaram em si uma susceptibilidade para este estresse particular.
+
+227
+00:38:57,960 --> 00:39:05,680
+"Se ele me disser: eu não gosto mais de você e devo deixá-la, porque não
+
+228
+00:39:08,218 --> 00:39:19,048
+sinto amor por você" poderá ser tão estressante, porque esta susceptibilidade foi 
+
+229
+00:39:20,067 --> 00:39:25,187
+construída em vocês e na terceira vez, vocês escutam este estresse...
+
+230
+00:39:26,365 --> 00:39:32,444
+a primeira vez vocês superam, na segunda vez foi um pouco mais difícil, na terceira...
+
+231
+00:39:33,227 --> 00:39:48,013
+mas na quarta vocês estão destruídos, porque o impacto psíquico encontrou o chão
+
+232
+00:39:50,649 --> 00:40:01,231
+que estava preparado para ser bastante afetado por tal estresse.
+
+233
+00:40:03,408 --> 00:40:15,703
+O mesmo organismo, o mesmo ser humano tem um choque por causa da perda do seu trabalho.
+
+234
+00:40:19,816 --> 00:40:29,193
+Ele perde-o pela primeira, segunda, terceira vez... Ele não se importa. Ele tenta outro emprego.
+
+235
+00:40:30,564 --> 00:40:40,550
+Há um estresse novamente, mas este organismo é susceptível à esta informação particular.
+
+236
+00:40:41,577 --> 00:40:52,979
+Essa informação particular criará um problema, como a doença no corpo.
+
+237
+00:40:54,975 --> 00:41:08,160
+Hahnemann diz exatamente isto: "[...] mas nos tornamos doentes através deles somente quando nosso organismo
+
+238
+00:41:14,372 --> 00:41:18,818
+está suficientemente disposto e susceptível ao ataque da causa mórbida que poderá estar presente,
+
+239
+00:41:19,821 --> 00:41:30,314
+e ser alterada na sua saúde, desarranjada e nos faz passar por sensações e funções
+
+240
+00:41:31,636 --> 00:41:37,918
+anormais, consequentemente, eles não produzem doença em todo mundo
+
+241
+00:41:38,937 --> 00:41:41,032
+ou o tempo todo."
+
+242
+00:41:42,861 --> 00:41:51,448
+Assim, ele ressalta que a doença tem que encontrar um terreno susceptível. Ele deixa isso bem claro.
+
+243
+00:42:05,391 --> 00:42:11,455
+- Eu apenas quis compreender a natureza do estresse. O estresse poderá ser transformado em uma
+
+244
+00:42:12,416 --> 00:42:17,645
+disposição se acontecer de novo e de novo ou algumas pessoas não serão afetadas mesmo
+
+245
+00:42:18,476 --> 00:42:19,909
+se isso acontecer de novo e de novo?
+
+246
+00:42:23,926 --> 00:42:31,027
+- Um estresse, se acontecer de novo e de novo, criará definitivamente uma predisposição,
+
+247
+00:42:33,834 --> 00:42:47,488
+mas no mesmo indivíduo, diferentes tipos de estresse ocorrerão diferentes números
+
+248
+00:42:49,030 --> 00:42:54,159
+de vezes que o organismo deverá ser atacado.
+
+249
+00:42:58,707 --> 00:43:08,269
+Uma mulher gosta dos seus filhos. Mas existem mulheres que conseguem deixar as filhas,
+
+250
+00:43:09,497 --> 00:43:15,154
+o filho. Elas fogem com um amante ou abandonam a criança.
+
+251
+00:43:20,239 --> 00:43:26,829
+Essa mulher não tem uma susceptibilidade nesta área.
+
+252
+00:43:27,929 --> 00:43:35,579
+Outra mulher, toda a vida dela é a filha. Vocês conseguem imaginar com o primeiro ataque
+
+253
+00:43:35,779 --> 00:43:42,751
+sobre a filha, isso significa que a filha adoeceu. É uma grande coisa!
+
+254
+00:43:42,951 --> 00:43:50,299
+A filha adoece e poderá morrer. A mulher ficará destruída.
+
+255
+00:43:50,499 --> 00:43:57,260
+Essa área, para esta mulher, é uma área sensível.
+
+256
+00:43:57,460 --> 00:44:09,213
+Da próxima vez, se a filha continuar adoecendo mais e mais, o estresse sobre
+
+257
+00:44:09,413 --> 00:44:19,225
+a mãe será tão grande que ela ficará doente, ela definitivamente desenvolverá algum
+
+258
+00:44:20,165 --> 00:44:28,014
+tipo de condição crônica. Mas deverá existir uma susceptibilidade.
+
+259
+00:44:30,218 --> 00:44:32,878
+E então ele continua...
+
+260
+00:44:34,114 --> 00:44:45,383
+"Mas é muito diferente com os agentes mórbidos artificiais que nós denominamos medicamentos.
+
+261
+00:44:45,583 --> 00:44:57,461
+Cada medicamento verdadeiro, nomeadamente, atua em todos os momentos, em todas as circunstâncias, em cada ser humano
+
+262
+00:44:57,661 --> 00:45:12,005
+vivo, e produz nele seus sintomas peculiares (nitidamente perceptíveis, se...)"
+
+263
+00:45:12,205 --> 00:45:22,605
+Existe este "se" que muitas vezes nós não o levamos em consideração.
+
+264
+00:45:22,805 --> 00:45:34,282
+O grande "se" é este: "[...] se a dose for suficientemente grande"
+
+265
+00:45:38,033 --> 00:45:52,347
+Todos os medicamentos atuam em todos os humanos o tempo todo, desde que a dose seja suficiente.
+
+266
+00:45:58,383 --> 00:46:09,456
+Isso significa que quando queremos tentar uma nova experimentação de um remédio,
+
+267
+00:46:09,656 --> 00:46:16,036
+o que temos que fazer para que este possa afetar e produzir sintomas?
+
+268
+00:46:16,236 --> 00:46:27,122
+Temos que dar doses suficientemente grandes nas experimentações.
+
+269
+00:46:27,322 --> 00:46:50,265
+Isso significa que se vocês quiserem experimentar chocolate, vocês não poderão experimentá-lo dando
+
+270
+00:46:50,465 --> 00:46:57,089
+um pedacinho de chocolate para todo mundo.
+
+271
+00:46:57,289 --> 00:47:10,740
+Hoje teremos que comer 100 g de chocolate cada um. Ok, talvez 200 g.
+
+272
+00:47:14,007 --> 00:47:24,173
+Fora de nós, teremos 2 ou 3 que chegarão e dirão: "Eu tenho no meu estômago isso e aquilo..."
+
+273
+00:47:26,566 --> 00:47:30,582
+Eu direi: "Fora do experimento." No restante? Nada acontece.
+
+274
+00:47:30,782 --> 00:47:42,341
+400 g de chocolate hoje. Outras 10 pessoas terão isso, dores de cabeça etc.
+
+275
+00:47:42,541 --> 00:47:48,328
+Vocês observam, anotam os seus sintomas. Querem continuar? Sim.
+
+276
+00:47:48,528 --> 00:47:58,492
+Meio quilo de chocolate. Esta é a maneira.
+
+277
+00:47:58,692 --> 00:48:05,487
+Se a dose é grande o suficiente, todo mundo, mesmo aqueles que são bastante resistentes ao chocolate,
+
+278
+00:48:05,687 --> 00:48:10,855
+se vocês continuarem dando quilos de chocolate, eles adoecerão.
+
+279
+00:48:18,692 --> 00:48:22,653
+Como experimentamos os remédios?
+
+280
+00:48:22,853 --> 00:48:31,766
+Aquelas pessoas que saíram do experimento primeiro por causa de um pedaço de chocolate,
+
+281
+00:48:31,966 --> 00:48:36,292
+eles adoeceram, eles são os mais sensíveis.
+
+282
+00:48:36,492 --> 00:48:43,898
+Mais tarde, encontraremos na experimentação, Hahnemann diz que quando vocês tiverem encontrado essas pessoas
+
+283
+00:48:44,098 --> 00:48:56,450
+vocês poderão tentar uma potência elevada nelas. E assim, vocês terão uma experimentação verdadeira.
+
+284
+00:48:56,650 --> 00:49:07,161
+Se a dose for grande o suficiente.
+
+285
+00:49:17,700 --> 00:49:25,082
+"[...] de modo que, evidentemente, cada organismo humano vivo é susceptível de ser afetado..."
+
+286
+00:49:27,337 --> 00:49:32,423
+Por um quilo de chocolate todos os dias, no 3º dia, vocês poderão precisar ir ao hospital
+
+287
+00:49:33,843 --> 00:49:40,625
+"[...] E, por assim dizer, inoculada com a doença medicinal todas as vezes
+
+288
+00:49:41,975 --> 00:49:51,460
+e absolutamente (incondicionalmente), que, como foi dito anteriormente, não é de forma alguma o caso
+
+289
+00:49:53,437 --> 00:49:55,449
+com as doenças naturais."
+
+290
+00:49:55,649 --> 00:50:11,350
+Ele diz que a doença natural não tem o poder de aumentar a dose.
+
+291
+00:50:11,550 --> 00:50:19,791
+No momento em que sou atacado por um grupo de microrganismos...
+
+292
+00:50:19,991 --> 00:50:28,091
+Por um engano, eu comi algo com um grupo de microrganismos.
+
+293
+00:50:28,291 --> 00:50:44,795
+Em seguida, o organismo, se ele perceber que isto é perigoso para a minha vida, criará uma reação
+
+294
+00:50:44,995 --> 00:50:57,281
+para matar as bactérias. Qual é a reação? Se vocês ingeriram a bactéria do trato digestivo,
+
+295
+00:50:57,481 --> 00:51:13,410
+vocês começarão a vomitar, diarreia e purgação. Assim, todos os microrganismos possíveis 
+
+296
+00:51:13,610 --> 00:51:21,138
+que eles criaram dentro do organismo, finalmente será morto através 
+
+297
+00:51:21,338 --> 00:51:35,728
+desta reação. É por isso que na intoxicação alimentar, vocês sempre têm diarreia e vômito.
+
+298
+00:51:35,928 --> 00:51:44,937
+Existem alguns organismos que são sensíveis a isto. Assim, uma intoxicação em um organismo
+
+299
+00:51:45,137 --> 00:52:02,450
+por alguns microrganismos ingeridos será muito mais suave do que em um outro que rapidamente 
+
+300
+00:52:02,650 --> 00:52:17,366
+estará em um estado de gastroenterite aguda grave com febre alta e ao mesmo tempo,
+
+301
+00:52:17,566 --> 00:52:24,648
+sangue nas fezes ou no vômito. Este é um quadro grave.
+
+302
+00:52:24,848 --> 00:52:31,214
+Isso quer dizer que o organismo estava susceptível a este particular.
+
+303
+00:52:31,414 --> 00:52:38,479
+Mas a doença não tem a possibilidade, como estou doente, de aumentar a dose,
+
+304
+00:52:38,679 --> 00:52:42,411
+de tomar um pouco mais.
+
+305
+00:52:42,611 --> 00:52:48,873
+A doença não tem a possibilidade de me dar mais microrganismos.
+
+306
+00:52:49,073 --> 00:52:56,369
+Eu ingeri os microrganismos, em qualquer condição, pois eu respirei ou ingeri,
+
+307
+00:52:56,569 --> 00:53:03,190
+mas passou. Após isso, a reação inicia-se e a doença natural
+
+308
+00:53:03,390 --> 00:53:09,235
+não tem a possibilidade de aumentar a dose, assim, poderei morrer.
+
+309
+00:53:09,435 --> 00:53:15,816
+Pois vocês sempre morrerão se a doença tiver essa possibilidade.
+
+310
+00:53:16,016 --> 00:53:20,751
+Vocês nunca sobreviveriam.
+
+311
+00:53:25,596 --> 00:53:35,254
+Eu lerei, apenas para mostrar a vocês as ideias dele. " De acordo com este fato..."
+
+312
+00:53:35,454 --> 00:53:44,224
+que os poderes medicinais afetam cada humano "[...] é inegavelmente mostrado por
+
+313
+00:53:44,424 --> 00:53:50,298
+todas as experiências que o organismo humano vivo está muito mais predisposto e 
+
+314
+00:53:50,498 --> 00:53:57,239
+tem uma susceptibilidade maior de sofrer uma ação e ter a sua saúde organizada por
+
+315
+00:53:57,439 --> 00:54:00,349
+poderes medicinais..."
+
+316
+00:54:00,549 --> 00:54:11,490
+Ele compreendeu isso e disse novamente: "É inegavelmente mostrado por toda experiência."
+
+317
+00:54:11,690 --> 00:54:20,060
+Ninguém poderá negar. Ele não disse isto para a forma que ele explicou como o remédio funciona.
+
+318
+00:54:20,260 --> 00:54:29,525
+Este é o único momento que ele duvida. Hahnemann sabe muito bem que quando ele diz
+
+319
+00:54:29,725 --> 00:54:35,322
+que não há dúvida, vocês poderão trazer todas as experiências, o mundo todo,
+
+320
+00:54:35,522 --> 00:54:37,867
+as coisas são assim.
+
+321
+00:54:38,067 --> 00:54:46,437
+A única vez que ele duvidou foi quando ele estava explicando a maneira pela qual o remédio atua.
+
+322
+00:54:46,637 --> 00:55:06,237
+Parágrafo 33: "De acordo com este fato, é inegavelmente mostrado por todas as experiências
+
+323
+00:55:06,437 --> 00:55:14,960
+que o organismo humano vivo é muito mais predisposto e tem uma susceptibilidade maior
+
+324
+00:55:15,160 --> 00:55:23,305
+de sofrer uma ação e ter sua saúde desorganizada pelos poderes medicinas do que
+
+325
+00:55:23,505 --> 00:55:32,124
+por agentes mórbidos nocivos e miasmas infecciosos.
+
+326
+00:55:32,324 --> 00:55:41,339
+Em outras palavras, os agentes mórbidos nocivos possuem um poder de desorganizar
+
+327
+00:55:41,539 --> 00:55:53,469
+patologicamente a saúde do homem, que é subordinado e condicional, frequentemente muito condicional
+
+328
+00:55:53,669 --> 00:56:00,813
+enquanto agentes medicinais têm um poder incondicional absoluto, muito superior
+
+329
+00:56:01,013 --> 00:56:02,915
+do que o primeiro."
+
+330
+00:56:05,217 --> 00:56:14,651
+Hahnemann estava dizendo simplesmente que se ele fosse um profeta, que as medicações que
+
+331
+00:56:14,851 --> 00:56:28,111
+vocês administrarão após 200 anos, elas irão suprimir e causar problemas,
+
+332
+00:56:28,311 --> 00:56:40,550
+pois não há nenhum organismo que poderá resistir ao efeito das substâncias químicas,
+
+333
+00:56:40,750 --> 00:56:54,346
+poderes medicinais. Não há organismo que possa resistir, especialmente se a dose
+
+334
+00:56:54,546 --> 00:57:01,125
+for grande o suficiente e repetida, isso é exatamente o que acontece atualmente com
+
+335
+00:57:01,325 --> 00:57:07,174
+as drogas químicas convencionais.
+
+336
+00:57:07,374 --> 00:57:18,605
+No momento em que vocês dão uma droga, o que acontece é o que Hahnemann pensou
+
+337
+00:57:18,805 --> 00:57:24,913
+que estivesse acontecendo com o remédio homeopático.
+
+338
+00:57:28,515 --> 00:57:43,582
+É muito interessante que por um engano ele prediz a maneira que uma droga medicinal 
+
+339
+00:57:43,782 --> 00:57:56,866
+poderosa pode suprimir através do seu poder, dos agentes da doença.
+
+340
+00:57:57,066 --> 00:58:09,756
+Ele pensou que isto estava acontecendo com os remédios homeopáticos, o que não era verdade.
+
+341
+00:58:09,956 --> 00:58:20,775
+Isso está acontecendo quando o organismo recebe grandes doses de drogas químicas.
+
+342
+00:58:32,656 --> 00:58:38,636
+No parágrafo 34: "A maior força das doenças artificiais produzíveis 
+
+343
+00:58:38,836 --> 00:58:47,267
+por medicamentos não é, contudo, a única causa dos seus poderes para curar doenças naturais.
+
+344
+00:58:47,467 --> 00:58:53,338
+Para que possam efetuar uma cura, é exigido antes de todas as coisas que
+
+345
+00:58:53,538 --> 00:58:58,150
+eles devem ser capazes de produzir no corpo humano uma doença artificial
+
+346
+00:58:58,350 --> 00:59:02,899
+o mais semelhante possível com a doença a ser curada."
+
+347
+00:59:03,099 --> 00:59:10,943
+Assim, ele diz que o fato de eles serem mais poderosos, não significa que vocês 
+
+348
+00:59:11,143 --> 00:59:14,505
+simplesmente dão qualquer remédio e, porque esse é mais poderoso do que a doença,
+
+349
+00:59:14,705 --> 00:59:16,756
+ele curará a doença.
+
+350
+00:59:16,956 --> 00:59:22,986
+Vocês têm que dar um remédio que apresenta maior similaridade com a doença.
+
+351
+00:59:38,598 --> 00:59:47,416
+"[...] que, com um poder um pouco maior, transforma em um estado mórbido 
+
+352
+00:59:47,616 --> 00:59:53,154
+muito semelhante, o princípio instintivo da vida,
+
+353
+00:59:53,354 --> 01:00:02,524
+que em si é incapaz de qualquer reflexão ou ato de memória.
+
+354
+01:00:02,724 --> 01:00:10,428
+Ele não só obscurece, mas apaga e, assim, aniquila o desarranjo
+
+355
+01:00:10,628 --> 01:00:14,293
+causado pela doença natural."
+
+356
+01:00:14,493 --> 01:00:21,093
+Ele tenta explicar e utiliza as palavras.
+
+357
+01:00:28,373 --> 01:00:45,278
+Isso significa que os medicamentos que vocês estão dando, não apenas obscurece,
+
+358
+01:00:45,478 --> 01:00:52,327
+mas extingue e, assim, aniquila o desarranjo causado pela
+
+359
+01:00:53,947 --> 01:00:55,785
+doença natural.
+
+360
+01:00:57,046 --> 01:01:02,279
+"[...] Isso é tão verdadeiro que nenhuma doença existente previamente pode ser curada,
+
+361
+01:01:02,479 --> 01:01:10,415
+mesmo pela Natureza em si, pela admissão de uma nova doença diferente,
+
+362
+01:01:10,615 --> 01:01:18,260
+ela nunca será tão forte, e tão pouco que poderá ser curada por tratamento médico
+
+363
+01:01:18,460 --> 01:01:23,915
+com drogas que são incapazes de produzir uma condição mórbida semelhante
+
+364
+01:01:24,115 --> 01:01:26,215
+no corpo saudável."
+
+365
+01:01:26,415 --> 01:01:39,798
+Ele diz que a cura pode ocorrer se o medicamento puder produzir uma doença semelhante
+
+366
+01:01:39,998 --> 01:01:42,960
+no organismo humano.
+
+367
+01:01:45,794 --> 01:01:51,759
+Mas esta cura não poderá ocorrer, mesmo pela natureza.
+
+368
+01:01:53,701 --> 01:02:01,413
+A natureza não tem a possibilidade de introduzir no organismo de vocês
+
+369
+01:02:01,613 --> 01:02:09,901
+uma doença semelhante que possa curar a anterior.
+
+370
+01:02:10,101 --> 01:02:14,709
+Mais tarde ele trará alguns exemplos sobre isso.
+
+371
+01:02:17,094 --> 01:02:20,903
+"[...] Nenhuma doença previamente existente poderá ser curada, mesmo pela própria natureza,
+
+372
+01:02:21,103 --> 01:02:30,824
+pela admissão, a entrada de uma nova doença diferente, ela nunca será tão forte."
+
+373
+01:02:32,692 --> 01:02:37,689
+Se a nova doença não é semelhante, a doença que vocês já apresentam,
+
+374
+01:02:39,050 --> 01:02:44,329
+permanecerá lá.
+
+375
+01:02:51,381 --> 01:02:59,604
+E menos ainda poderá ser curada por tratamento médico que é diferente
+
+376
+01:02:59,804 --> 01:03:06,762
+aos problemas do paciente.
+
+377
+01:03:06,962 --> 01:03:14,937
+"Para poder ilustrar isto, devemos considerar em três casos diferentes,
+
+378
+01:03:15,137 --> 01:03:24,467
+bem como o que acontece na natureza quando duas doenças naturais não semelhantes se encontram
+
+379
+01:03:24,667 --> 01:03:32,807
+em uma pessoa, como também o resultado de um tratamento médico normal das doenças
+
+380
+01:03:33,007 --> 01:03:39,020
+com drogas alopáticas inadequadas, as quais são incapazes de produzirem
+
+381
+01:03:39,220 --> 01:03:45,867
+uma condição mórbida artificial, semelhante à doença a ser curada,
+
+382
+01:03:46,067 --> 01:03:52,489
+através do qual aparecerá que mesmo a própria Natureza é incapaz de remover
+
+383
+01:03:52,689 --> 01:04:00,445
+uma doença diferente já presente por aquele que é não-homeopático,
+
+384
+01:04:00,645 --> 01:04:07,412
+embora seja mais forte, igualmente pequeno é o emprego do não-homeopático,
+
+385
+01:04:07,612 --> 01:04:15,413
+mesmo o medicamento mais forte foi capaz de curar qualquer doença."
+
+386
+01:04:15,613 --> 01:04:27,550
+Ele diz que se vocês derem uma substância não semelhante, ele nunca curará.
+
+387
+01:04:28,909 --> 01:04:31,977
+E a mesma coisa acontecerá na natureza.
+
+388
+01:04:32,177 --> 01:04:38,217
+Se vocês tiverem uma doença e outra doença não semelhante está chegando,
+
+389
+01:04:38,417 --> 01:04:45,948
+ela não poderá ser curada. E ele dirá mais tarde que cada um
+
+390
+01:04:46,148 --> 01:04:53,087
+ocupará um local no organismo, diversas doenças poderão existir juntamente
+
+391
+01:04:53,287 --> 01:05:00,558
+no mesmo organismo.
+
+392
+01:05:03,909 --> 01:05:15,656
+Quando ela é mais forte, manifestará principalmente, a outra, que é a doença,
+
+393
+01:05:15,856 --> 01:05:19,061
+que é diferente, mas mais fraca, será vencida.
+
+394
+01:05:19,261 --> 01:05:31,956
+E logo que a mais forte é curada, a mais fraca virá à tona novamente.
+
+395
+01:05:32,156 --> 01:05:41,403
+Exatamente a mesma coisa que acontece com as drogas alopáticas.
+
+396
+01:05:41,603 --> 01:05:48,358
+As drogas alopáticas estão curando por ação não semelhante.
+
+397
+01:05:48,558 --> 01:06:03,675
+Elas são muito poderosas e vencem, elas suprimem o que quer que esteja presente,
+
+398
+01:06:03,875 --> 01:06:07,617
+como a manifestação da doença, eles não a veem mais
+
+399
+01:06:07,817 --> 01:06:24,832
+e estabelecem seus próprios reinos.
+
+400
+01:06:25,032 --> 01:06:34,635
+O que sabemos é que se tratarmos corretamente um caso que tenha sido suprimido
+
+401
+01:06:34,835 --> 01:06:45,404
+por medicamento alopático, vagarosamente o efeito desta supressão irá embora
+
+402
+01:06:45,604 --> 01:06:55,073
+e voltará a manifestação da doença antiga que estava presente.
+
+403
+01:07:05,564 --> 01:07:12,782
+"Se as duas doenças dessemelhantes se encontrarem juntamente no organismo humano, serão de força
+
+404
+01:07:12,982 --> 01:07:18,075
+iguais, ou ainda mais se a mais antiga for a mais forte, a nova doença
+
+405
+01:07:18,275 --> 01:07:23,987
+será repelida pela mais antiga do corpo e não tem permissão para afetá-lo.
+
+406
+01:07:24,187 --> 01:07:30,913
+Um paciente sofrendo de uma doença crônica grave não será infectado por uma
+
+407
+01:07:31,113 --> 01:07:34,986
+disenteria moderada de outono..."
+
+408
+01:07:35,186 --> 01:07:51,448
+Isto é o que mais tarde descobrimos nos Níveis de Saúde, onde dizemos que
+
+409
+01:07:51,648 --> 01:08:07,463
+se uma pessoa está cronicamente doente, com um distúrbio crônico grave, tal pessoa
+
+410
+01:08:07,663 --> 01:08:23,068
+não poderá ser afetada por um agudo, que é mais fraco do que a doença já existente
+
+411
+01:08:23,268 --> 01:08:26,215
+no corpo.
+
+412
+01:08:34,496 --> 01:08:45,317
+Hahnemann tinha uma observação bastante acurada, de que se uma pessoa já estivesse realmente cronicamente 
+
+413
+01:08:45,517 --> 01:09:03,169
+doente, com uma doença forte, uma doença mais fraca, influenza, enterite, resfriado comum
+
+414
+01:09:03,369 --> 01:09:13,210
+ou tonsilite, todas essas condições agudas não poderiam afetar um organismo
+
+415
+01:09:13,410 --> 01:09:22,052
+que já estivesse doente com uma condição crônica grave.
+
+416
+01:09:26,020 --> 01:09:31,707
+Isto é algo que a Medicina não percebeu.
+
+417
+01:09:31,907 --> 01:09:40,797
+Ela não percebeu que quando eles dizem: "daremos a vocês essas drogas químicas
+
+418
+01:09:40,997 --> 01:09:50,658
+e repetiremos de novo e de novo e há um momento quando não existirão mais agudos,
+
+419
+01:09:50,858 --> 01:09:54,371
+eles sentem que já cumpriram suas missões.
+
+420
+01:09:54,571 --> 01:10:01,563
+Eles curaram a pessoa de cistite crônica que estava surgindo de novo e de novo,
+
+421
+01:10:01,763 --> 01:10:10,750
+de gripes crônicas etc.
+
+422
+01:10:10,950 --> 01:10:17,407
+Agora curamos você. Você não terá mais cistites com febre,
+
+423
+01:10:17,607 --> 01:10:30,289
+mas na verdade o que acontece é que o organismo se tornou bastante doente
+
+424
+01:10:30,489 --> 01:10:40,294
+e, portanto, uma doença mais forte não permite uma doença mais suave de afetá-lo.
+
+425
+01:11:16,478 --> 01:11:25,001
+"Assim, também sob o tratamento médico normal, uma doença crônica antiga permanecerá incurável 
+
+426
+01:11:25,201 --> 01:11:34,821
+e inalterada, se ela for tratada de acordo com o método alopático comum.
+
+427
+01:11:41,486 --> 01:11:45,739
+Isto é rotineiramente testemunhado na prática, é portanto, desnecessário dar qualquer
+
+428
+01:11:45,939 --> 01:11:47,934
+exemplo ilustrativo."
+
+429
+01:11:59,144 --> 01:12:07,916
+É a mesma coisa que dizemos hoje, que as drogas químicas não curarão realmente
+
+430
+01:12:09,874 --> 01:12:13,419
+nenhuma condição crônica.
+
+431
+01:12:20,154 --> 01:12:32,234
+As drogas químicas suprimirão, mas não curarão nenhuma condição crônica.
+
+432
+01:12:33,206 --> 01:12:46,406
+Vocês têm asma e tomam broncodilatadores, cortisona e vocês respiram melhor,
+
+433
+01:12:46,606 --> 01:12:56,234
+mas esta é apenas uma supressão temporária da sintomatologia,
+
+434
+01:12:56,434 --> 01:13:04,496
+é um alívio temporário dos sintomas.
+
+435
+01:13:04,696 --> 01:13:14,757
+Mas agora o organismo que é pressionado todas as vezes por uma droga química,
+
+436
+01:13:14,957 --> 01:13:26,819
+o que acontece, em um determinado momento, ele desiste e diz: "Eu não consigo mais enfrentar este estresse
+
+437
+01:13:27,019 --> 01:13:44,071
+que a droga está me causando. Portanto, eu colocarei outro nível de defesa
+
+438
+01:13:44,271 --> 01:13:48,864
+que está em um nível mais profundo" e qual é este nível mais profundo de defesa?
+
+439
+01:13:49,064 --> 01:14:03,565
+É um estado neurótico enorme, uma depressão grave, até mesmo um desarranjo mental
+
+440
+01:14:03,765 --> 01:14:13,965
+e quando ele chega até vocês para ser tratado, ele não está sofrendo mais com a asma.
+
+441
+01:14:14,165 --> 01:14:26,056
+Ele chega com sintomas neuróticos, ilusões, alucinações, problemas psicológicos,
+
+442
+01:14:26,256 --> 01:14:33,368
+vocês dão o remédio e em seguida, a asma retorna.
+
+443
+01:14:41,710 --> 01:14:46,666
+- Você sente da mesma forma sobre as vitaminas, ervas...? Elas podem suprimir?
+
+444
+01:14:48,058 --> 01:14:49,842
+- Não, não é o mesmo de qualquer forma.
+
+445
+01:14:51,067 --> 01:15:01,847
+E não é sempre que as drogas alopáticas suprimirão. Nem sempre.
+
+446
+01:15:03,888 --> 01:15:12,046
+Talvez possamos dizer que a maioria das vezes, mas nem sempre.
+
+447
+01:15:12,246 --> 01:15:22,492
+Oferecer algum suporte ao organismo para lidar com um problema, como vitaminas, ervas,
+
+448
+01:15:22,692 --> 01:15:31,533
+dormir melhor, uma dieta melhor, todas essas coisas de apoio que vocês poderão oferecer
+
+449
+01:15:31,733 --> 01:15:38,701
+ao organismo, vocês poderão ajudá-lo a superar o problema.
+
+450
+01:15:38,901 --> 01:15:46,621
+Da mesma forma, às vezes, um suplemento, mesmo a cortisona poderá afetar a cura verdadeira.
+
+451
+01:15:46,821 --> 01:16:00,903
+Administração de cortisona que é devido à uma perturbação nas glândulas supra-renais,
+
+452
+01:16:01,103 --> 01:16:09,309
+que não produzem a quantidade exata e vocês suplementam essa quantidade
+
+453
+01:16:09,509 --> 01:16:19,436
+e a pessoa sente-se bem e pode respirar novamente e de repente,
+
+454
+01:16:19,636 --> 01:16:27,548
+após algumas semanas de tratamento com cortisona, surge uma grande erupção
+
+455
+01:16:27,748 --> 01:16:36,859
+que era a causa inicial da asma, porque esta foi suprimida.
+
+456
+01:16:37,059 --> 01:16:41,601
+Isso poderá acontecer com as drogas alopáticas também.
+
+457
+01:16:41,801 --> 01:16:50,270
+O problema é que os médicos não percebem que isto agora está em um bom processo
+
+458
+01:16:50,470 --> 01:16:58,917
+e temos que ser cuidadosos para não suprimir novamente a erupção de pele, o eczema.
+
+459
+01:16:59,117 --> 01:17:01,769
+Mas o que fazemos? Quando o eczema surge,
+
+460
+01:17:01,969 --> 01:17:09,943
+"Eu tenho o eczema agora, eu tenho efeitos colaterais da cortisona."
+
+461
+01:17:10,143 --> 01:17:14,515
+O médico não sabe perguntar: "Você teve tal eczema quando
+
+462
+01:17:14,715 --> 01:17:22,383
+você era uma criança?" - Oh, sim." "- Este é um processo muito bom na sua saúde."
+
+463
+01:17:22,583 --> 01:17:31,300
+Isso significa que não é um efeito colateral da droga. É um processo de cura.
+
+464
+01:17:31,500 --> 01:17:36,814
+Eles não sabem disso e o enviaram para o dermatologista e o dermatologista
+
+465
+01:17:37,014 --> 01:17:43,505
+fez um bom trabalho e em uma semana, o eczema está desaparecendo
+
+466
+01:17:43,705 --> 01:17:50,863
+e a asma reaparece e, em seguida, a asma retorna para vocês
+
+467
+01:17:51,063 --> 01:17:58,620
+e vocês tratam e dizem a eles: "É muito bom que você tem um eczema.
+
+468
+01:17:58,820 --> 01:18:03,508
+Assim, darei a você um remédio e se o eczema voltar, é uma coisa muito boa.
+
+469
+01:18:03,708 --> 01:18:11,332
+Mantenha-o e reze para que o eczema retorne."
+
+470
+01:18:12,996 --> 01:18:19,369
+Algumas vezes as pessoas não conseguem tolerar essas reações.
+
+471
+01:18:19,569 --> 01:18:29,066
+Eles chegam até vocês e queixam-se: "Eu tenho essa coceira e não consigo dormir"
+
+472
+01:18:29,266 --> 01:18:34,210
+e vocês estão tremendo e tentando curar a asma rapidamente.
+
+473
+01:18:34,410 --> 01:18:38,667
+E assim, vocês cometem erros, porque deram um remédio após o outro e 
+
+474
+01:18:38,867 --> 01:18:48,294
+em seguida, retorno da asma em vez de aguardar.
+
+475
+01:18:50,108 --> 01:19:00,256
+Lembro-me de um caso com um garoto e Roger Morrison estava estudando comigo em Atenas,
+
+476
+01:19:00,456 --> 01:19:06,357
+e ele tinha o caso. Ele trouxe para mim o caso e disse:
+
+477
+01:19:06,557 --> 01:19:14,035
+"George, os pais dizem que não têm dormido há 10 dias, porque durante toda a noite
+
+478
+01:19:14,235 --> 01:19:21,786
+o menino está se coçando e os pais acordados tentando aliviá-lo, por favor
+
+479
+01:19:21,986 --> 01:19:29,618
+não coce, porque dizemos a eles para não fazerem nada.
+
+480
+01:19:29,818 --> 01:19:35,042
+E ele veio desesperado até mim e disse: "Eu não consigo ver o remédio"
+
+481
+01:19:35,242 --> 01:19:44,380
+e eu disse: "Sinto muito, não consigo ver o remédio. E então, após uma semana, eles retornaram
+
+482
+01:19:44,580 --> 01:19:48,667
+e disseram que o menino apresentava esses sintomas.
+
+483
+01:19:48,867 --> 01:19:56,211
+Eu disse: "É Arsenicum. Dê Arsenicum hoje à noite." Na mesma noite o menino dormiu.
+
+484
+01:19:56,411 --> 01:20:04,712
+Após poucos dias o eczema desapareceu e a asma também.
+
+485
+01:20:04,912 --> 01:20:09,894
+Assim, o menino estava curado da asma, foi curado. E pelo resto da sua vida ele não
+
+486
+01:20:10,094 --> 01:20:12,789
+sofreu mais disso. Vocês conseguem imaginar tudo isso?
+
+487
+01:20:12,989 --> 01:20:20,123
+Que isto é possível, que existe uma maneira de tratar logicamente e ele havia dado
+
+488
+01:20:20,323 --> 01:20:29,282
+todas as informações possíveis, contanto que vocês tenham compreendido isto.
+
+489
+01:20:29,482 --> 01:20:35,884
+É tão importante para um homeopata ter compreendido o Organon.
+
+490
+01:20:37,758 --> 01:20:47,438
+E eu fico realmente triste de ver homeopatas que nunca leram o Organon.
+
+491
+01:20:49,419 --> 01:21:00,888
+Eles dizem: "O que é o Organon? Eu não entendo o que o Organon é."
+
+492
+01:21:06,800 --> 01:21:14,396
+Vocês querem fazer alguma pergunta? Vocês têm bastante perguntas? Isto é bom.
+
+493
+01:21:21,928 --> 01:21:28,539
+- O que você acabou de dizer, isso quer dizer que se você tiver um paciente com câncer
+
+494
+01:21:28,739 --> 01:21:35,400
+sob quimioterapia e você tem o efeito colateral de uma erupção de pele extremamente pruriginosa
+
+495
+01:21:37,190 --> 01:21:38,710
+isso seria um bom efeito?
+
+496
+01:21:39,274 --> 01:21:40,480
+- Bom efeito.
+
+497
+01:21:41,625 --> 01:21:49,696
+- E assim, você pararia com a quimioterapia neste ponto, não pararia?
+
+498
+01:21:53,573 --> 01:22:00,190
+- Atualmente, temos formas de saber e temos possibilidades de vermos
+
+499
+01:22:00,390 --> 01:22:09,389
+se há uma retração pelos marcadores, pelo RMI, testes laboratoriais,
+
+500
+01:22:09,589 --> 01:22:20,676
+sabemos se esta é apenas uma reação alérgica, porque poderá ser.
+
+501
+01:22:20,876 --> 01:22:27,852
+Isso significa que a quimioterapia contém algo que a pessoa é alérgica
+
+502
+01:22:28,052 --> 01:22:32,328
+e pode ter uma reação alérgica. Isto é diferente.
+
+503
+01:22:32,528 --> 01:22:40,366
+Mas se a pessoa diz: "Eu me sinto melhor e as dores foram reduzidas
+
+504
+01:22:40,566 --> 01:22:47,739
+e o tumor também começa a reduzir, os marcadores estão melhores
+
+505
+01:22:50,020 --> 01:23:01,746
+e há uma erupção de pele grave, sim, você poderá dizer que este é um processo curativo.
+
+506
+01:23:05,671 --> 01:23:10,907
+- Eu queria perguntar se alguém poderá diferenciar quando a cortisona ou qualquer outro
+
+507
+01:23:11,107 --> 01:23:16,252
+remédio alopático terá um efeito curativo ou se isto seria apenas uma reação?
+
+508
+01:23:16,452 --> 01:23:20,199
+Como você disse, você precisará perguntar se a pessoa sente-se melhor.
+
+509
+01:23:20,399 --> 01:23:25,829
+Se a pessoa sente-se melhor e apresenta erupção de pele, não é uma reação alérgica.
+
+510
+01:23:26,029 --> 01:23:29,224
+Existe qualquer outro sinal que podemos...?
+
+511
+01:23:29,424 --> 01:23:37,105
+- Existem alguns outros sinais que você poderá ter certeza de que a cortisona
+
+512
+01:23:37,305 --> 01:23:41,125
+ou a quimioterapia agiram.
+
+513
+01:23:41,325 --> 01:23:47,387
+Eu disse que vocês têm os marcadores, vocês estão verificando, vocês têm a dor,
+
+514
+01:23:47,587 --> 01:23:53,242
+que tem reduzido, você tem a condição geral do paciente,
+
+515
+01:23:53,442 --> 01:24:02,162
+você tem a RMI que você verá a redução do tumor...
+
+516
+01:24:02,362 --> 01:24:08,911
+Você calcula tudo isso em conjunto para tomar uma decisão
+
+517
+01:24:09,111 --> 01:24:12,868
+se esta foi uma reação curativa.
+
+518
+01:24:14,865 --> 01:24:20,136
+- Quando Hahnemann estava apresentando como ele compreende o processo homeopático,
+
+519
+01:24:20,336 --> 01:24:26,109
+ele estava dizendo que o remédio estava atuando, está oprimindo a doença,
+
+520
+01:24:26,309 --> 01:24:32,397
+mas da forma que você apresenta como você compreendeu isso, você diz na verdade
+
+521
+01:24:32,597 --> 01:24:34,693
+que a força vital está realizando o trabalho...
+
+522
+01:24:34,893 --> 01:24:45,175
+- Exatamente. Nós estimulamos a força vital que faz a reação.
+
+523
+01:24:45,375 --> 01:24:52,110
+Não é que o remédio homeopático venha de fora e toma conta
+
+524
+01:24:52,310 --> 01:24:55,947
+do mais fraco e joga-o para fora, não é desse modo.
+
+525
+01:24:56,147 --> 01:25:03,388
+Nós estimulamos a força vital e a força vital toma uma força extra
+
+526
+01:25:03,588 --> 01:25:17,504
+para lutar contra a doença e esta é a explicação do porquê observamos agravações iniciais.
+
+527
+01:25:17,704 --> 01:25:25,889
+Caso contrário você não consegue explicar a agravação inicial.
+
+528
+01:25:26,089 --> 01:25:35,765
+Nas dores de cabeça crônicas, a pessoa diz: "Você me deu um remédio e no momento
+
+529
+01:25:35,965 --> 01:25:44,542
+minha dor de cabeça foi a pior de todas." Você diz: "Muito bem, o remédio estava correto, aguarde."
+
+530
+01:25:44,742 --> 01:25:48,447
+Você sabe o que está fazendo. Uma vez que você conhece a Teoria,
+
+531
+01:25:48,647 --> 01:25:53,439
+você sabe o que está fazendo e até você saber realmente a Teoria,
+
+532
+01:25:53,639 --> 01:25:55,798
+você não poderá realmente curar.
+
+533
+01:25:55,998 --> 01:26:00,907
+Você poderá dar os remédios corretos e em seguida, estragar o caso mais tarde.
+
+534
+01:26:01,107 --> 01:26:07,783
+Porque você não sabe como proceder.
+
+535
+01:26:10,651 --> 01:26:14,693
+- Há um mecanismo análogo com o que você está dizendo. Assim, se esta é uma linha reta
+
+536
+01:26:14,893 --> 01:26:19,024
+de saúde e há um desvio da saúde em uma direção,
+
+537
+01:26:19,224 --> 01:26:23,174
+vamos dizer para a direita, em seguida, se você quiser trazê-lo de volta para a reta,
+
+538
+01:26:23,374 --> 01:26:27,590
+você terá que puxá-lo para retornar...
+
+539
+01:26:27,790 --> 01:26:34,427
+- Eu não entendi seu modelo mecânico. Repita.
+
+540
+01:26:34,627 --> 01:26:44,524
+- Se você colocar a força, ele terá a força para retornar novamente para a reta...
+
+541
+01:26:44,724 --> 01:26:50,526
+- A força da doença está puxando-o para uma direção...
+
+542
+01:26:50,726 --> 01:26:59,868
+- Esta é a linha reta da saúde. Mas, na doença há um desvio para um lado,
+
+543
+01:27:00,068 --> 01:27:06,745
+vamos dizer. Se você quiser trazê-lo de volta para a linha reta, você terá que puxá-lo um pouco mais
+
+544
+01:27:06,945 --> 01:27:10,830
+e assim terá a força para retornar...
+
+545
+01:27:11,030 --> 01:27:14,803
+- E o organismo o traz de volta. Você poderá dizer isso, desde que você tenha compreendido
+
+546
+01:27:15,003 --> 01:27:33,992
+que o remédio homeopático não está suprimindo, mas pelo contrário,
+
+547
+01:27:34,192 --> 01:27:43,018
+está ativando a reação e impulsionando-o mais.
+
+548
+01:27:52,269 --> 01:28:03,808
+Eu sou calorento e agora meu organismo tem que reagir. Ele terá que trazer o equilíbrio.
+
+549
+01:28:04,008 --> 01:28:13,518
+Ele diz que você é muito quente. O que isso faz? Alguma reação, isso me faz transpirar
+
+550
+01:28:13,718 --> 01:28:19,206
+para que eu possa refrescar-me, eventualmente, através da transpiração.
+
+551
+01:28:19,406 --> 01:28:30,321
+Ele terá que fazer isso, caso contrário, eu terei termoplegia.
+
+552
+01:28:30,521 --> 01:28:41,160
+Se o organismo não puder fazer isso, isso significa que ele não poderá trazer sintomas 
+
+553
+01:28:41,360 --> 01:28:49,781
+para aliviar o calor, o que acontece...
+
+554
+01:28:49,981 --> 01:29:01,389
+Eu tenho uma insolação, em seguida, eu caio e desmaio na beira do mar e as pessoas
+
+555
+01:29:01,589 --> 01:29:07,569
+estão trazendo a pessoa aqui.
+
+556
+01:29:11,633 --> 01:29:18,920
+O organismo não teve forças para reagir, transpirar e trazer
+
+557
+01:29:19,120 --> 01:29:24,651
+todas as outras reações químicas que são necessárias para neutralizar o calor.
+
+558
+01:29:24,851 --> 01:29:32,056
+O organismo não teve isso, portanto, ele tem uma insolação e a pessoa está fora.
+
+559
+01:29:32,256 --> 01:29:44,510
+Você dá o remédio e em seguida, há uma transpiração e a pessoa retorna.
+
+560
+01:29:44,710 --> 01:29:57,449
+Ele ajuda-o a trazer para fora os sintomas peculiares que são necessários para poder curar-se.
+
+561
+01:29:57,649 --> 01:30:05,467
+Isso significa que você está impulsionando o organismo na direção correta.
+
+562
+01:30:05,667 --> 01:30:11,540
+Quem estava aqui, eu acho que era o grupo italiano?
+
+563
+01:30:11,740 --> 01:30:21,945
+Eles me trouxeram alguém com insolação, ele estava quase colapsando.
+
+564
+01:30:22,145 --> 01:30:27,475
+Na insolação, temos remédios como Natrum carbonicum, Glonoinum, Belladonna, 
+
+565
+01:30:27,675 --> 01:30:36,878
+Natrum muriaticum etc. A classe ficou bastante entusiasmada, a pessoa é assim.
+
+566
+01:30:37,078 --> 01:30:49,848
+Eu fui lá e o toquei um pouco e percebi que havia uma suave transpiração fria
+
+567
+01:30:50,048 --> 01:30:53,973
+e eu disse: "Dê a ele Carbo vegetabilis 200 CH."
+
+568
+01:30:55,646 --> 01:31:03,469
+Em 5 minutos a pessoa estava sentada lá assistindo a aula.
+
+569
+01:31:03,669 --> 01:31:16,435
+O que você faz é ajudar o organismo a restabelecer-se através dos sintomas
+
+570
+01:31:16,635 --> 01:31:19,400
+que são bons para o organismo.
+
+571
+01:31:19,600 --> 01:31:30,877
+Nem todos os organismos desenvolvem os mesmos sintomas em todas as condições.
+
+572
+01:31:33,954 --> 01:31:39,000
+Alguns organismos desenvolverão uma dor de cabeça grave.
+
+573
+01:31:47,680 --> 01:31:54,740
+Ele poderá estar completamente fora de ordem sob o sol, por causa da dor de cabeça grave.
+
+574
+01:31:54,940 --> 01:32:01,992
+Para isso, você não dá Carbo vegetabilis, você precisa dar o Glonoinum.
+
+575
+01:32:02,192 --> 01:32:12,199
+Glonoinum fará com que a dor de cabeça fique um pouco mais forte por um momento e em seguida, acabou.
+
+576
+01:32:20,000 --> 01:32:25,337
+- Se o remédio correto impulsiona a força vital, o que o remédio errado fará?
+
+577
+01:32:27,935 --> 01:32:30,242
+- Essa é uma boa pergunta.
+
+578
+01:32:35,939 --> 01:32:44,091
+Você tem 800 remédios, se você colocá-los em uma taxa vibratória,
+
+579
+01:32:45,721 --> 01:32:49,898
+você observará que o remédio que a pessoa precisa está aqui, nessa taxa.
+
+580
+01:32:50,098 --> 01:33:02,493
+A esquerda e direita dessa taxa vibratória são remédios vibracionais próximos.
+
+581
+01:33:02,693 --> 01:33:12,594
+Se você der um remédio muito próximo, você impulsionará o organismo e em seguida, um segundo
+
+582
+01:33:12,794 --> 01:33:19,020
+e o terceiro poderá trazer o organismo de volta à ordem.
+
+583
+01:33:19,220 --> 01:33:26,894
+Quanto maior for a distância de um remédio que você deu para o correto, 
+
+584
+01:33:27,094 --> 01:33:31,719
+menor será o efeito.
+
+585
+01:33:31,919 --> 01:33:43,245
+Se o remédio estiver totalmente fora, nenhum efeito. O pior é o remédio não ser muito próximo
+
+586
+01:33:43,445 --> 01:33:52,399
+mas ser próximo o suficiente para trazer algumas mudanças. Essas mudanças não são boas.
+
+587
+01:33:55,559 --> 01:34:03,284
+Mas se o remédio for bastante próximo, ele impulsionará o organismo para uma imagem mais
+
+588
+01:34:03,484 --> 01:34:06,870
+correta.
+
+589
+01:34:11,288 --> 01:34:12,378
+- Podemos suprimir com um remédio?
+
+590
+01:34:14,460 --> 01:34:19,519
+- Sim, você poderá suprimir com o remédio errado, se este for próximo.
+
+591
+01:34:20,735 --> 01:34:25,159
+- Na primeira vez ou você terá que ter vários remédios?
+
+592
+01:34:25,359 --> 01:34:28,320
+- Você poderá suprimir na primeira vez, na segunda vez...
+
+593
+01:34:28,520 --> 01:34:38,541
+Você poderá suprimir com um remédio que é próximo, que significa que estará mudando
+
+594
+01:34:38,741 --> 01:34:48,302
+os sintomas da pessoa, sem que ela sinta-se melhor.
+
+595
+01:34:48,502 --> 01:34:54,457
+E você apenas muda. Uma dor de cabeça do lado direito vai para o esquerdo.
+
+596
+01:34:54,657 --> 01:35:00,758
+E assim você deverá aguardar. O organismo trará de volta por si mesmo, se você aguardar.
+
+597
+01:35:00,958 --> 01:35:06,969
+Mas desta forma, você poderá suprimir, mas não suprimir do mesmo modo que uma droga química
+
+598
+01:35:07,169 --> 01:35:15,253
+suprimirá. Uma droga química suprimirá para sempre e o manterá
+
+599
+01:35:15,453 --> 01:35:19,873
+sob seu efeito por 20 anos.
+
+600
+01:35:30,189 --> 01:35:38,988
+- Eu não entendi como a cortisona ou quimioterapia pode ter uma cura.
+
+601
+01:35:39,188 --> 01:35:47,262
+É como um medicamento homeopático? A cortisona atua como um remédio homeopático?
+
+602
+01:35:48,756 --> 01:35:49,876
+- Você poderia falar um pouco mais alto?
+
+603
+01:35:52,599 --> 01:36:03,617
+- Eu não entendi como a cortisona ou quimioterapia podem ter uma ação curativa.
+
+604
+01:36:03,817 --> 01:36:09,490
+Ela atua como remédio homeopático?
+
+605
+01:36:09,690 --> 01:36:19,230
+- Sim. A possibilidade é que nessas químicas, exista uma estrutura química
+
+606
+01:36:19,430 --> 01:36:27,756
+que é necessária pelo organismo e toma a tintura mãe daquele remédio.
+
+607
+01:36:27,956 --> 01:36:31,045
+É como tratar com tintura mãe.
+
+608
+01:36:31,245 --> 01:36:42,384
+Mas sendo um semelhante dentro desses elementos diferentes da droga alopática
+
+609
+01:36:42,584 --> 01:36:48,201
+que contêm muitos elementos diferentes, um elemento poderá acontecer
+
+610
+01:36:48,401 --> 01:37:01,796
+de ser indicado como um remédio semelhante ou talvez existam algumas outras funções
+
+611
+01:37:01,996 --> 01:37:06,238
+que não compreendemos ainda.
+
+612
+01:37:09,344 --> 01:37:15,722
+Eu não digo que eu sei tudo e sei como isso poderá acontecer.
+
+613
+01:37:15,922 --> 01:37:22,797
+O que eu sei são fatos. Pessoas têm vindo e dito: "Eu tenho tomado um pouco
+
+614
+01:37:22,997 --> 01:37:25,794
+de cortisona e me sinto ótimo."
+
+615
+01:37:25,994 --> 01:37:32,843
+E eu os examino e em todos os aspectos, mental, emocional, físico, estado muito bom.
+
+616
+01:37:33,043 --> 01:37:45,493
+Mantenha este remédio. Assim, a reposição dessa dose muito pequena de cortisona traz
+
+617
+01:37:45,693 --> 01:37:51,980
+o organismo para uma condição perfeita. Mantenha-o. Não mude.
+
+618
+01:37:52,180 --> 01:37:57,146
+Eu não disse: "Pare com isto e eu darei a você um remédio."
+
+619
+01:37:57,346 --> 01:38:12,933
+Da mesma forma, tenho visto casos com problemas psicológicos profundos,
+
+620
+01:38:13,133 --> 01:38:21,028
+mesmo com esquizofrenia que foram dados remédios que produziram
+
+621
+01:38:21,228 --> 01:38:24,402
+erupções de pele graves.
+
+622
+01:38:24,602 --> 01:38:37,489
+E durante estas erupções, a pessoa sente que a sua mente está clara
+
+623
+01:38:37,689 --> 01:38:43,161
+e o médico correto deveria dizer que esta é uma ação curativa
+
+624
+01:38:43,361 --> 01:38:46,006
+e este remédio é bom para você.
+
+625
+01:38:46,206 --> 01:38:51,318
+Não importa, porque sou um homeopata e ele tem dado
+
+626
+01:38:51,518 --> 01:38:55,474
+uma droga alopática...
+
+627
+01:38:55,674 --> 01:39:02,683
+Estas são apenas ideias, não é a realidade.
+
+628
+01:39:02,883 --> 01:39:09,478
+A realidade é que esta medicação tem ajudado enormemente esta pessoa gravemente doente.
+
+629
+01:39:09,678 --> 01:39:13,996
+Mantenha-o. Isto é bom para você.
+
+630
+01:39:14,196 --> 01:39:18,917
+- E sobre uma pessoa que é ajudada pela cortisona, tomar cortisona potencializada?
+
+631
+01:39:19,117 --> 01:39:23,337
+Você já tentou isso?
+
+632
+01:39:23,537 --> 01:39:29,679
+- Não. Eu não pararei a cortisona de uma pessoa que sente-se muito bem
+
+633
+01:39:29,879 --> 01:39:37,902
+sob um pouco de cortisona, estou falando de 3-4 mg.
+
+634
+01:39:38,102 --> 01:39:42,179
+Eu tenho visto casos que estão indo muito bem com esta dosagem muito baixa de cortisona.
+
+635
+01:39:42,379 --> 01:39:48,041
+Eu não pararei com ela e darei a cortisona potencializada. Eu nunca fiz isso.

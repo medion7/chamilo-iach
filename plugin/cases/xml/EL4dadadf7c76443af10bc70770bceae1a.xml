@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4dadadf7c76443af10bc70770bceae1a</ID>
+  <patient>
+    <case_date>2014-10-03 09:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Π.</patient_initials>
+    <age>32</age>
+    <circumstances>Αρραβωνιαμένη, χωρίς παιδιά,εργάζεται ως γυμνάστρια τα απογεύματα σε δημοτικό γυμναστήριο.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Τριχόπτωση εδώ και ένα έτος</origin>
+        <causative_factors>Πριν 2 χρόνια άφησε το πατρικό της και μετακόμισε με τον φιλο της στην άλλη άκρη της πόλης. &#13;
+Οι γονείς της χώρισαν όταν ήταν 15 έτών.</causative_factors>
+        <modalities>Δοκίμασε βιταμίνες και σκευάσματα φαρμακείου χωρις κανενα αποτελεσμα. Δεν παρατηρησε να υπαρχει βελτίωση ή επιδείνωση με αλλαγή εποχων ή θερμοκρασίας.</modalities>
+        <occurrence_time>Σταθερη κατασταση</occurrence_time>
+        <body_side>τριχωτο κεφαλης</body_side>
+        <appearence_frequency>συνεχεια</appearence_frequency>
+        <pain_desc>χωρις πονο</pain_desc>
+        <complaint_ext>χωρις </complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμία.</conv_med_presc>
+        <lab_tests>
+          <desc>Σίδηρος, φεριττινη αναφέρει κφ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>βιταμινες και σκευασματα φαρμακειου κατα της τριχοπτωσης</therapies_vaccination>
+          <traumas>Με τον φίλο της τα πάει καλά και συζητούν για γάμο αλλά της λείπει η παρέα του γιατί αυτός δουλεύει βράδυ-είναι μουσικός-και τα πρωινά που αυτή δεν εργάζεται αυτός συνήθως κοιμάται  .</traumas>
+          <infections>οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ο πατέρας της πάσχει από αρτηριακή υπέρταση.&#13;
+η μητέρα της εχει αυχενικό συνδρομο</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ούτε ζεσταίνεται, ούτε κρυώνει γενικά αλλά αν ζεσταθεί πολύ αρχίζει να μην αισθάνεται καλά-δυσφορεί+. Δεν αντέχει καθόλου τις θερμαντικές κρέμες στο σώμα της++. Φοβάται ότι όπως θερμαίνουν θα «πάθουν κάτι τα αγγεία της!».</reactions>
+        <sleeping_habits>Ο ύπνος της είναι καλός Της αρέσει να ξυπνάει αργά το πρωι. Το βράδυ κοιμάται γύρω στις 1:00. Κοιμάται μπρούμυτα ή ΔΕ.</sleeping_habits>
+        <food_modalities>Επιθυμεί ψάρια++, γλυκά++, αλάτι+, παγωτά++, γλυκά φρούτα++, γαλλικός καφές , κανέλλα βανίλλια.&#13;
+Απεχθάνεται λίπος+++, λευκή σοκολάτα, πικάντικα και καυτερά φαγητά.&#13;
+</food_modalities>
+        <menstruation>κφ</menstruation>
+      </physical>
+      <mental_emotional>Είναι ανοιχτός και ευχάριστος άνθρωπος-κοινωνική. Της αρέσει πολύ να βρίσκεται σε παρέα++. Της αρέσει να κάνει γνωριμίες+.&#13;
+Αγχωνεται για τα μαλλιά της.&#13;
+Φοβαται τις θερμαντικές κρέμες σωματος, φοβαται οτι οπως καινε θα παθουν κακο τα αγγεια της.&#13;
+Ειναι ευαισθητη-συμπασχει</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Πρόβλημα τριχόπτωσης εδώ κι ένα έτος ++&#13;
+Χρησιμοποίησε βιταμίνες και σκευάσματα από φαρμακείο χωρίς αποτέλεσμα.&#13;
+Σίδηρος, φερριτινη   κφ&#13;
+Πριν 2 χρόνια άφησε το πατρικό της και μετακόμισε με τον φίλο της στην άλλη άκρη της πόλης. Στο δίπλα σπίτι μένουν τα πεθερικά της (έχουν κοινή αυλή). Τα πάει καλά μαζί τους.&#13;
+Οι γονείς της χώρισαν όταν ήταν 15 ετών . Έχει καλή σχέση και με τους 2.&#13;
+Εργάζεται ως γυμνάστρια σε δημοτικό γυμναστήριο τα απογεύματα. Η περίοδος της είναι φυσιολογική.   &#13;
+Χωρίς ιδιαίτερα προβλήματα από το ατομικό της ιστορικό. Ανεβάζει πυρετό 38.5 περίπου 1 φορά / έτος .&#13;
+Ο ύπνος της είναι καλός Της αρέσει να ξυπνάει αργά το πρωι. Το βράδυ κοιμάται γύρω στις 1:00. Κοιμάται μπρούμυτα ή ΔΕ.&#13;
+Είναι ανοιχτός και ευχάριστος άνθρωπος-κοινωνική. Της αρέσει πολύ να βρίσκεται σε παρέα+++. Της αρέσει να κάνει γνωριμίες+.&#13;
+Με τον φίλο της τα πάει καλά και συζητούν για γάμο αλλά της λείπει η παρέα του γιατί αυτός δουλεύει βράδυ-είναι μουσικός-και τα πρωινά που αυτή δεν εργάζεται αυτός συνήθως κοιμάται  .&#13;
+Είναι εθελόντρια αιμοδότρια.&#13;
+Αγαπάει πολύ τα παιδιά παρόλο που δεν έχει δικά της.&#13;
+Ούτε ζεσταίνεται, ούτε κρυώνει γενικά αλλά αν ζεσταθεί πολύ αρχίζει να μην αισθάνεται καλά-δυσφορεί+. Δεν αντέχει καθόλου τις θερμαντικές κρέμες στο σώμα της++. Φοβάται ότι όπως θερμαίνουν θα «πάθουν κάτι τα αγγεία της!».&#13;
+Πίνει μεγάλες ποσότητες νερού όλη μέρα αλλά σε μικρές γουλιές. Προτιμάει το νερό δροσερό++.&#13;
+Απεχθάνεται να φοράει παντόφλες στα πόδια της+++.&#13;
+Επιθυμεί ψάρια++, γλυκά++, αλάτι+, παγωτά++, γλυκά φρούτα++, γαλλικός καφές , κανέλλα βανίλλια.&#13;
+Απεχθάνεται λίπος+++, λευκή σοκολάτα, πικάντικα και καυτερά φαγητά.&#13;
+</personal_medical_history>
+        <family_medical_history>Η αδελφή της μητέρας της είχε καρκίνο μαστού, πέθανε πριν 10 χρόνια</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>περιστατικό Phosphorus</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>δεν αντεχει τις θερμαντικες κρεμες στο σωμα της-δυσφορει-φοβαται οτι θα παθεου κακο τα αγγεια της2&#13;
+πινει μεγαλες ποσοτητες νερου ολη μερα αλλα σε μικρες γουλιες2&#13;
+προτιμαει το δροσερο νερο2&#13;
+απεχθανεται να φοραει παντοφλες στα ποδια της2&#13;
+&#13;
+&#13;
+&#13;
+</peculiar>
+        <intense>της αρεσει να βρισκεται με παρεα 3&#13;
+επιθυμει ψαρια2, γλυκα2, αλατι1, παγωτα2, γλυκα φρουτα2, καφες γαλλικος1, κανελλα1, βανιλια1.&#13;
+απεχθανεται λιπος, λευκη σοκολατα, πικαντικα,καυτερα φαγητα1</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>phosphorus</remedies_differentiation>
+      <prescription>
+        <remedy>phoshorus</remedy>
+        <potency>200ch</potency>
+        <regimen>1caps εφαπαξ</regimen>
+        <other_notes>καμια</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-11-25 08:00:00</followup_date>
+      <conv_med_presc>καμια</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>η τριχοπτωση βελτιωθηκε κατα 20%</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-05-12 09:00:00</followup_date>
+      <conv_med_presc>καμια</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>βελτιωση τριχοπτωσης κατα 80%.Αναφερει οτι χανει πλεον περιπου 30 τριχες / ημερα.</reaction>
+      <analysis>καλη αντιδραση στο φαρμακο</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

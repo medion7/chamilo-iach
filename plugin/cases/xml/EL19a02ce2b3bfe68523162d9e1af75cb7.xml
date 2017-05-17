@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL19a02ce2b3bfe68523162d9e1af75cb7</ID>
+  <patient>
+    <case_date>2014-11-20 19:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Π.Γ.</patient_initials>
+    <age>58</age>
+    <circumstances>Έγγαμος, ιδιωτ. υπάλλ/λος, χωρίς παιδιά.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Συχνοί πανοκέφαλοι2, από τότε που αρρώστησε πατέρας του.     Με τον χρόνο, άρχισε να αδιαφορεί και να μην παίρνει χαρά από τις μικροχαρές, της καθημερινότητας</origin>
+        <causative_factors>Χρόνια ασθένεια, πατέρα. Τον ενοχλεί και η ατεκνία.</causative_factors>
+        <modalities>&gt;με τον ύπνο1</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>Καθημερινά.    Επιδεινώνεται, τους τελευταίους 5 μήνες.</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Τριχόπτωση2     Ασθενής μνήμη1   Εύκολη πνευματική κόπωση1</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Συναισθηματική αδράνεια2,.  Εύκολη σωματική κόπωση1,     Παίρνει βιταμίνες.</conv_med_presc>
+        <lab_tests>
+          <desc>Αιματολογικές :κ.φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει πάρει κατά καιρούς, διάφορες αντιβιώσεις  για αντιμετώπηση οξέων.</therapies_vaccination>
+          <traumas>Σκωληκοειδεκτομή, πριν 5 χρόνια πατέρα   Εδώ και 5χρόνια, στενοχωριέται, επειδή, ο πατέρας του πάσχει, από Alzheimer&#13;
+Δεν απέκτησε παιδί, ενώ ήθελε     </traumas>
+          <infections>-</infections>
+          <other>Θέλει να μένει μόνος και να μην κάνει τίποτα2    Εύκολη σωματική κόπωση1   Σταμάτησε δραστηριότητες π.χ. τρέξιμο, γυμναστική   Αδιαφορεί για τη σύζυγο -  την παραμελεί2, ενώ την αγαπά   Αδιαφορεί για το sex2</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας: Alzheimer      μητέρα:διαβήτη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει2</reactions>
+        <sleeping_habits>Πλάι</sleeping_habits>
+        <food_modalities>Του αρέσουν: τα φρούτα2 ,τα γλυκά1     Δε θέλει το λίπος2</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Πονάει, να βλέπει τον πατέρα του, να φθίνει 3    Τώρα, δεν παίρνει χαρά, από μικρά καθημερινά πράγματα2.   Θέλει, να είναι μόνος και απαθής2.   Παραμελεί τη σύζυγο2   Έχει ασθενή μνήμη1</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>  1-2 ιώσεις το χρόνο    Όχι, ιδιαίτερα υψηλό πυρετό τα τελευταία χρόνια</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Αφού , εμφανίζει κάποια οξέα, αλλά χωρίς υψηλό πυρετό πιστεύω ότι βρίσκεται στο 5-6 επίπεδο και θα μπορέσει, να βοηθήσει το φάρμακο.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Συναισθηματικά απαθής2</peculiar>
+        <intense>Τριχόπτωση2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Μind - company - aversion to - amel, when alone1     Mind - grief- ailments from2     Mind  - indifference, apathy,etc3   Mind - memory - weakness o1f    Genitalia - male - sexualdesire - diminished2     Generalities - food and drinks - fruit - desire2     Generalities - food and drinks - sweets - desire1   Head - hair - falling - grief,from2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Σκέπτομαι το Phos acid, γιατί μετά από τη θλίψη για τον πατέρα του,εμφανίστηκε η συναισθηματική αδιαφορία - απάθεια, η τριχόπτωση και η γενική καταβολή. Το Compass  προτείνει: Phos.acid, Staphisagria,  Ignatia και Natrum mur.  Δεν έχει όμως δεχθεί καταπίεση, αυτό που βγάζει είναι θλίψη, γιαυτό δεν μπορεί να είναι Staph,  το Νatrum mur επίσης εσωστρέφει, αλλά δεν έχει τέτοια συναισθηματική απάθεια, η δε Ignatia συνήθως ταιριάζει με θλίψη, από απώλεια συντρόφου.</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphoric acid</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Την πρώτη μέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-24 17:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>3 ημέρες μετά τη λήψη του φαρμάκου, έκανε δυνατό πονοκέφαλο για ένα 2ήμερο.  10 ημέρες μετά, άρχισε να βελτιώνεται αργά, αλλά σταθερά η ψυχολογική του κατάσταση, άρχισε να ενδιαφέρεται .για τη σύζυγο2,  να θέλει την σεξουαλική επαφή 1,  να &gt;οι  σωματικές του δυνάμεις1,   η μνήμη του παρέμεινε μειωμένη,  η τριχόπτωση&gt;1, και  οι πονοκέφαλοι&lt;1</reaction>
+      <analysis>Το φάρμακο είναι σωστό, έκανε μια αρχική επιδείνωση και μετά δίνει βελτίωση</analysis>
+      <conclusion>Περιμένω, Δεν αλλάζω, δεν επαναλαμβάνω</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-02-28 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνεχίστηκε η βελτίωση, μέχρι πριν 10 ημέρες, όπου άρχισε πονοκεφάλους και πάλι να πέφτει ψυχολογικά και συναισθηματικά.. Η εικόνα του δεν άλλαξε από την αρχική κατάσταση.</reaction>
+      <analysis>Άρχισε να πίνει καφέδες και αντιδότησε</analysis>
+      <conclusion>Επαναλαμβάνω, το ίδιο φάρμακο</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Phosphoric acid</remedy>
+        <potency>200CH</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Nα ληφθεί το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-05-02 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά από 1 εβδομάδα, άρχισε αργή και σταθερή βελτίωση σε όλα. η ψυχολογική του κατάσταση&gt;1, άρχισε να ενδιαφέρεται .για τη σύζυγο2,  να θέλει την σεξουαλική επαφή 1,  οι  σωματικές του δυνάμεις&gt;1,   η μνήμη του &gt;1,  η τριχόπτωση&gt;2, και  οι πονοκέφαλοι&gt;1</reaction>
+      <analysis>Το φάρμακο έδρασε και συνεχίζει να δρα.</analysis>
+      <conclusion>Περιμένω, δεν επαναλαμβάνω, δεν αλλάζω</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Επανεξέταση σε 2 μήνες. Να προσέχει, να μην αντιδοτήσει.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

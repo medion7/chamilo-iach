@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL78d2691f6cb3be693d4f4e055dd628aa</ID>
+  <patient>
+    <case_date>2015-07-08 12:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΚΕ </patient_initials>
+    <age>50</age>
+    <circumstances>Please enter the personal circumstances&#13;
+ΣΩΜΑΤΙΚΟ ΒΑΡΟΣ 85 Kgr&#13;
+ΥΨΟΣ 1.75&#13;
+ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ ΔΥΟ ΠΑΙΔΙΑ &#13;
+ΣΤΕΛΕΧΟΣ ΣΕ ΜΙΑ ΕΠΙΧΕΙΡΗΣΗ </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ΠΡΟΣΗΛΘΕ ΓΙΑ ΤΟ ΕΛΚΟΣ 12/ΟΥ ΓΙΑ ΤΟ ΟΠΟΙΟ ΠΑΙΡΝΕΙ ΘΕΡΑΠΕΥΤΙΚΗ ΑΓΩΓΗ, ΕΔΩ ΚΑΙ 2 ΕΤΗ  ΑΛΛΑ ΕΧΕΙ ΠΑΡΑΤΗΡΗΣΕΙ  ΟΤΙ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΠΟΛΥ  Ο ΠΟΝΟΣ ΤΟΥ ΙΔΑΙΤΕΡΑ ΟΤΑΝ ΕΙΝΑΙ ΑΓΧΩΜΕΝΟΣ &#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ΑΝΑΦΕΡΕΙ ΛΗΨΗ ΚΑΦΕ ΕΔΩ ΚΑΙ  ΠΟΛΛΑ ΧΡΟΝΙΑ ΓΙΑΤΙ Ο ΚΑΦΕΣ ΤΟΝ ΚΡΑΤΑΕΙ ΣΕ ΕΓΡΗΓΟΡΣΗ &#13;
+ΚΑΙ ΕΧΕΙ ΠΑΡΑΤΗΡΗΣΕΙ ΟΤΙ Ο ΠΟΝΟΣ ΤΟΥ ΑΥΞΗΘΗΚΕ  ΑΠΟ ΤΟΤΕ  ΠΟΥ ΠΗΡΕ ΠΡΟΑΓΩΓΗ ΠΡΟ 2 ΕΤΗ  ΓΙΑΤΙ ΕΧΕΙ ΠΙΟ ΠΟΛΥ ΑΓΧΟΣ &#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+Ο ΠΟΝΟΣ ΣΤΟ ΣΤΟΜΑΧΙ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΜΕ ΤΗ ΛΗΨΗ ΚΑΦΕ , ΜΕ ΤΟ ΑΓΧΟΣ , ΚΑΙ ΜΕΤΑ ΤΟ ΦΑΓΗΤΟ &#13;
+ΕΝΩ ΕΧΕΙ ΠΑΡΑΤΗΡΗΣΕΙ ΟΤΙ ΒΕΛΤΙΩΝΕΤΑΙ ΜΕ ΖΕΣΤΑ ΡΟΦΗΜΑΤΑ</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΤΟ ΠΡΩΙ ΚΑΙ ΤΟ ΜΕΣΗΜΕΡΙ ΜΕΤΑ ΤΟ ΦΑΓΗΤΟ &#13;
+</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+Ο ΠΟΝΟΣ ΕΙΝΑΙ ΣΤΟ ΕΠΙΓΑΣΤΡΙΟ &#13;
+</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ΚΑΘΕ ΦΟΡΑ ΠΟΥ ΑΓΧΩΝΕΤΑΙ ΚΑΙ ΣΤΕΝΑΧΩΡΙΕΤΑΙ </appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+Ο ΠΟΝΟΣ ΕΙΝΑΙ ΚΑΥΣΤΙΚΟΣ ,  ΕΝΤΟΝΟΣ ΜΕ ΕΡΥΓΕΣ ΚΑΙ ΞΙΝΙΛΕΣ ΟΤΑΝ ΞΑΠΛΩΝΕΙ &#13;
+</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+O ΠΟΝΟΣ ΕΠΕΚΤΕΙΝΕΤΑΙ ΣΤΟΝ ΟΙΣΟΦΑΓΟ , ΠΡΟΣ ΤΑ ΠΙΣΩ ΣΑΝ ΖΩΝΗ , ΚΑΙ ΠΡΟΣ ΤΗΝ ΚΟΙΛΙΑΚΗ ΧΩΡΑ </complaint_ext>
+        <other_complaints>ΣΤΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΠΟΥ ΣΥΝΟΔΕΥΕΤΑΙ ΑΠΟ ΕΝΑΛΛΑΓΗ ΔΙΑΡΡΟΙΑΣ ΚΑΙ ΔΥΣΚΟΙΛΙΟΤΗΤΗΑΣ &#13;
+ΑΥΧΕΝΑΛΓΙΑ ΑΠΟ ΜΥΙΚΟ ΣΠΑΣΜΟ &#13;
+ΑΙΣΘΑΝΕΤΑΙ  ΕΞΑΝΤΛΗΜΕΝΟΣ ΚΑΙ ΚΟΥΡΑΖΕΤΑΙ ΠΟΛΥ ΕΥΚΟΛΑ </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions  &#13;
+ΕΛΚΟΣ 12/ΛΟΥ ΥΠΟ LOSEC ΚΑΘΕ ΗΜΕΡΑ &#13;
+ΠΑΙΡΝΕΙ  ΒΙΤΑΜΙΝΕΣ ΑΦΟΥ ΜΑΣ ΛΕΕΙ ΟΤΙ ΑΙΣΘΑΝΕΤΑΙ ΟΤΙ ΔΕΝ ΕΧΕΙ ΚΑΘΟΛΟΥ ΕΝΕΡΓΕΙΑ ΚΑΙ ΘΕΛΕΙ  ΝΑ ΤΑ ΠΡΟΛΑΒΕΙ ΟΛΑ&#13;
+ΑΝΑΙΜΙΑ ΥΠΟ HEMAFER ΔΥΟ ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ&#13;
+ΤΑΧΥΚΑΡΔΙΑ ΥΠΟ INDERAL 20mgr ΜΙΑ ΦΟΡΑ ΤΗΝ ΗΜΕΡΑ</conv_med_presc>
+        <lab_tests>
+          <desc>ΕΧΕΙ ΚΑΝΕΙ ΑΡΚΕΤΕΣ ΕΞΕΤΑΣΕΙΣ ΠΟΥ ΜΑΣ ΤΙΣ ΠΑΡΟΥΣΙΑΖΕΙ ΜΕ ΧΡΟΝΟΛΟΓΙΚΗ ΣΕΙΡΑ &#13;
+ΟΙ ΣΗΜΑΝΤΙΚΟΤΕΡΕΣ ΕΞΤΑΣΕΙΣ ΕΙΝΑΙ &#13;
+Τ4 = 6.0(5.1-17) TSH =3.15(0.27-4.76)&#13;
+Hb=11 Ht=33  MCV=78(76-96) MCH =27(27-33) MCHC=30(30-36) MBW=11(11-16)  PLQ=342.000 &#13;
+ GB=7050 Nευτροφιλα=76% Λεμφοκύτταρα=20% Μονο =2%  Εοσιν=2% &#13;
+σακχ=78 ουρία =45 κρεατ=0,6 χοληστερ=207( &lt;200 )  HDL = 48(&gt;40) LDL = 135( &lt;130) τριγλυ= 119(&lt;150)  SGOT = 11(10-30) SGPT= 12 (8-20)&#13;
+ουρα = Proteines = αρν   Hb =αρν   glu= αρν άλατα + , κρύσταλλοι = αρκετοί κρύσταλλοι οξαλικού ασθεστίου Πυοσφ  = 2-3 GR = 1-2 &#13;
+ΓΑΣΤΡΟΣΚΟΠΗΣΗ ΠΟΥ ΔΕΙΧΝΕΙ ΤΟ ΕΛΚΟΣ ΔΩΔΕΚΑΔΑΚΤΥΛΟΥ &#13;
+ΥΠΕΡΗΧΟ ΑΝΩ -ΚΑΤΩ ΚΟΙΛΙΑΣΠΟΥ ΕΔΕΙΞΕ ΜΙΑ ΔΙΑΤΑΣΗ ΠΥΕΛΟΚΑΛΙΚΟΥ ΣΥΣΤΗΜΑΤΟΣ ΔΕΞΙΑ ΧΩΡΙΣ ΕΜΦΑΝΗ ΕΙΚΟΝΑ ΛΙΘΙΑΣΕΩΣ &#13;
+HΚΓ =ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΕΧΕΙ ΠΑΡΕΙ ΟΜΟΙΠΑΘΗΤΙΚΗ ΑΓΩΓΗ ΣΤΟ ΠΑΡΕΛΘΟΝ </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΕΧΕΙ ΚΑΝΕΙ ΟΛΟΥΣ ΤΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ ΣΤΗΝ ΠΑΙΔΙΚΗ ΗΛΙΚΙΑ &#13;
+ΠΑΙΡΝΕΙ  LOSEC ΓΙΑ ΤΟ ΕΛΚΟΣ ΚΑΘΗΜΕΡΙΝΑ &#13;
+HEMAFER ΔΥΟ ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ &#13;
+iNDERAL 20 mgr ΜΙΑ ΦΟΡΑ ΤΗΝ ΗΜΕΡΑ &#13;
+&#13;
+&#13;
+</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+ΠΡΟ  ΔΥΟ ΕΤΗ  ΠΗΡΕ ΠΡΟΑΓΩΓΗ ΣΤΗΝ ΕΤΑΙΡΕΙΑ ΠΟΥ ΔΟΥΛΕΥΕΙ ΚΑΙ ΑΥΞΗΘΗΚΑΝ ΟΙ ΥΠΟΧΡΕΩΣΕΙΣ ΤΟΥ ΚΑΙ ΤΑ ΚΑΘΗΚΟΝΤΑ ΤΟΥ &#13;
+&#13;
+&#13;
+</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΚΑΝΕΙ  ΟΥΡΟΛΟΙΜΩΞΕΙΣ =ΚΥΣΤΙΤΙΔΕΣ   ΠΕΡΙΠΟΥ 4-5 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ ΜΕ ΕΜΠΥΡΕΤΟ ΕΩΣ 38 &#13;
+</infections>
+          <other>ΤΕΛΕΥΤΑΙΟ ΕΜΠΥΡΕΤΟ ΕΩΣ 40  ΠΡΟ  2  ΧΡΟΝΙΑ ΓΙΑ ΜΙΑ ΑΜΥΓΔΑΛΙΤΙΔΑ &#13;
+ΕΚΤΟΤΕ ΚΑΝΕΙ ΕΠΑΝΑΛΑΜΒΑΝΟΜΕΝΕΣ ΛΟΙΜΩΞΕΙΣ 4 -5 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ ΜΕ 38 ΠΥΡΕΤΟ </other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΠΑΤΕΡΑΣ ΜΕ ΥΠΕΡΤΑΣΗ &#13;
+ΜΗΤΕΡΑ ΜΕ ΣΑΚΧΑΡΩΔΗ ΔΙΑΒΗΤΗ </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΟΥΛΙΑΡΗΣ 2 ΚΑΙ ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΟ ΚΡΥΟ&#13;
+ΙΔΡΩΝΕΙ 2 </reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΔΕΞΙΑ&#13;
+ΕΧΕΙ ΠΟΛΛΕΣ ΦΟΡΕΣ ΑΥΠΝΙΑ . ΣΥΝΗΘΩΣ ΚΟΙΜΑΤΑΙ ΕΥΚΟΛΑ ΑΛΛΑ ΞΥΠΝΑΕΙ ΚΑΤΑ ΤΙΣ 4-5  ΑΜ ΚΑΙ ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΞΑΝΑΚΟΙΜΗΘΕΙ ΓΙΑΤΙ ΣΚΕΦΤΕΤΑΙ ΤΟ ΠΡΟΓΡΑΜΜΑ ΤΟΥ ΚΑΙ ΤΙΣ ΔΟΥΛΕΙΕΣ ΠΟΥ ΕΧΕΙ ΝΑ ΚΑΝΕΙ ΤΗΝ ΕΠΟΜΕΝΗ ΗΜΕΡΑ &#13;
+ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΟΣ  ΤΟ ΠΡΩΙ 2 ΑΛΛΑ ΠΑΡΟΛΑ ΑΥΤΑ ΣΗΚΩΝΕΤΑΙ ΚΑΙ ΤΡΕΧΕΙ ΓΙΑ ΝΑ ΠΡΟΛΑΒΕΙ </sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΙΑ ΛΥΠΟΣ 2 / ΚΑΦΕ 2 / ΠΙΚΑΝΤΙΚΑ 2 / ΓΛΥΚΑ 1/ ΑΛΚΟΟΛ 2 &#13;
+ΑΠΕΧΘΕΙΑ ΚΡΕΑΣ 1 &#13;
+</food_modalities>
+        <menstruation>---</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+1.ΕΧΕΙ ΝΕΥΡΑ 3   ΣΥΝΗΘΩΣ ΣΤΟ ΣΠΙΤΙ  ΣΠΑΕΙ ΠΡΑΓΜΑΤΑ ΟΤΑΝ ΘΥΜΩΝΕΙ , ΕΝΟΧΛΕΙΤΑΙ   ΑΠΟ ΤΟΥΣ ΘΟΡΥΒΟΥΣ  . ΣΤΗ ΔΟΥΛΕΙΑ ΝΕΥΡΙΑΖΕΙ ΟΤΑΝ ΔΕΝ ΠΡΟΛΑΜΒΑΝΕΙ ΝΑ ΤΕΛΕΙΩΣΕΙ ΑΥΤΟ ΠΟΥ ΕΧΕΙ ΠΡΟΓΡΑΜΜΑΤΙΣΕΙ ΚΑΙ ΤΑ ΒΑΖΕΙ ΜΕ ΤΟΥΣ ΑΛΛΟΥΣ ΦΩΝΑΖΟΝΤΑΣ &#13;
+2. ΕΙΝΑΙ ΤΑΚΤΙΚΟΣ 3 ΚΑΙ ΣΤΟ ΣΠΙΤΙ ΚΑΙ ΣΤΗΝ ΕΡΓΑΣΙΑ ΤΟΥ ΜΑΣ ΛΕΕΙ ΟΤΙ ΕΙΝΑΙ ΠΟΛΥ ΠΑΡΑΞΕΝΟΣ ΜΕ ΤΑ ΠΡΑΓΜΑΤΑ ΤΟΥ ΚΑΙ ΟΤΙ ΤΑ ΤΑΚΤΟΠΟΙΕΙ ΠΟΛΥ ΠΡΟΣΕΚΤΙΚΑ ΚΑΙ ΜΕ ΛΕΠΤΟΜΕΡΕΙΑ. ΕΙΝΑΙ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ &#13;
+3. ΔΕΝ ΕΧΕΙ  ΦΟΒΟΥΣ &#13;
+4. ΕΙΝΑΙ ΑΝΤΑΓΩΝΙΣΤΙΚΟΣ ΣΤΗ ΔΟΥΛΕΙΑ ΤΟΥ  3 &#13;
+5.ΕΧΕΙ ΑΥΤΟΠΕΠΟΙΘΗΣΗ &#13;
+6. ΔΕΝ ΤΟΥ ΑΡΕΣΕΙ Η ΠΑΡΗΓΟΡΙΑ &#13;
+7. ΕΙΝΑΙ ΕΣΩΣΤΡΕΦΕΣ  ΑΤΟΜΟ  2  ΓΙΑΤΙ ΤΑ ΠΡΟΒΛΗΜΑΤΑ ΤΟΥ ΤΑ ΣΥΖΗΤΑΕΙ ΜΟΝΟ ΜΕ ΤΟΥΣ ΔΙΚΟΥΣ ΤΟΥ &#13;
+8. ΕΙΝΑΙ ΔΡΑΣΤΗΡΙΟΣ -ΥΠΕΡΚΝΗΤΙΚΟΣ 2 &#13;
+9. ΣΟΒΑΡΟ ΚΑΙ ΤΥΠΙΚΟ ΑΤΟΜΟ &#13;
+10. ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΤΟΥ ΔΕΝ ΚΑΛΥΤΕΡΕΥΟΥΝ ΜΕ ΤΗΝ ΜΟΥΣΙΚΗ &#13;
+11. ΦΙΛΟΔΟΞΟ ΑΤΟΜΟ &#13;
+&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+ΤΑΧΥΚΑΡΔΙΕΣ ΠΟΥ ΕΠΙΔΕΙΝΩΝΟΝΤΑΙ ΜΕ ΤΟΝ ΚΑΦΕ&#13;
+1. ΠΡΩΙΝΟ ΒΗΧΑ ΧΩΡΙΣ  ΦΛΕΓΜΑΤΑ ΟΤΑΝ ΣΗΚΩΝΕΤΑΙ ΑΠΟ ΚΡΕΒΑΤΙ &#13;
+2. ΟΤΑΝ ΕΧΕΙ ΔΥΣΚΟΙΛΙΟΤΗΤΑ ΑΝΑΚΟΥΦΙΖΕΤΑΙ ΜΕ ΤΗΝ ΑΦΟΔΕΥΣΗ &#13;
+3. ΠΟΛΛΕΣ ΦΟΡΕΣ ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΚΟΙΜΗΘΕΙ ΓΙΑΤΙ ΣΚΕΦΤΕΤΑΙ ΤΙΣ ΔΟΥΛΕΙΕΣ ΠΟΥ ΠΡΕΠΕΙ ΝΑ ΚΑΝΕΙ ΚΑΙ ΜΑΛΙΣΤΑ ΞΥΠΝΑΕΙ ΣΤΙΣ 4.00 ΓΙΑ ΝΑ ΤΙΣ ΠΡΑΓΜΑΤΟΠΟΙΗΣΕΙ &#13;
+4. ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΜΑ ΕΝΑΛΛΑΓΗ ΔΙΑΡΡΟΙΕΣ ΚΑΙ ΔΥΣΚΟΙΛΙΟΤΗΤΑ&#13;
+5. ΝΕΦΡΟΛΙΘΙΑΣΗ &#13;
+6. ΑΥΞΗΜΕΝΗ ΕΠΙΘΥΜΙΑ ΓΙΑ ΣΕΞ &#13;
+</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΕΧΕΙ  ΤΗΝ ΚΛΗΡΟΝΟΜΙΚΗ ΠΡΟΔΙΑΘΕΣΗ ΑΠΟ ΤΗΝ ΜΗΤΕΡΑ ΤΟΥ ΓΙΑ ΣΑΚΧΑΡΟ &#13;
+</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>ΕΠΕΙΔΗ ΚΑΝΕΙ ΕΠΑΝΑΛΑΜΒΑΝΟΜΕΝΕΣ ΛΟΙΜΩΞΕΙΣ  4 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ  ΜΕ  ΘΕΡΜΟΚΡΑΣΙΑ ΣΤΟ 38 &#13;
+ ΒΡΙΣΚΕΤΑΙ ΣΤΟ  2 GROUP ΕΠΙΠΕΔΟ 5 </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ abdomen ulcere duodenal  2&#13;
+sleep sleeplessness  night midniht after 4.00  3&#13;
+mind ambition increased 3</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+generalities cold agg 3&#13;
+generalities weakness 2&#13;
+genitalia male sexual desire increased  3 &#13;
+mind  fastidious 3&#13;
+mind reserve 2&#13;
+mind anfer-irascibility-violent 3&#13;
+mind anger irascibility -violent 3&#13;
+mind company aversion to 2 &#13;
+sleep unrefreshing -morning 2 &#13;
+sleep -sleeplessness-thoughts activity of mind from  3&#13;
+generalaties  weekness 2&#13;
+mind -restlessnss nervousness -anxious 2 &#13;
+generalities food-drinks fat desire 2 &#13;
+generalities food-drinks coffee desire 2 &#13;
+generalities food-drinks sweets desire 1 &#13;
+generalities food-drinks alcoholic drinks desire 2 &#13;
+generalities food-drinks spices  desire 2 &#13;
+generalities food-drinks meat -aversion 2 &#13;
+cought -morning waking on 2&#13;
+kindey's stones 1&#13;
+generalities anemia 2 &#13;
+generalities=pulse -frequent,accelerated,fast(tachycardia) 2&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>nux -vom&#13;
+aurum metallicum&#13;
+arsenicum  album&#13;
+sulfur&#13;
+tarentulla hispanica </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+1 Η Nux-vom KAI TO Arsenicum ΕΙΝΑΙ ΚΑΙ ΤΑ ΔΥΟ ΚΡΥΑ ΦΑΡΜΑΚΑ ΑΛΛΑ ΤΟ ARS ΕΙΝΑΙ ΠΟΛΥ ΠΙΟ ΚΡΥΟ &#13;
+Η ΤΑΞΗ ΤΟΥ ARS ΕΙΝΑΙ ΑΠΟΤΕΛΕΣΜΑ ΤΟΥ ΑΓΧΟΥΣ ΚΑΙ ΤΗΣ ΑΒΕΒΑΙΟΤΗΤΑΣ ΕΝΩ Η  NUX-VOM ΕΙΝΑΙ Η ΤΑΞΗ ΓΙΑ ΤΗΝ ΤΑΞΗ ΛΟΓΟΥ ΕΡΓΑΤΙΚΟΤΗΤΑΣ &#13;
+ΤΟ ARSENICUM ΑΝΑΖΗΤΕΙ ΤΗΝ ΣΥΝΤΡΟΦΙΑ ΤΩΝ ΑΛΛΩΝ   / ΦΟΒΑΤΑΙ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΟΥ ΕΧΟΝΤΑΣ ΚΑΙ  ΦΟΒΟ ΓΙΑ ΤΟ ΘΑΝΑΤΟ . ΣΤΗΝ ΠΕΡΙΠΤΩΣΗ ΜΑΣ Ο ΑΣΘΕΝΗΣ ΔΕΝ ΕΧΕΙ ΦΟΒΟΥΣ &#13;
+2.  ΟΣΟ ΑΦΟΡΑ ΤΟ AURUM -MET  ΚΑΙ  ΤΟ SULFUR  ΔΕΝ ΕΙΝΑΙ ΤΑΚΤΙΚA  ΟΣΟ  ΕΙΝΑΙ  ΕΔΩ Ο ΑΣΘΕΝΗΣ ΜΑΣ &#13;
+ΤΟ AURUM -MET ΔΕΝ ΠΑΣΧΕΙ ΑΠΟ ΕΛΚΟΣ ΔΩΔΕΚΑΔΑΚΤΥΛΟΥ ΚΑΙ ΟΥΤΕ  ΞΥΠΝΑ ΣΤΙΣ 400 ΑΜ ΓΙΑ ΝΑ ΣΚΕΦΤΕΙ ΤΙΣ ΔΟΥΛΕΙΕΣ ΠΟΥ ΕΧΕΙ  ΝΑ ΚΑΝΕΙ / ΔΕΝ ΕΠΙΘΥΜΕΙ ΤΑ ΛΙΠΑΡΑ, ΟΥΤΕ ΤΑ ΠΙΚΑΝΤΙΚΑ &#13;
+3..ΤΟ SULFUR ΑΠΟ ΤΗΝ ΑΛΛΗ ΜΠΟΡΕΙ ΝΑ ΞΥΠΝΑΣΕΙ ΤΟ ΒΡΑΔΥ ΑΛΛΑ  ΔΕΝ ΕΧΕΙ ΑΓΧΟΣ ΚΑΘΕΤΑΙ ΚΑΙ ΦΙΛΟΣΟΦΕΙ ΕΤΣΙ ΔΕΝ ΘΑ ΠΑΘΕΙ ΕΛΚΟΣ ΔΩΔΕΚΑΔΑΚΤΥΛΟΥ &#13;
+4..Η tarentulla hispanica  ΝΕΥΡΙΑΖΕΙ ΚΑΙ ΓΙΝΕΤΑΙ ΕΠΙΘΕΤΙΚΟ ΚΡΥΩΝΕΙ ΑΛΛΑ ΔΕΝ ΕΧΕΙ ΤΙΣ ΦΙΛΟΔΟΞΙΕΣ ΤΗΣ NUX-VOM ΟΥΤΕ ΕΙΝΑΙ ΣΠΑΣΤΙΚΟ ΜΕ ΤΝ ΤΑΞΗ .ΕΠΙΠΛΕΟΝ ΤΟ ΠΡΩΙ ΔΕΝ ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΟ ΔΕΝ ΕΠΙΘΥΜΕΙ ΤΟΝ ΚΑΦΕ ΤΑ ΠΙΚΑΝΤΙΚΑ ΚΑΙ ΤΑ ΛΙΠΑΡΑ ΕΝΩ ΚΑΛΥΤΕΡΕΥΕΙ ΜΕ ΤΗΝ ΜΟΥΣΙΚΗ &#13;
+&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Nux-vom </remedy>
+        <potency>200ch    -1 M</potency>
+        <regimen>TΟ 200 ch ΘΑ ΤΟ ΠΑΡΕΙ ΤΟ ΠΡΩΙ &#13;
+ΚΑΙ ΤΟ 1Μ ΤΟ ΜΕΣΗΜΕΡΙ  </regimen>
+        <other_notes>ΤΟΥ ΕΠΙΣΗΜΑΙΝΟΥΜΕ ΟΤΙ ΔΕΝ ΠΡΕΠΕΙ ΝΑ ΠΙΝΕΙ ΚΑΦΕ ΟΥΤΕ ΝΑ ΚΑΝΕΙ ΚΑΤΑΧΡΗΣΕΙΣ ΣΕ ΤΡΟΦΕΣ ΠΟΥ ΠΕΡΙΕΧΟΥΝ &#13;
+ΚΑΦΕΙΝΗ ΟΠΩΣ ΚΟΚΑ-ΚΟΛΑ &#13;
+ΕΑΝ ΘΕΛΕΙ ΝΑ ΠΙΕΙ ΚΑΦΕ ΜΠΟΡΕΙ ΝΑ ΠΙΕΙ  DECAFEINE &#13;
+ΕΠΙΣΗΣ ΤΟΥ ΕΠΙΣΗΜΑΙΝΟΥΜΕ ΟΤΙ ΕΑΝ ΚΑΠΝΙΖΕΙ ΠΡΕΠΕΙ ΝΑ ΠΕΡΟΡΙΣΕΙ ΤΟ ΚΑΠΝΙΣΜΑ ΓΙΑΤΙ Ο ΚΑΠΝΟΣ ΕΜΠΟΔΙΖΕΙ ΤΗΝ ΔΡΑΣΗ ΤΟΥ ΟΜΟΙΟΠΑΘΗΤΙΟΥ ΦΑΡΜΑΚΟΥ  &#13;
+ΤΟΥ ΛΕΜΕ ΝΑ  ΜΑΣ ΞΑΝΑΕΡΘΕΙ ΣΕ ΕΝΑ ΜΗΝΑ </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-09 11:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ ΣΥΝΕΧΙΖΕΙ ΤΟ  LOSEC ΓΙΑ ΤΟ ΕΛΚΟΣ ΤΟΥ ΚΑΘΕ ΗΜΕΡΑ &#13;
+ ΤΟ HEMAFER ΓΙΑ ΤΗΝ ΑΝΑΙΜΙΑ ΤΟΥ ΔΥΟ ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ &#13;
+ΤΙΣ ΒΙΤΑΜΙΝΕΣ ΤΟY ΚΑΙ ΤΟ INDERAL ΓΙΑ ΤΗΝ ΤΑΧΥΚΑΡΔΙΑ ΤΟΥ &#13;
+&#13;
+ &#13;
+&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc> Hb=12 Ht=35  MCV=78(76-96) MCH =30(27-33) MCHC=32(30-36) MBW=12(11-16)  PLQ=342.000 &#13;
+GB=7000 Nευτροφιλα=70% Λεμφοκύτταρα=20% Μονο =5%  Εοσιν=5% &#13;
+ουρα = Proteines = αρν   Hb =αρν   glu= αρν   &#13;
+ άλατα + , κρύσταλλοι =οξαλικού ασθεστίου  Πυοσφ  = 2-3 GR = 0-1</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΤΗΝ ΠΡΩΤΗ ΗΜΕΡΑ ΠΟΥ ΠΗΡΕ ΤΟ ΦΑΡΜΑΚΟ ΕΙΧΕ ΜΙΑ ΕΝΤΟΝΗ ΕΦΙΔΡΩΣΗ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΜΑΣ ΑΝΑΦΕΡΕΙ ΟΤΙ ΠΑΡΟΛΟ ΠΟΥ ΔΕΝ ΠΙΝΕΙ  ΚΑΦΕ  ΜΠΟΡΕΙ ΝΑ ΑΝΤΑΠΟΚΡΙΘΕΙ  ΣΤΟ ΠΡΟΓΡΑΜΜΑ ΤΟΥ &#13;
+1. ΟΙ  ΘΟΡΥΒΟΙ ΤΟΝ ΕΝΟΧΛΟΥΝ ΛΙΓΟΤΕΡΟ ΚΑΙ Η ΔΙΑΘΕΣΗ ΤΟΥ ΕΙΝΑΙ ΚΑΛΥΤΕΡΗ ΚΑΙ ΤΩΡΑ ΤΑ ΝΕΥΡΑ ΤΟΥ ΕΧΟΥΝ ΜΕΙΩΘΕΙ ΚΑΤΑ 50%&#13;
+2. Ο ΠΟΝΟΣ ΣΤΟ ΔΩΔΕΚΑΔΑΚΤΥΛΟ ΕΧΕΙ ΠΕΡΙΟΡΙΣΤΕΙ ΚΑΤΑ 30% ΚΑΙ ΔΕΝ ΕΠΕΚΤΕΙΝΕΤΑΙ ΣΤΗΝ ΜΕΣΗ ΚΑΙ ΣΤΗΝ ΚΟΙΛΙΑΚΗ ΧΩΡΑ  &#13;
+3. ΚΡΥΩΝΕΙ ΛΙΓΟΤΕΡΟ ΑΠΟ ΠΡΙΝ&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Η ΕΝΤΟΝΗ ΑΝΤΙΔΡΑΣΗ ΠΟΥ ΕΚΑΝΕ ΤΗΝ ΠΡΩΤΗ ΗΜΕΡΑ ΕΙΝΑΙ ΜΙΑ ΘΕΡΑΠΕΥΤΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΠΟΥ ΣΗΜΑΙΝΕΙ ΟΤΙ ΤΟ ΦΑΡΜΑΚΟ ΠΟΥ ΠΗΡΕ ΗΤΑΝ ΣΩΣΤΟ &#13;
+ΚΑΤΟΠΙΝ  ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΟΥ ΜΗΝΑ ΥΠΗΡΞΕ ΜΙΑ ΣΗΜΑΝΤΙΚΗ ΒΕΛΤΙΩΣΗ &#13;
+1. ΣΤΗΝ ΖΩΤΙΚΗ ΤΟΥ ΕΝΕΡΓΕΙΑ &#13;
+2. ΣΤΟ ΣΥΜΠΤΩΜΑ ΓΙΑ ΤΟ ΟΠΟΙΟ ΕΙΧΕ ΕΡΘΕΙ ΑΥΤΟ ΤΗΣ ΕΠΙΓΑΣΤΡΑΛΓΙΑΣ&#13;
+3. ΤΗΣ ΨΥΧΙΚΗΣ ΤΟΥ    ΗΡΕΜΙΑΣ  ΑΦΟΥ ΟΙ ΘΟΡΥΒΟΙ ΤΟΝ ΕΝΟΧΛΟΥΝ ΤΩΡΑ ΛΙΓΟΤΕΡΟ ΚΑΙ ΝΕΥΡΙΑΖΕΙ ΛΙΓΟΤΕΡΟ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>-- ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>ΤΟΝ ΣΥΜΒΟΥΛΕΥΟΥΜΕ ΝΑ ΣΥΝΕΧΙΣΕΙ ΝΑ ΜΗΝ  ΠΙΝΕΙ  ΚΑΦΕ  ΚΑΙ ΝΑ ΜΗΝ ΚΑΝΕΙ ΚΑΤΑΧΡΗΣΕΙΣ  ΣΕ ΤΡΟΦΕΣ ΠΟΥ ΠΕΡΙΕΧΟΥΝ ΚΑΦΕΙΝΗ ΟΠΩΣ ΚΟΚΑ -ΚΟΚΑ  </regimen>
+        <other_notes>ΤΟΥ ΛΕΜΕ  ΝΑ ΞΑΝΑΕΡΘΕΙ Σ ΕΝΑ ΜΗΝΑ &#13;
+ΕΚΤΟΣ ΚΑΙ ΕΑΝ ΥΠΑΡΞΕΙ ΜΙΑ ΣΟΒΑΡΗ ΕΠΕΙΝΩΣΗ ΤΟΥ ΣΥΜΠΤΩΜΑΤΟΣ &#13;
+</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-09 11:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions &#13;
+ΠΑΙΡΝΕΙ ΤΟ LOSEC ΚΑΤΑ ΕΠΙΚΛΗΣΗ ΣΤΟΝ ΠΟΝΟ &#13;
+ ΣΤΑΜΑΤΗΣΕ ΤΟ HEMAFER ΓΙΑ ΤΗΝ ΑΝΑΙΜΙΑ ΚΑΙ ΤΙΣ ΒΙΤΑΜΙΝΕΣ ΠΟΥ ΕΠΑΙΡΝΕ ΓΙΑ ΝΑ ΑΝΤΑΠΟΚΡΙΘΕΙ ΣΤΙΣ ΥΠΟΧΡΕΩΣΕΙΣ  ΤΗΣ ΔΟΥΛΕΙΑΣ ΤΟΥ&#13;
+ ΤΟ INDERAL TO ΠΑΙΡΝΕΙ ΚΑΤΑ ΕΠΙΚΛΗΣΗ&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>Hb=13 Ht=40   MCV=80(76-96) MCH =30(27-33) MCHC=32(30-36) MBW=12(11-16)  PLQ=280.000 &#13;
+ΕΚΑΝΕ ΓΑΣΤΡΟΣΚΟΠΗΣΗ ΠΟΥ ΕΔΕΙΞΕ ΜΙΑ ΕΠΟΥΛΩΣΗ ΤΟΥ ΕΛΚΟΥΣ </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΣΥΝΕΧΙΖΕΤΑΙ Η ΚΑΛΗ ΠΟΡΕΙΑ ΤΗΣ ΑΝΤΙΔΡΑΣΗΣ &#13;
+ΑΦΟΥ Ο ΑΣΘΕΝΗΣ ΜΑΣ   ΠΑΙΡΝΕΙ KATA ΕΠΙΚΛΗΣΗ  ΤΟ LOSEC &#13;
+ΚΑΙ ΕΧΕΙ ΠΕΡΙΣΣΟΤΕΡΕΣ ΔΥΜΑΜΕΙΣ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΜΑΣ ΛΕΕΙ ΟΤΙ ΕΧΕΙ ΔΕΙ ΒΕΛΤΙΩΣΗ&#13;
+1. ΣΤΗΝ ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΠΟΥ ΕΙΧΕ ΚΑΤΑ 40%&#13;
+2.ΝΙΩΘΕΙ ΟΤΙ ΜΠΟΡΕΙ ΝΑ ΑΝΤΑΠΟΚΡΙΘΕΙ ΣΤΙΣ ΥΠΟΧΡΕΩΣΕΙΣ ΤΗΣ ΔΟΥΛΕΙΑΣ ΤΟΥ ΧΩΡΙΣ ΝΑ ΧΡΕΙΑΖΕΤΑΙ ΒΙΤΑΜΙΝΕΣ ΚΑΙ ΚΑΦΕ   &#13;
+3. Ο ΠΟΝΟΣ ΣΤΟ ΣΤΟΜΑΧΙ ΤΟΥ ΕΧΕΙ ΜΕΙΩΘΕΙ  ΚΑΤΑ  70%  ΑΛΛΑ ΣΥΝΕΧΙΖΕΙ ΝΑ ΠΡΟΣΕΧΕΙ ΤΗΝ ΔΙΑΤΡΟΦΗ ΤΟΥ&#13;
+4, ΟΙ ΤΑΧΥΚΑΡΔΙΕΣ ΕΧΟΥΝ ΕΛΑΤΤΩΘΕΙ  ΣΗΜΑΝΤΙΚΑ &#13;
+5 ΚΟΙΜΑΤΑΙ ΠΙΟ ΗΡΕΜΟΣ ΤΩΡΑ ΧΩΡΙΣ ΝΑ ΣΗΚΩΝΕΤΑΙ ΤΗΝ ΝΥΧΤΑ &#13;
+6. ΒΕΛΤΙΩΣΗ ΤΗΣ ΑΝΑΙΜΙΑΣ ΤΟΥ ΑΦΟΥ ΣΤΑΜΑΤΗΣΕ ΤΟ HEMAFER&#13;
+7. ΔΕΝ  ΕΠΙΘΥΜΕΙ ΟΠΩΣ ΠΡΙΝ  ΤΟΝ  ΚΑΦΕ - ΤΑ ΓΛΥΚΑ - ΚΑΙ  ΤΟ ΑΛΚΟΟΛ </analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΤΟ ΦΑΡΜΑΚΟ ΠΟΥ ΔΩΣΑΜΕ  ΣΥΝΕΧΙΖΕΙ ΝΑ ΔΡΑ .&#13;
+ΔΕΝ ΒΛΕΠΟΥΜΕ ΚΑΜΜΙΑ ΥΠΟΤΡΟΠΗ ΤΩΝ ΣΥΜΠΤΩΜΑΤΩΝ  ΟΠΟΤΕ  &#13;
+ΔΕΝ ΔΙΝΟΥΜΕ ΤΙΠΟΤΑ  ΚΑΙ  ΠΕΡΙΜΕΝΟΥΜΕ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΚΑΝΕΝΑ ΦΑΡΜΑΚΟ </remedy>
+        <potency>--ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>ΤΟΥ ΛΕΜΕ ΝΑ ΠΡΟΣΕΧΕΙ ΤΗΝ ΔΙΑΤΡΟΦΗ ΤΟΥ ΚΑΙ&#13;
+ΝΑ ΣΥΝΕΧΙΣΕΙ ΝΑ ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΟΥ ΚΛΕΙΝΟΥΜΕ ΡΑΝΤΕΒΟΥ ΣΕ 2 ΜΗΝΕΣ </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-11-09 11:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΠΑΙΡΝΕΙ ΤΟ LOSEC ΣΠΑΝΙΑ ΚΑΙ ΚΑΤΑ ΕΠΙΚΛΗΣΗ &#13;
+&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>Hb=15 Ht=45  MCV=80(76-96) MCH =30(27-33) MCHC=35(30-36) MBW=13(11-16)  PLQ=340.000 &#13;
+ΕΚΑΝΕ ΓΑΣΤΡΟΣΚΟΠΗΣΗ ΚΑΙ ΕΔΕΙΞΕ ΕΠΟΥΛΩΣΗ ΤΟΥ ΕΛΚΟΥΣ &#13;
+&#13;
+&#13;
+</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΣΥΝΕΧΙΖΕΤΑΙ  Η ΚΑΛΗ ΠΟΡΕΙΑ ΤΗΣ ΠΡΩΤΗΣ ΑΝΤΙΔΡΑΣΗΣ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+1. ΕΧΕΙ ΑΡΚΕΤΕΣ ΔΥΝΑΜΕΙΣ &#13;
+2. ΚΑΜΜΙΑ ΦΟΡΑ ΑΙΣΘΑΝΕΤΑΙ  ΣΤΟΜΑΧΙΚΑ  ΕΝΟΧΛΗΜΑΤΑ ΚΑΙ ΠΑΙΡΝΕΙ ΠΕΡΙΣΤΑΣΙΑΚΑ  ΤΟ  LOSEC &#13;
+3. ΣΠΑΝΙΑ ΥΠΟΦΕΡΕΙ ΑΠΟ   ΤΗΝ ΣΠΑΣΤΙΚΗ ΤΟΥ  ΚΟΛΙΤΙΔΑ &#13;
+4. ΟΙ ΤΑΧΥΚΑΡΔΙΕΣ ΣΤΑΜΑΤΗΣΑΝ ΑΦΟΥ ΕΙΝΑΙ ΠΙΟ ΗΡΕΜΟΣ ΤΩΡΑ ΚΑΙ ΔΕΝ  ΕΧΕΙ ΑΓΧΟΣ ΓΙΑ  ΝΑ ΤΑ ΠΡΟΛΑΒΕΙ ΟΛΑ ΚΑΙ ΓΡΗΓΟΡΑ&#13;
+5 ΚΟΙΜΑΤΑΙ ΠΙΟ ΚΑΛΑ ΤΟ ΒΡΑΔΥ ΚΑΙ ΤΟ ΠΡΩΙ ΔΕΝ ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΟΣ &#13;
+6. ΤΟ ΠΡΩΙ ΔΕΝ ΕΧΕΙ ΦΛΕΓΜΑΤΑ&#13;
+7. ΕΧΕΙ ΗΡΕΜΗΣΕΙ ΚΑΙ ΣΤΗΝ ΔΟΥΛΕΙΑ ΤΟΥ ΚΑΙ ΔΕΝ ΒΑΖΕΙ ΤΙΣ ΦΩΝΕΣ ΣΤΟΥΣ ΣΥΝΑΔΕΛΦΟΥΣ ΤΟΥ &#13;
+8 ΕΙΝΑΙ ΤΩΡΑ  ΛΙΓΟΤΕΡΟ ΤΥΠΙΚΟΣ  ΜΕ ΤΗΝ ΤΑΞΗ ΚΑΙ ΑΓΧΩΝΕΤΑΙ  ΛΙΓΟΤΕΡΟ ΓΙΑ ΑΥΤΗΝ &#13;
+&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΠΟΛΥ ΚΑΛΗ ΠΟΡΕΙΑ ΕΧΕΙ Ο ΑΣΘΕΝΗΣ &#13;
+1.ΑΦΟΥ ΑΥΞΗΘΗΚΕ Η ΖΩΤΙΚΗ ΤΟΥ ΕΝΕΡΓΕΙΑ &#13;
+2.ΤΟ ΚΥΡΙΟ ΠΡΟΒΛΗΜΑ ΤΟΥ ΕΛΚΟΥΣ  ΓΙΑ ΤΟ ΟΠΟΙΟ ΕΙΧΕ ΕΡΘΕΙ, ΒΕΛΤΙΩΘΗΚΕ&#13;
+3.ΑΙΣΘΑΝΕΤΑΙ ΚΑΛΑ ΨΥΧΟΛΟΓΙΚΑ ΑΦΟΥ ΕΙΝΑΙ ΠΙΟ ΗΡΕΜΟΣ ΤΩΡΑ  &#13;
+4. ΚΟΙΜΑΤΑΙ ΚΑΛΑ ΚΑΙ ΣΗΚΩΝΕΤΑΙ ΞΕΚΟΥΡΑΣΤΟΣ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>--</potency>
+        <regimen>ΤΟΥ ΣΥΜΒΟΥΛΕΥΟΥΜΕ  ΝΑ ΣΥΝΕΧΙΣΕΙ ΝΑ ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ &#13;
+ΑΝ ΕΠΙΘΥΜΕΙ ΚΑΦΕ  ΚΑΛΥΤΕΡΑ ΝΑ ΠΙΝΕΙ DECAFEINE </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΠΑΡΑΤΗΡΟΥΜΕ ΜΙΑ &#13;
+1 ΣΗΜΑΝΤΙΚΗ ΒΕΛΤΙΩΣΗ ΣΤΗΝ ΖΩΤΙΚΗ ΤΟΥ ΕΝΕΡΓΕΙΑ &#13;
+2.ΣΤΟ ΚΥΡΙΟ ΣΩΜΑΤΙΚΟ ΤΟΥ  ΠΡΟΒΛΗΜΑ ΑΥΤΟ ΤΗΣ ΕΠΙΓΑΣΤΡΑΛΓΙΑΣ &#13;
+3. ΑΛΛΑ ΚΑΙ ΤΩΝ ΕΠΙΜΕΡΟΥΣ ΠΡΟΒΛΗΜΑΤΩΝ ΠΟΥ ΕΙΧΕ &#13;
+ΤΟΥ ΛΕΜΕ ΛΟΙΠΟΝ  ΟΤΙ ΘΑ ΜΑΣ ΞΑΝΑΕΠΙΣΚΕΥΤΕΙ  ΤΩΡΑ ΕΑΝ   ΕΠΑΝΕΜΦΑΝΙΣΤΟΥΝ ΤΑ ΣΥΜΠΤΩΜΑΤΑ </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

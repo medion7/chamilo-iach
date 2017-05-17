@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL9a65d395733f242e6bddc91596211a70</ID>
+  <patient>
+    <case_date>2014-11-05 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Χ.Φ</patient_initials>
+    <age>49</age>
+    <circumstances>Εγγαος μητέρα δύο παιδιών .Ευγενική ,προσηνής Αγρότισσα</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πριν έξι χρόνια που αυτοκτόνησε ο αδερφός της και τον βρήκε νεκρό η ίδια Πριν ένα χρόνο πέθανε ξαφνικά και ο πατέρας της από ρήξη ανευρύσματος αορτής και τότε κατέρρευσε Του είχε νφοβερή αδυναμία και ήταν εκείνος που την στήριξε μετά την απώλεια ρου αδερφού της , ενώ εκείνη στήριζε όλους τους άλλους ηθικά και οικονομικά</origin>
+        <causative_factors>Το shock από τις δύο απώλειες και την αδυναμία να εκτονώσει τον πόνο της την πρώτη φορά προκειμένου να στηρίξει την οικογένεια του</causative_factors>
+        <modalities>&lt;θόρυβος&#13;
+&gt; βόλτα με το αυτοκίνητο &gt; παρέα,&gt;θάλασσα</modalities>
+        <occurrence_time>&lt;το πρωί και αργά το βράδυ</occurrence_time>
+        <body_side>_</body_side>
+        <appearence_frequency>κάθε μέρα εδώ και ένα χρόνο το ίδιο αισθάνεται</appearence_frequency>
+        <pain_desc>_</pain_desc>
+        <complaint_ext>Αισθημα δύσπνοιας που την αναγκάζει να αναστενάζει για να χορτάσει οξυγόνο</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Κατάθλιψη από εξαετίας Λαμβάνει Xanax 0,5 δύο φορές την ημέρα από έτους</conv_med_presc>
+        <lab_tests>
+          <desc>chol 280, trigl 200, Hct 36% glu 86 , SCOT20,SGPT 21</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Νέα ασθενής στηνομοιοπαθητική</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβολιασμός γιά Δ-Τ-Κ Πήρε πριν επτά χρόνια τελευταία φορά αντιβίωση για βρογχίτιδα με πυρετό ως 38,5 ,και έκτοτε δεν έχει αρρωστήσει ξανά</therapies_vaccination>
+          <traumas>Συναισθηματικό τραύμα η απώλειες που προανέφερα</traumas>
+          <infections>_</infections>
+          <other>Εμμηνόπαυση σε ηλικία 41 χρόνων, μετά την αυτοκτονία του αδερφού της</other>
+        </personal>
+        <family>
+          <diseases>Η μητέρα ΑΕΕ παροδικό  Θάνατος του πατέρα από ρήξη ανευρύσματος</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει+++, Σπάνια ιδρώνει στις παλάμες και τις μασχάλες</reactions>
+        <sleeping_habits>Κοιμάται δεξιά πλάγια, ποτέ μπρουμυτα</sleeping_habits>
+        <food_modalities>Επιθυμεί σοκολάτα+++ ξύδι++ απέχθεια φρούτα++ και λιπος+&#13;
+&lt;θόρυβος &#13;
+&gt;βόλτα με αυτοκίνητο &gt;θάλασσα++</food_modalities>
+        <menstruation>Εμμηνόπαυση μετά την αυτοκτονία του αδερφού της σε ηλικία 41 χρόνων</menstruation>
+      </physical>
+      <mental_emotional>Νεύρα +++Ευσυγκίνητη+++ Αλλά δεν θέλει παρηγοριά++Αναστενάζει++++ δεν της φτάνει ο αέρας++</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η αναφερόμενη παθολογία αφορά το emotional επίπεδο και άρα είναι σοβαρή  γιατί δεν της επιτρέπει να λειτουργήσει φυσιολογικά στην καθημερινότητά της</personal_medical_history>
+        <family_medical_history>Υπάρχει κληρονομική επιβάρυνση  για αγγειακές παθήσεις λόγω ΑΕΕ της μητέρας της και θανάτου του πατέρα από ρήξη ανευρύσματος  κοιλιακής αορτής</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Η έλλειψη πυρετού απο επτά χρόνια και η καταπίεση των συναισθημάτων της δείχνει χαμηλό επίπεδο υγείας</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Αναστενάζει++++ keynotes της IGNATIA</peculiar>
+        <intense>Αναστενάζει++++ Επιθυμεί σοκολάτα+++ Νεύρα+++ Απέχθεια στα φρούτα από έτους Ευσυγκίνητη+++ αλλά δεν θέλει παρηγοριά++Εύθικτη++Θέλει  ξύδι++, απέχθεια στο λίπος++Θόρυβος επιδεινώνει++ Ευαισθησία στα πέλματα++θάλασσα βελτιώνει++</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Generalities foot and drinks fryit aversion++, chocolate desire+++,vinegar des++cold aggr++,mind anger irascaibility voices++mind weppingtearful wood+++ consolation agg++ mind sighing++++</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η διαφοροποίηση θα γίνει μεταξύ IGNATIA και MEDD</remedies_differentiation>
+      <prescription>
+        <remedy>IGNATIA</remedy>
+        <potency>IGNATIA 10M</potency>
+        <regimen>ΕΦΆΠΑΞ</regimen>
+        <other_notes>_</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-12 08:00:00</followup_date>
+      <conv_med_presc>_</conv_med_presc>
+      <lab_tests>
+        <desc>_</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις τρείς πρώτες μέρες επιδείνωση ,ανησυχία δύσπνοια αναγκάστηκε να πάρει τρία xanax Τις επόμενες ημέρες σταδιακά μικρή βελτίωση (δεν αναστενάζει όπως πριν), αλλά παίρνει ακόμα  ένα xanax την ημέρα&#13;
+Την δέκατη και ενδέκατη ημέρα ισχυρός πονοκέφαλος( δεν είχε κεφαλαλγία από δεκαετίας) Πήρε δύο depon</reaction>
+      <analysis>Πολύ καλή ανταπόκριση στο ομοιοπαθητικό Η αρχική επιδείνωση ,αλλά και η εμφάνιση παλιού συμπτώματος δείχνει ότι το φάρμακο είναι το ακριβές</analysis>
+      <conclusion>Η ασθενής λέει ότι ειναι βελτιωμένη αλλά δεν είναι εντελώς καλά Επειδή όμως η αντίδρασή της ήταν πολύ καλή θα δoθεί  ίδια αγω&#13;
+γή  σε μικρότερη δυναμοποίηση για ένα μήνα</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>IGNASIA 30CH 30 CAPS</remedy>
+        <potency>IGNASIA 30CH</potency>
+        <regimen>IGNASIA 1 CAPS καθε πρωί</regimen>
+        <other_notes>_</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-05 08:00:00</followup_date>
+      <conv_med_presc>_</conv_med_presc>
+      <lab_tests>
+        <desc>_</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής εμφάνισε  δεκαπέντε ημέρες μετά τοδεύτερο follow up ρινοφαρυγγίτιδα  με πυρετό ως 38  Υποχώρησε χωρίς αγωγή  Εκτοτε αισθάνεται πολύ καλά Τα νεύρα της έχουν υποχωρήσει Δεν αναστενάζει πια  μόνο σπανια (ίσως λέι είναι και από συνήθεια.Νοιώθει πως χαίρεται ξανά την ζωή</reaction>
+      <analysis>Η ασθενής εμφάνισε βελτίωση μετά από αρχική επιδείνωση η όποια κρατάει ώς τώρα</analysis>
+      <conclusion>Η αντίδραση της ασθενούς, αρχική επιδείνωση , εμφάνιση παλιότερων συμπτωμάτων δείχνει υψηλότερο επίπεδο υγείας .ισως 5 και όχι 7 Δεν θα δωθεί αγωγή και θα γίνει το επόμενο follow up σε δύο μήνες</conclusion>
+      <repertorization>
+        <desc>mind sighing+ mind anger irascibility voices+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>_</potency>
+        <regimen>_</regimen>
+        <other_notes>_</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-07-14 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής είναι  σταθερά καλά μετά την αρχική επιδείνωση</reaction>
+      <analysis>Αναφέρει βελτίωση και στην ποιότητα του ύπνου τώρα  Δεν κρυώνει πιά τόσο πολύ</analysis>
+      <conclusion>Η αντίδραση της ασθενούς δείχνει πως το φάρμακο ήταν το ακριβές όχι μόνο λόγω της βελτίωσης μετά απο αρχική επιδείνωση αλλά γιατί συνεχίζει να προκαλεί θετικές αλλάγές πιο βαθειές στην ασθενή ακόμα και μέχρι σήμερα</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL8ee4ba2494f7e0ea6b30b917c7d21000</ID>
+  <patient>
+    <case_date>2014-03-03 21:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>M.B</patient_initials>
+    <age>6</age>
+    <circumstances>Νηπιαγωγειο</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ζήλεια </origin>
+        <causative_factors>Γέννηση μικρής αδελφής πριν από ένα χρόνο</causative_factors>
+        <modalities>Κυρίως η παρουσία της μητέρας αποτελεί το διακύβευμα</modalities>
+        <occurrence_time>Χειρότερα το μεσημέρι, μετά το σχολειο</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>Κάθε μέρα υπάρχει τουλαχιστο 1 περιστατικό έντασης</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>τάση για δυσκοιλιότητα</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Καμμία</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>silica 1Μ για κρίση δυσκοιλιότητας</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>καμμία</therapies_vaccination>
+          <traumas>Δεν αναφέρει</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>καμμία</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>μάλλον ζεστένεται.&#13;
+</reactions>
+        <sleeping_habits>κοίμάται στο πλάι&#13;
+ξυπνά ξεκούραστη.χωρίς προβλήματα</sleeping_habits>
+        <food_modalities>Επιθυμία για γλυκά , λεμόνι, κρέας&#13;
+Αλλεργία στο σουσάμι</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ζηλεια που εκδηλωνεται με δύστροπη συμπεριφορά&#13;
+χειριστική, ανυπάκουη&#13;
+Θέλει να είναι το επίκεντρο της προσοχής&#13;
+φλυαρία, "μας παίρνει το κεφάλι με την πολυλογία της"</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>τροφική αλλεργία&#13;
+κρίσεις δυσκοιλιότητας ως βρέφος&#13;
+</personal_medical_history>
+        <family_medical_history>ιστορικό κονδυλωμάτων και στους δυο γονείς,&#13;
+αλλεργικό ιστορικό απο τη μεριά του πατέρα</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>καθαρή εικόνα</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>θέλει να είναι ξυπόλητη συνέχεια (2)&#13;
+επιθυμεί να τρώει παγάκια (2)&#13;
+</peculiar>
+        <intense>λατρεύει τη θάλασσα (3)&#13;
+επιθυμεί γλυκά (3), λεμόνι (3)&#13;
+φλυαρία (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/M.B..pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Medorrhinum, Veratrum album</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORRHINUM</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps το πρωί</regimen>
+        <other_notes>Ένα παιδί με άνεση στην επικοινωνία&#13;
+Πολύ ανεπτυγμένος ο λόγος για την ηλικία της.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-05-04 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν υπήρξε κάποια αξιοσημείωτη αλλαγή.&#13;
+Ισως η φλυαρία να ελαττώθηκε λίγο</reaction>
+      <analysis>Το φάρμακο δεν έχει δράσει σε βάθος ακόμα.&#13;
+Πιθανόν το περιβάλλον (στο σπίτι) να μην ευνοεί την εκδήλωση της αναμενόμενης βελτίωσης.</analysis>
+      <conclusion>Αναμονή.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/M.B. Follow up 1.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-12-10 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Φαίνεται να έχει δεχτεί την παρουσία της αδελφής της.&#13;
+Υπάρχουν ακόμα στιγμές έντασης αλλά όχι σε καθημερινή βάση.</reaction>
+      <analysis>Το φάρμακο αρχίζει να  δείχνει ότι δρα.&#13;
+αναμονή&#13;
+&#13;
+</analysis>
+      <conclusion>Το φάρμακο εξακολουθεί να είναι καθαρό&#13;
+</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/M.B. follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Στο διάστημα που μεσολάβησε έκανε ενα εμπύρετο  (40 βαθμους) που διάρκεσε μερικές ώρες.Την επομένη ήταν εντελώς καλά.(χωρίς να δοθεί οποιαδήποτε θεραπεία)</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

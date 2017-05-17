@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELad9a011f0d95549c4de4660e4e99cf6c</ID>
+  <patient>
+    <case_date>2014-06-30 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Α. Π</patient_initials>
+    <age>7</age>
+    <circumstances>Το τρίτο παιδί οικογένειας με 3 αγόρια</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Διαταραχές συμπεριφοράς, πολλά νεύρα και γκρίνια από μικρός που έχει χειροτερεύσει τον τελευταίο χρόνο</origin>
+        <causative_factors>Η οικογένεια έχει περάσει μεγάλα προβλήματα με την οικονομική κρίση και οι 2 γονείς είναι άνεργοι και ο ασθενής που έζησε από μικρός την "καταιγίδα" υπέστη ψυχολογική παραμέληση και βίωσε έστω και υποσυνείδητα τα προβλήματα.</causative_factors>
+        <modalities>όχι</modalities>
+        <occurrence_time>είναι σταθερά ένα δύσκολο παιδί</occurrence_time>
+        <body_side>όχι</body_side>
+        <appearence_frequency>σταθερή κατάσταση με εξάρσεις και νεύρα/γκρίνια σχεδόν καθημερινά</appearence_frequency>
+        <pain_desc>όχι</pain_desc>
+        <complaint_ext>όχι</complaint_ext>
+        <other_complaints>όχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>όχι</conv_med_presc>
+        <lab_tests>
+          <desc>Γενικές αιματολογικές εξετάσεις: κ.φ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>όχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>πλήρης εμβολιασμός για την ηλικία</therapies_vaccination>
+          <traumas>συναισθηματικά λόγω  των οικονομικών δυσκολιών που βίωσε και ακόμη βιώνει η οικογένεια</traumas>
+          <infections>όχι- δεν κάνει εύκολα πυρετούς</infections>
+          <other>όχι</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας, 42χρ. ιστορικό με αλλεργίες, αλλεργική ρινίτιδα, φοβίες&#13;
+Μητέρα, 40 χρ, παίρνει αντικαταθλιπτικά&#13;
+Μεγάλος αδελφός, 14χρ, ιστορικό με πολλές υποτροπιάζουσες ωτίτιδες στην πρώτη παιδική ηλικία&#13;
+Αδελφή του πατέρα: σκλήρυνση κατά πλάκας</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταίνεται (1)&#13;
+δεν ιδρώνει&#13;
+&lt; ζέστη</reactions>
+        <sleeping_habits>Θέλει παρέα τη μαμά του για να κοιμηθεί, συχνά πηγαίνει στο κρεβάτι των γονιών το βράδυ, φοβάται το σκοτάδι (3), θέλει φως το βράδυ. Τρίζει τα δόντια του (2). Ξυπνάει κουρασμένος, σέρνεται (3)</sleeping_habits>
+        <food_modalities>επιθυμίες: σοκολάτα (3), παγωτό (2)&#13;
+δεν επιθυμεί: φρούτα (3), ψάρι (2), πατάτες (2)</food_modalities>
+        <menstruation>όχι</menstruation>
+      </physical>
+      <mental_emotional>Γκρινιάρης (3), ανικανοποίητος (2), θέλει αγκαλιά, παρηγοριά (2), φοβάται το σκοτάδι (3), θέλει παρέα γενικά, δεν του αρέσει να μένει μόνος του(3), ιδιαίτερα το βράδυ (3), πεισματάρης (3), δικτατορίσκος, φτάνει τη μαμά στα όριά της και του κάνει τα χατήρια (2), έχει άγχος συχνά υποχονδριακού τύπου(2), είναι νευρικός, ευερέθιστος (2), όταν θυμώνει πετάει πράγματα(2), ζηλεύει τα αδέλφια του(2). Κακές σχολικές επιδόσεις, είναι άτακτος πολύ και στο σχολείο (2).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ψυχοδιανοητικά προβλήματα</personal_medical_history>
+        <family_medical_history>αλλεργίες, ωτίτιδες&#13;
+επιβάρυνση στην ψυχολογική σφαίρα</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Δεν κάνει οξέα ούτε πυρετούς, παρά το γεγονός ότι είναι μικρό παιδί ενώ έχει μεγάλη ψυχοδιανοητική επιβάρυνση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>όχι&#13;
+</peculiar>
+        <intense>fear dark (3)&#13;
+irritability (3)&#13;
+unrefreshing sleep (3)&#13;
+moaning (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind-moaning, groaning in children (3), mind-discontented, displeased, children (2), mind-discontented, dissatisfied with everything (2), mind-consolation ameliorates (2), mind-fear dark (3), mind-company desire for (3), mind-fear of being alone night (3), mind-obstinate children (3), mind-dictatorial (2), mind-irritability in children (2), mind-jealousy children between, generalities-chocolate desire (3), ice cream desire (2), fruit aversion (3), fish aversion (2), potatoes aversion (2), mind-anger, throws things away (2), teeth-grinding sleep during (2), sleep unrefreshing morning (3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>stramonium (νεύρα, μεγάλη επιθυμία για γλυκά/σοκολάτα, μεγάλος φόβος για σκοτάδι, θέλει παρέα στο κρεβάτι )&#13;
+tuberculinum (ανικανοποίητο, διαταραχές συμπεριφοράς, τρίζει δόντια, οικογενειακό ιστορικό αλλεργιών, αλλά δεν ιδρώνει, δεν αναφέρονται φόβοι για γάτες/σκυλιά, ενώ ο φόβος στο σκοτάδι είναι πολύ μεγάλος)&#13;
+lycopodium ( ξυπνάει πολύ χάλια το πρωί, είναι δικτάτορας όχι μόνο στο σπίτι και στο σχολείο είναι άτακτος, θέλει παρέα)</remedies_differentiation>
+      <prescription>
+        <remedy>stramonium</remedy>
+        <potency>200CH, 1M</potency>
+        <regimen>STRAMONIUM 200CH ΤΟ ΠΡΩΙ&#13;
+STRAMONIUM 1M ΤΟ ΕΠΟΜΕΝΟ ΠΡΩΙ</regimen>
+        <other_notes>Επανεκτίμηση σε 3 μήνες </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-05 08:00:00</followup_date>
+      <conv_med_presc>ΟΧΙ</conv_med_presc>
+      <lab_tests>
+        <desc>ΟΧΙ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις πρώτες ημέρες από τη λήψη των φαρμάκων πολλά νεύρα και θυμός. Ακολούθησε σταδιακή βελτίωση και σήμερα είναι ένα πολύ πιο ήρεμο παιδί (ηρέμησε και η μητέρα που δεν ήξερε τι να κάνει)</reaction>
+      <analysis>Πολύ καλή αντίδραση και θεραπευτικό αποτέλεσμα</analysis>
+      <conclusion>δεν χρειάζεται φάρμακο προς το παρόν</conclusion>
+      <repertorization>
+        <desc>οχι</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>Προς το παρόν δεν χρειάζεται άλλο φάρμακο. Παιδιατρική παρακολούθηση.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

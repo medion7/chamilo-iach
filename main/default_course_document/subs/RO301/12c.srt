@@ -1,0 +1,1768 @@
+﻿1
+00:00:19,375 --> 00:00:34,000
+Acum vreau să continui cu strategiile pe care trebuie să le urmăm în diferite situații
+
+2
+00:00:39,468 --> 00:00:51,666
+Uneori prescriem pe baza unui simptom, alteori pe baza structurii psihologice ..
+
+3
+00:00:51,770 --> 00:01:03,041
+.. uneori prescriem pe baza mai multor elemente diferite. Există diferite strategii de a prescrie și toate au o logică în spate.
+
+4
+00:01:04,354 --> 00:01:12,916
+.. Care este prima strategie ce trebuie urmată în fiecare caz ?
+
+5
+00:01:14,750 --> 00:01:28,416
+Prima strategie este una pe care și Hahnemann o menționează. El vorbește despre totalitatea simptomelor.
+
+6
+00:01:29,708 --> 00:01:34,646
+Trebuie căutată, trebuie găsită totalitatea simptomelor și indicat remediul ce acoperă această totalitate ..
+
+7
+00:01:34,750 --> 00:01:45,958
+Aceasta este prima strategie pe care o urmăm mereu. Prima strategie.
+
+8
+00:01:47,927 --> 00:01:59,104
+.. Și urmând această strategie, se iau toate simptomele pacientului și se repertorizează ..
+
+9
+00:01:59,208 --> 00:02:12,531
+.. și (uneori) realizezi că această strategie nu dă un răspuns (satisfăcător). Ce vei face atunci ?..
+
+10
+00:02:13,802 --> 00:02:25,250
+Pentru că ai luat "totalitatea" simptomelor și ai 20 de simptome și dacă iei 16 dintre ele vei da Sepia ..
+
+11
+00:02:27,593 --> 00:02:36,906
+.. dar dacă iei (în considerare) celelalte 4 plus încă 11, adică 15 în total, vei da Natrium Muriaticum.
+
+12
+00:02:37,687 --> 00:02:53,218
+Dar dacă iei (alte) 8 din 20, vei da Phosphorus. Și dacă iei 5, vei da Medorrhinum.
+
+13
+00:02:54,979 --> 00:03:00,760
+Poți să spui, bine dar Sepia este remediul pentru că acoperă majoritatea simptomelor.
+
+14
+00:03:00,864 --> 00:03:09,896
+Dar, de multe ori vei spune, nu este Sepia remediul indicat. De ce spui acest lucru ? Pentru că ai informații ..
+
+15
+00:03:10,000 --> 00:03:19,083
+..  din Materia Medica, arătând că īn realitate acest caz "nu arată" ca un caz de Sepia.
+
+16
+00:03:20,416 --> 00:03:30,208
+La ce ne referim când spunem "nu arată ca un caz de Sepia" ? Înseamnă că introducem în analiză încă un factor ..
+
+17
+00:03:30,312 --> 00:03:42,958
+.. un factor nou în analiza cazului. Avem totalitatea simptomelor, este adevărat, dar aici totalitatea reprezintă doar simptomatologie "liniară", "plată",
+
+18
+00:03:43,062 --> 00:03:54,333
+.. care de multe ori ne orientează greșit spre un remediu care nu este cel corect.
+
+19
+00:03:55,354 --> 00:04:10,781
+Și din acest motiv (în asemenea cazuri) vei renunța la această strategie. Da, e adevărat, Hahnemann a spus .. Luați în considerare totalitatea simptomelor ..
+
+20
+00:04:10,885 --> 00:04:21,073
+.. dar totalitatea nu îmi dă mie o soluție în acest caz .. și atunci, ce este de făcut ?
+
+21
+00:04:21,177 --> 00:04:29,406
+Voi aduce în analiză încă un element, o altă informație care este prezentă în tabloul pe care îl prezintă pacientul ..
+
+22
+00:04:29,510 --> 00:04:41,896
+.. și voi vedea dacă această combinație a primei strategii cu cealaltă strategie ce este numită "esența" remediului ..
+
+23
+00:04:42,000 --> 00:04:59,812
+.. îmi va da răspunsul la problema mea. Și de multe ori voi vedea că esența ..
+
+24
+00:04:59,916 --> 00:05:12,541
+.. se potrivește de fapt cu Phosphorus, nu cu Sepia, nu cu Natrium Muriaticum. Așa încât, în ciuda faptului că "simptomatologia simplă" ..
+
+25
+00:05:12,646 --> 00:05:22,052
+.. este "cantitativ" mai multă în favoarea remediului Sepia sau Natrium Muriaticum ..
+
+26
+00:05:22,156 --> 00:05:34,625
+.. voi prescrie Phosphorus pentru că pacientul are tabloul acestui remediu. Vei face acest lucru conștient sau inconștient ..
+
+27
+00:05:34,729 --> 00:05:41,646
+.. dar asta vei face când vei analiza un caz.
+
+28
+00:05:41,750 --> 00:06:01,854
+Dacă luăm spre exemplu cazul copilului de ieri ... Dacă am fi luat simptomele lui ..
+
+29
+00:06:05,531 --> 00:06:18,802
+.. Am fi ajuns la Chamomila, la Cina sau la alte remedii.
+
+30
+00:06:21,239 --> 00:06:33,468
+Ceea ce am făcut noi, ... pentru că nu ai la modul real simptome de Calcarea Phosphorica .. am spus, stai un moment ...
+
+31
+00:06:33,573 --> 00:06:50,354
+.. Acest tablou așa cum se prezintă, esența acestui tablou, tabloul mental emoțional al acestui copil pare a fi Calcare Phosphorica.
+
+32
+00:06:50,458 --> 00:07:07,416
+În acest caz ignorăm majoritatea sau totalitatea simptomelor și prescriem doar pe baza esenței. În acest caz am prescris doar pe baza esenței (remediului).
+
+33
+00:07:08,771 --> 00:07:22,531
+Întorceți-vă la cazul de ieri, unde am luat cazul acelei fete drăguțe și am spus, tabloul este Phosphorus.
+
+34
+00:07:24,333 --> 00:07:33,187
+Dacă am fi luat totalitatea simptomelor, ați fi văzut că ar fi ieșit tot Phosphorus.
+
+35
+00:07:33,291 --> 00:07:43,333
+Esența este de asemenea Phosphorus și din acest motiv putem spune cu certitudine că remediul ..
+
+36
+00:07:43,437 --> 00:07:52,093
+...Phosphorus va vindeca acea persoană pentru că acoperă și totalitatea și esența acelui caz.
+
+37
+00:07:52,198 --> 00:08:06,406
+Și atunci ai mare încredere în acest remediu pentru ca acoperă și esența Phosphorus și totalitatea simptomelor ..
+
+38
+00:08:06,510 --> 00:08:17,364
+.. Aparțin aceluiași remediu. Bea multă apă, are senzație de gol în stomac, doarme pe partea dreaptă etc.
+
+39
+00:08:17,468 --> 00:08:25,698
+Simptomele cazului repertorizate simplu vor da ca rezultat tot Phosphorus ..
+
+40
+00:08:25,802 --> 00:08:35,791
+.. ea descrie elementul de simpatie, faptul că suferă de suferința altora, atât de puternic..
+
+41
+00:08:35,895 --> 00:08:47,333
+Eu spun, este un caz de Phosphorus. De asemenea, colapsul brusc punctează pentru Phosphorus. Pentru dumneavoastră acesta este un caz frumos de Phosphorus.
+
+42
+00:08:53,312 --> 00:08:59,802
+- Dar, în acest caz, de ce mai avem nevoie de totalitatea simptomelor ?
+
+43
+00:09:09,771 --> 00:09:20,625
+- Poate că nu m-am făcut înțeles. Am spus că totalitatea, în acest caz, ne va da remediul ..
+
+44
+00:09:20,729 --> 00:09:28,291
+Prescrii pe baza totalității și aceasta îți dă remediul, clar, precis și îl indici pacientului.
+
+45
+00:09:29,312 --> 00:09:37,739
+Sunt însă cazuri unde aceasta strategie nu-ți va da remediul. Vei lua toate simptomele ..
+
+46
+00:09:37,843 --> 00:09:46,208
+.. Dar nici un remediu nu este clar. În asemenea cazuri se aduce un alt factor în analiză și acesta este esența remediului.
+
+47
+00:09:47,000 --> 00:09:58,958
+Și privești cazul din acest punct de vedere. Dar vor fi cazuri care nu se vor rezolva nici prin totalitatea simptomelor nici prin esență.
+
+48
+00:09:59,062 --> 00:10:10,416
+Aceasta înseamnă că esența remediului nu este clară și totalitatea se potrivește la 10 remedii diferite. Ce vei face atunci ?
+
+49
+00:10:11,979 --> 00:10:28,177
+Este situația în care te vei ghida după keynote-uri, ceea ce numim noi keynote-uri, simptome cheie.
+
+50
+00:10:36,802 --> 00:10:51,854
+Ce înseamnă acest lucru ? Înseamnă că, în cazul copilului pe care l-am văzut, keynote-ul care este puternic  ..
+
+51
+00:10:51,958 --> 00:10:58,041
+.. De Medhorrhinum ne poate conduce să prescriem Medorrhinum pentru acel caz.
+
+52
+00:10:58,573 --> 00:11:05,312
+Pentru că totalitatea simptomelor nu ne va da un tablou clar și nici esența unui remediu nu este prezentă ...
+
+53
+00:11:05,416 --> 00:11:11,573
+.. Dar dacă avem un keynote puternic vom prescrie pe baza acelui keynote.
+
+54
+00:11:19,000 --> 00:11:30,823
+Ceea ce vreau să clarific este că trebuie să urmam o strategie, alteia. Nu este faptul că ..
+
+55
+00:11:30,927 --> 00:11:39,135
+Eu prescriu pe bază de keynote-uri, George prescrie doar pe baza esenței, numai aceasta sau numai cealaltă. Nu.
+
+56
+00:11:39,239 --> 00:11:49,854
+Este vorba despre o gândire sistematică atunci când analizezi un caz. Gândirea în mod sistematic  este implicată ..
+
+57
+00:11:49,958 --> 00:11:56,312
+.. Îți faci tema, repertorizezi, te gândești din nou, care remediul este, acesta sau celălalt ?
+
+58
+00:11:56,416 --> 00:12:05,375
+Nu apare clar, dar pentru mine acest caz sugerează Nux vomica.
+
+59
+00:12:06,260 --> 00:12:23,521
+Și sunt prezente cinci simptome de Nux vomica, bine ia remediul. Aceasta este ideea. Dar uneori totalitatea simptomelor arată direcția bună.
+
+60
+00:12:25,354 --> 00:12:34,729
+Sau sunt prezente keynote-uri ale remediului. În acest caz poți lua remediul. Uită de esență, uită de orice altceva.
+
+61
+00:12:36,000 --> 00:12:50,718
+Mergi mai departe cu diferitele strategii și în unele cazuri ajungi într-un punct în care nu găsești nici o soluție ..
+
+62
+00:12:50,823 --> 00:12:59,416
+.. Nici keynote-uri, nici totalitate, nici esența vreunui remediu. Acestea sunt cazurile pentru care ai prescris deja mai multe remedii.
+
+63
+00:13:01,916 --> 00:13:12,427
+Este un alt paragraf, (par.153) în care Hahnemann spune ..
+
+64
+00:13:12,531 --> 00:13:27,916
+.. Este okay cu totalitatea sau esența cazului. Despre keynote-uri, în par.153 Hahnemann spune ... simptomele ce sunt ...
+
+65
+00:13:28,021 --> 00:13:38,666
+... Ciudate, rare, particulare .. trebuie valorizate foarte mult. Acestea sunt keynote-uri (adevărate) ..
+
+66
+00:13:39,291 --> 00:13:50,208
+De aici a venit termenul de keynote-uri. Simptome ciudate, rare, particulare ce aparțin acelui remediu. Care sunt acestea ?
+
+67
+00:13:50,312 --> 00:14:00,364
+Sunt simptomele pe care încercăm să vi le dăm aici în Materia Medica. Încercăm să combinăm ...
+
+68
+00:14:00,468 --> 00:14:11,364
+.. Esența remediului cu keynote-urile lui, așa încât să vă dăm o informație compactă pentru fiecare remediu ..
+
+69
+00:14:11,468 --> 00:14:21,718
+.. Și apoi când veți vedea pacientul ceva să se "lumineze" în mintea voastră. Așadar, aici Hahnemann afirmă ideea ..
+
+70
+00:14:21,823 --> 00:14:43,510
+... de a lua în considerare mai ales keynote-urile. Vedeți în cazul copilului cu bronșită.
+
+71
+00:14:44,802 --> 00:14:59,208
+.. keynote-ul este ciudat, rar, particular, este Medorrhinum. Dar impresia este alta ..
+
+72
+00:14:59,312 --> 00:15:03,448
+.. În legătură cu copilul, impresie care îți dă remediul ..
+
+73
+00:15:03,552 --> 00:15:13,760
+Deci, câtă vreme este vorba despre esență, nemulțumirea, această nemulțumire exprimată dimineața ..
+
+74
+00:15:13,864 --> 00:15:31,031
+Veți vedea, dacă progresați și aveți tot mai multă experiență, veți vedea o diferență ..
+
+75
+00:15:31,135 --> 00:15:41,427
+ .. Între nemulțumirea de la Chamomilla, de la Antimonium Crudum ..
+
+76
+00:15:41,531 --> 00:15:49,250
+... De la Calcarea Phosphorica și de la Cina. Veți vedea o diferență care ..
+
+77
+00:15:49,354 --> 00:16:07,666
+.. Este foarte greu de definit chiar și pentru mine. La Chamomilla este un element de răutate.
+
+78
+00:16:13,021 --> 00:16:35,562
+Acest copil manifestă răutate și este mai agresiv. Încerci să-l asculți cu stetoscopul și ..
+
+79
+00:16:39,927 --> 00:16:46,291
+.. Copilul Chamomilla va reacționa în acest fel ..
+
+80
+00:16:46,395 --> 00:16:49,385
+Tu ești foarte drăguț. Asta este ceea ce numim esență ..
+
+81
+00:16:58,906 --> 00:17:08,083
+Vei spune, asta nu am văzut. Insatisfacție și tendința de geme.
+
+82
+00:17:11,218 --> 00:17:33,781
+Hai să ieșim. Calcarea Phosphorica ...  Vii și tu afară, nu-i așa ? Nu. Aceasta este ceva diferit ..
+
+83
+00:17:33,885 --> 00:17:47,239
+Adica spui că și un remediu și celălalt au o stare de insatisfacție dar în realitate sunt diferențe între cele două ..
+
+84
+00:17:50,333 --> 00:18:07,489
+Cina nu are tendința de a geme. Are agresivitate și nu știe ce vrea ..
+
+85
+00:18:07,593 --> 00:18:21,552
+(Copilul) Cina este capricios. Dă-mi asta. O ia și apoi o aruncă.
+
+86
+00:18:29,729 --> 00:18:41,250
+Este foarte interesant că avem cazuri live și ... aveți senzația asociată fiecărui remediu.
+
+87
+00:18:50,198 --> 00:18:57,646
+Vedeți elementul de agresivitate crescută, apoi treceți la alt remediu. Și vedeți ..
+
+88
+00:18:57,750 --> 00:19:07,979
+.. Tendința de a geme, apoi treceți la alt remediu și vedeți elementul de a fi capricios, apoi alt remediu.
+
+89
+00:19:08,083 --> 00:19:17,312
+Dar toate aceste remedii sunt apropiate și dificil de evaluat ..
+
+90
+00:19:30,864 --> 00:19:48,406
+Așa că din punct de vedere practic, ce ai de făcut ? Eu spun că sunt câteva cazuri în care ai prescris ..
+
+91
+00:19:48,510 --> 00:19:53,604
+.. Sepia, pe baza totalității, apoi ai prescris Natrium Muriaticum apoi Phosphorus ..
+
+92
+00:19:53,708 --> 00:20:10,521
+.. Apoi Medorrhinum datorită poziției în care doarme și totuși niciunul nu a avut niciun efect. Și apoi afli că acel caz a avut un accident ..
+
+93
+00:20:10,625 --> 00:20:28,333
+.. Cu cincisprezece ani în urmă, a fost o contuzie puternică a capului și are de asemenea unul sau două simptome de Arnica dar nu te-ai gândit niciodată să îi prescrii Arnica.
+
+94
+00:20:28,437 --> 00:20:43,896
+Pentru că are doar 2 simptome din 20 dar factorul cauzator este clar și aici te orientezi după cauzalitate, care ..
+
+95
+00:20:44,000 --> 00:20:52,114
+.. Necesită doar o informație și nu acoperă totalitatea și nu acoperă nici esența.
+
+96
+00:20:52,218 --> 00:21:02,521
+Nu sunt prezente keynote-uri dar pentru că ai cauzalitatea clară ... (adică) durerile de cap au început după acel accident.
+
+97
+00:21:02,625 --> 00:21:12,208
+Durerile de cap nu au tablou de Arnica. Durerile de cap pot avea un tablou de Sepia ..
+
+98
+00:21:12,312 --> 00:21:23,375
+Sau de Natrium Muriaticum sau de Phosphorus. Și totuși Arnica va lucra ..
+
+99
+00:21:24,958 --> 00:21:43,291
+Știți povestea cu cocoșul? Care a fost lovit la cap. Cocoșul care înviat din morți... Cauzalitatea.
+
+100
+00:21:51,875 --> 00:22:03,604
+O femeie care devine isterica, și în starea de isterie, limba i se întoarce spre interior ... și devine inconștientă ...
+
+101
+00:22:03,708 --> 00:22:09,531
+Îi dai Ignatia și ea revine la viață. Știți toate astea ..
+
+102
+00:22:16,312 --> 00:22:29,416
+Aici când vorbim despre esență, ne referim mai ales la tabloul mental emoțional, la structura acelui subiect.
+
+103
+00:22:30,468 --> 00:22:38,854
+Uneori analizezi toate aceste aspecte și totuși nu poți găsi remediul în ciuda faptului că ai urmat ..
+
+104
+00:22:38,958 --> 00:22:45,104
+.. Toate aceste strategii, totuși nu poți găsi remediul.
+
+105
+00:22:46,333 --> 00:23:07,000
+Atunci te orientezi către a cincea strategie și anume aspectele esențiale. Este o strategie foarte importantă ..
+
+106
+00:23:12,218 --> 00:23:16,687
+Care sunt aspectele esențiale ?
+
+107
+00:23:27,041 --> 00:23:37,562
+- Am vrut să întreb, legat de al patrulea punct. Ai spus că durerile de cap spre exemplu pot apărea după un accident, dar foarte frecvent ..
+
+108
+00:23:37,666 --> 00:23:51,468
+.. Durerile de cap sunt legate de anumite probleme dentare. Iei asta în calcul vreodată ?
+
+109
+00:23:52,437 --> 00:24:02,448
+- Asta numesc eu factor cauzator .. în acest caz factorul cauzator sunt dinții.
+
+110
+00:24:02,552 --> 00:24:09,312
+- Nu, eu întreb dacă te gândești vreodată într-un asemenea caz că poate fi legat de probleme dentare.
+
+111
+00:24:09,416 --> 00:24:20,562
+- Nu, am auzit ca alții au văzut această corelație, .. scoate dintele și atunci apare o ameliorare.
+
+112
+00:24:20,666 --> 00:24:27,708
+.. De asemenea am auzit despre o mulțime de oameni care și-au scos dinții și totuși nu a apărut nici o ameliorare.
+
+113
+00:24:29,260 --> 00:24:35,229
+- Dacă îți scoți toți dinții ..- Nu toți dinții, doar cei care sunt cu probleme ..
+
+114
+00:24:35,333 --> 00:24:43,927
+Eu am făcut asta pentru că sunt dentist și am văzut că ajută ..
+
+115
+00:24:44,375 --> 00:24:55,031
+- Eu am văzut cazuri de nevralgie de trigemen, spre exemplu, unde toți dinții fuseseră extrași ..
+
+116
+00:24:55,135 --> 00:25:04,489
+Fără nici un efect. Și apoi evident vin și îți povestesc totul. Nouă, de fapt, ni se povestesc eșecurile.
+
+117
+00:25:04,593 --> 00:25:12,854
+... Pentru că dacă un tratament a avut succes nu mai vin la noi să ne povestească.
+
+118
+00:25:12,958 --> 00:25:22,448
+Mi-au scos dintele, au crezut ca el este de vină, mi-au scos unul sau doi sau trei dinți fără niciun efect. Mi-au scos toți dinții ..
+
+119
+00:25:22,552 --> 00:25:36,562
+Îmi amintesc cel puțin două cazuri unde toți dinții le fuseseră scoși, fără niciun efect. Și ei spun spre exemplu ..
+
+120
+00:25:36,666 --> 00:25:47,187
+.. Că amalgamul din plombe, mercurul, poate avea un efect .. așa că schimbi asta cu aur ...
+
+121
+00:25:47,291 --> 00:26:01,291
+Am văzut câteva cazuri, dar nu am văzut acest lucru .. plombele au fost schimbate și totuși niciun efect. Dar cum am spus mai devreme noi aici vedem eșecurile.
+
+122
+00:26:01,396 --> 00:26:13,291
+Am văzut scris în reviste, că dacă faci această schimbare va fi un efect bun, și eu cred asta.
+
+123
+00:26:13,396 --> 00:26:21,718
+Dar experiența mea a fost să văd eșecurile. Pe cei care nu au avut succes prin această operațiune și care au venit pentru tratament.
+
+124
+00:26:21,823 --> 00:26:31,750
+"Am făcut asta, am făcut-o pe cealaltă și totuși niciun efect. Poți să faci ceva pentru mine ?" Acestea sunt cazurile pe care le-am văzut.
+
+125
+00:26:33,593 --> 00:26:56,541
+Cu această strategie trebuie să vedem care sunt caracteristicile esențiale ale remediului.
+
+126
+00:26:56,646 --> 00:27:04,489
+Când am scris Materia Medica am scris un capitol în care sunt menționate caracteristicile esențiale.
+
+127
+00:27:04,593 --> 00:27:13,625
+.. În caracteristica esențială, nu am descris doar esența ci, mai ales la remediile mici ..
+
+128
+00:27:13,729 --> 00:27:18,239
+.. Am descris combinația de patologie.
+
+129
+00:27:26,312 --> 00:27:54,437
+Asta înseamnă, spre exemplu, cineva care suferă de otite repetate și-n același timp are probleme la nivelul gingiilor.
+
+130
+00:27:57,000 --> 00:28:12,958
+Sângerare, retracție gingivala, etc. Faptul că există un remediu care își concentrează acțiunea ..
+
+131
+00:28:13,062 --> 00:28:24,406
+.. Asupra urechilor și asupra gingiilor ne face să putem prescrie acest remediu pe baza acestor elemente esențiale.
+
+132
+00:28:24,510 --> 00:28:36,093
+Care este remediul ? Mercurius Solubilis este remediul principal la care ne gândim, deși ..
+
+133
+00:28:36,198 --> 00:28:47,468
+.. Dacă repertorizăm în detaliu, Mercurius poate să nu rezulte ca remediu indicat .. Dar dată fiind ..
+
+134
+00:28:47,573 --> 00:28:57,218
+.. Combinația tipică de patologie caracteristică remediului Mercurius, vom prescrie acest remediu și vom vedea un efect curativ.
+
+135
+00:28:58,510 --> 00:29:28,729
+Vă mai dau un exemplu. Combinația de răgușeală a vocii împreună cu un efect asupra cartilajelor articulare ..
+
+136
+00:29:42,354 --> 00:29:47,625
+Argentum Metallicum.
+
+137
+00:29:57,437 --> 00:30:09,041
+În acest fel veți rezolva multe cazuri unde încercați să găsiți patologie mentală. Nu este prezentă nici o patologie mentală ..
+
+138
+00:30:09,843 --> 00:30:17,354
+Încercați să găsiți totalitatea ? Nu este o totalitate. Totalitatea simptomelor vă dă mai multe posibilități.
+
+139
+00:30:18,666 --> 00:30:34,218
+.. Nu sunt prezente keynote-uri, dar aspectul legat de caracteristicile esențiale .. dacă avem spre exemplu erupții și ulcer duodenal ..
+
+140
+00:30:35,531 --> 00:30:41,510
+.. La ce remedii vă veți gândi prima dată ?
+
+141
+00:30:43,802 --> 00:30:52,177
+Antimonium crudum, Graphites, Kali bichromicum, Dulcamara ..
+
+142
+00:30:52,906 --> 00:31:04,854
+.. Imediat remediile îți vin în minte. Ai cazuri care îți spun, "Am avut sângerare din stomac ..
+
+143
+00:31:04,958 --> 00:31:34,833
+.. Am fost în spital de cinci ori având hemoragie din ulcerul meu gastric". Și în același timp îți mai spune că ..
+
+144
+00:31:49,416 --> 00:31:59,771
+.. Mai are și degenerare grasă a ficatului (steatoză hepatică).
+
+145
+00:32:09,625 --> 00:32:25,906
+Remediul care afectează ficatul și produce în același timp cu ușurință, hemoragii, este Phosphorus.
+
+146
+00:32:33,416 --> 00:32:44,729
+Deci faptul că cineva are o patologie și te concentrezi asupra patologiei principale ..
+
+147
+00:32:45,750 --> 00:33:04,937
+Ai pe cineva care are ganglioni umflați, ganglioni cervicali, câțiva la nivelul maxilarului și inghinal ..
+
+148
+00:33:05,041 --> 00:33:27,312
+Și dacă îți mai spun că această persoană are de asemenea hipotiroidism, tiroida funcționează lent și persoana devine obeză ..
+
+149
+00:33:27,416 --> 00:33:32,104
+.. La ce remediu te gândești ?
+
+150
+00:33:40,135 --> 00:33:56,073
+Nu. Calcarea carbonica. Tendința la îngrășare, hipotiroidism și umflarea ganglionilor.
+
+151
+00:33:56,177 --> 00:34:18,864
+Dacă se umflă ganglionii, sunt umflați și duri și de asemenea sunt prezente amețeli, vertij, atunci remediul este Conium. Asta este ideea.
+
+152
+00:34:20,687 --> 00:34:33,604
+Este foarte important ca uneori mintea ta să gândească în acest mod și să ignore totalitatea simptomelor ..
+
+153
+00:34:33,708 --> 00:34:50,541
+.. Care îți va da Sepia deși caracteristicile esențiale sugerează Conium. Și ai nevoie de aceste informații legate de caracteristicile esențiale ..
+
+154
+00:34:51,354 --> 00:34:59,552
+.. Pentru că nu avem informații legate de tabloul mental emoțional pentru toate remediile, ce simptome pot ele să producă.
+
+155
+00:34:59,750 --> 00:35:07,854
+Nu avem aceste informații pentru toate remediile. Ar fi frumos să le avem, să le cunoaștem ..
+
+156
+00:35:07,958 --> 00:35:17,333
+.. Spre exemplu elementele particulare ale planului mental emoțional la remediul Cajaputum. Nu avem aceste informații.
+
+157
+00:35:21,791 --> 00:35:30,625
+Exista un astfel de remediu ? Cajaputum ? Nu, l-am inventat eu.
+
+158
+00:35:58,125 --> 00:36:09,437
+Au un simptom specific, își simt limba atât de mare încât umple întreaga gură.
+
+159
+00:36:19,583 --> 00:36:35,468
+Nu glumesc. Există un astfel de remediu, are un astfel de simptom și are de asemenea o teribilă anxietate legata de sănătate.
+
+160
+00:37:02,198 --> 00:37:08,823
+Deci, indiferent că vreți sau nu, indiferent că o faceți conștient sau inconștient ..
+
+161
+00:37:08,927 --> 00:37:17,958
+.. Acesta este modul de evaluare în homeopatia clasică, trebuie urmată această linie de gândire.
+
+162
+00:37:19,000 --> 00:37:26,687
+Primul lucru pe care îl cauți este totalitatea simptomelor. Apoi mergi la Repertoar, la calculator ..
+
+163
+00:37:26,791 --> 00:37:32,698
+.. Și cauți sa vezi care este remediul, apoi observi câteva lucruri legate de esență.
+
+164
+00:37:32,802 --> 00:37:47,729
+Apoi te gândești la keynote-uri. Așa că de multe ori decizia va fi luată prin combinarea acestor strategii.
+
+165
+00:37:48,875 --> 00:38:04,333
+Ceva din totalitate, apoi esența, dar are și unul sau două keynote-uri și în fine cauzalitatea care de asemenea se potrivește, așa că este perfect, da.
+
+166
+00:38:14,468 --> 00:38:40,312
+Vă voi da câteva lucruri. Pentru a înțelege esența aveți nevoie de observație. Asta nu se va da ..
+
+167
+00:38:40,416 --> 00:38:50,750
+de către pacient. Trebuie să vedeți de multe ori, pacienți, pentru a ajunge la esență.
+
+168
+00:38:51,687 --> 00:39:01,468
+Keynote-urile ți le dă pacientul. Din anamneză rezultă, cu ușurintă, factorul cauzator ..
+
+169
+00:39:01,573 --> 00:39:11,854
+Caracteristica esențială este pentru a clarifica restul, pentru a putea spune .. Stai un moment ..
+
+170
+00:39:11,958 --> 00:39:23,448
+Elementele esențiale aici sunt acestea. Ce se întâmplă cu acest organism legat de stomac și piele ..
+
+171
+00:39:23,552 --> 00:39:27,177
+.. Stomacul și pielea sunt afectate.
+
+172
+00:39:33,239 --> 00:39:40,177
+Vă voi da un exemplu legat de Phosphorus, pentru că tot studiem cazul de Phosphorus.
+
+173
+00:39:40,281 --> 00:39:59,271
+.. Vă voi da un exemplu al unui copil Phosphorus. Copilul unor medici care au studiat cu mine ..
+
+174
+00:39:59,375 --> 00:40:16,698
+.. Acum 20 de ani. Aveau o fiică, s-a îmbolnăvit, a primit mai multe remedii fără efect.
+
+175
+00:40:18,906 --> 00:40:29,916
+A fost chemat pediatrul și a diagnosticat encefalomielită, copilul avea febră mare ..
+
+176
+00:40:30,021 --> 00:40:40,604
+Avea redoare a cefei și a fost dusă la spital. Cât era în spital ..
+
+177
+00:40:40,708 --> 00:40:49,583
+.. Mi-au telefonat; mi-au spus ce se întâmplă, era encefalomielită, ..
+
+178
+00:40:52,260 --> 00:41:03,562
+.. Și dacă vreau să merg să văd copilul. Am fost să îl văd și avea simptomele tipice de encefalomielită ..
+
+179
+00:41:25,333 --> 00:41:48,937
+.. Era conștienta dar într-o stare de semi stupoare. Apoi mama care îmi descrisese cazul ..
+
+180
+00:41:49,041 --> 00:42:03,781
+.. Mi-a dat simptomele, febră și celelalte simptome patologice .. nu m-am putut orienta după nimic ..
+
+181
+00:42:03,885 --> 00:42:14,271
+Mi-a descris cum copilul a fost foarte curajos pentru că i se făcuseră mai multe injecții ..
+
+182
+00:42:14,375 --> 00:42:25,156
+.. Medicii au venit să îi ia sânge și ea nu a reacționat deloc, a fost foarte curajoasă.
+
+183
+00:42:31,135 --> 00:42:41,156
+Am întrebat, a fost curajoasă ? În mintea mea, trebuia să gândesc repede, eram sub tensiune ..
+
+184
+00:42:41,260 --> 00:42:50,646
+.. Avea febră și întrebarea era dacă să primească sau nu cortizon. În astfel de situații trebuie să iei decizii foarte rapide.
+
+185
+00:42:51,104 --> 00:43:05,666
+Și mama, după cum am spus, nu îmi dăduse simptome reale dar îmi spusese faptul că fetița fusese curajoasă. Asta nu se potrivea în mintea mea ..
+
+186
+00:43:06,416 --> 00:43:17,093
+De obiceiuri un copil când este înțepat cu un ac, plânge. Și ei i se luase sânge de mai multe ori ..
+
+187
+00:43:17,198 --> 00:43:39,239
+.. I se recoltase și lichid cefalorahidian și ea nu a reacționat deloc. Foarte ciudat ..
+
+188
+00:43:39,979 --> 00:43:58,854
+Între timp mama stătea în pat și ținea copilul de mâna. I-am spus mamei..
+
+189
+00:43:58,958 --> 00:44:10,843
+.. Ia-ți mâna din cea a copilului. Fetița era în semi stupoare, mama și-a retras mâna ...
+
+190
+00:44:17,135 --> 00:44:31,073
+Și fetița a început să plângă, a luat-o din nou de mâna și plânsul s-a oprit. I-a luat mâna din nou, iarăși fetița a început sa plângă, a luat-o din nou de mână și iarăși plânsul s-a oprit.
+
+191
+00:44:31,177 --> 00:44:42,698
+Foarte bine, am spus. Când vreți să fie bine ? La noapte sau mâine ? Mama plângea .. glumești, mi-a spus .. ?
+
+192
+00:44:42,802 --> 00:44:59,291
+Nu, vorbesc serios. La noapte sau mâine ? Nu contează, mi-a spus. Bine, atunci dă-i o doza de Phosphorus 10 M ..
+
+193
+00:45:00,771 --> 00:45:18,448
+De ce ? Pentru că fetița avea o așa de mare anxietate, așa o frică puternică încât era ca și paralizată și nu a putut să reacționeze deloc atunci când a fost înțepată.
+
+194
+00:45:18,552 --> 00:45:30,187
+Frica și anxietatea au fost atât de mari încât înțepătura nici nu a mai fost simțită și dorința de companie ..
+
+195
+00:45:30,291 --> 00:45:41,312
+.. Era atât de mare încât ea voia ca mama ei să o țină de mână pentru a se simți în siguranță.
+
+196
+00:45:41,416 --> 00:45:53,375
+Aceste două simptome, anxietatea și dorința de a fi ținută de mână erau atât de puternice încât sugerau Phosphorus...
+
+197
+00:45:54,771 --> 00:46:04,437
+Această observație ține de esența cazului. I-au dat Phosphorus la ora 11 dimineața ..
+
+198
+00:46:04,541 --> 00:46:13,448
+.. Phosphorus 10 M. Seara, am spus, sunați-mă să îmi spuneți cum este. Seara m-a sunat tatăl.
+
+199
+00:46:13,552 --> 00:46:29,802
+Și el era homeopat. Mi-a spus, .. știi ? A cerut să mănânce ... Știi ce anume ?
+
+200
+00:46:29,906 --> 00:46:43,291
+Copilul nu mâncase de două zile. Ce a cerut să mănânce ? Înghețată. Am spus, mergeți și luați-i înghețată.
+
+201
+00:46:44,291 --> 00:47:01,073
+A doua zi la ora 11:00 din nou febra era 39,5 ..  Mi-au telefonat, este o recădere ... Bine, am spus, dați-i 50 M.
+
+202
+00:47:01,177 --> 00:47:17,229
+Seara copilul era bine. Ea primise înainte o mulțime de alte remedii, nu ați uitat asta, și niciunul nu avusese nici un efect. De ce ?
+
+203
+00:47:17,333 --> 00:47:26,896
+Datorită totalității. Ce anume lipsea ? Mama nu observase întregul tablou al copilului ..
+
+204
+00:47:27,000 --> 00:47:41,083
+.. Ca fetița era foarte anxioasa în legătură cu starea ei de sănătate. Auzea mișcare în jur doctori .. Doamne, voi muri ..
+
+205
+00:47:42,104 --> 00:47:51,437
+Cazurile Phosphorus au așa o mare anxietate legată de sănătate încât se simt paralizați de teamă.
+
+206
+00:47:52,198 --> 00:47:59,250
+Copilul era în această stare. Și în acest mod învățați.
+
+207
+00:48:00,708 --> 00:48:13,031
+- Nu am înțeles prea clar diferența dintre esență și keynote-uri. Simptomele în acest caz de Phosphorus ..
+
+208
+00:48:13,135 --> 00:48:19,468
+Au fost simptome aparținând esenței sau au fost keynote-uri ?
+
+209
+00:48:35,750 --> 00:48:46,312
+- Esența se referă mai ales la tabloul general mental emoțional. la structura mental emoțională ..
+
+210
+00:48:46,416 --> 00:48:58,698
+.. Și cum se manifestă aceasta în fiecare patologie. Spre exemplu a fi anxios, a avea acest gen de anxietate.
+
+211
+00:48:58,802 --> 00:49:04,562
+.. A fi iritabil, a fi agresiv, a fi așa sau altfel. Aceasta este esența.
+
+212
+00:49:04,666 --> 00:49:15,291
+Keynote-urile sunt simptome, care pot fi mentale, emoționale și de asemenea fizice ..
+
+213
+00:49:15,396 --> 00:49:26,896
+Simptome particulare pe care le are remediul. Asta înseamnă, când te uiți în repertoar ..
+
+214
+00:49:27,000 --> 00:49:40,541
+.. Spre exemplu .. Urina ca iaurtul, e eliminată ca bucăți de materie albă, singurul remediu este Phosphoric acid.
+
+215
+00:49:41,291 --> 00:49:50,333
+Acesta este un keynote de Phosphoric acid. Deci dacă pacientul îți spune că urina lui arată ca iaurtul, te uiți în repertoar ..
+
+216
+00:49:50,437 --> 00:50:03,333
+.. În rubrică vezi doar Phosphoric acid, .. Și poți indica remediul. Sau keynote-ul .. Când copilul doarme în poziție genu-pectorală.
+
+217
+00:50:03,437 --> 00:50:11,104
+.. Inițial aveam în rubrică doar Medorrhinum. Acum mai avem câteva remedii ..
+
+218
+00:50:11,208 --> 00:50:18,823
+.. Despre care știm de asemenea că dorm în această poziție. Și eu cred că sunt de fapt și mai multe remedii ..
+
+219
+00:50:18,927 --> 00:50:28,906
+.. Pentru că mulți copii dorm în acestă poziție și nu sunt toți Medorrhinum dar acesta este un keynote de Medorrhinum.
+
+220
+00:50:30,218 --> 00:50:59,135
+Dacă pacientul nu poate mânca stridii, este Phosphorus. Este un keynote de Phosphorus.
+
+221
+00:51:10,354 --> 00:51:39,208
+Să definim mai bine keynote-urile. Un keynote este un simptom ciudat, rar, particular. Mai trebuie spus ceva ?
+
+222
+00:51:44,177 --> 00:51:58,031
+Va voi da un simptom ciudat, rar, particular. De fiecare dată când cineva coboară scări, pierde picături de urină ..
+
+223
+00:51:58,135 --> 00:52:07,489
+.. Picături de urina care se pierd involuntar. Încercați să găsiți acest simptom.
+
+224
+00:52:09,802 --> 00:52:24,979
+Este un keynote întâlnit cel mai frecvent la Pulsatila. Pulsatila nu vrea să iasă din casă în general, este foarte timidă.
+
+225
+00:52:27,041 --> 00:52:38,937
+Vedeți aici câteva remedii. Avem 2, 3, 4, 6 remedii și un remediu este puternic pentru acest simptom ..
+
+226
+00:52:39,041 --> 00:52:58,552
+.. Pentru acest simptom particular și atunci spuneam ca Pulsatilla are un keynote care este urinare involuntară în timp ce stă pe scaun (așezată).
+
+227
+00:53:02,375 --> 00:53:11,208
+Nu este Causticum, cum ne-am aștepta, datorită paraliziei vezicii. Pulsatilla are acest simptom ..
+
+228
+00:53:12,250 --> 00:53:26,083
+Dar urinare involuntară în timp ce coboară scări, cauți acest simptom și îl cauți în toată Materia Medica pe care o ai și nu îl poți găsi.
+
+229
+00:53:27,573 --> 00:53:36,812
+Așa că, pentru a defini un keynote ai nevoie de un simptom ciudat, rar, particular ..
+
+230
+00:53:36,916 --> 00:53:49,468
+.. Și în plus acest simptom trebuie să fi fost înregistrat în proving-uri, altfel poți avea simptome deosebite ..
+
+231
+00:53:49,958 --> 00:53:58,271
+.. Ciudate, rare și particulare pe care însă nu le vei putea folosi pentru că nu sunt înregistrate în Materia Medica ..
+
+232
+00:53:58,375 --> 00:54:04,625
+.. Nu sunt înregistrate în repertoar și deci nu le vei putea găsi. Sunt inutile.
+
+233
+00:54:05,927 --> 00:54:16,937
+Deci keynote-urile uzuale cu care lucrăm trebuie să aibă acest element: să fie ciudate, rare și particulare și de asemenea ..
+
+234
+00:54:17,041 --> 00:54:28,333
+Să fie înregistrate în Materia Medica și în Repertoar ca simptome particulare ale unui număr mic de remedii sau ale unui singur remediu.
+
+235
+00:54:28,750 --> 00:54:45,583
+Aceasta este definiția unui keynote. Sunt simptome care trebuie sa fie înregistrate doar la puține remedii. Doar câteva remedii să aibă acel simptom ..
+
+236
+00:54:45,687 --> 00:54:54,333
+Pentru că un simptom ce ne pare a fi ciudat, rar și particular .. ne uităm în Repertoar și acel simptom ciudat, rar și particular ..
+
+237
+00:54:54,437 --> 00:55:12,312
+.. Și vedem că a fost înregistrat și produs de 100 de remedii. Deci nu este un simptom rar așa că nu este un keynote.
+
+238
+00:55:12,416 --> 00:55:18,416
+.. Deși pare fi un simptom foarte ciudat.
+
+239
+00:55:19,468 --> 00:55:27,625
+Dacă în materia Medica este înregistrat la prea multe remedii nu este un keynote.
+
+240
+00:55:28,541 --> 00:55:54,052
+Încercați să găsiți simptomul răutăcios. Vedeți 150 de remedii .. vă gândiți că o persoană este răutăcioasa și acest lucru este foarte ciudat, rar și particular ..
+
+241
+00:55:54,156 --> 00:56:22,604
+Ei bine nu este. E dezamăgitor să vezi tabloul întregii umanități în această rubrică. Dumnezeu să ne ajute. Răutăcios ..
+
+242
+00:56:22,708 --> 00:56:32,468
+Cine nu este răutăcios ? Așa că acest simptom nu este ciudat, rar și particular. Este un simptom comun.
+
+243
+00:56:36,552 --> 00:56:54,573
+Anacardium, Arsenicum album, Natrium Muriaticum, Nux Vomica, Stramonium .. unde este Sepia, nu este acolo ? Bine, uitați asta.
+
+244
+00:56:57,198 --> 00:57:01,885
+Sepia este scrisă mic ..
+
+245
+00:57:16,198 --> 00:57:59,812
+Staph., Phos., Tub., Lach. ar trebui să fie de gradul trei, Sepia ar trebui să fie de gradul doi ..
+
+246
+00:58:00,333 --> 00:58:10,875
+Dar oricum răutatea la fiecare din aceste remedii are o altă culoare. Se manifestă diferit la fiecare remediu ..
+
+247
+00:58:10,979 --> 00:58:26,177
+Răutatea la Arsenicum nu este aceeași cu cea de la Stramonium. Și răutatea de la Tuberculinum nu este aceeași cu cea de la la Sepia ..
+
+248
+00:58:27,375 --> 00:58:32,916
+Fiecare are o culoare proprie.
+
+249
+00:58:53,843 --> 00:59:17,531
+.. Ar fi foarte ciudat, rar și particular ca un pacient să îți spună că este răutăcios. Până acum nu am auzit asta de la un pacient.
+
+250
+00:59:20,573 --> 00:59:31,823
+- Deci keynote-ul pentru Pulsatila de aici este pentru cazul de dinainte și pentru încă cinci remedii.
+
+251
+00:59:31,927 --> 00:59:45,521
+- Da dar Pulsatilla este singurul remediu scris cu majuscule. Pulsatilla iese în evidență în această rubrică și mai sunt încă câteva remedii. Așa că dacă simptomul este cu adevărat puternic la un pacient ..
+
+252
+00:59:45,625 --> 00:59:53,906
+.. Atunci primul remediu la care te vei gândi este Pulsatilla. Deci în analiza ta ai acest simptom.
+
+253
+00:59:54,416 --> 01:00:09,646
+.. Ai un caz, să spunem, unde între mai multe simptome ai urinare involuntară în poziție șezândă ..
+
+254
+01:00:09,750 --> 01:00:26,510
+Și în analiză Pulsatilla este aici, are 6 simptome. Dacă acest keynote este puternic cel mai bine este sa prescrii Pulsatilla.
+
+255
+01:00:35,885 --> 01:00:46,062
+- Dacă ai keynote-uri care sunt foarte specifice pentru un anumit remediu atunci automat vor fi trecute în Repertoar cu gradul 3 ?
+
+256
+01:00:59,552 --> 01:01:11,666
+- Nu, există keynote-uri care pot fi de gradul întâi. Ce înseamnă gradul trei ?
+
+257
+01:01:11,771 --> 01:01:22,239
+Gradul din Repertoar se referă la frecvența și intensitatea simptomului la proveri ..
+
+258
+01:01:23,198 --> 01:01:35,666
+Și frecvența și intensitatea la pacient se refera la observații clinice. Asta înseamnă că mulți proveri au spus ..
+
+259
+01:01:36,489 --> 01:01:49,229
+.. În mod clar am acest simptom. Atunci simptomul va fi înregistrat în Repertoar cu majuscule. Dacă nici un alt remediu nu are acest simptom ..
+
+260
+01:01:49,333 --> 01:02:01,229
+.. Atunci el devine un simptom foarte important. Dacă și alte remedii au produs acest simptom dar de intensitate mai mică ..
+
+261
+01:02:01,333 --> 01:02:08,187
+.. Atunci în rubrică vor fi și alte remedii dar cu gradul întâi sau doi, nu vor fi scrise cu majuscule.
+
+262
+01:02:08,291 --> 01:02:21,291
+Dar dacă într-un proving al unui remediu o mulțime de proveri au spus, da, când stau șezând pierd urina..
+
+263
+01:02:21,396 --> 01:02:27,802
+Atunci acesta devine un simptom puternic și este înregistrat în Repertoar cu gradul trei.
+
+264
+01:02:27,906 --> 01:02:39,437
+În realitate, înregistrarea gradelor în Repertoar s-a făcut prin evaluarea informației date de proveri ..
+
+265
+01:02:39,541 --> 01:02:45,875
+.. Și de asemenea din evaluarea informației de la pacienți.
+
+266
+01:02:45,979 --> 01:03:01,031
+Câți pacienți Pulsatilla suferă la căldură ? Mulți. Atunci simptomul devine puternic, se scrie cu majuscule ..
+
+267
+01:03:01,135 --> 01:03:08,427
+Pulsatilla, agravare la căldură. Câți pacienți Pulsatilla sunt mai bine când ies la aer ?
+
+268
+01:03:08,531 --> 01:03:23,916
+Mulți. 80 la sută din ei. E scris cu majuscule. Câți pacienți Pulsatilla pierd urină când stau șezând ?
+
+269
+01:03:24,906 --> 01:03:37,427
+Nu mulți pentru că este un simptom ciudat, rar și particular și a fost înregistrat la ..
+
+270
+01:03:37,531 --> 01:03:45,593
+10, 12 cazuri din 100 .. Atunci devine un keynote puternic ..
+
+271
+01:03:53,021 --> 01:04:08,979
+- George, nu îmi e clar, înainte ai spus ca esențele sunt înregistrate prin observație ..
+
+272
+01:04:09,083 --> 01:04:15,760
+.. Și keynote-urile ți le dă pacientul, apoi ai spus ca simptomele rare, ciudate și particulare ..
+
+273
+01:04:15,864 --> 01:04:25,750
+.. Apoi ai dat exemplu cu "răutatea", despre care ai spus că pacientul nu ți-o va spune niciodată .. Și atunci este deci o diferența ..
+
+274
+01:04:26,750 --> 01:04:37,073
+- Nu, am spus că, ciudat, rar și particular pare să fie simptomul de a fi răutăcios. Și totuși nu este ciudat, rar sau particular ..
+
+275
+01:04:37,177 --> 01:04:52,823
+Este comun multor remedii. Aceasta este prima idee. Și în acest caz nu vorbeam despre un keynote ..
+
+276
+01:04:57,771 --> 01:05:06,979
+De obiceiul keynote-urile sunt înregistrate direct de la pacient, dar, cum am spus, avem trei surse de informație.
+
+277
+01:05:07,218 --> 01:05:22,718
+Pacientul, rudele lui și medicul. Și esența de obicei constituie o observație a medicului..
+
+278
+01:05:22,823 --> 01:05:39,906
+.. O observație a rudelor, sau a altora. Pacientul însuși, spre exemplu Nux vomica, este foarte iritabil.
+
+279
+01:05:42,510 --> 01:05:51,854
+Vă voi da un exemplu. Luam cazul unui profesor de chirurgie care suferea de dureri de cap severe, cronice.
+
+280
+01:05:51,958 --> 01:05:59,583
+Și îl aveam lângă mine pe George Papaphilippou care este și chirurg și acum este homeopat.
+
+281
+01:05:59,687 --> 01:06:10,718
+El învățase și fusese în operații cu acest profesor. Îl adusese la mine să mă ocup de el.
+
+282
+01:06:10,823 --> 01:06:22,687
+.. Eu vad un profesor foarte drăguț și care stă jos fiind foarte calm. Este obez, foarte calm și foarte cumsecade ..
+
+283
+01:06:22,729 --> 01:06:37,416
+Îmi dă simptomele durerilor lui de cap și nu pot găsi niciun remediu. Încerc asta, încerc cealaltă, nimic .. totul în rest era normal ..
+
+284
+01:06:40,823 --> 01:06:50,729
+În final îmi vine ideea, poate că este un caz de Nux vomica. Dar pare atât de calm ..
+
+285
+01:06:50,812 --> 01:06:58,104
+Așa încât îl întreb, ești un om iritabil ? Nu, îmi răspunde.
+
+286
+01:06:58,208 --> 01:07:16,562
+Și atunci George îmi dă un picior pe sub masă. Am înțeles. Îi spun, la ce te referi, nu țipi .. nu țipa niciodată ..
+
+287
+01:07:16,666 --> 01:07:25,250
+.. Dar în interiorul lui, dacă cineva îi dădea spre exemplu un instrument greșit, imediat ..
+
+288
+01:07:26,000 --> 01:07:35,104
+Dar cei din jurul lui observau asta. Și George, care a lucrat cu el, a observat că în realitate el era foarte furios și foarte iritabil ..
+
+289
+01:07:35,208 --> 01:07:42,646
+El a răspuns nu pentru că el nu își exprima furia, nu își exprima starea de iritabilitate.
+
+290
+01:07:45,708 --> 01:07:56,395
+Așa că, pe baza acestei informații am prescris Nux vomica și durerile de cap s-au vindecat foarte frumos.
+
+291
+01:07:59,958 --> 01:08:08,541
+- Aceasta este o întrebare de teorie. Să spunem că avem un caz unde totalitatea simptomelor te conduce către un remediu clar ..
+
+292
+01:08:08,645 --> 01:08:21,750
+.. Dar esența este în contradicție cu acesta. Este posibil un asemenea caz și ce faci în această situație ?
+
+293
+01:08:22,531 --> 01:08:33,437
+- Prima dată vei da remediul totalității. Dacă nu are efect atunci vei prescrie a doua oară pe baza esenței ..
+
+294
+01:08:34,489 --> 01:08:44,854
+Esența este ceva ce vine din experiență și este foarte dificil să fie transferată.
+
+295
+01:08:44,958 --> 01:08:53,260
+Dacă încerc să vă transfer o impresie, nu sunt sigur că vă transfer de fiecare dată impresia corectă, nu-i așa ?
+
+296
+01:08:53,750 --> 01:09:02,406
+Când vedeți pacientul în realitate eu va spun, uite, acesta este un caz de Ambra grisea și voi veți spune "da, ne-am gândit și noi la asta". De aceea eu spun ..
+
+297
+01:09:02,510 --> 01:09:09,156
+.. Mai întâi totalitatea. Dacă aveți o totalitate clară atunci dați remediul. Numai apoi mergeți la esență ..
+
+298
+01:09:10,625 --> 01:09:25,958
+Caracteristicile esențiale sunt mai ușoare. Sunt fapte. Esența, cum am descris-o eu, descrie sufletul, ceva intangibil.
+
+299
+01:09:28,437 --> 01:09:36,333
+Este experiența mea, dar nu este încă experiența voastră. Până să vedeți un caz veritabil unde prescrieți remediul ..
+
+300
+01:09:36,437 --> 01:09:46,739
+Primesc scrisori de la studenți care îmi spun, .. am prescris extraordinar, am dat o doză de Agaricus și a lucrat perfect. Prescripția am făcut-o pe baza esenței.
+
+301
+01:09:48,260 --> 01:10:02,041
+Acea persoană a înțeles esența remediului. Dar nu sunt sigur că toată lumea înțelege esența remediilor, cu adevărat, din ceea ce descriu eu.
+
+302
+01:10:02,916 --> 01:10:08,208
+- Tu iei esența în considerare ?
+
+303
+01:10:09,260 --> 01:10:23,333
+- Lăsații-ma pe mine deoparte pentru că eu iau în considerare ceea ce mi-a arătat experiența și ceea ce văd în acel moment ..
+
+304
+01:10:27,218 --> 01:10:42,875
+Și nu este întotdeauna așa. Vă voi citi un caz din Londra. Eram în Londra unde mi-a fost prezentat un caz ..
+
+305
+01:10:42,979 --> 01:10:49,489
+..fără esență, fară simptome generale, avea doar patologie ..
+
+306
+01:10:50,802 --> 01:11:00,687
+Am prescris pe baza patologiei, pe baza elementelor esențiale, pe ceea ce am simțit că are pacientul din caracteristicile generale ale remediului.
+
+307
+01:11:03,573 --> 01:11:10,031
+În septembrie am vorbit despre ce se întâmpla când un pacient primește un remediu incorect ..
+
+308
+01:11:10,135 --> 01:11:19,229
+.. Dezvolta simptome de proving. Asta înseamnă că va avea aceste simptome de proving combinate cu simptomele lui proprii.
+
+309
+01:11:19,333 --> 01:11:25,270
+.. Și voi ați spus, dacă atunci repertorizăm cazul din nou, nu trebuie să luăm în considerare noile simptome pe care pacientul le-a dezvoltat ..
+
+310
+01:11:25,375 --> 01:11:32,250
+Dar în Organon, Hahnemann spune că noile simptome trebuie luate în considerare ..
+
+311
+01:11:32,354 --> 01:11:37,396
+.. În repertorizare, atunci când este căutat un nou remediu ..
+
+312
+01:11:40,708 --> 01:11:50,698
+- În primul rând, nu de fiecare dată când dai un remediu greșit apare un proving al acelui remediu. Asta este prima idee.
+
+313
+01:11:50,802 --> 01:11:58,000
+Ai dat impresia că eu aș fi spus că, de fiecare dată când dai un remediu greșit apare un proving.
+
+314
+01:11:58,104 --> 01:12:17,937
+În unele cazuri vei avea simptome de proving ale remediului pe care l-ai dat plus simptome ale pacientului ..
+
+315
+01:12:18,041 --> 01:12:27,073
+Și eu spun, într-un asemenea caz du-te înapoi la cazul original, studiază-l pe acesta din nou și prescrie un alt remediu.
+
+316
+01:12:27,177 --> 01:12:38,604
+Aceasta este o situație diferita decât atunci când dai un remediu și remediul este incorect sau când nu știm încă dacă remediul este corect sau nu ..
+
+317
+01:12:38,708 --> 01:12:52,135
+.. Și acesta schimbă unele din simptomele cazului fără să aibă efect curativ. Este o altă situație în care ..
+
+318
+01:12:52,239 --> 01:13:03,885
+.. Simptomele nou apărute trebuie luate în considerare. Dar doar în această situație.
+
+319
+01:13:05,104 --> 01:13:08,573
+- Înțelegeți diferența ?- Nu.
+
+320
+01:13:24,708 --> 01:13:40,229
+- Aveți un caz și el are aceste simptome. Și îi dați un remediu greșit, dar pacientul produce anumite simptome ..
+
+321
+01:13:40,333 --> 01:13:55,052
+.. Ale remediului pe care l-ați prescris. Acestea sunt simptome noi pe care le produce, fără să le modifice pe cele precedente ..
+
+322
+01:13:55,156 --> 01:14:08,125
+Ceea ce trebuie să faceți într-o atare situație este să vă reântoarceți la cazul originar și să încercați să găsiți un alt remediu care se potrivește tabloului.
+
+323
+01:14:10,958 --> 01:14:23,802
+Ne ducem acum la altă situație, numărul 2. Unde avem același tablou și am dat un remediu ..
+
+324
+01:14:23,906 --> 01:14:36,396
+.. Care nu a vindecat cazul dar l-a modificat. Cum ? Așa.
+
+325
+01:14:51,666 --> 01:15:04,073
+A modificat cazul în acest mod. El are acum chiar un simptom care este mai puternic, îl deranjează mai mult ..
+
+326
+01:15:04,177 --> 01:15:09,416
+.. Dar unele dintre simptomele inițiale au dispărut iar altele s-au modificat.
+
+327
+01:15:10,531 --> 01:15:45,802
+În acest caz trebuie să studiezi tabloul și să prescrii un al doilea remediu ..
+
+328
+01:15:49,416 --> 01:15:54,375
+Aici este un alt remediu ..
+
+329
+01:15:58,000 --> 01:16:09,239
+Prescrii acest remediu, ignori această parte și te reântorci la cazul originar, îl studiezi și prescrii un alt remediu.
+
+330
+01:16:17,583 --> 01:16:27,312
+- Am o altă întrebare în legătură cu acest subiect. Unii recomandă administrarea de 7C în fiecare zi și atunci ..
+
+331
+01:16:27,416 --> 01:16:37,802
+.. Chiar dacă ai dat remediul corect, după o vreme pacientul începe să producă simptome noi aparținând remediului ..
+
+332
+01:16:37,906 --> 01:16:47,896
+.. Pe care i l-ai dat. Și atunci, uneori, te poți încurca pentru că nu mai știi dacă a fost corect ..
+
+333
+01:16:48,000 --> 01:16:53,062
+.. Sau dacă a fost un proving. Vreau să îmi clarific această idee.
+
+334
+01:16:53,083 --> 01:17:06,781
+- Și pe mine m-a încurcat întrebarea. Uită acest paragraf. Un exemplu.
+
+335
+01:17:06,885 --> 01:17:15,250
+- Un pacient vine la homeopat. Acesta decide să îi dea un anumit remediu în potența 9C în fiecare zi.
+
+336
+01:17:15,354 --> 01:17:16,625
+- Remediu greșit ?
+
+337
+01:17:16,729 --> 01:17:23,479
+- Nu, remediul este corect. Acesta este tratamentul care homeopatul vrea să i-l dea. În prima lună totul merge bine ..
+
+338
+01:17:23,583 --> 01:17:35,646
+Și a doua lună totul merge bine și apoi brusc pacientul începe sa producă simptome ale remediului, ca un proving.
+
+339
+01:17:35,750 --> 01:17:46,781
+- Da, este corect. Asta se va întâmpla dacă continui cu remediul în ciuda faptului că pacientul este bine ..
+
+340
+01:17:46,885 --> 01:17:52,354
+Dacă continui să îi dai în fiecare zi același remediu, vei produce un fel de proving.
+
+341
+01:17:52,458 --> 01:18:00,416
+Așa că, în final acea persoana va dezvolta simptome ale remediului de care îl ia în mod repetat ... Dar nu întotdeauna ..
+
+342
+01:18:03,750 --> 01:18:10,896
+Sunt multe cazuri unde repeți remediul și nu are acest efect. Dar sunt unele cazuri unde este prezentă o anume sensibilitate ..
+
+343
+01:18:11,000 --> 01:18:17,271
+.. Și acolo vei vedea cu siguranță că apar simptome ale remediului.
+
+344
+01:18:22,281 --> 01:18:29,718
+- Deci, dacă am înțeles corect, al doilea exemplu pe care l-ai desenat pe tablă reprezintă cazurile unde ..
+
+345
+01:18:29,823 --> 01:18:38,531
+.. Am indicat un remediu similar dar nu cel mai similar, adică similar dar nu similimum, este corect ?
+
+346
+01:18:39,573 --> 01:19:01,531
+- Nu numai asta. Dar dacă mergem înainte cu această logică, vom greși. Să vă clarific această situație, ce anume se întâmpla de fapt.
+
+347
+01:19:03,375 --> 01:19:17,437
+Un remediu a modificat tabloul. Tabloul originar a fost modificat de remediu. Asta nu înseamnă că remediul nu a fost corect.
+
+348
+01:19:18,198 --> 01:19:31,229
+Înseamnă că acel caz are nevoie de o serie de remedii. Unul, două, trei poate patru remedii ..
+
+349
+01:19:31,333 --> 01:19:41,791
+Într-un asemenea caz se tot produc schimbări pe măsură ce pacientul se îndreaptă spre vindecare.
+
+350
+01:20:07,135 --> 01:20:19,187
+- O întrebare despre prima situație. Dacă există simptome de proving, asta înseamnă că pacientul este sensibil ?
+
+351
+01:20:19,291 --> 01:20:30,760
+- Asta înseamnă că remediul este apropiat. Este o situație nefericită. Nu este bine ceea ce se întâmplă. Este un caz nefericit ..
+
+352
+01:20:30,864 --> 01:20:38,333
+Ceea ce se întâmplă aici este corect. Nu exista altă variantă ..
+
+353
+01:20:39,354 --> 01:20:51,489
+- Da, dar eu cred că dacă pacientul ar fi sensibil atunci ar apărea o schimbare. Dacă sunt alte simptome și dacă acele simptome ..
+
+354
+01:20:51,593 --> 01:21:03,646
+.. S-au modificat atunci boala s-a modificat sau poate răspunsul organismului s-a modificat de asemenea. Ar putea fi mai bine ..
+
+355
+01:21:03,750 --> 01:21:08,604
+.. Să așteptam până ce dispar simptomele de proving.
+
+356
+01:21:08,708 --> 01:21:23,093
+- Da, ar fi chiar mai bine. Dacă însă nu poți aștepta, și asta depinde de caz, dacă este un caz urgent atunci trebuie să prescrii ceva ..
+
+357
+01:21:23,198 --> 01:21:30,125
+Dacă nu este un caz urgent atunci cel mai bine este să așteptam și simptomele de proving vor dispare.
+
+358
+01:21:30,906 --> 01:21:55,354
+Și este bine într-un asemenea caz să permiți consumul de cafea sau dacă este ceva urgent să îl tratezi alopat.
+
+359
+01:21:57,500 --> 01:22:10,104
+Medicația alopată va readuce starea originară. Asta, câtă vreme cazul nu este prea sever.
+
+360
+01:22:16,021 --> 01:22:25,385
+Tratamentul alopat, bineînțeles, poate cauza mult rău, dar într-un asemenea caz în care noi am greșit ..
+
+361
+01:22:25,489 --> 01:22:37,687
+De fapt asta se întâmpla natural. Doctorul va spune, tu nu răspunzi la remediile homeopatice.
+
+362
+01:22:37,791 --> 01:22:48,521
+Este un mod frumos de a spune "Eu am eșuat în tentativa de a-ți găsi remediul. Organismul tău nu răspunde la remedii."
+
+363
+01:22:48,625 --> 01:22:58,823
+Este o scuză bună, poți folosi această scuză dacă vrei. Dar pentru tine, trebuie să știi care este realitatea.
+
+364
+01:22:58,927 --> 01:23:11,604
+.. Deci poți spune, luați analgezice sau altceva. Încercați să evitați cortizonul cât de mult se poate.
+
+365
+01:23:11,708 --> 01:23:21,198
+Cortizonul este un medicament ce acționează foarte profund, poate schimba întregul tablou și te poate lăsa fără simptome.
+
+366
+01:23:23,041 --> 01:23:30,718
+Apoi, mai târziu, vom vedea ce este de făcut. Se va reântoarce starea inițială și atunci studiezi din nou cazul ..
+
+367
+01:23:30,823 --> 01:23:34,375
+.. Vezi cazul inițial și dai remediul ..
+
+368
+01:23:35,177 --> 01:23:44,312
+Hahnemann nu avem problemele pe care le avem noi astăzi. Pe vremea aceea se puneau lipitori ..
+
+369
+01:23:44,416 --> 01:23:55,427
+Se lăsa sânge, se puneau cataplasme, erau influențe superficiale care nu schimbau ..
+
+370
+01:23:55,531 --> 01:24:01,531
+.. Starea organismului atât de profund cum o fac medicamentele pe care le avem astăzi.
+
+371
+01:24:02,312 --> 01:24:10,406
+Observațiile lui sunt în concordanță cu experiența pe care a avut-o, evident. Observațiile despre care vorbesc sunt din experiența noastră ..
+
+372
+01:24:10,510 --> 01:24:21,135
+În vremea lui Hahnemann nu aveau constituții atât de slăbite cum avem noi astăzi ..
+
+373
+01:24:21,239 --> 01:24:29,291
+Care au nevoie de o serie de remedii .. doar ca să supraviețuiască.
+
+374
+01:24:33,625 --> 01:24:50,093
+- Vreau să întreb ceva practic. Am avut o pacientă care a venit la mine pentru hipotiroidism ..
+
+375
+01:24:53,489 --> 01:25:02,864
+.. I-am dat Medorrhinum și s-a simțit mult mai bine dar nimic nu s-a schimbat legat de hipotiroidism.
+
+376
+01:25:03,468 --> 01:25:23,489
+Și a avut nevoie de tot mai multa tiroxină până a ajuns la o doză de 150. M-am gândit că poate fi Causticum.
+
+377
+01:25:23,593 --> 01:25:36,229
+.. I-am dat Causticum și în acel moment a dezvoltat simptome de Causticum și medicul internist i-a spus ..
+
+378
+01:25:36,333 --> 01:25:52,104
+.. Că dozele de tiroxină erau prea mari, trebuia să ia mai puțin. Și vreau să te întreb ce s-a întâmplat de fapt acolo ..
+
+379
+01:25:52,208 --> 01:26:06,885
+M-am gândit că a fost corect Causticum (pentru că) glanda tiroida a început sa lucreze și dozele de tiroxina au devenit prea mari pentru ea.
+
+380
+01:26:09,468 --> 01:26:18,062
+- Să înțeleg. Deci doza de tiroxină recomandată de internist a devenit prea mare după Causticum ..
+
+381
+01:26:18,166 --> 01:26:29,489
+..Și atunci a trebuit să reducă doza. Este corect. Asta înseamnă că remediul Causticum a ajutat pacienta să producă ..
+
+382
+01:26:29,593 --> 01:26:42,052
+Mai multă tiroxină, drept pentru care a avut nevoie de un aport mai mic din afară. Asta înseamnă că remediul a acționat curativ în acest caz.
+
+383
+01:26:42,156 --> 01:26:56,979
+- Dar erau cu adevărat simptome de Causticum. A fost ca un proving de Causticum.
+
+384
+01:26:58,708 --> 01:27:14,406
+- Am spus în prima sesiune că atunci când dăm un remediu și remediul acționează curativ, asta înseamnă ..
+
+385
+01:27:14,510 --> 01:27:25,000
+.. Că îmbunătățește starea generală a pacientului și în același timp produce unele din simptomele lui proprii ..
+
+386
+01:27:25,104 --> 01:27:31,021
+..  Aceasta este o dovadă că remediul este corect.
+
+387
+01:27:31,125 --> 01:27:44,531
+Dacă remediul nu schimbă nimic aici .. și produce unele din propriile lui simptome, atunci avem un proving.
+
+388
+01:27:46,437 --> 01:27:59,489
+Când remediul modifică unul sau două simptome fără sa aducă o schimbare esențială a stării pacientului ..
+
+389
+01:27:59,593 --> 01:28:08,573
+Avem din nou un proving dat de un remediu care a fost foarte apropiat de caz.
+
+390
+01:28:08,833 --> 01:28:18,114
+În asemenea cazuri unde am dat un remediu apropiat, trebuie să așteptăm ..
+
+391
+01:28:18,218 --> 01:28:24,218
+.. Până când, și acesta este răspunsul corect, trebuie să așteptăm până când dispar simptomele de proving.
+
+392
+01:28:28,135 --> 01:28:33,291
+- Altă întrebare legată de simptomele de proving, în primul tau exemplu de pe tablă ..
+
+393
+01:28:34,291 --> 01:28:39,958
+Dacă un pacient dezvoltă brusc diaree, este și acesta un simptom de proving ?
+
+394
+01:29:02,937 --> 01:29:09,729
+- Dai un remediu și pacientul produce diaree.
+
+395
+01:29:10,489 --> 01:29:16,396
+- Cel mai probabil diareea a apărut pentru că pacientul a mâncat ceva greșit. Nu.
+
+396
+01:29:23,125 --> 01:29:33,770
+- Dar secrețiile care apar după administrarea unui remediu ? Sunt ele, de asemenea, parte a unui proving sau nu ?
+
+397
+01:29:34,541 --> 01:29:40,521
+- Secreție genitală din vagin, leucoree. Dai un remediu și apare o secreție in vagin ..
+
+398
+01:29:40,625 --> 01:29:50,218
+.. Sau o secreție din nas. Acesta este un simptom bun, curativ. Nu este un proving.
+
+399
+01:29:52,312 --> 01:29:59,239
+- Asta înseamnă că toate secrețiile sunt simptome bune și sunt o dovadă a unui efect curativ ?
+
+400
+01:30:01,375 --> 01:30:17,083
+- Reacția organismului se consideră ca un Întreg. Ceea ce evaluezi este reacția totală a pacientului ..
+
+401
+01:30:17,698 --> 01:30:26,156
+Dacă reacția totală ne spune că acest pacient merge în direcția vindecării, pentru că el este mai bine, tot mai bine ..
+
+402
+01:30:26,260 --> 01:30:37,854
+Și are ceva diaree, atunci diareea este bună. Secreția din nas este bună. Secreția din piele este bună.
+
+403
+01:30:37,958 --> 01:30:50,312
+.. Dar dacă spui, persoana se simte mai rău, are diaree și are sânge în scaun ...
+
+404
+01:30:50,416 --> 01:31:00,646
+.. Dai un remediu și pacientul începe să sângereze, atunci aceasta este o agravare care este dată cel mai probabil de un remediu greșit.
+
+405
+01:31:00,750 --> 01:31:14,041
+..Nu poți spune în general dacă secrețiile sunt bune. Depinde de starea generală a cazului.
+
+406
+01:31:16,468 --> 01:31:23,823
+.. Un copil, să spunem, a primit un remediu corect dacă arată semne de îmbunătățire.
+
+407
+01:31:23,927 --> 01:31:35,114
+Este copilul vindecat după remediu ? Nu. Arată o îmbunătățire ca stare mental emoțională, ca reacție febrilă ..
+
+408
+01:31:35,218 --> 01:31:40,146
+.. Ca poftă de mâncare dar totuși are nevoie de un al doilea remediu.
+
+409
+01:31:40,250 --> 01:31:49,437
+Care este al doilea remediu ? Studiem noile simptome și prescriem un nou remediu.
+
+410
+01:31:55,510 --> 01:32:01,135
+- Am avut o problemă similară. Am tratat un manager care era într-o poziție foarte înaltă și era epuizat ..
+
+411
+01:32:01,239 --> 01:32:15,052
+.. Și era aproape de a face un atac de cord. Era cu adevărat epuizat. A venit, i-am luat cazul și i-am dat Pulsatilla.
+
+412
+01:32:15,156 --> 01:32:25,312
+Apoi după 4-5 luni s-a simțit cu adevărat eliberat, arăta foarte bine, era cu adevărat relaxat ..
+
+413
+01:32:25,416 --> 01:32:38,521
+.. Când s-a reântors. Avea o mică tulburare de ritm, dar era de mică intensitate, s-a rezolvat foarte ușor cu medicație alopată.
+
+414
+01:32:42,000 --> 01:32:47,854
+Când s-a reântors mi-a spus că avea probleme serioase cu cei pentru care lucra pentru că ..
+
+415
+01:32:47,958 --> 01:32:54,646
+.. Nu mai era interesat de munca lui. Avea 57 de ani și mai avea 3.
+
+416
+01:32:54,750 --> 01:33:03,771
+Ce puteam să-i spun ? Să-i fi spus să bea cafea .. sau să renunțe la slujbă. I-am spus să își dea demisia.
+
+417
+01:33:05,375 --> 01:33:14,854
+- Nu, niciuna din cele două variante. Acel om trebuia încurajat. Adică, dacă are 57 de ani și cel mai probabil lucrează deja de 40 ..
+
+418
+01:33:14,958 --> 01:33:23,396
+Dacă mai lucrează încă trei ani nu este așa mare lucru. Eu i-aș fi spus, .. l-aș fi încurajat să lucreze mai departe.
+
+419
+01:33:23,500 --> 01:33:37,916
+Cu mult timp în urmă am jurat că voi renunța să mai predau. Am făcut asta destul, sunt epuizat ..
+
+420
+01:33:38,021 --> 01:33:50,427
+.. Merg acasă, soția îmi spune "de ce te omori tu pe tine". Și apoi am spus, bine hai să mai fac asta încă trei ani și acum am 65 ..
+
+421
+01:33:50,531 --> 01:33:56,468
+- Este așa pentru că îți iubești meseria.- Nu sunt sigur.
+
+422
+01:34:08,864 --> 01:34:15,271
+- Încă nu mi-e clar cu acest caz al lui Marion deoarece Causticum a avut efect bun ..
+
+423
+01:34:15,375 --> 01:34:22,760
+Și tiroida a lucrat mai bine după remediu. Dar dacă femeia a dezvoltat simptome de Causticum ..
+
+424
+01:34:22,864 --> 01:34:33,427
+El a spus că pacienta a dezvoltat simptome de Causticum și acum are urinare involuntară, spre exemplu ..
+
+425
+01:34:33,531 --> 01:34:41,000
+Dacă lucrează bine Causticum, dar produce ... Simptome foarte supărătoare ?
+
+426
+01:34:46,708 --> 01:34:54,666
+- Desigur, punem această întrebare pentru că nu am terminat de predat teoria homeopatiei dar vom continua cu predarea teoriei ..
+
+427
+01:34:54,771 --> 01:35:05,271
+Vreau să vă spun o altă idee. Când vorbim despre cazuri ipotetice este foarte dificil pentru mine să vă dau răspunsuri ..
+
+428
+01:35:05,375 --> 01:35:12,104
+.. Pentru că trebuie să cunosc toți parametrii înainte de a putea răspunde la o întrebare specifică legată de un caz specific.
+
+429
+01:35:12,208 --> 01:35:25,646
+Dar ca regulă generală vreau să vă spun asta. Începi tratamentul unui copil care este destul de afectat mental ..
+
+430
+01:35:25,750 --> 01:35:37,875
+Și îl aduc părinții la tine. Este neliniștit, are acest simptom etc. Ei se plâng de simptome nedefinite ..
+
+431
+01:35:37,979 --> 01:35:47,781
+.. Nu poți spune cu adevărat despre copil ca este bolnav mental. Dar nici nu este echilibrat în plan mental emoțional ..
+
+432
+01:35:47,885 --> 01:35:54,364
+Și începi să tratezi un asemenea copil. Pe parcursul tratamentului vor apare numeroase probleme ..
+
+433
+01:35:54,468 --> 01:36:07,854
+.. Pe măsură ce starea lui de sănătate se ameliorează. Ce fel de probleme ? Mai ales acutizări și probleme cronice la nivel fizic ..
+
+434
+01:36:08,218 --> 01:36:18,093
+Pe măsură ce se ameliorează planul lui mental emoțional, copilul va începe să răcească ușor, să se îmbolnăvească de asta, de cealaltă ..
+
+435
+01:36:20,208 --> 01:36:33,771
+.. Dureri la stomac, în intestine .. și atunci vei avea cu adevărat o problemă. Și nu poți spune că toate aceste probleme ale lui ..
+
+436
+01:36:33,875 --> 01:36:43,906
+.. Sunt simptome de proving ale remediului. Ele apar datorită ameliorării stării organismului, care se manifestă pe alt nivel ..
+
+437
+01:36:44,625 --> 01:36:50,604
+Dezechilibrul din plan mental emoțional este înlăturat și se manifestă în plan fizic ..
+
+438
+01:36:50,708 --> 01:37:01,271
+Organismul nu are posibilitatea să manifeste acest dezechilibru direct pe piele, și atunci acesta se manifestă (ca un conflict) în corpul fizic.
+
+439
+01:37:01,375 --> 01:37:11,385
+Așa că vei avea o mulțime de probleme cu astfel de copii. Dar dată ce cresc ..
+
+440
+01:37:11,489 --> 01:37:29,437
+.. Și devin puternici, atunci chiar simți că ai făcut ceva bun cu ei. Dar până atunci ai o mulțime de probleme.
+
+441
+01:37:29,541 --> 01:37:37,854
+Așa că, dacă îmi dați un caz, aduceți-mi întregul caz cu toate detaliile și atunci ..
+
+442
+01:37:37,958 --> 01:37:42,698
+Vă voi da răspunsul, este aceasta sau cealaltă.
+

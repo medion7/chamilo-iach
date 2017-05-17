@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELe2e9f63c551ebfa6374219d724ff2faf</ID>
+  <patient>
+    <case_date>2015-12-17 22:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΣΒ</patient_initials>
+    <age>56</age>
+    <circumstances>Σ.Β. Γυναίκα 59 ετών Υ 1,67 Β61 -Χωρισμένη-2 κόρες και εγγόνια&#13;
+Ελεύθερη επαγγελματίας&#13;
+Πρώτη επίσκεψη 19 Μαίου 2015</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Εμμηνόπαυση από 4 ετίας.&#13;
+Ως κύριο σύμπτωμα τώρα προβάλλει ότι δεν μπορεί να συμβιβαστεί με την ιδέα της εμμηνόπαυσης. &#13;
+Την ενοχλεί το λίπος στην κοιλιά της που δεν υπήρχε (ΣΣ-είναι μια λεπτή γυναίκα με προσεγμένη και ελαφρώς προκλητική εμφάνιση). Αυτός είναι και ο λόγος που ο άλλος ομοιοπαθητικός της έδωσε το Lycopodium.&#13;
+Κουράζεται εύκολα.&#13;
+Ξηρότητα του κόλπου&#13;
+Πονοκέφαλοι</origin>
+        <causative_factors>--</causative_factors>
+        <modalities>--&#13;
+</modalities>
+        <occurrence_time>εφιδρώσεις επιδεινώνονται το καλοκαίρι</occurrence_time>
+        <body_side>--</body_side>
+        <appearence_frequency>Τώρα πιο σπάνιες εφιδρώσεις</appearence_frequency>
+        <pain_desc>Συχνοί πονοκέφαλοι -πρωί-Vertex-,&lt;με τον ήχο .Μετά τον πονοκέφαλο εκνευρισμός.</pain_desc>
+        <complaint_ext>---</complaint_ext>
+        <other_complaints>--</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Lonarid για τον πονοκέφαλο (συχνά)</conv_med_presc>
+        <lab_tests>
+          <desc>---</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΠΟΛΛΑ .   όσα θυμάται: Sepia, Nat.mur.,Pulsatilla,Lachesis&#13;
+Τώρα πέρνει Lycopodium 200ch μέρα παρά μέρα</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>όχι ιδιαίτερες θεραπείες-μία φορά πήρε πενικιλλίνη και έκανε αλλεργία οπότε τη σταμάτησε.&#13;
+Μόνο η αγωγή στο νοσοκομείο με τη μηνιγγοεγκεφαλίτιδα.&#13;
+Εμβόλια- τα υποχρεωτικά</therapies_vaccination>
+          <traumas>Δεν αναφέρει</traumas>
+          <infections>---</infections>
+          <other>Τελευταίος ψηλός πυρετός πριν 3-4 χρόνια.&#13;
+Όταν είχε σύντροφο ήθελε κάθε μέρα σεξ πάνω από μία φορά . Τώρα που δεν έχει σύντροφο όταν έχει επιθυμία αυνανίζεται.Αν είχε θα ήθελε συχνότερα επαφή .</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας -ΑΕΕ στα 50 του,αργότερα και  έμφραγμα&#13;
+Μητέρα -καρκίνος ωοθηκών&#13;
+Έχει άλλα 3 αδέρφια : μία αδερφή με μυελοϊνωση, έναν αδερφό ψυχιατρικό ασθενή και έναν αδερφό που αυτοκτόνησε</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει ,αλλά με τη ζέστη επιδεινώνεται</reactions>
+        <sleeping_habits>κφ   στο πλάι</sleeping_habits>
+        <food_modalities>Γενικά τρώει και πίνει μόνο επειδή πρέπει-Δεν μαγειρεύει. Δεν έχει ιδιαίτερες επιθυμίες ή απέχθειες.</food_modalities>
+        <menstruation>---</menstruation>
+      </physical>
+      <mental_emotional>Κόπωση , αδυναμία συγκέντρωσης και μνήμης 2,αισθάνεται χάλια λόγω μοναξιάς 2 και οικονομικής ανασφάλειας 2&#13;
+Δεν θέλει παρέα προτιμάει μόνη της 2&#13;
+Δεν θέλει παρηγοριά 2 και γενικά δεν μοιράζεται ποτέ τα προβλήματά της 2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Μαγουλάδες και μετά μηνιγγοεγκεφαλίτιδα πριν 23 χρόνια-νοσηλεία&#13;
+Όζοι θυρεοειδούς-έλεγχος αρνητικός για κακοήθεια. Έπερνε Τ4 αλλά πριν 3 χρόνια της είπαν να το διακόψει.&#13;
+Δεν έχει σωματική παθολογία.&#13;
+Τα συμπτώματά της είναι κυρίως ψυχοδιανοητικά.&#13;
+Κάνει ψηλό πυρετό κάθε 2-3 χρόνια.&#13;
+Μάλλον group A. Έχει πάρει πάρα πολλά ομοιοπαθητικά χωρίς ουσιαστικό αποτέλεσμα, αλλά δεν ξέρω κατά πόσο η τωρινή της εικόνα έχει επηρρεαστεί.&#13;
+</personal_medical_history>
+        <family_medical_history>Πατέρας ΑΕΕ σε μικρή ηλικία- η ίδια εγκεφαλίτιδα- αδερφός ψυχιατρικός-ο άλλος αυτοκτόνησε, γενικά μια έντονη προδιάθεση για διαταραχή στο ΚΝΣ από το φυσικό επίπεδο ,και στο διανοητικό επίπεδο. Η ίδια τώρα αισθάνεται κούραση όχι τόσο σωματικά αλλά κυρίως πνευματικά- νωθρότητα&#13;
+</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Διαταραχή στο διανοητικό επίπεδο και μάλιστα χαμηλά στην ιεράρχηση :Διανοητική νωθρότητα-αδυναμία συγκέντρωσης.&#13;
+Καθαρό φάρμακο.&#13;
+Καλό επίπεδο υγείας περιμένω αρχική επιδείνωση και παρατεταμένη βελτίωση.&#13;
+&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>καμιά φορά τα αντικείμενα και οι άνθρωποι της φαίνονται μικρότερα 2</peculiar>
+        <intense>Υπεροπτική 3&#13;
+Εγωίστρια 2&#13;
+όλοι οι άλλοι είναι κατώτεροί της 3&#13;
+δεν της αρέσει η παρηγοριά 2&#13;
+κλειστός χαρακτήρας 2&#13;
+μελαγχολία 2&#13;
+ευαισθησία στο θόρυβο 2&#13;
+περιφρονητική 2&#13;
+τάση για αυνανισμό 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENITALIA­FEMALE ­ DRYNESS ­ Vagina 2&#13;
+GENITALIA­FEMALE ­ MENOPAUSE (climacteric period, climax) 3&#13;
+HEAD ­ PAIN (headache) ­ morning 2&#13;
+HEAD ­ PAIN (headache) ­ Pressing ­ Vertex ­ noise agg. 2&#13;
+GENERALITIES ­ WEARINESS 2&#13;
+MIND ­ CONSOLATION ­ agg. 3&#13;
+MIND ­ HAUGHTY 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ warm drinks ­ desire 2&#13;
+GENERALITIES ­ EATING ­ after ­ amel. 2&#13;
+GENERALITIES ­ COLD ­ agg. 1&#13;
+MIND ­ DELUSIONS, hallucinations, illusions ­ superiority 2&#13;
+MIND ­ DELUSIONS, hallucinations, illusions ­ inferior, people seem mentally and physically ­ on entering house&#13;
+after a walk&#13;
+2&#13;
+MIND ­ CONTEMPTUOUS (scornful) 1&#13;
+MIND ­ DELUSIONS, hallucinations, illusions ­ inferior, people seem mentally and physically 1&#13;
+STOMACH ­ THIRSTLESS 2&#13;
+MIND ­ SENSITIVE, oversensitive ­ noise, to 2&#13;
+MIND ­ IRRITABILITY ­ pain in head (headache) ­ during 2&#13;
+MIND ­ RESERVED 3&#13;
+MIND ­ SADNESS, mental depression 2&#13;
+GENITALIA­FEMALE ­ MASTURBATION, disposition 2&#13;
+MIND ­ DELUSIONS, hallucinations, illusions ­ small ­ things ­ appear 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>έχει πολλά keynotes της  Platina.&#13;
+Το Natrum mur και η Sepia που ακολουθούν στο repertorization δεν ταιριάζουν καθόλου με την ψυχοδιανοητική εικόνα της ασθενούς</remedies_differentiation>
+      <prescription>
+        <remedy>Platina</remedy>
+        <potency>200 ch /1caps και 1Μ/1caps</potency>
+        <regimen>εφάπαξ πρωί - απόγευμα </regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-18 21:00:00</followup_date>
+      <conv_med_presc>Πήρε Platina 200/1Μ πριν 3 μήνες </conv_med_presc>
+      <lab_tests>
+        <desc>----</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την πρώτη εβδομάδα είχε τέτοια αφηρημάδα που δεν μπορούσε να δουλέψει. Ξεχνούσε τα ραντεβού  της , τις παραγγελίες, τα πράγματά της.&#13;
+Για 3 μήνες  τώρα πήγε πολύ καλά . Δεν είχε πια πονοκεφάλους, δεν την ενοχλούσε το σώμα της ,ήταν πιο αποδοτική στη δουλειά της .Ακόμη και η ξηρότητα του κόλπου ήταν καλύτερα</reaction>
+      <analysis>Αρχική επιδείνωση και μετά μεγάλη βελτίωση. Group A&#13;
+Καλή αντίδραση-καλή πρόγνωση&#13;
+Περιμένω.</analysis>
+      <conclusion>Σωστό φάρμακο . καλή πρόγνωση</conclusion>
+      <repertorization>
+        <desc>----</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα φάρμακο</remedy>
+        <potency>---</potency>
+        <regimen>---</regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL5dc0a1ee5d2ca517d4195d88c5f717e5</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>male</gender>
+    <patient_initials>Κ Α</patient_initials>
+    <age>55</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΟΣ 2 ΠΑΙΔΙΑ &#13;
+ΒΑΡΟΣ 112 ΚΓ &#13;
+ΥΨΟΣ 185&#13;
+ΥΠΑΛΛΗΛΟΣ ΔΕΗ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ 10 ΕΤΙΑ </origin>
+        <causative_factors>ΕΠΟΧΙΑΚΗ ΓΥΡΗ </causative_factors>
+        <modalities>ΣΚΟΝΗ - ΑΝΟΙΞΗ - ΥΠΝΟΣ   ( ΞΑΠΛΩΝΟΝΤΑΣ )AGG&#13;
+ΚΑΛΟΚΑΙΡΙ AMEL</modalities>
+        <occurrence_time>ΕΠΙΔΕΙΝΩΣΗ  ΡΙΝ . ΣΥΜΦΌΡΗΣΗ ΝΥΧΤΑ ΣΤΟΝ ΥΠΝΟ</occurrence_time>
+        <body_side>ΑΜΦΩ</body_side>
+        <appearence_frequency>ΚΑΘΕ ΧΡΟΝΟ</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>ΚΑΜΙΑ ΦΟΡΑ ΣΥΝΟΔΕΥΕΤΑΙ ΑΠΟ ΑΛΛ ΕΠΙΠΕΦΥΚΙΤΙΔΑ ΜΑ ΞΗΡΌΤΗΤΑ ΚΑΙ ΚΝΙΣΜΟ</complaint_ext>
+        <other_complaints>ΚΑΤΑ ΔΙΑΣΤΗΜΑΤΑ ΠΟΝΟΣ ΣΤΗΝ ΜΕΣΗ  ΠΟΥ ΒΕΛΤΙΩΝΕΤΑΙ ΜΕ ΤΗΝ ΚΙΝΗΣΗ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΧΡ ΑΛΛΕΡΓΙΚΗ  ΡΙΝΙΤΙΔΑ &#13;
+XOZAL &#13;
+NASONEX NASAL SPRY</conv_med_presc>
+        <lab_tests>
+          <desc>ENDOSKOPHSH  RINOS = ΥΠΕΡΠΛΑΣΙΑ  ΚΑΤΩ ΡΙΝΙΚΗΣ ΚΟΓΧΗΣ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΧΙ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΧΡ ΘΕΡΑΠΕΙΑ ΜΕ ΚΟΡΤΙΖΟΝΟΥΧΑ  ΓΙΑ ΑΛΛ ΡΙΝΙΤΙΔΑ</therapies_vaccination>
+          <traumas>ΟΥΔΕΝ</traumas>
+          <infections>ΟΧΙ</infections>
+          <other>ΥΠΟΤΡΟΠΙΑΖΟΥΣΕΣ ΛΟΙΜΩΞΕΙΣ ΑΝΩΤΕΡΟΥ ΑΝΑΠΝΕΥΣΤΙΚΟΥ  ΣΕ ΠΑΙΔΙΚΗ  ΗΛΙΚΙΑ ( ΣΥΧΝΑ ΘΕΡΑΠΕΙΑ ΜΕ ΑΒ )</other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ  ΑΠΕΒΙΩΣΕ  CA ΠΡΟΣΤΑΤΙ 87 ΕΤΩΝ &#13;
+ΜΗΤΕΡΑ ΖΕΙ   ΥΠΕΡΤΑΣΗ </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΑ ΠΟΔΙΑ ( ΚΟΙΜΑΤΑΙ ΜΕ ΚΑΛΤΣΕΣ )&#13;
+ΔΕΝ ΑΝΤΕΧΕΙ ΤΟΝ   ΗΛΙΟ </reactions>
+        <sleeping_habits> ΞΥΠΝΑΕΙ   ΚΟΥΡΑΣΜΕΝΟΣ&#13;
+ΣΥΝΗΘΩΣ  ΣΤΟ ΠΛΑΙ ΑΜΦΩ </sleeping_habits>
+        <food_modalities>DESS  :ΓΛΥΚΑ  (3)  ΑΥΓΟ ΜΕΛΑΤΟ (2) ΚΟΤΟΠΟΥΛΟ (3) ΛΙΠΟΣ (1)&#13;
+AVERS : ΦΕΤΑ (2) &#13;
+AGG : ΓΑΛΑ (2)  ΞΙΝΙΛΑ &#13;
+&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΡΓΑΤΙΚΟΣ (2)  ΣΧΟΛΑΣΤΙΚΟΣ (2) ΜΕΓΑΛΗ ΑΙΣΘΗΣΗ ΥΠΕΥΘΥΝΟΤΗΤΑΣ (3)  ΤΟΥ ΑΡΕΣΕΙ ΝΑ ΑΣΧΟΛΕΙΤΑΙ ΜΕ ΕΠΙΔΙΟΡΘΩΣΕΙΣ ΚΑΙ ΤΑ ΜΕΤΑΦΥΣΙΚΑ &#13;
+ΑΓΧΟΣ ΥΓΕΙΑΣ  (1)&#13;
+ΥΨΟΦΟΒΙΑ (1)&#13;
+ΠΡΟΣΒΑΛΕΤΑΙ ΕΥΚΟΛΑ (2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>ΥΠΟΤΡΟΠΙΑΖΟΥΣΕΣ ΛΟΙΜΩΞΕΙΣ ΑΝΩΤΕΡΟΥ ΑΝΑΠΝΕΥΣΤΙΚΟΥ  ΣΕ ΠΑΙΔΙΚΗ  ΗΛΙΚΙΑ ( ΣΥΧΝΑ ΘΕΡΑΠΕΙΑ ΜΕ ΑΒ )</personal_medical_history>
+        <family_medical_history>ΠΑΤΕΡΑΣ ΑΠΕΒΙΩΣΕ ΑΠΟ ΚΑΡΚΙΝΟ &#13;
+Ο ΑΔΕΛΦΟΣ ΤΟΥ ΒΑ </family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>ΑΣΘΕΝΗΣ ΜΕ ΕΛΑΧΙΣΤΑ ΣΩΜΑΤΙΚΑ - ΣΥΝΑΙΣΘΗΜΑΤΙΚΑ ΙΣΣΟΡΟΠΟΙΗΜΕΝΟΣ ΚΑΙ ΧΩΡΙΣ ΙΔΙΑΙΤΕΡΕΣ ΦΟΒΙΕΣ . &#13;
+Ο ΟΡΓΑΝΙΣΜΟΣ ΕΙΝΑΙ ΔΥΝΑΤΟΣ ( ΕΠΙ ΠΟΛΛΑ ΧΡΟΝΙΑ ΚΡΑΤΗΣΕ ΣΤΑΘΕΡΑ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΧΩΡΙΣ ΜΕΤΑΒΟΛΕΣ )</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΕΦΙΔΡΩΣΗ  ΣΤΗ ΙΝΙΑΚΗ ΠΕΡΙΟΧΗ ΕΙΔΙΚΑ ΤΟ ΚΑΛΟΚΑΙΡΙ (2)&#13;
+ΤΡΙΖΕΙ ΤΑ ΔΟΝΤΙΑ ΣΤΟΝ  ΥΠΝΟ (1)&#13;
+ΤΡΩΕΙ ΤΑ ΝΥΧΙΑ  (3)</peculiar>
+        <intense>ΕΝΤΟΝΗ  ΡΙΝΙΚΗ ΚΑΤΑΡΡΟΗ   ΚΑΙ ΣΥΜΦΟΡΗΣΗ  ΕΙΔΙΚΑ ΑΝΟΙΞΗ   3&#13;
+ΠΟΝΟΥΣ ΣΤΗΝ ΜΕΣΗ ΠΟΥ &lt; ΜΕ ΤΗΝ ΚΙΝΗΣΗ  1&#13;
+ΤΡΩΕΙ ΤΑ ΝΥΧΙΑ ΤΟΥ 2&#13;
+ΕΦΙΔΡΩΣΗ ΤΡΙΧΩΤΟ ΣΤΟΝ ΥΠΝΟ 2&#13;
+ΠΡΟΣΒΑΛΕΤΑΙ ΕΥΚΟΛΑ 3&#13;
+ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΟΣ 2&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ARSENICUM - ΔΕΝ ΕΧΕΙ ΦΟΒΟΥΣ ( ΟΥΤΕ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΟΥ ) ΔΕΝ ΕΙΝΑΙ ΑΝΑΣΦΑΛΗΣ  ΟΥΤΕ ΑΝΑΠΟΦΑΣΙΣΤΟΣ&#13;
+LYCOPODIUM - ΕΙΝΑΙ ΤΡΥΦΕΡΟΣ ΠΑΤΕΡΑΣ  . ΔΕΝ ΕΧΕΙ ΠΡΟΒΛΗΜΑ ΜΕ ΑΕΡΙΑ - ΤΥΜΠΑΝΙΣΜΟΥΣ </remedies_differentiation>
+      <prescription>
+        <remedy>CAL CARB </remedy>
+        <potency>1 M</potency>
+        <regimen>NR 1  PLB NR 45</regimen>
+        <other_notes>ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ 2 ΜΗΝΕΣ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>ΟΥΔΕΝ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΕ ΜΙΑ ΜΙΚΡΗ ΕΠΙΔΕΙΝΩΣΗ ( ΓΟΥΡΓΟΥΡΗΤΑ  ΚΑΙ ΥΠΝΗΛΙΑ ΓΙΑ 2 ΩΡΕΣ ) ΜΕΤΑ ΒΕΛΤΙΩΣΗ ΣΗΜΑΝΤΙΚΗ ΣΤΗΝ ΑΝΑΠΝΟΗ ΚΑΙ ΣΤΟΝ  ΥΠΝΟ </reaction>
+      <analysis>ΠΟΛΥ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ </analysis>
+      <conclusion>ΣΩΣΤΟ ΦΑΡΜΑΚΟ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>PLB NR 30</remedy>
+        <potency>MH ΔΗΝΑΜΟΠΟΙΗΜΕΝΟ</potency>
+        <regimen>MERA PARA MERA </regimen>
+        <other_notes>ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ ΕΞΑΡΣΗ </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>ΔΕΝ ΠΑΙΡΝΕΙ ΚΑΜΙΑ ΦΑΡΜΑΚΕΥΤΙΚΗ  ΑΓΩΓΗ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΕΤΑ ΤΟ CAL CARB Ο ΑΣΘΕΝΗΣ ΗΤΑΝ ΠΑΡΑ ΠΟΛΥ ΚΑΛΑ ΣΕ ΟΛΑ ΤΑ ΕΠΙΠΕΔΑ .&#13;
+ΑΠΟ ΣΗΜΕΡΑ ΑΝΑΦΕΡΕΙ ΕΝΤΟΝΟ ΠΟΝΟ ΑΡ ΩΜΟΥ ΜΕΤΑ ΑΠΟ ΑΛΛΑΓΗ  ΤΟΥ ΚΑΙΡΟΥ .&#13;
+Ο ΠΟΝΟΣ ΧΕΙΡΟΤΕΡΕΥΕΙ ΤΗΝ ΝΥΧΤΑ ΚΑΙ ΑΝΑΓΚΑΖΕΙ ΤΟΝ ΑΣΘΕΝΗ ΝΑ ΑΛΛΑΖΕΙ ΣΥΝΕΧΩΣ ΘΕΣΗ ΣΤΟΝ ΥΠΝΟ. &#13;
+ΤΟ ΠΡΩΙ Ο ΠΟΝΟΣ ΕΝΤΟΝΟΤΕΡΟΣ ΜΕ ΤΗΝ ΠΡΩΤΗ ΚΙΝΗΣΗ ΚΑΙ ΜΕΤΑ ΑΠΟ ΤΙΣ ΠΡΩΤΕΣ ΩΡΕΣ ΚΑΠΩΣ ΚΑΛΥΤΕΡΑ . ΒΕΛΤΙΩΣΗ ΜΕ ΖΕΣΤΑ ΕΠΙΘΕΜΑΤΑ ΚΑΙ ΧΕΙΡ ΜΕ ΚΡΥΟ ΚΑΙ ΥΓΡΑΣΙΑ </reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>ΤΟ RHUSTOX  ΕΙΝΑΙ ΣΥΜΠΛΗΡΩΜΑΤΙΚΟ  ΤΗΣ CAL CARB  ΚΑΙ ΠΙΣΤΕΥΩ ΟΤΙ ΘΑ ΔΡΑΣΗ ΣΕ ΑΥΤΟ ΤΟ ΟΞΥ ΠΡΟΒΛΗΜΑ .</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>RHUSTOX </remedy>
+        <potency>200 CH   NR 3</potency>
+        <regimen>ΚΑΘΕ ΜΕΡΑ  ΓΙΑ 3 ΜΕΡΕΣ </regimen>
+        <other_notes>ΜΕΤΑ ΑΠΟ 5  ΩΡΕΣ   ΑΠΟ ΤΗΝ ΛΥΨΕΙ ΤΟΥ ΦΑΡΜΑΚΟΥΟ ΑΣΘΕΝΗΣ ΜΕ ΠΗΡΕ ΤΗΛ   ΚΑΙ ΜΟΥ ΕΙΠΕ ΟΤΙ ΗΤΑΝ ΠΟΛΥ ΚΑΛΥΤΕΡΑ  ΑΛΛΑ ΟΧΙ ΕΝΤΕΛΩΣ ΚΑΛΑ .&#13;
+ΠΗΡΕ ΑΛΛΕΣ ΔΥΟ ΜΕΡΕΣ ΑΠΟ 1 RHUSTOX 200 ΚΑΙ ΕΚ ΤΟΤΕ ΕΙΝΑΙ ΜΙΑ ΧΑΡΑ </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

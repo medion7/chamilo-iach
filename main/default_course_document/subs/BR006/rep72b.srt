@@ -1,0 +1,1531 @@
+1
+00:00:25,040 --> 00:00:37,160
+É um problema, eu admiti e falaremos agora sobre as possíveis soluções, as possíveis ferramentas que estão presentes para encontrar novamente a informação.
+
+2
+00:00:38,645 --> 00:00:46,460
+Antes de tudo, vocês estão cientes que o Repertório está estruturado em capítulos dentro de um capítulo, em ordem alfabética. Eles apresentam as modalidades, extensões e tudo mais. Vocês sabem disso.
+
+3
+00:00:46,560 --> 00:01:04,203
+Eu não preciso explicá-los que o objetivo da estrutura do Repertório é encontrar novamente as informações. Eu deixarei isso, a não ser que vocês tenham dúvidas.
+
+4
+00:01:05,547 --> 00:01:29,355
+A segunda maneira de ajudar os usuários do Repertório a encontrarem a informação, é pela linguagem padronizada.
+
+5
+00:01:31,253 --> 00:01:38,976
+Com isso nós queremos dizer que se vocês estão falando e têm um sintoma enquanto falam, ele não será registrado assim no Repertório.
+
+6
+00:01:40,384 --> 00:01:51,563
+Mas será registrado como conversa. No Repertório, nós não falamos, nós conversamos. Vocês entendem o que estou tentando dizer?
+
+7
+00:01:52,800 --> 00:02:01,600
+O número de palavras são limitados, nós não usamos todos os sinônimos da fala. Nós sempre utilizamos a conversa.
+
+8
+00:02:03,061 --> 00:02:18,997
+Um outro exemplo: quando alguém está melhor em uma posição, uma ação, nós dizemos melhora. Nós não dizemos: "Estou melhor por, aliviado por..." não. Nós dizemos: "Melhora."
+
+9
+00:02:20,064 --> 00:02:26,464
+Dessa forma, a linguagem está padronizada.
+
+10
+00:02:28,107 --> 00:02:37,429
+No Repertório de Kent, a linguagem está menos padronizada e em casa versão subsequente do Synthesis, nós temos linhas de (?), a linguagem do Repertório, um pouco mais.
+
+11
+00:02:38,731 --> 00:02:48,032
+E podemos ainda mais (?), nós precisamos fazer isso. Mas é uma tarefa tão grande que é uma tarefa contínua.
+
+12
+00:02:49,440 --> 00:02:56,757
+Até aqui, este é o trabalho de quem insere os sintomas.
+
+13
+00:02:59,403 --> 00:03:11,477
+Mas para as pessoas que buscam, nós temos realmente diferentes possibilidades no nível da linguagem e a primeira, como sabem, são os sinônimos.
+
+14
+00:03:14,485 --> 00:03:22,272
+Dessa forma, abandonado é um sinônimo de desolado. Vocês veem isso na tela.
+
+15
+00:03:23,253 --> 00:03:38,293
+Isso significa que não adicionamos remédios, não (?) rubricas para abandonado sempre que quisermos expressar algo sobre o abandono. Nós adicionaremos o desolado porque dentro do Repertório o contexto é o mesmo.
+
+16
+00:03:38,763 --> 00:03:53,056
+Obviamente sempre terá alguém que dirá: "Sim, mas abandonado e desolado para mim há uma diferença, pois se a pessoa está desolada, as feridas são mais profundas e..."
+
+17
+00:03:53,675 --> 00:04:05,536
+Essa será uma explicação, mas em geral, nós tentamos ter sinônimos e eu gostaria de dizer que precisamos tentar cada vez mas os sinônimos, não diferenciá-los muito.
+
+18
+00:04:06,368 --> 00:04:13,771
+Pois caso contrário, vocês se tornarão muito dependentes de encontrarem as palavras corretas.
+
+19
+00:04:14,560 --> 00:04:24,309
+Mas eu admito que de fato, é uma questão de discussão, praticamente uma questão de gosto, se duas palavras são consideradas sinônimos ou não.
+
+20
+00:04:25,141 --> 00:04:37,792
+E se não forem consideradas sinônimos, elas serão o que chamamos de referências cruzadas.
+
+21
+00:04:38,667 --> 00:04:49,703
+Ciúme e inveja são referências cruzadas. Talvez algumas pessoas dirão que ciumento e invejoso são mais ou menos a mesma coisa. Eles colocariam como sinônimos.
+
+22
+00:04:49,803 --> 00:04:58,613
+Mas na linguagem do Repertório, a qual é um pouco diferente da linguagem natural, eu devo dizer, vocês sabem que temos definido uma diferença entre ciúme e inveja.
+
+23
+00:04:59,787 --> 00:05:09,984
+Alguém poderia me explicar, ciúme e inveja?
+
+24
+00:05:16,320 --> 00:05:23,222
+-Eu não sei se estou correto, mas talvez o ciúme seja mais em direção ao amante ou algo do tipo e a inveja é
+
+25
+00:05:23,322 --> 00:05:28,123
+se você ver alguém que tenha coisas boas e você tem ciúmes disso. Isso é o que eu pensaria.
+
+26
+00:05:29,440 --> 00:05:35,036
+-Sim, está perfeito. O ciúme está em um nível emocional e a inveja está no nível material.
+
+27
+00:05:35,136 --> 00:05:42,624
+Dessa forma, fazemos uma distinção clara entre ciúme e inveja, mas elas são referências cruzadas porque às vezes correm juntas,
+
+28
+00:05:42,724 --> 00:05:50,112
+às vezes vocês poderão querer combinar as rubricas em uma, uma rubrica nova, maior, etc.
+
+29
+00:05:56,107 --> 00:06:16,992
+Vocês veem no Repertório, se escreverem abandonado no Radar, é suficiente pressionar o "enter" no teclado para acertá-lo e vocês saltarão para desolado.
+
+30
+00:06:17,920 --> 00:06:26,507
+Portanto, eu acerto e estou em desolado no Repertório. Dessa forma, vocês saltam.
+
+31
+00:06:30,091 --> 00:06:35,979
+Dessa vez eu falarei em inglês, pois eu devo usar os exemplos da linguagem.
+
+32
+00:06:39,243 --> 00:06:47,015
+Da mesma forma, se vocês observarem uma referência cruzada, eu espero que estejam conscientes desse sentimento de abandono, vocês querem buscar por desejo de companhia,
+
+33
+00:06:47,115 --> 00:06:55,095
+vocês clicam em desejo por companhia duas vezes, clica o botão esquerdo e estão em desejo por companhia.
+
+34
+00:06:56,907 --> 00:07:05,856
+Dessa forma, existem saltos no livro, como vocês veem é mais fácil no software saltar para locais diferentes para refletir nos remédios, nos significados
+
+35
+00:07:05,956 --> 00:07:14,805
+e decidir pela rubrica correta dentro das referências cruzadas e considerando os sinônimos.
+
+36
+00:07:15,893 --> 00:07:18,923
+Portanto, este é um nível.
+
+37
+00:07:20,075 --> 00:07:29,489
+É claro que existe um problema, pois qualquer sintoma que queiram buscar no Repertório...
+
+38
+00:07:29,589 --> 00:07:36,928
+Vamos supor que tenham o livro, apenas o livro, qual é a primeira coisa que precisam fazer?
+
+39
+00:07:37,803 --> 00:07:52,757
+É decidir em qual capítulo se encontra. Às vezes é fácil, se eu tiver uma coceira na no ouvido, eu devo procurar, estará no meu nariz e vice-versa.
+
+40
+00:07:53,184 --> 00:07:59,712
+Mas às vezes é realmente difícil e é praticamente uma decisão arbitrária em qual capítulo está o (?).
+
+41
+00:08:00,680 --> 00:08:16,401
+Dessa forma, estamos dependentes de uma estrutura, capítulos, etc., ordem alfabética, modalidades, etc. para encontrarmos o sintoma e aqui há uma função que está disponível em todos os softwares,
+
+42
+00:08:16,501 --> 00:08:23,328
+que vocês conseguem procurar os sintomas com as palavras-chaves.
+
+43
+00:08:26,400 --> 00:08:39,243
+Palavra-chave refere-se à uma palavra que é chave. Portanto, o (?) que estava armazenando e vocês retiram a palavra, a qual é a chave.
+
+44
+00:08:40,352 --> 00:08:49,355
+Eu mostrarei alguns exemplos em inglês a vocês, mas é exatamente a mesma coisa em alemão, vocês poderão tentar isso para qualquer palavra em alemão.
+
+45
+00:08:50,464 --> 00:09:17,109
+O que vocês precisam fazer para usarem essa ferramenta pelo menos nesse programa, vocês digiram uma "?" e em seguida digita, por exemplo, a palavra "ronco".
+
+46
+00:09:17,621 --> 00:09:31,381
+Pois a sua sogra está roncando o tempo todo e você não sabe se deve ir e olhar na rubrica "nariz" ou (?) ou "enfermidades da mente" ou qualquer outra coisa.
+
+47
+00:09:31,936 --> 00:09:38,955
+Você não sabe onde buscar por ronco. Mas você sabe que a palavra-chave é "ronco."
+
+48
+00:09:39,509 --> 00:09:58,411
+Dessa forma, você digita "? ronco" e em seguida, você obtém uma lista de 9 sintomas e você vê que existe um grande sintoma, com 59 remédios que (?) se encontra no capítulo "Respiração."
+
+49
+00:10:00,480 --> 00:10:06,901
+E assim, encontra um sintoma utilizando uma palavra.
+
+50
+00:10:08,864 --> 00:10:16,392
+Eu dou um outro exemplo. Vocês se lembram que nesta manhã eu não consegui encontrar o sintoma e todo mundo estava olhando para mim
+
+51
+00:10:16,492 --> 00:10:23,920
+e eu fiquei muito nervoso e então eu não encontrei o sintoma, eu devo dizer.
+
+52
+00:10:24,440 --> 00:10:32,843
+Mas eu sabia que o sintoma existia. E assim, eu posso utilizar a mesma ferramenta para encontrar o sintoma.
+
+53
+00:10:33,717 --> 00:10:43,531
+(?) Arsenicum, sim eu conheço o Arsenicum melhor, é um outro remédio que apresenta o sintoma de uma forma muito proeminente e é (?) um pouco diferente.
+
+54
+00:10:44,440 --> 00:11:14,421
+Dessa forma, o que eu farei, eu digito "?", digito "morte" e (?). Neste momento, o programa encontrará para mim todos os sintomas que contêm a palavra "morte", onde quer que estejam na estrutura do Repertório.
+
+55
+00:11:18,795 --> 00:11:36,672
+E assim, vocês veem 5 sintomas. O primeiro começa com "morte quando sozinho". E este é o remédio que eu queria que vocês encontrassem.
+
+56
+00:11:45,867 --> 00:12:04,988
+-Nós temos uma outra forma de chegar a esse resultado. Nós sempre fizemos assim, é melhor do seu jeito. Quando você clica neste ícone...
+
+57
+00:12:05,088 --> 00:12:23,627
+-E então, a Miriam estava clicando em um ícone quando ela estava em Israel. Agora que ela esteve em Alonissos, ela digitará a "?" porque ela sente que é melhor.
+
+58
+00:12:25,163 --> 00:12:35,403
+Se você encontrar algo melhor, mude. Alguém gosta de clicar nos ícones, ela poderá clicar nos ícones.
+
+59
+00:12:37,728 --> 00:12:42,940
+-Eu não entendi como consigo a "?". Você simplesmente o coloca ou você tem...
+
+60
+00:12:43,040 --> 00:12:45,429
+-Você digita a "?"
+-Sem mais nada?
+
+61
+00:12:54,389 --> 00:13:07,381
+-Quando você digita a "?", é isso que aparece. É apenas a forma como funciona.
+
+62
+00:13:09,429 --> 00:13:16,720
+E assim, uma palavra para encontrar um sintoma. Tenha cuidado porque eu farei uma pergunta a você depois disso.
+
+63
+00:13:18,688 --> 00:13:26,009
+Nós iremos um passo adiante. E então, a busca pela palavra-chave é um grande passo à frente
+
+64
+00:13:26,109 --> 00:13:33,329
+relacionado aos softwares homeopáticos ou também de alguma forma a alguns livros, como (?) o Índice do Repertório.
+
+65
+00:13:33,429 --> 00:13:40,071
+Vocês conhecem este livro? Índice do Repertório? É um livro grande, quase igual ao próprio Repertório.
+
+66
+00:13:40,171 --> 00:13:45,205
+Ele tem as palavras-chaves e atrás de cada palavra-chave, estão todas as páginas em que aparecem.
+
+67
+00:13:45,760 --> 00:13:53,227
+É claro que em um software, quando vocês veem imediatamente o resultado, é mais fácil.
+
+68
+00:13:54,400 --> 00:14:02,840
+Mas a palavra-chave "buscar" no Repertório e o software fazem isso, é um grande passo à frente, pois não precisamos mais de estruturar.
+
+69
+00:14:03,787 --> 00:14:10,485
+Podemos encontrar o sintoma independentemente da estrutura.
+
+70
+00:14:11,701 --> 00:14:15,627
+O próximo passo para ajudá-los a encontrarem os sintomas é que estivemos cientes de que com os sinônimos,
+
+71
+00:14:15,727 --> 00:14:19,552
+com mais referências cruzadas, com a busca pela palavra-chave, com os sinônimos gramaticais,
+
+72
+00:14:32,501 --> 00:14:40,608
+com os sinônimos da linguagem geral, etc. ainda assim mais ferramentas serão necessárias para encontrar os sintomas.
+
+73
+00:14:41,547 --> 00:14:57,781
+E é por isso que introduzimos os conceitos relacionados ao Synthesis desta vez, há cerca de 2-3 anos.
+
+74
+00:15:03,349 --> 00:15:22,016
+Um conceito é uma ideia e é como uma caixa. Nos conceitos na caixa estão os sintomas do Repertório que expressam a ideia e assim, é um conceito.
+
+75
+00:15:22,848 --> 00:15:28,224
+Dessa forma, vocês têm um conceito de várias formas, de maneiras diferentes.
+
+76
+00:15:29,056 --> 00:15:36,849
+Eu não expandirei muito e os deixarei descobrirem por si depois disso e é apenas para dar alguns exemplos.
+
+77
+00:15:42,005 --> 00:15:58,219
+Alguém perguntou sobre a gravidez. Reestruture o Repertório e crie um capítulo "Gravidez". Bem, é possível fazer isso mas com com os conceitos, nós temos outra ferramenta.
+
+78
+00:15:59,051 --> 00:16:10,961
+Pois é como uma teia de aranha sobre o Repertório que segura juntos os sintomas de partes bem diferentes, com significados bem diferentes
+
+79
+00:16:11,061 --> 00:16:16,721
+fizeram-no muito mais separado do que as referências cruzadas.
+
+80
+00:16:16,821 --> 00:16:24,395
+Em uma referência cruzada, vocês têm dois sintomas que estão relacionados. Em um conceito, vocês poderão ter muito sintomas que não estejam relacionados de forma alguma
+
+81
+00:16:24,821 --> 00:16:29,749
+entre si, mas que pertençam apenas à mesma ideia.
+
+82
+00:16:30,267 --> 00:16:37,643
+Eu darei alguns exemplos para que entendam mais facilmente.
+
+83
+00:16:38,440 --> 00:16:50,919
+Para ter acesso às palavras-chaves, nós usamos uma "?". Para ter acesso aos conceitos, usamos duas "??"
+
+84
+00:16:51,019 --> 00:16:55,584
+Nós fizemos isso, especialmente para as pessoas de Israel.
+
+85
+00:16:56,736 --> 00:17:15,872
+E então, eu digito duas "?? gravidez" e em seguida obtenho uma lista de conceitos, como podem ver, por Zulian e Fonseca há um conceito "gravidez".
+
+86
+00:17:16,853 --> 00:17:31,595
+E se eu clicar no livrinho aqui que é um ícone para Synthesis, eu verei todos os sintomas que estão relacionados à gravidez.
+
+87
+00:17:32,469 --> 00:17:39,836
+Raiva durante a gravidez, ansiedade-gravidez, aversão à companhia-gravidez, delírio após aborto...
+
+88
+00:17:39,936 --> 00:17:44,337
+E assim, a palavra gravidez não precisa estar presente o tempo todo.
+
+89
+00:17:44,437 --> 00:17:48,945
+Desespero durante o parto, novamente não é uma palavra buscada, não é uma busca pela palavra-chave.
+
+90
+00:17:49,045 --> 00:18:00,608
+Medo de ameaça de aborto e tristeza após o desaparecimento do leite.
+
+91
+00:18:02,187 --> 00:18:10,955
+Você percebe que os sintomas não estão com a presença da palavra "gravidez". É simplesmente qualquer coisa que tenha a ver com a gravidez.
+
+92
+00:18:11,808 --> 00:18:17,547
+E assim, é o que chamamos de identidade, o conceito da gravidez.
+
+93
+00:18:19,552 --> 00:18:27,445
+É um exemplo dos conceitos. O conceito poderá ser usado para outros pontos bastante interessantes.
+
+94
+00:18:28,427 --> 00:18:38,261
+Talvez você tenha na sua família alguém que tenha a doença de Alzheimer.
+
+95
+00:18:39,755 --> 00:18:51,019
+É difícil utilizá-la da forma homeopática. Seria mais fácil dizer que existe uma rubrica Alzheimer - generalidades, 25 remédios.
+
+96
+00:18:51,957 --> 00:19:01,479
+Mas você acredita, como um homeopata bem formado, que é tão fácil que você simplesmente vai lá e olha para os 25 remédios para o Alzheimer, você dá e está tudo consertado?
+
+97
+00:19:04,565 --> 00:19:16,021
+Você precisa tomar o caso e ser bastante preciso. Dessa forma, esses são os sintomas homeopáticos que poderá aplicar, se utilizar o Alzheimer.
+
+98
+00:19:17,792 --> 00:19:33,344
+E então eu digito ??Alzheimer, o que quer dizer que eu busco pela ideia, pelo conceito Alzheimer e em seguida, o programa me mostra uma
+
+99
+00:19:34,176 --> 00:19:53,681
+caixa aqui. Eu clico nela e eu vejo 24 sintomas de todo o Repertório, mente e outros, discurso indistinto. Ah, sim. Ok.
+
+100
+00:19:53,781 --> 00:20:02,912
+E assim, você encontra os sintomas homeopáticos que não sabia a respeito quando estava considerando o Alzheimer.
+
+101
+00:20:03,936 --> 00:20:18,848
+Como este, nós temos no Radar 180 conceitos de doenças diferentes e cada doença é um conceito, uma caixa e contém 10, 20, 30, 40 sintomas
+
+102
+00:20:19,701 --> 00:20:25,355
+que são interessantes para serem pensados ou perguntados a respeito, quando tiverem um caso com essa doença.
+
+103
+00:20:32,864 --> 00:20:37,329
+Dessa forma, esses são os conceitos das doenças, apenas para dar um outro exemplo do que pode ser um conceito.
+
+104
+00:20:37,429 --> 00:20:49,675
+E assim, existe essa teia de aranha da doença de Alzheimer e em todo o Repertório, ele retira todos os sintomas relacionados ao Alzheimer.
+
+105
+00:20:57,717 --> 00:21:09,800
+-A partir de qual versão isso funciona?
+-Da 7a em diante.
+
+106
+00:21:21,589 --> 00:21:30,592
+Enfim, sobre o lado técnico, eu olharei no intervalo. Deixe-me explicar primeiramente a ideia dos conceitos e este novo acesso ao Repertório.
+
+107
+00:21:33,515 --> 00:21:40,839
+Estes são os conceitos diferentes, o Radar e doenças agudas eu explicarei a vocês.
+
+108
+00:21:51,392 --> 00:22:05,792
+Nós temos os conceitos Fonseca. Eu explicarei os conceitos Fonseca. Dois brasileiros fizeram um grande trabalho em "Mente".
+
+109
+00:22:06,624 --> 00:22:12,647
+Frequentemente é difícil encontrar o sintoma mental correto.
+
+110
+00:22:12,747 --> 00:22:17,063
+O que eles fizeram, eles apresentam abordagens diferentes, mas eu falarei sobre um grupo análogo.
+
+111
+00:22:17,163 --> 00:22:28,192
+Basicamente eles dividiram todos os sintomas mentais em 3 grupos analógicos, conceitos.
+
+112
+00:22:29,173 --> 00:22:40,032
+Em um grupo, todos os sintomas relacionados aos outros, todos os sintomas relacionados à própria pessoa e todos os sintomas relacionados ao ambiente.
+
+113
+00:22:41,056 --> 00:22:47,776
+E assim, você está buscando por um sintoma mental, mesmo se não souber qual palavra buscar e dessa forma, a busca pela palavra-chave você não sabe.
+
+114
+00:22:48,843 --> 00:23:04,288
+Mas você sabe que este sintoma está relacionado à própria pessoa. E então, você seleciona o conceito, a caixa "sintomas mentais relacionados a ele mesmo".
+
+115
+00:23:04,800 --> 00:23:13,803
+Você desce um passo e nesta caixa você tem uma outra série de caixas, sub-conceitos.
+
+116
+00:23:24,491 --> 00:23:31,111
+Estamos em Synthesis, eu explicarei como começá-lo, como entrar neste Repertório.
+
+117
+00:23:37,312 --> 00:23:50,475
+Busca e na base você tem Encontrar Conceitos. Eu perdi os ícones agradáveis, mas enfim.
+
+118
+00:23:55,019 --> 00:24:12,661
+E assim, eu seleciono Fonseca. Buscar, Encontrar Conceitos. Você está aqui e eu voltarei ao meu grupo análogo, relacionado a ele mesmo.
+
+119
+00:24:13,451 --> 00:24:20,412
+E assim, eles criaram sub-conceitos, os grupos dos sintomas relacionados à própria pessoa.
+
+120
+00:24:20,512 --> 00:24:28,533
+Morte, saúde, intelecto... etc. Eu apenas darei um exemplo para verem como funciona.
+
+121
+00:24:31,520 --> 00:24:35,324
+Eu apenas clico na escolha que fiz.
+
+122
+00:24:35,424 --> 00:24:47,392
+E então, se o sintoma estiver relacionado a ele, eu clico em relacionado a ele.
+
+123
+00:24:49,464 --> 00:24:55,669
+-Eu não entendo como você o obteve? Eu apenas fui para análogo, ilusões...
+
+124
+00:24:56,800 --> 00:25:11,819
+-Você clica no grupo análogo. Para obter algo, você deve clicar em cima. É uma regra muito importante em todos os programas de computadores.
+
+125
+00:25:12,331 --> 00:25:22,208
+Seleciona a palavra e clica nela. Eles são processadores. No Radar, você quer informação sobre algo, clica em cima.
+
+126
+00:25:24,939 --> 00:25:35,733
+Enfim, para obter os grupos análogos, clique nele. Para obter todos relacionados a ele, clique aqui.
+
+127
+00:25:36,331 --> 00:25:46,144
+E assim, há um grupo, por exemplo, da auto-estima, é um sintoma relacionado à auto-estima
+
+128
+00:25:46,699 --> 00:25:55,253
+e você vê novamente um grupo de sub-caixas, é a auto-estima baixa, é egoísmo, poderá ser hiper ou hipo
+
+129
+00:25:55,723 --> 00:25:57,152
+portanto, ele dividiu toda a mente em conceitos e sub-conceitos.
+
+130
+00:25:59,051 --> 00:26:08,032
+E você pode rolar para baixo, descer na hierarquia, ir para a auto-estima baixa,
+
+131
+00:26:08,132 --> 00:26:17,013
+por exemplo, descontente consigo mesmo, auto-depreciação e em seguida não terá mais caixas.
+
+132
+00:26:18,827 --> 00:26:30,795
+E então você diz Ok e tem a caixa da auto-depreciação e uma lista de 16 sintomas do Repertório que expressam a auto-depreciação.
+
+133
+00:26:31,733 --> 00:26:39,548
+Você sabia sobre a raiva sobre os erros e raiva consigo mesmo, talvez você tivesse em mente o descontentamento consigo mesmo,
+
+134
+00:26:39,648 --> 00:26:56,352
+pois é uma rubrica grande, mas quando você rola para baixo, você vê briguento consigo e um sintoma interessante que nunca vi anteriormente, de tristeza, sentindo-se supérfluo.
+
+135
+00:26:58,677 --> 00:27:06,869
+Mas é parte do conceito e então, essa é a forma pela qual eu consigo encontrar o sintoma que era completamente desconhecido para mim, até mesmo as palavras eram desconhecidas para mim.
+
+136
+00:27:07,659 --> 00:27:13,745
+Eu tenho uma ideia relacionada e com os conceitos que obtenho lá.
+
+137
+00:27:13,845 --> 00:27:27,584
+Vamos continuar. Você disse sentindo-se supérfluo, esse é muito próximo, mas talvez você queira descobrir se consegue encontrar um sintoma que seja ainda mais próximo.
+
+138
+00:27:28,843 --> 00:27:40,412
+Se você precisa de uma ideia, clica na lâmpada e obtém uma outra ideia interessante,
+
+139
+00:27:40,512 --> 00:27:48,113
+pois aqui você chegou à rubrica de tristeza, de sentindo-se supérfluo e veremos que ele está relacionado a um número de conceitos
+
+140
+00:27:49,472 --> 00:28:00,757
+que acabamos de olhar, auto-estima baixa, etc. mas também compromisso com responsabilidade.
+
+141
+00:28:01,675 --> 00:28:08,800
+E talvez você queira buscar uns outros sintomas de responsabilidade.
+
+142
+00:28:09,632 --> 00:28:28,683
+E assim, você encontra 23 sintomas que agora estão relacionados ao supérfluo de alguma forma e você decide que finalmente o sintoma real é embotamento por cuidados do seu negócio.
+
+143
+00:28:32,800 --> 00:28:39,520
+Portanto, não é uma teia que está sobre o Repertório, mas muitas teias de aranha, é realmente assustador, vocês sabem?
+
+144
+00:28:40,736 --> 00:28:48,693
+E você pode saltar de uma teia à outra. Você simplesmente precisa se lembrar de clicar na lâmpada, ela o leva para os conceitos.
+
+145
+00:28:50,123 --> 00:28:55,712
+Você clica no ícone Synthesis, ele o leva aos sintomas dos conceitos do Repertório.
+
+146
+00:28:56,565 --> 00:29:00,512
+E assim você poderá percorrer o Repertório.
+
+147
+00:29:01,493 --> 00:29:08,128
+Antes de dá-los um pequeno exercício, existe alguma dúvida sobre isso?
+
+148
+00:29:11,093 --> 00:29:16,661
+E assim, seguiremos adiante imediatamente com o exercício.
+
+149
+00:29:17,667 --> 00:29:24,832
+-Eu (?) o Radar 7.3 e portanto, eu não consigo fazer nada disso.
+
+150
+00:29:25,515 --> 00:29:27,605
+-É melhor ir para casa.
+
+151
+00:29:28,437 --> 00:29:32,021
+-Não, eu quero dizer, estou dizendo e talvez seja o caso das outras pessoas.
+-Enfim.
+
+152
+00:29:32,960 --> 00:29:46,400
+O ponto é que está disponível a partir da versão 7. Mas para o exercício que darei a vocês, poderão usar todos esses.
+
+153
+00:29:46,997 --> 00:29:52,352
+Aqueles que tiverem os conceitos, eles terão o prazer de brincarem com os conceitos mas, é claro, se não tiver, o que poderei dizer?
+
+154
+00:29:53,035 --> 00:30:01,995
+Eu posso apenas dizer que desenvolvemos e acredito que seja por volta de 3000 conceitos diferentes, 3000 teias de aranha diferentes no Repertório
+
+155
+00:30:03,445 --> 00:30:08,672
+e assim que souberem como utilizá-lo, é realmente fantástico.
+
+156
+00:30:19,275 --> 00:30:26,037
+Como eu consigo isso? De onde eu vim? Eu clico na lâmpada. Dessa forma, no Radar é fácil, você clica em uma lâmpada para ter uma ideia
+
+157
+00:30:26,699 --> 00:30:30,780
+você clica no ícone Synthesis para ter os sintomas do Repertório. Isso é o básico.
+
+158
+00:30:30,880 --> 00:30:43,445
+-...quem tem todo o programa, existe uma possibilidade de preenchê-lo com coisas novas ou apenas fica preso na versão antiga?
+
+159
+00:30:44,192 --> 00:30:56,508
+-Nunca acredite no fim da linha. O que chamamos neste caso de computação técnica, para não acreditar no fim da linha, ele é chamado de upgrade.
+
+160
+00:30:56,608 --> 00:31:01,963
+Portanto, você pode realizar o upgrade.
+
+161
+00:31:03,029 --> 00:31:12,309
+Essa é uma característica boa. Agora eu darei um exercício sobre como encontrar os sintomas no Repertório, mesmo se tiverem apenas o livro, poderão fazer o exercício.
+
+162
+00:31:13,397 --> 00:31:19,392
+Eu apenas digo a vocês o que está disponível hoje, eu acho que é um grande salto para ajudar as pessoas a encontrarem os sintomas,
+
+163
+00:31:19,492 --> 00:31:25,387
+mas independentemente dos meios que tiverem, agora começarão a busca pelo sintoma.
+
+164
+00:31:32,149 --> 00:31:44,224
+Vocês imaginam alguém que conheçam muito bem, uma criança, a sogra, um vizinho, o chefe...
+
+165
+00:31:44,971 --> 00:31:53,824
+e o que precisam saber sobre essa pessoa, é um medo, um medo que apresentam.
+
+166
+00:31:54,891 --> 00:31:58,837
+E assim, eles contam uma história... "Eu tenho medo..." mas ele deverá ser concreto. Vocês deverão conhecer a pessoa, não apenas imaginá-la,
+
+167
+00:32:03,403 --> 00:32:13,408
+pois (?) será para interrogá-lo sobre o medo de, vamos dizer, o seu filho.
+
+168
+00:32:14,155 --> 00:32:27,232
+O que eu gostaria que vocês fizessem e que se ajudassem é encontrar uma ou talvez duas ou três rubricas que expressam este medo na linguagem do Repertório.
+
+169
+00:32:28,683 --> 00:32:37,749
+E se vocês se depararem com um medo ou um aspecto do medo, nos quais vocês dizem: "Eu não sei onde encontrá-lo no Repertório",
+
+170
+00:32:37,849 --> 00:32:42,187
+anotem e isso será uma pergunta.
+
+171
+00:32:44,363 --> 00:32:56,224
+Mas agora, por favor imaginem uma pessoa que conheçam muito bem, ele/ela tem medo, talvez seja medo de um animal, por que não?
+
+172
+00:32:57,035 --> 00:33:05,760
+E assim, vocês expressam o medo e a Betty precisa encontrar exatamente os sintomas no Repertório.
+
+173
+00:33:06,955 --> 00:33:13,760
+Anya pede para dar um medo difcícil, não apenas medo do escuro.
+
+174
+00:33:18,069 --> 00:33:27,051
+Vocês precisam contar uma história, a história do medo. Eu tenho uma criança e ela tem medo do escuro e eu encontro uma rubrica "Medo do escuro". Não é isso o que estou falando.
+
+175
+00:33:30,763 --> 00:33:58,283
+Uma última coisa antes que comecem, estejam cientes de que no Repertório, os medos não estão presentes apenas no capítulo medo, mas também nas ilusões, ansiedade e cuidados, etc.
+
+176
+00:34:00,080 --> 00:34:04,981
+Portanto, se for muito fácil, isso depende de vocês.
+
+177
+00:34:07,072 --> 00:34:18,129
+O que eu gostaria de fazer é passar rapidamente por tudo. Vocês me dão uma história e dizem 1,2, 3 sintomas do Repertório.
+
+178
+00:34:18,229 --> 00:34:36,305
+Primeira história e então 1, 2, 3 sintomas do Repertório. Portanto, o paciente conta uma história, vocês vão ao Repertório e dizem: "Talvez seja medo da água (?) a rubrica do Repertório."
+
+179
+00:34:36,405 --> 00:34:48,800
+Vocês devem imaginar o medo da água e voltarem para o (?) e dizem então: "Isso é medo da água? A história do meu paciente está congruente com o sintoma no Repertório?"
+
+180
+00:34:49,909 --> 00:35:03,605
+Eu entro no meu próximo tópico, o qual é a seleção dos sintomas corretos. Dessa forma, um ponto da seleção do sintoma correto é que o sintoma deve estar congruente.
+
+181
+00:35:04,672 --> 00:35:13,440
+O que significa que o sintoma do Repertório deve expressar exatamente o que o paciente está dizendo e preferencialmente não mais, mas também não menos.
+
+182
+00:35:14,357 --> 00:35:19,669
+Portanto, o medo da água não é exatamente o que o paciente está dizendo.
+
+183
+00:35:20,736 --> 00:35:26,197
+Agora, vocês poderão fazer a busca no Repertório, vocês veem que existem referências cruzadas no medo de beber, medo de líquidos, hidrofobia.
+
+184
+00:35:27,392 --> 00:35:33,398
+Até onde eu sei, até o momento não existe nenhuma rubrica no Repertório que especifica o medo para quando a cabeça está sob a água,
+
+185
+00:35:33,498 --> 00:35:39,403
+dessa forma, vocês poderiam dizer que no momento, o medo da água é a melhor correspondência.
+
+186
+00:35:41,088 --> 00:35:53,056
+Mas estejam atentos de que não é uma correspondência perfeita. É apenas próximo e não enfatize muito essa rubrica na sua análise, pois não é congruente.
+
+187
+00:35:54,272 --> 00:36:05,472
+Se refletirmos sobre quais sintomas serem levados para a repertorização, o primeiro critério seria que eles devem ser congruentes.
+
+188
+00:36:10,592 --> 00:36:16,949
+Portanto, este é um outro tópico que vocês me deram uma boa ocasião para falar a respeito.
+
+189
+00:36:17,739 --> 00:36:22,844
+Um outro sintoma do Repertório...
+
+190
+00:36:22,944 --> 00:36:40,715
+-(?) em uma grande empresa e às vezes ele precisa falar em público e ele tem um medo muito grande de falar em público, mas quando precisa falar, ele consegue fazer isso.
+
+191
+00:36:43,637 --> 00:36:47,719
+E assim, é o medo de falar em público, mas é capaz.
+
+192
+00:36:47,819 --> 00:36:52,277
+-E qual é o sintoma do Repertório?
+
+193
+00:36:53,429 --> 00:37:05,717
+-Medo de falar em público, mas capaz.
+
+194
+00:37:24,021 --> 00:37:37,440
+-Você poderia repetir o sintoma exato porque não é assim...
+
+195
+00:37:38,272 --> 00:37:45,852
+-Vocês viram o que eu fiz? Vocês seguiram o que eu fiz? Me desculpem, eu fui rápido, mas repetirei mais devagar.
+
+196
+00:37:46,016 --> 00:37:56,839
+Ela estava dando a sintaxe de um sintoma, eu o digitei e não o encontrei. Dessa forma, em algum lugar não estava correta a estrutura do Repertório. Problema.
+
+197
+00:37:56,939 --> 00:38:08,053
+Eu busco pelo sintoma, independentemente da estrutura do Repertório, eu fiz uma busca pela palavra-chave com a palavra ?público.
+
+198
+00:38:10,507 --> 00:38:17,980
+E então ele me diz que existe um medo de aparecer em público e medo do palco, etc.
+
+199
+00:38:19,467 --> 00:38:26,535
+e assim, o medo de aparecer em público é o mais próximo. E então, eu digo: "Ok, interessante." E eu vejo que existe uma
+
+200
+00:38:26,635 --> 00:38:31,755
+referência cruzada com a timidez em público. Eu clico na referência cruzada
+
+201
+00:38:32,608 --> 00:38:40,693
+e vejo timidez para aparecer em público, eu olho as sub-rubricas e encontro
+
+202
+00:38:41,248 --> 00:38:54,240
+uma sub-rubrica timidez para aparecer em público, mas capaz de fazê-lo.
+
+203
+00:38:55,072 --> 00:39:00,619
+Portanto, eu uso a busca com a ?, salto com a referência cruzada e encontro dentro de segundos a rubrica correta.
+
+204
+00:39:03,840 --> 00:39:08,064
+Este é o sintoma relacionado à sua história. Obrigado.
+
+205
+00:39:09,792 --> 00:39:14,060
+Outra história?
+
+206
+00:39:17,557 --> 00:39:30,492
+-Ela me relatou uma mulher que sempre quer as pessoas (?)
+
+207
+00:39:30,592 --> 00:39:38,705
+Ela é um tipo de santa, tudo que ela faz está correto e ela descreveu isso como um medo.
+
+208
+00:39:38,805 --> 00:39:48,625
+Dessa forma, eu busquei primeiramente o medo da opinião dos outros, onde encontrei Nux vomica e Pulsatilla
+
+209
+00:39:48,725 --> 00:39:52,340
+e eu quero mostrá-lo as rubricas diferentes. Era simples encontrar isso no Repertório.
+
+210
+00:39:55,765 --> 00:40:03,943
+E então, eu encontrei a seta que mostra a ilusão de ser apreciada, a qual ela não é
+
+211
+00:40:04,043 --> 00:40:13,201
+e que é Palladium, Platina, Pulsatilla e (?) e então, havia uma outra seta
+
+212
+00:40:13,301 --> 00:40:24,593
+para aprecia lamentação, pois ela não é e eu encontrei a seta para ânsia por opinião boa dos outros, a qual é realmente
+
+213
+00:40:24,693 --> 00:40:28,348
+o que ela descreveu e ele vai apenas para Palladium.
+
+214
+00:40:29,557 --> 00:40:32,081
+Mas foi uma forma boa que você encontrou através do Repertório.
+
+215
+00:40:32,181 --> 00:40:38,119
+E portanto, ela usou, ela saltou pelo Repertório utilizando principalmente as referências cruzadas.
+
+216
+00:40:38,219 --> 00:40:42,599
+Um salto de correção no seu raciocínio, se eu puder ou algo que pudesse melhorar
+
+217
+00:40:42,699 --> 00:40:47,740
+está na história, que a palavra-chave não é medo, mas uma opinião boa.
+
+218
+00:40:49,504 --> 00:40:55,264
+E se tivesse buscado por opinião boa, você teria visto este sintoma aparecer imediatamente.
+
+219
+00:40:56,267 --> 00:41:02,197
+Mas enfim, você chegou lá, por outro caminho e isso é muito bom.
+
+220
+00:41:05,120 --> 00:41:09,664
+Uma outra história, talvez?
+
+221
+00:41:20,032 --> 00:41:21,333
+Me conte a história.
+
+222
+00:41:22,592 --> 00:41:33,387
+-Eu tentei o que você disse, usar a ? e dizer opinião boa...
+
+223
+00:41:40,533 --> 00:41:44,907
+-Mais uma história, alguém?
+
+224
+00:42:04,085 --> 00:42:09,504
+-Eu gostaria de saber como encontrar o sintoma "medo de ser enterrado vivo"?
+
+225
+00:42:10,400 --> 00:42:18,492
+-Qual é a palavra-chave do sintoma?
+Enterrado.
+
+226
+00:42:20,768 --> 00:42:30,432
+Portanto, você digita enterrado e dentro de um segundo você vê que o sintoma não está em medo, mas em ilusão.
+
+227
+00:42:41,867 --> 00:42:50,912
+Nos sonhos, sonhos de ser enterrado vivo.
+
+228
+00:42:52,917 --> 00:43:00,213
+Para encontrar os sintomas, entender de fato os pacientes, você extrai o que é o mais importante.
+
+229
+00:43:04,437 --> 00:43:13,141
+Esses são alguns exemplos e eu espero que tenham encontrado sozinhos os meios muito mais interessantes de como encontrar os sintomas no Repertório.
+
+230
+00:43:15,104 --> 00:43:22,507
+Eu falarei uma segunda parte de introdução ao VES.
+
+231
+00:43:22,880 --> 00:43:29,504
+Nesta manhã, eu expliquei as questões diferentes da repertorização e eu os ensinei basicamente o que o VES faz.
+
+232
+00:43:30,400 --> 00:43:39,367
+Ele considera todas as questões diferentes da repertorização e de fato considera todas as questões diferentes da repertorização
+
+233
+00:43:39,467 --> 00:43:42,027
+para cada passo que tomarem ao mesmo tempo, tudo.
+
+234
+00:43:42,837 --> 00:43:51,435
+Ele olha para os 11 sintomas, de todas as formas e dá uma sugestão equilibrada.
+
+235
+00:43:53,461 --> 00:44:02,549
+Antes de entrarmos em uma explicação a mais sobre o VES, há um outro passo que devo levá-los.
+
+236
+00:44:02,600 --> 00:44:14,439
+E é o que eu devo explicá-los um pouco sobre a escolha dos sintomas corretos para repertorizar.
+
+237
+00:44:17,589 --> 00:44:27,211
+Após terem encontrado os sintomas, vocês poderão repertorizá-los, mas primeiramente quais sintomas são interessantes, quais são necessários.
+
+238
+00:44:30,304 --> 00:44:44,199
+E, portanto, eu gostaria de lembrá-los primeiramente que vocês estavam lá fora, na praia, no restaurante
+
+239
+00:44:44,299 --> 00:44:49,760
+e que estava muito bom ficar em ambiente aberto.
+
+240
+00:44:50,507 --> 00:44:56,764
+Todo mundo gosta da (?) juntos por quatro horas. E assim, todo mundo quis ficar lá fora ao ar livre.
+
+241
+00:44:59,467 --> 00:45:05,717
+Talvez algumas pessoas já tenham saído porque não conseguiram esperar.
+
+242
+00:45:09,195 --> 00:45:13,824
+Na história simples, vocês sabem qualquer sintoma que esteja presente?
+
+243
+00:45:18,389 --> 00:45:23,765
+-Desejo de estar ao ar livre.
+
+244
+00:45:35,947 --> 00:45:45,525
+-Impaciência e também antecipação, esperando para sair.
+
+245
+00:45:48,800 --> 00:45:52,288
+-Desejo de fugir, você quer dizer.
+
+246
+00:45:55,829 --> 00:46:06,112
+Enfim, agora o primeiro ponto que quero salientar é que um sintoma é apenas um sintoma quando é um sintoma.
+
+247
+00:46:07,755 --> 00:46:11,320
+Vocês entendem isso?
+
+248
+00:46:15,285 --> 00:46:28,256
+E então, aqui vocês têm a intensidade e vocês têm o desejo por ar livre e em algum nível, todos nós temos um desejo por ar livre,
+
+249
+00:46:28,356 --> 00:46:30,439
+o qual será repetido em alguns minutos.
+
+250
+00:46:32,053 --> 00:46:41,547
+Mas para o desejo de ar livre ser um sintoma, ele deverá estar acima de um certo nível.
+
+251
+00:46:42,677 --> 00:46:44,775
+Caso contrário, não será um sintoma.
+
+252
+00:46:44,875 --> 00:46:52,780
+Portanto, se escutarem uma história: "Sim... e então saímos para fora e foi muito bom estar ao ar livre e eu olhei para o mar,
+
+253
+00:46:52,880 --> 00:47:01,195
+respirei profundamente..." Ah, um sintoma, respiração, respiração profunda, desejo de fazer essas respirações profundas...
+
+254
+00:47:03,904 --> 00:47:10,773
+tenham cuidado. Ele precisa estar acima de um certo nível antes que o considere como um sintoma.
+
+255
+00:47:13,717 --> 00:47:22,880
+Um certo nível. E ele poderá não ser definido, eu posso não dizer o quanto de desejo por ar livre vocês precisam, pois é relativo.
+
+256
+00:47:24,555 --> 00:47:36,480
+É relativo ao calor na sala, às circunstâncias externas e é relativo à sua forma de falar comigo.
+
+257
+00:47:38,656 --> 00:47:44,999
+Se nunca disseram nada o tempo todo e em seguida dizem: "Agora, estou saindo ao ar livre
+
+258
+00:47:45,099 --> 00:47:52,096
+e desejo ficar ao ar livre..." E assim, para a história de vocês, pela forma que expressam as coisas,
+
+259
+00:47:53,120 --> 00:47:59,115
+é mais um sintoma do que alguém que fala o tempo todo e diz: "Eu faço isso, eu tenho aversão por isso..."
+
+260
+00:48:00,139 --> 00:48:02,300
+Vocês têm (?) de sintomas, precisam ser muito cuidadosos.
+
+261
+00:48:10,464 --> 00:48:14,268
+E assim, em um certo nível, o que o paciente diz, torna-se um sintoma homeopático.
+
+262
+00:48:14,368 --> 00:48:17,184
+Ele precisa estar acima de um certo nível.
+
+263
+00:48:17,696 --> 00:48:23,804
+Dessa forma, é por isso que é muito frequente durante o interrogatório do George e qualquer um que estiver ciente de como ele deve tomar o caso,
+
+264
+00:48:27,339 --> 00:48:33,532
+os sintomas (?) para serem interessantes, ele diz: "Espere um minuto. Quando você fez isso? Com qual frequência você fez isso?"
+
+265
+00:48:36,149 --> 00:48:39,612
+E é muito importante para vocês e o que acontecerá se não forem ao ar livre?
+
+266
+00:48:39,712 --> 00:48:44,028
+E vocês dizem: "Por que eu preciso saber de tudo isso? Não está no Repertório."
+
+267
+00:48:44,128 --> 00:48:49,788
+Desejo por ar livre uma vez ao dia, uma vez na semana, uma vez em uma hora? Não.
+
+268
+00:48:49,888 --> 00:48:54,396
+É para saber se é um sintoma. Este é o primeiro passo.
+
+269
+00:48:56,821 --> 00:49:04,401
+Portanto, tenham certeza de que se foi apenas por um dia, que tiveram um desejo de saírem ao ar livre
+
+270
+00:49:04,501 --> 00:49:10,176
+e então, em casa vocês estão sempre dentro? Vocês têm um jardim enorme, mas se sentam do lado de dentro, por preferirem estar dentro da casa.
+
+271
+00:49:11,160 --> 00:49:19,889
+Vocês devem ser cuidadosos na forma de avaliarem a intensidade de um sintoma.
+
+272
+00:49:19,989 --> 00:49:25,536
+Este é o segundo ponto.
+
+273
+00:49:30,549 --> 00:49:34,560
+Isso é um sintoma?
+
+274
+00:49:36,779 --> 00:49:43,697
+Agora, vocês têm um sintoma, olham no Repertório e então, algo que já mencionamos pela manhã,
+
+275
+00:49:45,141 --> 00:49:59,463
+eu escreverei aqui. Vocês têm uma sub-rubrica boa, como.... Eu pego um exemplo bem simples, dor de cabeça pela manhã;
+
+276
+00:49:59,563 --> 00:50:05,621
+Por ser o que a pessoa diz, "Eu tenho uma dor de cabeça pela manhã."
+
+277
+00:50:06,000 --> 00:50:08,999
+E então, vocês pegarão a sub-rubrica ou a dor de cabeça?
+
+278
+00:50:09,099 --> 00:50:14,823
+Vamos dizer, dores como pontadas pela manhã. Vocês pegarão cabeça, dores pontadas manhã ou dor de cabeça como pontada?
+
+279
+00:50:15,477 --> 00:50:17,703
+Vocês pegarão a sub-rubrica ou a super-rubrica?
+
+280
+00:50:20,384 --> 00:50:30,972
+Vocês não podem dizer para fazer isso ou aquilo. Mas eu direi a vocês primeiramente que isso depende da congruência.
+
+281
+00:50:31,072 --> 00:50:39,569
+Se pegarem a rubrica cabeça dores pontadas pela manhã, isso significa que a dor de cabeça com pontadas pela manhã
+
+282
+00:50:39,669 --> 00:50:43,601
+ocorre pela manhã e quase o tempo todo.
+
+283
+00:50:43,701 --> 00:50:49,717
+Se retornarem ao paciente, vocês dizem: "É toda vez pela manhã?" E ele diz: "Sim, é pela manhã
+
+284
+00:50:50,272 --> 00:50:56,764
+e também à noite quando eu me sento no carro, etc."
+
+285
+00:50:56,864 --> 00:51:00,028
+Não é mais relevante à sub-rubrica.
+
+286
+00:51:00,128 --> 00:51:05,739
+Portanto, vocês usam a sub-rubrica dependendo da congruência.
+
+287
+00:51:06,741 --> 00:51:14,257
+O segundo motivo é o tamanho. Eu não sei de cor quantos remédios estão em cabeça dor como pontada pela manhã,
+
+288
+00:51:14,357 --> 00:51:21,632
+mas eu suponho que existam apenas 5 remédios.
+
+289
+00:51:22,229 --> 00:51:27,740
+Dessa forma, tomem cuidado, pois poderá ser mais interessante utilizar cabeça, dor como pontada se for realmente importante,
+
+290
+00:51:27,840 --> 00:51:32,860
+se for pontadas o tempo todo do que a sub-rubrica.
+
+291
+00:51:32,960 --> 00:51:39,829
+Pois vocês terão mais remédios que cobrirão um pouco da informação.
+
+292
+00:51:40,725 --> 00:51:43,072
+Dessa forma, decidam entre a sub e super rubrica.
+
+293
+00:51:43,627 --> 00:51:47,808
+Um outro motivo para decidir entre a sub e a super rubrica é, vocês trabalham no caso
+
+294
+00:51:48,597 --> 00:51:56,277
+e não encontram nenhum remédio relevante. Uma forma de obter outras escolhas é substituir
+
+295
+00:51:57,429 --> 00:52:06,972
+o sintoma mais detalhado com um sintoma menos detalhado.
+
+296
+00:52:07,072 --> 00:52:11,025
+Cabeça dor pontada pela manhã por cabeça dor pontada.
+
+297
+00:52:12,427 --> 00:52:16,629
+Ciúme durante a menstruação por ciúme.
+
+298
+00:52:49,184 --> 00:53:02,180
+Isso me leva ao meu próximo ponto que deverão ser cuidadosos na Repertorização,
+
+299
+00:53:02,280 --> 00:53:08,192
+não ter duas rubricas semelhantes.
+
+300
+00:53:09,664 --> 00:53:13,020
+Eu darei um exemplo.
+
+301
+00:53:13,120 --> 00:53:19,761
+Se colocassem cabeça dor pontada e cabeça dor pontada pela manhã, é melhor
+
+302
+00:53:19,861 --> 00:53:25,351
+fazer disso uma rubrica combinada.
+
+303
+00:53:25,451 --> 00:53:28,587
+Dessa forma, vocês criam uma nova rubrica que contém todos os remédios.
+
+304
+00:53:29,120 --> 00:53:36,999
+Pois o que acontece por outro lado em todos os métodos de análises, incluindo o VES, de uma forma
+
+305
+00:53:37,099 --> 00:53:43,399
+os remédios que aparecem na cabeça dor pontada pela manhã ou ciúme durante a menstruação,
+
+306
+00:53:44,971 --> 00:53:50,380
+mais provavelmente, por alguma parte principal, estão repetidos na super rubrica.
+
+307
+00:53:50,480 --> 00:53:55,445
+E vocês enfatizam muito esses remédios. Não estão realmente expandindo.
+
+308
+00:53:56,789 --> 00:54:01,297
+Pois há (?) dois argumentos. Vocês têm um argumento para a Pulsatilla, devido o ciúme
+
+309
+00:54:01,397 --> 00:54:05,799
+e um argumento para a Pulsatilla por causa do ciúme durante a menstruação.
+
+310
+00:54:07,669 --> 00:54:15,463
+Dessa forma, vocês fazem uma rubrica combinada, a qual contém todos os remédios ou 1, 2, 3, 4 sub-rubricas.
+
+311
+00:54:21,387 --> 00:54:28,860
+Um motivo até agora, o motivo principal pelo qual as pessoas encontram frequentemente dois Carcinosinum, vocês sabem o que é isso?
+
+312
+00:54:28,960 --> 00:54:37,735
+É isso. E as rubricas que colocam muito frequentemente, na maioria das vezes são as mesmas.
+
+313
+00:54:40,587 --> 00:54:51,623
+As rubricas alimentares e Carcinosinum destaca-se em algumas das rubricas alimentares muito interessantes.
+
+314
+00:54:51,765 --> 00:54:58,549
+Dessa forma, se vocês colocarem as rubricas alimentares, ela se refere ao que gostam de comer. Isso e isso e manteiga e ovos e carne e gordura, etc.
+
+315
+00:54:59,381 --> 00:55:05,620
+Vocês colocam tudo isso e em seguida, mais algumas aversões, pois ele diz que devemos ter uma repertorização equilibrada.
+
+316
+00:55:05,720 --> 00:55:11,719
+Não apenas 5 desejos, 2 aversões e 1 agravação. É falar muito sobre comida.
+
+317
+00:55:11,819 --> 00:55:17,713
+Agora, vocês poderão gostar de falar sobre comida, mas não na repertorização.
+
+318
+00:55:17,813 --> 00:55:29,397
+Se alguém diz a vocês 10, 15 sintomas sobre alimento, vocês precisam ser muito cuidadosos para selecionarem talvez 1 ou 2 ou 3, mas não simplesmente colocarem tudo.
+
+319
+00:55:31,616 --> 00:55:38,257
+E pelas pessoas colocarem muito frequentemente essas rubricas alimentares, elas obtêm muito o Carcinosinum.
+
+320
+00:55:38,357 --> 00:55:46,215
+Portanto, eliminem ou pelo menos combinem os desejos por ovos, carnes e queijo e qualquer que seja
+
+321
+00:55:46,315 --> 00:55:51,036
+a proteína, talvez em uma rubrica e o Carcinosinum descerá.
+
+322
+00:55:54,827 --> 00:56:07,249
+-Quando eu pego uma sub-rubrica e a combino com a super-rubrica, eu tenho graus diferentes do mesmo remédio.
+
+323
+00:56:07,349 --> 00:56:13,607
+Talvez Sulphur pela manhã, dor como pontada grau um e super-rubrica grau três
+
+324
+00:56:13,707 --> 00:56:17,973
+e eu mudo o grau ao combiná-los e eu sinto a intensidade.
+
+325
+00:56:18,827 --> 00:56:29,415
+-O que acontece com o grau que é do programa, ele leva o grau mais alto.
+
+326
+00:56:34,891 --> 00:56:44,796
+Dessa forma, tenham cuidado com muitas rubricas semelhantes. O ponto é não ter muitas rubricas para cobrir o caso, mas ter rubricas relevantes.
+
+327
+00:56:56,267 --> 00:57:06,592
+-Você poderia explicar novamente por favor como fazer a combinação, ela seria com a, b ou busca por um sintoma?
+
+328
+00:57:11,712 --> 00:57:16,540
+-Eu mostrarei muito rapidamente, pois novamente, é um pouco técnico.
+
+329
+00:57:16,640 --> 00:57:31,132
+Eu acredito que seja diferente em programas diferentes. Eu apenas escolherei um exemplo aleatório.
+
+330
+00:57:33,621 --> 00:57:49,479
+Eu tenho dois sintomas, portanto não é uma combinação verdadeira, mas enfim. Eu seleciono os dois sintomas e em seguida,
+
+331
+00:57:49,579 --> 00:58:05,237
+eu adiciono essas qualificações adicionadas e crio um grupo que está indicado por uma letra, A por exemplo.
+
+332
+00:58:06,027 --> 00:58:11,440
+E neste momento, esses dois sintomas são considerados como um sintoma A.
+
+333
+00:58:12,171 --> 00:58:18,827
+Se tiver problema, eu prefiro explicá-lo no intervalo.
+
+334
+00:58:22,816 --> 00:58:29,131
+Como selecionar os sintomas corretos para a repertorização?
+
+335
+00:58:33,824 --> 00:58:38,460
+Sim, um outro ponto importante. Talvez você tenha refletido enquanto eu estava falando nesta manhã,
+
+336
+00:58:38,560 --> 00:58:46,780
+quando eu disse como Kent estava repertorizando e talvez vários de vocês estejam cientes de que se usarem um livro, de como estão repertorizando.
+
+337
+00:58:46,880 --> 00:58:53,749
+E se não estiverem, eu os deixarei cientes hoje.
+
+338
+00:58:54,624 --> 00:59:02,240
+Vocês sabem o que fazer? Vocês escutam o paciente e ele diz uma coisa após a outra
+
+339
+00:59:03,243 --> 00:59:22,343
+e então ele diz: "Estou desperdiçando o meu dinheiro."
+
+340
+00:59:22,443 --> 00:59:31,851
+E eu digo: "Interessante. Por quê?" Pois essa é uma rubrica que apresenta 20 remédios e eu gostei disso.
+
+341
+00:59:32,789 --> 00:59:38,407
+Por que eu gostei disso? Porque eu terei muito trabalho em comparar os remédios
+
+342
+00:59:38,507 --> 00:59:42,161
+com os 50 remédios da outra rubrica.
+
+343
+00:59:42,261 --> 00:59:49,436
+Isso é o que Kent fez na eliminação. E a história continua e vocês escutam tudo que ele está dizendo
+
+344
+00:59:49,536 --> 00:59:53,632
+e então, ele diz: "Medo de fantasmas." Um outro.
+
+345
+00:59:54,144 --> 01:00:06,759
+Apenas 27 remédios, eu consigo manejar. E vocês pegam a história do paciente, não é relevante, deixe ser a informação exata,
+
+346
+01:00:06,859 --> 01:00:10,507
+mas a informação vocês podem usar na repertorização.
+
+347
+01:00:11,061 --> 01:00:14,304
+E vocês não viram que o paciente estava agitado. Talvez tenham visto.
+
+348
+01:00:15,157 --> 01:00:19,253
+Mas é claro, o que poderão fazer com a agitação, 450 remédios.
+
+349
+01:00:20,192 --> 01:00:31,377
+Portanto, vocês perguntam a ele: "Você é agitado pela manhã?" Ele diz: "Não, não sou agitado o tempo todo". À noite, durante o dia, agitação interna e externa.
+
+350
+01:00:31,477 --> 01:00:39,505
+"Mas você está agitado enquanto sentado, como aqui hoje?" "Não, não, agitação ao sentar, ao levantar,
+
+351
+01:00:39,605 --> 01:00:45,329
+agitação ao andar. Sem modalidade.
+
+352
+01:00:45,429 --> 01:00:52,263
+O que todos os heróis trabalhadores fazem? Vocês dizem, nos lembramos da agitação, quando olhamos para a imagem,
+
+353
+01:00:52,363 --> 01:00:56,181
+mas isso não entra na repertorização.
+
+354
+01:00:56,501 --> 01:01:04,544
+Dessa forma, quando é uma característica principal, quando é uma característica grande, a agitação, vocês não a utilizam na repertorização com o livro.
+
+355
+01:01:05,291 --> 01:01:09,713
+Agora, com o computador, vocês conseguem raciocinar mais corretamente.
+
+356
+01:01:09,813 --> 01:01:31,047
+Se a agitação ou qualquer outra rubrica grande for importante, vocês utilizam a rubrica grande ou pequena.
+
+357
+01:01:31,147 --> 01:01:37,340
+E vocês dizem: "Sim, mas ela contém toda a (?)" é por isso que não quero fazer dessa forma.
+
+358
+01:01:37,440 --> 01:01:43,477
+Não está correto. Apenas tentando escapar do trabalho pesado.
+
+359
+01:01:46,912 --> 01:01:54,492
+Pois se olharmos para esses 450 remédios famosos da agitação, o que veremos?
+
+360
+01:01:54,592 --> 01:02:00,956
+Nós vemos o Anacardium, o Arsenicum, a Belladonna, a Camphora, a Calcarea, etc.
+
+361
+01:02:01,056 --> 01:02:09,873
+mas vemos também dentre os 450 remédios o Asarum, Asafoetida, o Arum triphyllum, etc.
+
+362
+01:02:10,123 --> 01:02:18,300
+Portanto, os remédios pequenos estão presentes e se vocês pegarem essa rubrica em consideração na repertorização de vocês
+
+363
+01:02:18,400 --> 01:02:29,628
+se houver um outro sintoma de Arum triphyllum, então a agitação os ajudarão a ver que este é um caso Arum triphyllum.
+
+364
+01:02:34,336 --> 01:02:47,932
+Eu fiz, há anos, a repertorização manual, 20, 30, 40, 50 minutos, pois eu estava ciente desse jogo que (?) conosco,
+
+365
+01:02:48,032 --> 01:02:55,356
+utilizando as rubricas interessantes para a repertorização e pulando a realidade.
+
+366
+01:02:56,288 --> 01:03:02,481
+Há uma vantagem na repertorização computadorizada, podemos focar no que o paciente realmente diz,
+
+367
+01:03:02,581 --> 01:03:05,461
+não temos que fazer em uma dimensão, de uma forma.
+
+368
+01:03:06,357 --> 01:03:14,023
+Se for congruente, se não for muito semelhante, se tivermos decidido sobre a modalidade sim ou não,
+
+369
+01:03:14,123 --> 01:03:19,783
+podemos usar a rubrica adequada, independentemente da dimensão.
+
+370
+01:03:19,883 --> 01:03:24,881
+E ele até ajudará a encontrar o remédio pequeno.
+
+371
+01:03:24,981 --> 01:03:29,873
+Pois para muitos dos remédios pequenos que lerão, se forem à Matéria Médica, eles não dizem
+
+372
+01:03:29,973 --> 01:03:35,847
+agitação melhora quando se movimenta, agitação o tira da cama, não temos todas essas modalidades.
+
+373
+01:03:36,075 --> 01:03:41,244
+Dessa forma, os remédios pequenos são conhecidos por serem bastante agitados.
+
+374
+01:03:41,344 --> 01:03:47,957
+Agitação é uma grande característica do remédio. E a outra característica é a fraqueza.
+
+375
+01:03:48,683 --> 01:03:53,995
+Fraqueza pela manhã, ao anoitecer, quando bebe, come, ao dormir, ao jogar, golf, sem fraqueza.
+
+376
+01:03:54,507 --> 01:03:59,569
+É uma combinação da fraqueza, exaustão e agitação.
+
+377
+01:03:59,669 --> 01:04:11,979
+Em qual remédio estão pensando? Arsenicum. Uma outra possibilidade. Várias outras possibilidades, várias (?) surgirão.
+
+378
+01:04:12,811 --> 01:04:23,697
+Mas vocês sabem que essa combinação de agitação e exaustão, fraqueza, essa combinação é também típica para (?)
+
+379
+01:04:23,797 --> 01:04:33,084
+(?) vocês não encontrarão, encontrem estabelecer modalidades de agitação e fraqueza, mas vocês encontrarão essas duas grandes questões,
+
+380
+01:04:33,184 --> 01:04:40,849
+agitação e exaustão nervosa combinados é típico para (?)
+
+381
+01:04:49,803 --> 01:04:55,115
+Mas ela mostrará vários remédios, ela precisará de mais um sintoma.
+
+382
+01:04:57,803 --> 01:05:05,568
+Eu apenas quero argumentar para não brincarem consigo mesmos quando estiverem repertorizando.

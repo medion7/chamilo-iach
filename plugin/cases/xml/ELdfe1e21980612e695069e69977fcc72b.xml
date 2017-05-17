@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELdfe1e21980612e695069e69977fcc72b</ID>
+  <patient>
+    <case_date>2015-03-11 20:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ι.Α.</patient_initials>
+    <age>26</age>
+    <circumstances>άγαμη - σε σχέση από 7ετίας. Αγγλική φιλολογία - εργάζεται</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ημικρανίες από 4μήνου</origin>
+        <causative_factors>Συνήθως έχει σχέση με τη παρίοδο ή όταν αγχώνεται ή όταν έχει πολλές δουλειές να κάνει</causative_factors>
+        <modalities>&lt;με το φως. &#13;
+&gt;με το τρίψιμο</modalities>
+        <occurrence_time>επιδείνωση όταν χαλαρώνει, συνήθως το βράδυ</occurrence_time>
+        <body_side>ξεκινά από το αρ μάτι και φτάνει μέχρι το ινίο</body_side>
+        <appearence_frequency>αρκετές μέρες τη βδομάδα</appearence_frequency>
+        <pain_desc>σα να τη χτυπάνε σφυριά</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Αλλεργική ρινίτιδα.&#13;
+Δυσκοιλιότητα.&#13;
+Ευαίσθητο στομάχι (καούρες, την ενοχλούν οι βαριές τροφές,οι σάλτσες με ντομάτα,οι τυρόπιτες, ο χυμός πορτοκάλι).&#13;
+Κύστες στη βουβωνική χώρα από 16 ετών.&#13;
+Ακμή από το γυμνάσιο.&#13;
+Έκανε 2 φορές πυρετό φέτος (θ=39-39,5 και 38,4).&#13;
+&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Alum, Calc-p, Calc-s, Euph, Kali-b, Magn-m, Nux-v, Psor, Puls, Sep, Sil, Sulph.&#13;
+Κάνει πολλά χρόνια ομοιοπαθητική - τελευταία φορά πριν ένα χρόνο.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα παιδικά εμβόλια που προβλέπονται από το ΕΣΥ.&#13;
+Αντιβιώσεις ( μικρή δεν αρρώσταινε συχνά και δεν έπαιρνε συχνά αντιβίωση ).&#13;
+Αλοιφές για την ακμή.&#13;
+Διάνοιξη κύστεων.&#13;
+Κρυοπηξία σε κονδυλώματα.</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας = ουδέν.&#13;
+Μητέρα = αρθρίτιδα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει (φοράει 100 ρούχα).&#13;
+Τα πόδια πάντα παγωμένα.&#13;
+Την ενοχλεί η υγρασία.&#13;
+</reactions>
+        <sleeping_habits>Ύπνος καλός, το πρωί ξυπνά ξεκούραστη.&#13;
+Όταν κοιμάται το μεσημέρι ξυπνά άσχημα.&#13;
+Βλέπει πολλά όνειρα.</sleeping_habits>
+        <food_modalities>Επιθυμίες = ψάρι, αυγά (προτιμά τα σφιχτά), κυμάς, μακαρόνια.&#13;
+Απέχθειες = ξινά, κυρίως το ξύδι.&#13;
+Νερό πίνει θερμοκρασία δωματίου-δροσερό.</food_modalities>
+        <menstruation>κ.φ.&#13;
+Πρήζεται το στήθος.&#13;
+Πονά η κοιλιά.&#13;
+Ψυχολογικά δεν επηρεάζεται καθόλου.&#13;
+Σεξουαλικά πότε έχει όρεξη και πότε όχι.</menstruation>
+      </physical>
+      <mental_emotional>Θέλει να είναι με παρέα, μόνη της δεν μπορεί για πολύ.&#13;
+Αν στενοχωριέται θέλει να το πει κάπου.&#13;
+Αναβλητική.&#13;
+Φοβίες = αν κάποιος μπει στο σπίτι νομίζει οτι μπήκε κλέφτης, τα φαντάσματα, το σκοτάδι, άγχος με τη οδήγηση, τους γιατρούς, τα ταξίδια με το αυτοκίνητο γιατί νομίζει οτι θα σκοτωθεί, οτι θα γίνει ατύχημα. Γενικά πολύ φοβιτσιάρα.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Καλή πρόγνωση, γιατί κάνει οξέα/πυρετό και έχει δερματικές εκδηλώσεις,δεν έχει βαριά παθολογία.</personal_medical_history>
+        <family_medical_history>καθόλου επιβαρυμένο οικογενειακό ιστορικό</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Θα πάει καλά με το σωστό φάρμακο και πιθανώς να μη διαρκέσει η δράση του. Επίπεδο Υγείας = 4-5.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Άγχος για την υγεία της 1.&#13;
+Φοβάται τους γιατρούς 2.&#13;
+Φοβάται τα φαντάσματα 2.&#13;
+Φοβάται οτι κάτι κακό θα συμβεί 3.&#13;
+Φοβάται τους κλέφτες 2.&#13;
+Ημικρανία που ξεκινά από το αρ μάτι και φτάνει μέχρι το ινίο 3.&#13;
+Επιθυμεί τα αυγά 3.&#13;
+Επιθυμεί τα ψάρια 3.&#13;
+Απέχθεια για το ξύδι 3</peculiar>
+        <intense>Επιθυμία για παρέα 2.&#13;
+Φοβάται το σκοτάδι 3.&#13;
+Κρύα πόδια 2.&#13;
+Κρυώνει 3.&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ι.Α.-1.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>δ.δ Phos, Calc-c, Bry, Ars, Caust, Sep.&#13;
+Η εικόνα είναι καθαρή.</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-20 18:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>U/S κοιλίας : κ.φ.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά το φάρμακο είχε πάρα πολλά νεύρα-ποτέ δεν είχε τόσα πολλά νεύρα.Για 1 μήνα είχε πόνο στο έντερο σα να το ζουλάνε. Οι ημικρανίες πήγαιναν να την πιάσουν και σταματούσαν. Αρχιζε ο πόνος πάνω από το αρ μάτι και έφευγε. Έτρωγε και της περνούσε (prooving-επιβεβαιώνει το φάρμακο). Πίνει πολύ νερό από το ψυγείο (prooving-επιβεβαιώνει το φάρμακο). Η ακμή πηγαίνει καλύτερα. Δεν την αγχώνουν πια τα ταξίδια με το αυτοκίνητο. Η δυσκοιλιότητα καλύτερα από πριν. Ο ύπνος ήταν τέλειος. Θέλει να κάνει πολλά καινούρια πράγματα. Εδώ και 1 βδομάδα την πιάνουν ταχυκαρδίες όλη τη μέρα, πηγαίνει για περπάτημα για να της περάσει και ο ύπνος είναι ανήσυχος. Περίμενα 1 εβδομάδα και της ξαναπήρα το ιστορικό. Η ταχυκαρδία πέρασε και το άγχος είναι λιγότερο.</reaction>
+      <analysis>Το φάρμακο ήταν σωστο. Έκανε αρχική επιδείνωση και ακολούθησε σημαντική βελτίωση.</analysis>
+      <conclusion>Θα δώσω placebo.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ι.Α.-2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>5 caps 1x1 για 5 μέρες</regimen>
+        <other_notes>Περιμένω να βελτιωθεί πιο πολύ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-10 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν είχε νεύρα όπως μετά το Phos. Μόνο 1 φορά την έπιασε ταχυκαρδία που ζορίστηκε πολύ στη δουλειά. 2 φορές ήταν πολύ κουρασμένη και πήγε να αρχίσει να την πονά το κεφάλι και έφαγε ένα κρουασαν και της πέρασε. Ενεργείται 1-3 φορές τη μέρα. Δεν μπορεί να ανεχτεί καταστάσεις όπως πριν. Σταμάτησε να έιναι αναβλητική. Καθόλου καούρες (ούτε η πιτα γυρο δεν την πείραξε). Ξεπέρασε τα φαντάσματα. Φοβάται ακόμη τους κλέφτες και το σκοτάδι. Δεν αγχώνεται για τους δικούς της. Πίνει πολύ νερό, θερμοκρασία δωματίου.</reaction>
+      <analysis>Έχει βελτιωθεί πολύ και στα ψυχοδιανοητικά.Το φάρμακο δεν έχει εξαντληθεί και συνεχίζει να δρα.</analysis>
+      <conclusion>Θα δώσω placebo</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ι.Α.-3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>Περιμένω.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

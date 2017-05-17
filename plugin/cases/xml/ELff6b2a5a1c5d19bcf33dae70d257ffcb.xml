@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELff6b2a5a1c5d19bcf33dae70d257ffcb</ID>
+  <patient>
+    <case_date>2012-02-01 20:30:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Μ.Π</patient_initials>
+    <age>44</age>
+    <circumstances>Ύψος: 180cm, Βάρος: 80 Kgr.&#13;
+Παντρεμένος με 2 παιδιά 7 και 5 χρονών, μηχανικός Η/Υ.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ατοπική δερματίτιδα (ΑΔ) εδώ και 23 χρόνια, ξεκίνησε όταν ήταν φοιτητής.</origin>
+        <causative_factors>Όταν ήταν φοιτητής είχε άγχος αφού εκτός των φοιτητικών μαθημάτων θα έπρεπε να δουλεύει για να επιβιώνει..</causative_factors>
+        <modalities>Επηρεάζεται από την θερμοκρασία περιβάλλοντος και την ψυχολογική του κατάσταση. </modalities>
+        <occurrence_time>Το βράδυ ξυπνά από φαγούρα, το καλοκαίρι είναι καλύτερα, χειρότερα με τη βρώση πορτοκαλιού.</occurrence_time>
+        <body_side>Οι δερματικές βλάβες εντοπίζονται σε αγκώνες (έσω, άμφω) , στα γόνατα στα βλέφαρα (άνω και κάτω), στη ράχη, στον αυχένα. </body_side>
+        <appearence_frequency>Το καλοκαίρι αρχίζει σταδιακά να εμφανίζεται το πρόβλημα</appearence_frequency>
+        <pain_desc>Οι δερματικές βλάβες είναι κνησμώδεις (2) χαρακτηρίζονται από ερυθρότητα(2), ξηρότητα(2), ήπια απολέπιση (2).</pain_desc>
+        <complaint_ext>Δεν παρατηρείται επέκταση σε άλλα σημεία.</complaint_ext>
+        <other_complaints>Ανιχνεύτηκε ελικοβακτηρίδιο του πυλωρού, ενίοτε πόνος στο στομάχι που κρατάει μερικά λεπτά, ενίοτε πρήζονται οι ποδοκνημικές αρθρώσεις.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Αντισταμινικά χάπια για τη φαγούρα και τοπικά κορτιζονούχα σκευάσματα όταν η κατάσταση χειροτερεύει. </conv_med_presc>
+        <lab_tests>
+          <desc>Δεν προσκομίζει.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχουν γίνει όλα τα εμβόλια, χρησιμοποιεί τοπικά κορτικοστεροειδή στις δερματικές βλάβες, για το ελικοβακτηρίδιο του πυλωρού διπλή αντιβίωση και ομεπραζόλη.</therapies_vaccination>
+          <traumas>Η σύζυγος του έχει Ca μαστού (μικροεγχείρηση και κατόπιν χημειοθεραπεία και ακτινοθεραπεία) και είναι ινσουλοεξαρτώμενη.&#13;
+Η κόρη του έχει εκ γενετής  λειτουργικό πρόβλημα στο ένα νεφρό.&#13;
+Δεν επικοινωνεί όπως θα ήθελε με τη σύζυγο του.</traumas>
+          <infections>Δεν αναφέρει.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Οι γονείς του δεν αντιμετωπίζουν ιδιαίτερα προβλήματα υγείας, η μητέρα του εμφανίζει σποραδικά εκζέματα σε διάφορα σημεία του σώματος.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ανέχεται περισσότερο το κρύο, έχει συνήθως παγωμένα άκρα, ιδρώνει πολύ από τη μέση και πάνω</reactions>
+        <sleeping_habits>Κοιμάται στο πλάι δεξιά και αγκαλιάζει το μαξιλάρι, ροχαλίζει και παραμιλάει, στο όνειρο του βλέπει ότι κάτι κακό παθαίνουν τα παιδιά. Κοιμάται δύσκολα, ξυπνάει συχνά το βράδυ όταν η σύζυγος του ξυπνά να μετρήσει το σάκχαρο.&#13;
+Θα ήθελε να κοιμάται περισσότερες ώρες χωρίς διακοπή.</sleeping_habits>
+        <food_modalities>Des: Ψάρι (3) το αποφεύγει αφού έχει γίνει χορτοφάγος, λεμόνι (3), φρούτα (2), πικάντικα (2), γλυκά (2) αλλά τα αποφεύγει, ανθυγιεινά (σουβλάκια,πίτσες),  αλάτι (1), .&#13;
+Αν: κουνουπίδι μπρόκολο, λάχανο (μυρίζουν άσχημα)&#13;
+Agg: πορτοκάλι, αλκοόλ (η μπύρα δεν τον ενοχλεί)</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Φοβίες: ακροφοβία (1), υψοφοβία (2), για την υγειά του, των παιδιών του και της συζύγου του (3), γηρατειών - δεν θέλει να γεράσει (3) .&#13;
+Μεγάλο άγχος για τα παιδιά του, αισθάνεται βαρειά την ευθύνη των παιδιών, αισιόδοξος αλλά εσωστρεφής (3), θρησκευτική πίστη (3), εύθικτος (3), τελειομανής (3) στη δουλειά του,  ευγενικός (3), συγκρατημένος (3), τυπικός (3), δεν ανέχεται να του κάνουν παρατηρήσεις,  δεν κάνει εύκολα παρέες (δεν μοιράζεται τα προβλήματα του), συμπονετικός, λυπάται , υπάρχει αταξία στο χώρο του (2), ευσυγκίνητος (2), ντροπαλός (2).&#13;
+Χωρίς σεξουαλική διάθεση.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δεν αρρωσταίνει συχνά, έχει χρόνια να κάνει υψηλό πυρετό, δεν αναφέρει ότι πάσχει από κάτι σοβαρό.</personal_medical_history>
+        <family_medical_history>Χωρίς κάτι σοβαρό, κληρονομική προδιάθεση για δερματικά προβλήματα.</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Καθαρή εικόνα φαρμάκου με καλή πρόγνωση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>av :ήλιος (2), θάλασσα(2).&#13;
+Ντρέπεται να ουρήσει όταν κοντά υπάρχει κόσμος (4).&#13;
+Όταν αγχώνεται νιώθει σφίξιμο στο στομάχι που επεκτείνεται στο λαιμό με αίσθημα πνιγμού (2)</peculiar>
+        <intense>Des: Ψάρι (3) , λεμόνι (3).&#13;
+Εσωστρεφής (3), θρησκευτική πίστη (3), εύθικτος (3), τελειομανής (3) στη δουλειά του,  ευγενικός (3), συγκρατημένος (3), τυπικός (3),υψοφοβία (2), για την υγειά του, των παιδιών του και της συζύγου του (3), γηρατειών - δεν θέλει να γεράσει (3) .&#13;
+Διπλή πτυχή στα βλέφαρα (3), αφοσιωμένος στο γάμο του παρά τις αντιξοότητες (3).</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Πιθανόν Medorrhinum επειδή είναι έντονα εσωστρεφής, με οίδημα στις ποδοκνημικές και τα βλέφαρα, και με έντονο το θρησκευτικό συναίσθημα.</remedies_differentiation>
+      <prescription>
+        <remedy>Natrium Muriaticum</remedy>
+        <potency>200 CH, 1 M, 6 X</potency>
+        <regimen>1 κάψουλα Natrium muriaticum 200CH την πρώτη μέρα της θεραπείας.&#13;
+1 κάψουλα Natrium muriaticum 1Μ την δεύτερη μέρα της θεραπείας.&#13;
+40 κάψουλες Natrium muriaticum 6x καθημερινά από την τρίτη μέρα.</regimen>
+        <other_notes>Συνεστήθησαν δερμοκαλλυντικά με αντικνησμώδεις και ενυδατικές ιδιότητες όπως και ήπιο αφρόλουτρο.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-18 19:05:00</followup_date>
+      <conv_med_presc>Διέκοψε τα αντισταμινικά και τα τοπικά κορτικοστεροειδή.</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν προσκομίζει.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Followup #1 &#13;
+14/05/12.&#13;
+Νιώθει καλύτερα, περισσότερη αυτοπεποίθηση, όχι τόσο άγχος με τα παιδιά, έχασε αβίαστα 2-3 kgr, κοιμάται πιο εύκολα και ξυπνά ξεκούραστος αν και συνεχίζει να ξυπνά συχνά τη νύχτα.Έχει έντονη σεξουαλική επιθυμία, δεν βλέπει εφιάλτες για τα παιδιά.&#13;
+Ανέβασε πυρετό περίπου 38C για 2 ημέρες χωρίς να λάβει αντιπυρετικό. &#13;
+</reaction>
+      <analysis>Υποψήφιος στις βουλευτικές εκλογές, πολύ αραιά φαγούρα δεν ξυπνούσε το βράδυ για να ξυστεί, το στομάχι του δεν τον ενοχλούσε.&#13;
+Τα δερματικά του προβλήματα βελτιώθηκαν κατα 80%.</analysis>
+      <conclusion>Το ομοιοπαθητικό φάρμακο που δόθηκε έδρασε και στα 3 επίπεδα (σωματικά και ψυχοδιανοητικά) και συνεχίζουμε με το ίδιο.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum Muriaticum</remedy>
+        <potency>6x</potency>
+        <regimen>60 κάψουλες Natrium muriaticum 6x καθημερινά.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-19 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc>Απο αξονική τομογραφία σπλαχνικού κρανίου-σκολίωση του ρινικού διαφράγματος με πάχυνση της αριστερής μέσης και κάτω ρινικής κόγχης. </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Followup #2&#13;
+29/11/2012&#13;
+Έκζεμα μεταξύ 4ου και 5 ου δακτύλου αρ άκρα χείρα, χωρίς κνησμό. Αισθάνεται σαν να είναι μπουκωμένος να τρέχει η μύτη υδαρές υγρό όχι πάντα, νιώθει ψιλοάρρωστος.&#13;
+Λίγοι πονοκέφαλοι, χειροτερεύει με ωμά αμύγδαλα (λίγο διάρροια)&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrium muriaticum</remedy>
+        <potency>200 CH, 1M, 6x</potency>
+        <regimen>1 κάψουλα Natrium muriaticum 200CH την πρώτη μέρα της θεραπείας.&#13;
+1 κάψουλα Natrium muriaticum 1Μ την δεύτερη μέρα της θεραπείας.&#13;
+40 κάψουλες Natrium muriaticum 6x καθημερινά από την τρίτη μέρα.</regimen>
+        <other_notes>Πρόταση να πίνει Echinacea ή Spiroulina.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

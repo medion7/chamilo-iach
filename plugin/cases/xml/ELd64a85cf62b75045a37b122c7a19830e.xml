@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd64a85cf62b75045a37b122c7a19830e</ID>
+  <patient>
+    <case_date>2015-07-27 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>M.A.</patient_initials>
+    <age>29</age>
+    <circumstances>Άγαμη, 4 αδέλφια,επάγγελμα: πολιτικός μηχανικός</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αρχικά εμφάνισε γαστρίτιδα πριν 2 χρόνια που αντιμετωπίστηκε με συμβατική φαρμακευτική αγωγή</origin>
+        <causative_factors>Οικογενειακά προβλήματα (πατέρας στη φυλακή για τοκογλυφία, η αδελφή της απόπειρα αυτοκτονίας λόγω πίεσης στη δουλειά της, ο αδερφός της CA όρχεων)</causative_factors>
+        <modalities>&lt; μετά το φαγητό, &lt; όταν στεναχωριέται, &lt; με τον καπνό του τσιγάρου - της προκαλεί κάτι σα ναυτία </modalities>
+        <occurrence_time> </occurrence_time>
+        <body_side>   </body_side>
+        <appearence_frequency>Διάρροιες καθημερινά τα τελευταία 2 χρόνια</appearence_frequency>
+        <pain_desc>Αίσθηση διόγκωσης και πίεσης στην κοιλιά</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>  </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Σπαστική κολίτιδα -27/7/2015</conv_med_presc>
+        <lab_tests>
+          <desc> </desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc> </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αντιμετώπιση της γαστρίτιδας με αντιόξινα πριν 2 χρόνια&#13;
+Λαμβάνει duspatalin για την κολίτιδα&#13;
+Έχουν γίνει όλοι οι εμβολιασμοί</therapies_vaccination>
+          <traumas>Τα οικογενειακά προβλήματα- Η συμπεριφορά του πατέρα της απέναντι σε εκείνη, στα αδέλφια της αλλά και στη μητέρα τους- ήταν αδιάφορος, είχε εξωσυζυγικές σχέσεις, έπαιζε στο καζίνο</traumas>
+          <infections>Κρυολόγημα 1-2 φορές το χρόνο χωρίς υψηλό πυρετό πάντα</infections>
+          <other>Θυρεοειδίτιδα Hashimoto. Λαμβάνει Τ4&#13;
+Παλαιότερα παρουσίαζε πονοκεφάλους όταν πιεζόταν με τις σπουδές της, οι οποίοι είχαν σταματήσει τα τελευταία 4 χρόνια&#13;
+Κύστη κόκκυγα προ 7ετίας</other>
+        </personal>
+        <family>
+          <diseases>Στο ιατρικό ιστορικό των γονέων δεν υπάρχουν προβλήματα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται</reactions>
+        <sleeping_habits>Δεν την ξεκουράζει ο ύπνος- αλλά δεν κοιμάται και αρκετές ώρες λόγω υποχρεώσεων - Ξεσκεπάζει τα πόδια</sleeping_habits>
+        <food_modalities>Des: ψωμί (2) , γλυκά (2), ψάρια, τυρί (3), κρέας, λίπος, οστρακοειδή&#13;
+Avers: Σαλάτες (3) , φρούτα (2), οτιδήποτε πράσινο&#13;
+</food_modalities>
+        <menstruation>Δυσμηνόρροια (3)- παίρνει 3-4 mesulid κάθε φορά. &gt; κάπως με εμέτους κατά την Ε.Ρ. Κράμπες στην κοιλιά(2).  Η περίοδος διαρκεί περίπου 6 ημέρες. Κύκλος σταθερός.</menstruation>
+      </physical>
+      <mental_emotional>Καταθλιπτική (2). Νιώθει πλάκωμα στο στήθος, νιώθει κόμπο στο λαιμό (3). Την πιάνει κάτι σαν δύσπνοια όταν σκέφτεται τα οικογενειακά προβλήματα. Αναστενάζει (2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history> Η ασθενής προσήλθε για να αντιμετωπίσει ένα σωματικό πρόβλημα, αυτό της κολίτιδας. Όπως προκύπτει ωστόσο από το ιστορικό της, το ψυχικό επίπεδο είναι σημαντικά επηρεασμένο. Η κολίτιδα εμφανίστηκε τα τελευταία δύο χρόνια, μετά την φυλάκιση του πατέρα της. </personal_medical_history>
+        <family_medical_history>  </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Για τη συνταγογράφηση θα πρέπει να δοθεί περισσότερο έμφαση στα ψυχικά συμπτώματα και λιγότερο στην κολίτιδα.&#13;
+Η πρόγνωση είναι καλή γιατί παρά τα ψυχικά συμπτώματα, υπάρχει μία έντονη σωματική εκδήλωση. Επιπλέον το φάρμακο το οποίο και έλαβε η ασθενής φαίνεται αρκετά καθαρά από το ιστορικό της.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Την ενοχλεί ο καπνός του τσιγάρου ενώ η ίδια καπνίζει (2)&#13;
+</peculiar>
+        <intense>Διάρροιες (3)&#13;
+Δυσμηνόρροια με έντονες κράμπες στην κοιλιά(3)&#13;
+Κόμπος στο λαιμό-πλάκωμα στο στήθος (2)&#13;
+Πόνος και τυμπανισμός μετά το φαγητό (2)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Βάσει του ιστορικού θα μπορούσε να δοθεί&#13;
+Ignatia: κυρίως για τον κόμπο στο λαιμό, την απέχθεια στα φρούτα, την επιδείνωση από τον καπνό του τσιγάρου&#13;
+Lycopodium: για τις διάρροιες, την επιθυμία στα γλυκά, τον τυμπανισμό μετά το φαγητό</remedies_differentiation>
+      <prescription>
+        <remedy>Ignatia</remedy>
+        <potency>200ch+1M</potency>
+        <regimen>200Ch/1 caps την πρώτη μέρα&#13;
+1M/1 caps τη δεύτερη μέρα</regimen>
+        <other_notes>Παράλληλα με την ομοιοπαθητική αγωγή στην ασθενή ζητείται να διακόψει όλα τα φάρμακα που παίρνει.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-28 20:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής προσήλθε για επανεξέταση 2 μήνες μετά την πρώτη συνεδρία. Μετά τη λήψη της αγωγής εμφάνισε πονοκεφάλους για 4-5 ημέρες &lt; το απόγευμα. Οι διάρροιες σταμάτησαν και δεν νιώθει φούσκωμα μετά το φαγητό. Τον πρώτο μήνα είχε δυσκοιλιότητα.Τώρα κένωση κάθε 2 ημέρες. Θέλει τα φρούτα αλλά τα λαχανικά μόνο ψητά. Έχει αδιαθετήσει 2 φορές και πήρε μισό χάπι mesulid. </reaction>
+      <analysis>Το φάρμακο φαίνεται ότι έδρασε θετικά στην ασθενή. Η βασική συμπτωματολογία είναι καλύτερα και ψυχικά και η ίδια έχει καλύτερη διάθεση. Οι πονοκέφαλοι τις πρώτες ημέρες θεωρούνται ως επαναφορά παλαιότερων συμπτωμάτων.</analysis>
+      <conclusion>Θα πρέπει να περιμένουμε. </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ignatia </remedy>
+        <potency>6x</potency>
+        <regimen>30 caps/1 κάθε μέρα</regimen>
+        <other_notes> Δεν χρειάζεται να γίνει επανάληψη του φαρμάκου, ούτε να δοθεί μεγαλύτερη δυναμοποίηση. </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-14 21:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής προσήλθε για την δεύτερη επανεξέταση 2 μήνες μετά την δεύτερη συνεδρία. Έχει συνάχι με δέκατα και πόνο στον λαιμό όταν καταπίνει. Αυτό είχε να της εμφανιστεί από τριετίας. Όλο αυτό το διάστημα κένωση κάθε 2 ημέρες. Δεν κάνει πια καθόλου διάρροιες. Δεν υπάρχει πόνος κατά την Ε.Ρ. Εξακολουθεί να μην τρώει τα λαχανικά παρά μόνο ψητά ή βραστά. Εμφανίστηκε ένα εξάνθημα στο μέτωπο το οποίο έφυγε από μόνο του μετά από 10 ημέρες. Το είχε βγάλει και πέρσι αλλά τότε είχε χρησιμοποιήσει μία αλοιφή. Όλο αυτό το διάστημα ψυχικά είναι καλά. Πρόσφατα έκανε και μία σχέση με κάποιον από τη δουλειά της και αυτό την κάνει να αισθάνεται ακόμα καλύτερα.Δεν θέλει να έχει καμία σχέση με τον πατέρα της.</reaction>
+      <analysis>Η πορεία της ασθενούς είναι πολύ καλή. Δεν θα χρειαστεί τρίτη αξιολόγηση εκτός και εάν εμφανίσει κάποιο νέο σύμπτωμα.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

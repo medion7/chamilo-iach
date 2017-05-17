@@ -1,0 +1,251 @@
+<!doctype html>
+<!--[if IE 8]>
+    <html class="no-js ie8 oldie" lang="en">
+<![endif]-->
+<!--[if IE 9]>
+    <html class="no-js ie9 oldie" lang="en">
+<![endif]-->
+
+<!--[if !IE]><!-->
+<html lang="el">
+<!--<![endif]-->
+<head>
+	<!--[if IE 9]>
+		<link rel="stylesheet" type="text/css" href="/css/ie9.css" />
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="/js/libs/html5shiv.js"></script>
+	<![endif]-->
+	<!--[if IE 9]>
+		<style type="text/css">
+			.gradient {
+				filter: none !important;
+			}
+		</style>
+		<link rel="stylesheet" type="text/css" href="/css/ie9.css" />
+	<![endif]-->
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="stylesheet" type="text/css" href="/js/tutorials/chlp.css" />
+<link rel="stylesheet" type="text/css" href="/css/all.min.1437051707742.css" />
+<script type="text/javascript" src="/assets/72bf4210/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/72bf4210/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/js/libs/jquery-ui-1.9.2.custom.min.js"></script>
+<script type="text/javascript" src="/js/libs/libs.min.1437051707742.js"></script>
+<script type="text/javascript" src="/js/libs/offline.min.js"></script>
+<script type="text/javascript" src="/js/httpQueue.min.1437051707742.js"></script>
+<script type="text/javascript" src="/js/app.min.1437051707742.js"></script>
+<script type="text/javascript" src="/js/skyline/VCMobileSkyline.min.1437051707742.js"></script>
+<script type="text/javascript" src="/js/VCTabs.min.1437051707742.js"></script>
+<script type="text/javascript" src="/js/chocoModal/chocoModal.min.1437051707742.js"></script>
+<script type="text/javascript" src="/langs/el.min.1437051707742.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+VC.Application.userLayout = "automatic";VC.Application.flatRepDefault = 1;VC.Application.keyboardEnabled = 0;VC.Application.ebdModeDefault = true;VC.Application.repLanguageCode = "en";
+VC.Application.isMobile = true;
+VC.NavigationBarViewModelData = {"RecordCount":0,"Status":0,"UserWallet":null,"LanguagesLst":[{"LanguageCode":"de","LanguageID":33,"LanguageName":"Deutsch"},{"LanguageCode":"el","LanguageID":37,"LanguageName":"\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"},{"LanguageCode":"en","LanguageID":38,"LanguageName":"English"},{"LanguageCode":"es","LanguageID":40,"LanguageName":"Espa\u00f1ol"},{"LanguageCode":"fr","LanguageID":48,"LanguageName":"Fran\u00e7ais"},{"LanguageCode":"it","LanguageID":73,"LanguageName":"Italiano"},{"LanguageCode":"pt","LanguageID":131,"LanguageName":"Portugu\u00eas"},{"LanguageCode":"ru","LanguageID":136,"LanguageName":"\u0440\u0443\u0441\u0441\u043a\u0438\u0439"}],"selectedLanguage":"el","logged":true,"actions":{"changeLanguage":"\/?r=site\/changelanguage","changeRepLanguage":"\/?r=site\/changereplanguage","changeLayout":"\/?r=site\/changelayout","getCounters":"\/?r=site\/getcounters","getAlerts":"\/?r=billing\/getuseralert","closeAlert":"\/?r=billing\/closeuseralert"}}
+VC.Application.activeSessionToken = "k0bgb3m3v9shhbm8t3q4ntg964";
+;(function($){var cont=($.browser.msie&&parseInt($.browser.version)<=7)?document.createElement("div"):null,excludePattern=null,includePattern=null;$.nlsc={resMap:{},normUrl:function(url){if(!url)return null;if(cont){cont.innerHTML="<a href=\""+url+"\"></a>";url=cont.firstChild.href;}if(excludePattern&&url.match(excludePattern))return null;if(includePattern&&!url.match(includePattern))return null;return url.replace(/\?*(_=\d+)?$/g,"");},fetchMap:function(){for(var url,i=0,res=$(document).find("script[src]");i<res.length;i++){if(!(url=this.normUrl(res[i].src?res[i].src:res[i].href)))continue;this.resMap[url]=1;}}};var c={global:true,beforeSend:function(xhr,opt){if(opt.dataType!="script")return true;if(!$.nlsc.fetched){$.nlsc.fetched=1;$.nlsc.fetchMap();}var url=$.nlsc.normUrl(opt.url);if(!url)return true;if($.nlsc.resMap[url])return false;$.nlsc.resMap[url]=1;return true;}};if($.browser.msie)c.dataFilter=function(data,type){if(type&&type!="html"&&type!="text")return data;return data.replace(/(<script[^>]+)defer(=[^\s>]*)?/ig,"$1");};$.ajaxSetup(c);})(jQuery);
+/*]]>*/
+</script>
+<title>Vithoulkas Compass - Site</title>
+	<link rel="shortcut icon" href="favicon.ico" />
+		<!-- WebApp Manifest -->
+	<link rel="manifest" href="manifest.json" />
+
+	
+	<!-- set the correct name -->
+	<meta name="application-name" content="Vithoulkas Compass" />
+	<meta name="apple-mobile-web-app-title" content="Vithoulkas Compass" />
+<!-- Icons -->
+	<!--link rel="apple-touch-startup-image" href="/images/logo3.png" /-->
+	<link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png" />
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="favicon-194x194.png" sizes="194x194" />
+	<link rel="icon" type="image/png" href="android-chrome-192x192.png" sizes="192x192" />
+
+	<!-- icon in the highest resolution we need it for -->
+	<link rel="icon" sizes="228x228" href="apple-touch-icon-228x228.png" />
+	<link rel="apple-touch-icon" href="apple-touch-icon-228x228.png" />
+
+	<!-- multiple icons for IE11 on Win8 -->
+	<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+	<!-- Tile icon for IE10 on Win8 (144x144 + tile color) -->
+	<meta name="msapplication-TileColor" content="#2b5797" />
+	<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+	<meta name="msapplication-config" content="browserconfig.xml" />
+
+<!-- Safari specific -->
+	<!-- Status bar style -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+<!-- MS specific -->
+	<!-- Tooltip (Desktop) -->
+	<meta name="msapplication-tooltip" content="Vithoulkas Compass" />
+	<!-- Start url when pinned (Desktop) -->
+	<meta name="msapplication-starturl" content="./" />
+	<!-- Color of navigation buttons (back/forward) (Desktop) -->
+	<meta name="msapplication-navbutton-color" content="#3195cf" />
+
+	<meta name="theme-color" content="#ffffff" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0, user-scalable=no" />
+	
+
+										</head>
+<body>
+	
+<section id="navigation-bar" class="vc-nav fixed-top vc-navigation-bar gradient">
+	<div class="navigation-bar-wrapper">
+		<h1 class="logo logo-normal"></h1>
+		<span id="navigation-bar-title" class="vc-float-left user-level-info"></span>
+
+		<div id="navigation-bar-menu-mobile">
+			<a id="mobile-menu-trigger" href="#" class="pull-right">
+				<img src="/images/mobile_menu.png" width="20" height="20" class="icon-mobile-menu-trigger" />
+			</a>
+		</div>
+
+		<ul id="navigation-bar-menu" class="navigation-bar-menu vc-nav pull-right">
+							<li class="mobile">
+					<a id="menu-mobile-close" class="pull-right" href="#">Κλείσιμο Μενού</a>				</li>
+				<li id="navigation-bar-menu-mycompass" class="active gradient">
+					<a href="/?r=mycompass">Το Compass μου</a>					<span data-bind="visible: $root.isInCase()">
+					<a class="direct" target="_blank" title="Πατήστε εδώ για άνοιγμα σε νέο παράθυρο" href="/?r=mycompass"><span class="newwin">&nbsp;</span></a>					</span>
+				</li>
+				<li id="navigation-bar-menu-mycases" class="gradient">
+					<a href="/?r=mycases">Οι Περιπτώσεις μου</a>					<span data-bind="visible: $root.isInCase()">
+					<a class="direct" target="_blank" title="Πατήστε εδώ για άνοιγμα σε νέο παράθυρο" href="/?r=mycases"><span class="newwin">&nbsp;</span></a>					</span>
+				</li>
+				<li id="navigation-bar-menu-materiamedica" class="gradient">
+					<a class="direct" target="winMM1440507477" href="/?r=materiamedica">Materia Medica</a>				</li>
+				<li id="navigation-bar-menu-repertory" class="gradient">
+					<a class="direct" target="winRep1440507477" href="/?r=repertory">Repertory</a>				</li>
+
+				
+				<li class="divider" id="divSpacer">|</li>
+				<li id="navigation-bar-menu-username" class="gradient">
+					<a href="/?r=userprofile"><i class="icon-user">&nbsp;</i> <span>kalogirouevagelia</span></a>				</li>
+
+			<li id="navigation-bar-menu-counters" class="icon-inbox navigation" data-bind="visible: counter() > 0" style="display: none">
+					<ul>
+					<li><a href="#"><span class="counter" data-bind="text: counter"></span></a></li>
+					</ul>
+			</li>
+			<li class="divider" style="display:none">|</li>
+						<li id="navigation-bar-menu-languagesold" style="display:none">
+				<a href="#">Language</a>
+			  <!--div class="btn-group pull-right">
+				<select data-bind="options: LanguagesLst, optionsText: 'LanguageName', optionsValue: 'LanguageCode', value: selectedLanguage"></select>
+			  </div-->
+			</li>
+					<li class="divider" style="display:none">|</li>
+		<li id="navigation-bar-menu-logout" style="display:none">
+				<a class="direct" href="/?r=site/logout">Αποσύνδεση</a>		</li>
+						<li class="pull-right hdsm hdxsm" id="navigation-bar-menu-gear">
+			<div class="vc-notification-icon" data-bind="visible: VC.Application.User.subscriptionStatus() > 0, css: { 'vc-notification-warning': VC.Application.User.subscriptionStatus() === 1, 'vc-notification-error': VC.Application.User.subscriptionStatus() === 2 }">
+			</div>
+			<span class="icon-gear-big"></span>
+			</li>
+					 </ul>
+	</div>
+
+	
+<section id="breadcrumbs" class="vc-breadcrumbs vc-color-grey-gradient">
+	<div class="breadcrumbs-wrapper">
+		<!-- ko if: $root.mode() != 'DEFAULT' -->
+		<div class=" breadcrumbs">
+			<div class="CasePath">
+				<div class="breadcrumbs-CasePath" data-bind="foreach: breadcrumbData">
+					<div data-bind="html: element, click: $root.click, event: { mouseover: $root.enableDetails, mouseout: $root.disableDetails }"></div>
+				</div>
+			</div>
+			<!-- ko if: $root.mode() == 'CaseHistory' -->
+			<div class="bchelp"><img src="images/icon-help-big.png" alt="Help" /></div>
+			<div class="breadcrumbs-caseEdit">
+				<div class="">
+					<div class="OpenCaseEdit" data-bind="visible: !VC.CaseHeaderViewModel.isExportOpen(), click: $root.click, event: { mouseover: $root.enableDetails, mouseout: $root.disableDetails }">
+						<img id="bcinfoimg" src="images/icon_info.png" />
+						<span class="spanCaseOpenDetails" data-bind="visible: editable() == -1 && detailsEnabled">
+							Κάντε κλικ για να δείτε τα δεδομένα της περίπτωσης.						</span>
+						<span class="spanCaseOpenDetails" data-bind="visible: editable() != -1 && detailsEnabled">
+							Κάντε κλικ για να κρύψετε τα δεδομένα της περίπτωσης.						</span>
+					</div>
+				</div>
+			</div>
+			<!-- /ko -->
+			<!-- ko if: $root.mode() == 'EventIndex' && $root.isPrescription() && VC.CaseHeaderViewModel.remedies().length > 1  -->
+			<div class="toggle" data-bind="click: $root.click, visible: openContent() == -1">
+				<span class="icon-show-remedies"></span>
+				<span>Περισσότερα...</span>
+			</div>
+			<div class="toggle" data-bind="click: $root.click, visible: openContent() != -1">
+				<span class="icon-hide-remedies"></span>
+				<span>Κλείσιμο</span>
+			</div>
+			<!-- /ko -->
+		</div>
+		<!-- /ko -->
+	</div>
+	<!-- ko if: $root.mode() !== 'CaseHistory' -->
+	<div class="bchelp"><img src="images/icon-help-big.png" alt="Help" /></div>
+	<!-- /ko -->
+</section>
+
+</section>
+	
+	<section id="content" class="vc-content">
+		<div class="vc-content">
+	<p>Φόρτωση...</p>
+	<div class="vc-progress-bar">
+		<span style="width:1%;"></span>
+	</div>
+
+	</div>		<div class="clearfix"></div>
+	</section>
+
+	<footer id="vcfooter" class="vc-footer fixed-bottom vc-color-grey-gradient">
+			</footer>
+
+	<section id="layout-loading">
+		<div id="layout-loading-indicator"><span class="hdxsm">Φόρτωση...</span></div>
+	</section>
+
+	
+
+<script type="text/javascript" src="/js/NavigationBar/NavigationBarViewModel.min.1437051707742.js"></script>
+<script type="text/javascript" src="/js/NavigationBar/breadcrumbsViewModel.min.1437051707742.js"></script>
+<script type="text/javascript" src="/js/VCMobileMenu.min.1437051707742.js"></script>
+<script type="text/javascript" src="/js/responsive/layoutMain.min.1437051707742.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+			window.addEventListener('load', function() {
+				new FastClick(document.body);
+			}, false);
+		
+jQuery(function($) {
+
+		$(".vc-progress-bar span").css("width", "99%");
+	
+});
+/*]]>*/
+</script>
+</body>
+</html>

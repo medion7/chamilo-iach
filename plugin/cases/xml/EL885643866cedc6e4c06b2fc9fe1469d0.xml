@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL885643866cedc6e4c06b2fc9fe1469d0</ID>
+  <patient>
+    <case_date>2016-05-08 16:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ν.Ο.</patient_initials>
+    <age>64</age>
+    <circumstances>Παντρεμενη, 1 παιδι, δασκαλα σε σχολειο.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΓΟΠ τα τελευταια 20 χρονια</origin>
+        <causative_factors>αγχος απο τη εργασια της- ειναι τελειομανης</causative_factors>
+        <modalities>βελτιωνεται μετα την καταναλωση ξινομηλων</modalities>
+        <occurrence_time>ΓΟΠ χειροτερευει το βραδυ</occurrence_time>
+        <body_side>ΓΟΠ-οπισθοστερνικο αισθημα καυσου</body_side>
+        <appearence_frequency>σχεδον καθε μερα</appearence_frequency>
+        <pain_desc>οπισθοστερνικο αισθημα καυσου</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Γαστροισοφαγικη παλινδρομιση (ΓΟΠ) υπο περιστασιακη αγωγη με αντιοξινα</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>αντιοξινα- δε θυμαται για παιδικους εμβολιασμους</therapies_vaccination>
+          <traumas>Πριν 20 χρονια εχασε τη μητερα της με την οποια ηταν πολυ δεμενη, πριν 7 χρονια εχασε την αδελφη της και πριν 3 χρονια τον αδελφο της.</traumas>
+          <infections>οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Η μητερα της πεθανε απο βαρυ αιμορραγικο εγκεφαλικο, η αδελφη της απο καρκινι μαστου και ο αδελφος της απο ισχαιμικο εγκεφαλικο .</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Γενικα της αρεσει η ζεστη, δε θελει να κρυωνει. Το καλοκαιρι κανει ντουζ με σχεδον καυτο νερο οση ζεστη και να εχει+++.</reactions>
+        <sleeping_habits>Υπνος οχι καλος,βλεπει εφιαλτες++,ξυπνα ανα 1-2 ωρες. Το πρωι αισθανεται πολυ κουρασμενη.</sleeping_habits>
+        <food_modalities>Διψα: αναφερει κανονικη&#13;
+Επιθυμει καπνιστα κρεατα++, γλυκα+++, καφε+++&#13;
+Απεχθανεται γαλα, γιαουρτι, φρουτα</food_modalities>
+        <menstruation>Περιοδος σταματησε σε ηλικια 44 ετων.</menstruation>
+      </physical>
+      <mental_emotional>κλαιει ακομη οταν μιλαει για τη μαμα της και τα αδελφια της, αισθανεται θλιψη οταν τους θυμαται.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Υποφερει απο ΓΟΠ τα τελευταια 20 χρονια. Αν φαει λιγο πιο βαρια το βραδυ ολη την επομενη μερα εχει εντονο οπισθοστερνικο αισθημα καυσου+++.Ο πονος υφιεται μονο με την καταναλωση ξινομηλου. Τα τρωει παρολο που δεν της αρεσουν καθολου γιατι την ανακουφιζουν.&#13;
+Ειναι πολυ αγχωδης χαρακτηρας+++&#13;
+Υποχονδριο ατομο+++.Με οτιδηποτε της συμβαινει τηλεφωνει σε καθε γιατρο που γνωριζει και πωταει τι μπορει να της συμβει.(Με ειχε ενοχλησει προσφατα για να της πω αν κινδυνευει να παθει καρκινο γναου μετα απο τοποθετηση οδοντικου εμφυτευματος).&#13;
+Εχει αγχος για την κορη της και γενικα για την οικογενεια της.&#13;
+Ο υπνος της δεν ειναι καλος,βλεπει συχνα εφιαλτες++,ξυπνα ανα 1-2 ωρες.Το πρωι αισθανεται πολυ κουρασμενη++.&#13;
+Γενικα κρυωνει++ αλλα δε θελει να φοραει πολλα ρουχα,την πνιγουν τα κασκολ και τα ζιβαγκο++&#13;
+Η ΓΟΠ ειναι χειροτερα το βραδυ.&#13;
+Υποφερει συχνα απο δυσκοιλιοτητα για την οποια ομως δεν παιρνει υπακτικα-φοβαται μηπως η καταναλωση τους της προκαλεσει καρκινο στο εντερο++.&#13;
+Αγαπαει την ταξη και θελει τα παντα στη θεση τους+++.Γκρινιαζει στους αλλους οταν δεν τακτοποιουν. Στην ντουλαπα της τα ρουχα της ειναι ταξινομημενα κατα χρωματα+++(το γνωριζω διοτι προκειται για συγγενικο προσωπο).&#13;
+Απο δραστηριοτητες της αρεσει πολυ ο χορος++&#13;
+Διψα αναφερει κανονικη,δενεπιθυμει κρυο νερο περισσοτερο&#13;
+Επιθυμει καπνιστα κρεατα++, γλυκα+++, καφε+++&#13;
+Απεχθανεται γαλα, γιαουρτι, φρουτα&#13;
+</personal_medical_history>
+        <family_medical_history>Η μητερα της πεθανε απο βαρυ αιμορραγικο εγκεφαλικο, η αδελφη της απο καρκινι μαστου και ο αδελφος της απο ισχαιμικο εγκεφαλικο .</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Nux Vomica ή Arsenicum</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ο πονος υφιεται μονο με την καταναλωση ξινομηλου++&#13;
+την πνιγουν τα κασκολ και τα ζιβαγκο++&#13;
+Αγαπαει την ταξη και θελει τα παντα στη θεση τους+++.Γκρινιαζει στους αλλους οταν δεν τακτοποιουν. Στην ντουλαπα της τα ρουχα της ειναι ταξινομημενα κατα χρωματα+++</peculiar>
+        <intense>Ειναι πολυ αγχωδης χαρακτηρας+++&#13;
+Υποχονδριο ατομο+++&#13;
+Αγχος υγεις-καρκινου,φοβαται οτι η καταναλωση υπακτικων θα την οδηγησει σε καρκινο εντερου++&#13;
+Χορος++</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>THROAT INFLAMMATION oesophagus+++: Ars. Thus-t.&#13;
+MIND RESTLESSNESS nervousness anxious+++: Acon. Ars. Kali-ar. Kali-c. Nat-ar. Nat-c. Tarent.&#13;
+MIND ANXIETY health about+++: Agar. Arg-n. Kali-ar. Nit-ac. Ars. Fl-ac. Graph. Lob. Lyc. Phel. Phos. Syph.&#13;
+MIND CARES -full of -relatives , about+: Cocc. Sulph.(χωρις bold ειναι και Ars.)&#13;
+SLEEP DREAMS frightful++: Am-m. Ars. Aur. Borx. Calc. Calc-ar. Carb-v. Cina. Cocc. Con. Crot-c. Graph. Kali-ar. Kali-br. Kali-c. Lyc. Nay-m. Nicc. Puls. Sil.&#13;
+SLEEP WAIKING frequent +: Alum. Bar-c. Calc. Hep. Mur-ac. Phos. Puls. Sep. Sulph. (Χωρις bold ειναι και Ars.)&#13;
+GENERALITIES WEAKNESS waking on +++: Puls. Cycl. Sep.&#13;
+GENERALITIES COLD agg ++: Ars. Bar-c. Calc. Calc -ar. Calc -f. Calc-p. Calc-Sil. Caps. Caust. Chin. Dulc. Graph. Hep. Hyper. Kali -ar. Kali -c. Kali-p. Lyc. Mag-p. Mosch. Nat-ar. Nit-ac. Nux -v. Phos. Psor. Pyrog. Ran -b. Rhus-t. Rumex Sabad. Sep. Sil. Spig. Verat.&#13;
+EXTERNAL THROAT CLOTHING agg ++: Lach. Cench. Crot-c. Crot-h.&#13;
+THROAT PAIN burning+++: Acon. Ars. Canth. Caps. Caust. Euph. Kali-ar. Lac-c. Lyc. Merc-c. Mez. Nat-m. Sang. Sulph. &#13;
+THROAT PAIN burning night++: Bar-c. Nux-v.&#13;
+MIND FASTIDIOUS +++: Ars&#13;
+GENERALITIES FOODand DRINKS meat smoked desire++: Calc-p. Caust. Tub.&#13;
+GENERALITIES FOOD and DRINKS SWEETS DESIRE +++: Arg-n. Calc. Chin. Lyc. Sulph. (Χωρις bold ειναι και Ars.)&#13;
+GENERALITIES FOOD and DRINKS coffee desire+++: Ang. Alum. Ars. Aur. Bry. Caps. Carb-v. Chin. Con. Mez. Nux-m. Sel. Sep. Xan. Xanth.&#13;
+GENERALITIES FOOD and DRINKS milk aversion+: Nat-c. Lac-d. Mag-m. Staph.&#13;
+GENERALITIES FOOD and DRINKS yoghurt aversion+: Nat-s.&#13;
+GENERALITIES FOOD and DRINKS fruit aversion+: Ign.  ( χωρις bold ειναι και Ars.)</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5717/image.jpeg</file_url>
+      </repertorization>
+      <remedies_differentiation>Nux Vomica ή Arsenicum&#13;
+Θα δοσω Ars διοτι γνωριζω οτι ειναι υπερβολικα αγχωδης και υποχονδρια με την υγεια της</remedies_differentiation>
+      <prescription>
+        <remedy>Arsenicum</remedy>
+        <potency>200ch</potency>
+        <regimen>1caps εφαπαξ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-05-08 14:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Βελτιωθηκε η ποιοτητα του υπνου,βλεεπι λιγοτερους εφιαλτες, ξυπναει μονο 1-2 φορες/νυχτα.&#13;
+Χωρις καμια βελτιωση στη ΓΟΠ.</reaction>
+      <analysis>καλη αντιδραση-βελτιωση ποιοτητας υπνου.</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-05-08 14:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Σαφης βελτιωση της ΓΟΠ τους τελευταιους μηνες με λιγοτερες ημερες ενοχλησης.&#13;
+Προσωπικη εκτιμηση: ειναι λιγοτερο υποχονδρια, επαψε να με παιρνει τηλ και να με ρωταει αγχωμενη για την υγεια της.</reaction>
+      <analysis>πολυ καλη</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

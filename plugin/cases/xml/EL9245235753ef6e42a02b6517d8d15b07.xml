@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL9245235753ef6e42a02b6517d8d15b07</ID>
+  <patient>
+    <case_date>2015-12-02 03:05:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΜΑ</patient_initials>
+    <age>8</age>
+    <circumstances>Please enter the personal circumstancesΚΟΡΙΤΣΑΚΙ 7,5ΕΤΩΝ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared) ΑΠΟ 1,5 ΕΤΟΥΣ ΣΥΧΝΑ ΕΠΕΙΣΟΔΙΑ ΚΡΙΘΗΣ ΣΤΑ ΑΝΩ ΒΛΕΦΑΡΑ ΑΜΦΩ.</origin>
+        <causative_factors>Please enter any possible causative factors ΤΑ ΕΠΕΙΣΟΔΙΑ ΞΕΚΙΝΗΣΑΝ ΜΕΤΑ ΑΠΟΕΝΑ ΔΙΑΞΙΦΙΣΜΟ ΜΕ ΦΙΛΕΣ ΣΤΟ ΣΧΟΛΕΙΟ ΠΟΥ ΤΗΝ ΚΑΤΗΓΟΡΗΣΑΝ ΟΤΙ ΤΟΥΣ ΕΚΛΕΨΕ ΜΙΑ ΚΑΣΕΤΙΝΑ.</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)ΕΠΕΙΔΙΝΩΣΗ ΣΤΟ ΣΧΟΛΕΙΟ ,ΒΕΛΤΙΩΣΗ ΤΟ ΒΡΑΔΥ ΚΑΙ ΣΤΙΣ ΔΙΑΚΟΠΕΣ. ΒΕΛΤΙΩΣΗ ΜΕ ΚΡΥΑ ΕΠΙΘΕΜΑΤΑ</modalities>
+        <occurrence_time> Τlease enter the Time of occurrence, aggravation or amelioration ΒΕΛΤΙΩΣΗ ΤΟ ΒΡΑΔΥ ΣΤΙΣ ΔΙΑΚΟΠΕΣ ΚΑΙ ΜΕ ΚΡΥΑ ΕΠΙΘΕΜΑΤΑ.ΧΕΙΡΟΤΕΡΑ ΣΤΟ ΣΧΟΛΕΙΟ ΜΕ ΤΟ ΣΤΡΕΣ.</occurrence_time>
+        <body_side>ease enter side of the bodyΚΑΙ ΣΤΑ ΔΥΟ ΑΝΩ ΒΛΕΦΑΡΑ</body_side>
+        <appearence_frequency>Please enter frequency of appearance 1,2 ΕΠΕΙΣΟΔΙΑ ΤΟΝ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>Please enter a description of the pain ΠΟΝΟΣ ΔΙΑΞΙΦΙΣΤΙΚΟΣ ΚΑΙ ΚΝΗΣΜΟΣ ΣΤΑ ΒΛΕΦΑΡΑ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts ΔΕΝ ΠΑΡΟΥΣΙΑΖΕΙ ΕΠΕΚΤΑΣΗ Ο ΠΟΝΟΣ.</complaint_ext>
+        <other_complaints>ΙΩΣΕΙΣ.ΜΙΑ ΑΜΥΓΔΑΛΙΤΙΔΑ ΠΟΥ ΑΝΤΙΜΕΤΩΠΙΣΘΗΚΕ ΜΕ MERCURIUS SOLUBILIS.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical PrescriptionsΤΟΠΙΚΑ ΑΛΟΙΦΗ TOBRADEX</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>PULSATILA</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinationsΠΡΟΒΛΕΠΟΜΕΝΟΙ ΕΜΒΟΛΙΑΣΜΟΙ ΕΚΤΟΣ ΙΛΑΡΑΣ ΕΡΥΘΡΑΣ ΠΑΡΩΤΙΤΙΔΑΣ .ΤΟΠΙΚΕΣ ΑΛΟΙΦΕΣ TOBRADEX ΓΙΑ ΤΑ ΚΡΙΘΑΡΑΚΙΑ.</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)ΚΑΥΓΑΣ ΣΤΟ ΣΧΟΛΕΙΟ ΜΕ 2 ΦΙΛΕΣ ΠΟΥ ΤΗΝ ΚΑΤΗΓΟΡΗΣΑΝ ΟΤΙ ΕΚΛΕΨΕ ΤΗΝ ΚΑΙΝΟΥΡΓΙΑ ΚΑΣΕΤΙΝΑ ΤΗΣ ΜΙΑΣ ΦΙΛΗΣ.ΚΑΚΗ ΣΧΕΣΗ ΜΕ ΤΗΝ ΚΑΙΝΟΥΡΓΙΑ ΔΑΣΚΑΛΑ ΣΤΟ ΣΧΟΛΕΙΟ.</traumas>
+          <infections>Please enter Acute infectious diseasesΜΙΑ ΑΜΥΓΔΑΛΙΤΙΔΑ ΣΤΟ ΠΑΡΕΛΘΟΝ 5ΕΤΩΝ. ΙΩΣΕΙΣ.  ΤΟΝ ΤΕΛΕΥΤΑΙΟ 1,5 ΧΡΟΝΟ ΣΥΧΝΑ ΚΡΙΘΑΡΑΚΙΑ.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the familyΠΑΤΕΡΑΣ ΥΠΕΡΧΟΛΗΣΤΕΡΙΝΑΙΜΙΑ ΒΡΟΓΧΙΚΟ ΑΣΘΜΑ.ΜΗΤΕΡΑ ΗΠΙΑ ΚΑΤΑΘΛΙΨΗ  ΠΟΥ ΕΛΕΓΧΕΤΑΙ ΜΕ ΦΑΡΜΑΚΑ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΣΥΝΗΘΩΣ ΚΡΥΩΝΕΙ</reactions>
+        <sleeping_habits>ΣΥΝΗΘΩΣ ΜΠΡΟΥΜΗΤΑ.</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙΓΛΥΚΑ ΚΑΙ ΚΡΕΑΣ.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptomsΠΟΛΥ ΕΥΑΙΣΘΗΤΗ ΑΓΑΠΑ ΤΟ ΣΚΥΛΑΚΙ ΤΗΣ ΚΑΙ ΕΙΝΑΙ ΣΥΝΔΕΔΕΜΕΝΗ ΜΑΖΙ ΤΟΥ.ΔΕΝ ΕΚΦΡΑΖΕΙ ΕΥΚΟΛΑ ΣΥΝΑΙΣΘΗΜΑΤΑ ΚΛΕΙΣΤΗ,ΕΧΕΙ ΞΕΣΠΑΣΜΑΤΑ ΘΥΜΟΥ ΠΟΛΛΕΣ ΦΟΡΕΣ ΧΩΡΙΣ ΙΔΙΑΙΤΕΡΟ ΛΟΓΟ.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical historyΙΩΣΕΙΣ ΜΕ ΠΥΡΕΤΟΥΣ. ΜΙΑ ΑΜΥΓΔΑΛΙΤΙΔΑ ΠΟΥ ΑΝΤΙΜΕΤΩΠΙΣΘΗΚΕ ΜΕ ΟΜΟΙΟΠΑΘΗΤΙΚΗ ΑΓΩΓΗ</personal_medical_history>
+        <family_medical_history> lease enter family medical history and hereditary predispositionΠΑΤΕΡΑΣ ΑΣΘΜΑ ,ΥΠΕΡΧΟΛΗΣΤΕΡΙΝΑΙΜΙΑ.ΜΗΤΕΡΑ ΗΠΙΑ ΚΑΤΑΘΛΙΨΗ</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter ConclusionΥΨΗΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΚΑΘΑΡΗ ΕΙΚΟΝΑ ΦΑΡΜΑΚΟΥ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)ΞΕΣΠΑΣΜΑΤΑ ΘΥΜΟΥ ΠΟΥ ΠΕΤΑΕΙ ΠΡΑΓΜΑΤΑ3ΑΥΝΑΝΙΣΜΟΣ3</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)ΑΥΝΑΝΙΣΜΟΣ3 ΞΕΣΠΑΣΜΑΤΑ ΘΥΜΟΥ ΟΠΟΥ ΠΕΤΑΕΙ ΠΡΑΓΜΑΤΑ3 ΔΕΝ ΚΛΑΙΕΙ ΕΥΚΟΛΑ ΔΕΝ ΕΚΦΡΑΖΕΙ ΤΑ ΣΥΝΑΙΣΘΗΜΑΤΑ ΤΗΣ3ΚΡΙΘΑΡΑΚΙΑ3ΕΚΖΕΜΑ ΣΤΑ ΠΟΔΙΑ2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>PULSATILA ,NATRIUM MYRIATICUM ,STAPHISAGRIA</remedies_differentiation>
+      <prescription>
+        <remedy>STAPHISAGRIA</remedy>
+        <potency>1M</potency>
+        <regimen>MIA ΦΟΡΑ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-02 02:05:00</followup_date>
+      <conv_med_presc>ΚΑΜΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΔΕΝ ΥΠΗΡΞΕ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΑΛΛΑ ΣΤΑΔΙΑΚΗ ΒΕΛΤΙΩΣΗ. ΚΑΙ ΜΕΤΑ ΑΠΟ 1 ΜΗΝΑ ΔΕΝ ΕΠΑΝΕΜΦΑΝΙΣΕ ΚΡΙΘΑΡΑΚΙ.</reaction>
+      <analysis>ΔΕΔΟΜΕΝΟΥ ΤΟΥ ΠΟΛΥ ΥΨΗΛΟΥ ΕΠΙΠΕΔΟΥ ΥΓΕΙΑΣ ΚΑΙ ΤΗΣ ΚΑΘΑΡΟΤΗΤΑΣ ΤΟΥ ΦΑΡΜΑΚΟΥ ΔΕΝ ΠΕΡΙΜΕΝΑΜΕ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΚΑΙ ΑΝΑΜΕΝΟΥΜΕ ΤΟ ΠΑΙΔΙ ΝΑ ΜΕΙΝΕΙ ΕΛΕΥΘΕΡΟ ΣΥΜΠΤΩΜΑΤΩΝ ΓΙΑ ΧΡΟΝΙΑ.</analysis>
+      <conclusion>ΣΩΣΤΗ ΕΠΙΛΟΓΗ ΦΑΡΜΑΚΟΥ.ΜΕΤΑ ΑΠΟ 5 ΜΗΝΕΣ ΚΑΙ ΕΝΩ ΔΕΝ ΕΙΧΕ ΕΜΦΑΝΙΣΕΙ ΑΛΛΟ ΚΡΙΘΑΡΑΚΙ ΜΕΤΑ ΑΠΟ ΚΑΠΟΙΟ ΠΡΟΣΒΛΗΤΙΚΟ ΣΧΟΛΙΟ ΤΗΣ ΔΑΣΚΑΛΑΣ ΣΤΗΝ ΤΑΞΗ ΑΡΧΙΣΕ ΝΑ ΕΠΑΝΕΜΦΑΝΙΖΕΙ ΚΡΙΘΑΡΑΚΙ ΣΤΟ ΔΕΞΙ ΜΑΤΙ ΚΑΙ ΕΝΑ ΕΠΕΙΣΟΔΙΟ ΟΥΡΟΛΟΙΜΩΞΗΣ ΟΠΟΤΕ ΕΛΑΒΕ ΕΚ ΝΕΟΥ STAPHISAGRIA 1M ME ΚΑΛΑ ΑΠΟΤΕΛΕΣΜΑΤΑ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>STAPHISAGRIA</remedy>
+        <potency>1M</potency>
+        <regimen>1ΔΟΣΗ</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

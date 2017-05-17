@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL7536ca43b80ac416d3e204e1cd7b536e</ID>
+  <patient>
+    <case_date>2016-02-23 19:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΠΚ</patient_initials>
+    <age>71</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ 2 ΚΟΡΕΣ ΚΑΙ 3 ΕΓΓΟΝΙΑ&#13;
+ΔΗΜΟΣΙΟΣ ΥΠΑΛΛΗΛΟΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Η ΑΡΘΡΙΤΙΔΑ ΕΜΦΑΝΙΣΤΗΚΕ ΠΡΙΝ ΑΠΟ 10 ΧΡΟΝΙΑ</origin>
+        <causative_factors>ΚΛΗΡΟΝΟΜΙΚΟΤΗΤΑ ΑΠΟ ΤΟΝ ΠΑΤΕΡΑ ΤΟΥ</causative_factors>
+        <modalities>&gt; ME TH ZEΣΤΗ&#13;
+&gt;ΜΕ ΤΗΝ ΚΙΝΗΣΗ&#13;
+</modalities>
+        <occurrence_time>&gt;ΤΟ ΚΑΛΟΚΑΙΡΙ&#13;
+&lt;ΤΟ ΠΡΩΙ ΟΤΑΝ ΞΥΠΝΑΕΙ</occurrence_time>
+        <body_side>ΑΡΙΣΤΕΡΑ</body_side>
+        <appearence_frequency>1-2 ΦΟΡΕΣ ΤΟ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>ΕΝΤΟΝΟΣ ΔΙΑΞΙΦΙΣΤΙΚΟΣ  ΠΟΝΟΣ ΣΤΟΝ ΑΡ. ΩΜΟ</pain_desc>
+        <complaint_ext>ΚΑΤΕΒΑΙΝΕΙ ΩΣ ΤΑ ΔΑΧΤΥΛΑ ΤΟΥ ΧΕΡΙΟΥ ΑΡΚΕΤΕΣ ΦΟΡΕΣ&#13;
+ΜΕ ΟΙΔΗΜΑ ΠΑΛΑΜΗΣ ΚΑΙ ΔΑΚΤΥΛΩΝ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΕΧΕΙ HASIMMOTO KAI ΠΑΙΡΝΕΙ Τ4&#13;
+Α.Υ. ΚΑΙ ΠΑΙΡΝΕΙ APROVEL&#13;
+AΡΘΡΙΤΙΔΑ ΤΗΝ ΤΕΛΕΥΤΑΙΑ ΔΕΚΑΤΙΑ &#13;
+ΤΟΝ ΤΕΛΕΥΤΑΙΟ ΧΡΟΝΟ ΠΑΙΡΝΕΙ ΚΟΡΤΙΖΟΝΗ&#13;
+ΓΙΑ ΤΗΝ ΑΡΘΡΙΤΙΔΑ</conv_med_presc>
+        <lab_tests>
+          <desc>ΒΙΟΧΗΜΙΚΑ=Κ.Φ.&#13;
+CRP=7,2 (ME ΟΡΙΟ ΤΟ 5)&#13;
+Τ.Κ.Ε.=48&#13;
+Γ.Α.=Κ.Φ.&#13;
+Η.Κ.Γ.=Κ.Φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΑΡΚΕΤΕΣ ΑΝΤΙΒΙΩΣΕΙΣ ΓΙΑ ΒΡΟΓΧΙΤΙΔΕΣ&#13;
+ΑΡΚΕΤΗ ΚΟΡΤΙΖΟΝΗ ΓΙΑ ΤΗΝ ΑΡΘΡΙΤΙΔΑ</therapies_vaccination>
+          <traumas>ΕΙΧΕ ΕΝΑ ΑΚΡΩΣ ΕΠΙΚΡΙΤΙΚΟ ΠΑΤΕΡΑ ΚΑΙ ΕΙΝΑΙ ΜΟΝΑΧΟΠΑΙΔΙ</traumas>
+          <infections>ΚΑΜΙΑ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ=ΑΡΘΡΙΤΙΣ,Α.Υ.&#13;
+ΜΑΝΑ=Α.Υ. ΤΕΤΑΝΟΣ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΜΙΚΡΟΣ ΔΕΙΚΤΗΣ ΣΥΝΑΙΣΘΗΜΑΤΙΚΗΣ ΝΟΗΜΟΣΥΝΗΣ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΘΥΡΕΟΕΙΔΗΣ&#13;
+Α.Υ.&#13;
+ΠΟΛΥΑΡΘΡΙΤΙΔΑ</personal_medical_history>
+        <family_medical_history>ΠΑΤΕΡΑΣ=Χ.Α.Π.&#13;
+ΙΣΧΥΑΛΓΙΑ,ΑΡΘΡΙΤΙΔΑ&#13;
+ΜΑΝΑ= Α.Υ.    Σ.Δ.</family_medical_history>
+        <level_of_health>10</level_of_health>
+        <conclusion>ΑΣΘΕΝΗΣ ΜΕ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ.&#13;
+ΟΙ ΓΟΝΕΙΣ ΤΟΥ ΗΤΑΝ ΑΠΟΜΑΚΡΟΙ ΚΑΙ ΕΧΕΙ ΑΡΚΕΤΟΥΣ ΦΟΒΟΥΣ&#13;
+Η ΠΡΟΓΝΩΣΗ ΟΝΩΣ ΕΙΝΑΙ ΚΑΛΗ&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΚΙΝΕΙ ΣΥΝΕΧΕΙΑ ΤΟΝ ΑΥΧΕΝΑ 2&#13;
+ΞΥΝΕΤΑΙ 2&#13;
+</peculiar>
+        <intense>ΠΟΝΟΣ ΣΤΟΝ ΑΡΙΣΤΕΡΟ ΩΜΟ 3 ΚΑΙ ΜΕΝΕΙ ΑΥΠΝΟΣ ΑΠΟ ΑΥΤΟ&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>RHUS TOX          SILICA</remedies_differentiation>
+      <prescription>
+        <remedy>RHUS TOX</remedy>
+        <potency>30 CH</potency>
+        <regimen>1X3 ΓΙΑ 40 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΕΧΕΙ ΠΑΘΟΛΟΓΙΚΟ ΦΟΒΟ ΓΙΑ ΤΑ ΠΑΙΔΙΑ ΤΟΥ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-29 18:00:00</followup_date>
+      <conv_med_presc>Τ4&#13;
+ΑPROVEL&#13;
+H KOΡTIZONH EXEI MEΙΩΘΕΙ ΚΑΤΑ ΤΟ ΗΜΙΣΗ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΛΙΓΟΙ ΠΟΝΟΙ ΟΤΑΝ ΚΑΘΕΤΑΙ</reaction>
+      <analysis>ΤΟ ΕΙΧΕ ΚΑΙ ΠΑΛΑΙΟΤΕΡΑ ΑΛΛΑ ΤΩΡΑ ΕΙΝΑ ΛΙΓΟ ΠΙΟ ΕΝΤΟΝΟ&#13;
+ΑΥΤΟ ΣΥΝΕΒΗΣΕ 20 ΗΜΕΡΕΣ ΜΕΤΑ ΤΟ ΦΑΡΜΑΚΟ</analysis>
+      <conclusion>Ο ΠΟΝΟΣ ΣΤΟΝ ΩΜΟ ΤΟΥ ΕΙΝΑΙ ΚΑΛΥΤΕΡΑ.&#13;
+ΕΧΕΙ ΜΑΘΕΙ ΝΑ ΑΚΟΥΕΙ ΤΟΝ ΑΛΛΟ ΠΕΡΙΣΣΟΤΕΡΟ&#13;
+ΚΑΙ ΝΑ ΕΙΝΑΙ ΛΙΓΟ ΠΙΟ ΣΥΝΑΙΣΘΗΜΑΤΙΚΟΣ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>RHUS TOX</remedy>
+        <potency>30 CH</potency>
+        <regimen>1X2 ΓΙΑ 15 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΕΝΑ ΠΑΘΟΛΟΓΙΚΟ ΑΓΧΟΣ ΓΙΑ ΤΑ ΠΑΙΔΙΑ ΤΟΥ ΠΟΥ ΕΙΧΕ &#13;
+ΣΑΝ ΝΑ ΕΙΝΑΙ ΠΙΟ ΔΙΑΧΕΙΡΙΣΙΜΟ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

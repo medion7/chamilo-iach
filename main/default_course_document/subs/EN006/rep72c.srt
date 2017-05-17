@@ -1,0 +1,1327 @@
+1
+00:00:25,690 --> 00:00:31,440
+We will begin now with a little chapter on the Expert System.
+
+2
+00:00:34,550 --> 00:00:39,170
+Not only for interest for those who have the Expert System
+
+3
+00:00:39,270 --> 00:00:42,250
+but also for everybody attending this course
+
+4
+00:00:42,350 --> 00:00:45,750
+because you know George is using the Expert System
+
+5
+00:00:45,850 --> 00:00:50,740
+and maybe I can tell you a few more things, which make it more interesting
+
+6
+00:00:50,840 --> 00:00:56,850
+when you look at the screen to understand more of what is happening.
+
+7
+00:01:00,330 --> 00:01:09,810
+First, you have found and you have selected the correct symptoms.
+
+8
+00:01:09,910 --> 00:01:11,660
+And we have spoken about that.
+
+9
+00:01:12,410 --> 00:01:15,750
+Obviously there is some kind of variation.
+
+10
+00:01:15,770 --> 00:01:19,420
+Maybe you put the symptom which is not completed correct
+
+11
+00:01:19,520 --> 00:01:26,170
+but we have discussed finding the correct symptoms and taking them.
+
+12
+00:01:26,270 --> 00:01:28,920
+That's one thing which is needed.
+
+13
+00:01:29,020 --> 00:01:36,910
+Then second, the VES basically works like different people or different visions
+
+14
+00:01:37,010 --> 00:01:46,170
+looking at the same symptoms, adds it all together and brings forward a balanced suggestion.
+
+15
+00:01:46,270 --> 00:02:00,940
+However there is one third element and that is the underlining.
+
+16
+00:02:01,690 --> 00:02:08,810
+I will explain you very precisely and schematic the way of the underlining.
+
+17
+00:02:08,910 --> 00:02:16,760
+Underlining of a symptom means that we indicate the intensity
+
+18
+00:02:16,860 --> 00:02:22,360
+which the symptom has from the interrogation of the patients.
+
+19
+00:02:25,110 --> 00:02:33,750
+A patient gives any symptom, desires "mousaka" and what do we ask was it just now
+
+20
+00:02:33,850 --> 00:02:40,770
+this morning or you like "mousaka" every day or every time you come to Greece?
+
+21
+00:02:40,870 --> 00:02:46,100
+No, no mousaka in Greece, mousaka in Munich, mousaka everywhere!
+
+22
+00:02:47,140 --> 00:02:55,940
+So you get the intensity of desire mousaka. That is the intensity from the interrogation.
+
+23
+00:02:58,680 --> 00:03:11,170
+Now the first thing is the frequency of the symptom, how frequent is the desire for mousaka
+
+24
+00:03:11,270 --> 00:03:16,290
+or the pain in the wrist. How frequent it is?
+
+25
+00:03:17,020 --> 00:03:22,170
+The second element is the intensity.
+
+26
+00:03:22,270 --> 00:03:27,250
+How intense, especially for everything which is subjective
+
+27
+00:03:27,350 --> 00:03:32,620
+how intense is the pain in the wrist?
+
+28
+00:03:34,100 --> 00:03:37,500
+Then when we combine these, you will get a suggestion
+
+29
+00:03:37,600 --> 00:03:41,530
+on how to underline correctly the symptoms.
+
+30
+00:03:47,030 --> 00:04:00,660
+The symptoms is underlined once when it is frequently present or intense,
+
+31
+00:04:00,760 --> 00:04:04,170
+which means when it rises above this level.
+
+32
+00:04:04,270 --> 00:04:08,430
+You remember the drawing here that the symptom has to rise above a certain level
+
+33
+00:04:08,530 --> 00:04:10,920
+before it is a symptom?
+
+34
+00:04:11,020 --> 00:04:18,330
+So the desire for mousaka has to be sufficiently frequently present to be a symptom
+
+35
+00:04:18,430 --> 00:04:25,760
+or the pain in the wrist has to be sufficiently intense to be a symptom.
+
+36
+00:04:25,860 --> 00:04:36,320
+Everybody has some pain in the wrist some day. It is clearly present. It is a symptom.
+
+37
+00:04:39,530 --> 00:04:54,360
+The underlining 2 when there is a relevant frequency or relevant intensity.
+
+38
+00:04:54,460 --> 00:04:59,270
+It is not just yes I eat mousaka many times.
+
+39
+00:04:59,370 --> 00:05:06,440
+Now it is I eat mousaka every day, when I'm in Greece, whenever I have an occasion.
+
+40
+00:05:06,540 --> 00:05:09,690
+It is very frequent, more outstanding.
+
+41
+00:05:09,790 --> 00:05:17,540
+This is enough to give it intensity 2 in underlining or when the intensity is outstanding.
+
+42
+00:05:18,280 --> 00:05:23,930
+It's not just correct that it is present the symptom; it is outstandingly present
+
+43
+00:05:24,030 --> 00:05:28,190
+because of intensity. We give it an underlining 2.
+
+44
+00:05:28,290 --> 00:05:30,680
+So this is just the symptom is present.
+
+45
+00:05:30,780 --> 00:05:37,460
+This is really frequently present or really intensively present.
+
+46
+00:05:39,960 --> 00:05:55,290
+Then we underline 3 times when the symptom is very frequently present and very intense.
+
+47
+00:05:57,030 --> 00:06:00,030
+It is really overwhelming.
+
+48
+00:06:04,730 --> 00:06:09,770
+Then you know you have 4 degrees in the Repertory and for some reason
+
+49
+00:06:09,870 --> 00:06:14,770
+you have 4 degrees in the intensity of interrogation, as well.
+
+50
+00:06:14,870 --> 00:06:19,970
+The fourth degree in intensity of interrogation,
+
+51
+00:06:20,070 --> 00:06:25,350
+it is like something you wouldn't believe it could exist.
+
+52
+00:06:25,450 --> 00:06:35,520
+It is really so strong, every day, 3 lt of milk, every day for years, it is really very strong,
+
+53
+00:06:35,620 --> 00:06:37,700
+at least for some people.
+
+54
+00:06:39,200 --> 00:06:46,750
+The fourth degree, as you know, in the Repertory it is seldom. Maybe 200, 250 remedies
+
+55
+00:06:46,850 --> 00:06:50,610
+which have 4th degree in the Repertory.
+
+56
+00:06:52,780 --> 00:06:59,840
+In the totality of your patients, the totality of all the symptoms of your patients,
+
+57
+00:06:59,940 --> 00:07:07,180
+4th degree should be indicated about once in two weeks.
+
+58
+00:07:10,950 --> 00:07:18,580
+You see patients every day, once every two weeks you give a symptom a degree 4th for a patient.
+
+59
+00:07:18,680 --> 00:07:21,440
+Then you are not exaggerating.
+
+60
+00:07:21,970 --> 00:07:26,440
+Because the whole issue is to underline, as correctly as possible.
+
+61
+00:07:26,540 --> 00:07:29,930
+So 4th degree is seldom.
+
+62
+00:07:33,180 --> 00:07:39,760
+There are also figures about the presence of 1st, 2nd and 3rd degree
+
+63
+00:07:39,860 --> 00:07:45,250
+and the idea is the higher you go, the less the symptoms can have a 2nd
+
+64
+00:07:45,350 --> 00:07:49,350
+or 3rd degree of underlining.
+
+65
+00:07:52,100 --> 00:08:02,250
+It is something like if 80% of the symptoms have a 1st underlining or less it's OK.
+
+66
+00:08:02,350 --> 00:08:06,020
+If more, you will get a message when you use the system and you will see...
+
+67
+00:08:06,120 --> 00:08:09,090
+change the underline etc.
+
+68
+00:08:09,610 --> 00:08:20,020
+I think for 2nd degree is about 50% and 3rd degree about 20-25 %.
+
+69
+00:08:21,760 --> 00:08:25,950
+Of course one patient is not the same as another one.
+
+70
+00:08:26,440 --> 00:08:31,860
+You don't need to think about it. I have already 4 symptoms in the 1st degree,
+
+71
+00:08:31,960 --> 00:08:36,080
+I must have one symptom in the 2nd degree... You don't have to think about it.
+
+72
+00:08:36,180 --> 00:08:42,580
+The program will tell you if you go too far, out of the range which is normally accepted.
+
+73
+00:08:42,680 --> 00:08:46,370
+And it will tell you, change your underlining a little bit or try to understand
+
+74
+00:08:46,470 --> 00:08:49,930
+underlining in a different way.
+
+75
+00:08:50,680 --> 00:08:57,710
+I give you some hints further to this to try and underline correctly.
+
+76
+00:08:58,690 --> 00:09:05,500
+Of course there will be occasions that you doubt between do I underline twice or three times?
+
+77
+00:09:05,600 --> 00:09:08,930
+Do I underline once or twice?
+
+78
+00:09:09,950 --> 00:09:16,760
+And you know frequency and intensity are two ways to reflect on this.
+
+79
+00:09:16,860 --> 00:09:22,500
+There is a third, less important feature, which may help you to decide
+
+80
+00:09:22,600 --> 00:09:27,260
+between 1st and 2nd or 2nd and 3rd underlining.
+
+81
+00:09:27,360 --> 00:09:33,360
+That is the peculiarity of the symptom.
+
+82
+00:09:34,350 --> 00:09:42,890
+If you doubt and this is more common you will underline it 2, if you doubt between 2 and 3
+
+83
+00:09:42,990 --> 00:09:48,650
+and it is more peculiar you will underline it with 3, to give it more emphasis
+
+84
+00:09:48,750 --> 00:09:51,250
+because it's more peculiar.
+
+85
+00:09:52,990 --> 00:10:01,490
+So apart from the schedule, frequency and intensity, the second way is to consider peculiarity.
+
+86
+00:10:02,740 --> 00:10:08,890
+The third thing you must consider is that different people
+
+87
+00:10:08,990 --> 00:10:14,230
+express their suffering in different way.
+
+88
+00:10:14,330 --> 00:10:23,740
+If someone is talking all the time like this, giving a symptom, I had this and I had that...
+
+89
+00:10:24,990 --> 00:10:31,730
+and you say, do you like bananas? Oh yes, I like bananas you put it very high.
+
+90
+00:10:31,830 --> 00:10:35,040
+If someone says, I had all the problems of the world, I fell down the stairs
+
+91
+00:10:35,140 --> 00:10:39,720
+and I went on a boat and I slipped on the boat ....and you say, do you like bananas?
+
+92
+00:10:39,820 --> 00:10:42,440
+Oh yes, very much.
+
+93
+00:10:42,540 --> 00:10:47,500
+And what about the mousaka? Yes the mousaka is very nice...
+
+94
+00:10:47,980 --> 00:10:53,230
+So if put all these in 3rd degree, no good.
+
+95
+00:10:54,260 --> 00:11:02,480
+And he is talking and in your job? In my job everything is all right.
+
+96
+00:11:02,990 --> 00:11:11,630
+You've seen that in his flow of intense, so called 3rd degree intensity symptoms,
+
+97
+00:11:11,730 --> 00:11:17,630
+there was a little hesitation and you know what he is going to tell you about the job?
+
+98
+00:11:17,730 --> 00:11:20,900
+All the others, maybe you don't even take the symptoms.
+
+99
+00:11:21,000 --> 00:11:25,890
+Anyway is not in the Repertory falling next to the "flying dolphin" is not in the Repertory
+
+100
+00:11:25,990 --> 00:11:32,590
+but then what he will tell you about his job, that he has a lifetime,
+
+101
+00:11:32,690 --> 00:11:35,800
+many years of frustration, ailments from (?)
+
+102
+00:11:35,900 --> 00:11:39,320
+that is the symptom you're going to write down.
+
+103
+00:11:39,420 --> 00:11:45,830
+The intensity is relative to the way the patient expresses himself
+
+104
+00:11:45,930 --> 00:11:48,410
+and that is important as well.
+
+105
+00:11:56,000 --> 00:12:00,910
+-This system deals with the difference between mind symptom and body symptom.
+
+106
+00:12:01,010 --> 00:12:06,140
+Is that not special influence of the (?) of the symptoms?
+
+107
+00:12:06,240 --> 00:12:14,250
+-Yes. I would like to ask if there are questions about the underlining.
+
+108
+00:12:16,490 --> 00:12:25,570
+-(?) to become a symptom, how would you evaluate if there is a very rare symptom
+
+109
+00:12:25,670 --> 00:12:28,570
+that only appears once every two months?
+
+110
+00:12:28,670 --> 00:12:32,170
+-In one person?
+-Yes.
+
+111
+00:12:33,920 --> 00:12:43,310
+It depends but I would say if it is a very seldom symptom, very clear present,
+
+112
+00:12:44,660 --> 00:12:52,970
+with clear I mean they suffer from it, then even if it appears once every 4 nights,
+
+113
+00:12:53,070 --> 00:12:57,490
+it is important I would say so.
+
+114
+00:12:58,670 --> 00:13:04,060
+You can have a headache which is better from drinking coffee,
+
+115
+00:13:04,160 --> 00:13:09,310
+he has the headache every two weeks only but he drinks even half a cup of coffee
+
+116
+00:13:09,410 --> 00:13:14,650
+and the headache in minutes disappears, so head-pain-coffee-amel,
+
+117
+00:13:15,930 --> 00:13:21,660
+even if it happens every 2-3 weeks it is a strong modality.
+
+118
+00:13:23,080 --> 00:13:29,730
+-Concerning the underlining. Does it happen that remedies are selected by underline?
+
+119
+00:13:29,830 --> 00:13:33,990
+For example, Mandragora is found in the rubric restlessness.
+
+120
+00:13:34,090 --> 00:13:39,140
+If I have a patient who is (?) very intense restlessness,
+
+121
+00:13:39,240 --> 00:13:46,150
+I would use the rubric as a 3rd degree but Mandragora is only in the 1st degree in this rubric.
+
+122
+00:13:46,250 --> 00:13:51,140
+Does this underlining give any preference to certain remedies and not to others?
+
+123
+00:13:51,240 --> 00:13:59,640
+-Yes. This is a very good example and I will explain you in the next step,
+
+124
+00:13:59,740 --> 00:14:06,600
+the reason of the underlining. And it comes down to reply to your question.
+
+125
+00:14:07,090 --> 00:14:15,580
+If we have a patient and we suspect, say Stramonium.
+
+126
+00:14:15,840 --> 00:14:21,730
+You know at a certain stage we will ask some confirmation questions to know
+
+127
+00:14:21,830 --> 00:14:30,980
+if it is really Stramonium. One question could be fear of dark.
+
+128
+00:14:31,080 --> 00:14:40,000
+So you ask what do you feel in dark? And what is the reply you expect from Stramonium?
+
+129
+00:14:47,990 --> 00:14:57,910
+Oh yes, in the dark I have to put the light on all the time. Very strong fear of the dark.
+
+130
+00:14:58,660 --> 00:15:02,090
+Now if you go in the Repertory and you see fear of dark,
+
+131
+00:15:02,190 --> 00:15:07,060
+you will see Stramonium is in the 4th degree. It is the strongest remedy.
+
+132
+00:15:07,160 --> 00:15:13,150
+So for Stramonium, it means that in the provings and the clinical cases,
+
+133
+00:15:13,250 --> 00:15:17,150
+it was very often present, fear of dark in Stramonium.
+
+134
+00:15:17,250 --> 00:15:24,230
+Now we take this one step further, if we go to the patients and we suspect Stramonium
+
+135
+00:15:24,330 --> 00:15:31,430
+we expect that each patient has a strong fear of dark.
+
+136
+00:15:31,910 --> 00:15:34,570
+This is the confirmation of Stramonium.
+
+137
+00:15:35,140 --> 00:15:46,370
+If the patient has some... fear of dark, this is an argument against Stramonium.
+
+138
+00:15:46,470 --> 00:15:52,120
+Or it is not pushing Stramonium forward to the maximum.
+
+139
+00:15:52,890 --> 00:15:59,140
+This is called correspondence of intensity.
+
+140
+00:16:00,880 --> 00:16:06,950
+So Stramonium has fear of dark in 4th degree, Stramonium patients, for the best,
+
+141
+00:16:07,050 --> 00:16:13,640
+has fear of dark 4th degree, corresponding of intensity.
+
+142
+00:16:13,740 --> 00:16:24,450
+And the rule is the better the intensity corresponds, the better case you have for the remedy.
+
+143
+00:16:37,290 --> 00:16:42,950
+-Just before you mentioned that the degree in the Repertory has nothing to do
+
+144
+00:16:43,050 --> 00:16:48,280
+with the intensity but only how often it appears in the rubric.
+
+145
+00:16:48,380 --> 00:16:58,010
+And now for the analysis it is very important to underline according to intensity
+
+146
+00:16:58,110 --> 00:17:03,510
+and it makes a difference for Stramonium, for example.
+
+147
+00:17:03,610 --> 00:17:12,470
+Now you refer to the intensity, as if the 4th degree for Stramonium in fear of darkness
+
+148
+00:17:12,570 --> 00:17:16,720
+has something to do with the intensity, where before you said
+
+149
+00:17:16,820 --> 00:17:21,990
+it has to do with how often it appears.
+
+150
+00:17:22,090 --> 00:17:25,090
+-Yes that's correct.
+
+151
+00:17:34,740 --> 00:17:40,910
+That's why I was trying to escape all morning from continuing in that level.
+
+152
+00:17:41,410 --> 00:17:44,060
+Because I know it will bring some confusion.
+
+153
+00:17:44,160 --> 00:17:51,550
+I will now try to clarify the confusion. First step, the Repertory was made.
+
+154
+00:17:51,650 --> 00:17:55,310
+Why was remedy put in 1st,2nd or 3rd degree?
+
+155
+00:17:55,410 --> 00:18:02,070
+Because of frequency in proving and clinical case. Everybody agrees?
+
+156
+00:18:04,320 --> 00:18:10,480
+Then Repertory has been used, more information has been added and in fact a woman,
+
+157
+00:18:10,580 --> 00:18:19,760
+Margaret Tyler came with this idea and said, it's interesting I see
+
+158
+00:18:19,860 --> 00:18:27,470
+that for some of the remedies I prescribe, the symptoms which contain a remedy in bold
+
+159
+00:18:27,570 --> 00:18:31,210
+the patients express these symptoms in bold.
+
+160
+00:18:31,310 --> 00:18:37,230
+The Arsenicum fear alone or fear in dark, the Arsenicum patient has a lot fear alone
+
+161
+00:18:37,330 --> 00:18:38,970
+or fear in dark.
+
+162
+00:18:39,070 --> 00:18:43,970
+And so she brought up the idea that the correspondence in the degrees
+
+163
+00:18:44,070 --> 00:18:49,220
+was an interesting way to process the information.
+
+164
+00:18:49,320 --> 00:19:02,800
+That's why I leave this on because another way to look at the symptoms of your patients
+
+165
+00:19:05,150 --> 00:19:10,170
+is this correspondence of degrees.
+
+166
+00:19:13,150 --> 00:19:21,210
+You are right, it is in a way opposed because you are using like a tool for paint
+
+167
+00:19:21,310 --> 00:19:26,110
+you use it to make a sculpture. It is a different application.
+
+168
+00:19:26,210 --> 00:19:30,430
+But it is a fact and then George has really brought it into Homeopathy
+
+169
+00:19:30,530 --> 00:19:35,710
+the famous underlining, he really uses it all the time, to that extend
+
+170
+00:19:35,810 --> 00:19:39,780
+that the VES refuses to work if the case is not underlined.
+
+171
+00:19:42,950 --> 00:19:49,060
+It is his way of thinking that you must know first of all from the patient,
+
+172
+00:19:49,160 --> 00:19:55,870
+how intense is the fear of the dark, how intense is the jealousy etc.
+
+173
+00:19:56,910 --> 00:20:03,840
+Then you correspond the intensity from the patient with the degree of the Repertory
+
+174
+00:20:03,940 --> 00:20:08,690
+and I will say "whatever has that meant in the past".
+
+175
+00:20:09,180 --> 00:20:18,320
+I must admit that these degrees in the Repertory is now been used for another goal.
+
+176
+00:20:18,420 --> 00:20:23,980
+And it is correct. But first is the history and today, since Margaret Tyler,
+
+177
+00:20:24,080 --> 00:20:31,990
+I think she was active in the 30's, in 40's there is this idea,
+
+178
+00:20:32,090 --> 00:20:35,990
+especially with George now of correspondence of degrees.
+
+179
+00:20:36,090 --> 00:20:42,980
+So it's just another idea with which George agrees, that correspondence of degrees,
+
+180
+00:20:43,080 --> 00:20:48,990
+patient and Repertory, is an interesting way of analyzing the case
+
+181
+00:20:49,090 --> 00:20:51,590
+and decide for the remedy.
+
+182
+00:20:52,590 --> 00:20:59,160
+But it is true that it is a little bit gone of the original intention of degrees
+
+183
+00:20:59,260 --> 00:21:08,250
+and it means also that we will need to reconsider the whole story of degrees in the Repertory.
+
+184
+00:21:08,350 --> 00:21:15,250
+And we're doing that. In the next version, you may expect some new things about it.
+
+185
+00:21:15,350 --> 00:21:21,740
+But for the time being it is important to understand that it is true
+
+186
+00:21:21,840 --> 00:21:27,240
+that if look at 10 Stramonium patients, most of them will have strong fear of dark
+
+187
+00:21:27,340 --> 00:21:32,570
+and it will be only 1 maybe, who has fear of dark, which is not so pronounced.
+
+188
+00:21:32,670 --> 00:21:36,170
+And you can repeat this for many examples.
+
+189
+00:21:48,410 --> 00:21:55,100
+So I explained to you the first 6 methods of repertorization, more or less classical
+
+190
+00:21:55,200 --> 00:22:06,140
+I told you there is correspondence of degrees, someone else gave me another idea
+
+191
+00:22:07,750 --> 00:22:11,990
+that there are still other ways to look at information.
+
+192
+00:22:13,990 --> 00:22:21,390
+So if 2-3 symptoms come from mind and they indicate to Pulsatilla,
+
+193
+00:22:21,490 --> 00:22:28,300
+it is maybe a different thing than 2-3 symptoms from extremities which point to Lycopodium.
+
+194
+00:22:28,400 --> 00:22:33,060
+Because it corresponds to 3 symptoms in mind, it's more argument for Pulsatilla
+
+195
+00:22:33,160 --> 00:22:38,810
+than 3 arguments for Lycopodium because they come from extremities.
+
+196
+00:22:38,910 --> 00:22:41,590
+Because we say mental symptoms are more important, if they are present
+
+197
+00:22:41,690 --> 00:22:44,810
+they are real, they are more important.
+
+198
+00:22:44,910 --> 00:22:48,070
+So the chapter has an influence as well.
+
+199
+00:22:48,170 --> 00:22:55,470
+In fact I write down 6, 7 maybe 8 rules but they are more.
+
+200
+00:22:55,570 --> 00:23:00,970
+There are many ways to reflect about the homeopathic information and the symptoms.
+
+201
+00:23:02,830 --> 00:23:09,310
+What we did with George is made an exhaustive, complete list of all these rules
+
+202
+00:23:09,410 --> 00:23:16,060
+and for each rule defined the applications and the exceptions
+
+203
+00:23:16,160 --> 00:23:19,300
+and the possible relation to other rules.
+
+204
+00:23:19,400 --> 00:23:26,320
+So we have an enormous form with a lot of calculations and you get
+
+205
+00:23:26,420 --> 00:23:30,570
+what is called a probability rate as the results.
+
+206
+00:23:30,670 --> 00:23:38,830
+If a remedy is suggested as 1 or 2 or 3 in the Expert System, it is probability calculation.
+
+207
+00:23:45,070 --> 00:23:47,330
+What is the interest of this?
+
+208
+00:23:48,830 --> 00:23:55,500
+I have used this case in the morning to explain you a few things. You still remember it?
+
+209
+00:23:56,460 --> 00:24:00,470
+And I used it in every method of repertorization.
+
+210
+00:24:01,940 --> 00:24:09,770
+There is another way to look at this. If I click here, then I see the 6 different methods
+
+211
+00:24:09,870 --> 00:24:15,620
+of repertorization all together in one screen. The first remedies for each of them.
+
+212
+00:24:18,120 --> 00:24:23,190
+If you didn't remember, you see remedies which are the 1,2,3 and 4th possibility
+
+213
+00:24:23,290 --> 00:24:26,940
+for each method of repertorization.
+
+214
+00:24:27,040 --> 00:24:34,440
+Now if we combine all this, some al-chemistry starts to work
+
+215
+00:24:34,540 --> 00:24:44,370
+and all the elements are added and those who have taken a symptom they know,
+
+216
+00:24:44,470 --> 00:24:49,020
+if they use the VES which is just hitting another key,
+
+217
+00:24:49,120 --> 00:24:57,300
+that it is confirmed that Lachesis is the major possibility of this real live asthmatic case.
+
+218
+00:24:57,810 --> 00:25:05,780
+That Lachesis was given with some results but not with continuation of improvement.
+
+219
+00:25:05,880 --> 00:25:14,860
+And that the remedy which brought the cure to completion, it was Aralia.
+
+220
+00:25:17,530 --> 00:25:21,790
+So this is an example of how the VES ...
+
+221
+00:25:23,540 --> 00:25:25,790
+You had this case, you know it.
+
+222
+00:25:27,530 --> 00:25:31,280
+So you can tell me the difference between Lachesis and Aralia?
+
+223
+00:25:38,700 --> 00:25:44,600
+Let's make it in a different way. A person has asthma, Lachesis is the remedy.
+
+224
+00:25:44,700 --> 00:25:49,620
+When do you expect the asthma to aggravate? Give some ideas.
+
+225
+00:25:50,120 --> 00:25:53,120
+Aggravation in asthma for Lachesis?
+
+226
+00:25:54,120 --> 00:26:09,870
+-After sleep, the heat.
+-Before menses.
+
+227
+00:26:11,880 --> 00:26:15,130
+-And another one, general aggravation of Lachesis?
+
+228
+00:26:19,370 --> 00:26:27,970
+-Waking, after sleep.
+-Going into sleep.
+
+229
+00:26:30,460 --> 00:26:39,860
+-When falling asleep. Lachesis is the remedy when it falls asleep, it wakes up again.
+
+230
+00:26:44,460 --> 00:26:47,460
+When is falling asleep, asthma comes up again.
+
+231
+00:26:48,470 --> 00:26:53,960
+So the falling asleep process is difficult in Lachesis, as with the real snakes by chance.
+
+232
+00:26:54,460 --> 00:26:59,710
+And what is the point here with Aralia? Now you remember?
+
+233
+00:27:02,200 --> 00:27:15,220
+It is not when falling asleep but...one hour after sleep, after the first sleep.
+
+234
+00:27:18,620 --> 00:27:22,120
+The point I want to make now is that we have the same symptoms,
+
+235
+00:27:22,220 --> 00:27:26,620
+as for all the other methods, they speak about Calcarea, Lachesis, Pulsatilla, Silica,
+
+236
+00:27:26,720 --> 00:27:28,120
+you've seen it all.
+
+237
+00:27:28,220 --> 00:27:33,620
+You use the same symptoms with a little bit of this more complicated calculation
+
+238
+00:27:33,720 --> 00:27:37,860
+and you have a nice suggestion for Aralia.
+
+239
+00:27:37,960 --> 00:27:41,860
+That is what the Expert System does.
+
+240
+00:27:41,960 --> 00:27:45,460
+I will explain you, as a next point, the figures.
+
+241
+00:27:46,000 --> 00:27:50,110
+Because when you use the Expert System you need to know what it means
+
+242
+00:27:50,210 --> 00:27:55,960
+and if it is projected you can know, if George wants to continue, yes or no.
+
+243
+00:27:56,960 --> 00:27:59,860
+So the messages I believe they are clear.
+
+244
+00:27:59,960 --> 00:28:04,930
+You can read the messages understand the messages but I want to explain he figures.
+
+245
+00:28:05,400 --> 00:28:10,530
+Every remedy here, which is projected as a first possibility, has a figure
+
+246
+00:28:10,630 --> 00:28:19,030
+which we call the absolute confidence rate you may have in that remedy.
+
+247
+00:28:19,130 --> 00:28:28,710
+And there is just the result of calculations and it may be a figure of 12625 or 6720
+
+248
+00:28:28,810 --> 00:28:29,950
+it doesn't matter.
+
+249
+00:28:30,050 --> 00:28:41,620
+It is recalculated in such a way that you can consider that the figure 100 is the ideal to go for.
+
+250
+00:28:42,730 --> 00:28:53,440
+So when you get closed and above100, it means that there are very good arguments for Lachesis.
+
+251
+00:28:54,800 --> 00:28:56,040
+That's what it means.
+
+252
+00:28:56,540 --> 00:29:03,270
+So you will see in the beginning it will be 45, 60 etc. When the case goes on
+
+253
+00:29:03,370 --> 00:29:12,860
+and it is coherent, these figures will increase to 80 and 90000, it may become very big
+
+254
+00:29:12,960 --> 00:29:17,610
+if some confirmatory symptoms are added.
+
+255
+00:29:17,710 --> 00:29:24,280
+But then there is still another figure which is important, the one between brackets.
+
+256
+00:29:25,360 --> 00:29:30,450
+The relative confidence we have in the prescription.
+
+257
+00:29:30,550 --> 00:29:36,120
+Now what does it mean? It's a technical explanation for real life.
+
+258
+00:29:36,220 --> 00:29:43,540
+If you have very good arguments for Lachesis, will you prescribe Lachesis?
+
+259
+00:29:47,560 --> 00:29:54,120
+It depends. If these very good arguments for Lachesis are only for Lachesis.
+
+260
+00:29:54,220 --> 00:30:00,120
+Or maybe because of the same symptoms, you have very good arguments for Pulsatilla
+
+261
+00:30:00,220 --> 00:30:05,360
+which is often close and for other remedies.
+
+262
+00:30:05,460 --> 00:30:09,350
+So you have very good arguments for Lachesis but still you're not confident
+
+263
+00:30:09,450 --> 00:30:15,860
+because the confidence in Lachesis is relative, there is good arguments for Pulsatilla,
+
+264
+00:30:15,960 --> 00:30:18,960
+for Natrum Muriaticum or whatever.
+
+265
+00:30:19,420 --> 00:30:25,350
+So the relative confidence in a remedy becomes close to 100 again,
+
+266
+00:30:25,600 --> 00:30:31,500
+if it is outstanding if the arguments differentiate it from confidence
+
+267
+00:30:31,600 --> 00:30:34,260
+or the arguments for other remedies.
+
+268
+00:30:34,360 --> 00:30:40,410
+And this is what you see on the screen, which George calls the columns show me the columns,
+
+269
+00:30:40,510 --> 00:30:49,150
+he says and where the confidence in each remedy is put in a graphical way.
+
+270
+00:30:49,250 --> 00:30:55,410
+This is the probability for each remedy at this step. The longer the bar,
+
+271
+00:30:55,510 --> 00:31:00,660
+the more confidence, the more arguments for each of these remedies.
+
+272
+00:31:02,010 --> 00:31:05,900
+And you see there are two big bars, Lachesis and Aralia
+
+273
+00:31:06,000 --> 00:31:10,240
+and then Calcarea (?) is a bit less and all the rest still less.
+
+274
+00:31:10,340 --> 00:31:21,310
+So mainly still 4 remedies are possibility and that is why in this case the prescription says,
+
+275
+00:31:21,410 --> 00:31:28,820
+100 very good argument for Lachesis but 57 in the second figure,
+
+276
+00:31:28,920 --> 00:31:35,810
+not absolutely sure it is Lachesis because there are still possibilities for other remedies.
+
+277
+00:31:35,910 --> 00:31:39,600
+And you look at Calcarea (?) and Aralia.
+
+278
+00:31:44,330 --> 00:31:51,660
+We look which are the symptoms here, look what I will do.
+
+279
+00:31:51,760 --> 00:32:06,570
+I will take another Lachesis symptom, clothing aggravates and I will add it to the
+
+280
+00:32:06,670 --> 00:32:09,570
+previous ones.
+
+281
+00:32:09,670 --> 00:32:19,340
+If I run the Expert System again you see arguments for Lachesis even better 126.
+
+282
+00:32:19,590 --> 00:32:26,080
+And it is a bit more outstanding, if we go to the columns, you see the Lachesis
+
+283
+00:32:26,180 --> 00:32:28,100
+and Aralia are stronger.
+
+284
+00:32:28,200 --> 00:32:34,070
+So the relative confidence for the prescription in Lachesis will increase.
+
+285
+00:32:34,170 --> 00:32:38,190
+Nevertheless still take care of these other few remedies.
+
+286
+00:32:50,850 --> 00:32:51,850
+Another one.
+
+287
+00:33:02,260 --> 00:33:07,410
+I go here desire for farinaceous food, I add it
+
+288
+00:33:07,510 --> 00:33:14,410
+and now I have an outstanding case of Lachesis.
+
+289
+00:33:14,510 --> 00:33:21,430
+253 outstanding arguments for Lachesis and confidence of 111.
+
+290
+00:33:21,530 --> 00:33:28,420
+Because now Aralia is still somewhere but we have no over powering arguments for Lachesis.
+
+291
+00:33:28,520 --> 00:33:30,150
+Of course this was not a real case.
+
+292
+00:33:30,250 --> 00:33:38,660
+I just showed you how typical symptoms can move confidence rate up for a remedy.
+
+293
+00:33:41,760 --> 00:33:46,410
+This is the way you play with these figures to understand if the consultation
+
+294
+00:33:46,510 --> 00:33:49,010
+has come to an end or not.
+
+295
+00:33:51,260 --> 00:33:53,660
+-One more question concerning these figures.
+
+296
+00:33:53,760 --> 00:33:57,660
+In the beginning you said the first number could only go up to 100
+
+297
+00:33:57,760 --> 00:34:02,820
+when should be close to 100 or around 100. But now it goes beyond 100.
+
+298
+00:34:08,010 --> 00:34:18,160
+-Yes I said should go close to 100, when it goes to 80, 90, 100
+
+299
+00:34:18,260 --> 00:34:23,410
+and above it means good arguments for. So for sure it can go above.
+
+300
+00:34:23,510 --> 00:34:28,840
+If I add all the keynotes of Lachesis, it will go to 500 and 600.
+
+301
+00:34:30,850 --> 00:34:38,750
+-I have the same question for the second figure.
+
+302
+00:34:38,850 --> 00:34:40,490
+-Same reply.
+
+303
+00:34:40,590 --> 00:34:43,980
+-But how much more less is very sure?
+
+304
+00:34:45,010 --> 00:34:50,900
+-For the absolute confidence next to the remedy 80 and above.
+
+305
+00:34:51,000 --> 00:34:58,640
+For the second figure I would say it starts from 60-70. But don't rely on the figures.
+
+306
+00:34:58,740 --> 00:35:03,820
+If you doubt between Aralia and Lachesis, just say the patient,
+
+307
+00:35:03,920 --> 00:35:08,650
+I'll call you back tomorrow, you read your little book and you find out from Materia Medica
+
+308
+00:35:08,750 --> 00:35:10,890
+which is the better remedy.
+
+309
+00:35:10,990 --> 00:35:17,160
+Don't rely on the figures, don't rely on repertorization. It is just tools that show a road.
+
+310
+00:35:36,000 --> 00:35:42,400
+-Can you say something about the numbers of rubrics which are,
+
+311
+00:35:42,500 --> 00:35:46,650
+(?) says that at least 4 rubrics have to be chosen
+
+312
+00:35:46,750 --> 00:35:53,180
+but maybe there is also a maximum where (?) becomes useless.
+
+313
+00:35:54,160 --> 00:36:01,070
+-I believe there is a figure, a number of symptoms at which virtually
+
+314
+00:36:01,170 --> 00:36:05,070
+every repertorization becomes useless.
+
+315
+00:36:05,170 --> 00:36:10,810
+First of all I agree with you 4 symptoms is a minimum.
+
+316
+00:36:10,910 --> 00:36:23,650
+We must have some ground on which to stand and then it may be 6,7,12,15
+
+317
+00:36:23,750 --> 00:36:30,070
+sometimes up to 20 but most of the cases will follow in this range.
+
+318
+00:36:30,170 --> 00:36:37,250
+I mean single symptoms. Of course one symptom, which is 5 symptoms combined it's not 1 symptom.
+
+319
+00:36:37,350 --> 00:36:40,490
+This will be the range, you may expect.
+
+320
+00:36:40,590 --> 00:36:43,890
+If it' much above you feel you get too much symptoms, maybe it's better
+
+321
+00:36:43,990 --> 00:36:48,060
+to clear away a few symptoms and keep the essential ones.
+
+322
+00:36:58,910 --> 00:37:05,250
+Then I would like to speak a little bit about the future.
+
+323
+00:37:06,990 --> 00:37:13,410
+-One little thing. The use of the VES is very important,
+
+324
+00:37:13,510 --> 00:37:21,650
+as you said already in 91 to start right away, first to use it with the patient,
+
+325
+00:37:21,750 --> 00:37:22,900
+not when he is gone.
+
+326
+00:37:23,000 --> 00:37:28,820
+It is much better to use it when he is here and second to make evaluation
+
+327
+00:37:28,920 --> 00:37:32,810
+every time you have added one symptom.
+
+328
+00:37:32,910 --> 00:37:39,320
+So you get continuous development of the possibilities
+
+329
+00:37:39,420 --> 00:37:44,920
+and probabilities for the prescription.
+
+330
+00:37:45,420 --> 00:37:52,310
+It's very helpful, we should use it this way.
+
+331
+00:37:52,410 --> 00:37:57,690
+-Yes absolutely. Perfect.
+

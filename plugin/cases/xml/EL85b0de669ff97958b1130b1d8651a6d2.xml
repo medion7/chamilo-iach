@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL85b0de669ff97958b1130b1d8651a6d2</ID>
+  <patient>
+    <case_date>2016-10-10 12:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Τ.Ο.</patient_initials>
+    <age>0</age>
+    <circumstances>-</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πρόωρη εμμηνοπαυση, εξαρσεις</origin>
+        <causative_factors>Αγχος</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Πονοκέφαλο, ιγμορίτιδα, οστεοπενια, πέφτουν τα μαλλιά, κάλοι και στα δύο πόδια που ξεκίνησαν από δεξιά,,  μπουκωμενη συνεχεια κυρίως δεξιά, δόντια χάλια, τρώει νύχια, ΓΟΠ, πήρε κιλά πολλα</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>Χολοκυστεκτομη</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας βρογχοεκτασια</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεστενεται</reactions>
+        <sleeping_habits>Άσχημο ύπνο, εξαψεις, άσχημα ονειρα</sleeping_habits>
+        <food_modalities>Επιθυμεί κρέας (2), λίπος(2), αυγά&#13;
+Απεχθεια συκώτι, μυαλά, αχινούς, ψάρια με εντονη μυρωδιά( ιώδιο)&#13;
+Δεν ζηταειι φρουτα και λαχανικα&#13;
+Τον τελευταίο καιρό θέλει παγωμένο νερό , πριν οχι</food_modalities>
+        <menstruation>Πρόωρη εμμηνοπαυση</menstruation>
+      </physical>
+      <mental_emotional>Φοβάται τις αρρώστιες(2), μην πάθει κάτι(3), Ca(1), , ζηλεύει(2), πάντα το μυαλό της πάει στο κακό(3), κλειστοφοβία(3), φόβο αεροπλάνου(2),  ακρίδες, επιμονη(2),  αναβλητική</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Καίνε τα πόδια της (3), αυχένα ιδρώτα στον ύπνο(3), πόνος στην πλάτη σε υγρασία(2), πόνο σε στομάχι από άγχος(3), πεσμένη σεξουαλική επιθυμία(2), ντροπαλή σε κοινο(2), πεσμένη διάθεση(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>-</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>200ch(*3), 6x(*30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-10-10 10:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Καλύτερη διάθεση, κάνει διατροφή και γυμναστική, όχι εξαψεις, δεν πέφτουν τα μαλλιά πια, μπούκωμα λίγο καλύτερα, όχι πονοκέφαλο, όχι πόνο σε στομάχι, πόνο στη μεση χειρότερα με υγρασία, πιο ήρεμη, λιγότερους φόβους, κολπικά υγρά που μυρίζουν και φαγουρα</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6χ</potency>
+        <regimen>*30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-10-10 10:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Συνεχίζει να είναι καλά, περίοδο κανονικά με λίγο αίμα,  λίγο μπούκωμα , ύπνος τέλεια, μυρίζει ή μασχάλη έντονα, επιθυμεί γλυκά και αυγά, κρυωνει, κρύα πόδια, κάλοι την πονανε πολυ όταν περπατάει και στον άγγιγμα τους νιωθει σα να πατάει γυαλι +φτάνει ως τον εγκέφαλο ο πόνος</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>200 ch(1), 1M(1)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2016-10-10 10:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετρια</reaction>
+      <analysis>Τους2 τελευταίους μήνες κόπηκε το αίμα, σκάνε οι παλάμες με φαγούρα, ευαισθησία σε απορρυπαντικό και αρώματα όπου την πιάνει φαγούρα, επανήλθαν πάλι τα παλιά συμπτώματα και περισσότερο, βαρεμαρα, έχει αφεθεί, πήρε πάλι κιλά, ζεστενεται πάλι, εξαψεις, καινε τα ποδια, βαριέται να κάνει μπανιο, ακατάστατη στο σπιτι</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>200ch(1), 1M(1)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2016-10-10 10:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Είναι πολύ καλύτερα,εχει ξανά περίοδο σχεδόν κανονικά, όχι εξαψεις, σκασιματα στα χέρια σχεδόν το ίδιο, κλαίει, πιο ευσυγκινητη, καλύτερα στην κλειστοφοβια</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>6x</potency>
+        <regimen>*30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

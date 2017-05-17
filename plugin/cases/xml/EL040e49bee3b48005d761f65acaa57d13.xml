@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL040e49bee3b48005d761f65acaa57d13</ID>
+  <patient>
+    <case_date>2014-09-12 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Σ.</patient_initials>
+    <age>48</age>
+    <circumstances>Διαζευγμένη, χωρίς παιδιά, ιδιωτικός υπάλληλος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Κρίσεις πανικού από διμήνου. Εμφανίστηκαν κατόπιν έντονου σοκ, η ασθενής ήταν επιβάτης σε αεροπλάνο που έκανε αναγκαστική προσγείωση λόγω τεχνικού προβλήματος.</origin>
+        <causative_factors>Έντονο συναισθηματικό σοκ, η ασθενής ήταν επιβάτης σε αεροπλάνο που έκανε αναγκαστική προσγείωση λόγω τεχνικού προβλήματος. Αισθάνθηκε οτι θα πέθαινε ακαριαία. Πλέον δεν οδηγεί, δεν χρησιμοποιεί μέσα μεταφοράς, αποφεύγει μέρη όπου υπάρχει μεγάλος αριθμός ατόμων. Η κοινωνική της ζωή είναι σε αδιέξοδο (όπως αναφέρει η ίδια).</causative_factors>
+        <modalities>Είναι καλύτερα όταν αισθάνεται οικεία ή συγγενικά πρόσωπα δίπλα της ώστε αν συμβεί κάτι να την βοηθήσουν.</modalities>
+        <occurrence_time>Οι κρίσεις πανικού εμφανίζονται συνήθως βραδινές ώρες.</occurrence_time>
+        <body_side>Θωρακοδυνία (πρόσθιο θωρακικό τοίχωμα), μούδιασμα προσώπου και άκρων χειρών, αίσθημα παλμών.</body_side>
+        <appearence_frequency>Σχεδόν σε εβδομαδιαία βάση.</appearence_frequency>
+        <pain_desc>Θωρακοδυνία (πρόσθιο θωρακικό τοίχωμα).</pain_desc>
+        <complaint_ext>Αίσθημα παλμών, εφίδρωση, δύσπνοια, μούδιασμα προσώπου και άκρων χειρών, λιποθυμικά επεισόδια, φόβος επικείμενου θανάτου.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>tb Bespar 20 (1x1), tb Xanax 1 (1x1)</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει λάβει τον προφυλακτικό εμβολιασμό της παιδικής ηλικίας. Δεν λαμβάνει άλλη φαρμακευτική αγωγή πλην της αγχολυτικής.</therapies_vaccination>
+          <traumas>Εκτός από το πρόσφατο σοκ, δεν αναφέρει άλλο τραύμα.</traumas>
+          <infections>Δεν αναφέρει.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Οι γονείς έχουν ελεύθερο ιατρικό ιστορικό και δεν λαμβάνουν φαρμακευτική αγωγή για κάποιο λόγο.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρύα ιδιοσυστασία.</reactions>
+        <sleeping_habits>Δεν έχει σταθερή θέση ύπνου, δεν θυμάται τα όνειρά της, σχετικά καλός ύπνος.</sleeping_habits>
+        <food_modalities>Επιθυμία για κρασί (2), επιθυμία για γλυκα (2), απέχθεια στις μελιτζάνες (2).</food_modalities>
+        <menstruation>Έμμηνος ρύση κ.φ. (διάρκεια, συχνότητα και ροή).</menstruation>
+      </physical>
+      <mental_emotional>Αίσθημα επικείμενου θανάτου, ανησυχία, αγωνία, φόβος θανάτου.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Ελεύθερο ιατρικό ιστορικό. Έγινε σύσταση για κάποιες καρδιολογικές και θυρεοειδικές εξετάσεις οι οποίες δεν ανέδειξαν κάποια δυσλειτουργία (Holter ρυθμού, U/S καρδιάς και θυρεοειδούς, εξετάσεις αίματος και θυρεοειδικών ορμονών και αντισωμάτων).</personal_medical_history>
+        <family_medical_history>Οι γονείς έχουν ελεύθερο ιατρικό ιστορικό και δεν λαμβάνουν φαρμακευτική αγωγή για κάποιο λόγο.</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Η ασθενής λαμβάνοντας το σωστό φάρμακο περιμένουμε να ανταποκριθεί καλώς στη θεραπεία.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>MIND FEAR death, of impending death, of (4)</peculiar>
+        <intense>MIND FRIGHT ailments from (3)&#13;
+MIND FEAR death, of (4)&#13;
+MIND RESTLESSNESS, nervousness (3)&#13;
+MIND ANXIETY fear, with (3)&#13;
+MIND FEAR death, of impending death, of (4)&#13;
+CHEST PALPITATION heart (3)&#13;
+CHEST PALPITATION heart anxiety (3)&#13;
+GENERALITIES COLD becoming after agg. (2)&#13;
+GENERALITIES FOOD and DRINKS wine desire (2)&#13;
+GENERALITIES FOOD and DRINKS sweets desire (2)&#13;
+PERSPIRATION ANXIETY during (2)&#13;
+RESPIRATION DIFFICULT (Dyspnoea) (2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η εμφάνιση των συμπτωμάτων κατόπιν του έντονου συναισθηματικού σοκ και το αίσθημα επικείμενου θανάτου με 4 υπογραμμίσεις αναδεικνύει το Aconitum napellus ως πρώτο φάρμακο.&#13;
+Δ.δ. arsenicum album, stramonium, phosporus, kali ars.</remedies_differentiation>
+      <prescription>
+        <remedy>Aconitum napellus</remedy>
+        <potency>10M</potency>
+        <regimen>1 χαπάκι εφάπαξ.</regimen>
+        <other_notes>Υψηλή δυναμοποίηση (καλό επίπεδο υγείας - καθαρό φάρμακο).</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-10-08 19:00:00</followup_date>
+      <conv_med_presc>Followup #1: 08/10/2014&#13;
+Η ασθενής έχει διακόψει σταδιακά το xanax και λαμβάνει μόνο bespar κατόπιν τηλεφωνικής επικοινωνίας μας.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Αισθάνεται "να πατάει πιο σταθερά στα πόδια της", και πιο σίγουρη να κυκλοφορήσει ανάμεσα σε κόσμο. Μέσα στο διάστημα του 1 μηνός μόνο μία κρίση πανικού χωρίς την ανάγκη μεταφοράς στο νοσοκομείο. Αυτή τη φορά το αίσθημα παλμών υποχώρησε πολύ γρήγορα χωρίς δύσπνοια και χωρίς τόσο έντονη συμπτωματολογία όπως τις προηγούμενες φορές.</reaction>
+      <analysis>Σωστό φάρμακο, γρήγορη δράση στη σωστή κατεύθυνση</analysis>
+      <conclusion>Παρακολούθηση της θεραπευτικής εξέλιξης για ακόμα 1 μήνα χωρίς παρεμβάσεις και προσπάθεια διακοπής του bespar.</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ν/Α</remedy>
+        <potency>Ν/Α</potency>
+        <regimen>Ν/Α</regimen>
+        <other_notes>Ν/Α</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

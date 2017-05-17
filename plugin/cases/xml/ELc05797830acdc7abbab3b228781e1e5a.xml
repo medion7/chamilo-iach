@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELc05797830acdc7abbab3b228781e1e5a</ID>
+  <patient>
+    <case_date>2014-06-20 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ζ.Μ.</patient_initials>
+    <age>41</age>
+    <circumstances>Παντρεμένη,μητέρα δύο παιδιών&#13;
+επάγγελμα. Νοσηλεύτρια</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αίσθημα ζάλης απο έτους περίπου με εμφάνιση κρίσεων που την περιορίζουν στο μέγιστο βαθμό στην εργασία της η σε οποιαδήποτε ασχολία</origin>
+        <causative_factors>Εκνευρισμός</causative_factors>
+        <modalities>Επιδείνωση μετά απο εκνευρισμό,διαπληκτισμούς,δυνατή μουσική</modalities>
+        <occurrence_time>συχνά επεισόδια στον χώρο εργασίας</occurrence_time>
+        <body_side>Ζάλη με ήπια κεφαλαλγία  κυρίως δεξιά</body_side>
+        <appearence_frequency>Δεν έχει συγκεκριμένη συχνότητα,μπορεί να εχει δύο τρία επεισόδια σε μία ημέρα να ακολουθήσουν μερικές μέρες χωρίς ενοχλήσεις και μετα να έχει ενα επεισόδιο καθημερινά για αρκετές ημέρες</appearence_frequency>
+        <pain_desc>Ζάλη ,μια αίσθηση άδειου κεφαλιού όπως αναφέρει η ίδια, σαν να είχε μεθύσει την προηγούμενη ημέρα</pain_desc>
+        <complaint_ext>Προκαλει αδυναμία συντονισμού των κινήσεων του σώματος,δεν μπορεί να οδηγήσει η να κάνει σύνθετες ασχολίες</complaint_ext>
+        <other_complaints>Δυσκοιλιοτητα, έχει την αίσθηση ότι δεν ολοκληρώνει την αφόδευση</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Αισθημα ζάλης από έτους περίπου υπό αγωγή με antivom 16mg </conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Συνηθισμένοι εμβολιασμοί</therapies_vaccination>
+          <traumas>οχι</traumas>
+          <infections>οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ελευθερο</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει γενικά</reactions>
+        <sleeping_habits>κοιμάται στο πλάι αρίστερα η δεξιά</sleeping_habits>
+        <food_modalities>Επιθυμεί τα πικάντικα φαγητά αλλά τα υγιεινά.δεν πίνει αλκοολ,δεν καπνίζει</food_modalities>
+        <menstruation>κφ</menstruation>
+      </physical>
+      <mental_emotional>Ατομο χαμηλών τόνων στην εργασία της,εργασιομανής και σχολαστική,είναι τελειομανής,θέλει ολα να γίνονται σωστά στο δε σπίτι της είναι αρκετά δεσποτική,θέλει να την υπακουουν στις υποδείξεις της</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ελεύθερο σοβαρών  νοσημάτων</personal_medical_history>
+        <family_medical_history>ουδεν αξιόλογο</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion> Πολύ καλο επιπεδο υγείας</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ζάλη σαν να εχει μεθύσει την προηγούμενη μέρα(3)&#13;
+Ζάλη σαν να έχει άδειο κεφάλι(3)</peculiar>
+        <intense>Εργασιομανής(2)&#13;
+Σχολαστική(3)&#13;
+Δυσκοιλιοτητα(3)&#13;
+Αισθηση ότι δεν ολοκληρώνει την αφόδευση(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Ζάλη σαν να έχει μεθύσει την προηγούμενη μέρα(3)&#13;
+Ζάλη σαν να έχει άδειο κεφάλι(3)&#13;
+Εργασιομανής(2)&#13;
+Σχολαστική(3)&#13;
+Δυσκοιλιότητα(3)&#13;
+Δυσκοιλιότητα-αίσθηση ότι δεν ολοκληρώνει την αφόδευση(2)&#13;
+Επιθυμεί τα πικάντικα φαγητά(2)&#13;
+Χειρότερα μετά από εκνευρισμό(3)&#13;
+Χειρότερα με την δυνατή μουσική(1)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>NYX VOMICA&#13;
+ARSENICUM ALBUM&#13;
+LYCOPODIUM&#13;
+Η nyx vomica έχει το χαρακτηριστικό αίσθημα ζάλης μετα απο μεθύσι,έχει επίσης την δυσκοιλιότητα ,το αίσθημα οτι δεν έχει τελειώσει την αφόδευση,την εργασιομανία και τον σχολαστικισμό,είναι όμως και ευέξαπτο και ανταγωνιστικό σαν φάρμακο στοιχεία που απουσιαζουν απο την ασθενή μας.&#13;
+  Το arsenicum ειναι και αυτο σχολαστικό,εργασιομανής,κρυώνει και αυτό όπως η nyx vomica,είναι όμως υπερκινητικό , στοιχείο που δεν διαθέτει η ασθενης δεν υποφερει απο δυσκοιλιοτητα αλλά το αντίθετο συνήθως κάνει διάρροιες&#13;
+Το LYCOPODIUM  έχει την εικόνα του δεσπότη στο σπίτι και του  καλού υπαλλήλου στην εργασία του αλλά δεν έχει αλλα στοιχεια για να το αξιολογήσουμε σοβαρά.&#13;
+Επιλέγω την NYX VOMICA γιατί συνδιάζει το ESSENCE,TOTALITY και PECULIAR SYMPTOMS</remedies_differentiation>
+      <prescription>
+        <remedy>NYX VOMICA</remedy>
+        <potency>1M</potency>
+        <regimen>1 κάψουλα εφ'άπαξ</regimen>
+        <other_notes>Η ασθενής ήταν απελπισμένη απο το πρόβλημα της,την ταλαιπωρούσε ιδιαίτερα είχε εξεταστει απο αμέτρητους νευρολόγους και ΩΡΛ ιατρούς υποβλήθηκε σε αρκετές αξονικές και μαγνητικές τομογραφίες χωρίςαυτές να αναδείξουν κάτι παθολογικό.&#13;
+  Τονίστηκε ιδιαίτερα το θέμα της διακοπής του καφέ και έδειξε θετική διάθεση ,επίσης δόθηκε οδηγία για διακοπή των συμβατικών φαρμάκων αφού ούτε την βοηθούσαν και επιπλέον της προκαλούσαν μια ύπια καταστολή</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-06-30 23:00:00</followup_date>
+      <conv_med_presc>ουδεν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις πρώτες δύο μέρες αναφέρει έντονη κεφαλαλγία και υπνηλία τη δε τρίτη μέρα είναι ελεύθερη ενοχλήσεων και χωρις το αίσθημα ζάλης,ειναι κατενθουσιασμένη,είναι μία εβδομάδα χωρίς ενοχλήσεις.Νιωθει ψυχικά πολύ καλύτερα ποιό ήρεμη και ανανεωμένη</reaction>
+      <analysis>Εξαιρετική αντίδραση η φαινόμενο placebo,το ότι είναι μια εβδομάδα χωρίς ζάλη είναι υπερ της πολύ καλης αντίδρασης στο σωστό φάρμακο.</analysis>
+      <conclusion>Μάλλον υποτιμήθηκε σε ότι αφορά το ε΄πιπεδο υγείας,απο τον τρόπο αντίδρασης στο φάρμακο η ασθενης ανήκει στο πρώτο group και όχι στα ανω επίπεδα του δεύτερου group που είχε καταταγεί αρχικά</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδεν</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Με την ασθενή υπάρχει τακτική επαφή και έλεγχος της πορείας της,επι μήνες ήταν ελεύθερη συμπτωμάτων </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-08-28 01:00:00</followup_date>
+      <conv_med_presc>ουδεν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Εξαιρετική αντίδραση στο φάρμακο σε πολύ μικρό χρονικό διάστημα,η επικοινωνία γίνεται τηλεφωνικά,μου δηλώνει έντρομη ότι ήπιε έναν καφέ και επέστρεψε η ζαλάδα που είχε σχεδον δύο μήνες να την νίωσει,αναφέρει οτι έχει ακριβώς το ίδιο αίσθημα αλλά η διάρκεια της είναι για δευτερόλεπτα ,με υφέσεις και εξάρσεις ,κρατά δε αυτό για ώρες,αναφέρει επίσης ότι εκνευρίστικε έντονα</reaction>
+      <analysis>Αν είχε χορηγηθεί δυναμοποίηση 10Μ ισως να μην εμφάνιζε υποτροπή,η συντάγογράφηση έγινε τον πρώτο χρόνο της εκπαίδευσης μου,η εμπειρία γενικα ηταν σχετικα μηδενικη οπότε μάλλον σώφρωνη ηταν η συνταγογράφηση μου. Η ασθενής  βρισκόταν σε μια συνεχή διελκυνστίδα μεταξύ υγείας και νόσου(σωματοποίηση ψυχικών διαταραχών). Δόθηκε σαν οδηγία να κάνει υπομονή 2-3 μέρες και να επικοινωνήσει εκ νεου μαζι μου. Στην καινούργια ΄τηλεφωνική κλήση δεν αναφέρθηκε βελτίωση και δόθηκε οδηγία για επανάληψη της δόσης</analysis>
+      <conclusion>Aντιδότηση φαρμάκου</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>NYX VOMICA</remedy>
+        <potency>1M</potency>
+        <regimen>1 ΚΆΨΟΥΛΑ ΕΦΑΠΑΞ</regimen>
+        <other_notes>Η ασθενής δήλωσε οτι μετά απο 4 μέρες ήταν ελεύθερη ενοχλήσεων. </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-03-15 01:00:00</followup_date>
+      <conv_med_presc>ουδεν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Εξαιρετική αντίδραση.&#13;
+Ελεύθερη ενοχλήσεων μέχρι την στιγμή που επισκέπτεται οδοντίατρο, σφραγίζει ενα δόντι και επανέρχεται η ζαλάδα</reaction>
+      <analysis>ΑΝΤΙΔΌΤΗΣΗ της αναισθησίας στο φάρμακο</analysis>
+      <conclusion>επαναλαμβάνω το ίδιο φάρμακο για να επαναφέρω την ασθενη στο επίπεδο υγείας που ήταν λίγο πριν.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>NYX VOMICA</remedy>
+        <potency>1M</potency>
+        <regimen>1 κάψουλα εφάπαξ</regimen>
+        <other_notes>Η ασθενής επανήλθε στην πρότερη φυσιολογική κατασταση αλλά μετά απο μία εβδομάδα ,θα μπορούσα να της χορηγήσω και δυνατότερη δυναμοποίηση αλλά δεν το έκανα συνειδητά για να έχω την δυνατότητα αύξησης της δυναμοποίησης στο μέλλον. &#13;
+Μέχρι την ημέρα υποβολής του περιστατικού η ασθενής είναι ελέυθερη συμπτωμάτων  για ενα μίση έτος περίπου και κατευχαριστημένη απο την ομοιπαθητική</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

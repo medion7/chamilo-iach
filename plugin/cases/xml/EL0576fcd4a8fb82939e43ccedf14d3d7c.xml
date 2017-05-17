@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL0576fcd4a8fb82939e43ccedf14d3d7c</ID>
+  <patient>
+    <case_date>2014-09-12 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Δ. Γ.</patient_initials>
+    <age>4</age>
+    <circumstances>-</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Το παιδί έχει αρχίσει να τραυλίζει εδώ και 3 ημέρες (3). Σαν να «προσπαθεί να βγάλει τη λέξη». Επίσης είναι επιθετικό (3).&#13;
+&#13;
+Το πρώτο από 2 δίδυμα αδέρφια.&#13;
+Οι γονείς είναι σε διαδικασία δύσκολου διαζυγίου. Το παιδί ήταν παρόν σε βίαιο επεισόδιο του πατέρα κατά της μητέρας, όταν ήταν ενός έτους.&#13;
+Υπο λογοθεραπεία. Το δίδυμο αδερφάκι του μιλάει καλύτερα για την ηλικία του. Επίσης είναι πιο κοινωνικό. Σαν αποτέλεσμα τον ζηλεύει.&#13;
+Η μητέρα τον περιγράφει «πεισματάρη και θυμωμένο». Κλωτσάει-χτυπάει.&#13;
+Προ 1,5 μήνα που η μητέρα τον χαστούκισε, έδειξε έντονη αντίδραση. Δεν κοιμήθηκε το βράδυ, φώναζε, έδειωχνε και χτυπούσε την μητέρα. &#13;
+</origin>
+        <causative_factors>Σοκ από βίαια επεισόδια - συμπεριφορές των γονέων. Οι γονείς είναι σε διαδικασία δύσκολου διαζυγίου. Το παιδί ήταν παρόν σε βίαιο επεισόδιο του πατέρα κατά της μητέρας, όταν ήταν ενός έτους. Ιδιαίτερα φορτισμένη συναισθηματικά κατάσταση στο σπίτι που διαμένει μαζί με την μητέρα του τις τελευταίες εβδομάδες.</causative_factors>
+        <modalities>Οποιοδήποτε επεισόδιο βίας.</modalities>
+        <occurrence_time>Δεν αναφέρει.</occurrence_time>
+        <body_side>Δεν αναφέρει.</body_side>
+        <appearence_frequency>Δεν αναφέρει.</appearence_frequency>
+        <pain_desc>Δεν υπάρχει πόνος.</pain_desc>
+        <complaint_ext>Δεν αναφέρει.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Διάγνωση: βατταρισμός - επιθετικότητα</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Πληρης βασικός εμβολιασμός.</therapies_vaccination>
+          <traumas>Βίαιη συμπεριφορά του πατέρα προς την μητέρα όταν ήταν ενός έτους.</traumas>
+          <infections>Δεν αναφέρε κάτι ιδιαίτερο για την ηλικία του. Συνήθεις παιδικές λοιμώξεις.</infections>
+          <other>Σύλληψη IVF.</other>
+        </personal>
+        <family>
+          <diseases>Δεν αναφέρονται. Δεν υπάρχει ιστορικό βατταρισμού στην οικογένεια της μητέρας (δεν ήταν δυνατόν να παρθούν πληροφορίες για τον πατέρα).</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Διάφορα (ελλείψει αντίστοιχης καρτέλας στην φόρμα του περιστατικού): Δεν τρίζει τα δόντια του (είτε τη μέρα είτε στον ύπνο), δεν φοβάται το νερό ή γυαλιστερές επιφάνειες. Η μητέρα αναφέρει πως δεν θελει να του λούζει το κεφάλι όταν τον κάνει μπάνιο.</reactions>
+        <sleeping_habits>Συνήθως κοιμάται μπρούμυτα. Δεν κοιμάται με τα χέρια στα γεννητικά όργανα. Συχνά κατεβαίνει και κοιμάται στο πάτωμα κατά τη διάρκεια του ύπνου. &#13;
+Δεν μπορεί να κοιμηθεί χωρίς φως (2-3). Πολύ συχνά ξυπνάει το βράδυ και πηγαίνει να κοιμηθεί με την μητέρα.</sleeping_habits>
+        <food_modalities>Του αρέσουν τα γλυφιτζούρια και οι καραμέλες. Δεν πίνει γάλα. Δεν τρώει ξυνά.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Περιγράφησαν στην παρούσα νόσο.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Το παιδί δεν έχει ιδιαίτερο ιατρικό ιστορικό που να αναφέρεται. Έχουμε σαφή αιτιολογικό παράγοντα της παρούσας νόσου. Υπάρχει σαφής εικόνα φαρμάκου. Η διαταραχή είναι κυρίως στο συναισθηματικό επίπεδο, με εκδηλώσεις και στο σωματικό.</personal_medical_history>
+        <family_medical_history>Δεν αναφέρεται κάτι ιδιαίτερο.</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Το παιδί παρουσιάζει σαφή εικόνα φαρμάκου και σαφή αιτιολογικό παράγοντα αυτής. Η πρόγνωση είναι σχετικά καλή.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Τραυλίζει (3)&#13;
+Είναι έντονα επιθετικός (3) - κλωτσάει-χτυπάει.&#13;
+Δεν μπορεί να κοιμηθεί χωρίς φως (2-3).</peculiar>
+        <intense>-</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MOUTH - SPEECH - STAMMERING (3)&#13;
+MIND - ANGER, IRASCIBILITY - VIOLENT (3)&#13;
+MIND - FEAR - DARK (2)&#13;
+SLEEP - SLEEPLESSNESS - DARK ROOM (2)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Έχουμε καθαρή εικόνα stramonium. Επιβεβαιώνεται από τον αιτιολογικό παράγοντα.</remedies_differentiation>
+      <prescription>
+        <remedy>Stramonium</remedy>
+        <potency>1 M</potency>
+        <regimen>Εφάπαξ.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-18 15:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Follow up μια εβδομάδα μετά την λήψη της αγωγής (19/09/2014).&#13;
+&#13;
+Η μητέρα αναφέρει πως το παιδί είναι πολύ καλύτερα. Σταδιακά έχει ελαττωθεί ο τραυλισμός σε μεγάλο ποσοστό. Το παιδί από την 2η κι όλας ημέρα έπαψε να είναι τόσο επιθετικό, κλαίει πιο πολύ και με παράπονο (ενώ έκλεγε περισσότερο «σκληρά»), συμπεριφέρεται καλύτερα.&#13;
+Η μητέρα δεν παρατήρησε θεραπευτική επιδείνωση.&#13;
+</reaction>
+      <analysis>Γρήγορη βελτίωση συμπτωμάτων χωρίς να παρατηρηθεί θεραπευτική επιδείνωση. Επιβεβαίωση του υψηλού επιπέδου υγείας.</analysis>
+      <conclusion>Τα συμπτώματα υποχώρησαν σε μεγάλο βαθμό, δεν χρειάζεται περαιτέρω θεραπεία. Παρακολούθηση.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δόθηκε φάρμακο</remedy>
+        <potency>Δεν δόθηκε φάρμακο</potency>
+        <regimen>Δεν δόθηκε φάρμακο</regimen>
+        <other_notes>Δεν δόθηκε φάρμακο</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-18 15:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>Follow up 1 μήνα μετά την λήψη της αγωγής (10/10/2014)&#13;
+&#13;
+Το παιδί πια δεν τραυλίζει σχεδόν καθόλου, εξακολουθεί να είναι πολύ λιγότερο επιθετικό.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-08-18 15:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>(25/05/2015)&#13;
+&#13;
+Το παιδί ξανά τραυλίζει και είναι επιθετικό. Τα συμπτώματα άρχισαν όταν ο πατέρας του πήρε αυτόν και τον αδερφό του στο σπίτι του για λίγες μέρες, και δεν τους άφηνε ούτε να μιλήσουν στην μητέρα τους από το τηλέφωνο (σύμφωνα με την μητέρα). &#13;
+Υπάρχει ξανά συναισθηματικό σοκ-φόβος. Επανάληψη της δόσης της πρώτης αγωγής.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Stramonium</remedy>
+        <potency>1M</potency>
+        <regimen>Εφαπαξ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2015-08-18 15:00:00</followup_date>
+      <conv_med_presc>(28/06/2015) Το τράυλισμα έχει μειωθεί κατά πολύ, μόνο όταν το παιδί είναι σε συναισθηματική ένταση. Είναι λιγότερο επιθετικό, πιο κοινωνικό.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

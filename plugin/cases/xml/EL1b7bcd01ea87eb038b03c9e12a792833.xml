@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL1b7bcd01ea87eb038b03c9e12a792833</ID>
+  <patient>
+    <case_date>2014-11-16 13:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ι.Λ.</patient_initials>
+    <age>0</age>
+    <circumstances>Παντρεμένη με παιδια μεγαλα</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ατονια, Ταραχη, τρεμουλο που ξεκινα απο τα ποδια και γενικευεται σε ολο το σωμα</origin>
+        <causative_factors>Έπεσε και κτύπησε στο κεφάλι , φοβηθηκε πολυ και της κόπηκε ή φωνη, λέει πως από τότε ξεκίνησαν ολα</causative_factors>
+        <modalities>Χειρότερα με φασαρία, τσακωμούς&#13;
+Καλύτερα όταν πιεζει τα ποδια</modalities>
+        <occurrence_time>Χειρότερα το πρωι</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>-Την ενοχλεί ο θυρεοειδής, σα να της κόβεται ή φωνη, νιώθει βάρος στο λαιμο&#13;
+- Εμβοες που ξεκίνησαν πριν μερικά χρόνια &#13;
+- Μυρμηγκια σε δακτυλα</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Στατινες</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>Έπεσε προς τα πίσω και κτύπησε στο κεφαλι</traumas>
+          <infections>Αμυγδαλίτιδα προ 4 ετιας 39 C πυρετο</infections>
+          <other>Εξαίρεση οζου θυρεοειδούς, υπερλιπιδαιμια</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα Ca μαστού, υπερλιπιδαιμια</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεστενεται(1)</reactions>
+        <sleeping_habits>Πριν τις εγκυμοσύνες μπρούμυτα, μετά στο πλάι αριστερά ή δεξιά,&#13;
+Ανήσυχα ονειρα, Εφιάλτες&#13;
+Ξυπνάει με ένταση, ξυπνάει και κατά την διάρκεια της νύχτας τουλάχιστον μία φορα</sleeping_habits>
+        <food_modalities>Επιθυμεί μακαρόνια, γλυκά χωρίς πολύ ζάχαρη, φρουτα (1), ψάρι(3), λεμόνι(3), ξυδι(1)&#13;
+Απεχθεια πολύ γλυκά, ωμά, οστρακοειδη&#13;
+Νερό κ.φ. βρύσης χειμώνα καλοκαιρι</food_modalities>
+        <menstruation>Εμμηνόπαυση στα 35</menstruation>
+      </physical>
+      <mental_emotional>Άγχος υγείας για αλλους, κλαιει,εχει πεσει ψυχολογικα, τα νευρα της εχουν καταρρευσει, ψυχικη ενεργεια καθολου,</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-3 αντιβιωσεις  τον τελευταιο μηνα για δοντια και 2 αμυγδαλιτιδες χωρις πυρετο</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Ταραχη(2) χειρότερα με φασαρία (2), που ξεκινά από τα πόδια (2), σαν εσωτερικό τρεμουλο(1), όταν ξεκίνησε πρώτη φορά έτρεμε πολύ σαν σεισμός(3), κάποια στιγμή δεν μπορούσε να αναπνεύσει, δυσφορία(2), πονοκέφαλος(2) συσφικτικος(1) που ξεκινά από αυχενα, άγχος υγείας για παιδια(2),  τακτική (2), του καθήκοντος(2), δυναμικη(2), στενά σε λαιμο δεν τα μπορεί(2), σεξουαλική διάθεση πεσμένη(2)απεχθεια, πεσμένη ψυχική διάθεση(2) έχει κλειστει στον εαυτό της- δεν ήταν έτσι, ή θάλλασα είναι ή ζωή της (2), κλάμα(2), ξεσκεπάζει πόδια(2), μιλάει αποτομα(1), ξεφυσαει συχνά(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>&#13;
+ Med, carc, ignatia, acon, puls &#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Ignatia amara</remedy>
+        <potency>1M</potency>
+        <regimen>x1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-11-16 12:00:00</followup_date>
+      <conv_med_presc>Ηρεμιστικά</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν πήρε το φαρμακο</reaction>
+      <analysis>Άγχος(2), λύπη(2),δεν τρώει, κομπο στον λαιμό(1), αναστεναζει βαριά πολύ(2), αϋπνία όταν ταραζεται(2), νιώθει βάρος / στεναχώρια στο στήθος(1), ζαλαδα, σφίγγει δόντια(2)</analysis>
+      <conclusion>Καθαρότερη εικόνα ignatia</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ignatia</remedy>
+        <potency>10M(1) + 6x (30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-11-16 12:00:00</followup_date>
+      <conv_med_presc>Ηρεμιστικά</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Δεν αναστεναζει πια, έφυγε το βάρος που ένιωθε στο στηθος, θεραπευτική αντίδραση τις πρώτες μέρες τις κόπηκαν τα πόδια με έντονο τρεμουλο, το πρωι θέλει να τεντώνεται(2), ζαλαδα όταν συγκεντρώνει το βλέμμα κάπου, όρεξη κανονική, δεν σφίγγει πια τα δόντια τόσο πολύ, κλαίει λιγότερο, πολυλογια</analysis>
+      <conclusion>Έδρασε και περιμενω</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ignatia</remedy>
+        <potency>6X</potency>
+        <regimen>(x30)</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2016-11-16 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Όχι πια πονοκέφαλο, την ενοχλεί ο καπνός του τσιγάρου( πριν όχι), σφίγγει δόντια (2), κοιμάται δύσκολα και πετιεται  κατά την διάρκεια της νύχτας 1-2 φορές, ξεσκεπάζει(2), νιώθει υπερενταση(2), το βράδυ καίνε τα ποδια, νεύρα(2), αυξήθηκε η σεξουαλική επιθυμια, όχι πια πολυλογια, οι μυρμηγκιες μειωθηκαν</analysis>
+      <conclusion>Περιμενω</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ignatia</remedy>
+        <potency>6x</potency>
+        <regimen>(x30)</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2016-11-16 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>επιθυμεί το λεμονι(2) ακόμα και σκέτο, επιθυμεί ξυδι(2), επιθυμεί λίπος(2) φρουτα άγουρα(2), πάλι πολυλογια, διάθεση καλύτερη στη θαλασσα, </analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Medorrhinum</remedy>
+        <potency>30ch(x1), 200ch(x1)</potency>
+        <regimen>-</regimen>
+        <other_notes>Επρεπε πρωτα να παρει arnica, hyp? </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

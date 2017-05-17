@@ -1,0 +1,144 @@
+﻿1
+00:00:01,349 --> 00:00:07,461
+In this video, we will see how to take the e-learning tests and the purpose of the assignments provided.
+
+2
+00:00:11,804 --> 00:00:17,724
+We click on the test icon to access the available tests, in module 1 theory A.
+
+3
+00:00:21,761 --> 00:00:24,094
+This is the first page of the tests.
+
+4
+00:00:24,709 --> 00:00:28,765
+On the left of the table, you can see the titles of the available tests.
+
+5
+00:00:29,085 --> 00:00:33,501
+And on the right you can see whether you have attempted the test and the score.
+
+6
+00:00:34,433 --> 00:00:37,097
+Now we click on the first test to enter it.
+
+7
+00:00:41,327 --> 00:00:48,237
+In the first page of the test we can see the title of the test, a brief description and instructions of how to proceed.
+
+8
+00:00:48,246 --> 00:00:52,350
+And a table with information, about our previous attempts of the test.
+
+9
+00:00:53,782 --> 00:00:58,639
+Those tags shows whether a test has been corrected by the moderator, or not.
+
+10
+00:00:59,900 --> 00:01:05,861
+By clicking the show button of an attempt, we can see our answers and the moderator's marks and comments.
+
+11
+00:01:26,341 --> 00:01:32,509
+This message informs us that we can not take this test as we have reached the maximum of two attempts.
+
+12
+00:01:33,954 --> 00:01:38,687
+We click the test's link to go back to the list of the available tests.
+
+13
+00:01:46,287 --> 00:01:49,873
+We click on the "Start test" button to open the test.
+
+14
+00:01:53,831 --> 00:01:56,222
+This is the main structure of a test.
+
+15
+00:01:57,018 --> 00:02:00,898
+By clicking here you can expand the description text of the test.
+
+16
+00:02:09,446 --> 00:02:12,786
+Enter your answer in the text area, below each question.
+
+17
+00:02:28,774 --> 00:02:34,942
+The tests can be partialy filled in and saved, since they might take a long time and require study.
+
+18
+00:02:35,948 --> 00:02:41,396
+Click the "Save unfinished test" button, and all the answers you have filled in will be saved.
+
+19
+00:02:46,540 --> 00:02:51,340
+So the next time we open the test, we can proceed with the unfinished test.
+
+20
+00:02:55,967 --> 00:03:07,084
+The moderator will not see your partialy answered tests, they will only be available for correction and grading after you have made the final submission.
+
+21
+00:03:07,526 --> 00:03:11,769
+We click the "Proceed with the test" button to open the unfinished test.
+
+22
+00:03:19,668 --> 00:03:25,886
+When we have answered all the questions and we want to submit the test , so that it can be corrected by the moderator,
+
+23
+00:03:26,056 --> 00:03:28,326
+we click the "End test" button.
+
+24
+00:03:32,260 --> 00:03:34,275
+Our test have been submitted.
+
+25
+00:03:34,742 --> 00:03:38,894
+Here we can see the questions and the answers, we have given.
+
+26
+00:03:52,468 --> 00:03:57,156
+Now we will see the assignments and their purpose in the course.
+
+27
+00:03:58,422 --> 00:04:01,348
+We click on the "Assignments" icon to enter.
+
+28
+00:04:06,672 --> 00:04:13,679
+This is the first page of the assignments, on the left we can see the titles of the available assignments.
+
+29
+00:04:14,645 --> 00:04:17,111
+We click on one of them to enter.
+
+30
+00:04:21,269 --> 00:04:25,029
+On the left we can see the titles of the available assignments.
+
+31
+00:04:25,879 --> 00:04:32,696
+The purpose of these documents, is for students to assess their understanding of the licence and practice with questions,
+
+32
+00:04:32,823 --> 00:04:37,105
+similar to the ones that they will come accross during the final exams.
+
+33
+00:04:38,053 --> 00:04:44,332
+Both question and answer documents are included and they don't need to be sent back to the moderator.
+
+34
+00:04:45,417 --> 00:04:48,385
+We click the "Save" button to download the document.
+
+35
+00:04:51,460 --> 00:04:56,139
+Now we select the save file option, to save the file on our computer.
+
+36
+00:05:08,069 --> 00:05:13,764
+This is the end of the video of how to take the online tests, and the purpose of the assignments provided.
+

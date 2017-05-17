@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELe7fce5c139ea11bb689aaf2fde747be9</ID>
+  <patient>
+    <case_date>2016-01-23 12:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Σ.</patient_initials>
+    <age>0</age>
+    <circumstances>53 ετών Δύο παιδιά Δημόσιος υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από το 2008 φοβίες κυρίως στο αυτοκίνητο</origin>
+        <causative_factors>----</causative_factors>
+        <modalities>--</modalities>
+        <occurrence_time>---</occurrence_time>
+        <body_side>--</body_side>
+        <appearence_frequency>Κάθε φορά που μπαίνει σε αυτοκίνητο</appearence_frequency>
+        <pain_desc>---</pain_desc>
+        <complaint_ext>---</complaint_ext>
+        <other_complaints>Πονοκέφαλος πριν , κατά τη διάρκεια και μετά την περίοδο κάθε μήνα</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Φοβίες &#13;
+Υπερχοληστερολαιμία υπό στατίνη</conv_med_presc>
+        <lab_tests>
+          <desc>--</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>--</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Άσθμα παλαιότερα -τώρα ασυμπτωματική&#13;
+Όλοι οι υποχρεωτικοί εμβολιασμοί&#13;
+Τώρα παίρνει στατίνη&#13;
+Πριν 4 χρόνια και για 1,5 χρόνο πήρε Xanax και Ladose &#13;
+Τελευταίος πυρετός πριν πολλά χρόνια (δεν θυμάται)</therapies_vaccination>
+          <traumas>Πριν 6 χρόνια η κόρη εμφάνισε  ΣΔ τύπου 1 (συναισθηματικό τραύμα)</traumas>
+          <infections>--</infections>
+          <other>Καλοήθης όγκος μαστού χειρουργηθής προ 2 ετίας</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας :άσθμα&#13;
+Μητέρα: πρόπτωση μιτροειδούς, Κολπική  μαρμαρυγή&#13;
+Γιαγιά :ΣΔ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει,βελτιώνεται σε ζεστη,βορια</reactions>
+        <sleeping_habits>υπνος ΚΦ Παγωμένα πόδια, κοιμάται με κάλτσες</sleeping_habits>
+        <food_modalities>Επιθυμεί : αυγά μελάτα 3,γλυκά 1, φρούτα 1&#13;
+Απεχθάνεται : βούτυρο 1,αλμυρά</food_modalities>
+        <menstruation>Κάθε 28 μέρες , για 4-5 μέρες κόκκινο χρώμα</menstruation>
+      </physical>
+      <mental_emotional>Φοβία στο αυτοκίνητο 3, χαμηλή αυτοεκτίμηση 1,συμπάσχει</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η παθολογία έχει περάσει στο νοητικό επίπεδο και επειδή δεν κάνει πια οξέα κατατάσσεται μάλλον στο επίπεδο 7 . Δεν περιμένω αρχική επιδείνωση</personal_medical_history>
+        <family_medical_history>Προδιάθεση για μειωμένο αμυντικό μηχανισμό</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Πιθανή επανεμφάνιση του άσθματος σε  περίπτωση που υποχωρήσουν οι φοβίες.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Κοιμάται με κάλτσες 3</peculiar>
+        <intense>Επιθυμεί μελάτα αυγά 3 Φοβία στο αυτοκίνητο 3 Πονοκέφαλος στην περίοδο 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND ­ ANXIETY 3&#13;
+MIND ­ BAD news, ailments from 3&#13;
+GENERALITIES ­ COLD ­ agg. 1&#13;
+EXTREMITIES ­ COLDNESS ­ Foot ­ evening ­ bed, in 3&#13;
+TEETH ­ GRINDING ­ sleep, during 3&#13;
+EXTREMITIES ­ FORMICATION ­ Hand 1&#13;
+HEAD ­ PAIN (headache) ­ SIDES ­ one side (migraine) 2&#13;
+HEAD ­ PAIN (headache) ­ menses ­ after 2&#13;
+HEAD ­ PAIN (headache) ­ menses ­ before 2&#13;
+HEAD ­ PAIN (headache) ­ menses ­ during 2&#13;
+HEAD ­ PAIN (heaEAD ­ PAIN (headache) ­ menses ­ during 2&#13;
+HEAD ­ PAIN (headache) ­ darkness ­ amel. 3&#13;
+HEAD ­ PAIN (headache) ­ Forehead, in ­ eyes, above 2&#13;
+MIND ­ CONFIDENCE ­ want of self­confidence (low) 1&#13;
+MIND ­ PLEASING ­ desire to please others 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ eggs ­ desire ­ boiled ­ soft 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fruit ­ desire 1&#13;
+GENERALITIES ­ FOOD and DRINKS butter aversion 1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Calcarea carbonica : κρύα ποδια, μελάτα αυγά, φοβίες&#13;
+Carcinosin : συμπάσχει και προσπαθεί να ικανοποιήσει τους άλλους αλλά επειδή αυτά είναι υποκειμενικές  εκτιμίσεις που μου αναφέρονται από την ασθενή επιλέγω την Calc</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>200ch</potency>
+        <regimen>200ch/1caps , 6x/30 pills</regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-01-23 11:00:00</followup_date>
+      <conv_med_presc>Φεβρουάριος 2014.&#13;
+Αισθάνεται καλύτερα όταν είναι στο αυτοκίνητο. Είναι και πιο ήρεμη γενικότερα.</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Άμεση βελτίωση </reaction>
+      <analysis>Καλή αντίδραση,σωστό φάρμακο,σωστή εκτίμηση επιπέδου υγείας</analysis>
+      <conclusion>Σωστό φάρμακο.ΠΕΡΙΜΕΝΩ.</conclusion>
+      <repertorization>
+        <desc>--</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>---</remedy>
+        <potency>---</potency>
+        <regimen>----</regimen>
+        <other_notes>----</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-01-23 11:00:00</followup_date>
+      <conv_med_presc>6 μήνες αργότερα η ασθενής εχει βελτιωθεί κατά 80% στις φοβίες δεν έχει εμφανίσει ακόμη οξύ,δεν έχει χρειαστεί άλλο φάρμακο,περιμένω.</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>---</reaction>
+      <analysis>---</analysis>
+      <conclusion>Περιμένω</conclusion>
+      <repertorization>
+        <desc>---</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>--</remedy>
+        <potency>--</potency>
+        <regimen>--</regimen>
+        <other_notes>--</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

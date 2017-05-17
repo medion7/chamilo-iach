@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL716100921b3846edca694cbf42eff07b</ID>
+  <patient>
+    <case_date>2014-09-28 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Λ.Ρ.</patient_initials>
+    <age>5</age>
+    <circumstances>Νήπιο,4 ετων.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Σε ηλικία ενός έτους εμφάνισε πρώτη φορά βρογχιολίτιδα και έπειτα παρουσίασε επανειλημμένως βρογχιολίτιδα με βρογχόσπασμο.  </origin>
+        <causative_factors>Κληρονομικότητα, διάφορα αλλεργιογόνα, ιώσεις.</causative_factors>
+        <modalities>Επιδείνωση: με υγρασία, αλλεργιογόνα ατμόσφαιρας.&#13;
+&#13;
+Βελτίωση: με τη ζέστη.(3)</modalities>
+        <occurrence_time>Επιδείνωση: την άνοιξη και το χειμώνα.&#13;
+&#13;
+Βελτίωση: τους θερινούς μήνες.&#13;
+</occurrence_time>
+        <body_side>Βρόγχοι.</body_side>
+        <appearence_frequency>3-4 φορές τους χειμερινούς μήνες.</appearence_frequency>
+        <pain_desc>Δεν υπάρχει πόνος, υπάρχει δύσπνοια(4) και βρογχόσπασμος, που απαιτούν νοσηλεία σε νοσοκομείο.</pain_desc>
+        <complaint_ext>Συχνά παρουσιάζει "μπούκωμα" στη μύτη, το οποίο επηρεάζει και τα αυτιά της.</complaint_ext>
+        <other_complaints>Όχι.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>aerolin inh ,flixotide,soldesanil,singulair.</conv_med_presc>
+        <lab_tests>
+          <desc>Αιματολογικές εξετάσεις: Κ.Φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Όχι.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>&#13;
+Εμβολιασμός: πλήρης.&#13;
+Συχνες αντιβιωσεις,εισπνεομενα κορτιζονουχα.</therapies_vaccination>
+          <traumas>Όχι.</traumas>
+          <infections>Όχι.</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: υγιής.&#13;
+&#13;
+Πατέρας: με έκζεμα.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Αγαπά τη ζέστη, τον ήλιο και τη θάλασσα.</reactions>
+        <sleeping_habits>Γκρινιάρα, ευερέθιστη(3), κοιμάται δύσκολα. Ιδρώνει στον ύπνο της(4) (κυρίως στο κεφάλι), τρίζει τα δόντια(4) της τόσο δυνατά που η μητέρα της φοβάται ότι θα σπάσουν.</sleeping_habits>
+        <food_modalities>Της αρέσουν τα γλυκά(3) τα μαλακά φρούτα, οι μπανάνες(2), το γάλα. &#13;
+&#13;
+Απέχθεια: στο αυγό.</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Νευρική(, υπερκινητική(2) θέλει να προκαλεί (ο πατέρας της την μαλώνει συνεχώς), να τραβάει την προσοχή, ζηλεύει(3) και πειράζει την μικρότερη αδερφή της. &#13;
+&#13;
+Φοβάται τα σκυλιά(2).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Συχνά παρουσιάζει βρογχιολίτιδα (από μωρό) και νοσηλεύεται συνήθως για περίπου 10 ημέρες, 2-3 φορές το χρόνο, του χειμερινούς μήνες.  </personal_medical_history>
+        <family_medical_history>Μητέρα υγιής.&#13;
+&#13;
+Ο πατέρας έχει έκζεμα. </family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Στο παιδί από 12 μηνών χορηγούνται ετησίως Aerolin, Flixotide, σταγόνες Soldesanil (κορτιζόνη) και Singulair, λόγω της συχνής εμφάνισης βρογχιολίτιδας με βρογχόσπασμο. Έτσι οι γονείς συμφώνησαν να δοκιμάσουν μια εναλλακτική ομοιοπαθητική θεραπεία.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Τρίξιμο δοντιών(4)</peculiar>
+        <intense>Βρογχόσπασμος (4), δύσπνοια(4),ζήλεια(2),της αρέσουν τα γλυκά(3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Stramonium,belladona,causticum,hyoscyamus,tuberculinum.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Χορηγήθηκε Tuberculinum γιατί το παιδί έχει ευαισθησία στο αναπνευστικό σύστημα, τρίζει τα δόντια του κατά τη διάρκεια του ύπνου και επιδιώκει να προκαλεί την προσοχή των γονιών του.</remedies_differentiation>
+      <prescription>
+        <remedy>Tuberculinum.</remedy>
+        <potency>200CH/2</potency>
+        <regimen>1x2 (για 2 ημέρες)</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-12 11:00:00</followup_date>
+      <conv_med_presc>Δε ξαναπήρε φάρμακο.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Από την πρώτη ημέρα σταμάτησε να τρίζει τα δόντια της. Σταδιακά μειώθηκαν τα αναπνευστικά προβλήματα του παιδιού και σταδιακά διακόπηκαν και τα εισπνεόμενα φάρμακα που χορηγούνταν.</reaction>
+      <analysis>Το φάρμακο που χορηγήθηκε αποδείχτηκε σωστό καθώς τα συμπτώματα υποχώρησαν γρήγορα. Το παιδί τους τελευταίος μήνες είναι ελεύθερο συμπτωμάτων, εκτός από μικρές ιώσεις.</analysis>
+      <conclusion>Το φάρμακο που χορηγήθηκε αποδείχτηκε σωστό καθώς τα συμπτώματα υποχώρησαν γρήγορα. Το παιδί τους τελευταίος μήνες είναι ελεύθερο συμπτωμάτων, εκτός από μικρές ιώσεις.</conclusion>
+      <repertorization>
+        <desc>Δεν πήρε άλλο φάρμακο. Η πορεία του παιδιού παρακολουθείται.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν πήρε άλλο φάρμακο. Περιμένουμε.</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

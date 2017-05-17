@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL43b21609d9ea4225414cba3c6c0d6350</ID>
+  <patient>
+    <case_date>2015-06-22 17:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Σ.Π.</patient_initials>
+    <age>47</age>
+    <circumstances>ΑΝΥΠΑΝΤΡΗ, ΧΩΡΙΣ ΠΑΙΔΙΑ ,ΜΟΥΣΙΚΟΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ ΤΗΝ ΗΛΙΚΙΑ ΤΩΝ 22 ΕΤΩΝ</origin>
+        <causative_factors>ΑΠΩΛΕΙΑ ΤΟΥ ΠΑΤΕΡΑ ΤΗΣ ΟΤΑΝ ΗΤΑΝ 14 ΕΤΩΝ&#13;
+ΕΝΤΟΝΟ ΣΤΡΕΣ ΛΟΓΩ ΜΕΓΑΛΩΝ ΑΠΑΙΤΗΣΕΩΝ ΤΗΣ ΔΟΥΛΕΙΑΣ ΤΗΣ&#13;
+ΚΑΙ ΤΗΣ ΙΔΙΟΣΥΓΚΡΑΣΙΑ ΤΗΣ&#13;
+</causative_factors>
+        <modalities>&gt; ΟΤΑΝ ΕΡΓΑΖΕΤΑΙ ΚΑΙ ΠΑΙΖΕΙ ΜΟΥΣΙΚΗ&#13;
+&lt; ΣΠΙΤΙ ΤΗΣ ΕΠΕΙΔΗ ΣΥΓΚΑΤΟΙΚΕΙ ΜΕ ΟΛΗ ΤΗΝ ΟΙΚΟΓΕΝΕΙΑ&#13;
+(ΑΝΗΨΙΑ,ΜΑΝΑ,ΝΥΦΗ,ΑΔΕΛΦΟ)</modalities>
+        <occurrence_time>&gt; ΤΗΝ ΗΜΕΡΑ&#13;
+&lt; ΤΗ ΝΥΧΤΑ</occurrence_time>
+        <body_side>ΔΕΞΙΑ</body_side>
+        <appearence_frequency> ΤΑ ΠΑΡΑΠΑΝΩ ΣΥΜΠΤΩΜΑΤΑ ΜΑΖΙ ΜΕ ΗΜΙΚΡΑΝΙΕΣ ΣΥΜΒΑΙΝΟΥΝ&#13;
+ΠΕΡΙΠΟΥ ΚΑΘΕ 15 ΗΜΕΡΕΣ</appearence_frequency>
+        <pain_desc> Η ΚΕΦΑΛΑΛΓΙΑ ΕΙΝΑΙ ΠΙΟ ΕΝΤΟΝΗ ΣΤΗ ΜΕΤΩΠΙΚΗ&#13;
+ΚΑΙ ΚΡΟΤΑΦΙΚΗ ΠΕΡΙΟΧΗ ΜΕ ΑΙΣΘΗΜΑ ΟΤΙ ΠΟΝΟΣ&#13;
+ΣΠΡΩΧΝΕΙ ΤΟ ΚΕΦΑΛΙ ΜΕ ΔΥΝΑΜΗ ΠΡΟΣ ΤΑ ΕΞΩ</pain_desc>
+        <complaint_ext>ΜΕΡΙΚΕΣ ΦΟΡΕΣ Η ΚΕΦΑΛΑΛΓΙΑ ΕΠΕΚΤΕΙΝΕΤΑΙ&#13;
+ΠΡΟΣ ΤΟ ΠΙΣΩ ΜΕΡΟΣ ΤΟΥ ΚΕΦΑΛΙΟΥ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΚΟΡΤΙΖΟΝΗ,ΑΝΤΙΒΙΩΣΕΙΣ,DIOVAN ΓΙΑ ΥΠΕΡΤΑΣΗ&#13;
+ΑΥΠΝΙΕΣ,ΔΥΣΠΕΨΙΑ,ΔΥΣΚΟΙΛΙΟΤΗΤΑ</conv_med_presc>
+        <lab_tests>
+          <desc>ΛΕΥΚΑ=11800&#13;
+HT=38.2&#13;
+BIOXHMIKA =Κ.Φ.&#13;
+Η.Κ.Γ.=Κ.Φ.&#13;
+Α.Π.=170/95</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΚΟΡΤΙΖΟΝΗ,ΑΝΤΙΒΙΩΣΕΙΣ&#13;
+ΚΑΙ ΟΛΑ ΤΑ ΕΜΒΟΛΙΑ</therapies_vaccination>
+          <traumas>ΑΠΩΛΕΙΑ ΤΟΥ ΠΑΤΕΡΑ ΤΗΣ ΣΤΑ 14.&#13;
+ΜΙΑ ΜΕΓΑΛΗ ΕΡΩΤΙΚΗ ΣΧΕΣΗ ΠΟΛΛΩΝ ΧΡΟΝΩΝ&#13;
+ΠΟΥ ΑΠΕΤΥΧΕ ΚΑΙ ΑΦΗΣΕ ΠΟΛΛΑ ΚΑΤΑΛΟΙΠΑ&#13;
+ΣΤΗΝ ΙΔΙΑ&#13;
+</traumas>
+          <infections>ΚΑΜΙΑ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ ΜΕ Χ.Α.Π. , Α.Υ. ΔΙΑΒΗΤΗ&#13;
+ΠΑΤΕΡΑΣ ΟΣΟ ΖΟΥΣΕ,ΧΩΡΙΣ ΠΡΟΒΛΗΒΑΤΑ ΥΓΕΙΑΣ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits>ΑΡΓΕΙ ΝΑ ΚΟΙΜΗΘΕΙ ΤΟ ΒΡΑΔΥ</sleeping_habits>
+        <food_modalities>ΘΕΛΕΙ ΠΟΛΥ ΤΑ ΠΙΚΑΝΤΙΚΑ ΚΑΙ ΤΟΝ ΚΑΦΕ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΙΝΑΙ ΥΠΕΡΕΥΑΙΣΘΗΤΗ,ΣΥΜΠΟΝΑ ΠΟΛΥ ΤΟΥΣ ΑΛΛΟΥΣ ΚΑΙ ΤΟΥΣ ΒΟΗΘΑ.&#13;
+ΕΙΝΑΙ ΕΞΥΠΝΗ , ΕΡΓΑΤΙΚΗ KAI TEΛΕΙΟΜΑΝΗΣ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Α.Υ.&#13;
+ΑΥΠΝΙΕΣ&#13;
+ΔΥΣΚΟΙΛΙΟΤΗΤΑ&#13;
+ΔΥΣΠΕΨΙΑ-ΜΕΤΕΩΡΙΣΜΟΣ&#13;
+ΚΑΦΑΛΑΛΓΙΕΣ</personal_medical_history>
+        <family_medical_history>ΜΗΤΕΡΑ= Χ.Α.Π. &#13;
+Σ.Δ.&#13;
+Α.Υ&#13;
+ΠΑΤΕΡΑΣ= ΕΛΕΥΘΕΡΟ ΙΣΤΟΡΙΚΟ</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>ΤΑ ΣΥΜΠΤΩΜΑ ΤΟΥ ΑΣΘΕΝΟΥΣ ΕΙΝΑΙ ΑΠΟ ΜΙΚΡΗ&#13;
+ΗΛΙΚΙΑ ΚΑΙ ΟΣΟ ΠΑΙΡΝΟΥΝ ΤΑ ΧΡΟΝΙΑ ΓΙΝΟΝΤΑΙ&#13;
+ΠΙΟ ΕΝΤΟΝΑ ΚΑΙ ΜΕ ΜΕΓΑΛΥΤΕΡΗ ΔΙΑΡΚΕΙΑ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΜΕΡΙΚΕΣ ΦΟΡΕΣ ΘΟΛΩΣΗ ΟΡΑΣΗΣ (2)ΑΠΟ ΤΗΝ ΚΕΦΑΛΑΓΙΑ</peculiar>
+        <intense>ΔΥΣΚΟΙΛΙΟΤΗΤΑ 3&#13;
+ΘΥΜΟΣ-ΝΕΥΡΑ 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>NUX VOMIKA&#13;
+ARSENICUM</remedies_differentiation>
+      <prescription>
+        <remedy>NUX VOMIKA</remedy>
+        <potency>200 CH</potency>
+        <regimen>1X1 ΓΙΑ 40 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΕΠΙΚΟΙΝΩΝΙΑ ΜΕΤΑ ΤΟ ΠΕΡΑΣ ΤΗΣ ΘΕΡΑΠΕΙΑΣ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-26 16:00:00</followup_date>
+      <conv_med_presc>ΛΙΓΟΤΕΡΑ ΑΝΑΛΓΗΤΙΚΑ ΓΙΑ ΤΟΥΣ ΠΟΝΟΚΕΦΑΛΟΥΣ&#13;
+ΣΥΝΕΧΙΖΕΙ ΤΟ DIOVAN ME ΠΡΟΤΡΟΠΗ TOY ΠΑΘΟΛΟΓΟΥ ΤΗΣ&#13;
+1 ΦΟΡΑ ΑΝΤΙΒΙΩΣΗ ΓΙΑ ΜΙΑ ΛΟΙΜΩΞΗ ΑΝ.ΑΝΑΠΝΕΥΣΤΙΚΟΥ&#13;
+&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>ΛΕΥΚΑ=9170&#13;
+ΒΙΟΧΗΜΙΚΑ=Κ.Φ.&#13;
+Α.Π.=147/85&#13;
+Η.Κ.Γ.=Κ.Φ.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΑΛΛΑΞΕ ΤΟ ΠΡΟΓΡΑΜΑ ΤΟΥ ΥΠΝΟΥ ΤΗΣ</reaction>
+      <analysis>ΠΡΙΝ ΤΟ ΦΑΡΜΑΚΟ ΚΟΙΜΟΤΑΝ ΠΕΡΙΠΟΥ ΣΤΙΣ 3:00 TA ΞΗΜΕΡΩΜΑΤΑ&#13;
+ΚΑΙ ΞΥΠΝΟΥΣΕ ΓΥΡΩ ΣΤΙΣ 10:00&#13;
+META TO ΦΑΡΜΑΚΟ ΚΟΙΜΟΤΑΝ ΣΤΙΣ 1:30&#13;
+KAI ΞΥΠΝΟΥΣΕ ΣΤΙΣ 8:00</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>NUX VOMIKA</remedy>
+        <potency>30 CH</potency>
+        <regimen>1X1 ΓΙΑ 15 ΗΜΕΡΕΣ</regimen>
+        <other_notes>Η ΑΣΘΕΝΗΣ ΕΧΕΙ ΛΙΓΟΤΕΡΑ ΝΕΥΡΑ,ΠΙΟ ΧΑΜΗΛΗ Α.Π.&#13;
+ΚΑΙ Η ΔΥΣΚΟΙΛΙΟΤΗΤΑ ΕΙΝΑΙ ΠΙΟ ΗΠΙΑ ΑΠΟ ΠΡΙΝ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

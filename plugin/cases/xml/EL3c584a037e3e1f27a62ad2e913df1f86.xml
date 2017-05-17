@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3c584a037e3e1f27a62ad2e913df1f86</ID>
+  <patient>
+    <case_date>2015-08-02 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Γ.Ο</patient_initials>
+    <age>40</age>
+    <circumstances>διαζευγμενη απο 8ετίας</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>υποτροπιαζουσες κολπιτιδες μετα αφαιρεση ινομυωματος &#13;
+εκτομη ινομυωματος προ 3τιας κι επανεμφανιση του&#13;
+κακη κυκλοφορια κατω ακρων απο 10ετιας-βαρυα ποδια σαν να ειναι σφιγμενα με επιδεσμο&#13;
+&lt;καλοκαιρι &lt;ορθοστασια&#13;
+ευαισθησια στα αυτια,&#13;
+σπανε τα νυχια ευκολα&#13;
+δυσπεψια μετα το διαζυγιο προ 8ετιας</origin>
+        <causative_factors>χειρουργειο&#13;
+θλιψη μετα διαζυγιο</causative_factors>
+        <modalities>&lt;ζεστη&#13;
+&lt;ορθοστασια&#13;
+&lt;στρες&#13;
+&lt;σεξ επαφη</modalities>
+        <occurrence_time>&lt;καλοκαιρι οι κολπιτιδες&#13;
+&lt;θαλασσα</occurrence_time>
+        <body_side>μεση γραμμη, αμφοτερα τα κατω ακρα&#13;
+</body_side>
+        <appearence_frequency>κολπιτιδες 1 ανα 3μηνες&#13;
+ωτιτιδες ανα 6μηνο</appearence_frequency>
+        <pain_desc>πονος διαξιφιστικος στο αυτι με ωτορροια&#13;
+κνησμος με καυσαλγια στον κολπο και υγρα δυσοσμα και κολλωδη</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints>τυμπανισμος που επειδεινώνεται με το γαλα κατα πολυ&#13;
+δυσπεψια&#13;
+οταν τρεχω λαχανιαζω (αναιμια)</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>fillicin</conv_med_presc>
+        <lab_tests>
+          <desc>σιδηροπενικη αναιμια απο 2ετίας</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>αντιβιωτικη αγωγη για ωτιτιδες</therapies_vaccination>
+          <traumas>το διαζυγιο μου στοιχισε πολυ συναισθηματικά λογω του οτι ενιωσα μεγαλη απορριψη (δεν μπορουσαμε να κανουμε παιδι)</traumas>
+          <infections>υποτροπιαζουσες λοιμωξεις ανωτερου αναπνευστικου&#13;
+ανευμευλογια 3 φορες σε παιδικη ηλικια</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας με Σ.Δ τυπου ΙΙ &#13;
+μητερα με καρκινο ωοθηκων και Σ.Δ&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt;καλοκαιρι&#13;
+&lt;ζεστη&#13;
+</reactions>
+        <sleeping_habits>υπνος κφ&#13;
+ονειρα κφ&#13;
+ποδια εξω απο τα σκεπασματα χειμωνα καλοκαιρι</sleeping_habits>
+        <food_modalities>ορεξη αμειωτη&#13;
+επιθυμια γαλα (3) σοκολατα (3)&#13;
+απεχθεια σε γλοιωδη</food_modalities>
+        <menstruation>καθε 25-31 μερες με διαρκεια 5 ημερων &#13;
+χωρις πονο, </menstruation>
+      </physical>
+      <mental_emotional>δεν μπορω να εκφρασω ευκολα το θυμο μου&#13;
+δε νοιαζομαι για τη γνωμη των αλλων&#13;
+δεν αντεχω τη θεα του αιματος&#13;
+σαν παιδι υπακουο, υπομονετικο, ευαισθητο, ισχυρογνωμων, τρυφερο&#13;
+ευσυγκινητη-κλαιω με το παραμικρο&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>πολλες αντιβιωσεις&#13;
+υποτροπιαζουσες λοιμωξεις&#13;
+οχι καθαρη εικονα φαρμακου</personal_medical_history>
+        <family_medical_history>προδιαθεση ΣΔ</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>το πιθανοτερο θα χρειαστει παραπανω απο ενα φαρμακο</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ποδια σαν να ειναι σφιγμενα με επιδεσμο-κακη κυκλοφορια κατω ακρων (3)&#13;
+υποτροπιαζουσες κολπιτιδες μετά  χειρουργειο ινομυωματων και επανεμφανιση ινομυωματων (2)&#13;
+&#13;
+τυμπανισμος με γάλα εντούτοις της αρεσει πολυ (3)&#13;
+ανεμευλογια 3 φορες (3)</peculiar>
+        <intense>υποτροπιαζουσες κολπιτιδες (2) με κνησμο και καυσο&#13;
+&lt;καλοκαιρι&#13;
+&lt;θαλασσα&#13;
+υποτροπιαζουσες ωτιτιδες (2)&#13;
+αλγος στα κατω ακρα (3)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>genitalia female inflamation vagina during coition 2&#13;
+genitalia female inflamation vagina 2&#13;
+genitalia female tumors uterus fibroid 2&#13;
+extremetiew bandage sensation as if lower limbs 4&#13;
+extremeties pain wormth agg 2&#13;
+genitalia female leuccorhea brown 2&#13;
+generalities food and drink milk desire 3&#13;
+mind weeping tearful mood-sympathy with others 2&#13;
+mind yielding disposition 2&#13;
+extremeties nails britle finger nails 2&#13;
+head on covering on head agg 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Phosphorus&#13;
+N. Αcid&#13;
+Carcinocin&#13;
+Platina...&#13;
+δεν εχουμε καθαρη εικονα φαρμακου</remedies_differentiation>
+      <prescription>
+        <remedy>platina</remedy>
+        <potency>200ch 30ch</potency>
+        <regimen>ε φ απαξ</regimen>
+        <other_notes>γιατι εχει το ιδιαιτερο συμπτωμα της αισθησης του επιδεσμου γυρω απο τα κατω ακρα</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>μετα 40 μερες επανελεγχος</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>εκοψε το τσιγαρο χωρις στερητικο συνδρομο&#13;
+δυσπεψια, αερια το ιδιο&#13;
+ενεργεια λιγο καλυτερα&#13;
+εκφραζει πιο ευκολα το θυμο της, κλαιει πιο ευκολα&#13;
+νυχια σπανε&#13;
+αισθηση σαν να εχουν σφιξει με επιδεσμο τα ποδια παραμενει&#13;
+κολπιτιδα στο μεσοδιαστημα δεν εχει εμφανιστει</reaction>
+      <analysis>δεν φαινεται εμφανης αλλαγη..εντουτοις επειιδη δεν εχει περασει μεγαλο χρονικο διαστημα περιμενουμε</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>ααναμονη</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>αναμονη</remedy>
+        <potency>οχι</potency>
+        <regimen>αναμονη</regimen>
+        <other_notes>αναμονη</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>επανελεγχος 40 μερες μετα</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>&lt;αισθημα βαρους στα ποδια&#13;
+&lt;αναιμια&#13;
+επεισοδια κολπιτιδας δυο μεσα στο μηνα-δεν πηρε αντιβιωτικη αγωγη&#13;
+καθημερινα αερια και μετεωρισμος&#13;
+μηνορραγίες διαρκειας μιας εβδομαδας με αιμα που λερωνει τα σκεπασματα</reaction>
+      <analysis>το φαρμακο ηταν λαθος εφ οσον δεν εχει αντιδοτηθει απο καφε ή δεν εχει εξαντληθει λογω χαμηλης δυναμοποιησης&#13;
+ξαναπαιρνουμε την περιπτωση</analysis>
+      <conclusion>carcinocin </conclusion>
+      <repertorization>
+        <desc>χωρις ουσιαστικη διαφοροποιηση συμπτωματων απο την αρχικη συνεδρια</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>carcinocin </remedy>
+        <potency>200ch 30ch</potency>
+        <regimen>εφ απαξ</regimen>
+        <other_notes>επανελεγχος σε 40 μερες</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>fillicin</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>&gt;δυσπεψια&#13;
+&gt;συσφικτικο αισθημα κατω ακρων&#13;
+πιο διεκδικητικη-λεει συχνοτερα οχι&#13;
+πολυ βελτιωμενη η δυσοσμια των εκκρισεων των γενν. οργανων (η ιδια λεει αυτο το βρισκω συγκλονιστικο!!)&#13;
+διαθεση πολυ καλυτερη&#13;
+ενεργεια πολυ καλυτερη</reaction>
+      <analysis>σωστο φαρμακο, αναμονη</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>αναμονη</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>αναμονη</remedy>
+        <potency>οχι</potency>
+        <regimen>αναμονη</regimen>
+        <other_notes>επαν ελεγχος μετα 40 μερες</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date></followup_date>
+      <conv_med_presc>φυσιολογικα επίπεδα σιδηρου και φεριτινης&#13;
+διακοπη fillicin</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>τα νυχια δε σπανε τοσο ευκολα&#13;
+λιγοτερο αιμα στην Ε.Ρ.&#13;
+δεν εχει αλλαξει τιποτα στις συνθηκες της ζωης μου&#13;
+δυσπεψια σε γαλα και γιαουρτι παραμενει&#13;
+λαχανιαζει αφου ανεβει περισσοτερους οροφους&#13;
+φοραει λαμπερα χρωματα, γλυκεια, εκδηλωτικη.</reaction>
+      <analysis>πολυ καλη αντιδραση στο φαρμακο..</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>δεν προχωραμε σε αλλη συνταγογραφηση</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>αναμονη</remedy>
+        <potency>αναμονη</potency>
+        <regimen>αναμονη</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

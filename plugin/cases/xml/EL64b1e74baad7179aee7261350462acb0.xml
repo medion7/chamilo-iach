@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL64b1e74baad7179aee7261350462acb0</ID>
+  <patient>
+    <case_date>2015-05-01 18:50:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΧΔ</patient_initials>
+    <age>7</age>
+    <circumstances>ΜΑΘΗΤΗΣ ΠΡΩΤΗΣ ΤΑΞΗΣ ΔΗΜΟΤΙΚΟΥ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ 2 ΕΤΩΝ</origin>
+        <causative_factors>ΟΙ ΙΩΣΕΙΣ ΕΜΦΑΝΙΣΤΗΚΑΝ ΜΕ ΤΟ ΠΟΥ&#13;
+ΞΕΚΙΝΗΣΕ ΠΑΙΔΙΚΟ ΣΤΑΘΜΟ</causative_factors>
+        <modalities>&lt;ΥΓΡΑΣΙΑ&#13;
+&gt;ΕΞΩ ΣΤΟΝ ΚΑΘΑΡΟ ΑΕΡΑ</modalities>
+        <occurrence_time>&gt;ΚΑΛΟΚΑΙΡΙ</occurrence_time>
+        <body_side>ΔΕΞΙΑ</body_side>
+        <appearence_frequency>5-6 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ</appearence_frequency>
+        <pain_desc>ΠΟΝΟΣ ΕΝΤΟΝΟΣ ΣΤΟ ΣΤΗΘΟΣ ΟΤΑΝ ΕΒΗΧΕ ΣΤΙΣ ΙΩΣΕΙΣ</pain_desc>
+        <complaint_ext>ΟΧΙ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΑΝΤΙΒΙΩΤΙΚΑ ΚΑΙ ΚΟΡΤΙΖΟΝΗ ΓΙΑ ΒΡΟΓΧΙΤΙΔΕΣ ΛΑΡΥΓΓΙΤΙΔΕΣ</conv_med_presc>
+        <lab_tests>
+          <desc>ΓΙΑ ΠΑΙΔΙ ΤΗΣ ΗΛΙΚΙΑΣ ΤΟΥ Κ.Φ. ΟΛΕΣ ΟΙ ΕΞΕΤΑΣΕΙΣ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΓΙΑ 4 ΧΡΟΝΙΑ ΑΡΚΕΤΕΣ ΑΝΤΙΒΙΩΣΕΙΣ,ΚΟΡΤΙΖΟΝΗ ΚΑΙ SINGULAIR&#13;
+ΟΛΑ ΤΑ ΠΑΙΔΙΚΑ ΕΜΒΟΛΙΑ</therapies_vaccination>
+          <traumas>ΕΝΤΟΝΕΣ ΔΙΑΦΩΝΙΕΣ ΤΩΝ ΓΟΝΙΩΝ ΤΟΥ ΜΠΡΟΣΤΑ ΤΟΥ</traumas>
+          <infections>ΚΑΜΙΑ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΓΟΝΕΙΣ ΜΕ ΕΛΕΥΘΕΡΟ ΙΣΤΟΡΙΚΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits>ΠΟΛΥ ΚΑΛΗ ΠΟΙΟΤΗΤΑ ΥΠΝΟΥ</sleeping_habits>
+        <food_modalities>ΠΟΛΥ ΦΑΓΗΤΟ ΧΩΡΙΣ ΝΑ ΠΑΧΑΙΝΕΙ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΠΟΙΚΙΝΩΝΙΑΚΟΤΑΤΟΣ, ΘΕΛΕΙ ΝΑ ΠΡΟΣΦΕΡΕΙ ΣΤΟΝ ΑΝΥΜΠΟΡΟ&#13;
+ΜΕΓΑΛΗ ΦΑΝΤΑΣΙΑ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΠΑΙΔΙΚΕΣ ΙΩΣΕΙΣ ΜΕ ΜΕΓΑΛΗ ΣΥΧΝΟΤΗΤΑ&#13;
+ΔΥΣΚΟΙΛΙΟΤΗΤΑ</personal_medical_history>
+        <family_medical_history>ΜΑΝΑ= ΑΣΘΜΑΤΙΚΗ ΒΡΟΓΧΙΤΙΔΑ ΜΙΚΡΟΥ ΒΑΘΜΟΥ&#13;
+ΠΑΤΕΡΑΣ=ΕΛΕΥΘΕΡΟ ΙΣΤΟΡΙΚΟ</family_medical_history>
+        <level_of_health>12</level_of_health>
+        <conclusion>ΠΑΙΔΙ ΜΕ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΜΕ ΜΟΝΟ ΠΡΟΒΛΗΜΑ &#13;
+ΤΙΣ ΠΑΙΔΙΚΕΣ ΙΩΣΕΙΣ ΚΑΙ ΤΗ ΔΥΣΚΟΙΛΙΟΤΗΤΑ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΤΕΛΕΙΟΜΑΝΙΑ 2&#13;
+ΑΡΙΣΤΗ ΜΝΗΜΗ 4&#13;
+ΙΔΡΩΝΕΙ ΣΤΟ ΤΡΙΧΩΤΟ ΤΗΣ ΚΕΦΑΛΗΣ 2</peculiar>
+        <intense>ΔΥΣΚΟΙΛΙΟΤΗΤΑ 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ΦΩΣΦΩΡΟΣ ,SULFAR</remedies_differentiation>
+      <prescription>
+        <remedy>ΦΩΣΦΟΡΟΣ</remedy>
+        <potency>1Μ</potency>
+        <regimen>1Μ ΑΠΑΞ&#13;
+ΕΠΑΝΑΛΗΨΗ ΤΗΣ ΔΟΣΗΣ ΜΕΤΑ ΑΠΟ 15 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΤΟ ΠΑΙΔΙ ΕΧΕΙ ΜΙΑ ΜΙΚΡΗ ΔΙΑΣΠΑΣΗ ΠΡΟΣΟΧΗΣ&#13;
+</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-11-10 17:50:00</followup_date>
+      <conv_med_presc>ΦΩΣΦΟΡΟΣ 1M</conv_med_presc>
+      <lab_tests>
+        <desc>Κ.Φ.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΣΥΧΝΟΥΡΙΑ ΜΕ ΛΙΓΕΣ ΣΤΑΓΟΝΕΣ ΟΥΡΩΝ ΚΑΘΕ ΦΟΡΑ&#13;
+</reaction>
+      <analysis>40 ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ ΠΗΓΑΙΝΕ ΣΤΗΝ ΤΟΥΑΛΕΤΑ&#13;
+ΚΑΙ ΕΠΙΑΝΕ ΤΟ ΠΟΥΛΑΚΙ ΤΟΥ ΜΕ ΔΥΣΑΡΕΣΚΙΑ</analysis>
+      <conclusion>Ο ΦΩΣΦΟΡΟΣ TON BΟΗΘΗΣΕ ΠΑΡΑ ΠΟΛΥ ΝΑ ΞΕΠΕΡΑΣΕΙ ΟΛΑ ΤΑ ΠΑΡΑΠΑΝΩ ΣΕ ΠΟΛΥ ΜΕΓΑΛΟ ΒΑΘΜΟ, ΑΛΛΑ&#13;
+ΕΧΕΙ ΣΤΑ ΜΑΓΟΥΛΑ ΤΟΥ  ΣΠΥΡΑΚΙΑ ΣΑΝ ΑΚΜΗ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>SULFAR</remedy>
+        <potency>200CH</potency>
+        <regimen>1X3 ΓΙΑ 2 ΗΜΕΡΕΣ</regimen>
+        <other_notes>Η ΔΥΣΚΟΙΛΙΟΤΗΤΑ ΕΞΑΦΑΝΙΣΤΗΚΕ ΕΝΤΕΛΩΣ&#13;
+Η ΔΙΑΣΠΑΣΗ ΠΡΟΣΟΧΗΣ ΟΥΤΕ ΠΟΥ ΦΑΙΝΕΤΑΙ&#13;
+ΠΟΛΥ ΠΙΟ ΧΑΡΟΥΜΕΝΟΣ ΚΑΙ ΜΕΓΑΛΗ ΒΕΛΤΙΩΣΗ&#13;
+ΣΤΟ ΛΕΚΤΙΚΟ ΤΟΥ ΚΟΜΜΑΤΙ&#13;
+ΤΑ ΣΠΥΡΑΚΙΑ ΜΕΤΑ ΑΠΟ 1 ΕΒΔΟΜΑΔΑ ΑΠΟ ΤΟ SULFAR ΥΠΟΧΩΡΗΣΑΝ ΣΗΜΑΝΤΙΚΑ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

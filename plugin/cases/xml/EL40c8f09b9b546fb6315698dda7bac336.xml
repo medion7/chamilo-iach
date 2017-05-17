@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL40c8f09b9b546fb6315698dda7bac336</ID>
+  <patient>
+    <case_date>2014-04-09 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>MΔ</patient_initials>
+    <age>58</age>
+    <circumstances>Χωρισμενη με 2 κοριτσια</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>1.Καταθλιψη3-κλαιει 2 πολυ συχνα οταν θυμαται τα βασανα στο γαμο της κλπ&#13;
+2.Φοβιες να μεινει μονη3 να μπει σε αεροπλανο4 να ανεβει στην ταρατσα της πολυκατοικιας η σε ψηλα μερη3 στο ασανσερ δεν μπαινει ποτε4 δεν αντεχει τα τουνελ2(παιρνει xanax οταν ειναι να περασει με λεωφορειο του κτελ)&#13;
+3.Πονοι στην κοιλια(δεξια κυριως) με μεεωρισμο3 κ ερυγες2</origin>
+        <causative_factors>Η ψυχολογικη και σπανια σωματικη κακοποιηση του συζυγου στο γαμο-τον χωρισε 4χρονια πριν που τα κοριτσια της ενηλικιωθηκαν</causative_factors>
+        <modalities>1.Καταθλιψη: &gt;την μερα2 &gt;οταν τρωει γλυκα4   &lt;το βραδυ1 &lt;&lt;νυχτα2(ξυπναει νυχτα κ τρωει γλυκα και νιωθει ψυχικα&gt;&gt;&gt;                                                                              &#13;
+2.Φοβιες:&gt;αν δεν ταξιδευει &gt;με παρεα3(μενει με κορη της στο σπιτι) &lt;&lt;&lt;οταν φευγει η κορη της ταξειδι3&#13;
+3.Πονοι στην κοιλια 2&lt;οταν τρωει πολλα γλυκα3-το βραδυ και τη νυχτα συνηθως γιατι διωχνουν την θλιψη&#13;
+                                 &lt;με το σρεςς2&#13;
+                                  &gt;με φαρμακο Librax(ηπιο αγχολυτικο+σπασμολυτικο)  &gt;με ερυγες2 &gt;με αερια κ κενωση3&#13;
+4.Δυσκοιλιοτητα3</modalities>
+        <occurrence_time>1.Καταθλιψη: &gt;την μερα2    &lt;το βραδυ1 &lt;&lt;νυχτα2                                                                              &#13;
+2.Φοβιες:&lt;το βραδυ (συνηθως βγαινει η κορη της βολτες-τη μερα το αντεχει)&#13;
+3.Πονοι στην κοιλια 2&lt;&lt;το βραδυ (τρωει πολλα γλυκα)</occurrence_time>
+        <body_side>.Πονοι στην κοιλια κυριως δεξια (δεξιο λαγονιο βοθρο)</body_side>
+        <appearence_frequency>Μισες μερες του μηνα πονει στην κοιλια-στο εντερο</appearence_frequency>
+        <pain_desc>Πονοι στην κοιλια κυριως δεξια (δεξιο λαγονιο βοθρο) με μετεωρισμο  -πονος αμβλυς-συνεχης επιμονος&#13;
+        &gt;μετα την κενωση &gt;με εξοδο αεριων και κοπρανων (συνηθως δυσκοιλιοτητα)&#13;
+        &gt;με Librax &gt;Xanax&#13;
+         &lt;με ληψη πολλων γλυκων   &lt;με στρες        </pain_desc>
+        <complaint_ext>Σπανια ο κοιλιακος πονος παει προς τον ομφαλο(περιομφαλικα)</complaint_ext>
+        <other_complaints>Αισθημα ξηρου στοματος-ελαχιστη εοιθυμια για νερο</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Zantac-Limprax-Xanax καθημερινα</conv_med_presc>
+        <lab_tests>
+          <desc>Κολονοσκοπηση=πολυποδες παχεος εντερου</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>2 φυσιολογικοι τοκετοι-οχι ιδιαιτερα προβληματα&#13;
+Τελευταια 8χρονια κανει το αντιγριππικο εμβολιο 1/χρονο</therapies_vaccination>
+          <traumas>Εmot:Παρατεταμενη στεναχωρια στο γαμο-ο συζυγος την απατουσε συστηματικα κ ειχε παραλληλη σχεση με την κουμπαρα τους &#13;
+        την οποια παντρευτηκε μετα το χωρισμο τους και την ειχε χτυπησει ασχημα 2-3 φορες(σωματικη κακοποιηση)</traumas>
+          <infections>δεν αναφερονται</infections>
+          <other>οχι</other>
+        </personal>
+        <family>
+          <diseases>Γονεις Πατερας-θανατος 88χρ απο ΑΕΕ &#13;
+          Μητερα εν ζωη 82χρ με υπερταση και ΣΔ(χαπια)</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt; με ζεστη(3)-εχει μονιμα μια βενταλια στο χερι κ κανει αερα κ στη ληψη του ιστορικου</reactions>
+        <sleeping_habits>Διακοπτομενος-κοιμαται νωρις ξυπναει μεσα στη νυχτα--&gt;νιωθει εντονη θλιψη--&gt;τρωει γλυκα και νιωθει καλυτερα κ κοιμαται παλι&#13;
+Δεν κοιμαται βαθια-νιωθει οτι δεν ξεκουραζεται&#13;
+Ονειρα-δεν τα θυμαται ακριβως -μαλλον βλεπει αρκετα&#13;
+</sleeping_habits>
+        <food_modalities>desire:(  SWEETS 4, SALT3, SOUR1, LEMON1, VINEGAR1, PEPPER1, FAT2, ,FISH1, EGG1, BREAD2, PASTA2,) &#13;
+aversion:MEAT2&#13;
+ΑΔΙΨΙΑ=πινει ελαχιστο νερο&#13;
+</food_modalities>
+        <menstruation>εμμηνοπαυση απο 10ετιας</menstruation>
+      </physical>
+      <mental_emotional>MIND ¬ FEAR ¬ tunnels, of 3 &#13;
+MIND ¬ FEAR ¬ narrow places, in 3&#13;
+MIND ¬ FEAR ¬ high places, of 4&#13;
+ MIND ¬ FEAR ¬ dark 2 &#13;
+MIND ¬ FEAR ¬ alone, of being 3 &#13;
+MIND ¬ FEAR ¬ flying, of ¬ airplane, in 4 &#13;
+MIND ¬ PLEASING ¬ desire to please others 3 &#13;
+MIND ¬ MILDNESS 3 &#13;
+MIND - WEEPING, tearful mood, etc. 3 &#13;
+MIND ¬ IMPULSIVE 2 &#13;
+MIND ¬ SADNESS, mental depression 3 </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Αμυγδαλεκτομη 32 ετων λογω δυσοσμιας στοματος-κρυπτικες αμυγδαλες&#13;
+2 φυσιολογικοι τοκετοι&#13;
+Ερπης ζωστηρας 39ετων&#13;
+&#13;
+Πυρετος-38οC  10χρονια πριν</personal_medical_history>
+        <family_medical_history>Καλη </family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>H παθολογια εχει προχωρησει σε Emot k Mental(λιγοτερο) αλλα η αρρωστη δεν εχει υποστει βαριες κατασταλτικες θεραπειες κ το φαρμακο καθαρο--&gt;προγνωση καλη</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ψυπναει την νυχτα και τρωει γλυκα-μερα νυχτα εχει φοβερη επιθυμια για γλυκα που της &gt;&gt;&gt;&gt;διαθεση &lt;&lt;&lt;στο κοιλιακα προβληματα    GENERALITIES ¬ FOOD and DRINKS - sweets ¬ desire 4 &#13;
+                     GENERALITIES ¬ FOOD and DRINKS ¬ sweets ¬ agg. 3</peculiar>
+        <intense>GENERALITIES ¬ FOOD and DRINKS - sweets ¬ desire 4 &#13;
+MIND ¬ FEAR ¬ high places, of 4&#13;
+MIND ¬ FEAR ¬ flying, of ¬ airplane, in 4 &#13;
+MIND ¬ SADNESS, mental depression 3 &#13;
+ RECTUM ¬ FLATUS 3&#13;
+MIND ¬ FEAR ¬ tunnels, of 3 &#13;
+MIND ¬ FEAR ¬ narrow places, in 3&#13;
+GENERALITIES ¬ FOOD and DRINKS ¬ sweets ¬ agg. 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND ¬ FEAR ¬ tunnels, of 3 &#13;
+MIND ¬ FEAR ¬ narrow places, in 3&#13;
+MIND ¬ FEAR ¬ high places, of 4&#13;
+ MIND ¬ FEAR ¬ dark 2 &#13;
+MIND ¬ FEAR ¬ alone, of being 3 &#13;
+MIND ¬ FEAR ¬ flying, of ¬ airplane, in 4 &#13;
+MIND ¬ PLEASING ¬ desire to please others 3 &#13;
+MIND ¬ MILDNESS 3 &#13;
+MIND - WEEPING, tearful mood, etc. 3 &#13;
+MIND ¬ IMPULSIVE 2 &#13;
+MIND ¬ SADNESS, mental depression 3 &#13;
+MOUTH ¬ DRYNESS ¬ thirstless 2&#13;
+STOMACH ¬ THIRSTLESS 3 &#13;
+GENERALITIES ¬ FOOD and DRINKS - sweets ¬ desire 4 &#13;
+GENERALITIES ¬ FOOD and DRINKS ¬ salt ¬ desire 2 &#13;
+GENERALITIES - FOOD and DRINKS ¬ fat ¬ desire 2 &#13;
+MIND ¬ CONSOLATION ¬ amel. 3 &#13;
+MIND ¬ COMPANY ¬ desire for 3 &#13;
+RECTUM ¬ CONSTIPATION 3 &#13;
+ABDOMEN ¬ PAIN ¬ Hypochondria ¬ right 2&#13;
+ RECTUM ¬ FLATUS 3&#13;
+ GENERALITIES ¬ FOOD and DRINKS ¬ sweets ¬ agg. 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ΑRG-N-PULS-CARC</remedies_differentiation>
+      <prescription>
+        <remedy>ARGENTUM-NITRICUM</remedy>
+        <potency>1M</potency>
+        <regimen>MIA ΚΑΨΟΥΛΑ</regimen>
+        <other_notes>Αrg-n 6x για 2μηνες</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-06-30 08:00:00</followup_date>
+      <conv_med_presc>Zantac-Limprax-Xanax καθημερινα&#13;
+Αrg-n 6x</conv_med_presc>
+      <lab_tests>
+        <desc>κφ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη υπνηλια για ενα 20ημερο-την πρωτη μερα μεγαλυτερος πονος στην κοιλια και μετεωρισμος αφορητος&#13;
+Φοβιες&gt;50% ΠΟΝΟΙ ΣΤΗΝ ΚΟΙΛΙΑ&gt;50% Επιθυμια για γλυκα&gt;30%&#13;
+</reaction>
+      <analysis>Αρχικη agg με amel--&gt; καλη αντιδραση</analysis>
+      <conclusion>καλη αντιδραση-περιμενω</conclusion>
+      <repertorization>
+        <desc>MIND ¬ FEAR ¬ tunnels, of 2&#13;
+MIND ¬ FEAR ¬ narrow places, in 1&#13;
+MIND ¬ FEAR ¬ high places, of 2 &#13;
+MIND ¬ FEAR ¬ alone, of being 2&#13;
+MIND ¬ FEAR ¬ flying, of ¬ airplane, in 4 (δεν παει ακομη)&#13;
+MIND ¬ SADNESS, mental depression 3 &#13;
+MOUTH ¬ DRYNESS ¬ thirstless 2&#13;
+STOMACH ¬ THIRSTLESS 3 &#13;
+GENERALITIES ¬ FOOD and DRINKS - sweets ¬ desire 3&#13;
+GENERALITIES ¬ FOOD and DRINKS ¬ salt ¬ desire 2 &#13;
+GENERALITIES - FOOD and DRINKS ¬ fat ¬ desire2 &#13;
+MIND ¬ COMPANY ¬ desire for 3 &#13;
+RECTUM ¬ CONSTIPATION 2&#13;
+ABDOMEN ¬ PAIN ¬ Hypochondria ¬ right 1&#13;
+ RECTUM ¬ FLATUS 1&#13;
+ GENERALITIES ¬ FOOD and DRINKS ¬ sweets agg2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΑRG-N</remedy>
+        <potency>6X</potency>
+        <regimen>1καθε μερα για 2 μηνες</regimen>
+        <other_notes>πορεια καλη</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-17 08:00:00</followup_date>
+      <conv_med_presc>Xanax καθημερινα Αrg-n 12ch</conv_med_presc>
+      <lab_tests>
+        <desc>κφ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ισως κρυωνε λιγο πιο πολυ απο παλια-πολυ μεγαλη βελτιωση στα κοιλιακα προβληματα (πονο κ μετεωρισμο)</reaction>
+      <analysis>πολυ καλη πορεια-βελτιωση&gt;50%</analysis>
+      <conclusion>βελτιωση &gt;50%</conclusion>
+      <repertorization>
+        <desc>MIND ¬ FEAR ¬ high places, of 1&#13;
+MIND ¬ FEAR ¬ alone, of being 1&#13;
+MIND - WEEPING, tearful mood, etc. 1&#13;
+MIND ¬ SADNESS, mental depression 1 &#13;
+STOMACH ¬ THIRSTLESS 2 &#13;
+GENERALITIES ¬ FOOD and DRINKS - sweets ¬ desire 2 &#13;
+ MIND ¬ CONSOLATION ¬ amel. 2&#13;
+ MIND ¬ COMPANY ¬ desire for 2&#13;
+RECTUM ¬ CONSTIPATION 2&#13;
+ ABDOMEN ¬ PAIN ¬ Hypochondria ¬ right 1&#13;
+ RECTUM ¬ FLATUS 1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΑRG-N</remedy>
+        <potency>6χ</potency>
+        <regimen>60 χαπια</regimen>
+        <other_notes>οχι αλλη μεγαλη δυναμοποιηση</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

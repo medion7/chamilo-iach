@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL20b01d1c5dda2f9f36411377c2664c5c</ID>
+  <patient>
+    <case_date>2014-09-08 20:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Κ.Β.</patient_initials>
+    <age>45</age>
+    <circumstances>Έγγαμη με 1 παιδί, δημόσιος υπάλληλος.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Το χαλάζιο (ΔΕ) οφθαλμού στο άνω βλέφαρο εμφανίστηκε πριν από 1 περίπου χρόνο. Υφίεται και διογκώνεται περιοδικά χωρίς να υποχωρεί ποτέ πλήρως.</origin>
+        <causative_factors>Η ασθενής αναφέρει χρόνιο πρόβλημα βλεφαρίτιδας με ερεθισμό των βλεφάρων και των οφθαλμών. Οι οφθαλμίατροι που έχει επισκεφθεί επιβεβαιώνουν την βλεφαρίτιδα ως κύριο προδιαθεσικό παράγοντα του χαλαζίου.</causative_factors>
+        <modalities>Οι ζεστές κομπρέσες τοπικά την ανακουφίζουν. Αποφεύγει την χρήση οφθαλμικής κορτιζονούχας αντιβιοτικης αλοιφής που έχει επανειλημμένως συσταθεί από τον οφθαλμίατρο.</modalities>
+        <occurrence_time>Η ασθενής αναφέρει επιδείνωση του χαλαζίου (αύξηση μεγέθους και συνοδός δυσανεξία) σε περιόδους έντονου stress στην εργασία της στην οποία συναναστρέφεται με το κοινό καθημερινά (υπάλληλος εφορίας).</occurrence_time>
+        <body_side>Δεξιός οφθαλμός, άνω βλέφαρο.</body_side>
+        <appearence_frequency>Το χαλάζιο εμφανίστηκε πριν από ένα περίπου χρόνο με υφέσεις και εξάρσεις χωρίς ποτέ να υφεθεί πλήρως.</appearence_frequency>
+        <pain_desc>Ο πόνος εντοπίζεται τοπικά στο χαλάζιο και περισσότερο περιγράφεται ως μόνιμη ενόχληση παρά πόνος. Στις περιόδους όπου το μέγεθος αυξάνεται αρκετά, τότε ο πόνος είναι αρκετά οξύς και διαξιφιστικός.</pain_desc>
+        <complaint_ext>Δεν αναφέρει επέκταση σε αλλα σημεία του ίδιου ή του αριστερού οφθαλμού.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Συνθετικά δάκρυα για τον ερεθισµό των µατιών.</conv_med_presc>
+        <lab_tests>
+          <desc>Δεν φέρει εργαστηριακές εξετάσεις παρά μόνο συνταγογραφήσεις από οφθαλμιάτρους για το χαλάζιο.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν προηγούμενες ομοιοπαθητικές συνταγογραφήσεις.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Δεν υπάρχει πρόσβαση στο βιβλιάριο υγείας της ασθενούς (μεγάλωσε στο εξωτερικό). Η ίδια αναφέρει ότι, σύμφωνα με την μητέρα της, έχει εμβολιαστεί πλήρως κατά τις οδηγίες της παιδιάτρου της στη χώρα που μεγάλωσε (Γερμανία).</therapies_vaccination>
+          <traumas>Η ασθενής αναφέρει ότι βίωσε έντονη στενοχώρια πριν από 1,5 χρόνο όταν ο σύζυγός της διαγνώστηκε με μελάνωμα με μεταστάσεις στους πνεύμονες.</traumas>
+          <infections>Δεν αναφέρει.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Οι γονείς της ασθενούς είναι εν ζωή και αμφότεροι έχουν ελεύθερο ιατρικό ιστορικό (δεν λαμβάνουν φαρμακευτική αγωγή για κάποιο λόγο και δεν έχουν γνωστά προβλήματα υγείας).</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Χωρίς ιδιαίτερη δυσανεξία ή προτίμηση σε ζέστη ή κρύο.</reactions>
+        <sleeping_habits>Δεν βλέπει όνειρα. Τον τελευταίο καιρό δεν κοιμάται καλά το βράδυ παρότι νυστάζει κατά τη διάρκεια της ημέρας.</sleeping_habits>
+        <food_modalities>Απέχθεια στο γάλα (1).</food_modalities>
+        <menstruation>Έμμηνος ρύση: κ.φ., φυσιολογική ροή, διάρκεια και συχνότητα.</menstruation>
+      </physical>
+      <mental_emotional>Η ασθενής περιγράφει τον εαυτό της ως "πυροσβεστήρα" στην δουλειά και στο σπίτι της. Προσπαθεί να αποφεύγει διαξιφισμούς και καβγάδες. "Δεν αντέχει" την αντιπαλότητα. Χαρακτηριστικά λέει: "Καταπίνω τον θυμό μου και προσπαθώ να είμαι χαμηλών τόνων στο γραφείο αν και έχω αδικηθεί κατ'επανάληψη. Δεν μπορώ να πω όχι." &#13;
+Δάκρυσε περιγράφοντας τα παραπάνω.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η ασθενής αναφέρει συχνά επεισόδια κυστίτιδας (ανά 3μηνο) τα οποία προσπαθεί να αντιμετωπίσει χωρίς αντιβιοτική αγωγή και κρυολογεί περίπου μία φορά κάθε χειμώνα με υψηλό πυρετό (39 C) που υφίεται με συντηρητική αγωγή.</personal_medical_history>
+        <family_medical_history>Οι γονείς της ασθενούς είναι εν ζωή και αμφότεροι έχουν ελεύθερο ιατρικό ιστορικό (δεν λαμβάνουν φαρμακευτική αγωγή για κάποιο λόγο και δεν έχουν γνωστά προβλήματα υγείας).</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Καλό επίπεδο υγείας. Με το σωστό φάρμακο, περιμένω καλή και γρήγορη ανταπόκριση της ασθενούς.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Χειρότερα μετά τον μεσημεριανό ύπνο (3).</peculiar>
+        <intense>Χαλάζιο (3), θλίψη-μελαγχολία (3), βαριά καπνίστρια (3).</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENERALITIES SLEEP afternoon agg. (3)&#13;
+EYE STYES (3)&#13;
+GENERALITIES FOOD and DRINKS milk aversion (1)&#13;
+MIND GRIEF ailments from (3)&#13;
+MIND EMOTIONS suppressed (3)&#13;
+GENERALITIES TOBACCO desire smoking (3)&#13;
+MIND Weeping, tearful mood (2)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Ailments from grief: Natr. Muriaticum (4), Ignatia (4), Staphisagria (3)&#13;
+Eye Styes: Pulatilla (3, Staphysagria (3)&#13;
+Weeping: Pulsatilla (4), Syaphysagria (2)&#13;
+Suppressed emotions: Staphisagria (4)&#13;
+Afternoon sleep aggravates: Staphysagria (3), Pulsatilla (2)</remedies_differentiation>
+      <prescription>
+        <remedy>Staphisagria</remedy>
+        <potency>1M</potency>
+        <regimen>1 χάπι εφάπαξ.</regimen>
+        <other_notes>Ν/Α</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Καμία. Έχει διακόψει τα συνθετικά δάκρυα.</conv_med_presc>
+      <lab_tests>
+        <desc>&#13;
+</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Followup #1: 10/10/2014&#13;
+Η ασθενής είναι ενθουσιασμένη. Το χαλάζιο έχει υποχωρήσει πλήρως ("εξαφανίστηκε την δεύτερη εβδομάδα"). Αισθάνεται πιο αισιόδοξη αλλά το πρόβλημα της αϋπνίας της επιμένει.Θα συνοδεύεσει τον σύζυγό της στο εξωτερικό για την αντιμετώπιση του προβλήματος υγείας του.</reaction>
+      <analysis>Το φάρμακο ήταν σωστό. Τα keynotes της Staph. ήταν παρόντα στην συγκεκριμένη περίπτωση και πολύ ισχυρά.</analysis>
+      <conclusion>Η δράση του φαρμάκου ήταν άμεση και στη σωστή κατεύθυνση. Δεν συνταγογραφείται άλλο φάρμακο καθότι η ασθενής θα λείπει στο εξωτερικό για τους επόμενους μήνες. </conclusion>
+      <repertorization>
+        <desc>Ν/A</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ν/Α</remedy>
+        <potency>Ν/Α</potency>
+        <regimen>Ν/Α</regimen>
+        <other_notes>Ν/Α</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

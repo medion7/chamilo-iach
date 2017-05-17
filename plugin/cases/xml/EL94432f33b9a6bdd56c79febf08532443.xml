@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL94432f33b9a6bdd56c79febf08532443</ID>
+  <patient>
+    <case_date>2014-04-16 11:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Δ.Ν</patient_initials>
+    <age>46</age>
+    <circumstances>Έγγαμος με 1 κόρη μετά από εξωσωματική γονιμοποίηση, ιατρικός επισκέπτης.&#13;
+ΒΣ: 118 kgr ύψος: 181cm</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Δυσκολία στην αναπνοή (3) που ξεκίνησε το 2007-2008 όταν ανιχνεύθηκε οτι μόνο οι οφθαλμικοί κόγχοι είναι ελεύθεροι πολυπόδων.</origin>
+        <causative_factors>Δε μπορεί να προσδιορίσει πιθανούς παράγοντες αναφέρει μόνο οτι πριν χρόνια ήταν αθλητικός τύπος και ζύγιζε λιγότερο.</causative_factors>
+        <modalities>Η δύσπνοια χειροτερεύει με την υγρασία και την κατανάλωση αλκοόλ.</modalities>
+        <occurrence_time>Δεν επηρεάζεται από την εποχή και τη θερμοκρασία περιβάλλοντος.</occurrence_time>
+        <body_side>Οι ρινικοί πολύποδες εντοπίζονται αμφοτερόπλευρα.</body_side>
+        <appearence_frequency>Σχεδόν καθημερινά απο δύσπνοια.</appearence_frequency>
+        <pain_desc>Δύσπνοια, οπισθορρινική καταρροή, βήχας.</pain_desc>
+        <complaint_ext>Δεν υπάρχει η αίσθηση της όσφρησης.</complaint_ext>
+        <other_complaints>Αλλεργία στο latex (προφυλακτικά), σμηγματορροική δερματίτιδα προσώπου , έχει ολιγοσπερμία , παχυχονδρίτιδα στις φωνητικές χορδές, μικρός έκανε αμυγδαλίτιδες, ανεβάζει εύκολα πυρετό.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Κορτιζονούχα εισπνεόμενα σκευάσματα σε οξείες φάσεις δύσπνοιας.</conv_med_presc>
+        <lab_tests>
+          <desc>Δεν προσκομίζει.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>2007-2008 πολύποδες θεραπεία με Dexarhina spray, otrivin.&#13;
+2011 χειρουργείο για την αφαίρεση των πολυπόδων.&#13;
+Το 2012 επανεμφανίζεται το πρόβλημα ξεκινά θεραπεία με κορτικοστεροειδή ενδομυϊκά και από το στόμα σε συνδυασμό με αντισταμινικά.&#13;
+Συνεχίζει με εισπνεόμενα κορτικοστεροειδή σε περιπτώσεις κρίσης δύσπνοιας και έντονου βήχα.</therapies_vaccination>
+          <traumas>Έχασε τη δουλειά του λόγω οικονομικής κρίσης και ανησυχεί.</traumas>
+          <infections>Δεν αναφέρει.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Ο πατέρας Ca προστάτη .</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται (3) πάρα πολύ , βγάζει τα πόδια εκτός κλινοσκεπασμάτων χειμώνα και καλοκαίρι, ιδρώνει πολύ και παντού (3), ο ιδρώτας του μυρίζει έντονα (3).&#13;
+Χειροτερεύει με την υγρασία.</reactions>
+        <sleeping_habits>Κοιμάται ευκολα και βαθειά, βελτιώνεται με τον μεσημεριανό ύπνο (siesta), παραμιλάει, σιελόρροια (1), ανάσκελα δε μπορεί να κοιμηθεί (3), δεν τρίζει και δεν σφίγγει τα δόντια, δεν αναφέρει όνειρα.</sleeping_habits>
+        <food_modalities>Des:κρέας, κοτόπουλο (2), λίπος (3), αυγό (3- σε όλες τις μορφές), αλμυρό (3) , καυτερά(3), πικάντικα (2), νερό (3), φρούτα (1), λεμονι (1), φύδι (1).&#13;
+Χειρότερα με αλκοόλ, διψάει και πίνει παγωμένο νερό σε πολύ μεγάλες ποσότητες.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>αισιόδοξος (3),καλοπερασάκιας (3),σεξουαλικός τύπος (3),συναισθηματικός (3), εξωστρεφής (3), φόβος για τον θάνατο δικών του ανθρώπων (3)., πάντα στο κέντρο της προσοχής (3),  εύπιστος (2),  ευαίσθητος (2-κλαίει εύκολα), καλοπροαίρετος(2), τακτικός (2),βαριέται εύκολα (2) ,τεμπελάκος (2).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δυσκολία στην αναπνοή, αλλεργία στο latex (προφυλακτικά), σμηγματορροική δερματίτιδα προσώπου , έχει ολιγοσπερμία , παχυχονδρίτιδα στις φωνητικές χορδές μικρός έκανε αμυγδαλίτιδες.</personal_medical_history>
+        <family_medical_history>Ο πατέρας Ca προστάτη όταν ήταν 69 χρ. η μητέρα υπερχοληστερολαιμία.</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Πολύ καλό ανοσοποιητικό σύστημα (υψηλός πυρετός κάθε χρόνο), ασθενής με καθαρή εικόνα ομοιοπαθητικού φαρμάκου.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Δύσπνοια (3), θηλώματα τραχήλου (3), λαίμαργος (3) ,οπισθορινική καταρροή (2), βήχας (2), ελαφριάς μορφής κολίτιδα (2), νευροδερματίτιδα με έντονο κνησμό στη γεννητική περιοχή (2) ειδικά το βράδυ όταν ξαπλώνει,  υποτροπιάζουσα μυκητίαση κάτω άκρων (2), παχυχονδρίτιδα στις φωνητικές χορδές (2), σμηγματορροική δερματίτιδα προσώπου  (2).</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Τα φάρμακα που μπορούν να συνταγογραφηθούν είναι η Thuja ή το Sulfur αλλά και Teucrium για πολύποδες και ιδιαίτερα για ρινικούς πολύποδες.</remedies_differentiation>
+      <prescription>
+        <remedy>Sulfur</remedy>
+        <potency>200 CH, 1 M, 6 X</potency>
+        <regimen>1 κάψουλα  Sulfur  200CH την πρώτη μέρα της θεραπείας&#13;
+1 κάψουλα  Sulfur 1 Μ την δεύτερη μέρα της θεραπείας&#13;
+40 κάψουλες Sulfur  6x καθημερινά απο την τρίτη μέρα.</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-19 10:00:00</followup_date>
+      <conv_med_presc>Έχει σταματήσει τα εισπνεόμενα κορτικοστεροειδή και τα αντισταμινικά.</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν προσκομίζει.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Followup #1&#13;
+Η αναπνοή του βελτιώθηκε σχεδόν άμεσα περίπου 50%, δεν κάνει άπνοιες, και αναφέρει πιο ποιοτικό ύπνο, το έντερο του είναι καλύτερα κατά 30% αλλά και η νευροδερματίτιδα είναι καλύτερα.  </reaction>
+      <analysis>Βελτιώθηκε σωματικά αλλά και συναισθηματικά.  </analysis>
+      <conclusion>Συνεχίζουμε με το ίδιο φάρμακο περιμένοντας μεγαλύτερη βελτίωση.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sulfur</remedy>
+        <potency>6x</potency>
+        <regimen>40 κάψουλες Sulfur  6x καθημερινά.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

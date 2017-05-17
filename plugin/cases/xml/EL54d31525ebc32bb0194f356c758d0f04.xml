@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL54d31525ebc32bb0194f356c758d0f04</ID>
+  <patient>
+    <case_date>2014-12-28 18:05:00</case_date>
+    <gender>male</gender>
+    <patient_initials>OΣ</patient_initials>
+    <age>8</age>
+    <circumstances>μαθητής δημοτικού</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ατοπική δερματίτιδα από διετίας κυρίως στα άκρα με ξηρές, υπερκερατωσικές πλάκες με έντονο και επίμονο κνησμό.&#13;
+μυρμηκίες αρ αντιβραχίου (2)</origin>
+        <causative_factors>Κανείς γνωστός. </causative_factors>
+        <modalities>Επιδείνωση κατά τους χειμερινούς μήνες και σε συναισθηματική φόρτηση</modalities>
+        <occurrence_time>επιδείνωση τους χειμερινούς μήνες</occurrence_time>
+        <body_side>στα άκρα κυρίως, άμφω και από διμήνου και στην κορυφή της μύτης&#13;
+μυρμηκίες αρ αντιβραχίου (2)</body_side>
+        <appearence_frequency>Σε μόνιμη βάση με εξάρσεις και υφέσεις ανάλογα με την εποχή και τη λήψη ή όχι φαρμακευτικής αγωγής</appearence_frequency>
+        <pain_desc>έντονος και επίμονος κνησμός</pain_desc>
+        <complaint_ext>άνω και κάτω άκρα με εκζεματοειδείς πλάκες και κοιλιά με ήπια ξηροδερμία. Από διμήνου εκζεματοειδής πλάκα στην κορυφή της μύτης</complaint_ext>
+        <other_complaints>κανένα</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>τοπικές κρέμες κατά διαστήματα</conv_med_presc>
+        <lab_tests>
+          <desc>καμία</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>δεν υπάρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>τυπικό πρωτόκολλο εμβολιασμών&#13;
+στο παρελθόν θεραπείες με τοπικά κορτικοστεροειδή</therapies_vaccination>
+          <traumas>κανένα&#13;
+του λείπει περισσότερο η μαμα γιατί λόγω δουλειάς δεν την βλέπει όσο θα ήθελε</traumas>
+          <infections>καμία</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατέρας ιστορικό βλεννόρροιας</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει περισσότερο, κρύα άκρα, υπερκινητικός</reactions>
+        <sleeping_habits>υπνος καλός, αρ πλάι και μπρούμυτα, ιδρώτας στον αυχένα στον ύπνο και κρύα πόδια</sleeping_habits>
+        <food_modalities>του αρέσουν τα παγωτά (2), αυγά (2), σοκολάτα (2), γλυκά (2), πάγος (μασάει τα παγάκια)(3)&#13;
+δεν του αρέσουν οι σαλάτες (2) και το λεμόνι</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>έξυπνο, υπερκινητικό παιδί(3) (έτρεχε πάνω κάτω στο δωμάτιο κατά τη λήψη του ιστορικού και είχε πολύ λίγη βλεμματική επαφή).&#13;
+τον ενδιαφέρει να είναι ¨ο πρώτος¨ (2), να είναι αρχηγός. Το άριστα στο σχολείο έχει σημασία για αυτόν. Είναι ντροπαλός (1), του αρέσει η παρέα (1), και προσβάλλεται εύκολα (2). Τρυφερός, χαμογελαστός, του αρέσει η μουσική και αγαπάει τα ζώα.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>εκτός από τη δερματοπάθεια, χωρίς άλλη παθολογία</personal_medical_history>
+        <family_medical_history>γιαγιά πέθανε σε ηλικία 76 χρ από καρκίνο μαστού&#13;
+παππούς έμφραγμα και ΑΕΕ, πέθανε σε ηλικία 75 χρ&#13;
+πατέρας ιστορικό βλεννόρροιας</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Η επιλογή του επιπέδου υγείας (2) βασίζεται στην ηλικία του ασθενούς και στο ότι η παθολογία του είναι κυρίως στο δέρμα</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>επιθυμία για πάγο (μασάει παγάκια) (3)&#13;
+υπερκινητικότητα (3)</peculiar>
+        <intense>μασάει παγάκια (3)&#13;
+υπερκινητικότητα (3)&#13;
+επιθυμία για γλυκά (2), σοκολάτα (2), παγωτά (2)&#13;
+φόβος για σκοτάδι (2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>generalities-food and drinks-ice desire (3)&#13;
+mind-restlessness,nervousness, motion, constantly must move (3)&#13;
+mind-restlessness, nervousness-children, in (3)&#13;
+mind-offended, easily (1)&#13;
+generalities-food and drinks- ice -cream desire (2)&#13;
+extremities-coldness-foot (2)&#13;
+mind-company-desire for (1)&#13;
+mind-timidity (1)&#13;
+mind-fear dark (2)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η συνταγογράφηση βασίζεται:&#13;
+στην υπερκινητικότητα (3)&#13;
+επιθυμία για πάγο (3)&#13;
+προσβάλλεται εύκολα (1)&#13;
+επιθυμία παρέας (1)&#13;
+ντροπαλός (1)&#13;
+κρύα πόδια (2)&#13;
+επιθυμία για παγωτό (2)</remedies_differentiation>
+      <prescription>
+        <remedy>Veratrum album</remedy>
+        <potency>200CH/1M</potency>
+        <regimen>200CH/1M και μετά 6x x60</regimen>
+        <other_notes>H συνταγογράφηση βασίζεται στο επίπεδο υγείας του ασθενούς καθώς και στο είδος και την ένταση των συμπτωμάτων του.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-24 17:05:00</followup_date>
+      <conv_med_presc>καμια</conv_med_presc>
+      <lab_tests>
+        <desc>καμια</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>αισθητή βελτίωση του εκζέματος κατά 70%(έχει μείνει μόνο μια πλάκα στο πόδι). Έχει φύγει το έκζεμα από τη μύτη. Οι μυρμηκίες ίδιες. Ο κνησμός βελτιωμένος.&#13;
+Είναι πιο χαλαρός, διαχειρίζεται καλύτερα τα πράγματα. Ο μπαμπάς λέει ότι έχει λιγότερη υπερκινητικότητα και μεγαλύτερη αυτοεκτίμηση. Πήρε 2,5 κιλά.&#13;
+Μειώθηκε ο φόβος για το σκοτάδι, περισσότερη βλεμματική επαφή κατά τη λήψη του ιστορικού.&#13;
+Ασθενής που περίμενε έξω σχολίασε :"πόσο ήσυχα έπαιζε"</reaction>
+      <analysis>Μετά την πρώτη συνταγογράφηση βελτιώθηκαν αισθητά τα νοητικά, συναισθηματικά και σωματικά συμπτώματα του ασθενούς.</analysis>
+      <conclusion>Ο ασθενής εμφανώς βελτιωμένος, συνέχιση συνταγογράφησης με 12 CH για τον κνησμό που αναφέρει στη δερματική βλάβη που έχει απομείνει, ιδιαίτερα όταν στενοχωριέται.</conclusion>
+      <repertorization>
+        <desc>υπερκινητικότητα (2)&#13;
+επιθυμία για πάγο (2)&#13;
+ντροπαλός (1)&#13;
+φόβος σκοτάδι (1)&#13;
+επιθυμία παρέας (1)&#13;
+επιθυμία για παγωτό (2)&#13;
+προσβάλλεται εύκολα &#13;
+κρύα πόδια (1)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Veratrum</remedy>
+        <potency>12CH</potency>
+        <regimen>45caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-05-19 17:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Παραμένει η εκζεματική πλάκα στην ποδοκνημική αλλά ο κνησμός αισθητά βελτιωμένος. Οι μυρμηκίες του αντιβραχίου πιο μικρές.&#13;
+Σταμάτησε ο φόβος για το σκοτάδι (κοιμάται χωρίς καθόλου φως τώρα). Πιο επικοινωνιακός. Δεν δίνει πια ιδιαίτερη σημασία στις κοροίδίες από παιδιά. Πιο ήρεμος. Παραμένει η βελτίωση στην υπερκινητικότητα. &#13;
+Κρυολόγησε 2 φορές.</reaction>
+      <analysis>Συνεχίζεται η βελτίωση του ασθενούς σε όλα τα επίπεδα.</analysis>
+      <conclusion>Συνεχίζεται η βελτίωση του ασθενούς σε όλα τα επίπεδα</conclusion>
+      <repertorization>
+        <desc>υπερκινητικότητα (1)&#13;
+επιθυμία για πάγο (1)&#13;
+ντροπαλός&#13;
+επιθυμία για παγωτό (2)&#13;
+παγωμένα πόδια&#13;
+επιθυμία παρέας&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Veratrum</remedy>
+        <potency>12CH</potency>
+        <regimen>45caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-07-02 18:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ατοπική δερματιτιδα έχει υποχωρήσει τελείως. Ο κνησμός έφυγε. Οι μυρμηκίες του αντιβραχίου έχουν σχεδόν εξαφανισθεί και εμφανίσθηκε μόνο μία στην τελευταία φάλαγγα του μέσου δακτύλου. Η γενική κατάσταση του ασθενούς πολύ καλή. Χαρούμενος, ήρεμος, φιλικός, επικοινωνιακός.</reaction>
+      <analysis>Συνεχίζεται η βελτίωση του ασθενούς σε όλα τα επίπεδα</analysis>
+      <conclusion>Συνεχίζεται η βελτίωση του ασθενούς σε όλα τα επίπεδα</conclusion>
+      <repertorization>
+        <desc>υπερκινητικότητα&#13;
+επιθυμία για πάγο&#13;
+επιθυμία για παγωτό (1)&#13;
+επιθυμία παρέας</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>κανένα</remedy>
+        <potency>καμία</potency>
+        <regimen>καμία</regimen>
+        <other_notes>Ο ασθενής εμφανώς βελτιωμένος. Δεν χρειάζεται νέα συνταγογράφηση μέχρι το επόμενο follow-up</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

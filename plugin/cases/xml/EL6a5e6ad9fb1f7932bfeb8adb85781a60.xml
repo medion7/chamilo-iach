@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6a5e6ad9fb1f7932bfeb8adb85781a60</ID>
+  <patient>
+    <case_date>2014-10-24 12:30:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΣΑ</patient_initials>
+    <age>41</age>
+    <circumstances>Παντρεμένος όχι, παιδιά όχι, Ιατρός.&#13;
+Βάρος 105 kg.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Σωματική - πνευματική κόπωση από μηνός.</origin>
+        <causative_factors>Υπερβολική σωματική και πνευματική εργασία (λόγω οικονομικών προβλημάτων τον τελευταίο χρόνο δουλεύει πολύ, κάνει πολλές εφημερίες και είναι ιδιαίτερα πιεσμένος)..</causative_factors>
+        <modalities>Βελτιώνεται με την απομάκρυνση από τον χώρο εργασίας, συναναστροφή με φίλους.</modalities>
+        <occurrence_time>Επιδεινώνεται τις ΒΡΑΔΙΝΕΣ ώρες.&#13;
+Καλύτερα όταν ξυπνάει το πρωί.</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>Από μηνός αναφέρει ότι είναι πολύ κουρασμένος αισθάνεται τα ΠΟΔΙΑ ΤΟΥ ΒΑΡΙΑ και παρατήρησε μεγάλη πτώση ΠΝΕΥΜΑΤΙΚΗΣ λειτουργίας.&#13;
+Χαρακτηριστικά λέει ότι όταν πριν 2 ημέρες τον ρώτησαν το όνομά του αδυνατούσε να το πει αμέσως.  </pain_desc>
+        <complaint_ext>Όχι.</complaint_ext>
+        <other_complaints>ΙΝΙΑΚΟΙ ΠΟΝΟΚΕΦΑΛΟΙ εκρηκτικού τύπου αρκετά συχνά (μία έως δύο φορές τον μήνα).</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΣΩΜΑΤΙΚΗ και ΠΝΕΥΜΑΤΙΚΗ κόπωση.&#13;
+Ουδεμία.</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>όχι.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Ακολούθησε τον προβλεπόμενο εμβολιασμό μέχρι σήμερα. Αντιβίωση πρό διμήνου (οξεία βρογχίτιδα).</therapies_vaccination>
+          <traumas>Όχι.</traumas>
+          <infections>'Όχι.</infections>
+          <other>Οσχεοκήλη από διετίας, Ερευνήθηκε χειρουργικά χωρίς αντιμετώπιση.</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας - μητέρα προβλήματα Α.Υ. και Υ.Χ. </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Φυσιολογικά σε ζέστη και κρύο. ΙΔΡΩΝΕΙ πολύ εύκολα κυρίως στην πλάτη.</reactions>
+        <sleeping_habits>Στην αρχή του ύπνου είναι ανήσυχος, αισθάνεται ΒΑΡΟΣ και ΠΟΝΟ στα πόδια του και ΑΛΛΑΖΕΙ συνεχώς ΘΕΣΗ στό κρεβάτι. Χρειάζεται δύο ώρες τουλάχιστον για να ηρεμήσει και να κοιμηθεί. Δεν μπορεί να ξυπνήσει το πρωί και αισθάνεται κουρασμένος.</sleeping_habits>
+        <food_modalities>Του αρέσει το ΑΛΑΤΙ, τα ΠΙΚΑΝΤΙΚΑ φαγητά και γενικά όλες οι ΠΑΡΑΞΕΝΕΣ γεύσεις.&#13;
+Τρώει άστατα, όχι μαγειρεμένο φαγητό κυρίως σάντουιτς - πίτσες - κρουασάν.&#13;
+Απέχθεια σε ΦΡΟΥΤΑ, του αρέσουν όμως τα σύκα.&#13;
+Δίψα : πίνει αρκετό νερό ΠΑΓΩΜΕΝΟ.</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Κινητοποιείται συναισθηματικά πολύ εύκολα, έχει έντονο το ΑΙΣΘΗΜΑ ΔΙΚΑΙΟΣΥΝΗΣ και πολλές φορές βαδίζει κόντρα στο κατεστημένο. Έντονο ΄΄συμπάσχειν΄΄, ΥΠΕΡΑΣΠΙΖΕΤΑΙ ΑΝΗΜΠΟΡΑ άτομα.&#13;
+Αγαπά υπερβολικά τα ζώα και έχει ιδιαίτερη σχέση με τις ΓΑΤΕΣ.&#13;
+Είναι αθλητικός τύπος, έχει μαύρη ζώνη καράτε.&#13;
+Έντονη ΣΕΞΟΥΑΛΙΚΗ ζωή (μόνιμη σχέση εδώ και δύο χρόνια).&#13;
+Μεγάλη αδυναμία ΜΝΗΜΗΣ και έλλειψη ΕΝΕΡΓΕΙΑΣ.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Κάνει εμπύρετα, το τελευταίο πρίν από δύο μήνες.&#13;
+Δεν εμφάνισε κάποιο χρόνιο νόσημα.</personal_medical_history>
+        <family_medical_history>Προδιάθεση γιά καρδιαγγειακές παθήσεις.</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Είναι σε καλό επίπεδο υγείας λόγω των ανωτέρω.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Χαρακτηριστικό κάψιμο στον αυχένα που αντανακλά στην Σ.Σ.  Διαβάθμιση 3.&#13;
+Υπερασπίζεται ανήμπορα άτομά. Διαβάθμιση 3. &#13;
+&#13;
+</peculiar>
+        <intense>Αγαπά πολύ τις γάτες. Διαβάθμιση 4.&#13;
+Σκέφτεται πολύ το sex. Διαβάθμιση 3.&#13;
+Απέχθεια στα φρούτα. Διαβάθμιση 3.&#13;
+Αδυναμία μνήμης - black out. Διαβάθμιση 3.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Causticum, Ignatia, Ferrum, Cocc, Lycopodium, Nux-vomica, Phosphorus, Picric-Acid.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Picric Acid, Causticum.</remedies_differentiation>
+      <prescription>
+        <remedy>Picric Acid</remedy>
+        <potency>1 M</potency>
+        <regimen>Ένα χάπι εφάπαξ.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-21 17:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ημερομηνία πρώτου Followup 10-12-14, 17:00.&#13;
+Μεγάλη αλλαγή. Καθάρισε το μυαλό του, έχει τρομερή διαύγεια λέει ότι ΄΄λύθηκε΄΄ η γλώσσα του και μιλάει με συνοχή και ακολουθία. Σαν να έφυγε ένα σύννεφο από το μυαλό του.&#13;
+Εξακολουθεί να τρώει άστατα. Ξυπνάει με μεγαλύτερη ενέργεια το πρωί. </reaction>
+      <analysis>Έχουμε μεγάλη βελτίωση κυρίως στο πνευματικό επίπεδο.</analysis>
+      <conclusion>Άρα φάρμακο σωστό.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Περιμένουμε.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-21 17:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ημερομηνία δεύτερου Followup : 16-07-15, 11:00.&#13;
+Είναι πολύ καλά. Άρχισε να διαβάζει για τις εξετάσεις του πτυχίου ειδικότητας.&#13;
+Σταμάτησαν οι πονοκέφαλοι (τελευταίος πονοκέφαλος πριν 3 μήνες αλλά με ήπιο χαρακτήρα).&#13;
+Κοιμάται περισσότερες ώρες, άρχισε να προσέχει την διατροφή του και έχασε βάρος.</reaction>
+      <analysis>Έχουμε μεγάλη βελτίωση στο πνευματικό αλλά και στο σωματικό πλέον επίπεδο.</analysis>
+      <conclusion>Δεν δίνουμε ομοιοπαθητικό φάρμακο και περιμένουμε.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

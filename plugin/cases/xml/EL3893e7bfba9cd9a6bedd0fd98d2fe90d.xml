@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3893e7bfba9cd9a6bedd0fd98d2fe90d</ID>
+  <patient>
+    <case_date>2015-06-01 16:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α.Κ.</patient_initials>
+    <age>23</age>
+    <circumstances>ΑΝΥΠΑΝΤΡΗ&#13;
+ΤΕΧΝΟΛΟΓΟΓΟΣ ΙΑΤΡΙΚΩΝ ΕΡΓΑΣΤΗΡΙΩΝ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΤΑ ΠΑΡΑΠΑΝΩ ΕΜΦΑΝΙΣΤΗΚΑΝ ΣΤΗΝ ΗΛΙΚΙΑ ΤΩΝ&#13;
+17 ΕΤΩΝ</origin>
+        <causative_factors>ΜΕΓΑΛΟ ΣΤΡΕΣ ΣΤΙΣ ΕΙΣΑΓΩΓΙΚΕΣ ΕΞΕΤΑΣΕΙΣ ΕΞΕΤΑΣΕΙΣ&#13;
+</causative_factors>
+        <modalities>&gt; ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΤΟ ΒΡΑΔΥ</modalities>
+        <occurrence_time>&lt; ΤΟ ΑΠΟΓΕΥΜΑ</occurrence_time>
+        <body_side>ΔΕΞΙΑ</body_side>
+        <appearence_frequency>2-3 ΦΟΡΕΣ ΤΟ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>Η ΚΕΦΑΛΑΛΓΙΑ ΕΙΝΑΙ ΣΥΜΠΙΕΣΤΙΚΗ ΚΑΙ ΔΕΞΙΑ &#13;
+Ο ΠΟΝΟΣ ΣΤΟΝ ΩΜΟ ΚΑΙ ΣΤΙΣ ΑΜΥΓΔΑΛΕΣ&#13;
+ΕΙΝΑΙ ΔΙΑΞΙΦΙΣΤΙΚΟΣ</pain_desc>
+        <complaint_ext> Ο ΠΟΝΟΣ ΑΝΤΙΝΟΒΟΛΕΙ ΑΠΟ ΤΑ ΔΕΞΙΑ ΠΡΟΣ ΤΑ ΑΡΙΣΤΕΡΑ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΜΕSULID ΓΙΑ ΠΟΝΟ ΣΤΟΝ ΩΜΟ&#13;
+ΚΑΙ ΓΙΑ ΚΕΦΑΛΑΛΓΙΕΣ&#13;
+ΑΝΤΙΟΞΙΝΑ ΓΙΑ ΤΥΜΠΑΝΙΣΜΟ ΠΟΥ ΝΙΩΘΕΙ ΜΕΡΙΚΕΣ ΦΟΡΕΣ&#13;
+ΑΝΤΙΒΙΩΣΕΙΣ ΚΥΡΙΩΣ ΓΙΑ ΑΜΥΓΔΑΛΙΤΙΔΕΣ</conv_med_presc>
+        <lab_tests>
+          <desc>ΛΕΥΚΑ=10080&#13;
+Α.Υ.=130/78&#13;
+ΒΙΟΧΗΜΙΚΑ=Κ.Φ.&#13;
+Η.Κ.Γ.=Κ.Φ.&#13;
+RO ΘΩΡΑΚΟΣ = ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΑΝΤΙΒΙΩΣΕΙΣ &#13;
+ΛΙΓΗ ΚΟΡΤΙΖΟΝΗ&#13;
+ΟΛΑ ΤΑ ΠΑΙΔΙΚΑ ΕΜΒΟΛΙΑ</therapies_vaccination>
+          <traumas>ΧΩΡΙΣΜΟΣ ΤΟΝ ΓΟΝΙΩΝ ΤΗΣ&#13;
+ΠΡΙΝ 7 ΧΡΟΝΙΑ</traumas>
+          <infections>ΚΑΜΙΑ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ =Χ.Α.Π.&#13;
+ΜΑΝΑ=ΚΕΦΑΛΑΛΓΙΕΣ,ΕΛΚΟΣ,ΑΡΘΡΙΤΙΔΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΑΝΕΥΘΥΝΗ&#13;
+ΑΡΚΕΤΕΣ ΦΟΒΙΕΣ&#13;
+ΕΙΝΑΙ ΔΕΙΛΗ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΚΑΜΙΑ ΝΟΣΗΛΕΙΑ ΣΕ ΝΟΣΟΚΟΜΕΙΟ&#13;
+ΚΕΦΑΛΑΛΓΙΕΣ&#13;
+ΜΕΤΕΩΡΙΣΜΟΣ</personal_medical_history>
+        <family_medical_history>ΜΑΝΑ=ΑΡΘΡΙΤΙΔΑ,ΕΛΚΟΣ&#13;
+ΠΑΤΕΡΑΣ=Χ.Α.Π.</family_medical_history>
+        <level_of_health>11</level_of_health>
+        <conclusion>ΑΣΘΕΝΗΣ ΧΩΡΙΣ ΙΔΙΑΙΤΕΡΑ ΠΡΟΒΛΗΜΑΤΑ ΥΓΕΙΑΣ&#13;
+ΜΕ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar> ΤΗΣ ΑΡΕΣΟΥΝ ΤΑ ΖΕΣΤΑ ΡΟΦΗΜΑΤΑ 2&#13;
+ΣΤΟΝ ΚΡΕΒΑΤΙ ΕΙΝΑΙ ΤΟ ΕΝΑ ΠΟΔΙ ΖΕΣΤΟ ΤΟ ΑΛΛΟ ΚΡΥΟ 1&#13;
+ΣΧΙΖΟΝΤΑΙ ΟΙ ΦΤΕΡΝΕΣ ΤΗΣ 2</peculiar>
+        <intense>ΚΡΥΩΝΕΙ 2&#13;
+ΠΟΝΟΣ ΣΤΙΣ ΑΜΥΓΔΑΛΕΣ 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>LYCOPODIUM   SULFUR</remedies_differentiation>
+      <prescription>
+        <remedy>LYCOPODIUM</remedy>
+        <potency>  200 CH</potency>
+        <regimen>1Χ2 ΓΙΑ 20 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΠΟΛΛΕΣ ΦΟΡΕΣ ΞΥΠΝΑ ΚΟΥΡΑΣΜΕΝΗ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-01 15:00:00</followup_date>
+      <conv_med_presc>ΠΟΛΥ ΠΙΟ ΛΙΓΑ ΠΑΥΣΙΠΟΝΑ&#13;
+ΣΧΕΔΟΝ ΚΑΘΟΛΟΥ ΑΝΤΙΟΞΙΝΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΑΥΞΟΜΕΙΩΣΕΙΣ ΤΟΥ ΜΕΤΕΩΡΙΣΜΟΥ</reaction>
+      <analysis> ΓΙΑ ΤΙΣ ΠΡΩΤΕΣ 10 ΗΜΕΡΕΣ  ΕΙΧΕ ΤΗΝ ΕΝΤΥΠΩΣΗ ΠΩΣ ΞΑΦΝΙΚΑ ΕΧΕΙ ΤΥΜΠΑΝΙΣΜΟ&#13;
+ΚΑΙ ΜΕΤΑ ΑΠΟ 1-2 ΩΡΕΣ ΞΕΦΟΥΣΚΩΝΕ ΜΕ ΓΟΥΡΓΟΥΡΗΤΑ</analysis>
+      <conclusion>ΕΧΕΙ ΜΕΓΑΛΥΤΕΡΗ ΥΠΕΥΘΥΝΟΤΗΤΑ&#13;
+ΚΑΙ ΕΙΝΑΙ ΛΙΓΟΤΕΡΟ ΔΕΙΛΟΣ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>LYCOPODIUM</remedy>
+        <potency>1M</potency>
+        <regimen>ΑΠΑΞ</regimen>
+        <other_notes>ΚΡΥΩΝΕΙ ΛΙΓΟΤΕΡΟ&#13;
+Ο ΠΟΝΟΣ ΣΤΟΝ ΩΜΟ ΕΙΝΑΙ ΑΡΚΕΤΑ ΜΙΚΡΟΤΕΡΟΣ&#13;
+ΤΟ ΙΔΙΟ ΚΑΙ Ο ΜΕΤΕΩΡΙΣΜΟΣ&#13;
+ΕΠΙΣΗΣ ΕΧΟΥΝ ΚΑΙ ΜΙΚΡΟΤΕΡΗ ΔΙΑΡΚΕΙΑ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

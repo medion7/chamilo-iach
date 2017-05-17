@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELbcc5fba59df10b4a35b7f1ad848692f1</ID>
+  <patient>
+    <case_date>2015-12-26 14:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΣΠ.Δ.</patient_initials>
+    <age>42</age>
+    <circumstances>Ανυπαντρος, ιστιοπλοος, κατασκευαζει τμηματα ιστιοπλοικων σκαφων, εχει 14 σκυλια</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>το καταλαβε στα 27 του που ηταν στο στρατο</origin>
+        <causative_factors>του ειπαν οτι προκληθηκε απο τους υποτροπιαζοντες πολυποδες που ειχε αφαιρεσει πολλες φορες και απο τις εντονες καυστικες μυρωδιες των υλικων που χρησιμοποιει στη δουλεια του</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>γενικως νιωθει χειροτερα 2-3 μμ, κουρασμενος, πεσμενος</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>συχνες ιγμοριτιδες, μειωμενη εισπνοη, συνεχης αισθηση μπουκωματος</complaint_ext>
+        <other_complaints>-2009:πονος στο συκωτι, διογκωση, περασε χωρις θεραπεια&#13;
+-δηλωνει οτι δεν αρρωσταινει ευκολα, σπανια κανει πυρετο, περυσι σε κρυωμα εκανε 38 με ριγος</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>απωλεια οσφρησης</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>συνηθεις εμβολιασμοι</therapies_vaccination>
+          <traumas>δεν αναφερει κατι απο μονος του αλλα σιγουρα θα ηταν τραυματικη η απωλεια της μητερας του οταν εκεινη ηταν 55 ετων καθως και του αδερφου του στα 42 απο ανακοπη</traumas>
+          <infections>παιδικες ασθενιες: ανεμευλογια</infections>
+          <other>επεμβαση κιρσοκηλης (1995) πρηξιμο ορχεος αριστερα</other>
+        </personal>
+        <family>
+          <diseases>πατερας υγιης&#13;
+          αδερφος Ca στο λαιμο&#13;
+μητερα πεθανε(55) απο ατροφια παρεγγεφαλιδας&#13;
+αδερφος πεθανε (42) ανακοπη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει(2)&#13;
+δεν ιδρωνει(2) &#13;
+&gt;στη θαλασσα(3)&#13;
+&gt;ανοιχτο αερα(2)</reactions>
+        <sleeping_habits>υπνος δεν ξεκουραζει(2)&#13;
+τριζει τα δοντια(3) &#13;
+συνηθως μπρουμυτα, δεν μπορει ανασκελα, κοιμαται ευκολα αλλα ξυπανει νωρις και δεν μπορει να ξανακοιμηθει&#13;
+ονειρα, αν αφορουν δικους του ανθρωπους δεν τα συζηταει</sleeping_habits>
+        <food_modalities>επιθυμιες: πικαντικα(3), κρεας(2), μακαρονια&#13;
+απεχθειες: κοταπουλο βραστο(2), ντοματα, κυνηγι</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>mind-superstitious(3)&#13;
+συμπασχει(3)&#13;
+κλαει ευκολα(2), αναστεναζει(2)&#13;
+δεν θελει την παρηγορια, δεν τον βοηθαει(2)&#13;
+αγαπη για τα ζωα(4)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>η απωλεια της μιας εκ των αισθησεων συνιστα αναπηρια, θεωρω πως ο ασθενης ειναι σε σχετικα χαμηλο επιπεδο υγειας εφοσον δεν κανει υψηλο πυρετο.</personal_medical_history>
+        <family_medical_history>εχει χασει δυο μελη της αμεσης οικογενειας του σε σχετικα μικρη ηλικια, γεγονος που μαλλον σημαινει επιβαρυμενο κληρονομικο ιστορικο. </family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>εφοσον το φαρμακο που θα δωσουμε θα ειναι το σωστο, περιμενουμε βελτιωση χωρις αρχικη επιδεινωση. αν ειμαστε σε υψηλα τμηματα του επιπεδου 7 μπορει να δουμε οξυ περιστατικο με υψηλο πυρετο που θα σημαινε οτι ανεβηκαμε επιπεδο υγειας.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>εντονη αγαπη για τα ζωα(4)&#13;
+ελλειψη οσφρησης(4)</peculiar>
+        <intense>nose-smell-wanting 4&#13;
+mind-love- for animals 4&#13;
+mind-sympathetic  3&#13;
+teeth- grinding 3&#13;
+stomach -thirstless&#13;
+mind-superstitious 3&#13;
+generalities-food-spices desire 3&#13;
+generalities-seashore at the amel  3&#13;
+nose- polypus 3&#13;
+mind weeping  2&#13;
+mind sighing 2 &#13;
+mind consolation agg 2&#13;
+generalities-cold-agg 2&#13;
+generalities afternoon 2&#13;
+sleep- unrefreshing 2&#13;
+generalities-air open amel  2&#13;
+generalities- food-chicken avers  2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>οταν πηρα το ιστορικο στηριχθηκα στο τριξιμο των δοντιων, στο επαγγελμα του(ιστιοπλοος, του αρεσει η θαλασσα και τα ταξιδια) στο οτι μου ειπε οτι στις σχεσεις του βαριεται ευκολα και φευγει, αναζητωντας νεες εμπειριες και στην εντονη σχεση που εχει με τα ζωα.</remedies_differentiation>
+      <prescription>
+        <remedy>tubercullinum</remedy>
+        <potency>200cH</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-26 13:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>επειδη ο αθενης μενει σε πολη στη Βορεια Ελλαδα μηλισαμε τηλεφωνικως, δεν μου ειπε λεπτομερειες αλλα θεωρησε οτι το φαρμακο τον εκανε να αισθανθει καλυτερα , ειχε καλυτερη διαθεση</reaction>
+      <analysis>δεν μπορουμε να αξιολογησουμε ακριβως, θεωρησα πως επρεπε να περιμενω να δω τι θα γινει αργοτερα μηπως το φαρμακο θελει περισσοτερο χρονο για να δρασει</analysis>
+      <conclusion>περιμενουμε χωρις φαρμακο</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>--</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-26 13:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ο ασθενης δεν αναφερει καμια αλλαγη! ουτε στην οσφρηση, ουτε στο μπουκωμα, η διαθεση του περιπου τα ιδια,δεν αλλαξαν οι διατροφικες προτιμησεις, το αισθημα κρυου. </reaction>
+      <analysis>θεωρω οτι το πρωτο φαρμακο ηταν λαθος, η μικρη βελτιωση που ανεφερε στο πρωτο follow up μαλλον ηταν placebo και γι αυτο τωρα, 4 μηνες μετα, δεν εχουμε καμια ουσιαστικη αλλαγη.</analysis>
+      <conclusion>χρησιμοποιωντας το compass repertorization, βγαινουν πρωτα φαρμακα phosp., aethousa, puls. και θεωρει πως το αποτελεσμα ειναι σχετικα καθαρο.στον Phosp. συμφωνουν η απωλεια οσφρησης, οτι κρυωνει, οτι συμπασχει, του αρεσουν τα πικαντικα, το κλαμα και οι πολυποδες. στην ΑΕΤΗ προφανως η εντονη αγαπη για τα ζωα, μια σχετικη αδιψια και ροπη προς το κλαμα.η Puls μαλλον για την ταση για το κλαμα και τη βελτιωση στον ανοιχτο αερα.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>phosp.</remedy>
+        <potency>200cH</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2014-06-16 13:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ο ασθενης αναφερει οτι ειναι πολυ καλυτερα το μπουκωμα στη μυτη, κοιμαται καλυτερα, κρυωνει λιγοτερο, και πινει περισσοτερο νερο απο πριν. τα υπολοιπα (απωλεια οσφρησης, καυτερα, βρυγμος, ιδρωτας, πικαντικα) ειναι μαλλον ιδια.&#13;
+περιπου στις 20 μερες μετα τη ληψη του φαρμακου ενιωθε πολυ καταβεβλημενος, πονους στο σωμα και τις αρθρωσεις και εμφανισε πυρετο 39,5(ειχε χρονια να κανει τοσο υψηλο πυρετο)</reaction>
+      <analysis>πολυ καλη αντιδραση. βλεπουμε πως ο ασθενης εκδηλωνει οξυ εμπυρετο περιστατικο και μετα εχουμε βελτιωση σε αρκετα συμπτωματα. θεωρω πως το φαρμακο ειναι σωστο και περιμενω να εξαντληθει η δραση του.</analysis>
+      <conclusion>περιμενουμε</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

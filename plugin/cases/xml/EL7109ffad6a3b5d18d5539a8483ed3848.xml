@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL7109ffad6a3b5d18d5539a8483ed3848</ID>
+  <patient>
+    <case_date>2015-06-15 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Λ.Σ</patient_initials>
+    <age>52</age>
+    <circumstances>ΕΓΓΑΜΗ ΜΕ ΔΥΟ ΠΑΙΔΙΑ,ΣΥΝΤΑΞΙΟΥΧΟΣ ΤΟΥ ΟΤΕ.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΠΡΙΝ ΤΟ ΠΑΣΧΑ ΤΟΥ 2015 ΑΠΟΚΟΛΛΗΣΗ ΥΑΛΟΕΙΔΟΥΣ ΧΙΤΩΝΑ,ΕΚΤΟΤΕ ΚΛΑΙΕΙ ΠΟΛΥ ΕΧΕΙ ΘΥΜΟ ΚΑΙ ΝΙΩΘΕΙ ΘΛΙΨΗ.</origin>
+        <causative_factors>ΕΧΕΙ ΕΝΤΟΝΟ ΣΤΡΕΣ ΜΕ ΤΗΝ ΚΑΤΑΣΤΑΣΗ ΤΗΣ ΥΓΕΙΑΣ ΤΗΣ ΜΗΤΕΡΑΣ ΤΗΣ.</causative_factors>
+        <modalities>ΟΤΑΝ ΠΕΡΠΑΤΑΕΙ ΣΤΟΝ ΚΑΘΑΡΟ ΑΕΡΑ ΝΙΩΘΕΙ ΚΑΛΥΤΕΡΑ.ΜΕ ΤΗΝ ΠΑΡΗΓΟΡΙΑ ΝΙΩΘΕΙ ΚΑΛΥΤΕΡΑ.</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Η ΑΠΟΚΟΛΛΗΣΗ ΤΟΥ ΥΑΛΟΕΙΔΟΥΣ ΕΙΝΑΙ ΣΤΟ ΔΕΞΙ ΜΑΤΙ.</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>MERCIURIUS CHROMICUS,ΤΗΥREOIDINUM</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>ΤΣΑΚΩΝΕΤΑΙ ΣΥΝΕΧΩΣ ΜΕ ΤΗΝ ΜΗΤΕΡΑ ΤΗΣ,ΤΑ ΕΧΕΙ ΧΡΕΩΣΕΙ ΟΛΑ ΣΤΗ  ΜΗΤΕΡΑ ΤΗΣ,ΤΑ ΕΧΕΙ ΚΑΙ ΜΕ ΤΟΝ ΕΑΥΤΟ ΤΗΣ.ΔΕΝ ΕΧΕΙ ΚΑΛΗ ΕΠΙΚΟΙΝΩΝΙΑ ΚΑΙ ΜΕ ΤΟΝ ΣΥΖΥΓΟ ΤΗΣ ΚΙ ΑΥΤΟ ΔΕΝ ΤΗΣ ΑΡΕΣΕΙ.</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ ΕΤΩΝ 83:ΠΙΕΣΗ,ΑΡΤΗΡΙΟΣΚΛΗΡΥΝΣΗ,ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ,ΔΕΝ ΛΕΙΤΟΥΡΓΕΙ Ο ΕΝΑΣ ΝΕΦΡΟΣ,ΚΑΚΙΑ,ΜΠΑΜΠΑΣ ΕΤΩΝ 84:ΠΝΕΥΜΩΝΙΚΗ ΙΝΩΣΗ,ALZHEIMER.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΓΕΝΙΚΑ ΚΡΥΩΝΕΙ ΑΛΛΑ ΜΕΣΑ ΣΤΟ ΣΠΙΤΙ ΚΥΚΛΟΦΟΡΕΙ ΧΩΡΙΣ ΚΑΛΤΣΕΣ.ΙΔΡΩΝΕΙ ΣΤΗΝ ΠΛΑΤΗ.</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΜΠΡΟΥΜΙΤΑ,ΝΙΩΘΕΙ ΜΙΑ ΣΥΝΕΧΗ ΕΛΛΗΨΗ ΥΠΝΟΥ,ΞΥΠΝΑΕΙ ΚΟΥΡΑΣΜΕΝΗ.</sleeping_habits>
+        <food_modalities>ΘΕΛΕΙ ΤΑ ΓΛΥΚΑ ΙΔΙΑΙΤΕΡΑ ΤΑ ΚΡΕΜΩΕΙΔΗ(3),ΣΟΚΟΛΑΤΑ ΔΕΝ ΤΗΝ ΘΕΛΕΙ,ΘΕΛΕΙ ΤΑ ΤΥΡΙΑ(3),ΤΑ ΦΡΟΥΤΑ ΤΑ ΘΕΛΕΙ ΜΑΛΑΚΑ ΚΑΙ ΓΛΥΚΑ,ΑΠΕΧΘΕΙΑ ΣΤΟ ΓΑΛΑ,ΤΟ ΛΙΠΟΣ ΔΕΝ ΤΟ ΘΕΛΕΙ ΟΥΤΕ ΤΟ ΠΟΛΥ ΑΛΑΤΙ,ΔΕΝ ΔΙΨΑΕΙ.</food_modalities>
+        <menstruation>ΕΜΜΗΝΟΠΑΥΣΗ.</menstruation>
+      </physical>
+      <mental_emotional>ΚΛΑΙΕΙ ΜΕ ΤΟ ΠΑΡΑΜΙΚΡΟ,ΝΙΩΘΕΙ ΘΥΜΟ(3) ΚΑΙ ΘΛΙΨΗ(3).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΑΥΤΗ ΤΗ ΧΡΟΝΙΑ ΕΚΑΝΕ ΠΥΡΕΤΟ ΜΕΧΡΙ 38,ΚΑΝΕΙ ΟΜΟΙΟΠΑΘΗΤΙΚΗ ΤΑ ΤΕΛΕΥΤΑΙΑ 15 ΧΡΟΝΙΑ.</personal_medical_history>
+        <family_medical_history>ΜΗΤΕΡΑ ΕΤΩΝ 83:ΠΙΕΣΗ,ΑΡΤΗΡΙΟΣΚΛΗΡΥΝΣΗ,ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΙΓΗ,ΔΕΝ ΛΕΙΤΟΥΡΓΕΙ Ο ΕΝΑΣ ΝΕΦΡΟΣ,ΚΑΚΙΑ,ΜΠΑΜΠΑΣ ΕΤΩΝ 84:ΠΝΕΥΜΩΝΙΚΗ ΙΝΩΣΗ,ALZHEIMER.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΚΛΑΙΕΙ ΜΕ ΤΟ ΠΑΡΑΜΙΚΡΟ(3),ΔΕΝ ΔΙΨΑΕΙ(3) ΚΑΙ ΝΙΩΘΕΙ ΤΑ ΧΕΙΛΗ ΤΗΣ ΣΤΕΓΝΑ(3),ΔΕΝ ΘΕΛΕΙ ΤΟΝ ΗΛΙΟ(2),ΟΤΑΝ ΚΛΑΙΕΙ ΝΙΩΘΕΙ ΕΝΑ ΚΟΜΠΟ ΣΤΟ ΛΑΙΜΟ(2),ΤΗΝ ΕΝΟΧΛΕΙ Ο ΚΑΠΝΟΣ ΤΟΥ ΤΣΙΓΑΡΟΥ(2),ΕΧΕΙ ΕΥΜΕΤΑΒΛΗΤΗ ΔΙΑΘΕΣΗ(3),ΕΙΝΑΙ  ΧΕΙΡΙΣΤΙΚΗ(4)</peculiar>
+        <intense>ΚΛΑΙΕΙ ΜΕ ΤΟ ΠΑΡΑΜΙΚΡΟ(3),ΕΧΕΙ ΕΥΜΕΤΑΒΛΗΤΗ ΔΙΑΘΕΣΗ(3), ΕΙΝΑΙ ΧΕΙΡΙΣΤΙΚΗ(4),ΦΟΒΑΤΑΙ ΤΑ ΣΚΥΛΙΑ(3),ΝΙΩΘΕΙ ΘΥΜΟ(3) ΚΑΙ ΘΛΙΨΗ(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>PULSATILA,ARGENTUM NITRICUM,NATRUM MUTIATICUM,BRYONIA ALBA,NITRIC ACID.</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5193/Σ.Λ..jpg</file_url>
+      </repertorization>
+      <remedies_differentiation>ΔΙΝΩ PULSATILA ΓΙΑΤΙ ΕΧΕΙ ΚΑΘΑΡΗ ΕΙΚΟΝΑ PULSATILA.</remedies_differentiation>
+      <prescription>
+        <remedy>PULSATILA</remedy>
+        <potency>200CH</potency>
+        <regimen>1 X 200CH KAI 30 X  6X</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-05 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΑΦΟΥ ΠΗΡΕ ΤΟ ΦΑΡΜΑΚΟ ΕΝΙΩΣΕ ΦΟΒΕΡΗ ΘΛΙΨΗ ΓΙΑ 10 ΜΕΡΕΣ,ΠΟΝΟΚΕΦΑΛΟ ΤΙΣ 3 ΠΡΩΤΕΣ ΜΕΡΕΣ,ΜΕΤΑ ΑΠΟ 20 ΜΕΡΕΣ O ΥΠΝΟΣ ΤΗΣ ΕΙΝΑΙ ΚΑΛΥΤΕΡΟΣ ΚΑΙ ΑΙΣΘΑΝΕΤΑΙ ΚΑΛΥΤΕΡΑ ΜΕ ΤΟΝ ΕΑΥΤΟ ΤΗΣ,ΚΛΑΙΕΙ ΛΙΓΟΤΕΡΟ,ΔΕΝ ΔΙΨΑΕΙ  ΣΥΝΕΧΙΖΟΥΝ ΝΑ ΣΤΕΓΝΩΝΟΥΝ ΤΑ ΧΕΙΛΗ ΤΗΣ.</reaction>
+      <analysis>ΕΦΟΣΟΝ ΕΦΤΙΑΞΕ Ο ΥΠΝΟΣ ΤΗΣ ΚΑΙ Η ΙΔΙΑ ΑΙΣΘΑΝΕΤΑΙ ΚΑΛΥΤΕΡΑ ΕΧΟΥΜΕ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ΣΤΟ ΦΑΡΜΑΚΟ,ΠΕΡΙΜΕΝΟΥΜΕ ΝΑ ΔΡΑΣΕΙ ΣΕ ΟΛΑ ΤΑ ΕΠΙΠΕΔΑ.</analysis>
+      <conclusion>ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ, ΠΕΡΙΜΕΝΟΥΜΕ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

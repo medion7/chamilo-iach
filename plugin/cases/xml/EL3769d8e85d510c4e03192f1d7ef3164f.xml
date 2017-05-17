@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3769d8e85d510c4e03192f1d7ef3164f</ID>
+  <patient>
+    <case_date>2015-12-13 21:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Σ.</patient_initials>
+    <age>54</age>
+    <circumstances>Παντρεμένη με δύο παιδια &#13;
+Εργάζεται ως εκπαιδευτικός σε δημόσιο σχολείο</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Υπερένταση με αυπνία </origin>
+        <causative_factors>Νοητική υπερδιέγερση με συνεχείς σκέψεις.&#13;
+Καθιστική ζωή </causative_factors>
+        <modalities>Το εντονο στρες, η διανοητική κόπωση επιδείνώνουν την αυπνία&#13;
+Το περπάτημα και το ζεστό μπάνιο την βελτιώνουν</modalities>
+        <occurrence_time>Νωρίς το βράδυ</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>Τις πιο πολλες μέρες έχει πρόβλημα με τον ύπνο</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>Οχι</complaint_ext>
+        <other_complaints>Εξάψεις εμμηνόπαυσης, &#13;
+Ενταση στον αυχένα&#13;
+Φουσκώματα μετά το φαγητό με ερυγές που ανακουφίζουν&#13;
+Μονιμος βήχας λογω καπνισματος</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Σε αγωγή με Στατίνες λογω αυξημένων επιπέδων τριγλυκεριδίων</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αντιβιοτικά, όχι πολλες φορές&#13;
+Εμβολιασμοι τέτανος, διφθεριτιδα, πολυομυελίτιδα</therapies_vaccination>
+          <traumas>Εντονη θλίψη λόγω ψυχιατρικών προβλημάτων ενός εκ των παιδιων της</traumas>
+          <infections>Συνήθως 1-2 εμπύρετα το χρόνο με χαμηλό πυρετό&#13;
+υψηλο πυρετο πριν από 7-8 χρόνια</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατερας :  καρδιοπαθής&#13;
+Μητέρα  :  καθέξιν αποβολές, ψυχοσυναισθηματικη αστάθεια, άνοια</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Μάλλον ζεστένεται&#13;
+&lt; υγρασία</reactions>
+        <sleeping_habits>υπνος στο πλάι, &#13;
+Οταν την πάρει ο ύπνος κοιμάται καλά- ξυπνάει ευδιάθετη&#13;
+</sleeping_habits>
+        <food_modalities>επιθυμία για σούπες, γλυκά (σοκολάτα), λιπαρές τροφές(τυρί,βουτυρο,κρέας)&#13;
+Δε τρώει πολλα φρουτα</food_modalities>
+        <menstruation>εμμηνόπαυση</menstruation>
+      </physical>
+      <mental_emotional>Θελει αλλαγές στη ζωή της, βαριέται εύκολα&#13;
+Η θλιψη υπάρχει σταθερά στη ζωή της χωρίς ομως να παραδίνεται&#13;
+Επιθυμία για ταξιδια&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>αυξημένη χοληστερινη-τριγλυκερίδια απο 4ετίας&#13;
+καπνίζει 1-2 πακέτα την ημέρα &#13;
+Δεν αναφέρει κανένα άλλο στοιχείο &#13;
+</personal_medical_history>
+        <family_medical_history>Οι γονείς απεβίωσαν σε προχωρημένη ηλικία &gt;85 ετων&#13;
+φαινεται να υπάρχει κάποια κληρονομική προδιάθεση για εμφάνιση ψυχικης νόσου</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Η ασθενής βρισκεται σε κατάσταση συναισθηματικού στρες (κάτι που πιθανως συνιστα emotional block)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Διαθεση για περπάτημα όταν βρίσκεται σε υπερένταση (2)&#13;
+ </peculiar>
+        <intense>Βελτίωση στη θάλασσα (3)&#13;
+Βελτίωση με την ήπια κίνηση-γυμναστική (2) </intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>κυρίως μεταξύ MED ,SEPIA, LYCOPODIUM, CALCAREA ARS.</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORRHINUM</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps πρωι&#13;
+1 caps βράδυ</regimen>
+        <other_notes>Οχι καθαρή εικόνα</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-13 20:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρή βελτίωση δίχως επιδείνωση</reaction>
+      <analysis>Η ασθενής αισθάνεται σχετικά καλά. Καποια σωματικά συμπτώματα υποχωρήσαν και καποια νέα στοιχεία παρουσιάστηκαν.&#13;
+Ωστόσο δεν υπάρχει κάποια ξεκάθαρη καινουργια εικόνα.&#13;
+Η πιθανότητα emotional block παραμένει ισχυρός ανασταλτικός παράγοντας για τη θεραπεία.&#13;
+ </analysis>
+      <conclusion>Παραμένουμε στο MED</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-10-11 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Σταθερή αλλά μικρή βελτίωση στα περισσότερα συμπτώματα.&#13;
+Η διάθεση της είναι καλή -εκτός από όταν υπάρχει πρόβλημα με την κόρη της. &#13;
+</reaction>
+      <analysis>Πιθανό το φαρμακο να ήταν σωστό βοηθλωντας να ξεκαθαρίσει η εικόνα.&#13;
+Η εικόνα ωστόσο έχει μεταβληθεί αρκετά.&#13;
+Το φάρμακο που πλέον φαίνεται είναι το SULPHUR</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Ε.Σ. follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>SULPH </remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps πρωί&#13;
+1 caps βράδυ</regimen>
+        <other_notes>Καθόλη τη διάρκεια της ομοιοπαθητικής θεραπείας δεν έχει αρρωστήσει</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

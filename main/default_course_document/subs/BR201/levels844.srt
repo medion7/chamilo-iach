@@ -1,0 +1,2196 @@
+1
+00:00:08,360 --> 00:00:17,800
+A sua idade é de 31 anos e qual é o seu problema principal?
+
+2
+00:00:23,240 --> 00:00:30,190
+-O meu problema principal é dormência e fraqueza das mãos.
+
+3
+00:00:46,570 --> 00:00:56,650
+-E você foi tratada homeopaticamente?
+-Por muito tempo. Muitos remédios.
+
+4
+00:00:56,750 --> 00:01:09,120
+-Por quantos anos?
+-Em torno de 8-10 anos.
+
+5
+00:01:10,120 --> 00:01:21,680
+-E o problema principal foi o problema original para o qual você buscou tratamento.
+
+6
+00:01:21,780 --> 00:01:23,240
+-Não.
+
+7
+00:01:23,950 --> 00:01:28,980
+-E então, a primeira vez que você buscou um tratamento foi por qual motivo?
+
+8
+00:01:29,980 --> 00:01:44,750
+-Tudo isso começou há uns 10 anos, com uma infecção. Parecia uma amigdalite com febre alta.
+
+9
+00:01:44,850 --> 00:02:00,260
+-O quão alta foi?
+-38,9oC. Eu não consigo me lembrar.
+
+10
+00:02:01,120 --> 00:02:07,140
+-E você estava com 20 anos naquela época, 21.
+-Sim, 21.
+
+11
+00:02:08,540 --> 00:02:12,000
+-E você estava na faculdade? O que você fazia?
+
+12
+00:02:12,100 --> 00:02:15,170
+-Eu estudava. Eu era estudante.
+
+13
+00:02:15,270 --> 00:02:17,410
+-Estudante de quê?
+
+14
+00:02:17,510 --> 00:02:28,550
+-Eu estudei tecnologia. É um tipo de tema técnico.
+
+15
+00:02:29,760 --> 00:02:39,470
+-E essa foi a primeira vez que você teve uma infecção ou era comum apresentar infecções?
+
+16
+00:02:39,920 --> 00:02:47,600
+-Eu costumava ter infecções, muitas vezes. Mas essa foi diferente.
+
+17
+00:02:48,550 --> 00:02:58,300
+-Ela foi muito pesada ou muito forte?
+-Eu não me recuperei bem.
+
+18
+00:02:58,400 --> 00:03:01,660
+-Mas você tomou antibióticos?
+-Sim.
+
+19
+00:03:01,760 --> 00:03:05,440
+-Durante essa época? Por quanto tempo? Você se lembra?
+
+20
+00:03:05,540 --> 00:03:14,330
+-Para essa infecção particular, era um padrão de 10 dias.
+
+21
+00:03:14,430 --> 00:03:20,790
+-E você sabe o tipo? Foi o tipo penicilina?
+-Eu não consigo me lembrar agora.
+
+22
+00:03:21,310 --> 00:03:22,830
+-Ok. Deixe-me entender agora.
+
+23
+00:03:22,930 --> 00:03:30,190
+Antes, você também teve infecções e todas as vezes você tomava antibióticos?
+
+24
+00:03:31,870 --> 00:03:36,070
+-Não, eu tinha tipos diferentes de analgésicos.
+
+25
+00:03:36,170 --> 00:03:38,940
+-E eles você tomava para quê?
+
+26
+00:03:39,040 --> 00:03:52,510
+-Às vezes nada, às vezes uma aspirina. Mas eu tinha amigdalites muito frequentemente,
+
+27
+00:03:52,610 --> 00:03:57,240
+ou não muito frequentemente, cerca de uma vez ao ano ou algo do tipo.
+
+28
+00:03:58,690 --> 00:04:04,180
+-Com febre alta ou febre média?
+-Sim, era sempre com febre alta.
+
+29
+00:04:05,180 --> 00:04:16,870
+-Da última vez, a febre foi mais alta ou não tão alta? O problema foi mais grave?
+
+30
+00:04:17,860 --> 00:04:21,360
+-A febre era mais ou menos a mesma.
+
+31
+00:04:22,110 --> 00:04:30,320
+Mas a partir da amigdalite anterior, eu me recuperei muito bem após os antibióticos.
+
+32
+00:04:30,420 --> 00:04:33,020
+Eu não tive problemas depois.
+
+33
+00:04:33,120 --> 00:04:36,220
+-Mas dessa vez foi diferente.
+
+34
+00:04:36,320 --> 00:04:40,480
+-O que foi diferente? O que aconteceu após os antibióticos, você sentiu...
+
+35
+00:04:40,580 --> 00:04:50,590
+-A propósito, eu me lembro de uma coisa. Antes dessa amigdalite final, eu tive um tipo de gripe.
+
+36
+00:04:51,550 --> 00:04:55,750
+Aparentava ser uma gripe comum, mas sem febre alta.
+
+37
+00:04:57,170 --> 00:05:01,740
+E depois após uma semana ou duas, a amigdalite veio.
+
+38
+00:05:03,300 --> 00:05:09,910
+E eu não me deitava na cama com a gripe.
+
+39
+00:05:11,130 --> 00:05:18,360
+-E então, você tomou antibióticos e se sentiu fraca ou o quê...?
+
+40
+00:05:18,460 --> 00:05:23,860
+-Antes de tudo, a dor na garganta não foi embora com os antibióticos
+
+41
+00:05:25,080 --> 00:05:35,190
+e ela foi muito intensa por um mês e depois foi eliminada de alguma forma,
+
+42
+00:05:35,290 --> 00:05:38,740
+mas ficou presente por cerca de um ano ou dois.
+
+43
+00:05:38,840 --> 00:05:43,450
+-Você foi consultada por um médico ou simplesmente se tratou?
+
+44
+00:05:43,550 --> 00:05:48,180
+-Não, eu via um médico, um clínico geral, naquela época.
+
+45
+00:05:49,730 --> 00:05:56,500
+-Este caso não foi de mononucleose infecciosa?
+-Eu não sei.
+
+46
+00:05:56,600 --> 00:06:02,780
+-O médico viu as suas amígdalas?
+-Sim.
+
+47
+00:06:02,880 --> 00:06:05,960
+-E havia pus?
+
+48
+00:06:06,060 --> 00:06:10,260
+-Eu não consigo me lembrar o que ela disse, mas ela disse que era amigdalite.
+
+49
+00:06:12,240 --> 00:06:19,080
+-Com dor intensa?
+-Eu costumava ter sempre dores intensas.
+
+50
+00:06:19,180 --> 00:06:24,890
+Essa foi diferente, eu me lembro dos detalhes,
+
+51
+00:06:24,990 --> 00:06:34,840
+pois eu senti a dor na garganta antes de ter febre, eu estava agindo normalmente,
+
+52
+00:06:34,940 --> 00:06:43,110
+eu tinha energia, mas sentia dor na garganta, como se tivesse amigdalite.
+
+53
+00:06:43,210 --> 00:06:47,750
+Eu nunca tive algo assim anteriormente.
+
+54
+00:06:49,800 --> 00:06:56,450
+-E por quantos dias você sentiu dor nas amígdalas?
+-Sim, 3 ou 4 dias.
+
+55
+00:06:56,550 --> 00:06:59,650
+-Você sentiu como se tivesse um abscesso lá?
+
+56
+00:06:59,750 --> 00:07:05,360
+-Como na amigdalite comum que eu costumava ter anteriormente.
+
+57
+00:07:05,460 --> 00:07:10,650
+Era a mesma dor durante a deglutição.
+
+58
+00:07:10,750 --> 00:07:16,210
+-Era de um lado ou ambos?
+-Eu não consigo me lembrar agora.
+
+59
+00:07:16,310 --> 00:07:22,570
+Se eu tivesse amigdalite naquela época, era mais evidente em um lado.
+
+60
+00:07:22,670 --> 00:07:26,220
+-E depois quando a febre veio, você foi ao médico.
+
+61
+00:07:26,320 --> 00:07:30,120
+Ele olhou as suas amígdalas?
+-Sim.
+
+62
+00:07:30,670 --> 00:07:36,790
+-E ele disse: "Você está com amigdalite, tome isso." Em quantos minutos ele a examinou?
+
+63
+00:07:36,890 --> 00:07:40,620
+-Eu não sei, talvez uns 5.
+
+64
+00:07:44,560 --> 00:07:50,170
+-E ele não pediu um exame de sangue geral?
+
+65
+00:07:50,270 --> 00:07:51,840
+-Não.
+
+66
+00:07:51,940 --> 00:07:55,550
+-Você fez exames de sangue posteriormente?
+-Sim.
+
+67
+00:07:55,650 --> 00:08:07,770
+-E como foi? Você pegou os resultados?
+-Eu não consigo me lembrar.
+
+68
+00:08:08,480 --> 00:08:12,600
+-Nos exames de sangue, existem algumas células que são chamadas monócitos.
+
+69
+00:08:12,700 --> 00:08:17,300
+Você se lembra se estavam aumentados?
+-Eu acho que não.
+
+70
+00:08:17,400 --> 00:08:19,150
+-Você acha que não.
+
+71
+00:08:19,250 --> 00:08:25,330
+-A única coisa que foi encontrada no meu sangue, foi muito depois
+
+72
+00:08:25,430 --> 00:08:28,800
+pois eu desenvolvi problemas crônicos e fui ao médico.
+
+73
+00:08:28,900 --> 00:08:47,100
+Eles coletaram o sangue em encontraram anticorpos do vírus EB. Epstein-Barr.
+
+74
+00:08:47,200 --> 00:08:56,790
+Mas eles disseram que era muito comum e que não era nada. E também anticorpos da Chlamydia até onde me lembro.
+
+75
+00:08:58,220 --> 00:09:05,930
+Mas isso foi examinado muito depois, em torno de 1-2 anos depois.
+
+76
+00:09:10,820 --> 00:09:19,040
+Após os antibióticos, eu não senti energia, eu me senti em uma boa condição.
+
+77
+00:09:19,730 --> 00:09:23,380
+-Você se sentiu fraca?
+-Sim.
+
+78
+00:09:23,480 --> 00:09:27,820
+-Com dor de cabeça, de mau-humor?
+
+79
+00:09:27,920 --> 00:09:32,610
+-Sim, como leves dores de cabeça, mas eu não consigo me lembrar do meu humor naquela época.
+
+80
+00:09:32,710 --> 00:09:37,090
+Em geral, eu estava fraca, eu senti que o meu corpo não se recuperou muito bem.
+
+81
+00:09:37,190 --> 00:09:43,500
+Eu estava cansada e eu senti essa dor, mas ainda assim eu não tive febre.
+
+82
+00:09:45,700 --> 00:09:53,050
+-E então, posteriormente eles deram um diagnóstico? Eles te disseram do que está sofrendo?
+
+83
+00:09:53,150 --> 00:09:57,790
+-Não. Mas estava se desenvolvendo, não era o final.
+
+84
+00:10:00,020 --> 00:10:08,690
+Eu estava apenas vivendo a minha vida, continuei a viver e não prestei muita atenção nisso.
+
+85
+00:10:08,790 --> 00:10:15,290
+Pois era apenas um pouco de fadiga geral.
+
+86
+00:10:15,390 --> 00:10:17,420
+-Eles não disseram que era a síndrome da fadiga crônica?
+
+87
+00:10:17,520 --> 00:10:25,680
+-Não, eles não disseram e na verdade eu fiquei 14 dias no hospital, diagnosticada em tudo
+
+88
+00:10:25,780 --> 00:10:34,570
+e eles fizeram alguns exames, eles queriam confirmar a síndrome da fadiga crônica,
+
+89
+00:10:34,670 --> 00:10:45,320
+mas não confirmaram. O que é importante, eu acho, é que 2 meses após essa amigdalite,
+
+90
+00:10:45,420 --> 00:10:59,330
+eu desenvolvi [?] crônica, febre 37,1oC constantemente.
+
+91
+00:11:00,890 --> 00:11:05,900
+Antes, isso acontecia em torno das 18:00, uma hora por dia.
+
+92
+00:11:06,000 --> 00:11:07,990
+-Das 18:00 às 19:00.
+
+93
+00:11:08,090 --> 00:11:12,360
+-E depois, eram 2 horas ao dia, e em seguida, 3 horas ao dia, e assim, foi durante a tarde toda
+
+94
+00:11:12,460 --> 00:11:17,760
+e depois de um ano, isso foi durante o dia todo.
+
+95
+00:11:21,170 --> 00:11:29,190
+-Você fez o teste tuberculínico?
+-Sim, posteriormente no hospital.
+
+96
+00:11:31,210 --> 00:11:41,720
+Eu fiz o teste Mantoux e ficou no limite.
+
+97
+00:11:42,730 --> 00:11:48,660
+Me examinaram com o raio-x dos pulmões e não encontraram nada.
+
+98
+00:11:53,790 --> 00:12:01,230
+E então, é claro, eu comecei a me sentir cada vez mais cansada e exausta em geral.
+
+99
+00:12:01,760 --> 00:12:06,020
+Esse foi o problema para o qual eu foi ao meu primeiro homeopata.
+
+100
+00:12:09,460 --> 00:12:15,610
+-E desde então, você recebeu quantos remédios? Você contou?
+
+101
+00:12:15,710 --> 00:12:23,110
+-Eu não os contei porque eu não sei. Alguns deles ele não me contou e eu não consigo me lembrar.
+
+102
+00:12:23,210 --> 00:12:27,360
+-Alguns dos remédios estão aqui...
+
+103
+00:12:29,130 --> 00:12:32,450
+-O primeiro homeopata não me deu tantos remédios.
+
+104
+00:12:34,450 --> 00:12:38,420
+-Na República Tcheca?
+-Sempre na República Tcheca.
+
+105
+00:12:41,090 --> 00:12:52,530
+- Ars, Sil, Ruta, Gels, Caust, Fl-ac, Ph-ac, Abrot, Nux-v, Bar-c e alguns outros
+
+106
+00:12:52,630 --> 00:13:04,740
+e depois Psor., Phos., Ars., Sulph., Syph., Lyc. e você mesma, quais remédios tomou finalmente?
+
+107
+00:13:04,840 --> 00:13:20,990
+-Eu tomei Psor. Ars., Phos. E eu acho que esses três eu tomei por minha conta.
+
+108
+00:13:21,090 --> 00:13:26,600
+-E também Cham.
+-Era uma dor de dente aguda.
+
+109
+00:13:29,460 --> 00:13:37,340
+-Nat-m. também.
+-Sim, mas eu não o tomei por conta própria.
+
+110
+00:13:37,440 --> 00:13:40,460
+-Ele foi dado a você?
+-Sim, ele foi prescrito para mim.
+
+111
+00:13:42,620 --> 00:13:54,090
+E então, eu tomei Acon., Phos. novamente, Pic-ac. e Nux-v.
+
+112
+00:13:56,670 --> 00:14:00,460
+Esses eu tomei porque...
+
+113
+00:14:00,560 --> 00:14:05,360
+-Das 24 horas, qual foi o pior horário para você?
+
+114
+00:14:06,850 --> 00:14:12,160
+Você acorda pela manhã?
+-Você quer dizer agora?
+
+115
+00:14:12,260 --> 00:14:17,160
+-Nos últimos meses.
+
+116
+00:14:17,260 --> 00:14:27,270
+-Nos últimos meses, em geral eu acho que pela manhã eu tenho mais energia.
+
+117
+00:14:28,230 --> 00:14:31,020
+Até à noite, ela cai.
+
+118
+00:14:31,950 --> 00:14:36,190
+-Quanto mais você se cansa, mais perde energia.
+
+119
+00:14:36,290 --> 00:14:39,100
+-Essa é a situação.
+
+120
+00:14:39,870 --> 00:14:44,730
+-Qual horário você vai para a cama?
+-22:00-23:00.
+
+121
+00:14:45,520 --> 00:14:48,230
+-Você é casada?
+-Não.
+
+122
+00:14:48,330 --> 00:14:53,980
+-Divorciada?
+-Não. Eu tenho uma namorada.
+
+123
+00:14:56,670 --> 00:15:05,070
+-Você já foi infectada por algo venéreo ou outra coisa? Uma doença do tipo venéreo?
+
+124
+00:15:05,170 --> 00:15:10,020
+-Eu acho que não, não tenho ideia.
+
+125
+00:15:10,120 --> 00:15:14,440
+-Não teve nenhuma descarga da uretra?
+-Não, nunca.
+
+126
+00:15:14,540 --> 00:15:17,330
+-Não teve nenhuma inflamação lá?
+-Nunca.
+
+127
+00:15:23,940 --> 00:15:26,570
+-E o seu peso sempre foi assim?
+
+128
+00:15:26,670 --> 00:15:33,280
+-Não. Eu perdi peso nos últimos 5 anos ou algo do tipo.
+
+129
+00:15:33,380 --> 00:15:38,100
+Após o tratamento de alguns homeopatas, eu perdi peso.
+
+130
+00:15:38,200 --> 00:15:43,520
+-Quanto?
+-Uns 10 quilos.
+
+131
+00:15:45,260 --> 00:15:53,820
+-Pois você não tinha apetite suficiente ou apenas estava perdendo peso...?
+
+132
+00:15:53,920 --> 00:15:58,900
+-Antes de tudo, eu estava de dieta. Eu ainda estou.
+
+133
+00:15:59,000 --> 00:16:00,020
+-Por quê?
+
+134
+00:16:00,120 --> 00:16:08,070
+-Porque antes de tudo, eu tinha alguns problemas digestivos
+
+135
+00:16:10,910 --> 00:16:16,760
+e a segunda coisa, eu descobri que no momento em que tinha essas febres,
+
+136
+00:16:16,860 --> 00:16:24,950
+essa febre baixa constante, a dieta me fez bem.
+
+137
+00:16:27,760 --> 00:16:32,150
+Eu tenho mais energia e eu me sentia melhor em geral, quando eu estava sob uma dieta.
+
+138
+00:16:32,250 --> 00:16:35,340
+-Você é vegetariana?
+-Eu não sou vegetariana.
+
+139
+00:16:35,440 --> 00:16:39,290
+-Se você é cuidadosa com a sua dieta...
+-Sim, eu sou cuidadosa.
+
+140
+00:16:39,390 --> 00:16:42,910
+-O que significa... você tem que comer o quê?
+
+141
+00:16:44,970 --> 00:16:49,320
+-Basicamente sem muita gordura, nada frito,
+
+142
+00:16:49,420 --> 00:16:56,160
+basicamente nada que faça mal ao fígado ou à vesícula biliar das pessoas que sofrem disso...
+
+143
+00:16:56,260 --> 00:16:58,950
+Isso me faz bem.
+
+144
+00:16:59,460 --> 00:17:09,770
+-Você tem algum linfonodo inchado?
+-No passado sim, agora nem tanto.
+
+145
+00:17:09,870 --> 00:17:13,790
+-No passado? Há quanto tempo?
+
+146
+00:17:14,480 --> 00:17:22,760
+-Na época em que tive essa infecção há 10 anos e talvez 2-3 anos depois.
+
+147
+00:17:22,860 --> 00:17:35,990
+-Você tem os linfonodos inchados, sublingual... apenas. Nenhum linfonodo em outro lugar.
+
+148
+00:17:36,090 --> 00:17:37,860
+-Não, até onde eu saiba.
+
+149
+00:17:37,960 --> 00:17:43,320
+-As suas fezes são normais ou você tem fezes diarreicas?
+
+150
+00:17:43,420 --> 00:17:45,690
+-Agora, normais.
+
+151
+00:17:45,790 --> 00:17:54,070
+-Ela estava diarreica?
+-Não, uma vez estava mais constipada. Uma vez.
+
+152
+00:17:54,170 --> 00:17:57,800
+-Uma vez, diarreia nunca.
+
+153
+00:17:59,210 --> 00:18:11,070
+-Quando eu comecei a comer azeite de oliva, comecei a ter as fezes um pouco moles, mas não era diarreia.
+
+154
+00:18:11,170 --> 00:18:14,070
+-Você gosta de azeite de oliva?
+
+155
+00:18:14,170 --> 00:18:28,780
+-Sim, mas eu o como principalmente porque é saudável. Posteriormente, eu gostei também do gosto.
+
+156
+00:18:29,250 --> 00:18:33,160
+-Você sabe o que são condilomas? Você teve algum condiloma?
+
+157
+00:18:33,260 --> 00:18:34,530
+-Não.
+
+158
+00:18:34,630 --> 00:18:39,330
+-Nunca?
+-Nunca. Eu comecei com a minha vida sexual tarde.
+
+159
+00:18:39,430 --> 00:18:49,930
+-O quão tarde?
+-Bem, na verdade há uns 2 anos.
+
+160
+00:18:53,890 --> 00:19:00,460
+-Você não teve nenhum contato anteriormente?
+-Contato sexual, não.
+
+161
+00:19:04,460 --> 00:19:12,730
+-E desde quando você desenvolveu essa dormência nas suas mãos?
+
+162
+00:19:12,830 --> 00:19:20,660
+-Isso foi após ter sido tratada para as febres, pelo primeiro homeopata.
+
+163
+00:19:32,000 --> 00:19:37,530
+Primeiramente, começou com uma fraqueza dos músculos.
+
+164
+00:19:38,480 --> 00:19:42,220
+Eu era guitarrista profissional.
+
+165
+00:19:42,320 --> 00:19:49,150
+-Você tem um tremor...?
+-Eu tenho um pouco de tremor.
+
+166
+00:19:49,250 --> 00:19:54,940
+-Você consegue esticar?
+-Sim, eu acho que um pouco sim.
+
+167
+00:19:56,830 --> 00:20:05,970
+-Levante um pouco.
+-Por bastante anos, eu acho.
+
+168
+00:20:06,690 --> 00:20:09,490
+-Você mesma sente o tremor, certo?
+
+169
+00:20:09,590 --> 00:20:14,440
+-Sim, mas é claro que agora estou excitada. Estou um pouco nervosa.
+
+170
+00:20:14,540 --> 00:20:19,540
+-E quando você fica nervosa, você treme...
+
+171
+00:20:20,530 --> 00:20:26,510
+-Não com facilidade absoluta, pois eu nunca estive em tal situação.
+
+172
+00:20:27,790 --> 00:20:33,360
+Não é muito difícil, mas nem absolutamente relaxada.
+
+173
+00:20:33,460 --> 00:20:41,940
+-Eu entendo. E então, você nunca tomou Tub.?
+-Não.
+
+174
+00:20:42,430 --> 00:20:44,820
+-Bac.?
+-Não.
+
+175
+00:20:44,920 --> 00:20:50,110
+-Você range os dentes enquanto dorme?
+
+176
+00:20:50,210 --> 00:20:59,350
+-Eu não tenho consciência disso, eu não sei. Mas a minha namorada não me contou.
+
+177
+00:21:00,350 --> 00:21:08,610
+-Mas o seu dentista viu se você rangia os dentes.
+
+178
+00:21:08,710 --> 00:21:12,490
+Você nunca teve problemas com os seus...
+
+179
+00:21:12,590 --> 00:21:19,160
+-Eu tive muitos problemas com os meus dentes desde criança.
+
+180
+00:21:21,630 --> 00:21:22,910
+-Com cáries?
+
+181
+00:21:23,010 --> 00:21:33,860
+-Sim, cáries e abscessos e tive um dente extra, excedente.
+
+182
+00:21:34,800 --> 00:21:41,890
+O qual precisa ser removido. Eu tive nove aqui.
+
+183
+00:21:43,800 --> 00:21:48,310
+-Você teve um dente extra.
+-Não, 5-6.
+
+184
+00:21:48,410 --> 00:21:50,070
+-5 dentes extras?
+
+185
+00:21:50,170 --> 00:21:55,570
+-Sim, quando eu era criança, eu tinha dois aqui e foram retirados
+
+186
+00:21:55,670 --> 00:22:08,730
+e depois eu tive um aqui e tive dois nonos dentes aqui. Um foi retirado.
+
+187
+00:22:09,240 --> 00:22:11,330
+-O seu pai está vivo?
+-Sim.
+
+188
+00:22:11,430 --> 00:22:17,170
+-Qual a idade dele?
+-Ele está com 56.
+
+189
+00:22:18,650 --> 00:22:26,150
+-Ele tem problema no sistema nervoso?
+-Não.
+
+190
+00:22:26,250 --> 00:22:28,500
+-Ele anda bem?
+-Ele é bastante saudável.
+
+191
+00:22:28,600 --> 00:22:32,640
+-Ele consegue correr?
+-Sim. Ele é esportista.
+
+192
+00:22:33,580 --> 00:22:42,400
+Ele pratica espotes duas ou três vezes por semana. Futebol e tudo. Ele é cheio de energia.
+
+193
+00:22:42,500 --> 00:22:45,270
+-A sua mãe? Ela está viva?
+-Sim.
+
+194
+00:22:45,370 --> 00:22:48,940
+-Ela tem um problema?
+-Sim, ela tem alguns problemas.
+
+195
+00:22:49,040 --> 00:22:50,310
+-Quais são?
+
+196
+00:22:58,910 --> 00:23:24,490
+-Ela tem no útero um tipo de tumor benigno. Este é o último problema que ela apresenta.
+
+197
+00:23:25,010 --> 00:23:31,160
+-Por outro lado, o estado mental dela está ok ou ela é histérica?
+
+198
+00:23:31,410 --> 00:23:42,800
+-Wow! Eu não diria que ela é absolutamente equilibrada emocionalmente, mas...
+
+199
+00:23:43,280 --> 00:23:47,080
+-Ela reage de uma forma histérica?
+
+200
+00:23:47,180 --> 00:23:55,520
+-Talvez quando ela estava discutindo com o meu pai. Às vezes ela pode ser bastante histérica.
+
+201
+00:23:55,620 --> 00:24:04,190
+Sim, na verdade ela pode ser histérica. Mas entre nós, a situação...
+
+202
+00:24:04,290 --> 00:24:12,370
+-Você é mais apegada à sua mãe?
+-Definitivamente. Desde a infância.
+
+203
+00:24:16,450 --> 00:24:19,430
+-Você tem irmão ou irmã?
+-Irmão.
+
+204
+00:24:23,830 --> 00:24:33,460
+-Ele tem algum problema?
+-Sim, mas eu diria que são coisas funcionais.
+
+205
+00:24:35,200 --> 00:24:45,020
+Ele teve um pouco de náusea, náusea constante e crônica, mas nada grave até onde eu sei.
+
+206
+00:24:46,780 --> 00:24:51,750
+-Você disse que não come gordura.
+-Eu como gordura. Mas apenas...
+
+207
+00:24:51,850 --> 00:25:02,200
+-Você gosta de gordura?
+-Em quantidade pequena ou normal, eu gosto.
+
+208
+00:25:04,110 --> 00:25:10,050
+-Quando você costumava comer carne.
+-Eu como carne agora.
+
+209
+00:25:10,150 --> 00:25:14,170
+-Você gosta?
+-Particularmente não.
+
+210
+00:25:14,270 --> 00:25:24,960
+-Qual tipo de carne você gosta mais?
+-Talvez frango. Eu não tenho certeza.
+
+211
+00:25:29,890 --> 00:25:33,430
+-Você sente dor no hipocôndrio direito?
+-Sim, bastante frequente.
+
+212
+00:25:33,530 --> 00:25:41,650
+-Desde quando?
+-Há uns 5 anos.
+
+213
+00:25:42,160 --> 00:25:51,400
+-Por quê? Você sabe o motivo? Você foi examinada para ver se a vesícula biliar está funcionando?
+
+214
+00:25:51,500 --> 00:25:56,180
+-Não, não encontraram nada. Nenhum cálculo ou algo do tipo.
+
+215
+00:25:56,280 --> 00:26:06,750
+-Vesícula biliar lenta, eles te disseram?
+-Eu não fui diagnosticada. Estive nos médicos.
+
+216
+00:26:07,660 --> 00:26:11,590
+-Mas eles não disseram nada, eles não conseguem encontrar nada.
+
+217
+00:26:12,290 --> 00:26:16,470
+-E a dor é... você poderia me mostrar o lugar.
+-Sim.
+
+218
+00:26:20,190 --> 00:26:24,820
+-E às vezes essa dor se estende para as costas?
+
+219
+00:26:24,920 --> 00:26:32,320
+-Na verdade não, mas às vezes ela fica em ambos os lados.
+
+220
+00:26:34,890 --> 00:26:38,290
+-Ao mesmo tempo?
+-Sim, ao mesmo tempo.
+
+221
+00:26:38,390 --> 00:26:46,150
+Especialmente quando fica irritado, quando eu como algo a mais, ele dói em ambos os lados.
+
+222
+00:26:46,250 --> 00:26:54,340
+-Principalmente quando você come algo, como ovos ou derivados do leite ou carne ou gordura?
+
+223
+00:26:54,440 --> 00:27:02,860
+-Principalmente quando eu como muita gordura ou se como muito chocolate,
+
+224
+00:27:02,960 --> 00:27:13,920
+algo que não como normalmente. Mas agora eu como muito chocolate. Uma vez eu estava muito dura.
+
+225
+00:27:14,020 --> 00:27:20,940
+Eu estava muito meticulosa com a minha dieta.
+
+226
+00:27:21,040 --> 00:27:25,470
+-Muito meticulosa com a sua comida.
+-Sim.
+
+227
+00:27:27,150 --> 00:27:30,630
+-Mas me parece que você gosta de gordura, na verdade.
+
+228
+00:27:30,730 --> 00:27:37,440
+Porco, você come?
+-Às vezes, não muito.
+
+229
+00:27:37,540 --> 00:27:42,120
+Especialmente nos últimos 2 anos, eu não sinto muito desejo por carne gordurosa
+
+230
+00:27:42,220 --> 00:27:49,780
+ou porco, mas eu não me lembro de ser muito interessada em gordura.
+
+231
+00:27:49,880 --> 00:27:57,740
+-E carne defumada?
+-Particularmente não.
+
+232
+00:27:57,840 --> 00:28:00,660
+-Você pode comê-la.
+-Eu posso.
+
+233
+00:28:00,760 --> 00:28:04,480
+Mas agora eu não como, porque sou bastante meticulosa com a minha dieta.
+
+234
+00:28:04,580 --> 00:28:10,560
+Mas eu não gostava de comer isso, não era o meu preferido.
+
+235
+00:28:13,000 --> 00:28:18,440
+-Você come salame?
+-Normalmente, eu gosto...
+
+236
+00:28:18,540 --> 00:28:21,350
+-O que você mais gosta de comer?
+
+237
+00:28:21,450 --> 00:28:34,150
+-Eu sempre gostei de queijo, tomate, coisas como a cozinha italiana, massa...
+
+238
+00:28:34,250 --> 00:28:42,910
+mas pode ser também com tomate e massa, eu gosto muito de uma vez só.
+
+239
+00:28:43,010 --> 00:28:49,840
+Eu gosto disso agora também. E gosto de doces.
+
+240
+00:29:03,900 --> 00:29:13,220
+-Quanto sal você usa?
+-Muito. A minha namorada diz que eu uso muito sal.
+
+241
+00:29:14,200 --> 00:29:17,770
+-Você sempre usou muito sal?
+
+242
+00:29:17,870 --> 00:29:26,460
+-Eu não me lembro, porque comecei a perceber essas coisas desde quando comecei com a Homeopatia.
+
+243
+00:29:26,560 --> 00:29:29,270
+-Mas você não se lembra se comia sal quando era criança?
+
+244
+00:29:29,370 --> 00:29:32,180
+-Não, eu não acho que tenha feito isso.
+
+245
+00:29:36,710 --> 00:29:40,320
+-Um estranho medo da morte, você sente antes de dormir.
+
+246
+00:29:40,420 --> 00:29:43,790
+-Não quando criança, quando adolescente.
+
+247
+00:29:45,000 --> 00:29:47,480
+-Agora não mais.
+-Não.
+
+248
+00:29:47,580 --> 00:29:53,490
+-Você sente algum medo agora? Medo do escuro?
+
+249
+00:29:53,590 --> 00:29:59,400
+-Eu não me sinto muito bem no escuro. Especialmente quando estou sozinha.
+
+250
+00:29:59,500 --> 00:30:07,340
+Quando estou sozinha em casa, mas não é um medo grande mas eu não me sinto confortável.
+
+251
+00:30:07,440 --> 00:30:13,020
+No escuro e sozinha...
+
+252
+00:30:13,560 --> 00:30:16,220
+-Você prefere sempre ter alguém.
+
+253
+00:30:16,320 --> 00:30:21,140
+-Não por causa do medo, mas eu gosto de companhia.
+
+254
+00:30:21,660 --> 00:30:25,230
+-Você se sente melhor com companhia.
+-Sim.
+
+255
+00:30:25,720 --> 00:30:28,480
+-Por causa da ansiedade sobre a sua saúde.
+
+256
+00:30:28,580 --> 00:30:47,320
+-Não, eu diria o oposto. Quando estou sozinha, me sinto pior em geral. Especialmente o meu humor piora.
+
+257
+00:30:47,420 --> 00:30:53,840
+-E então, quando você tem companhia, isso corrige o seu humor.
+
+258
+00:30:53,940 --> 00:31:02,570
+-Eu não diria assim, eu não tenho certeza disso. Definitivamente melhoro com companhia.
+
+259
+00:31:05,580 --> 00:31:09,750
+-Algum outro medo?
+
+260
+00:31:09,850 --> 00:31:14,760
+-Nos últimos anos, estava muito ansiosa sobre eu mesma, em geral.
+
+261
+00:31:14,860 --> 00:31:17,650
+-Sobre a sua saúde?
+-Sim.
+
+262
+00:31:17,750 --> 00:31:27,030
+E por exemplo, quando eu tomo um remédio, eu tenho medo do remédio ser antidotado, fico muito apreensiva.
+
+263
+00:31:30,700 --> 00:31:35,970
+Medo de contrair alguma doença.
+
+264
+00:31:40,700 --> 00:31:52,680
+Eu sei que estou um pouco abaixo do peso e eu sei que se contrair alguma doença gastrointestinal,
+
+265
+00:31:52,780 --> 00:31:58,740
+poderei ter alguns problemas. Agora não, mas há 5 anos o meu peso estava ainda mais baixo.
+
+266
+00:31:58,840 --> 00:32:05,790
+-Você tem medo de contrair AIDS?
+
+267
+00:32:08,110 --> 00:32:12,310
+-Também, todos os tipos de doenças.
+
+268
+00:32:17,040 --> 00:32:21,310
+-Você tem medo de todas as doenças infecciosas?
+
+269
+00:32:23,340 --> 00:32:27,430
+-A maioria delas. Eu não sei se todas, mas bastante.
+
+270
+00:32:36,100 --> 00:32:40,770
+-Para o sal, quantas vezes você sublinharia o seu desejo?
+
+271
+00:32:40,870 --> 00:32:44,650
+-2 ou 3.
+-2 ou 3. Forte.
+
+272
+00:32:44,750 --> 00:32:59,190
+-Pois eu não uso muitas especiarias, por exemplo, a pimenta... eu sinto dor no hipocôndrio direito.
+
+273
+00:32:59,290 --> 00:33:14,580
+Um tipo de suplemento, o sal para dar um gosto à comida. Mas eu gosto de comida salgada.
+
+274
+00:33:21,410 --> 00:33:25,140
+-Você gosta de gatos, cachorros?
+-Sim.
+
+275
+00:33:25,710 --> 00:33:29,580
+Quando eu era criança, eu tinha muito medo de cachorros.
+
+276
+00:33:30,080 --> 00:33:35,880
+-Cachorros grandes ou até mesmo os pequenos?
+-Até mesmo o pequeno, eu acho.
+
+277
+00:33:36,120 --> 00:33:39,150
+-Gatos?
+-Não. Eu não me lembro.
+
+278
+00:33:39,250 --> 00:33:44,490
+-Você consegue ter um gato de estimação?
+-Sim, com certeza. Definitivamente. Sem problema.
+
+279
+00:33:44,590 --> 00:33:49,830
+E agora, os cachorros também. Temos um cachorro, com a minha namorada.
+
+280
+00:33:54,180 --> 00:34:02,330
+-No mar, quando você se banha no mar, você se sente bem?
+-Sim, eu gosto do mar.
+
+281
+00:34:02,430 --> 00:34:03,450
+-Ou você se sente pior?
+
+282
+00:34:03,550 --> 00:34:13,790
+-Não, eu me sinto a mesma ou me sinto bem. Eu amo o mar.
+
+283
+00:34:16,500 --> 00:34:22,950
+-Em alguma vez você tomou Med.?
+-Não. Eu acho que não.
+
+284
+00:34:24,210 --> 00:34:27,770
+-Mas você não sabe quais remédios eles te deram.
+
+285
+00:34:30,510 --> 00:34:42,110
+Você foi ao homeopata que tinha o costume de dar 3 remédios diariamente por 2-3 meses?
+
+286
+00:34:44,000 --> 00:34:45,700
+-Todos os dias.
+
+287
+00:34:45,800 --> 00:34:49,600
+-Nessa época, você tomou muitos remédios, mas não sabe qual é o tipo.
+
+288
+00:34:49,700 --> 00:35:01,420
+-Eu não consigo me lembrar todos eles porque foram tantos. Esse foi o meu 3o homeopata.
+
+289
+00:35:04,120 --> 00:35:09,860
+-O apetite geral que você tem, de acordo com você, é normal,
+
+290
+00:35:09,960 --> 00:35:14,740
+isso significa que você come uma quantidade normal de comida?
+
+291
+00:35:14,840 --> 00:35:17,830
+-Eu diria que como muito.
+
+292
+00:35:17,930 --> 00:35:27,380
+Algumas pessoas me disseram, como é possível que eu coma tanto, quantidades grandes e eu ser tão magra.
+
+293
+00:35:27,480 --> 00:35:45,250
+Eu tenho apetite. Eu não como comida gordurosa. Eu como diet, saudável, mas em grandes quantidades.
+
+294
+00:35:46,510 --> 00:35:50,600
+-Em geral, você sente frio ou calor ou normal?
+
+295
+00:35:50,700 --> 00:35:59,580
+-Nos últimos 3-4 anos, eu senti muito frio, mas no último mês,
+
+296
+00:35:59,680 --> 00:36:15,650
+desde que tomei esse último remédio (Nux-v., Pic-ac...) eu sinto calor de novo. Mas eu senti frio por muitos anos.
+
+297
+00:36:15,750 --> 00:36:20,800
+No início, quando eu tinha essas febres, eu tinha ondas de calor e me sentia quente.
+
+298
+00:36:20,900 --> 00:36:30,470
+Depois, eu perdi peso e comecei a sentir frio. Originalmente eu tinha ondas de calor.
+
+299
+00:36:36,880 --> 00:36:43,110
+-Você tem algum eczema nas suas mãos?
+-Sim.
+
+300
+00:36:46,310 --> 00:36:50,140
+O eczema se desenvolveu juntamente com a dormência.
+
+301
+00:36:52,560 --> 00:36:57,880
+-Onde está o eczema? Você poderia me mostrar?
+-Aqui.
+
+302
+00:36:58,370 --> 00:37:02,870
+-Você quer dizer que está mais seco? Tem coceira?
+
+303
+00:37:02,970 --> 00:37:07,230
+-Eu fui à dermatologista e ela disse que é um eczema.
+
+304
+00:37:07,330 --> 00:37:16,260
+Não coça muito, fica vermelho, não está agora, eu tenho apenas no inverno.
+
+305
+00:37:18,760 --> 00:37:26,430
+No verão, eu não tenho muito. Apenas nos meses frios.
+
+306
+00:37:28,170 --> 00:37:35,950
+-Você tem alguma dificuldade para respirar? Você precisa suspirar assim?
+
+307
+00:37:36,510 --> 00:37:38,870
+-Eu não estou ciente.
+
+308
+00:37:41,090 --> 00:37:49,990
+-Como é o seu desejo sexual?
+-É bastante alto, não é baixo, é normal.
+
+309
+00:37:51,260 --> 00:38:01,760
+Isso depende de quão cansado estou, de quanto trabalho. Eu não sei o que poderá dizer, é normal.
+
+310
+00:38:06,400 --> 00:38:14,030
+-Cada um tem o seu próprio... para você...
+-Para mim é normal.
+
+311
+00:38:14,130 --> 00:38:18,730
+Eu não diria que sou escrava do meu.. não, de jeito algum.
+
+312
+00:38:22,660 --> 00:38:27,770
+Eu posso confessar uma coisa?
+-Sim.
+
+313
+00:38:27,870 --> 00:38:38,230
+-Muitas vezes, durante a consulta homeopática como essa, eu tendo a rir involuntariamente,
+
+314
+00:38:38,330 --> 00:38:45,440
+agora é a mesma coisa. Eu fico excitada e tenho a tendência a rir. Eu não sei o porquê.
+
+315
+00:38:46,750 --> 00:38:53,480
+-Isso acontece quando você está em outras situações sérias? Isso pode acontecer com você.
+
+316
+00:38:54,930 --> 00:39:03,470
+-Uma vez aconteceu em um velório, eu não me senti muito bem.
+
+317
+00:39:08,800 --> 00:39:20,770
+-Como é a sua memória?
+-Não é muito boa.
+
+318
+00:39:22,050 --> 00:39:24,360
+-Você tende a esquecer?
+
+319
+00:39:27,130 --> 00:39:33,880
+-Eu preciso me concentrar muito ao fazer algum trabalho mental
+
+320
+00:39:33,980 --> 00:39:43,770
+e na verdade, há um mês eu desenvolvi um tipo de estado peculiar,
+
+321
+00:39:43,870 --> 00:40:00,350
+quando eu estudava muito, por cerca de um ano muito intensivamente, eu desenvolvi uma dor de cabeça com náusea
+
+322
+00:40:00,450 --> 00:40:20,800
+e com dormência na metade do corpo. A perna e a mão e metade do rosto.
+
+323
+00:40:20,900 --> 00:40:24,360
+-Você tomou Causticum durante esse período?
+
+324
+00:40:24,460 --> 00:40:38,390
+-Não, eu tomei Bell. por 4 dias, Acon. e finalmente Nux-v. que fez alguma coisa. E eu também terminei os estudos.
+
+325
+00:40:39,360 --> 00:40:47,920
+Mas a memória não é boa. Eu preciso me forçar para lembrar.
+
+326
+00:40:48,020 --> 00:40:53,500
+-Para lembrar o que você precisa fazer, lembrar o que você lê?
+
+327
+00:40:53,600 --> 00:40:57,470
+-Na verdade, na leitura eu tenho problemas para prestar atenção.
+
+328
+00:40:57,730 --> 00:41:05,760
+Quando eu leio algumas linhas, eu volto para o início de novo, porque eu não prestei atenção.
+
+329
+00:41:05,860 --> 00:41:18,890
+Às vezes isso acontece ultimamente, quando eu quero dizer uma palavra,
+
+330
+00:41:19,870 --> 00:41:22,930
+Estou buscando por alguma palavra e...
+
+331
+00:41:23,030 --> 00:41:24,840
+-Você não consegue encontrar a palavra.
+
+332
+00:41:24,940 --> 00:41:30,240
+-Eu consigo, mas 2 palavras e eu não consigo decidir qual usar.
+
+333
+00:41:30,340 --> 00:41:41,020
+E finalmente eu uso algum tipo de híbrido dos 2. Meio a meio. Este é um sintoma bastante recente.
+
+334
+00:41:41,120 --> 00:41:51,900
+-Quando isso aconteceu?
+-Há um ou dois anos.
+
+335
+00:41:56,260 --> 00:42:06,740
+E estou preocupada com a minha memória, nos últimos meses, especialmente, eu estava muito distraída.
+
+336
+00:42:08,360 --> 00:42:11,060
+Eu darei um exemplo para ser claro.
+
+337
+00:42:11,160 --> 00:42:21,120
+Quando eu estudo, eu assisto um seminário do e-learning, eu assisto o vídeo...
+
+338
+00:42:21,220 --> 00:42:27,430
+Quando estou assistindo, após alguns minutos eu começo a fazer alguma outra coisa.
+
+339
+00:42:28,220 --> 00:42:35,000
+Eu começo a pesquisar alguma coisa na internet, como se a mente dissesse:
+
+340
+00:42:35,100 --> 00:42:40,080
+"Não mais, por favor. Estou sobrecarregada." Eu tenho essa sensação.
+
+341
+00:42:41,150 --> 00:42:45,910
+-Se eu entendi bem, quando você estuda, de repente a sua mente vai longe
+
+342
+00:42:46,010 --> 00:42:53,000
+e você começa a fazer uma outra coisa e sente que já teve o suficiente disso, não consegue controlar...
+
+343
+00:42:53,100 --> 00:42:58,350
+-Eu me forço a voltar ao assunto original.
+
+344
+00:43:04,350 --> 00:43:09,050
+-Algumas vezes você teve otite.
+-Quando criança.
+
+345
+00:43:15,590 --> 00:43:24,150
+-Mas a febre que você teve, a febre de 39oC foi há 10 anos a última vez com essa febre alta?
+
+346
+00:43:24,250 --> 00:43:42,990
+-Não. Mas eu tive essa febre alta de 39oC há um ano e meio atrás, quando tomei Psor. Eu tive 39oC de febre.
+
+347
+00:43:44,000 --> 00:43:52,520
+-Por quê? Amigdalite?
+-Não, eu tive um tipo de gripe.
+
+348
+00:43:54,490 --> 00:44:06,550
+Era um resfriado e fadiga generalizada, um mal-estar generalizado, gripe.
+
+349
+00:44:07,100 --> 00:44:14,490
+Eu nunca sofri de gripe verdadeira e vamos dizer que isso tenha sido um resfriado forte.
+
+350
+00:44:15,290 --> 00:44:16,810
+Mas era principalmente febre.
+
+351
+00:44:16,910 --> 00:44:26,700
+Eu não tive coriza forte, eu não tive tosse forte, mas a febre era de 39oC por 2 dias.
+
+352
+00:44:27,270 --> 00:44:36,280
+-Você tomou Psor. hoje e em 2 dias...
+-Não. Isso foi 3 semanas depois.
+
+353
+00:44:37,460 --> 00:44:45,360
+-Durante essas 3 semanas, você se sentiu melhor? Em geral, mais energia?
+
+354
+00:44:48,540 --> 00:44:54,100
+-Eu não sei, eu não consigo dizer 100%.
+
+355
+00:44:56,580 --> 00:45:06,980
+Talvez eu tenha escrito em algum lugar, mas eu cortei e não consigo achar agora... Eu tenho informação apenas sobre a febre
+
+356
+00:45:07,080 --> 00:45:10,480
+e tive um inchaço aqui...
+
+357
+00:45:13,660 --> 00:45:23,690
+-Aqui no seu relatório você disse que tomou 4 doses de Psor.
+
+358
+00:45:23,790 --> 00:45:27,530
+e sentiu imediatamente uma melhora mental/emocional.
+
+359
+00:45:27,630 --> 00:45:32,940
+-Sim, isso foi quando eu o tomei pela primeira vez. Isso foi há uns 3 anos.
+
+360
+00:45:33,040 --> 00:45:41,320
+-"Eu me senti muito bem e relaxada durante o primeiro dia. Os problemas otológicos cessaram após algumas horas
+
+361
+00:45:41,420 --> 00:45:50,610
+e 10 dias depois eu tive um resfriado com coriza e febre de 37,5oC." Não foi de 39oC.
+
+362
+00:45:50,710 --> 00:46:03,150
+-Essa foi a primeira vez que tomei Psor. E depois eu o tomei por minha conta. E foi de 39oC.
+
+363
+00:46:03,250 --> 00:46:06,480
+-Psor. Surgimento de uma fístula na gengiva.
+
+364
+00:46:06,580 --> 00:46:09,350
+-Após essa febre.
+
+365
+00:46:09,450 --> 00:46:19,210
+-Uma única dose 3 semanas depois, um agudo com febre alta até 39oC por um dia. 37,6oC...
+
+366
+00:46:19,970 --> 00:46:26,390
+Recuperação lenta sem nenhum remédio. E em seguida, continuou repetindo...
+
+367
+00:46:26,490 --> 00:46:35,060
+Mas você não escreve como se sentiu em geral. A fístula na gengiva apareceu um mês depois.
+
+368
+00:46:35,160 --> 00:46:45,230
+Eructações frequentes, sede extrema, micção frequente, sensação de completude após comer
+
+369
+00:46:45,330 --> 00:46:50,100
+seguida por uma intensa dor no hipocôndrio, em amos os lados. Calafrios,
+
+370
+00:46:50,200 --> 00:47:02,470
+repetiu Psor. após alguns dias e não teve nenhuma mudança. E em seguida, você tomou Phos. Repetiu o Phos.
+
+371
+00:47:05,660 --> 00:47:09,390
+E você tem ejaculação precoce.
+
+372
+00:47:15,990 --> 00:47:23,750
+-Eu estava tentando anotar alguns sintomas claros. Objetivo.
+
+373
+00:47:29,480 --> 00:47:31,720
+-Ok, vamos entrar.
+
+374
+00:47:46,750 --> 00:47:58,930
+Eu acho que para os médicos presentes, este foi um bom exemplo de caso
+
+375
+00:47:59,030 --> 00:48:12,950
+como fazemos um diagnóstico na homeopatia e independentemente dos testes laboratoriais.
+
+376
+00:48:13,400 --> 00:48:20,160
+Para poder entender o que está acontecendo em um organismo humano.
+
+377
+00:48:21,220 --> 00:48:32,050
+E então, o que está acontecendo com o organismo dele? O que acontece? Qual é o problema?
+
+378
+00:48:42,370 --> 00:48:49,520
+A primeira coisa que eu gostaria que se lembrassem deste caso é o que eu disse
+
+379
+00:48:49,620 --> 00:48:55,500
+pela manhã, eu acho, referente...
+
+380
+00:48:55,600 --> 00:49:01,000
+Estou confuso, eu não sei se disse ou se foi ontem na aula anterior, mas de qualquer forma...
+
+381
+00:49:01,100 --> 00:49:09,570
+Eu repetirei que uma condição aguda grave,
+
+382
+00:49:09,670 --> 00:49:17,720
+se for suprimida, talvez seja transferida para uma inflamação sub-aguda.
+
+383
+00:49:18,700 --> 00:49:23,980
+E todas as condições crônicas, de acordo com o meu entendimento,
+
+384
+00:49:24,080 --> 00:49:32,340
+são condições inflamatórias crônicas sub-agudas. Todas elas.
+
+385
+00:49:32,440 --> 00:49:37,250
+Seja na esquizofrenia, seja em uma doença autoimune
+
+386
+00:49:37,350 --> 00:49:50,120
+ou se é uma doença degenerativa, é de uma condição inflamatória sub-aguda.
+
+387
+00:49:52,330 --> 00:50:03,280
+Estranhamente no caso dele, os sub-agudos aparecem também na febre. Ele tem febre alta,
+
+388
+00:50:03,380 --> 00:50:11,610
+que é suprimida, por que é suprimida, por causa do tratamento errado,
+
+389
+00:50:11,710 --> 00:50:16,210
+porque eles não entenderam do que ele sofria.
+
+390
+00:50:17,430 --> 00:50:24,780
+O médico que o examinou não percebeu que mais provavelmente ele apresentava um abscesso na amígdala
+
+391
+00:50:24,880 --> 00:50:29,660
+e é por isso que ele estava sentindo dor por dias
+
+392
+00:50:29,760 --> 00:50:37,280
+e em seguida, finalmente a febre alta, teve um abscesso nas amígdalas que se desenvolveram
+
+393
+00:50:37,380 --> 00:50:42,600
+no que é chamado de mononucleose infecciosa aguda.
+
+394
+00:50:44,550 --> 00:50:51,520
+A qual é uma condição bastante grave e precisa ser tratada com cuidado,
+
+395
+00:50:51,620 --> 00:50:57,950
+não existe nenhum medicamento para isso, geralmente eles dão corticoide, eu acho
+
+396
+00:50:58,050 --> 00:51:06,190
+e o usual de 10 dias de antibióticos, o que deixou as coisas piores, suprimiu a febre
+
+397
+00:51:06,290 --> 00:51:14,280
+e então, o organismo desistiu e ele começou a fazer um esforço diário
+
+398
+00:51:14,380 --> 00:51:17,640
+para se recuperar através dessa inflamação.
+
+399
+00:51:17,740 --> 00:51:27,080
+Pois a inflamação é sempre por um bom motivo. Você não pode suprimir uma inflamação.
+
+400
+00:51:27,180 --> 00:51:35,910
+Uma inflamação é a forma do organismo de se recuperar, de voltar ao normal.
+
+401
+00:51:36,010 --> 00:51:38,910
+É apenas através de uma inflamação.
+
+402
+00:51:39,010 --> 00:51:46,160
+Se existe uma febre se manifestando no corpo físico, é uma coisa diferente.
+
+403
+00:51:46,260 --> 00:51:54,220
+Quando há febre alta, o organismo mostra que tem força,
+
+404
+00:51:54,320 --> 00:51:58,830
+o sistema imunológico está em uma boa condição.
+
+405
+00:52:03,940 --> 00:52:17,220
+Na verdade, até onde diz respeito aos níveis de saúde, este é um homem
+
+406
+00:52:17,320 --> 00:52:30,730
+que tem agudos frequentes com febre alta e dessa forma, a condição dele poderia ser considerada
+
+407
+00:52:30,830 --> 00:52:41,180
+antes desse episódio, como qual nível...? Qual nível?
+
+408
+00:52:45,560 --> 00:53:02,470
+Agudos frequentes estão no nível 6 e temos isso, um organismo que está facilmente trazendo à tona problemas agudos,
+
+409
+00:53:02,570 --> 00:53:13,550
+otite, cistite, bronquite, o que que seja tratado cada vez com antibióticos, existe um momento
+
+410
+00:53:13,650 --> 00:53:20,770
+em que os agudos cedem e ocorre uma manifestação
+
+411
+00:53:20,870 --> 00:53:25,800
+de uma condição crônica sub-inflamatória.
+
+412
+00:53:27,080 --> 00:53:41,710
+Essa é a regra que nunca foi observada na medicina.
+
+413
+00:53:42,690 --> 00:53:50,760
+Mas é um fato e é exatamente sobre isso que eu estava falando a respeito.
+
+414
+00:53:52,730 --> 00:54:04,350
+E assim, ele estava no nível 6, agudos frequentes tratados de forma errada, ele foi para uma condição sub-inflamatória,
+
+415
+00:54:04,450 --> 00:54:12,360
+entrou no nível 7. Começou um processo degenerativo crônico.
+
+416
+00:54:14,530 --> 00:54:19,740
+E assim, para mim, ele está nessa condição por 10 anos.
+
+417
+00:54:26,150 --> 00:54:43,810
+No ano passado, ele teve uma febre após Psor. E assim, ele saiu do nível 7 para o 6. É isso?
+
+418
+00:54:43,910 --> 00:55:05,250
+Não, não é. Eu direi o porquê. Psor. foi um remédio suficientemente próximo à condição dele.
+
+419
+00:55:05,350 --> 00:55:20,130
+Por um tempo, ele deu alguma energia para o corpo dele e o corpo dele manejou de obter uma febre de 39oC por 1 dia.
+
+420
+00:55:20,230 --> 00:55:23,360
+E caiu novamente ao nível 7.
+
+421
+00:55:23,460 --> 00:55:33,220
+Caso contrário, você teria visto primeiramente não 1 dia apenas, mas vários dias de febre
+
+422
+00:55:33,320 --> 00:55:41,550
+e veria novamente após 2 meses um outro agudo e um outro agudo para chegar ao nível 6,
+
+423
+00:55:41,650 --> 00:55:46,650
+onde temos os agudos frequentes. Nós não vimos isso.
+
+424
+00:55:46,750 --> 00:55:53,600
+Portanto, chegamos à conclusão de que os remédios que foram dados até agora
+
+425
+00:55:53,700 --> 00:56:03,330
+foram todos errados, exceto Psor. que não estava totalmente errado, mas era um remédio próximo.
+
+426
+00:56:04,510 --> 00:56:15,560
+Por outro lado, a condição dele não foi ajudada até o momento pela homeopatia. 10 anos de homeopatia...
+
+427
+00:56:15,660 --> 00:56:22,960
+muitos remédios... talvez nunca tenham dado o remédio correto.
+
+428
+00:56:24,610 --> 00:56:34,320
+E assim, a não ser que conheça a teoria, você poderá continuar e dar remédios após remédios
+
+429
+00:56:34,420 --> 00:56:35,520
+e o que acontece...
+
+430
+00:56:35,620 --> 00:56:55,960
+Cada vez confusão maior... Mas a confusão para o organismo dele não é tão dramática.
+
+431
+00:56:56,190 --> 00:57:04,620
+Pois ele diz: "Eu me senti fraco e eu ainda me sinto fraco. Agora eu tenho também um pouco de dormência."
+
+432
+00:57:04,720 --> 00:57:10,000
+E assim, a condição na qual ele se encontra agora é uma síndrome,
+
+433
+00:57:10,100 --> 00:57:18,370
+se quisermos falar com o termos da medicina convencional, diríamos
+
+434
+00:57:18,470 --> 00:57:23,120
+que é uma síndrome pós-viral.
+
+435
+00:57:23,220 --> 00:57:35,140
+A síndrome da fadiga crônica, eles a chamam de síndrome pós-viral.
+
+436
+00:57:36,680 --> 00:57:46,670
+Isso significa que eles perceberam isso uma vez que uma pessoa apresentava uma febre e eles davam antibióticos,
+
+437
+00:57:46,770 --> 00:57:53,170
+eles perceberam que essa pessoa entrava em uma síndrome da fadiga crônica.
+
+438
+00:57:53,270 --> 00:58:04,750
+Este é um grande diagnóstico. Geralmente em casos em que os anticorpos para Esptein-Barr são encontrados.
+
+439
+00:58:04,850 --> 00:58:18,410
+Essa é uma condição que costumava ser chamada de encefalomielite benigna, em seguida Epstein-Barr,
+
+440
+00:58:18,510 --> 00:58:27,000
+em seguida, síndrome pós-viral e depois esqueceram rapidamente sobre a síndrome pós-viral
+
+441
+00:58:27,100 --> 00:58:37,450
+e a denominaram como síndrome da fadiga crônica, simples assim. Como surge a síndrome da fadiga crônica.
+
+442
+00:58:37,550 --> 00:58:44,180
+Ela não vem só assim, sozinha. Algo que você tenha feito ao organismo.
+
+443
+00:58:57,130 --> 00:59:05,520
+Por que a mononucleose infecciosa teve um efeito tão grave?
+
+444
+00:59:05,620 --> 00:59:17,660
+É porque o organismo dele, vindo da mãe e do pai apresenta um sistema imunológico fraco.
+
+445
+00:59:22,100 --> 00:59:25,250
+Por que o sistema imunológico está fraco?
+
+446
+00:59:25,350 --> 00:59:30,120
+Mais provavelmente por causa da condição da mãe.
+
+447
+00:59:30,220 --> 00:59:38,180
+A condição da mãe é muito fraca emocionalmente.
+
+448
+00:59:41,030 --> 00:59:52,420
+E assim, a mistura da mãe e do pai trouxe um organismo que não é muito forte,
+
+449
+00:59:52,520 --> 01:00:07,200
+não tem força para lutar e contrai infecções estafilocócicas muito frequentemente....
+
+450
+01:00:13,850 --> 01:00:27,890
+A patologia, como ela aparece é, como eu disse, o que eles chamam de síndrome da fadiga crônica,
+
+451
+01:00:27,990 --> 01:00:32,630
+com uma diferença no caso dele,
+
+452
+01:00:38,850 --> 01:00:50,090
+o tipo da patologia, você percebe? Eles contam uma outra história,
+
+453
+01:00:50,190 --> 01:01:01,170
+a síndrome da fadiga crônica imita todas as síndromes possíveis, o que quer que seja.
+
+454
+01:01:01,270 --> 01:01:12,050
+Ela poderá imitar uma patologia mental, uma patologia neurológica, todos os tipos de patologias.
+
+455
+01:01:16,190 --> 01:01:18,320
+O que vocês podem decifrar disso?
+
+456
+01:01:18,420 --> 01:01:24,800
+Isso significa que não temos uma imagem padrão do sintoma da fadiga crônica.
+
+457
+01:01:24,900 --> 01:01:32,800
+Temos várias sintomatologias colocadas juntas, uma pessoa tem isso, totalidade dos sintomas,
+
+458
+01:01:32,900 --> 01:01:35,430
+um outro com isso, outro com aquilo...
+
+459
+01:01:35,530 --> 01:01:49,600
+A linha principal corre por todos esses casos é da fadiga crônica, que está no sistema nervoso,
+
+460
+01:01:49,700 --> 01:01:58,890
+no sistema muscular. Na verdade, este é o fator comum.
+
+461
+01:02:01,780 --> 01:02:10,770
+E assim, no caso dele, ele tem um estado febril com bom apetite, mas com perda de peso.
+
+462
+01:02:11,770 --> 01:02:22,990
+E dessa forma, se quisermos tratar tal caso, temos que ir para a base da patologia.
+
+463
+01:02:25,020 --> 01:02:36,270
+A base da patologia é tal que imita qual doença, na verdade?
+
+464
+01:02:43,440 --> 01:02:57,890
+Qual é a doença que as pessoas poderão comer mas perderão peso com estado febril? Tuberculose.
+
+465
+01:03:00,370 --> 01:03:08,630
+Ele tem tuberculose? Quando eu perguntei a ele, ele disse que fez o Mantoux e que está no limite.
+
+466
+01:03:08,730 --> 01:03:16,480
+Talvez seja sim ou talvez seja não. Não estamos falando sobre a tuberculose ativa.
+
+467
+01:03:17,960 --> 01:03:25,460
+Mas estamos falando sobre uma predisposição no organismo dele,
+
+468
+01:03:25,560 --> 01:03:34,010
+que traz consigo o miasma tuberculínico dos seus ancestrais.
+
+469
+01:03:34,110 --> 01:03:37,620
+Que está sob o estresse dos antibióticos
+
+470
+01:03:37,720 --> 01:03:46,810
+e o tratamento errado se manifestou agora como uma imitação da tuberculose.
+
+471
+01:03:48,240 --> 01:03:58,260
+E assim, existe na ancestralidade dele o miasma tuberculínico, mais provalmente
+
+472
+01:03:58,360 --> 01:04:07,300
+ele não sabe se é o avô, avó quem teve tuberculose.
+
+473
+01:04:11,530 --> 01:04:17,750
+A sua mãe ou avó?
+
+474
+01:04:17,850 --> 01:04:33,070
+Ela teve tuberculose? Ela morreu de tuberculose? Ok, eu repetirei.
+
+475
+01:04:33,830 --> 01:04:45,090
+A bisavó teve tuberculose, mas ainda não é certeza que a sua avó tenha nascido antes
+
+476
+01:04:45,190 --> 01:04:56,460
+ou após a tuberculose. Correto? Ele acha que foi depois. Mas isso não importa.
+
+477
+01:04:56,560 --> 01:05:00,080
+Quando alguém está preparado para ter tuberculose,
+
+478
+01:05:00,180 --> 01:05:06,180
+é o miasma que surge. É este.
+
+479
+01:05:06,280 --> 01:05:11,830
+Não existe apenas este problema, existe outro problema com a ancestralidade.
+
+480
+01:05:11,930 --> 01:05:28,760
+Qual é o próximo problema? Mais provavelmente o percebemos pelo quê?
+
+481
+01:05:29,510 --> 01:05:32,730
+O que é muito peculiar no caso dele?
+
+482
+01:05:42,270 --> 01:05:56,930
+Ele melhorava no mar? Não exatamente muito melhor. Diga-me e eu repetirei.
+
+483
+01:05:58,610 --> 01:06:06,510
+-No momento em que você o perguntou se a mãe era histérica ou se ela tinha problemas emocionais...
+
+484
+01:06:06,610 --> 01:06:28,510
+-Como eu peguei isso. Você pede muito. Foi através da observação. Medo de contrair vírus.
+
+485
+01:06:28,610 --> 01:06:41,870
+Não é muito peculiar. Sim, é isso. A patologia dentária.
+
+486
+01:06:45,730 --> 01:06:57,120
+O que ele deu como informação, 9 dentes extras que estão saindo. 5 são ok.
+
+487
+01:06:57,680 --> 01:07:10,440
+5 é mais do que suficiente. 5 dentes extras que saíram de forma irregular.
+
+488
+01:07:10,540 --> 01:07:21,020
+O que sabemos é que tal condição é decorrente à sífilis.
+
+489
+01:07:21,120 --> 01:07:30,120
+Não é que ele mesmo tenha tido sífilis ou o pai, mas o miasma sifilítico que vem através dos ancestrais.
+
+490
+01:07:30,350 --> 01:07:36,300
+E portanto, a partir do caso dele podemos chegar à conclusão
+
+491
+01:07:36,400 --> 01:07:45,380
+de que quando ele nasceu, ele trazia com ele 2 miasmas, o tuberculínico e também o sifilítico.
+
+492
+01:07:45,480 --> 01:07:49,800
+Nós temos motivos para sustentar isso.
+
+493
+01:07:51,750 --> 01:08:01,550
+Agora, examinamos o caso e precisamos decidir qual remédio ele deverá tomar.
+
+494
+01:08:04,040 --> 01:08:13,770
+E qual é o remédio? Eu mostrarei uma coisa para vocês. Quantos sintomas você colocou? 19.
+
+495
+01:08:13,870 --> 01:08:17,160
+Ok. Mostre-me os 19 sintomas.
+
+496
+01:08:21,870 --> 01:08:30,060
+Desejo por companhia, concentração difícil, medo de contágio, fraqueza da memória...
+
+497
+01:08:30,270 --> 01:08:43,750
+dentição irregular, inchaço dos linfonodos cervicais. Quando eu perguntei sobre os linfonodos cervicais, foi por quê?
+
+498
+01:08:45,390 --> 01:08:59,980
+Por causa do... Por que eu perguntei a ele se ele tinha os linfonodos inchados? Por causa da tuberculose? Não.
+
+499
+01:09:00,940 --> 01:09:04,010
+Eu estava pensando em uma outra coisa, mas não importa.
+
+500
+01:09:06,210 --> 01:09:22,110
+Estado febril, erupções no inverno, enfermidades após a gripe, intenso apetite com emaciação,
+
+501
+01:09:22,210 --> 01:09:30,910
+desejo pelo mar, sal, doces, amigdalite recorrente, fraqueza durante a febre, etc.
+
+502
+01:09:31,630 --> 01:09:51,580
+E o remédio é... mostre a eles. Tuberculinum. Mostre as colunas.
+
+503
+01:09:51,680 --> 01:10:04,130
+Eu mostrarei algo a vocês, eu tentei confirmar o Tub., eu não consegui confirmá-lo realmente.
+
+504
+01:10:04,230 --> 01:10:20,180
+Antes de tudo, porque não havia nenhum nojo por gatos ou cachorros e o desejo por gordura não estava realmente forte.
+
+505
+01:10:22,130 --> 01:10:33,910
+E os pulmões... não havia nenhum problema aqui realmente e então eu não gostei de Tub.
+
+506
+01:10:39,380 --> 01:11:05,230
+O que você dará a ele? Você não sabe. Você é iogue? Bacilinum? Parabéns.
+
+507
+01:11:07,660 --> 01:11:18,060
+Bac. Você vê, é muito interessante, na 2a coluna, você vê que o Bac. está vindo
+
+508
+01:11:18,160 --> 01:11:31,120
+e ainda se você tiver que explicar o motivo, os sintomas são muito poucos. Mas eu direi uma coisa.
+
+509
+01:11:32,800 --> 01:11:48,430
+Tub. tem quantos sintomas? 12 sintomas. E Bac. apenas 3. E ainda assim, eu preferiria dar o Bac.
+
+510
+01:11:48,970 --> 01:11:57,880
+O motivo é: quando você não consegue confirmar o Tub., dê Bac.
+
+511
+01:12:07,910 --> 01:12:15,680
+Quem estava aqui no caso do menininho da Rússia com problemas?
+
+512
+01:12:19,330 --> 01:12:30,020
+Muitos remédios foram dados. Ele teve uma condição semelhante. O menino estava indo muito bem com Bac.
+
+513
+01:12:30,120 --> 01:12:39,480
+É claro que este não é o motivo. O motivo é que os 2 remédios são bastante semelhantes.
+
+514
+01:12:39,580 --> 01:12:44,780
+A imagem geral é a mesma, mas o Bac. não tem necessariamente
+
+515
+01:12:44,880 --> 01:12:51,680
+medo de gatos e cachorros e desejo por gordura.
+
+516
+01:12:51,780 --> 01:13:05,750
+E portanto, eu preferiria dar Bac. 200CH. uma dose e veremos o que acontecerá.
+
+517
+01:13:07,710 --> 01:13:11,120
+Vocês concordam?
+
+518
+01:13:16,290 --> 01:13:22,520
+-Eu posso te perguntar? Por que você não levou em consideração a ansiedade sobre a saúde?
+
+519
+01:13:22,620 --> 01:13:31,330
+-Nós a levamos em consideração, sim. Por que não? Se você quer ansiedade sobre a saúde, coloque ansiedade sobre a saúde.
+
+520
+01:13:33,290 --> 01:13:38,340
+Ele tem uma grande ansiedade sobre a saúde. Eu te direi uma coisa com este caso.
+
+521
+01:13:38,950 --> 01:13:45,470
+Não pense que após Bac. tudo desaparecerá, mas será o primeiro remédio
+
+522
+01:13:45,570 --> 01:13:54,700
+que erguerá o organismo, o sistema imunológico e em seguida, daremos um pouco de energia ao corpo
+
+523
+01:13:54,800 --> 01:14:04,230
+e finalmente ele desenvolverá o próximo remédio que será mais provavelmente...
+
+524
+01:14:04,330 --> 01:14:11,460
+medo do escuro... Phos. que foi dado repetidamente e não agiu.
+
+525
+01:14:11,560 --> 01:14:14,080
+Após Bac., ele agirá.
+
+526
+01:14:15,020 --> 01:14:23,100
+É por isso que eu digo que é tão importante quando você começa um caso corretamente.
+
+527
+01:14:23,200 --> 01:14:30,130
+Caso contrário, você confundirá o caso e não encontrará uma forma de sair.

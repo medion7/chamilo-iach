@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL1595a511b0e8c142d6939240f75f4318</ID>
+  <patient>
+    <case_date>2015-05-05 17:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΔΔ</patient_initials>
+    <age>45</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ 2 ΠΑΙΔΙΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΩΤΙΤΙΔΑ ΑΠΟ 4 ΕΤΩΝ&#13;
+ΔΙΣΚΟΠΑΘΕΙΑ ΑΠΟ 13 ΕΤΩΝ&#13;
+ΑΤΟΠΙΚΗ ΔΕΡΜΑΤΙΤΙΔΑ ΑΠΟ 18ΕΤΩΝ</origin>
+        <causative_factors>ΔΙΣΚΟΠΑΘΕΙΑ ΛΟΓΩ ΕΝΤΟΝΗΣ ΓΥΜΝΑΣΤΙΚΗΣ&#13;
+ΑΤΟΠΙΚΗ ΔΕΡΜΑΤΙΤΙΔΑ ΛΟΓΩ ΣΤΡΕΣ ΚΑΙ ΝΕΥΡΙΚΟΤΗΤΑΣ</causative_factors>
+        <modalities>&lt;ΜΕ ΤΗΝ ΕΝΤΑΣΗ&#13;
+&gt;ΜΕ ΤΗΝ ΗΡΕΜΙΑ</modalities>
+        <occurrence_time>&gt; ΤΟ ΚΑΛΟΚΑΙΡΙ</occurrence_time>
+        <body_side>ΑΡΙΣΤΕΡΑ</body_side>
+        <appearence_frequency>2-3 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ</appearence_frequency>
+        <pain_desc>ΞΕΚΙΝΑ ΑΠΟ ΤΗ ΜΕΣΗ ΚΑΙ ΕΙΝΑΙ ΤΟΣΟ ΕΝΤΟΝΟΣ ΠΟΥ ΠΟΛΛΕΣ ΦΟΡΕΣ&#13;
+ΕΙΝΑΙ ΔΥΣΚΟΛΟ ΚΑΙ ΝΑ ΚΟΙΜΗΘΕΙ</pain_desc>
+        <complaint_ext>Ο ΠΟΝΟΣ ΕΠΕΚΤΙΝΕΤΑΙ ΣΤΟ  ΠΙΣΩ ΜΕΡΟΣ ΤΟΥ ΑΡΙΣΤΕΡΟΥ ΠΟΔΙΟΥ&#13;
+ΩΣ ΤΗ ΓΑΜΠΑ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΣΠΑΝΙΑ ΑΛΟΙΦΕΣ ΚΟΡΤΙΖΟΝΟΥΧΕΣ ΓΙ ΑΤΟΠΙΚΗ ΔΕΡΜΑΤΙΤΙΔΑ&#13;
+MESULID,SIRDALUT,TILCITIL ΓΙΑ ΔΙΣΚΟΠΑΘΕΙΑ</conv_med_presc>
+        <lab_tests>
+          <desc>ΛΕΥΚΑ =11080 ΤΚΕ=14  PLT=216000&#13;
+BIOXHMIKA Κ.Φ.&#13;
+Η.Κ.Γ.=ΧΩΡΙΣ ΕΥΡΗΜΑΤΑ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΛΙΓΑ ΑΝΤΙΒΙΟΤΙΚΑ ΚΑΙ ΚΟΡΤΙΖΟΝΗ&#13;
+ΟΛΑ ΤΑ ΠΑΙΔΙΚΑ ΕΜΒΟΛΙΑ</therapies_vaccination>
+          <traumas>ΔΕΝ ΑΝΑΦΕΡΘΗΚΑΝ ΣΟΒΑΡΑ ΤΡΑΥΜΑΤΑ</traumas>
+          <infections>ΦΥΜΑΤΙΩΣΗ ΣΕ ΗΛΙΚΙΑ 22 ΕΤΩΝ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΑΝΑ  Α.Υ.&#13;
+ΠΑΤΕΡΑΣ Σ.Δ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits>ΟΝΕΙΡΑ ΕΝΤΟΝΑ ΣΥΧΝΑ ΧΑΡΟΥΜΕΝΑ ΣΑΝ ΑΛΗΘΙΝΑ</sleeping_habits>
+        <food_modalities>ΜΕΓΑΛΗ ΚΑΤΑΝΑΛΩΣΗ ΚΡΕΑΤΟΣ ΚΑΙ ΝΕΡΟΥ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΑΝΥΠΟΜΟΝΟΣ ΝΕΥΡΙΚΟΣ ΕΞΥΠΝΟΣ&#13;
+ΜΕΓΑΛΗ ΣΩΜΑΤΙΚΗ ΚΑΙ ΨΥΧΙΚΗ ΔΥΝΑΜΗ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΚΑΜΙΑ ΕΠΕΜΒΑΣΗ&#13;
+ΟΧΙ ΧΡΟΝΙΑ ΦΑΡΜΑΚΑ&#13;
+</personal_medical_history>
+        <family_medical_history>ΠΑΤΕΡΑΣ Σ.Δ. ΥΠΕΡΧΟΛΗΣΤΕΡΙΝΑΙΜΙΑ ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ&#13;
+ΜΑΝΑ Α.Υ. ΥΠΕΡΧΟΛΗΣΤΕΡΙΝΑΙΝΙΑ&#13;
+</family_medical_history>
+        <level_of_health>11</level_of_health>
+        <conclusion>ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ&#13;
+ΔΙΑΤΑΡΑΧΕΣ ΜΙΚΡΕΣ ΣΤΟ ΜΕNTAL ΚΑΙ ΣΤΟ ΕΜΟΤΙΟΝ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΜΕΤΑ ΑΠΟ ΛΟΙΜΩΞΗ ΑΝΑΠΝΕΥΣΤΙΚΟΥ ΤΑ ΑΥΤΙΑ ΕΙΝΑΙ ΓΙΑ ΚΑΙΡΟ&#13;
+ΒΟΥΛΩΜΕΝΑ 3</peculiar>
+        <intense>ΔΙΣΚΟΠΑΘΕΙΑ ΜΕ ΑΚΙΝΗΣΙΑ ΚΑΙ ΠΟΝΟ 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>MEDORINUM      NUX VOMIKA</remedies_differentiation>
+      <prescription>
+        <remedy>MEDORINUM</remedy>
+        <potency>1M</potency>
+        <regimen>1M ΑΠΑΞ&#13;
+200CH 1X3 ΓΙΑ ΜΙΑ ΕΒΔΟΜΑΔΑ</regimen>
+        <other_notes>ΥΠΕΡΚΙΝΗΤΙΚΟΣ ΕΞΩΣΤΡΕΦΗΣ ΕΠΙΚΟΙΝΩΝΙΑΚΟΣ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-06 16:00:00</followup_date>
+      <conv_med_presc>MEDORINUM</conv_med_presc>
+      <lab_tests>
+        <desc>ΛΕΥΚΑ=8300&#13;
+ΥΠΟΛΟΙΠΑ ΕΡΓΑΣΤΗΡΙΑΚΑ Κ.Φ.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΝΕΥΡΙΚΟΤΗΤΑ ΞΗΡΟΣΤΟΜΙΑ ΓΙΑ 1 ΗΜΕΡΑ</reaction>
+      <analysis>ΝΕΥΡΙΝΟΤΗΤΑ ΓΙΑ 1-2 ΗΜΕΡΕΣ ΚΑΙ ΜΕΤΑ ΣΤΑΔΙΑΚΑ ΜΕΓΑΛΥΤΕΡΗ ΗΡΕΜΙΑ ΑΠΟ ΠΡΙΝ</analysis>
+      <conclusion>Η ΑΤΟΠΙΚΗ ΔΕΡΜΑΤΙΤΙΔΑ ΕΞΑΦΑΝΙΣΤΗΚΕ ΕΝΤΕΛΩΣ&#13;
+Η ΕΝΤΑΣΗ ΚΑΙ Η ΝΕΥΡΙΚΟΤΗΤΑ ΕΚΑΝΑΝ ΤΗ ΕΜΦΑΝΙΣΗ ΤΟΥΣ&#13;
+ΠΙΟ ΑΡΑΙΑ ΚΑΙ ΜΕ ΜΙΚΡΟΤΕΡΗ ΕΝΤΑΣΗ&#13;
+ΥΠΗΡΧΕ ΣΑΦΗ ΒΕΛΤΙΩΣΗ ΤΗΣ ΔΙΣΚΟΠΑΘΕΙΑΣ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>MEDORINUM</remedy>
+        <potency>1M</potency>
+        <regimen>1M ΑΠΑΞ&#13;
+ΕΠΑΝΑΛΗΨΗ ΤΗΣ ΔΟΣΗΣ 1Μ ΜΕΤΑ ΑΠΟ  1 ΕΒΔΟΜΑΔΑ</regimen>
+        <other_notes>ΒΕΛΤΙΩΣΗ ΤΩΝ ΟΙΚΟΓΕΝΙΑΚΩΝ ΣΧΕΣΕΩΝ ΤΟΥ&#13;
+ΚΑΙ ΤΗΣ ΣΧΕΣΗΣ ΜΕ ΤΟΥΣ ΣΥΝΣΔΕΛΦΟΥΣ ΤΟΥ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

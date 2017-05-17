@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELc4ac9376975ff3dfaa70eb2b92a8f2d4</ID>
+  <patient>
+    <case_date>2016-02-22 17:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ν.Δ.</patient_initials>
+    <age>30</age>
+    <circumstances>ΑΝΥΠΑΝΤΡΗ&#13;
+ΕΡΓΑΖΕΤΑΙ ΩΣ ΝΟΣΗΛΕΥΤΡΙΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΚΕΦΑΛΑΛΓΙΕΣ</origin>
+        <causative_factors>ΚΛΗΡΟΝΟΜΙΚΟΤΗΤΑ ΑΠΟ ΤΟΝ ΠΑΤΕΡΑ ΤΗΣ&#13;
+</causative_factors>
+        <modalities>&gt; ΜΕΤΑ ΤΟ ΦΑΓΗΤΟ&#13;
+&gt; ΤΟ ΒΡΑΔΥ&#13;
+</modalities>
+        <occurrence_time>&gt; ΜΕΤΑ ΤΗ ΔΥΣΗ ΤΟΥ ΗΛΙΟΥ</occurrence_time>
+        <body_side>ΑΡΙΣΤΕΡΑ</body_side>
+        <appearence_frequency>2-3 ΦΟΡΕΣ ΤΟ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>ΔΙΑΞΙΦΙΣΤΙΚΟΣ ΠΟΝΟΚΕΦΑΛΟΣ ΠΑΝΩ ΑΚΡΙΒΩΣ ΑΠΟ ΤΟ ΑΡΙΣΤΕΡΟ ΜΑΤΙ</pain_desc>
+        <complaint_ext>Ο ΠΟΝΟΣ ΑΚΤΙΝΟΒΟΛΕΙ ΠΙΣΩ ΣΤΟ ΚΡΑΝΙΟ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>GLUCOPHAGE ΓΙΑ ΤΟ ΔΙΑΒΗΤΗ&#13;
+ΤΗYRORMONE ΓΙΑ ΤΟ ΘΥΡΕΟΕΙΔΗ ΤΗΣ&#13;
+ΜΕULID ΓΙΑ ΠΟΝΟΚΕΦΑΛΟΥΣ</conv_med_presc>
+        <lab_tests>
+          <desc>ΣΑΚΧΑΡΟ=121&#13;
+ΛΕΥΚΑ=9320&#13;
+ΤSH=0,38&#13;
+ΒΙΟΧΗΜΙΚΑ=Κ.Φ.&#13;
+Α.Υ.=142/83&#13;
+Η.Κ.Γ.=Κ.Φ.&#13;
+</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΑΡΚΕΤΑ ΑΝΤΙΒΙΩΤΙΚΑ,ΛΙΓΗ ΚΟΡΤΙΖΟΝΗ&#13;
+ΟΛΑ ΤΑ ΠΑΙΔΙΚΑ ΕΜΒΟΛΙΑ</therapies_vaccination>
+          <traumas>ΜΕΓΑΛΗ ΟΙΚΟΝΟΜΙΚΗ ΔΥΣΚΟΛΙΑ&#13;
+ΠΟΛΛΑ ΠΡΟΒΛΗΜΑΤΑ ΥΓΕΙΑΣ ΣΤΗΝ ΟΙΚΟΓΕΝΕΙΑ(ΠΟΛΥΤΕΚΝΗ)</traumas>
+          <infections>ΚΑΜΙΑ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΑΝΑ=Α.Υ. ΘΥΡΕΟΕΙΔΗ, ΥΠΕΡΒΑΡΗ&#13;
+ΠΑΤΕΡΑΣ =Α.Υ. ΥΠΕΡΒΑΡΟΣ,ΥΠΕΡΧΟΛΗΣΤΕΡΙΝΑΙΜΙΑ,Σ.Δ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΥΑΙΣΘΗΤΗ&#13;
+ΚΛΕΙΣΤΗ ΣΤΟΝ ΕΑΥΤΟ ΤΗΣ&#13;
+ΔΕΝ ΕΚΦΡΑΖΕΙ ΤΑ ΣΥΝΑΙΣΘΗΜΑΤΑ ΤΗΣ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΥΠΕΡΒΑΡΗ ,ΜΕΓΑΛΟ ΠΡΟΒΛΗΜΑ ΟΡΑΣΗΣ(ΚΕΡΑΤΟΚΩΝΟ)&#13;
+ΥΠΟΘΥΡΕΟΕΙΔΙΣΜΟΣ,&#13;
+ΠΛΑΤΥΠΟΔΙΑ</personal_medical_history>
+        <family_medical_history>ΕΝΑΣ ΑΔΕΛΦΟΣ ΤΗΣ ΕΧΕΙ ΕΠΙΣΗΣ ΠΡΟΒΛΗΜΑΤΑ ΟΡΑΣΗΣ&#13;
+ΠΑΤΕΡΑΣ =ΔΙΑΒΗΤΗ&#13;
+ΜΑΝΑ=ΘΥΡΕΟΕΙΔΗ&#13;
+</family_medical_history>
+        <level_of_health>9</level_of_health>
+        <conclusion>ΣΧΕΤΙΚΑ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΜΕ ΚΑΛΗ ΠΡΟΓΝΩΣΗ&#13;
+ΤΟ ΚΕΡΑΤΟΚΩΝΟ ΟΜΩΣ ΕΔΩ ΚΑΙ 7 ΧΡΟΝΙΑ ΧΕΙΡΟΤΕΡΕΥΕΙ&#13;
+ΣΤΑΔΙΑΚΑ ΚΑΘΕ ΧΡΟΝΟ </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΛΕΥΚΟΡΟΙΑ ΑΝΑΜΕΣΑ ΣΤΙΣ ΠΕΡΙΟΔΟΥΣ 2&#13;
+ΠΟΝΟΚΕΦΑΛΟΣ ΑΡΙΣΤΕΡΑ 2&#13;
+</peculiar>
+        <intense>Η ΚΕΦΑΛΑΛΓΙΑ 2     ΚΡΑΤΑ ΚΑΙ 8 ΩΡΕΣ&#13;
+ΚΛΑΕΙ ΧΩΡΙΣ ΝΑΞΕΡΕΙ ΓΙΑΤΙ 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>SEPIA       NATRIUM UREATICUM</remedies_differentiation>
+      <prescription>
+        <remedy>SEPIA</remedy>
+        <potency>200 CH</potency>
+        <regimen>1X2 ΓΙΑ  2 ΜΗΝΕΣ</regimen>
+        <other_notes>ΜΑΛΛΟΝ ΕΧΕΙ ΟΜΟΦΥΛΟΦΥΛΙΚΕΣ ΠΡΟΤΙΜΙΣΕΙΣ ΣΤΟ SEX</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-22 16:00:00</followup_date>
+      <conv_med_presc>GLUCOPHAGE ΣΕ ΜΙΚΡΟΤΕΡΗ ΔΟΣΟΛΟΓΙΑ (ΚΑΙ ΛΟΓΩ ΤΙΣ ΑΠΩΛΕΙΑΣ &#13;
+ΠΟΛΛΩΝ ΚΙΛΩΝ)&#13;
+ΤΗΥRORMONE ΣΥΝΕΧΙΖΕΙ ΑΛΛΑ ΜΕ ΚΑΛΥΤΕΡΗ ΡΥΘΜΙΣΗ ΤΟΥ&#13;
+ΘΥΡΕΟΕΙΔΟΥΣ&#13;
+ΑΙΣΘΗΤΑ ΛΙΓΟΤΕΡΑ ΠΑΥΣΙΠΟΝΑ ΓΙΑ ΤΟΥΣ ΠΟΝΟΚΕΦΑΛΟΥΣ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΓΙΑ ΜΙΑ ΕΒΔΟΜΑΔΑ ΣΑ ΝΑ ΚΡΥΩΝΕ ΛΙΓΟ ΠΙΟ ΠΟΛΥ&#13;
+ΛΙΓΟ ΠΙΟ ΕΥΑΙΣΘΗΤΗ ΓΙΑ ΠΕΡΙΠΟΥ 10 ΗΜΕΡΕΣ</reaction>
+      <analysis>ΠΙΟ ΣΥΧΝΟ ΚΛΑΜΑ ΤΙΣ ΠΡΩΤΕΣ 10 ΗΜΕΡΕΣ</analysis>
+      <conclusion>ΜΕ ΤΗ ΒΟΗΘΕΙΑ ΚΑΙ ΔΙΑΤΡΟΦΟΛΟΓΟΥ ΕΧΑΣΕ 18 ΚΙΛΑ&#13;
+ΤΟ ΠΡΩΙΝΟ ΣΑΚΧΑΡΟ ΤΗΣ ΕΙΝΑΙ 91&#13;
+ΟΙ ΜΕΤΑΠΤΩΣΕΙΣ ΣΤΗ ΔΙΑΘΕΣΗ ΕΙΝΑΙ ΠΙΟ ΛΙΓΕΣ &#13;
+ΚΑΙ ΜΙΚΡΟΤΕΡΗΣ ΔΙΑΡΚΕΙΑΣ&#13;
+</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>SEPIA</remedy>
+        <potency>30 CH</potency>
+        <regimen>1X3 ΓΙΑ 30 ΗΜΕΡΕΣ</regimen>
+        <other_notes>ΞΑΝΑ ΑΡΧΙΣΕ ΣΙΓΑ ΣΙΓΑ ΤΟΝ ΑΓΑΠΗΜΕΝΟ ΤΗΣ ΧΟΡΟ&#13;
+ΠΟΥ ΤΟΝ ΕΙΧΕ ΣΤΑΜΑΤΗΣΕΙ ΕΔΩ ΚΑΙ 14 ΧΡΟΝΙΑ&#13;
+ΕΙΝΑΙ ΛΙΓΟΤΕΡΟ ΚΛΕΙΣΤΗ ΚΑΙ ΕΥΑΙΣΘΗΤΗ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

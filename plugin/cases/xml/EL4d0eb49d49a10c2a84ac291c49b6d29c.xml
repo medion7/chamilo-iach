@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4d0eb49d49a10c2a84ac291c49b6d29c</ID>
+  <patient>
+    <case_date>2015-08-02 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Δ.Κ.</patient_initials>
+    <age>46</age>
+    <circumstances>αγαμη, &#13;
+1,58εκ&#13;
+58 κιλα&#13;
+γιατρος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αρχισε να σφιγγει τα δοντια απο 10ετίας μετά θάνατο μητερας &#13;
+αλγος μαστοειδους αριστερά με αντανακλαση σε αυχένα και αρ μάτι</origin>
+        <causative_factors>μετά θανατο μητερας&#13;
+οταν πεθανε η μητερα μου οχρόνος δεν ηταν γιατρος για μενα&#13;
+</causative_factors>
+        <modalities>πόνος διαφιφιστικός, οξύς, &#13;
+&lt;στρες&#13;
+&lt;ξενυχτι&#13;
+&lt;μιλαει πολυ&#13;
+&lt;κρυο&#13;
+&lt;λουστεί και βγει έξω&#13;
+&gt;ζεστη&#13;
+&gt;διακοπες</modalities>
+        <occurrence_time>&gt;διακοπες&#13;
+&gt;ζεστη&#13;
+&lt;ηλιο</occurrence_time>
+        <body_side>αριστερα</body_side>
+        <appearence_frequency>σχεδον καθημερινος</appearence_frequency>
+        <pain_desc>οξυς διαξιφιστικός</pain_desc>
+        <complaint_ext>αλγος μαστοειδους με αντανακλαση σε αυχενα και αρ ματι</complaint_ext>
+        <other_complaints>ωτιτιδα και 5ετής θεραπεια με αντιβιωση</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ουδεμια</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παιδικοι εμβολιασμοι</therapies_vaccination>
+          <traumas>θανατος μητερας </traumas>
+          <infections>ερυθρα σε ηλικια 35 ετων</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>μητερα πεθανε απο καρκινο μαστου σε ηλικία 60 ετων&#13;
+αδερφη μητερας και αδερφη πατερα εχουν καρκινο μαστου&#13;
+γιαγια καρκινος στομαχου</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει (2)&#13;
+αντεχει τα σφιχτα</reactions>
+        <sleeping_habits>υπνος κφ&#13;
+με ξεκουραζει&#13;
+χρειαζομαι 5-6 ωρες υπνου και ειμαι καλα&#13;
+προφητικα ονειρα (1)</sleeping_habits>
+        <food_modalities>επιθυμει γαλα (3), αυγα (1) σοκολατες (3) τυρια (3)&#13;
+απεχθανεται το λιπος (3)</food_modalities>
+        <menstruation>διαρκει 4 μερες με πολυ αιμα και πηγματα.&#13;
+δεν ειναι σταθερη&#13;
+εντονο αλγος καθ ολη τη διαρκεια της που σχεδον την καθηλωνει</menstruation>
+      </physical>
+      <mental_emotional>στην προσωπικη μου ζωη μ εχει επηρεασει πολυ ο θανατος της μητερας μου. δεν προχωραει η σχεση μου γιατι δεν εχω καλη διαθεση&#13;
+δεν κλαιω, ουτε στο θανατο εκλαψα&#13;
+κομπος στο λαιμο? οχι&#13;
+αναστεναζεις? οχι&#13;
+δεν το εχω αποδεχτει οτι πεθανε&#13;
+διαθεση 6/10&#13;
+κοινωνικη (3) κανω ευκολα παρεες, βοηθάω τόσο τους αλλους που δεν εχω χρονο για τον εαυτο μου&#13;
+συμπασχει (3) ευαισθητη (2)&#13;
+η καρδια της παρεας αλλα και μοναχικη&#13;
+πολυ αισιοδοξη (3) και να καταρρεουν τα παντα γυρω μου εγω θα βρω μια σπιθα να πιαστω&#13;
+αποφασιστικη (3)&#13;
+αγαπαω πολυ τα ζωα και τα παιδια&#13;
+θα επεμβω αν καποιος εχει δικιο και δεν υπερασπιστει τον εαυτο του&#13;
+δυσκολα λεω τα προσωπικα μου (3)&#13;
+&lt;παρηγορια (2)&#13;
+υψοφοβια (2)&#13;
+φοβος για τις αδερφες μου (2)&#13;
+δραστηρια (2)&#13;
+θελω να εξελιχθω παντου&#13;
+αγαπαω πολυ τους ανθρωπους &#13;
+χαρουμενος τυπος (2)&#13;
+εχω πολλους φιλους που δεν προλαβαινω να τους δω&#13;
+λεω τις στεναχωριες μου σαν να προκειται για καποιον αλλον&#13;
+δεν θυμωνω ευκολα κι οταν θυμωνω δεν μπορω να εκφρασω ευκολα το θυμο μου&#13;
+εκανα ψυχοθεραπεια 2 χρονια&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>γερη ιδιοσυγκρασια, χρειαζεται λιγες ωρες υπνου, κοινωνικη, αισιοδοξη</personal_medical_history>
+        <family_medical_history>επιβεβαρυμενο οινογενειακο ιστορικο</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>καλη προγνωση</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>αλγος μαστοειδούς αρ με αντανακλαση σε αυχενα και αρ ματι (3)&#13;
+&lt;λουσιμο&#13;
+&lt;ξενυχτι&#13;
+&gt;διακοπες&#13;
+ωτιτιδες επι 5ετία (2)</peculiar>
+        <intense>αλγος μαστοειδους (3)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>teeth grinding 3&#13;
+ear pain extending parotid gland and mastoid process to 2&#13;
+generalities food and drink milk desire 3&#13;
+                                         eggs desire 1&#13;
+                                         fat aversion 2&#13;
+mind communicative 3&#13;
+sleep dreams prophetic 1&#13;
+mind animals love for animals 1&#13;
+generalities food and drinks chocolate desire 2&#13;
+                                          cheese desire 3&#13;
+mind injustice cannot support 2&#13;
+mind fastidious 2&#13;
+mind fear high places of 1&#13;
+mind affectionate 2&#13;
+head washing head agg 2&#13;
+mind pleasing desire to please othters 3&#13;
+generalities beathing head warm bath of amel 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Phosphorus&#13;
+Carcinocin&#13;
+Παρα το οτι το compass δινει πρωτο φαρμακο το Phosphorus, το κληρονομικο ιστορικο και το ατομικο ιστορικο (παιδικες ασθενειες σε μεγαλη ηλικια) της ασθενους καθως και το ailments from grief μας προσανατολιζουν προς το Carcinocin. </remedies_differentiation>
+      <prescription>
+        <remedy>carcinocin</remedy>
+        <potency>1M 200 ch</potency>
+        <regimen>εφ απαξ</regimen>
+        <other_notes>επανελεγχος σε 50 μερες περιπου</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>dostinex (για αδενωμα υπόφυσης) διαγνωσθεν προ 40ημέρου&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>υψηλα ποσοστα προλακτινης</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δεν κρυωνω καθολου&#13;
+πινω κρυο νερο που δεν επινα&#13;
+&gt; πονος&#13;
+αρχισε ομως μετωπιαιος πόνος &#13;
+δε σφιγγει τα δοντια&#13;
+εκοψα και τον καφε χωρις να νυσταζω&#13;
+απο την πρωτη μερα ενιωσα καλυτερα&#13;
+την πρωτη εβδομαδα καταβολη, υπνηλια, αυξηση ορεξης&#13;
+διαταραχες κύκλου (προλακτινωμα)&#13;
+μειωθηκαν και τα ονειρα</reaction>
+      <analysis>αρχικη επειδεινωση. σωστο φαρμακο&#13;
+αναμονη</analysis>
+      <conclusion>αναμονη, παρ ολα αυτα παιρνει ανταγωνιστες ντοπαμινης για το προλακτινωμα</conclusion>
+      <repertorization>
+        <desc>αναμονη</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδεν</remedy>
+        <potency>οχι</potency>
+        <regimen>ουδεμια</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>dostinex (ανταγνωιστης ντοπαμινης)&#13;
+επανελεγχος μετα 60 μερες</conv_med_presc>
+      <lab_tests>
+        <desc>πτωση επιπεδων προλακτινης</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>μειωση επιθυμιας για σοκολατα&#13;
+εχει αρχισει να αποδεχεται το θανατο της μητερας της&#13;
+Ε.Ρ. σταθερη τον τελευταιο μηνα χωρις πηγματα και πονο&#13;
+λοιπα αμεταβλητα&#13;
+</reaction>
+      <analysis>αναμονη, δεν ειναι θεμιτο να επεμβουμε στην ορμονοθεραπεια και σε καμια θεραπεια  εφ οσον η ασθενης ειναι καλυτερα.</analysis>
+      <conclusion>αναμονη κι επανελεγχος σε 40μερες</conclusion>
+      <repertorization>
+        <desc>αναμονη</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

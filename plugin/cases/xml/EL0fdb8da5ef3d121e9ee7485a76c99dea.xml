@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL0fdb8da5ef3d121e9ee7485a76c99dea</ID>
+  <patient>
+    <case_date>2014-11-20 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Τ.Π</patient_initials>
+    <age>0</age>
+    <circumstances>Εγγαμος Συνταξιούχος εκπαιδευτικός Τρία παιδιά Μέτριο ανάστημα ,φυσιολογικό βάρος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ο ίλιγγος εμφανίσθηκε προ τριετίας  ξαφνικά χωρίς προηγούμενο ιστορικό</origin>
+        <causative_factors>πιθανόςο τραυματισμός σε τροχαίο προ δεκαετίας με εγκεφαλική διάσειση να δημιούργησε αυχενικό συνδρομο και σε αυτό να αποδίδεται ο ίλιγγος</causative_factors>
+        <modalities>Η κατάκληση στην δεξιά  πλάγια θέση επιδεινώνει</modalities>
+        <occurrence_time>Τις πρωινές ώρες είναι καλύτερα</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>Μία με δύο φορές το μήνα</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Αυχεναλγία λαμβάνει κάποιες φορές αντιφλεγμονώδη  Ρινορραγίες μέχρι  δώδεκα ετών με έναρξη  από ηλικίας πέντε ετών</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ιλιγγος θέσεως, αυχεναλγία απο τριετίας υποτροπιάζοντα επεισόδια</conv_med_presc>
+        <lab_tests>
+          <desc>_</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Νέα ασθενής στην ομοιοπαθητική</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Πολλά αντιβιωτικά λόγω αμυγδαλίτιδων και Ρ.Π</therapies_vaccination>
+          <traumas>_</traumas>
+          <infections>_</infections>
+          <other>Δέν θυμάται να έχει κάνει υψηλό  πυρετό από  παιδί</other>
+        </personal>
+        <family>
+          <diseases>Η μαμά ενενήντα χρονών με γεροντική άνοια Ο πατέρας πέθανε από καρκίνο του εντέρου εβδομήντα χρονών Δεν έχει αδέρφια</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει ++ ιδρώτας κ.φ</reactions>
+        <sleeping_habits>Κοιμάται καλύτερα δεξιά όταν δεν έχει ίλιγγο</sleeping_habits>
+        <food_modalities>Επιθυμεί παγωτό +++ γλυκά++ διψά πολύ για κρύο νερό+++ φοβάται το σκοτάδι++ και τα φαντάσματα+ </food_modalities>
+        <menstruation>Εμμηνόπαυση σε ήλικία πενήντα ετών</menstruation>
+      </physical>
+      <mental_emotional>Συμπάσχει++ ανοιχτή επικοινωνιακή++ δεν εχει πολλά νεύρα φοβάται γιά αρρώστιες++</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Ηασθενής αν και δεν έχει κάποια σοβαρή παθολογία(έχει κάνει όλο τον έλεγχο ζει συνεχώς με τον φόβο της επόμενης κρίσης</personal_medical_history>
+        <family_medical_history>Η κληρονομικότητα είναι βεβαρημένη μόνο απο τον πατέρα της .Κάνει συχνούς κολονοσκοπήσεις</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>ΛΌΓΩ ΈΛΛΕΙΨΗς ΠΥΡΕΤΟΥ ΚΑΙ ΚΛΗΡΟΝΟΜΙΚΉς ΕΠΙΒΆΡΥΝΣΗς ΜΕ CA εντέρου το επίπεδο υγείας της δεν είναι πολύ υψηλό</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ο φόβος στο σκοτάδι σε ένα ενήλικα και στα φαντάσματα καθώς και ο ίλιγγος δτην δεξιά λάγια θέση είναι στοιχεία  PHOSPH</peculiar>
+        <intense>Ιλιγγος στη στροφή δεξιά+++αγάπη στα παγωτά+++ δίψα+++ κρυώνει++ φόβος στο σκοτάδι++ συμπάσχει++φόβος ασθενειών++ φοβάται τα φαντάσματα+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Vertigo  lying side right+++ vertigo fall tendency to right+++ generalities food and drinkw ice-cream des+++  stomach thirst+++ fear of darkness++  sympathetic++ generalities cold agg++ fear ghosts+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>H διαφορική διαγνωση θα γίνει μεταξύ PHOSP και CALC-CARB και οι δύο έχουν φόβους και αγάπούν τα γλυκά λλά  ο PHOSPH έχει αγάπη κυρίως στα παγωτά επειδή ειναι παγωμένο  και έχει το χαρακτηριστικό του ιλίγγου στην δεξιά πλάγια θέση</remedies_differentiation>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>200ch 1M</potency>
+        <regimen>200CH το πρωί και 1Μ τοβράδυ</regimen>
+        <other_notes>_</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-17 08:00:00</followup_date>
+      <conv_med_presc>_</conv_med_presc>
+      <lab_tests>
+        <desc>_</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τίς πρώτες δύο μέρες εμφάνισε έντονη επιδείνωση του ιλίγγου με συνοδό αυχεναλγία Την τρίτη έως και την πέμπτη μέρα αισθανόταν το ίδιο όπως πάντα Από την έκτη μέρα ένοιωσε βελτιωμένη Μπόρεσε να κοιμηθεί και στην δεξιά πλάγια θέση χωρίς να ζαλιστεί Εκτοτε αισθάνεται καλύτερα</reaction>
+      <analysis>Η βελτίωση μετά απο μικρής διάρκειας επιδεινωση δείχνει καλή αντίδραση στο φάρμακο και ίσως υψηλότερο επίπεδο υγείας</analysis>
+      <conclusion>Το φάρμακο είναι το σωστό Ηασθενής θα πάρει  placebo  για να αισθάνεται ασφάλεια με το φάρμακό της</conclusion>
+      <repertorization>
+        <desc>Δεν χρειάστηκε</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>POSPHORUS</remedy>
+        <potency>6X 60 CAPS</potency>
+        <regimen>μία κάθε πρωί</regimen>
+        <other_notes>θα επανεκτιμηθεί σε δύο μήνες</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-05-11 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πολύ καλή ανταπόκριση </reaction>
+      <analysis>ίαση</analysis>
+      <conclusion>Ηασθενής είνα πλέον καλά</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Επικοινωνια τηλεφωνική σε περίπτωση ανάγκης</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL49c2cb5d4980919b34ca636a32718be2</ID>
+  <patient>
+    <case_date>2014-03-28 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α. Γ</patient_initials>
+    <age>40</age>
+    <circumstances>Παντρεμένη με ένα γιο, ηλικίας 6 χρόνων. &#13;
+Επάγγελμα: φυσικός, καθηγήτρια (φροντιστήριο και ιδιαίτερα μαθήματα-πολλές ώρες εργασίας καθημερινά)</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ψωρίαση από 4ετίας σε πολύ αγχώδες άτομο&#13;
+Φοβίες που τελευταία έχουν επιδεινωθεί&#13;
+Διαταραχές εμμήνου ρύσεως - πολυκυστικές ωοθήκες από την εφηβεία&#13;
+Οσφυαλγία από 3μήνου</origin>
+        <causative_factors>Άγχώδες άτομο με πολλές υποχρεώσεις στην καθημερινότητα λόγω εργασίας και οικογένειας που επιτείνουν το άγχος της.&#13;
+Πριν το πρώτο και μοναδικό της παιδί είχε μια εγκυμοσύνη που διαπιστώθηκε καρδιοπάθεια στο έμβρυο (τετραλογία fallot), δεν ήθελε να κρατήσει το άρρωστο παιδί και έγινε προκλητός τοκετός στον 5ο μήνα κύησης. Γέννησε φυσιολογικά, το παιδί ήταν νεκρό (έκτρωση) και αυτό ήταν ένα γεγονός που τη στενοχώρησε πολύ.</causative_factors>
+        <modalities>&lt;άγχος(3), κούραση(3), κρύο, υγρασία (βροχερός καιρός)(2), αέρας(2)&#13;
+&gt;ζέστη(1), καλοκαίρι, θάλασσα(2)</modalities>
+        <occurrence_time>&lt;χειμώνας&#13;
+&gt;καλοκαίρι&#13;
+</occurrence_time>
+        <body_side>δεν υπάρχει προτίμηση, οι δερματικές βλάβες είναι συμμετρικές και αμφοτερόπλευρες</body_side>
+        <appearence_frequency>Σταθερές εξάρσεις το χειμώνα τα τελευταία χρόνια.Το καλοκαίρι που ξεκουράζεται, με τη ζέστη και τη θάλασσα είναι καλύτερα</appearence_frequency>
+        <pain_desc>Οσφυαλγία χαμηλά από 3μήνου, &lt;κατάκλιση, &lt;ορθοστασία, &gt;μετακίνηση στο κρεββάτι</pain_desc>
+        <complaint_ext>Οσφυαλγία που επεκτείνεται και προς τα ισχία (και τις 2 πλευρές) &lt; βράδυ, κατάκλιση, ορθοστασία</complaint_ext>
+        <other_complaints>Αναφέρθηκαν&#13;
+Ψωρίαση&#13;
+Οσφυαλγία&#13;
+Πολυκυστικές ωοθήκες, διαταραχές εμμήνου ρύσεως</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ψωρίαση από 4ετίας με υφέσεις και εξάρσεις &lt;δάχτυλα ποδιών-χεριών, τριχωτό κεφαλής, πίσω από τα αυτιά, έχει πάρει τοπική αγωγή με διάφορες κορτιζονούχες κρέμες&#13;
+Πολυκυστικές ωοθήκες-διαταραχές εμμήνου ρύσεως από την εφηβεία&#13;
+Οσφυαλγία από 3μήνου&#13;
+Φοβίες</conv_med_presc>
+        <lab_tests>
+          <desc>Αναφέρεται αιματολογικός έλεγχος: φυσιολογικός</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>όχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Στην παιδική ηλικία έκανε όλα τα προβλεπόμενα εμβόλια&#13;
+1-2 φορές το χρόνο λαμβάνει αντιβίωση (έχει τάση να κρυολογεί εύκολα το χειμώνα, το αποδίδει στο ότι έχει πολλούς μαθητές λόγω της δουλειάς της )&#13;
+Κρέμες με κορτιζόνη στις ψωριασικές βλάβες</therapies_vaccination>
+          <traumas>1η εγκυμοσύνη που αναφέρθηκε (έμβρυο με καρδιοπάθεια που το απέβαλλε προκλητά)&#13;
+Δύσκολες σχέσεις με τους γονείς της που είναι καταπιεστικοί. Μένει στο πατρικό της σπίτι ως παντρεμένη (διαφορετικό διαμέρισμα) και η μητέρα της τη βοηθάει με το παιδί αλλά έχουν συχνά συγκρούσεις και διαφωνίες</traumas>
+          <infections>Αμυγδαλίτιδες? όχι επιβεβαιωμένες (οι παθολόγοι που την εξέταζαν χορηγούσαν αντιβίωση 1-2 φορές το χρόνο)</infections>
+          <other>αναφέρθηκαν</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας,67χρ απεβίωσε πρόσφατα λόγω καρκινου εντέρου, μεταστάσεις</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt;κρύο(2), βροχερός καιρός(2), αέρας(1)&#13;
+&gt;ζέστη (2), θάλασσα (1)&#13;
+Κρυώνει (3)&#13;
+Ιδρώτας &lt;παλάμες(3), πέλματα (2)</reactions>
+        <sleeping_habits>Κοιμάται εύκολα (είναι κουρασμένη και την παίρνει εύκολα ο ύπνος). &gt;σκεπασμένη (2). Θέση: πλάγια (2). Τελευταία, κάνει ανήσυχο ύπνο, ξυπνάει συχνά μετά τις 12π.μ λόγω οσφυαλγίας που την αναγκάζει να κινείται στο κρεβάτι. Όνειρα δεν θυμάται. Ξυπνάει κάπως κουρασμένη(1)</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ: μακαρόνια (3), ψάρι (2), σοκολάτα (2), φρούτα (όχι άγουρα) (1), λίπος (2)&#13;
+ΔΕΝ ΕΠΙΘΥΜΕΙ: κρέας (1), μελάτα αυγά (3), οστρακοειδή (3)&#13;
+Νερό κανονικά, όχι κρύο</food_modalities>
+        <menstruation>Κανονική έναρξη 13 χρόνων, έχει διαταραχές κύκλου από την εφηβεία (αραιομηνόρροια), κύστεις ωοθήκης- το πρόβλημα δεν έφτιαξε με την εγκυμοσύνη.&#13;
+Ροή κανονική 4-5 ημέρες&#13;
+Προεμμηνορυσιακό όχι</menstruation>
+      </physical>
+      <mental_emotional>αγχώδης (3), μανία καθαριότητας (κάθε μέρα καθαρίζει και δεν πάει να κοιμηθεί όσο κουρασμένη κι αν είναι αν δεν είναι όλα τακτοποιημένα (3), τακτική (4), οικονομικό άγχος (3), φοβάται το σκοτάδι, δεν βγαίνει ποτέ έξω μόνη της τη νύχτα (3), φοβάται για την υγεία του παιδιού (2) και τη δική της (3), φοβάται τους κλέφτες (είχαν μπει κλέφτες στο σπίτι της όταν ήταν νιόπαντρη και της πήραν όλα τα χρυσαφικά) (3), φοβάται το θάνατο (2), είναι υπερευαίσθητη στην κριτική (3), &lt;παρηγοριά, τη θυμώνει (3), είναι κριτική με τους άλλους(2), σιχαίνεται (1), της αρέσει η μουσική (όχι έντονη)(2) και ο χορός (2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Αγχώδες άτομο με πολλούς φόβους υγείας, οικονομικών, και γενικά ψυχοδιανοητικά θέματα που οδήγησαν σε παθολογία από το δέρμα κατά βάση (ψωρίαση). Έχει ορμονικά προβλήματα και κύστεις ωοθήκης. Οσφυαλγία λόγω κούρασης με νυχτερινή ανησυχία.</personal_medical_history>
+        <family_medical_history>Πατέρας με καρκίνο</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Άτομο πολύ αγχώδες και με προβλήματα ψωρίασης, ακόμα είναι σε σχετικά ψηλό επίπεδο υγείας παρά τις κατασταλτικές θεραπείες (κορτιζονούχες κρέμες, αντιβιοτικά) και από το σχετικά καθαρό ιστορικό της ασθενούς.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>mind-cleanness-mania for (3)&#13;
+mind-fear-walking-in the dark (3)</peculiar>
+        <intense>mind-anxiety (3), mind-fastidious (4), mind-anxiety Health about (3), mind-fear walking in the dark (3), mind-fear robbers (3), mind-anxiety-money matters about (3), extremities-perspiration hand-palm (3), extremities-perspiration foot-sole (2), generalities-oysters aversion (3), chill, coldness in general (3), ear-eruptions-eczema (3), extremities-distorted nails (2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Mind-anxiety (3), mind-cleanness-mania for (3), mind-fastidious (4), mind-anxiety-money matters, about (3), mind-fear-walking-in the dark (3), mind-anxiety-children about his (2), mind-anxiety-health about (3), mind-fear robbers (3), mind-fear-death (2), mind-sensitive, oversensitive-criticism (3), mind-anger, irascibility-consolled, when (3), mind-censorious, critical (2), mind-disgust (1),mind-introseption (2) mind-music ameliorates (2), mind-dancing-ameliorates (2), extremities-perspiration-hand-palm (3), extremities-perspiration-foot-sole (2), genitalia-female-tumors-ovarian cysts (2), extremities-nails-exfoliation (2), extremities-distorted nails (2), extremities-suppuration- fingers-nails (2), extremities-suppuration-toe, under nail of left great toe (1), back pain-move-compelling to, constantly in bed (1), back pain-standing-aggravates (2), generalities-food and drinks-pasta desire (3), fish desire (2), chocolate desire (2), fruit desire (1), meat aversion (1), fat aversion (2), eggs-aversion-soft boiled (3), oysters aversion (3), sleep-restless-pain in limbs (1), generalities-weather-rain-aggravates (2), generalities-air-open-aversion to (2), sleep position-side,on (2), head-coldness, chilliness-covered ameliorates (2), chill, coldness in general (3), head-eruption-suppurating (1), head eruption-eczema (2), ear-eruptions-excoriating (2), ear-eruptions-eczema (3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Arsenicum album (έχει πολλά key notes του φαρμάκου)&#13;
+Calcarea carbonica (έχει κάποια στοιχεία, αλλά καθόλου ένδειξη)&#13;
+Natrum muriaticum (εσωστρεφής, θυμώνει όταν την παρηγορούν αλλά δεν έχει στοιχεία υπέρ του φαρμάκου)&#13;
+Silicea (κρυώνει, ιδρώνει στις παλάμες και τα πέλματα, αλλά δεν έχει δυσκοιλιότητα και λείπουν σημαντικά key-notes του φαρμάκου)</remedies_differentiation>
+      <prescription>
+        <remedy>Arsenicum album</remedy>
+        <potency>200 CH, 1 M</potency>
+        <regimen>Arsenicum album 200 CH την πρώτη μέρα&#13;
+Arsenicum album 1 M τη δεύτερη μέρα</regimen>
+        <other_notes>Σοβαρές φοβίες, έντονη ψωρίαση, καθαρό φάρμακο λόγω της ψυχοδιανοητικής εικόνας</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-01-15 08:00:00</followup_date>
+      <conv_med_presc>όχι. Βάζει περιστασιακά κάποιες κρέμες για την ψωρίαση.</conv_med_presc>
+      <lab_tests>
+        <desc>όχι</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Παρουσίασε αρχική επιδείνωση, ήταν λιώμα για λίγες ημέρες, με πολύ κούραση και ανάγκη για ύπνο. Σταδιακά παρουσίασε μεγάλη βελτίωση με το άγχος και τις φοβίες της, έγινε πιο ανοιχτή και αποφάσισε να το ρίχνει και πιο πολύ έξω, ακόμη να ασχοληθεί πιο εποικοδομητικά με το παιδί της (βόλτες τα Σαβ/κα και λίγο παιχνίδι). Εξακολουθεί να καθαρίζει και να τακτοποιεί το σπίτι, καμμία σχέση όμως δεν έχει με την παλιά κατάστασή της. Είναι πολύ πιο χαλαρή. Η ασφυαλγία της έχει περάσει (πέρασε από τον πρώτο μήνα). Η ψωρίαση έχει σημαντική βελτίωση, εξακολουθεί να έχει βλάβες δερματικές αλλά πολύ καλύτερα και τα δάχτυλα και το κεφάλι της. Η περίοδος της είναι πάνω-κάτω τα ίδια. Δεν έκανε έλεγχο για το θέμα με τις κύστεις ωοθηκών. Πολύ καλύτερα γενικά ψυχικά και ως ενέργεια.</reaction>
+      <analysis>Πολύ καλή αντίδραση με αρχική επιδείνωση και σταθερή βελτίωση σε βάθος χρόνου. Σωστό φάρμακο.</analysis>
+      <conclusion>Προς το παρόν δεν χρειάζεται φάρμακο, είχε πολύ καλή αντίδραση και χωρίς υποτροπές.</conclusion>
+      <repertorization>
+        <desc>όχι</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>όχι</remedy>
+        <potency>όχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>Παρά τα πολλά προβλήματα πολύ καλή αντίδραση με ένα μόνο φάρμακο, άρα υψηλό επίπεδο υγείας.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

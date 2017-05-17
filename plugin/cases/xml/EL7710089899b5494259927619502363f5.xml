@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL7710089899b5494259927619502363f5</ID>
+  <patient>
+    <case_date>2011-12-02 19:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ηκ</patient_initials>
+    <age>41</age>
+    <circumstances>ανυπαντροσ,δυο αδελφια,οικοδομοσ&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>1.τρισμο:το εχει απο μικροσ.το θυμαται παντα.&#13;
+2.τρεμουλο:απο μικροσ.οταν νευριαζω.οταν αγχωνομαι.&#13;
+3.αγχοσ&#13;
+</origin>
+        <causative_factors>1.κληρονομικοτητα.&#13;
+ο ασθενησ αναφερει οτι το τρεμουλο παρατηρειται κ στον πατερα κ στον αδελφο.&#13;
+2.αγχος&#13;
+οταν αγχωνεται εχει τρεμουλο στα χερια.κυριωσ.</causative_factors>
+        <modalities>1.τρισμοσ:&#13;
+χειροτερευει οταν νευριαζω,σηκωνω βαρη,αγχοσ&#13;
+2.τρεμουλο:&#13;
+οταν αγχωνομαι θελω να μεινω μονοσ μου,για λιγο.θελω παρεα φιλων για να ξεχνιεμαι.&#13;
+οχι παρηγορια αλλων,αλλα την παρεα τουσ</modalities>
+        <occurrence_time>ο τρισμοσ κ το τρεμουλο χειροτερευουν οταν αγχωνομαι κ στεναχωριεμαι.</occurrence_time>
+        <body_side>δεν υπαρχει</body_side>
+        <appearence_frequency>μπορει κ καθε μερα αναλογα με τισ συνθηκεσ.</appearence_frequency>
+        <pain_desc>πονοσ στισ κγδ  κ στουσ κροταφους το πρωι που ξυπναει.</pain_desc>
+        <complaint_ext>το τρεμουλο ειναι σε ολο το σωμα.&#13;
+ο πονοσ απο τον τρισμο απο τισ κγδ επεκτεινεται στουσ κροταφουσ αμφοτεροπλευρα.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>δεν υπαρχει συνταγογραφηση</conv_med_presc>
+        <lab_tests>
+          <desc>δεν υπαρχουν</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>δεν υπαρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παιδικοι εμβολιασμοι.</therapies_vaccination>
+          <traumas>δεν υπαρχει</traumas>
+          <infections>δεν υπαρχει</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας ασθενους:&#13;
+1.αλλεργια στην σφηκα&#13;
+2.πιεση&#13;
+3.χοληστερινη&#13;
+4.γοπ&#13;
+μητερα ασθενους:&#13;
+1.πιεση&#13;
+2.αλλεργια στην γυρη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταινομαι κ ιδρωνω πολυ.&#13;
+</reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities>αλατι4+&#13;
+γλυκα4&#13;
+παγωμενο νερο4+(κ τον χειμωνα)&#13;
+ψαρι3&#13;
+πικαντικα&#13;
+τηγανιτεσ πατατες&#13;
+αυγα,οταν ηταν παιδι οχι τωρα</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>1.κλειστο ατομο κ πολυ συναισθηματικο,δεμ εκδηλωνεται&#13;
+2.του αρεσει η παρεα &#13;
+3.δεν θελει παρηγορια&#13;
+4.αγχοσ υγειασ για την οικογενεια του&#13;
+5.κλαιει ευκολα κ με το προβλημα του αλλου.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>πονο στην μεση,λογω δοιλειασ &#13;
+αιμορροιδεσ(αναφερθηκε στην επανεξεταση,λογω θεραπειασ τησ νοσου)</personal_medical_history>
+        <family_medical_history>πατερας ασθενους:&#13;
+1.αλλεργια στην σφηκα&#13;
+2.πιεση&#13;
+3.χοληστερινη&#13;
+4.γοπ&#13;
+μητερα ασθενους:&#13;
+1.πιεση&#13;
+2.αλλεργια στην γυρη</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>ο ασθενησ βρισκεται σε υψηλο επιπεδο υγειασ.το περιστατικο θα παει καλα εφοσομ συνταγογραφησουμε το σωστο φαρμακο.&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-τρεμουλο 4&#13;
+-τρισμο 4&#13;
+-κλειστο ατομο 4&#13;
+- κλαιει ευκολα κ με το προβλημα του αλλου 4</peculiar>
+        <intense>-τρεμουλο 4&#13;
+-τρισμο 4&#13;
+-κλειστο ατομο 4&#13;
+- κλαιει ευκολα κ με το προβλημα του αλλου 4</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>1)phos&#13;
+2)nat-mur</remedies_differentiation>
+      <prescription>
+        <remedy>phos</remedy>
+        <potency>200ch</potency>
+        <regimen>1caps</regimen>
+        <other_notes>επανεξεταση σε ενα μηνα&#13;
+</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2012-01-10 17:00:00</followup_date>
+      <conv_med_presc>phos 200ch</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>&gt;το τρεμουλο&#13;
+&gt;αιμορροιδεσ(το συμπτωμα αυτο δεν ειχε αναφερθει στο αρχικο ιστορικο)&#13;
+ο ασθενεισ αναφερει οτι δεν εχει αλλαξει τιποτα αλλο μετα την ληψη τησ αγωγησ.&#13;
+μετα απο ερωτησεισ δικεσ μου παρατηρησα οτι ο ασθενησ εγινε πιο ανοιχτοσ ψυχικα κ συναισθηματικα.αφου ,ενω ειναι ενα πολυ κλειστο ατομο χωρισ να λεει τα δικα του, εκδηλωσε εντονο κ επιμονο ενδιαφερον συναισθηματιο κ ερωτικο για μια γυναικα που τον ενδιαφερει εδω κπολυ καιρο.κατι που εγινε για πρωτη φορα .&#13;
+- ο τρισμοσ δεν βελτιωθηκε.&#13;
+</reaction>
+      <analysis>ο phos εχει δρασει σε καποιο βαθμο .σε σωματικο κ συναισθηματικο επιπεδο.&#13;
+αλλα ο ασθενησ δινει μια περιγραφη οτι παρα την βελτιωση που παρατηρηθηκε δεν εχει νοητικα βελτιωσξ.οποτε κοιταζω ξανα το περιστατικο γιατι κρινω οτι δεν εχει βρεθει το σωστο φαρμακο αλλα καποιο αλλο το ποιο παρολαυτα τον βοηθησε.κανω καποιεσ συμπληρωματικεσ ερωτησεισ με βαση το πρωτο-αρχικο ιστορικο οποτε κ αναφερει την ασυνηθιστα εντονη επιθυμια για αλατι .οποτε κ συνταγογραφω 2ο φαρμακο.</analysis>
+      <conclusion>συνταγογραφω νεο φαρμακο</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>na-mur</remedy>
+        <potency>200ch</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>επανεξεταση σε ενα μηνα</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2012-02-04 18:00:00</followup_date>
+      <conv_med_presc>δεν υπαρχει</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ο ασθενησ αναφερει τεραστια αλλαγη στην ζωη του.νιωθει καλυτερ 80% ψυχκα κ νοητικα.αντιλαμβανεται οτι ειναι μονοσ ενω πριν δεν το αξιολογουσε.ειναι περισοτερο ενεργοσ κοινωνικα.&#13;
+ο τρισμοσ βελτιωθηκε 80%.</reaction>
+      <analysis>χορηγησαμε το σωστο φαρμακο.εδρασε βαθεια  κ στα τρια επιπεδα(νοητικο ,ψυχικο,σωματικο)</analysis>
+      <conclusion>δεν χορηουμε κανενα φαρμακο.&#13;
+ο σθενησ βρισκεται σε πολυ υψηλπ επιπεδο υγειασ.&#13;
+το φαρμακο θα συνεχισει να δρα κ επιφερει αλλαγεσ ακομα για καποιο χρινικο διαστημα.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>δεν συνταγογραφουμε</remedy>
+        <potency>δεν συνταγογραφουμε</potency>
+        <regimen>δεν συνταγογραφουμε</regimen>
+        <other_notes>ο ασθενησ ειναι υγειησ .δεν χρειαζεται να τον ξαναδουμε.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

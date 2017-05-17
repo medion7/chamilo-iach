@@ -1,0 +1,692 @@
+﻿1
+00:00:25,950 --> 00:00:30,499
+Comenzaremos con un pequeño capítulo del Sistema Experto
+
+2
+00:00:34,700 --> 00:00:44,933
+No es sólo de interés para los que tienen el sistema experto,sino para todos los que atienden el curso ya que George usa el sistema experto.
+
+3
+00:00:45,780 --> 00:00:55,932
+Quizá pueda decirles algunas cosas más que lo haga más interesante, cuando ven la pantalla y entiendan más que sucede.
+
+4
+00:01:00,100 --> 00:01:14,266
+Primero, han encontrado y seleccionado los síntomas correctos, de los que hemos hablado, hay algún tipo de variación
+
+5
+00:01:15,533 --> 00:01:25,299
+quizá ponen el síntoma que no está correcto o cosas así, pero ya hemos discutido como encontrar síntomas correctos y tomarlos.
+
+6
+00:01:25,600 --> 00:01:39,133
+Hay una cosa que se necesita, el VES funciona básicamente como si fueran diferentes personas o visiones viendo los mismos síntomas.
+
+7
+00:01:40,233 --> 00:01:52,233
+Las reunen todas y traen una sugerencia balanceada. Sin embargo hay un tercer elemento que discutiré con precisión,
+
+8
+00:01:53,000 --> 00:01:59,933
+y deben estar atentos porque también es importante y esto es la intensidad
+
+9
+00:02:00,966 --> 00:02:08,860
+les los explicaré muy precisa y esquemática la forma de dar la intensidad
+
+10
+00:02:09,000 --> 00:02:21,266
+Subrayar la intensidad de un síntoma, significa que nosotros indicamos la intensidad, que el síntoma tiene del interrogatorio del paciente.
+
+11
+00:02:24,533 --> 00:02:39,866
+El paciente da un síntoma, deseo de musaka y preguntamos si sólo fue hoy por la mañana o le gusta a diario, o cuando viene a Grecia
+
+12
+00:02:40,566 --> 00:02:54,399
+Y dice le gusta musaka en Grecia, Munich, donde sea y ven la intensidad del deseo de musaka y es la intensidad del interrogatorio.
+
+13
+00:02:58,333 --> 00:03:09,399
+Ahora, lo primero es la frecuencia del síntoma, como les dije ¿qué tan frecuente es el deseo de musaka?
+
+14
+00:03:11,466 --> 00:03:15,466
+o el dolor en la muñeca ¿qué tan frecuente es?
+
+15
+00:03:16,633 --> 00:03:31,899
+y el segundo elemento es la intensidad, que tan intenso, especialmente para todo lo subjetivo, que tan intenso es el dolor de la muñeca
+
+16
+00:03:33,666 --> 00:03:42,170
+cuando combinamos esto, tendrán una sugerencia de como subrayar correctamente los síntomas.
+
+17
+00:03:46,433 --> 00:03:59,466
+El síntoma está subrayado con 1, cuando es frecuentemente presente o intenso
+
+18
+00:04:00,466 --> 00:04:05,266
+lo que significa que cuando alcanza este nivel ¿recuerdan el dibujo?
+
+19
+00:04:05,500 --> 00:04:13,333
+Que el síntoma se eleva a cierto nivel antes de que sea un síntoma, por lo que el deseo de musaka tiene que ser
+
+20
+00:04:13,733 --> 00:04:25,233
+lo suficientemente frecuente y presente para ser un síntoma o el dolor en la muñeca tiene que ser suficientemente intenso para ser un síntoma.
+
+21
+00:04:26,033 --> 00:04:50,499
+Todos tienen un dolor de muñeca eventualmente. Si está claramente presente es un síntoma. El subrayado es 2 cuando hay una frecuencia
+
+22
+00:04:51,333 --> 00:05:06,099
+relevante o una intensidad relevante, no es solo que como mousaka a veces, sino que la como a  cada vez que tengo oportunidad
+
+23
+00:05:06,700 --> 00:05:13,366
+y es muy frecuente, más sobresaliente, es suficiente para darle un subrayado de 2.
+
+24
+00:05:14,066 --> 00:05:23,999
+O cuando la intensidad es sobresaliente, no es correcto, no solo que esté presente este síntoma  sino que sea sobresaliente por la intensidad
+
+25
+00:05:24,000 --> 00:05:36,533
+le damos un subrayado 2, sólo que el síntoma esté presente ya sea frecuentemente presente o realmente intensamente presente.
+
+26
+00:05:39,566 --> 00:05:58,599
+Y subrayamos 3, cuando el síntoma está muy frecuentemente presente y muy intenso por lo que es abrumador.
+
+27
+00:06:03,933 --> 00:06:18,299
+Y tenemos 4 puntos en el repertorio y por alguna razón tenemos tambien  intensidad  de 4 durante el interrogatorio. 4, puntos de intensidad
+
+28
+00:06:19,533 --> 00:06:36,399
+es algo que no pueden creer que pueda existir, es realmente muy fuerte, cada día 3 litros de leche por años, muy fuerte para algunos.
+
+29
+00:06:38,733 --> 00:06:51,799
+4 puntos en el repertorio es raro, quizá hay 200, 250 remedios que tengan 4 puntos en el repertorio, para darles una idea
+
+30
+00:06:52,500 --> 00:07:10,100
+En la totalidad de todos los sintomas  sus pacientes, se debe indicar con 4 puntos una vez en cada dos semanas
+
+31
+00:07:10,900 --> 00:07:20,400
+Ven pacientes todos los días y una vez cada dos semanas dan a un síntoma una puntuación de 4, a un paciente, entonces no están exagerando
+
+32
+00:07:21,533 --> 00:07:28,999
+porque el asunto es subrayar la intensidad lo más correcto posible, por lo que 4 puntos es raro
+
+33
+00:07:33,160 --> 00:07:48,233
+Hay también cifras que presentan 1° 2° o 3° grado y la idea es que a más alto va, menor será que puedan tener los síntomas un subrayado de
+
+34
+00:07:48,410 --> 00:07:50,266
+2° o 3° de intensidad
+
+35
+00:07:50,366 --> 00:08:04,499
+No lo se de memoria pero es algo como 80% de los síntomas o menos, tienen un subrayado de 1 y está bien, si es más saldrá un mensaje
+
+36
+00:08:05,530 --> 00:08:19,166
+que dirá cambie su intensidad, etc. Creo que para grado 2 es  50%  y 3 puntos será 20 o 25%.
+
+37
+00:08:21,280 --> 00:08:35,430
+Por supuesto en un paciente no es lo mismo que en otro. No tienen que pensar, 'oh, ya tengo 4 síntomas de 1 punto, debo tener uno de 2
+
+38
+00:08:35,530 --> 00:08:44,966
+puntos, no tienen que pensarlo, el programa les dirá, si se alejan del rango que es normalmente aceptado, les dirá cambie la intensidad un poco
+
+39
+00:08:45,066 --> 00:08:56,499
+o trate de entender la intensidad de forma diferente, les daré más adelante algunas otras pistas para subrayar correctamente.
+
+40
+00:08:58,950 --> 00:09:07,733
+Por supuesto habrá ocasiones que dudarán entre subrayar 2° y 3°, o entre 1° y 2°
+
+41
+00:09:09,233 --> 00:09:15,633
+Y saben que la intensidad y la frecuencia son dos formas de reflexionar en esto.
+
+42
+00:09:16,933 --> 00:09:29,566
+Hay una tercera característica menos importante que les ayudará a decidir entre subrayado 1, 2 o 2, 3 y es la peculiaridad
+
+43
+00:09:30,300 --> 00:09:46,566
+La peculiaridad del síntoma, si dudan y esto es más común lo subrayarán con 2. Si dudan entre 2 y 3 y es más peculiar  lo subrayan con 3
+
+44
+00:09:47,166 --> 00:09:51,166
+para  dar más enfasis porque es más peculiar.
+
+45
+00:09:52,633 --> 00:10:00,233
+Aparte de la intensidad y la frecuencia, la segunda forma es considerar la peculiaridad
+
+46
+00:10:02,566 --> 00:10:12,866
+Lo tercero a considerar es que las diferentes personas expresan su sufrimiento de forma diferente.
+
+47
+00:10:14,000 --> 00:10:30,766
+Cuando una persona habla así... bla, bla, bla y usted le preguntan le gusta el platano? oh, sí me gusta el platano, lo ponen muy alto.
+
+48
+00:10:31,600 --> 00:10:41,600
+Algunos dicen: "Tengo todos los problemas del mundo, me caí de las escaleras y bla, bla, y me gustan los plátanos pero también la nieve,
+
+49
+00:10:42,300 --> 00:11:01,433
+¿y la musaka? oh, sí, y si ponen todo esto con 3 puntos no es bueno. El continua hablando y hablando ¿y su trabajo? " Mi trabajo está bien".
+
+50
+00:11:02,633 --> 00:11:20,333
+Ustedes han visto que en el flujo de la llamada intensidad de 3 puntos, hubo algo de duda y saben lo que les dirá sobre su trabajo u otro,
+
+51
+00:11:20,933 --> 00:11:29,100
+quiza en ese momento no toman los síntomas o no está en el repertorio, caer a un lado del catamaran no está en el repertorio y lo que él les
+
+52
+00:11:29,200 --> 00:11:42,200
+diría sobre su trabajo,ha sido una vida de frustración y mortificación, entonces ya tienen un síntoma por lo que la intensidad es relativa a
+
+53
+00:11:42,300 --> 00:11:49,700
+la forma que el paciente se expresa a sí mismo y también es importante.
+
+54
+00:11:52,400 --> 00:12:06,666
+¿Preguntas? ¿el sitema trata con las diferencias de sintomas mentales y corporales, es decir le da algúa influencia en ello ?
+
+55
+00:12:07,366 --> 00:12:15,566
+Sí, pero primero quiero saber si tienen preguntas sobre el subrayado y la forma en la que deben preguntar
+
+56
+00:12:16,366 --> 00:12:30,232
+¿Cómo evalúa un síntoma raro que aparece una vez cada dos meses? ¿En una persona?
+
+57
+00:12:32,166 --> 00:12:56,632
+Depende, si es un síntoma muy raro,  tiene muy clara su presencia, se sufre por el, y aun si aparece cada 9 noches es importante, yo diría.
+
+58
+00:12:58,233 --> 00:13:06,933
+Pueden tener un dolor de cabeza que mejora por beber café, tiene sólo el dolor cada 2 semanas
+
+59
+00:13:07,466 --> 00:13:14,632
+pero si bebe aunque sea la mitad de una taza de café el dolor desaparece en minutos, por lo que el café mejora
+
+60
+00:13:15,933 --> 00:13:19,933
+aún si sucede cada 2 o 3 semanas es una fuerte modalidad,
+
+61
+00:13:22,333 --> 00:13:40,733
+¿Los remedios se seleccionan por la intensidad? Por ejemplo, Mandragora que tiene inquietud. Tengo un paciente que tiene inquietud con
+
+62
+00:13:41,533 --> 00:13:50,233
+intensidad de 3° y si utilizo el remedio Mand. está sólo con 1°. La intensidad da preferencia a algunos remedios y descuida  otros?
+
+63
+00:13:50,833 --> 00:14:05,699
+Sí, es un muy buen ejemplo y como siguiente paso les explicaré la razón del subrayado, lo que responderá su pregunta.
+
+64
+00:14:06,333 --> 00:14:19,966
+Si tenemos un paciente y sospechamos que es Stramonium, lo saben en cierta etapa y hacen preguntas para confirmarlo
+
+65
+00:14:21,000 --> 00:14:35,133
+para saber si realmente es Stramonium, una pregunta podría ser miedo a la oscuridad. Preguntan ¿qué siente en la oscuridad?
+
+66
+00:14:36,566 --> 00:14:53,266
+Y ¿cuál es la respuesta que esperarían de Stramonium? Oh, sí en la osucuridad tengo que prender la luz todo el tiempo.
+
+67
+00:14:54,066 --> 00:14:58,066
+Un muy fuerte miedo a la oscuridad.
+
+68
+00:14:58,700 --> 00:15:06,900
+Si van al repertorio y buscan miedo a la oscuridad, Stramonium tiene 4 puntos, es el remedio más fuerte, por lo que para Stramonium
+
+69
+00:15:07,600 --> 00:15:19,133
+significa que en las experimentaciones estuvo frecuentemente presente el miedo en la oscuridad, vamos un paso más adelante
+
+70
+00:15:20,366 --> 00:15:30,166
+Si vemos al paciente y sospechamos de Stramonium esperamos que el paciente tenga un fuerte miedo a la oscuridad.
+
+71
+00:15:31,200 --> 00:15:45,433
+Esta es una confirmación de Stramonium. Si el paciente tiene "algo de miedo" es un argumento en contra de Stramonium.
+
+72
+00:15:46,266 --> 00:15:57,899
+O no lleva a Stramonium a lo más alto. A esto se le llama correspondencia de la intensidad.
+
+73
+00:16:00,833 --> 00:16:09,199
+Stramonium tiene miedo a la oscuridad con 4 puntos, el paciente Stram.  tiene miedo a la oscuridad 4 puntos.
+
+74
+00:16:10,933 --> 00:16:22,766
+Correspondencia con  la intensidad. Y la regla es que mientras mejor corresponda la intensidad tendrán un mejor caso para el remedio.
+
+75
+00:16:34,500 --> 00:16:47,666
+Antes mencionó que el grado en el repertorio no tiene que ver con la intensidad sólo que tan frecuente aparece en la experimentación,
+
+76
+00:16:48,466 --> 00:17:01,999
+y ahora para el análisis es muy importante subrayar de acuerdo a la intensidad y hace una diferencia, por ejemplo en Stramonium
+
+77
+00:17:02,633 --> 00:17:14,366
+Ahora se refiere a la intensidad como si los 4, puntos de Stramonium en miedo a la oscuridad tiene que ver con la intensidad
+
+78
+00:17:15,166 --> 00:17:28,599
+antes dijo que tenía que ver con la frecuencia de aparición. Sí, es correcto.
+
+79
+00:17:34,266 --> 00:17:46,199
+Estaba tratando de escapar toda la mañana de ir a ese nivel, porque sabía que sería confuso, ahora trataré de esclarecer la confusión.
+
+80
+00:17:47,133 --> 00:17:54,299
+Pimer paso, como se hizo el repertorio. ¿Por qué se le dio al remedio 1,2 3   puntos?
+
+81
+00:17:55,000 --> 00:18:01,500
+Debido a la frecuencia en la experimentación en un caso clínico. ¿Están de acuerdo?
+
+82
+00:18:04,433 --> 00:18:17,866
+El repertorio ha sido usado y más información ha sido añadida, y una mujer, Margaret Tyler Kent tuvo la idea y dijo es interesante
+
+83
+00:18:18,700 --> 00:18:30,100
+que para algunos de los remedios que prescribió los síntomas que están en negritas con el remedio, el paciente los expresa en negrita
+
+84
+00:18:30,933 --> 00:18:44,966
+en Ars al igual que en el paciente,hay mucho miedo a estar solo o a la oscuridad y llegó a la idea que la correspondencia en grados era una
+
+85
+00:18:45,900 --> 00:19:01,366
+forma interesante de procesar la información. Por eso dejé esto todo el tiempo, porque otra forma de ver los síntomas de sus pacientes
+
+86
+00:19:04,500 --> 00:19:20,700
+es la correspondencia de los grados, ahora, usted tiene razón es una forma opuesta porque están usando como una herramienta para pintar
+
+87
+00:19:21,400 --> 00:19:33,033
+lo usan para hacer una escultura, es una aplicación diferente, pero es un hecho y George ha introducido el aplicar la intensidad en la
+
+88
+00:19:33,733 --> 00:19:41,433
+homeopatíay lo utiliza todo el tiempo, el VES se niega a funcionar si no está subrayado. A ese punto.
+
+89
+00:19:42,533 --> 00:19:52,333
+Es su forma de pensar que ustedes deben saber del paciente que tan intenso es su miedo a la oscuridad, que tan intensos son los celos,
+
+90
+00:19:52,966 --> 00:20:04,799
+que tan intenso es el deseo de mousaka, etc. y luego ustedes crean la  correspondencia entre la intensidad del paciente con el grado del
+
+91
+00:20:04,880 --> 00:20:18,470
+repertorio. Lo digo entrecomillas "lo que sea que haya significado en el pasado". Por lo que debo admitir que este grado en el repertorio está
+
+92
+00:20:18,570 --> 00:20:30,366
+siendo usado para otra meta y es correcto.Pimero es la historia y hoy desde Margaret que estuvo activa en los 30-40,  hace
+
+93
+00:20:30,430 --> 00:20:39,566
+algunas décadas. Hay esta idea especialmente con George de la correspondencia de los grados, es otra idea con la que George
+
+94
+00:20:40,150 --> 00:20:50,200
+concuerda,la correspondencia de los grados, paciente y repertorio, es una forma interesante de analizar el caso y decidir el remedio.
+
+95
+00:20:52,133 --> 00:21:01,533
+Pero es cierto que se ha salido un poco de la intención original y significa también la intención original de los grados.
+
+96
+00:21:02,133 --> 00:21:10,033
+Ysignifica también que tenemos que reconsiderar toda la historia de los grados en el repertorio y lo estamos haciendo.
+
+97
+00:21:10,633 --> 00:21:21,466
+En la siguiente versión esperen nuevas cosas pero por lo pronto es importante entender que es verdad
+
+98
+00:21:22,400 --> 00:21:26,732
+que si ven a 10 pacientes Stramonium, la mayoría de ellos tendrán el miedo a la oscuridad.
+
+99
+00:21:26,733 --> 00:21:37,370
+Ysólo uno de ellos tendrá el miedo a la osucuridad que no esté muy pronunciado. Y lo pueden repetir en muchos ejemplos.
+
+100
+00:21:40,566 --> 00:21:54,232
+Esto es sobre la intensidad y la correspondencia de grados ¿lo siguen? Les expliqué 6 metodos clásicos de repertorizar mas o menos clasicos
+
+101
+00:21:55,620 --> 00:22:09,999
+Les dije la correspondencia de grados, alguien más hace un tiempo me dió otra idea, que hay otras formas de ver la información.
+
+102
+00:22:14,066 --> 00:22:26,799
+Si 2 o 3 síntomas que vienen de la mente e indican Puls, es diferente de 2 o 3 síntomas de extremidades que indican Lyc.
+
+103
+00:22:27,900 --> 00:22:36,700
+Porque corresponde a 3 síntomas en mente es más argumentativo para Puls, que los 3 argumentos de Lyc que vienen de extremidades
+
+104
+00:22:37,333 --> 00:22:46,033
+Porque decimos que los síntomas mentales son más importantes si están presentes,si son reales  por lo que el capítulo también tiene influencia.
+
+105
+00:22:47,733 --> 00:22:58,966
+Por lo que ven escribí quizá 8 reglas pero hay más, hay muchas formas de reflexionar acerca de la homeopatía y los síntomas.
+
+106
+00:23:02,620 --> 00:23:15,233
+Por lo que hicimos con George fue una lista exhaustiva y completa de estas reglas y cada regla define la aplicación y las excepciones
+
+107
+00:23:15,900 --> 00:23:25,466
+y una posible relación a otras reglas por lo que tenemos una fórmula enorme con muchos cálculos,
+
+108
+00:23:25,870 --> 00:23:33,266
+y obtienen como resultado lo que se llama una tasa de probabilidad. Si se sugiere que un remedio es número 1, 2 o 3
+
+109
+00:23:33,366 --> 00:23:46,499
+en el sistema experto, es una probabilidad calculada. ¿Lo entienden? ¿Cuál es el interés de esto?
+
+110
+00:23:48,833 --> 00:23:59,466
+Use el caso esta mañana para explicarles unas pocas cosas ¿recuerdan esto? y lo usé en cada método de repertorización,
+
+111
+00:24:00,466 --> 00:24:14,332
+hay otra forma de verlo, si doy click aquí veo los 6 métodos de repertorización todos juntos en una pantalla, el primer remedio para cada uno
+
+112
+00:24:16,370 --> 00:24:28,666
+de ellos,si no lo recuedan ven los remedios 1, 2, 3 o 4 posibilidades para cada método de repertorización, si combinamos todo esto
+
+113
+00:24:29,700 --> 00:24:45,466
+alguna alquímia comienza a funcionar y se añaden otros elementos y aquellos que estén tomando los síntomas saben si usamos el VES
+
+114
+00:24:46,266 --> 00:24:56,199
+con sólo presionar otra tecla, que confirma que Lach. es la mejor posibilidad para este caso verdadero de asma
+
+115
+00:24:57,300 --> 00:25:04,400
+se dio Lach. con algunos resultados pero no hubo una continuación en la mejoría.
+
+116
+00:25:06,100 --> 00:25:24,500
+Y que el remedio que trajo la cura completa fue Aralia, este es un ejemplo de como el VES funciona, ustedes tienen el caso.
+
+117
+00:25:26,233 --> 00:25:32,450
+¿Podrían decirme la diferencia entre Lach y Aralia?
+
+118
+00:25:38,166 --> 00:25:48,599
+Hagámoslo de forma diferente. Tienen a una persona con asma, Lach es el remedio, tienen ideas de como esperar que el asma agrave?
+
+119
+00:25:50,200 --> 00:26:15,000
+Agravación del asma en Lach. Después de dormir, por el calor, antes de la menstruación, ¿otro más? agravación general en Lach.
+
+120
+00:26:18,633 --> 00:26:46,733
+Al despertar después de dormir, al ir a dormir, cuando se duerme, Lach se duerme ¡ahh! y despierta de nuevo al dormir regresa el asma.
+
+121
+00:26:47,766 --> 00:26:59,299
+Por lo que el proceso de ir a dormir es difícil en Lach. como con las serpientes por casualidad, ahora lo recuerdan?
+
+122
+00:27:01,833 --> 00:27:15,566
+No es al dormir sino después del primer sueño.
+
+123
+00:27:17,900 --> 00:27:27,100
+Lo que quiero señalar ahora es que tenemos el mismo síntoma como en los otros métodos, Calc, Lach, Puls, Sil, los han visto todos,
+
+124
+00:27:27,900 --> 00:27:36,600
+usan los mismos síntomas hay un cálculo más complicado y tienen una sugerencia agradable para Aralia.
+
+125
+00:27:38,133 --> 00:27:48,033
+Asi que esto es lo que el sistema experto hace. Les explicaré como funcionan las cifras porque cuando usan el sistema experto necesitan saber
+
+126
+00:27:48,566 --> 00:27:55,232
+que significa y si se proyecta pueden saber si George quiere continuar o no.
+
+127
+00:27:56,933 --> 00:28:03,833
+Los mensajes creo que son claros, pueden leer y entender el mensaje pero quiero explicar las cifras
+
+128
+00:28:04,733 --> 00:28:17,766
+Cada remedio proyectado tiene una primera posibilidad tiene una cifra que llamamos Grado de confianza absoluta  en ese remedio.
+
+129
+00:28:19,100 --> 00:28:27,800
+Y es el resultado de cálculos. Podria ser 12625 o 56720
+
+130
+00:28:28,233 --> 00:28:40,699
+No importa, está recalculado de tal forma que pueden considerar que el cálculo 100, es el ideal al que hay que llegar.
+
+131
+00:28:42,566 --> 00:28:55,466
+Ai que cuando se acercan y arriba de 100 significa que hay muy buenos argumentos para Lach, esto significa.
+
+132
+00:28:56,200 --> 00:29:09,800
+Al principio verán 45, 60, etc, cuando el caso sigue  y es coherente esta cifra aumentará a 80 y se volverá interesante, 92, 100
+
+133
+00:29:10,900 --> 00:29:23,266
+si hay  síntomas confirmatorios agregados y hay otra cifra que es importante, la que está entre paréntesis,
+
+134
+00:29:23,766 --> 00:29:38,632
+y esta es la confianza relativa de la prescripción. ¿Qué significa? Es una explicación técnica de la vida real, si tienen buenos argumentos de Lach
+
+135
+00:29:39,833 --> 00:29:43,833
+¿prescribirían Lachesis?
+
+136
+00:29:47,333 --> 00:29:59,666
+Depende si estos buenos argumentos para Lach son sólo para Lach o quizá porque son los  mismos síntomas y son buenos argumentos para
+
+137
+00:30:00,066 --> 00:30:08,632
+Puls. El cual frecuentemente es cercano y para otros remedios. Asi que si tienen buenos argumentos para Lach pero no tienen la
+
+138
+00:30:08,933 --> 00:30:17,266
+confianza, porque la confianza en Lach es relativa, hay también buenos argumentos para Puls, Nat-mur o el que sea.
+
+139
+00:30:19,033 --> 00:30:28,166
+Por lo que la confianza relativa en un remedio comienza a ser cercana a 100, de nuevo si los argumentos son sobresalientes
+
+140
+00:30:28,433 --> 00:30:38,699
+diferenciados de la confianza de los argumentos para otros remedios y esto es lo que ven en la pantalla cuando George muestra las columnas
+
+141
+00:30:38,933 --> 00:30:47,833
+'muéstrenme las columnas' dice él. Donde la confianza en cada remedio se ponde de manera gráfica.
+
+142
+00:30:48,700 --> 00:30:58,900
+Esta es la probabilidad para cada remedio en este paso. Mientras más larga la barra más confianza o argumentos para estos remedios.
+
+143
+00:31:01,600 --> 00:31:12,000
+Y ven que hay 2 barras largas, Lachesis y Aralia y después Calc y Kali-b un poco menos y el resto aún menos. Al menos son 4 remedios.
+
+144
+00:31:13,133 --> 00:31:24,199
+Son posibilidades y es el porque en este caso la prescripción es de 100, muy buenos argumentos para Lach
+
+145
+00:31:24,900 --> 00:31:35,133
+y 57 en la segunda cifra no es absolutamente seguro que sea Lach porque aun hay posibilidades para otros remedios.
+
+146
+00:31:35,500 --> 00:31:39,500
+Y ven a Calc, Kali-b y Aralia
+
+147
+00:31:43,566 --> 00:31:47,566
+Veré cuales son los síntomas aquí.
+
+148
+00:31:48,933 --> 00:32:13,266
+Vean lo que haré, tomaré otro síntoma de Lach, la ropa agrava y lo agregaré a los previos, si ejecuto de nuevo el sistema experto ustedes ven
+
+149
+00:32:14,066 --> 00:32:27,266
+El argumento para Lach es aun mejor 126 y es más sobresaliente, si vamos a las columnas vemos que Lach y Aralia son más fuertes
+
+150
+00:32:27,766 --> 00:32:37,299
+Por lo que la confianza relativa en Lach incrementará sin embargo hay que tomar en cuenta estos otros remedios
+
+151
+00:33:01,700 --> 00:33:13,300
+Voy aquí, deseo de farináceos, lo añado y ahora tengo un caso sobresaliente de Lach.
+
+152
+00:33:13,766 --> 00:33:27,099
+253 argumentos sobresalientes para Lach y confianza de 111, Aralia aún está pero no sobrepasa los argumentos para Lach.
+
+153
+00:33:28,200 --> 00:33:37,566
+Por supuesto este no fue un caso real, sólo les muestro como los síntomas típicos pueden mover la confianza hacia arriba en un remedio.
+
+154
+00:33:40,233 --> 00:33:47,866
+Esta es la forma que juegan con las cifras para entender que la consulta llegó o no a su fin.
+
+155
+00:33:49,600 --> 00:34:03,500
+En relación a las cifras al principio dijo que este número podía ir hasta 100 pero ahora va más allá.
+
+156
+00:34:03,766 --> 00:34:23,032
+Sí, Annette, no dije debe ir a 100 sino cerca de 100, cuando llega a 80, 90 o arriba significa buenos argumentos, para seguridad ir arriba.
+
+157
+00:34:23,366 --> 00:34:31,740
+Si añado todos los síntomas de Lach puede ir hasta 650.
+
+158
+00:34:34,233 --> 00:34:42,333
+Tengo la misma pregunta para las cifras, hacia abajo hasta donde es seguro.
+
+159
+00:34:43,733 --> 00:34:55,366
+Para una confianza absoluta del remedio 80 y más arriba. Para la segunda cifra de 60 o 70.
+
+160
+00:34:56,266 --> 00:35:04,899
+Pero no se confíen de las cifras, si dudan entre Aralia y Lachesis digan al paciente le llamaré mañana.
+
+161
+00:35:05,366 --> 00:35:09,366
+Leen sus libros y su Materia Médica y encuentran cual es el mejor remedio.
+
+162
+00:35:10,500 --> 00:35:16,100
+No dependan en las cifras o la repertorización, son sólo herramientas que les muestran el camino.
+
+163
+00:35:23,266 --> 00:35:29,032
+¿Peguntas sobre el VES como usarlo o interpretarlo?
+
+164
+00:35:35,533 --> 00:35:49,033
+Puede decir algo sobre el número de rúbricas que son al menos cuatro, las que deben ser seleccionadas, quizá hay un máximo también.
+
+165
+00:35:49,566 --> 00:36:03,699
+En que punto se vuelve inútil? Sí, creo que hay un número de síntomas donde cada repertorización se vuelve inútil.
+
+166
+00:36:05,633 --> 00:36:13,133
+Pimero estoy de acuerdo contigo, 4 síntomas es el mínimo, debemos tener bases en que sostenernos.
+
+167
+00:36:15,266 --> 00:36:28,032
+Y tal vez de los casos que han visto aquí, son 6, 7, 12, 15, algunas veces 20, pero la mayoría de casos estarán dentro de este rango.
+
+168
+00:36:28,533 --> 00:36:39,666
+Me refiero a síntomas unicos, hay síntomas que tienen 5 síntomas combinados. Este será el rango que pueden esperar.
+
+169
+00:36:40,233 --> 00:36:47,199
+Y si son muchos más es mejor  aclarar un poco quitar algunos síntomas y mantener los esenciales.
+
+170
+00:36:52,233 --> 00:36:56,233
+¿Preguntas sobre el VES o las cifras?
+
+171
+00:36:58,566 --> 00:37:04,266
+Me gustaría hablar un poco sobre el futuro.
+
+172
+00:37:05,333 --> 00:37:31,433
+Sobre el VES comentó que es mejor usar el VES cuando está con el paciente y hacer una evaluación cada vez que se añade un síntoma.
+
+173
+00:37:32,666 --> 00:37:59,032
+Si continua el desarrollo de posibilidades y probabilidades para la prescripción, es útil, lo usaremos así. Absolutamente. Correcto.
+

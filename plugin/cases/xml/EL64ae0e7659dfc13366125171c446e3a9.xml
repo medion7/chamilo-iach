@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL64ae0e7659dfc13366125171c446e3a9</ID>
+  <patient>
+    <case_date>2015-02-05 17:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΑΠ</patient_initials>
+    <age>39</age>
+    <circumstances>Παντρεμένη ένα παιδί. Μαία.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Καθ΄ έξιν αποβολές μετά την γέννηση του πρώτου παιδιού ηλικίας 4 ετών.&#13;
+Στην πρώτη αποβολή κυοφορούμενο έμβρυο με Σ.Dawn.&#13;
+Άλλες τρείς αποβολές στη συνέχεια όλες την πέμπτη εβδομάδα κύησης.</origin>
+        <causative_factors>Δεν γνωρίζω.</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Συνεχής θλίψη, συχνές κεφαλαλγίες. </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΚΑΘΕΞΙΝ ΑΠΟΒΟΛΕΣ.&#13;
+Ελεύθερη αγωγής. </conv_med_presc>
+        <lab_tests>
+          <desc>Γενική αίματος : Κ.Φ. εκτός από την ολική χοληστερίνη που ήταν αυξημένη : 260 mg.&#13;
+Πλήρης προγεννητικός έλεγχος χωρίς παθολογικά ευρήματα.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Sepia 200 ch πρό διμήνου.Ένα χάπι.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Κανονικός προβλεπόμενος  παιδικός εμβολιασμός. Αντιβιώσεις για εμπύρετα νοσήματα. Τελευταίο εμπύρετο πρό διετίας.&#13;
+Ωτίτιδες, γαστρεντερίτιδες έχουν εξαφανισθεί τα τελευταία χρόνια το ίδιο και ο επιχείλιος έρπης.</therapies_vaccination>
+          <traumas>Εμμονές με την απόκτηση δεύτερου παιδιού.</traumas>
+          <infections>Όχι.</infections>
+          <other>Συχνές ρινορραγίες μέχρι την ηλικία την 15 ετών.&#13;
+Αλλεργική ρινίτιδα, αλλεργικός βήχας στις απότομες αλλαγές καιρού και αν χιονίσει. Αλλεργικές αντιδράσεις σε primperan, mefoxil και σε ξηρούς καρπούς.&#13;
+Υποτροπιάζων ΕΡΠΗΣ χειλέων (εδώ και 1,5 χρόνο εξαφανίστηκε).&#13;
+Τρώει τα ΝΥΧΙΑ της που είναι εύθραυστα και ξεφλουδίζουν.&#13;
+Πονοκέφαλοι που εντοπίζονται στη μία πλευρά, άλλοτε δεξιά και άλλοτε αριστερά και αφορούν το μέτωπο, μάτι, μάγουλο και κρόταφο.</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας σε ηλικία 66 ετών Ο.Ε.Μ. (μπαλονάκι) με αυξημένα πάντα επίπεδα χοληστερίνης.&#13;
+Μητέρα από την ηλικία των 40 ετών Α.Υ. μετά τα 60 Σ.Δ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ενώ ήταν πολύ ανεκτική με το κρύο, μετά την λήψη Sepia δεν το ανέχεται και παγώνει. Πάντα ΠΑΓΩΜΕΝΑ ΠΟΔΙΑ. ΙΔΡΩΝΕΙ πολύ εύκολα κυρίως στον αυχένα και στην πλάτη.</reactions>
+        <sleeping_habits>Κοιμάται στό ΑΡΙΣΤΕΡΟ ΠΛΑΙ. Το πρωί δεν ξυπνάει ξεκούραστη. Πολλές φορές κοιμάται νωρίς για να μην σκέπτεται αλλά ξυπνάει στις 3 - 4 το πρωί και δεν μπορεί να ξανακοιμηθεί γιατί ΒΑΣΑΝΙΖΕΤΑΙ από ΑΡΝΗΤΙΚΕΣ σκέψεις. Δεν βλέπει συχνά όνειρα. Το μεσημέρι δεν θέλει να κοιμηθεί αν και αισθάνεται κουρασμένη. </sleeping_habits>
+        <food_modalities>Επιθυμεί πολύ το ΚΡΕΑΣ, το ΑΛΑΤΙ και τα ΜΕΛΑΤΑ αυγά. Της αρέσουν τα μακαρόνια, οι σαλάτες, σπάνια τρώει όσπρια. Απεχθάνεται τα ΦΡΟΥΤΑ (τώρα τελευταία τρώει μήλα) και τα καυτερά. Της αρέσουν οι ΣΟΚΟΛΑΤΕΣ, το παγωτό και το κρύο γάλα.&#13;
+Νερό δεν πίνει πολύ, όταν πίνει το θέλει κρύο.</food_modalities>
+        <menstruation>Κάθε 29 ημέρες με πολύ αίμα και πήγματα. Από την Sepia και μετά μειώθηκε η ποσότητα του αίματος και τα πήγματα. Πάντα πριν την Ε.Ρ. οι μαστοί είναι ΠΡΗΣΜΕΝΟΙ και ΕΠΩΔΥΝΟΙ.</menstruation>
+      </physical>
+      <mental_emotional>Της αρέσει πολύ η ΜΟΥΣΙΚΗ και ο ΧΟΡΟΣ. Αγαπά τον ήλιο και την θάλασσα (την ηρεμεί).&#13;
+Εκνευρίζεται με κάποιες καταστάσεις και οργίζεται κυρίως με την ΥΠΟΚΡΙΣΙΑ αλλά ελέγχει τον εαυτό της και δεν τον αφήνει να ξεσπάσει. Δεν κλαίει ποτέ μπροστά στους άλλους αλλά όταν είναι ΜΟΝΗ ΚΛΑΙΕΙ  και ξεσπάει. Φοβάται τα φίδια, τις γάτες, τις κότες, το ΣΚΟΤΑΔΙ, το  θάνατο κυρίως των αγαπημένων της προσώπων, τρελλαίνεται με την σκέψη ότι μπορεί να πάθει κάτι το παιδί της.&#13;
+Φοβάται ΑΣΤΡΑΠΕΣ, ΒΡΟΝΤΕΣ αλλά της αρέσει η βροχή που την μελαγχολεί.&#13;
+Αγαπά τις αλλαγές και τα ταξίδια.&#13;
+Από το νοητικό επίπεδο δεν υπάρχουν συμπτώματα.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εξαφανίστηκαν τα τελευταία 2 χρόνια τα οξέα επεισόδια και κάποια δερματικά.</personal_medical_history>
+        <family_medical_history>Προδιάθεση καρδιαγγεικών προβλημάτων από πατέρα και μητέρα και μεταβολικών νοσημάτων.</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Τελευταίο εμπύρετο πρό διετίας(εξαφανίστηκαν τα οξέα και ο επιχείλιος  έρπης) .&#13;
+Κυρίαρχο σύμπτωμα η θλίψη. </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Δεν κλαίει μπροστά στους άλλους. Διαβάθμιση 3.&#13;
+Αυπνία από σκέψεις παρελθόντος. Διαβάθμιση 3.</peculiar>
+        <intense>Κρυώνει πολύ. Διαβάθμιση 3.&#13;
+Επιθυμία για αλάτι και μελάτα αυγά. Διαβάθμιση 4.&#13;
+Φόβος για σκοτάδι. Διαβάθμιση 3.&#13;
+Τρώει τα νύχια της. Διαβάθμιση 4.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Na.Muriaticum , Sulphur , Carcinosmum , Calcarea Carbonica , Lycopodium , Magnesium Carbonicum , Phosphorus </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Na Muriaticum, Calcarea Carbomica, Phosphorus.</remedies_differentiation>
+      <prescription>
+        <remedy>Na Muriaticum</remedy>
+        <potency>200 ch</potency>
+        <regimen>Ένα δισκίο εφάπαξ.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-21 16:00:00</followup_date>
+      <conv_med_presc>Προγεστρόνη, φυλλικό οξύ, B12, Fe.</conv_med_presc>
+      <lab_tests>
+        <desc>Θετικό test κύησης.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ημερομηνία πρώτου Followup : 05-05-15, 17:00.&#13;
+Ένα μήνα μετά την λήψη του ομοιοπαθητικού ήταν η πρώτη φορά που συζήτησε ανοιχτά το πρόβλημα που την απασχολεί με τον άντρα της και μοιράστηκε μαζί του τους φόβους της. Τώρα είναι στην πέμπτη εβδομάδα κύησης.έχει μικρή αιμορραγία. Ο γιατρός της της είπε ότι δεν συμβαδίζει η ανάπτυξη του εμβρύου με την εβδομάδα κύησης. Εκτός από την φαρμακευτική αγωγή της συνεστήθη να παραμείνει κλινήρης. Είναι ψύχραιμη και κάνει αισιόδοξες σκέψεις.&#13;
+Στο νοητικό δεν υπάρχουν αλλαγές.</reaction>
+      <analysis>Υπάρχει μεγάλη βελτίωση στο συναισθηματικό επίπεδο, Υπάρχει κύηση.&#13;
+Άρα ομοιοπαθητικό φάρμακο σωστό.</analysis>
+      <conclusion>Περιμένουμε.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-21 16:00:00</followup_date>
+      <conv_med_presc>Ίδια αγωγή.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ημερομηνία δεύτερου Followup : 01-08-15, 18:40.&#13;
+Η κύηση εξελίσσεται ομαλά. Είναι πολύ χαρούμενη και ευτυχισμένη. Παραμένει κλινήρης αλλά δεν την πειράζει καθόλου αρκεί να γεννηθεί το μωράκι της.&#13;
+Προσέχει την διατροφή της, έχει μειώσει το αλάτι και πρόσθεσε φρούτα στο διαιτολόγιο της. &#13;
+Έχει ανάγκη για περισσότερες ώρες ύπνου.</reaction>
+      <analysis>-</analysis>
+      <conclusion>Περιμένουμε και δεν δίνουμε ομοιοπαθητικό.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

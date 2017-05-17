@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4a7af0d9dd83f93d8428993a6da49a23</ID>
+  <patient>
+    <gender>female</gender>
+    <patient_initials>Δ.Λ</patient_initials>
+    <age>40</age>
+    <circumstances>παντρεμενη, χωρις παιδια&#13;
+κτηνιατρος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ημικρανιες πολλες,πονος στην μεση/αυχενα, υπεριδρωσια</origin>
+        <causative_factors>26 ετων κοχλιακη ωτοσπογγιωση, δεξι αυτι 100</causative_factors>
+        <modalities>&lt;ακινησια, νομιζει οτι θα πεθανει αν καθισει δυο ωρες στον καναπε χωρις να κανει τιποτα</modalities>
+        <occurrence_time>δν παρατηρει χρονικο πλαισιο, οι ημικρανιες μπορει να την πιασουν οποιαδηποτε στιγμη της ημερας, πολλες φορες ξυπναει με ημικρανια</occurrence_time>
+        <body_side>ολα τα συμπτωματα δεξια</body_side>
+        <appearence_frequency>καθημερινα</appearence_frequency>
+        <pain_desc>πονος εντονος, διαξυφιστικος με διαρκεια που επαναλαμβανεται</pain_desc>
+        <complaint_ext>η ημικρανια πιανει κ βρεγματικο και βαση κρανιου</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>παυσιπονα για (mesulid καθε μερα)</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εχει περασει μελιταιο πυρετο, ολικη αναισθησια 1 φορα </therapies_vaccination>
+          <traumas>στην εφηβεια πιεζε πολυ τον εαυτο της κ πανω στην συνεδρια συνηδειτοποιησε οτι απο εκει ξεκινησαν τα συμπτωματα</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας λεμφωμα(απεβιωσε)</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει πολυ, χερια ποδια μονιμως παγωμενα</reactions>
+        <sleeping_habits>μπρουμυτα παντα, κακος υπνος ,κοιμαται 3 ωρες κ μετα δν μπορει να ξανακοιμηθει</sleeping_habits>
+        <food_modalities>επιθυμει πολυ αλκοολ(3), προβλημα μετριου αλκοολισμου στο πανεπιστημιο, θελει οπωσδηποτε καφε γτ την πιανει ημικρανια διαφορετικα, δν θελει λιπη, θελει καυτερα</food_modalities>
+        <menstruation>κφ, αιμα κανονικο</menstruation>
+      </physical>
+      <mental_emotional>ανασφαλειες πολλες, 'χαζεμενη' αισθανεται, δν εχει πραγματικους φιλους, κλειστη αλλα δειχνει κοινωνικη</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>επιβαρυμενος οργανισμος, μετρια προγνωση</personal_medical_history>
+        <family_medical_history>μετρια προδιαθεση απο γονεις, αδελφη πεθενε προσφατα απο μεσογειακη αναιμια</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>δυσκολο περιστατικο, εγινε συσταση για ψυχολογικη υποστηριξη, φαινεται υστερικη</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>την καιει η πατουσα της(2), ερπη και μυκητες πριν απο καθε περιοδο</peculiar>
+        <intense>ημικρανιες 2 φορες την εβδομαδα που κρατανε 2 μερες(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>nux vomica, natrum muriaticum, sepia</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>nux vomica, natrum muriaticum</remedies_differentiation>
+      <prescription>
+        <remedy>nux vomica</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>αισθανομαι οτι θα μου φορτωθει σαν ασθενης</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>παυσιπονα για (mesulid καθε μερα)</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>στις πρωτες μερες που πηρε το φαρμακο ζητησε απ τον αντρα της να χωρισουν (ο συζυγος με πηρε τηλ οτι εγω φταιω που της εδωσα τα φαρμακα), ειχε τρομερους πονικεφαλους και φριχτες αυπνιες, 'μν μ ακουμπατε', φαινεται κ νιωθει πιο ηρεμη τωρα</reaction>
+      <analysis>εντυπωσιακη πρωτη αντιδραση, το προβλημα ειναι οτι δν αντεχει χωρις καφε...</analysis>
+      <conclusion>πηγε καλα θεωρω δεδομενων των συνθηκων , φαινεται πιο συνηδειτοποιημενη, συνεχιζω ιδια αγωγη</conclusion>
+      <repertorization>
+        <desc>nux vomica, sepia, arnica</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>nux vomica</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>σιγουρα λεει ψεματα οτι θα κοψει τον καφε</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

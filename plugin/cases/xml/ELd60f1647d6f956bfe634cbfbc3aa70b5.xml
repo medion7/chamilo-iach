@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd60f1647d6f956bfe634cbfbc3aa70b5</ID>
+  <patient>
+    <case_date>2015-10-15 12:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Β.ΜΠ.</patient_initials>
+    <age>28</age>
+    <circumstances>Κοπελα 28  ετων &#13;
+ελευθερη,μενει με τους γονεις της,&#13;
+δουλευει ως πωλητρια σε φουρνο</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>χρονια γενικευμενη ουλιτιδα εδω και δεκα 10 χρονια</origin>
+        <causative_factors>δεν υπαρχει εμφανης λογος&#13;
+καθαρο στομα, χωρις τερηδονες&#13;
+περιοδοντιο καθαρο χωρις ιδιαιτερη τρυγια  </causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate&#13;
+εχει συνεχεια αιμορραγια οταν ερεθιζονται ακομα κ απο το βουρτσισμα (κοκκινιζει ο νιπτυρας)&#13;
+πιο πολυ οταν παραμελει την υγιεινη της&#13;
+βελτιωση μετα απο επισκεψη στον οδοντιατρο</modalities>
+        <occurrence_time>εχει σθνεχεια αιμα  κ κακοσμια &#13;
+καλλιτερευση μετα απο επισκεψη στον οδοντιατρο για λιγεσ μερες&#13;
+επιδεινωση οταν παραμελει την υγιεινη τησ </occurrence_time>
+        <body_side>Please enter side of the body&#13;
+και τα δυο &#13;
+full mouth</body_side>
+        <appearence_frequency>Please enter frequency of appearan&#13;
+καθημερινα</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+χωρις πονο</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other part&#13;
+οχι</complaint_ext>
+        <other_complaints>οχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions&#13;
+δεν παιρνει</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>υγιης γενικα τελευταιο πυρετο πριν 3 χρονια &#13;
+εχει κανει τα κλασικα εμβολια &#13;
+δεν πασχει απο κατι</therapies_vaccination>
+          <traumas>χωρισε πτριν 1 χρονο ,μενει με τουσ γονεισ της &#13;
+σωματικα τιποτα &#13;
+</traumas>
+          <infections>πυρετο πριν 3 χρονια</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases> &#13;
+Μητερα εχει πιεση &#13;
+Πατερας χολιστερινη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει πολυ </reactions>
+        <sleeping_habits>κοιμαται πολλες ωρες &#13;
+βλεπει ονειρα ,ευχαριστα ,δεν τα θυμαται παντα &#13;
+ξυπναει καλα &#13;
+δεν εχει καποια συγκεκριμενη θεση υπνου</sleeping_habits>
+        <food_modalities>δεν τρωει πολυ &#13;
+αγαπημενο φαγητο πατατες με τυρι&#13;
+δεν εχει αλλη ιδιαιτερη προτιμηση τρωει τα παντα απο λιγο &#13;
+τησ αρεσει η σοκολατα</food_modalities>
+        <menstruation>καθε 28-30 μερες ,εχει μεγαλη διαρκεια 7-8 μερες με μεγαλη ροη κυριωσ την ημερα ,μπορει και να λερωθει &#13;
+αιμα κοκκινο καθαρο κ αφθονο &#13;
+λιγο πονο την 1 μερα που βελτιωνεται με την κινηση η παιρνει καποιο παυσιπονο</menstruation>
+      </physical>
+      <mental_emotional>δεν θελει/φοβαται την μοναξια ,αποφευγει να μενει μονη&#13;
+αγχοσ υγειαςγια το ανηψακι της και για την  οικογενεια τησ </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>επικοινωνιακη ,χαλαρη ,χαρουμενη ,&#13;
+τισ αρεσει που δουλευει με κοσμο (πωλητρια)&#13;
+κουραζεται πολυ κ κοιμαται πολυ</personal_medical_history>
+        <family_medical_history>καλο επιπεδο υγειας &#13;
+μητερα με πιεση &#13;
+πατερασ χοληστερινη </family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+υψηλο επιπεδο υγειας,</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest&#13;
+ουλορραγια 4&#13;
+ εμ.ρ. με μεγαλη διαρκεια κ καθαρο αιμα 2&#13;
+φοβο μοναξιας 3&#13;
+αγχοσ για την οικογενεια 3</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mouth-bleading gums   4&#13;
+mind-company-desire for    4&#13;
+mind-fear -lovedpersons;about health of   2&#13;
+generals-food and drinks-cold drinks and cold water-desire-ice-cold-water   2&#13;
+general-food and drink-chocolate desire 3&#13;
+female genitalia /sex -menses-bright red  2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+phosphorus &#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>Please enter regimen&#13;
+εφαπαξ</regimen>
+        <other_notes>Please enter other notes&#13;
+ασθενης σε υψθλο επιπεδο υγειας χωρισ σοβαρα προβληματα </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-01-16 10:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+phosphorus 200ch</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+δεν καταλαβε κατι διαφορετικο&#13;
+μικρη βελτιωση στα ουλα δεν αιμορραγουν τοσο πολυ&#13;
+καλλιτερη ροη στην περιοδο δεν ποναει την πρωτη μερα πολυ λιγοτερο </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+η ασθενησ ειναι σε υψηλο επιπεδο υγειας ισωσ εκανε μικρη επιδεινωση που δεν την καταλαβε</analysis>
+      <conclusion>βελτιωση στο τοπικο συμπτωμα &#13;
+ψυχολογικα δεν αγχωνεται τοσο για το ανηψακι της &#13;
+εχει καλλιτερη ενεργεια </conclusion>
+      <repertorization>
+        <desc>mouth-bleading gums 2&#13;
+mind-company-desire for    4&#13;
+mind-fear -lovedpersons;about health of   2&#13;
+generals-food and drinks-cold drinks and cold water-desire-ice-cold-water   2&#13;
+female genitalia /sex -menses-bright red  2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>1 M</potency>
+        <regimen>EΦΑΠΑΞ</regimen>
+        <other_notes>η ασθενης ανηκει σε υψηλο επιπεδο υγειας &#13;
+ειχε καλη αντιδραση στο 200 καθαρη εικονα φαρμακου κ για αθτο ανεβηκα σε 1 μ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-01 10:00:00</followup_date>
+      <conv_med_presc>phosphorus 1m</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δεν παρατηρήθηκε αρχικη επιδεινωση &#13;
+εχει βελτιωση στα τοπικα συμπτωματα &#13;
+εχει βελτιωση και στα ψυχοδιανοητικα καθως αναφερει καλλιτερη ενεργεια λιγοτερα αγχος κ παρατηρησε οτι νιωθει πιοα χαλαρη την πλατη της  </reaction>
+      <analysis>καλη αντιδραση στο φαρμακο </analysis>
+      <conclusion>εχει καλη πορεια απο το φαρμακο δεν εχει αλλαξει κατι σε εικονα φαρμακου &#13;
+περιμενουμε</conclusion>
+      <repertorization>
+        <desc>mouth -bleeding gums 2&#13;
+mind-company desires for 4&#13;
+mind fears -loved persons about health 2&#13;
+generals- food and drinks-cold water desires-ice-cold-water 2female genitalia /sex-menses-bright red 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-06-08 10:00:00</followup_date>
+      <conv_med_presc>phosphorus 200ch (7/11/2014)&#13;
+phosphorus 1m (16/1/2015)</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>καλη</reaction>
+      <analysis>καλη</analysis>
+      <conclusion>μετα απο 8 μηνες που αρχισε θεραπεια ,εχει βελτιωσει στην ουλοραγια που επιμενει μονο σε σημεια &#13;
+νιωθει καλλιτερα σε ενεργεια </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2015-10-15 10:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

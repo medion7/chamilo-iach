@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELe2b95f25badd99c38327926d5f9ee64c</ID>
+  <patient>
+    <case_date>2016-02-24 20:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Λ.Π</patient_initials>
+    <age>55</age>
+    <circumstances>παντρεμενη με 2 παιδια &#13;
+οικοκυρικα</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>θλιψη εδω και ενα μηνα &#13;
+εχασε τηνν αδερφη της </origin>
+        <causative_factors>πενθος</causative_factors>
+        <modalities>οταν ειναι με κοσμο πρεπει να προσποιουμαι &#13;
+καλλιτερα μονη της&#13;
+&#13;
+</modalities>
+        <occurrence_time>τον τελεθταιο μηνα</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>οχι </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>οχι</conv_med_presc>
+        <lab_tests>
+          <desc>--</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>τα κλασικα εμβολια &#13;
+2 καισαρικες&#13;
+εμηνοπαυση</therapies_vaccination>
+          <traumas>ο θανατος της αδερφης της της θυμισε τον πατερα τους πεθανε πριν 15 χρονια </traumas>
+          <infections>δεν θυμαται τα τελευται 3-4 χρονια </infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας πεθανε απο καρκινο πνευμονων &#13;
+αδερφη απο πνευμονικο οιδημα ηταν με ειδικες αναγκες</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει 3&#13;
+κοιμαται με καλτσες και σκεπασμενη μεχρι το κεφαλι</reactions>
+        <sleeping_habits>στο δεξι πλεθρο συνηθως</sleeping_habits>
+        <food_modalities>τον τελεθταιοο καιρο δεν εχει ορεξη να φαει εχασε 3 κιλα &#13;
+της αρεσουν τα γλυκα3 ,οχι τοσο το κρεασ 1&#13;
+της αρεσουν τα λαδερα2 &#13;
+νερο οχι τοσο2 ,απο την βρυση </food_modalities>
+        <menstruation>σε εμυνοπαυση τα τελευταια χρονια καποιους μηνες δεν της ερχεται νιωθει φουσκωμενη &#13;
+</menstruation>
+      </physical>
+      <mental_emotional>πενθει</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>καλο επιπεδο υγειας &#13;
+</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>κομπος στο λαιμο 3&#13;
+δεν μπορει να κλαψει μπροστα σε αλλους2</peculiar>
+        <intense>ανορεξια 3&#13;
+κρυωνει 3&#13;
+καλλιτερα μονη της 3&#13;
+δεν μπορει να κλαψει 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind ailments fron grief 4&#13;
+mind ailments from-grief silent 3&#13;
+general cold becaming cold 2&#13;
+mind company -aversion to 3&#13;
+mind weeping -cannot weep,thouhgt sad 3&#13;
+mind anoraxia nevrosa 1&#13;
+generals food and drinks-sweet desire 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>n.muriaticum δεν εχει την ευαισθησια στον ηλιο οθτε στο δερμα 'δεν εχει πονοκεφαλους δεν εχει απεχθεια στα γλειωδη τρωει μπαμιες θα πηγαινε σε ξενη τουαλετα &#13;
+sepia δεν ειναι αποτραβηγμενη απο την οικογενεια της έχει συναισθημα ομως εχει την κουραση στο σπιτι δεν εχει επιθυμια για σεχ ειναι σε εμμηνοπαθση με λευκοροια κατα περιοδους &#13;
+ignatia θλιψη πενθος κομπος στο λαιμο κρυωνει καλλιτερα μονη της δεν μπορει να κλαψει αδυναμια απο στεναχωρια &#13;
+  το φαρμακο που ταιριαζει καλλιτερα ειναι η ignatia </remedies_differentiation>
+      <prescription>
+        <remedy>ignatia </remedy>
+        <potency>1m</potency>
+        <regimen>once</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-24 19:00:00</followup_date>
+      <conv_med_presc>ignatia 1 m</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>οχι αρχικη επιδεινωση &#13;
+το συνηθίζει σιγα σιγα οτι χαθηκε η αδερφη της &#13;
+φοβαται για την υγεια της &#13;
+νιωθει πολυ κουρασμενη /εχει υποταση&#13;
+ολο θελει να κοιμαται &#13;
+διαχειριζεται το πενθος της καλλιτερα εβγακε τα μαυρα στις 40 μερες &#13;
+δεν θελει κοσμο παρεα /καλλιτερα μονη της&#13;
+δεν θελει ουτε τους δικους της &#13;
+αποφευγει τον αντρα της στο κρεβατι &#13;
+κρυωνει 3&#13;
+καλλιτερα στο γυμναστηριο 3&#13;
+την κουραζει η οικογενεια της&#13;
+θελει να ειναι μονη της&#13;
+&#13;
+ </reaction>
+      <analysis>μικρη βελτιωση στα ψυχολογικα &#13;
+εχει αλλαξει εικονα ,το πενθος φαινεται να εχει υποχωρησει τωρα εχει μεγαλθτερη ενοχληση απο την καθημερηνοτητα της μεσα στο σπιτι &#13;
+</analysis>
+      <conclusion>αλλαξε φαρμακο η ιγνατια εφυγε φαινεται μια σεπια&#13;
+ ισως ηταν σεπια πριν τον θανατο της αδερφης της καλυφθηκε απο την ιγνατια λογω πενθους που  υπερισχυσε και τωρα μετα το πρωτο φαρμακο φαινεται να προβαλει ι η σεπια </conclusion>
+      <repertorization>
+        <desc>mind -company -aversion 4&#13;
+mind-company-aversion to-alonewhen-amel 4&#13;
+femile genitalia/sex-menopause 2&#13;
+female genitalia/sex-coition-aversion to -3&#13;
+chill-chilliness  3&#13;
+general motion -amel 4&#13;
+back -weakness 3&#13;
+general -food and drinks -sweets -desire 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>sepia </remedy>
+        <potency>200ch`</potency>
+        <regimen>once</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-24 19:00:00</followup_date>
+      <conv_med_presc>sepia 200ch</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>νιωθει καλλιτερα &#13;
+δεν ειχε αρχικη επιδεινωση&#13;
+βελτιωση στην ενεργεια της &#13;
+ελεγχει τα νευρα της καλλιτερα &#13;
+εξακολουθει να μην θελει κοσμο αλλα οχι τοσο εντονα </reaction>
+      <analysis>βελτιωση χωρις αρχικη επιδεινωση ,αλλαγη στα ψυχοδιαννοητικα περιμενουμε </analysis>
+      <conclusion>παρουσιαζει βελτιωσει τοσο σωματικα οσο και ψυχολογικα &#13;
+περιμενουμε &#13;
+&#13;
+</conclusion>
+      <repertorization>
+        <desc>mind copmany aversion to 3&#13;
+general-food and drink -sweets-desire 2&#13;
+back weakneww2&#13;
+general motion amel 4&#13;
+chill-chillness 3&#13;
+female genitalia /sex -menopausa 2&#13;
+female genitalia /sex -coition-aversion to 2&#13;
+mind company-aversion to -alone ;when-amel 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>τιποτα </remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>περιμενουμε</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

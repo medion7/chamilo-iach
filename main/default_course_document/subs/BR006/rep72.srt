@@ -1,0 +1,168 @@
+1
+00:00:19,488 --> 00:00:31,800
+-Quando você está utilizando o sistema VES, facilita. Como você desenvolveu o sistema VES?
+
+2
+00:00:39,520 --> 00:00:48,651
+-Eu direi as regras pelas quais desenvolvi o VES.
+
+3
+00:00:51,915 --> 00:01:31,915
+Eu desenvolvi este sistema especializado através de duas regras básicas. Uma foi o entusiasmo, a segunda foi o conhecimento do que estava fazendo enquanto tratava um caso. Duas regras básicas.
+
+4
+00:01:35,925 --> 00:02:00,420
+E alguns detalhes agora. A Universidade Namur da Bélgica, eles me abordara, as pessoas da Universidade e disseram: "Nós fizemos uma preparação de 7 anos com um time de programadores
+
+5
+00:02:00,520 --> 00:02:09,696
+para um sistema especializado ser construído nas bases para podermos colocá-lo no computador.
+
+6
+00:02:11,232 --> 00:02:22,347
+Você está interessado em fazer um sistema especializado?" Eu disse: "Não, eu não acredito que nenhum computador possa dar o remédio correto.
+
+7
+00:02:23,560 --> 00:02:29,493
+Por causa da repertorização sinalizada, a maioria dos remédios, etc." E eu disse: "Isso não funcionará."
+
+8
+00:02:30,667 --> 00:02:41,397
+Eles disseram: "Não, nós programaremos a sua forma de raciocinar e a colocaremos no computador."
+
+9
+00:02:42,600 --> 00:02:51,872
+Eu disse: "O que é isso? E posteriormente vocês venderão o meu cérebro."
+
+10
+00:02:52,469 --> 00:02:59,680
+"Mas tudo bem, se funcionar, eu darei a vocês as informações. O que querem saber?"
+
+11
+00:03:00,832 --> 00:03:09,216
+E havia um time de programadores e começaram a fazer perguntas. "O que você faria neste caso? O que você faria naquele caso?"
+
+12
+00:03:10,389 --> 00:03:23,160
+E eu dizia a eles. "O que você acha? O que é isso e aquilo?" Eu dava as respostas e eles anotavam algumas equações matemáticas, conforme eu falava.
+
+13
+00:03:23,960 --> 00:03:40,064
+Eu disse: "O que você está anotando aí?" Eles disseram: "Você fala, você nos conta. Por que você não deu Sulphur para este caso, pois está cobrindo a maioria dos sintomas e deu Lachesis que cobria isso?"
+
+14
+00:03:40,917 --> 00:03:52,680
+Eu expliquei a eles e em seguida, em um determinado momento, eu entendi mais ou menos o que eles queriam. Isso foi durante um ano e meio.
+
+15
+00:03:53,269 --> 00:04:03,808
+No final, para acelerar o processo, eu disse: "Ok, eu darei as regras a vocês, depois disso."
+
+16
+00:04:04,560 --> 00:04:16,337
+"Você dá este e aquele e aponta isso e aquilo..." e eu dei todas as regras que levaram um ano e meio, que você me pediu para dizer agora.
+
+17
+00:04:16,437 --> 00:04:30,620
+Após eu ter dado todas as regras, honestamente eu não conseguia me lembrar do que estava falando todo esse tempo. Não era possível me lembrar de todas as regras.
+
+18
+00:04:30,720 --> 00:04:40,459
+Mas eles anotaram todas. Dessa forma, onde estava agora a prova, se este era realmente um sistema especializado? Sim ou não?
+
+19
+00:04:43,339 --> 00:04:50,620
+Após eles terem terminado, me pediram para levar 3 casos para testar, "casos que você tratou."
+
+20
+00:04:50,720 --> 00:05:08,880
+Um dos casos foi de neuralgia trigeminal e eu dei Verbascum, mas o médico me deu 25-30 sintomas. Mas eu prescrevi Verbascum em 3 sintomas-chaves. Eu não consigo me lembrar agora.
+
+21
+00:05:10,347 --> 00:05:24,384
+Eu tomei este caso, eu disse: "Não é possível que o computador me dirá, escolherá o remédio Verbascum. Não é possível, porque havia outros 17 antes de Verbascum.
+
+22
+00:05:24,840 --> 00:05:35,861
+E assim, eu tomei um caso de Nux vomica e um caso de Natrum muriaticum que foram escolhidos principalmente sobre os sintomas-chaves.
+
+23
+00:05:37,120 --> 00:05:49,835
+Pois ele era o primeiro. Eu acho que o caso Natrum muriaticum apresentava uns 40 sintomas.
+
+24
+00:05:50,731 --> 00:06:04,967
+Eles tentaram colocá-lo no computador. Naquela época, o computador era como essa porta, grande. O computador colapsou porque eram muitos cálculos para serem apresentados.
+
+25
+00:06:05,067 --> 00:06:25,319
+E assim, ele colapsou, parou. "E agora, o que faremos?" O Professor da Universidade de Namur estava presente, os alunos que estavam associados, o homem que financiou este projeto, eu, os programadores juntos comigo... tudo colapsado.
+
+26
+00:06:25,419 --> 00:06:39,200
+Nós fomos à sala ao lado, abrimos um computador maior... O computador diz: "Este é um caso de Natrum muriaticum."
+
+27
+00:06:40,200 --> 00:06:49,035
+Eu disse: "Ok, talvez eu tenha trazido um caso fácil.
+
+28
+00:06:52,085 --> 00:07:04,721
+Vamos ver. Coloque este caso. Eu li os sintomas do caso, eles os colocaram. Eu escolhi Verbascum.
+
+29
+00:07:04,821 --> 00:07:14,507
+O computador disse: "O remédio é Verbascum." Eu não pude acreditar, como é possível?
+
+30
+00:07:15,019 --> 00:07:28,800
+Como que diabos em 32 sintomas, Verbascum cobria apenas 5 sintomas. Como era possível que este computador cruel dizia que este era o remédio?"
+
+31
+00:07:29,376 --> 00:07:47,189
+Enquanto o segundo remédio foi encontrado, o Professor disse à secretária: "Vá e traga uma champanha para celebrar." Pois ele não acreditava que em 3 casos, 2 estavam corretos.
+
+32
+00:07:47,960 --> 00:08:02,187
+Nós colocamos o terceiro caso, era Nux vomica... Nux vomica foi um caso com grande certeza. Pois tínhamos valores corretos. Vocês verão, ainda o temos lá.
+
+33
+00:08:03,168 --> 00:08:16,209
+Era um grande entusiasmo e o Professor disse: "Eu nunca acreditei que o sistema funcionaria."
+
+34
+00:08:16,309 --> 00:08:26,193
+Pois se houvesse qualquer erro em qualquer lugar, os cálculos seriam atrapalhados e não poderiam apresentar o verdadeiro.
+
+35
+00:08:26,293 --> 00:08:39,313
+Isso significa que eles programaram, como eu disse, exatamente o meu raciocínio neste Repertório. Não é tão fácil duplicar e dar a vocês todas as regras.
+
+36
+00:08:39,413 --> 00:08:54,155
+O que eu posso dar a você é que nos encontramos por um ano e meio e eu disse: "Ok, se você manejar para duplicar o meu cérebro, você poderá vendê-lo."
+
+37
+00:08:58,443 --> 00:09:12,935
+Mas ainda assim, o que estávamos trabalhando em 1990 era diferente de todo esse lixo que foi adicionado no passado. 
+
+38
+00:09:13,035 --> 00:09:21,547
+Eles colocaram todas essas imaginações e todos esses remédios e, é claro, o sistema está de cabeça para baixo agora.
+
+39
+00:09:22,507 --> 00:09:27,819
+-O que você diz sobre as partes (?) do Repertório?
+
+40
+00:09:36,600 --> 00:09:50,033
+-Qual Repertório?
+-O Synthesis, ele diz que na (?) é um sintoma confirmatório.
+
+41
+00:09:50,133 --> 00:10:12,832
+-Ele está perguntando se a informação (?) era confiável. Sim (?) era uma dessas pessoas que praticaram a Homeopatia e era capaz de dar algumas confirmações ou acréscimos.
+
+42
+00:10:13,856 --> 00:10:15,300
+Ele era um homeopata muito bom.

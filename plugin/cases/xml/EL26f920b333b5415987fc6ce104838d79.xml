@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL26f920b333b5415987fc6ce104838d79</ID>
+  <patient>
+    <case_date>2016-05-06 22:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΔΜ</patient_initials>
+    <age>2</age>
+    <circumstances>Please enter the personal circumstances&#13;
+ΠΑΙΔΙ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ΕΞΑΝΘΗΜΑ ΚΝΗΣΜΩΔΕΣ ΣΤΗΝ ΠΕΡΙΟΧΗ ΤΗΣ ΠΑΝΑΣ , ΣΤΟΝ ΚΟΡΜΟ ΚΑΙ ΑΚΡΑ.&#13;
+ ΑΙΦΝΙΔΙΑΣ ΕΜΦΑΝΙΣΗΣ</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+άγνωστοι</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+ΜΕΓΑΛΗ ΕΠΙΔΕΙΝΩΣΗ ΜΕΤΑ ΤΟ ΜΠΑΝΙΟ (ΑΣΧΕΤΑ ΤΗΣ ΘΕΡΜΟΚΡΑΣΙΑΣ ΤΟΥ ΝΕΡΟΥ)</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+ΑΠΡΟΣΔΙΟΡΙΣΤΟΣ</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΑΜΦΟΤΕΡΟΠΛΕΥΡΑ</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ΣΥΝΕΧΗΣ</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΜΕΓΑΛΗ ΥΠΕΡΚΙΝΗΤΙΚΟΤΗΤΑ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ΞΗΡΟΔΕΡΜΙΑ-2&#13;
+ΑΥΞΗΣΗ ΑΠΟΒΟΛΗΣ ΑΕΡΙΩΝ , ΤΑ ΟΠΟΙΑ ΕΙΝΑΙ ΘΟΡΥΒΩΔΗ-2&#13;
+</complaint_ext>
+        <other_complaints>ΡΙΝΙΚΗ ΣΥΜΦΟΡΗΣΗ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+ΚΑΜΜΙΑ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>MEDORRHINUM , 10 ημερών λόγω ρινικής συμφόρησης.&#13;
+BELLADONNA , σε εμπύρετο</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΑΝΕΜΒΟΛΙΑΣΤΟ&#13;
+</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+ΔΕΝ ΥΠΑΡΧΟΥΝ</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΚΑΜΙΑ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΨΩΡΙΑΣΗ , Ο ΠΑΤΕΡΑΣ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΗ ΙΔΙΟΣΥΓΚΡΑΣΙΑ&#13;
+ΣΕΣΤΑ ΠΟΔΙΑ</reactions>
+        <sleeping_habits>ΚΑΛΟΣ ΥΠΝΟΣ&#13;
+ΙΔΡΩΝΕΙ-1&#13;
+ΜΠΡΟΥΜΥΤΑ-3</sleeping_habits>
+        <food_modalities>ΑΥΓΟ-2</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+ΠΟΛΛΗ ΕΝΤΑΣΗ&#13;
+ΜΕΓΑΛΗ ΕΝΕΡΓΕΙΑ-ΑΝΥΣΗΧΙΑ&#13;
+ΥΠΕΡΚΙΝΗΤΙΚΟΤΗΤΑ , ΧΩΡΙΣ ΚΑΤΑΣΤΡΟΦΙΚΗ ΔΙΑΘΕΣΗ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+ΓΕΝΝΗΘΗΚΕ ΜΕ ΦΥΣΙΟΛΟΓΙΚΟ ΤΟΚΕΤΟ , ΧΩΡΙΣ ΠΡΟΒΛΗΜΑΤΑ , ΤΕΛΕΙΟΜΗΝΟ.&#13;
+</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+παππους με βλενορροια&#13;
+πατέρας με ψωρίαση</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+η πρόγνωση είναι άριστη ,&#13;
+ διότι πρώτον υπάρχει εξάνθημα σε ένα παιδί εντελώς παρθένο , χωρίς χημικά φάρμακα και εντελώς ανεμβολίαστο.&#13;
+Δεύτερον το παιδί είχε κληρονομήσει το συκωτικό μίασμα , με εκδήλωση λίγο μετά την γέννηση του(ρινική συμφόρηση) και με το med εξαφανίστηκε η ρινίτιδα αμέσως και κατά συνέπεια και το μίασμα.&#13;
+Τρίτον στο εμπύρετο ανταποκρίθηκε στη bell με επιτυχία </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+θέση ύπνου μπρούμυτα-3&#13;
+ζεσταίνεται-3&#13;
+αέρια θορυβώδη-2&#13;
+κνησμός-1&#13;
+επίδείνωση με το νερό-3</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+εξάνθημα-3&#13;
+τπερκινητικότητα-2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>skin eruption-3&#13;
+skin eruption ,washing agg-3&#13;
+extremities eruption - 3&#13;
+generalities bathing agg -3&#13;
+generalities warm agg -3&#13;
+abdomen flatulence -2&#13;
+skin itching -1&#13;
+skin dry -1&#13;
+genitalia male eruption -2&#13;
+genitalia male eruption itching -3&#13;
+rectum flatus loud -2&#13;
+mind restlessness, nervousness-2&#13;
+&#13;
+sulphur 10/12&#13;
+rhus-toxicodendron 9/12&#13;
+clematis erecta 8/12&#13;
+petroleum 8/12&#13;
+mezereum 10/12&#13;
+sepia 9/12&#13;
+psorinum 9/12&#13;
+causticum 9/12&#13;
+mercurius solubilis 10/12&#13;
+arsenicum album 7/12&#13;
+dulcamara 8/12&#13;
+calcarea sulphurica 7/12</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+εξάνθημα με επιδείνωση από το νερό έχουν:sulphur-3 , clematis -3 &#13;
+το sulphur ταιριάζει γιατί ζεσταίνεται και εμφανίζει εξανθήματα στην περιοχή της πάνας,καθώς και υπερκινητικότητα.&#13;
+το clematis δεν είναι ζεστό φάρμακο και δεν εμφανίζει εξάνθημα στην περιοχή της πάνας.&#13;
+  εξάνθημα με επιδείνωση από το νερό έχουν:dulc-2 , psor-2 &#13;
+η dulc δεν εμφανίζει αέρια &#13;
+το psor είναι κρύο φάρμακο&#13;
+εξάνθημα με επιδείνωση από το νερό έχουν:canth-1 , hydr-1 , mez-1 ,phos-1 , urt-u-1&#13;
+το mez δεν έχει εξάνθημα γενν. οργάνων&#13;
+το canth δεν έχει εξάνθημα  γενν. οργάνων&#13;
+το hydr δεν έχει εξάνθημα γενν. οργάνων&#13;
+η urt-u δεν εμφανίζει υπερκινητικότητα&#13;
+ο phos δεν έχει εξάνθημα γενν. οργάνων&#13;
+επομένως το sulphur ταιριάζει πιο καλά στην περίπτωση&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedysulphur </remedy>
+        <potency>Please enter potency200 ch</potency>
+        <regimen>Please enter regimen&#13;
+1 κάψουλα</regimen>
+        <other_notes>Please enter other notes&#13;
+ουδέν</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-05-06 20:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ουδέν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+από την δεύτερη μέρα βελτίωση και την πέμπτη ημέρα πλήρης ίαση.&#13;
+20 ημέρες μετά την ίαση εμφανίζει ρινική συμφόρηση  μόνο κατά την διάρκεια του ύπνου με ροχαλητό και το στόμα ανοιχτό , καθώς και κοκκινίλα περιπρωκτικά όταν τρώει πορτοκάλι , επίσης το εμφανίζει και όταν τρώει πορτοκάλι και η μητέρα που τον θηλάζει.&#13;
+Το περίεργο είναι ότι το πορτοκάλι το τρώει με πολύ όρεξη και το ζητάει.&#13;
+Γκρίνια ,νευρικότητα , ζητάει την παρουσία των γονέων συνεχώς , υπερκινητικός.&#13;
+ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ήταν το σωστό φάρμακο το sulphur.&#13;
+Τώρα έχει εμφανιστεί καινούργιο φάρμακο.</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Τώρα έχει εμφανιστεί καινούργιο φάρμακο.&#13;
+Διαλέγω το olnd διότι είναι το μόνο φάρμακο που δίνει επιδείνωση με το πορτοκάλι , αφού είναι ολοφάνερο ότι αυτό είναι ο αιτιολογικός παράγοντας .&#13;
+Το med έχει επιθυμία για πορτοκάλι με εμφάνιση εξανθήματος στο περίνεο , αλλά δεν εμφανίζει συμφορητικά συμπτώματα ρινός κατά την διάρκεια του ύπνου , και δεν κάνει agg με το πορτοκάλι.   &#13;
+</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+gen warm agg -2&#13;
+gen oranges des-2&#13;
+gen oranges agg -2&#13;
+rectum eruption perineum -2&#13;
+rectum eruption about anus -2&#13;
+mind irritability -2&#13;
+nose obstruction during sleep -3&#13;
+respiration snoring -3&#13;
+mouth open sleep during -2&#13;
+mind desire for company -2&#13;
+mind restlessness nervouness-2&#13;
+&#13;
+lyc 8/11&#13;
+opium 5/11&#13;
+oleander 4/11&#13;
+medorrhinum 5/11&#13;
+arg-n 5/11&#13;
+sulphur 6/11&#13;
+petroleum 5/11&#13;
+calc 6/11&#13;
+lac-c 5/11&#13;
+bromium 7/11&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter p remedyOLEANDER</remedy>
+        <potency>Please enter potency30 CH</potency>
+        <regimen>Please enter regimen &#13;
+1 ΚΑΨΟΥΛΑ</regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΕΠΙΘΥΜΕΙ ΠΟΛΥ ΤΟ ΑΥΓΟ -3&#13;
+ΙΔΡΩΝΟΥΝ ΟΙ ΠΑΤΟΥΣΕΣ ΚΑΙ ΜΥΡΙΖΟΥΝ ΑΣΧΗΜΑ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-05-06 20:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΚΑΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΔΥΟ ΗΜΕΡΕΣ ΜΕΤΑ ΤΟ OLEANDER ΕΞΑΦΑΝΙΣΤΗΚΑΝ ΟΛΑ ΤΑ ΣΥΜΠΤΩΜΑΤΑ: Η ΡΙΝΙΚΗ ΣΥΜΦΟΡΗΣΗ , Η ΑΛΛΕΡΓΙΑ ΣΤΟ ΠΟΡΤΟΚΑΛΙ , Η ΥΠΕΡΚΙΝΗΤΙΚΟΤΗΤΑ , Η ΓΡΙΝΙΑ ΚΑΙ Η ΝΕΥΡΙΚΟΤΗΤΑ.&#13;
+ΔΕΝ ΕΠΙΘΥΜΕΙ ΠΛΕΟΝ ΠΟΡΤΟΚΑΛΙ ΚΑΘΟΛΟΥ.Η ΜΗΤΕΡΑ ΤΡΩΕΙ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΝΑ ΕΜΦΑΝΙΖΕΙ ΤΟ ΠΑΙΔΙ ΠΕΡΙΠΡΩΚΤΙΚΗ ΕΡΥΘΡΟΤΗΤΑ. </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΗΤΑΝ ΤΟ ΣΩΣΤΟ ΦΑΡΜΑΚΟ ΚΑΙ ΚΑΤΑ ΣΥΝΕΠΕΙΑ ΙΑΘΗΚΕ ΑΠΟ ΤΗΝ ΑΛΛΕΡΓΙΑ ΣΤΟ ΠΟΡΤΟΚΑΛΙ.&#13;
+ΕΝΙΣΧΥΘΗΚΕ ΕΤΣΙ ΤΟ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΠΟΥ ΧΤΙΣΑΜΕ ΜΕ ΤΗΝ ΟΜΟΙΟΠΑΘΗΤΙΚΗ.</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΑΝΑΜΟΝΗ&#13;
+</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+ΔΕΝ ΧΡΕΙΑΖΕΤΑΙ</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedyΟΥΔΕΝ</remedy>
+        <potency>Please enter potency-</potency>
+        <regimen>Please enter regimen&#13;
+_</regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΚΑΜΙΑ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

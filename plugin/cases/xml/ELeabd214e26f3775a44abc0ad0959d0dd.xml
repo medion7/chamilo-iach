@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELeabd214e26f3775a44abc0ad0959d0dd</ID>
+  <patient>
+    <case_date>2015-05-20 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ. Β.</patient_initials>
+    <age>17</age>
+    <circumstances>Μαθήτρια λυκείου. Ανύπαντρη.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Εδώ και 3-4 μήνες πονάει το στομάχι της, κυρίως μετά το φαγητό, νιώθει έναν "κόμπο"(3)( στο στομάχι και στο λαιμό της, αναστενάζει(3) συνεχώς.</origin>
+        <causative_factors>Έχει πολύ άγχος για τις εξετάσεις. Επιδείνωση μετά από απόρριψη(3) (ερωτική απογοήτευση).</causative_factors>
+        <modalities>Επιδείνωση: όταν πίνει καφέ.&#13;
+&#13;
+Βελτίωση: με τη συντροφιά φίλων.</modalities>
+        <occurrence_time>Δεν υπάρχει συγκεκριμένη χρονική περίοδος εμφάνισης των συμπτωμάτων.</occurrence_time>
+        <body_side>Στομάχι, λαιμός.</body_side>
+        <appearence_frequency>Σχεδόν καθημερινά.</appearence_frequency>
+        <pain_desc>Νιώθει σαν να έχει έναν "κόμπο"/σφίξιμο στο στομάχι ή στο λαιμό.</pain_desc>
+        <complaint_ext>Μερικές φορές κάνει εμετούς. Δεν υπάρχουν άλλες επεκτάσεις.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Διάγνωση: Στομαχικές διαταραχές (πόνος και αναγούλες) τους τελευταίους 5 μήνες. Αναστενάζει συνεχώς. &#13;
+&#13;
+Φαρμακευτική αγωγή: ουδεμία.</conv_med_presc>
+        <lab_tests>
+          <desc>Κ.Φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπήρχαν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβολιασμός: πλήρης&#13;
+&#13;
+Προ ενός έτους πήρε κάποια φάρμακα λόγω εμφάνισης ακμής (4 μήνες Minosin).</therapies_vaccination>
+          <traumas>Όχι.</traumas>
+          <infections>Όχι.</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Ουδεμία.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει πολύ.(3)</reactions>
+        <sleeping_habits>Κοιμάται ανάσκελα με τα πόδια μέσα σκεπασμένα. Βλέπει πολλά όνειρα, τα οποία η ίδια θεωρεί φυσιολογικά (δεν την επηρεάζουν, δεν τα επεξεργάζεται μετά).</sleeping_habits>
+        <food_modalities>Αλάτι (3), απέχθεια στο λεμόνι (στα ξινά), στις μπάμιες και στο λίπος, φρούτα(3) ("δεν τρελαίνεται" όπως χαρακτηριστικά αναφέρει).</food_modalities>
+        <menstruation>Φυσιολογικός κύκλος, αρκετό αίμα, καθαρό.</menstruation>
+      </physical>
+      <mental_emotional>Emotional: Στεναχωριέται που την απέρριψε ο συμμαθητής της (νιώθει ερωτευμένη μαζί του).&#13;
+&#13;
+ Άγχος για επίτευξη του καλύτερου δυνατού αποτελέσματος στις σχολικές εξετάσεις της (θέλει να περάσει στην Ιατρική Σχολή το επόμενο έτος, που θα είναι στη Γ' Λυκείου).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Φυσιολογικό.</personal_medical_history>
+        <family_medical_history>Φυσιολογικό.</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Ειναι σε υψηλο επιπεδο υγειας ,κανει οξεα και δεν υπαρχει κληρονομικη επιβαρυνση.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>"κόμπος" στο λαιμό (4), απεχθεια στα φρουτα(3)</peculiar>
+        <intense>Αναστεναγμός (3),πονος στο στομαχι(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>1.ignatia ,2.n.muriaticum</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Επέλεξα το Ignatia διότι εχει κομπο στο λαιμο,θλιψη,αναστεναζει και εχει απεχθεια στα φρουτα.  </remedies_differentiation>
+      <prescription>
+        <remedy>Ignatia.</remedy>
+        <potency>200CH/1</potency>
+        <regimen>1x1</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-07-17 17:00:00</followup_date>
+      <conv_med_presc>Ignatia.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την επόμενη ημέρα απο τη ληψη του φαρμακου και για δύο ημέρες παρουσίασε έντονο πόνο στο στομάχι και τις επόμενες ημέρες η κατάσταση βελτιώθηκε. Σύντομα σταμάτησε να αναστενάζει.</reaction>
+      <analysis>Ψυχοδιανοητικά παρουσίασε σαφή βελτίωση.</analysis>
+      <conclusion>Σωστό φάρμακο - σωστή δυναμοποίηση. </conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν πήρε άλλο φάρμακο. Περιμένουμε.</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

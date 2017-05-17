@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELe3fcdd624f5ae0d59ba711a4a1b5d8a6</ID>
+  <patient>
+    <case_date>2016-02-29 22:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ν.Τ.</patient_initials>
+    <age>42</age>
+    <circumstances>δύο παιδιά,παντρεμένη,δικηγόρος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από 6μήνου περίπου έντονη στεναχώρια ,άγχος,αίσθημα ανικανότητας,θυμός</origin>
+        <causative_factors>Το συνδέει με έντονη στεναχώρια που προκύπτει από το περιβάλλον της</causative_factors>
+        <modalities>Δεν υπάρχει διαφοροποίηση</modalities>
+        <occurrence_time>Οι διακυμάνσεις των συναισθημάτων συνδέονται με τα ερεθίσματα του περιβάλλοντος</occurrence_time>
+        <body_side>Δεν αναφέρει σωματικά ενοχλήματα στη παρούσα φάση.Θυμάται την ύπαρξη αρθραλγιών των μικρών αρθρώσεων των χεριών προ 2 ετίας περίπου για τις οποίες είχε επισκεφθεί ρευματολόγο κι από τον έλεγχο δεν προέκυψε νόσημα του συνδετικού ιστού.Τώρα είναι ελεύθερη συμπτωμάτων.</body_side>
+        <appearence_frequency>συνεχώς σε θλιψη</appearence_frequency>
+        <pain_desc>οχι</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>σκεύασμα σιδήρου</conv_med_presc>
+        <lab_tests>
+          <desc>χαμηλή φερριτίνη ορού</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>όχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έγιναν όλοι οι συνήθεις εμβολιασμοί. Αντιβιοτικά επί αμυγδαλίτιδων κυρίως.Αφαίρεση ιναδενώματος αριστερού μαστού το 2005</therapies_vaccination>
+          <traumas>Οχι</traumas>
+          <infections>Οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητέρα με αρρυθμίες.αρθρίτιδα γονάτων &#13;
+Πατέρας με αρτηριακή υπέρταση, κολπική μαρμαρυγή ,υποτροπιάζον δερματικό εξάνθημα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει (3)</reactions>
+        <sleeping_habits>Κοιμάται στο πλάι (2) κυρίως, έχει  αυπνίες τη νύχτα(2) ,δεν θέλει να κοιμάται το μεσημέρι γιατί όποτε συμβαίνει αυτό σηκώνεται "άρρωστη(4)"</sleeping_habits>
+        <food_modalities>Επιθυμεί τα γλυκά(2),αυγά(3),σοκολάτα(2),αλάτι(3),φρούτα(3),τυρί(2),κρέας(1),ψάρι(1),παγωτό(2),δίψα -νερό θερμοκρασίας δωματίου(2)&#13;
+Απεχθάνεται λίπος(2),γάλα(3)</food_modalities>
+        <menstruation>Μικρός κύκλος.σκούρο κόκκινο αίμα</menstruation>
+      </physical>
+      <mental_emotional>Νιώθει πολύ λυπημένη και παράλληλα θυμωμένη καθώς εδώ κι αρκετό καιρό δέχεται έντονη κριτική από τους γονείς της κι από στενότατη- από πολλών ετών υποτιθέμενη φίλη και συνεργάτιδά της.Η κριτική από τους γονείς αφορά τη διαχείριση οικογενειακών της υποθέσεων και των επαγγελματικών της επιλογών .Η κριτική από τη φίλη της αφορά την προσωπικότητά της και της αποδίδει ευθύνες για το δικό της προσωπικό status( της φίλης).Οι συνθήκες αυτές προυπήρχαν αλλά τώρα της φαίνεται οτι εντάθηκαν.Η ίδια δεν αντιδρά, δεν υπερασπίζεται τον εαυτό της..Δεν τολμά ν απαντήσει .Επίσης αισθάνεται οτι μπορεί και να ευθύνεται εκείνη για τη δική τους συμπεριφορά με κάποιον τρόπο παρ ότι νιώθει ότι την προσβάλλουν.Ακόμη κλαίει συχνά.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Σιδηροπενική αναιμία,αφαιρεθέν ιναδένωμα αριστερού μαστού&#13;
+Τελευταίο εμπύρετο στις αρχές 2015</personal_medical_history>
+        <family_medical_history>Καρδιολογικό ιστορικό γονέων </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Ανήκει σε υψηλό επίπεδο υγείας</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Απέχθεια στο γάλα(3). επιδείνωση μετά τον απογευματινό ύπνο (4)</peculiar>
+        <intense>Επιθυμία για αυγά(3),φρούτα(3),αλάτι(3),απέχθεια για γάλα(3),λύπη(3),αγανάκτηση(3),καταπιεσμένος θυμός(3),καταπίεση συναισθημάτων(3),(χειρότερα μετά τον απογευματινό ύπνο(4),φόβος φιδιών(3), φόβος για κλειστά μέρη(3),κρυώνει(3),στεναχώρια από τις συνεχείς μομφές(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Sadness(3),ailments from suppressed anger(3),grief(3),ailments from reproaches(3),indignation(3),weeping(2),sleeplessness at night(2),aggravation after afternoon sleep(4),sleep on the side(2),fear of narrow places(3),fear of high places(1),fear of snakes(3),chilly(3),thirst(2),eggs des.(3),ice-cream des.(2),fruit des.(3),sweets des.(2),salt des.(3).cheese des.(2).chocolate des.(2), milk av.(3),fat av.(2).meat des.(1),fish des.(1)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Υπάρχουν χαρακτηριστικά keynotes της staphysagria: επιδείνωση μετά τον απογευματινό ύπνο,απέχθεια στο γάλα.Πρόκειται για ένα γλυκό άτομο που δεν έχει εκφράσει το θυμό του αφού έχει υποστεί προφανώς και στο παρελθόν πολλές προσβολές-καταπιέσεις.</remedies_differentiation>
+      <prescription>
+        <remedy>staphysagria</remedy>
+        <potency>200CH</potency>
+        <regimen>1 CAP  μια φορά</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-29 21:00:00</followup_date>
+      <conv_med_presc>σίδηρος</conv_med_presc>
+      <lab_tests>
+        <desc>;οχι</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ανέφερε την ανάγκη προς κλάματα για τρεις-τεσσερεις μέρες </reaction>
+      <analysis>Είναι μια καλή αντίδραση- επιδείνωση στο φάρμακο </analysis>
+      <conclusion>μετά την πρώτη αντίδραση ,αναφέρει καλύτερη διάθεση, καλύτερη αντιμετώπιση λεκτικά των οχλήσεων που προκύπτουν,λιγότερη στεναχώρια</conclusion>
+      <repertorization>
+        <desc>sadness(2),grief(2),ailments from suppressed anger(2),indignation(2), τα λοιπά ως είχαν</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>κανένα</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-29 21:00:00</followup_date>
+      <conv_med_presc>όχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>καλή εξέλιξη της απάντησης στους 3 μήνες από τη λήψη του φαρμάκου</reaction>
+      <analysis>μετά την αρχική επιδείνωση υπάρχει καλή πορεία</analysis>
+      <conclusion>αναμονή</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

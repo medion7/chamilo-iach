@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd7a02ab887920a3e391bb09741e17cd6</ID>
+  <patient>
+    <case_date>2015-08-19 16:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Χ.Ρ</patient_initials>
+    <age>32</age>
+    <circumstances>αγαμος,&#13;
+μουσικος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αλλεργικη ρινιτιδα πανω απο 12 χρονια, νομισματοειδες εκζεμα στο αριστερο χερι που δν υποχωρει</origin>
+        <causative_factors>αναφερει οτι μολις εκανε κολυμβητηριο εμφανιστηκε το εκζεμα, πιθανοτητα αγχους πανελληνιων γτ μετα ξεκινησε η ρινιτιδα</causative_factors>
+        <modalities>ρινιτιδα&lt;με αποτομη πτωση θερμοκρασιας</modalities>
+        <occurrence_time>οταν βγει απ το σπιτι το χειμωνα κυριως, καλοκαιρι &gt;</occurrence_time>
+        <body_side>κυριως αριστερος ρωθωνας</body_side>
+        <appearence_frequency>καθημερινη το χειμωνα, σε πολυ πιο ηπια μορφη το καλοκαιρι</appearence_frequency>
+        <pain_desc>αναφερει αλλεργικη χωρις πονο αλλα δεν τον πιανει ανοιξη, υποπτευομαι οτι εννοει αγγειοκινητικη ρινιτιδα αν κ η παθολογος του ειχε δωσει αγωγη παλιοτερα με αντισταμινικα, εκζεμα με φαγουρα εντονη χωρις πονο</pain_desc>
+        <complaint_ext>το εκζεμα φαινεται ν αρχιζει να επεκτενεται στο χερι, μου περιγραφει αρχικη διαμετρο 2 εκατοστα και τωρα εχει δορυφορικες εστιες που πιανουν πανω απο 10εκατοστα</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>δεν παιρνει εδω και δυο χρονια χημικα φαρμακα</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εβαζε μεχρι πριν απο 2 χρονια elocon στο εκζεμα , ηρεμουσε λιγο κ μετα παλι τα ιδια , ειχε παρει aerius αλλα του εφερε νυστα κ δν ξαναπηρε</therapies_vaccination>
+          <traumas>δν αναφερει καποιο τραυμα, μονο πολυ πονο και ταλαιπωρια οταν περασε σαλμονελλα στα 4 παρολο που εχουν περασει τοσα χρονια</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας εχει κανει μπαλονακι στην καρδια, εχει υψηλη χοληστερινη, μητερα υποταση </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει γενικα, το χειμωνα δν αντεχει το κρυο</reactions>
+        <sleeping_habits>μπρουμυτα μονο, ονειρα καποιες φορες, αλλα συνηθως δν τα θυμαται, κοιμαται αμεσως και του αρεσει να κοιμαται 7-8 ωρες τουλαχιστον και θελει κ μεσημερι για να μπορει λειτουργησει το απογευμα</sleeping_habits>
+        <food_modalities>σιχαινεται λαδια,λιπη, κρεας δν τρωει απο αποψη, τρελαινεται για παγωτο , μπορει να φαει 2 λιτρα , προτιμα ψαρια, πινει πολυ νερο σε θερμοκρασια 'κανονικη ', χειμωνα καλοκαιρι, οχι κατευθειαν απο ψυγειο γτ φοβαται οτι θα ποναει ο λαιμος του μετα</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>συμπασχει πολυ και αναφερει οτι εχει 6η αισθηση, αισθανεται διαφορα για τους αλλους</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>καλη προγνωση</personal_medical_history>
+        <family_medical_history>προσεχει διατροφη, γυμναζεται κλπ , οποτε θεωρω οτι εχει καλη προγνωση παρα την προδιαθεση του πατερα</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>ειναι καλο σημαδι που επανερχεται το εκζεμα παρολες τις αλοιφες γτ φαινεται οτι το συμπτωμα παραμενει στην περιφερεια</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>σαν να περνουν αερα τα κατω δοντια(1)</peculiar>
+        <intense>επιμενον εκζεμα που επεκτεινεται(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>NOSE - CORYZA - air - agg. in cold,CHILL - COLDNESS in general,GENERALITIES - FOOD and DRINKS - ice-cream - desire,EXTREMITIES - ERUPTION - Shoulder - eczema</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>&#13;
+Eupatorium perfoliatuμ&#13;
+Phosphorus&#13;
+Calcarea phosphorica&#13;
+Heloderma horridus&#13;
+Pulsatilla (nigricans) pratensis&#13;
+(compass)</remedies_differentiation>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>10 λεπτα προ του φαγητου</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-19 14:00:00</followup_date>
+      <conv_med_presc>δεν παιρνει εδω και δυο χρονια χημικα φαρμακα</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>φαγουρα εντονη στο εκζεμα τις πρωτες μερες, ηθελε να το ματωσει, η μυτα για 3 μερες ετρεχε σαν 'βρυση', εβαζε πετσετα στην μυτη του για να κοιμηθει</reaction>
+      <analysis>πολυ καλη επιδεινωση , φαινεται καθαρο φαρμακο</analysis>
+      <conclusion>συνεχιζω phosporus</conclusion>
+      <repertorization>
+        <desc>phosphorus, arsenicum</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>10 λεπτα προ του φαγητου</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

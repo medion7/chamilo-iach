@@ -1,0 +1,82 @@
+<?php
+/* For licensing terms, see /license.txt */
+/**
+ * @package chamilo.notification
+ * @author Julio Montoya <gugli100@gmail.com>
+ */
+/**
+ * Initialization
+ */
+//if (PHP_SAPI!='cli') { die('Run this script through the command line or comment this line in the code'); }
+$language_file = array('userInfo');
+
+require_once '../inc/global.inc.php';
+/**
+ * Add to course sending
+ */
+$c_user = Database :: get_main_table(TABLE_MAIN_COURSE_USER);
+$admin = Database :: get_main_table(TABLE_MAIN_ADMIN);
+
+$sql = "SELECT user_id FROM $c_user WHERE course_code = 'ENFC4I' AND status=5";
+$res = Database :: query($sql);
+
+
+while($row = Database :: fetch_array($res)){
+	$user_id = $row['user_id'];
+	
+	$user_c = array();
+	$sql_c = "SELECT course_code FROM $c_user WHERE user_id=".$user_id;
+	$res_c = Database :: query($sql_c);
+	while($row_c = Database :: fetch_array($res_c)){
+		$user_c[] = $row_c['course_code'];
+	}
+		if (in_array('EN007', $user_c, true) && in_array('EN008', $user_c, true) && in_array('EN009', $user_c, true)){
+			
+			$sql_del = "DELETE FROM $c_user WHERE user_id=".$user_id." AND course_code='ENFC4I'";
+			Database :: query($sql_del);
+			
+		}elseif(!in_array('EN007', $user_c, true) && !in_array('EN008', $user_c, true) && !in_array('EN009', $user_c, true) 
+			&& in_array('EN004', $user_c, true) && in_array('EN005', $user_c, true) && in_array('EN006', $user_c, true)){
+				
+			$courses = array('EN007', 'EN008', 'EN009');
+			add2course($courses, $user_id, 'ENFC4I');
+			
+		}elseif(!in_array('EN004', $user_c, true) && !in_array('EN005', $user_c, true) && !in_array('EN006', $user_c, true)
+			&& in_array('EN001', $user_c, true) && in_array('EN002', $user_c, true) && in_array('EN003', $user_c, true) && in_array('EN401', $user_c, true)){
+				
+			$courses = array('EN004', 'EN005', 'EN006');
+			add2course($courses, $user_id, 'ENFC4I');
+		}else{
+			$courses = array('EN001', 'EN002', 'EN003', 'EN401');
+			add2course($courses, $user_id, 'ENFC4I');
+
+		}
+}
+
+$sql2 = "SELECT user_id FROM $c_user WHERE course_code = 'ENFC' AND status=5";
+$res2 = Database :: query($sql2);
+
+while($row2 = Database :: fetch_array($res2)){
+	$user_id = $row2['user_id'];
+	$courses = array('EN001', 'EN002', 'EN003', 'EN004', 'EN005', 'EN006', 'EN007', 'EN008', 'EN009', 'EN401');
+	add2course($courses, $user_id, 'ENFC');
+	}
+
+function add2course($courses, $user_id, $d_course){
+$c_user = Database :: get_main_table(TABLE_MAIN_COURSE_USER);
+$admin = Database :: get_main_table(TABLE_MAIN_ADMIN);
+	foreach($courses as $course){
+				$sql_max = "SELECT MAX(sort) as max FROM $c_user WHERE course_code='".$course."'";
+				$res_max = Database :: query($sql_max);
+				while($row_max = Database :: fetch_array($res_max)){
+					$max = $row_max['max'];
+					$sort = $max + 1;
+				}
+				$sql_u2c = "INSERT INTO $c_user (course_code, user_id, status, sort) VALUES
+					('".$course."', '".$user_id."', 5, ".$sort.")";
+				Database :: query($sql_u2c);
+				echo $sql_u2c;
+			}
+			$sql_del = "DELETE FROM $c_user WHERE user_id=".$user_id." AND course_code='".$d_course."'";
+			Database :: query($sql_del);
+}

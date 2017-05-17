@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELc85bbb9447f7e8302816c93a4d3e4d94</ID>
+  <patient>
+    <case_date>2015-09-10 09:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Γ.Τ.</patient_initials>
+    <age>42</age>
+    <circumstances>παντρεμένος με δυο παιδιά , μη καπνιστής</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>οίδημα οπτικής θηλής δε ματιού , διπλωπία   από μηνός</origin>
+        <causative_factors>αυξημένο στρες στην εργασία , γιατί  το οίδημα είχε εμφανιστεί και πριν 10 χρόνια πάλι λόγω εντόνου εργασιακού στρες</causative_factors>
+        <modalities>δεν αναφέρει</modalities>
+        <occurrence_time>δεν αναφέρει</occurrence_time>
+        <body_side>δε μάτι </body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints>συχνοί πονοκέφαλοι ινιακής περιοχής ,συχνά φουσκώματα κοιλιάς με πολλά αέρια ,αιμορροιδικές κρίσεις με αιμορραγία πόνος στα πέλματα των ποδιών εδώ και 2 χρόνια με εναλλαγή  πότε στο ένα και πότε στο άλλο πέλμα, δυσκοιλιότητα ,στιγμιότυπα δύσπνοιας λόγω λόγω άγχους, κακή μνήμη </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>acetazolamide για 10 ημέρες λόγω του ματιού</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>όλα οι εμβολιασμοί της παιδικής ηλικίας ,όπως επίσης εμβολιάστηκε το 2012 πριν ταξιδεύσει στην Ασία&#13;
+στο περελθόν κορτιζόνη λόγω περιαρθρίτιδας</therapies_vaccination>
+          <traumas>αμυγδαλεκτομή όταν ήταν 11 ετών &#13;
+μεγάλη ερωτικη απογοήτευση προ 20 ετίας &#13;
+όταν ήταν φοιτητής έλκος γεννητικών οργάνων αδιευκρίνιστης αιτιολογίας</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>πατέρας ΑΥ ,θυρεοειδεκτομή ,ουρική αρθρίτιδα, έλκος στομαχου με επισόδεια γαστρορραγίας στο παρελθόν &#13;
+μητέρα -</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεστένεται παρα πολύ </reactions>
+        <sleeping_habits>κοιμάται δεξία ,ασχημος ύπνος χωρίς όνειρα , αυπνίες πολλές φορές λόγω άγχους</sleeping_habits>
+        <food_modalities>θέλει πάρα πολύ το λεμόνι ,βαζει παντού λεμόνι και σε μεγάλες ποσότητες ,καυτερα , πικάντικα ,λίπος ,ψάρι , τυρί,παγάκια (τα σπαει με τα δοντια όλο το χρόνο), παγωμένο νερό</food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>αγχωμένος , παθιασμένος  ή του ύψους ή του βάθους , νευρικός , γρήγορος , νιώθει οτι ζηλέυει ,νιώθει κλειστοφοβία , υψοφοβία και  φοβάται πολύ τα φίδια ,ακατάστατος, αδύναμη μνήμη ,ξεχνά λέξεις (δεν του έρχεται η κατάλληλη λέξη ),νιώθει ότι κάποιος έιναι πίσω του στο σκοτάδι</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εχει αρκετά χρόνια να κάνει πυρετό ,μόνο ήπιες εκδηλώσεις ,συνάχι &#13;
+ </personal_medical_history>
+        <family_medical_history>ο παππούς πέθανε από κρυπτογενή κίρρωση του ήπατος (ουτε αλκοολικής ούτε ιογενούς προέλευσης )αγνώστου αιτιολογίας</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>περιμένω αντίδραση </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>διπλωπία 1&#13;
+πόνος στις πατούσες  3&#13;
+νίωθει δυσπνοια λόγω αγχους 1&#13;
+επιθυμεί παρα πολύ λεμόνι σε όλα τα φαγητά 4&#13;
+επιθυμεί κρύο νερό 3&#13;
+επιθυμεί παγάκια όλο τον χρόνο 3&#13;
+κοιμάται ΔΕ&#13;
+ιδρώνει παρα πολύ  3&#13;
+τα ποδια καίνε και τα ξεσκεπάζει στον υπνο 3&#13;
+αίσθηση φλεματος στο πίσω μέρος του φάρυγγα ιδίως το πρωι  3&#13;
+δυσκολία να βρει την κατάλληλη λέξη  2&#13;
+νιώθει οτι κάποιος είναι πίσω του στο σκοτάδι 2&#13;
+φοβος για φίδια 3&#13;
+κλειστοφοβία2&#13;
+υψοφοβια 2&#13;
+ζηλια 2&#13;
+άνθρωπος των άκρων 3&#13;
+</peculiar>
+        <intense>διπλωπία 1&#13;
+κεφαλαλγίες  2&#13;
+πρίξημο στο στομάχι 3&#13;
+πόνος στις πατούσες  3&#13;
+αιμορραγια λόγω αιμορροίδων  3&#13;
+αιμορροίδες 2&#13;
+δυσκοιλιότητα 2&#13;
+νίωθει δυσπνοια λόγω αγχους 1&#13;
+επιθυμεί παρα πολύ λεμόνι σε όλα τα φαγητά 4&#13;
+επιθυμεί το λίπος 2&#13;
+επιθυμεί κρύο νερό 3&#13;
+επιθυμεί παγάκια όλο τον χρόνο 3&#13;
+κοιμάται ΔΕ&#13;
+ιδρώνει παρα πολύ  3&#13;
+τα ποδια καίνε και τα ξεσκεπάζει στον υπνο 3&#13;
+αίσθηση φλεματος στο πίσω μέρος του φάρυγγα ιδίως το πρωι  3&#13;
+&#13;
+δυσκολία να βρει την κατάλληλη λέξη  2&#13;
+νιώθει οτι κάποιος είναι πίσω του στο σκοτάδι 2&#13;
+ακατάστατος 3&#13;
+φοβος για φίδια 3&#13;
+κλειστοφοβία2&#13;
+υψοφοβια 2&#13;
+ζηλια 2&#13;
+ανθρωπος των άκρων 3&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>VISION ­ DIPLOPIA 1&#13;
+HEAD ­ PAIN (headache) 2&#13;
+ABDOMEN ­ FLATULENCE 3&#13;
+RECTUM ­ FLATUS 3&#13;
+STOMACH ­ DISTENTION 3&#13;
+EXTREMITIES ­ PAIN ­ Foot ­ sole 3&#13;
+RECTUM ­ HAEMORRHAGE from anus 3&#13;
+RECTUM ­ HAEMORRHOIDS 2&#13;
+RECTUM ­ CONSTIPATION 2&#13;
+RESPIRATION ­ DIFFICULT (Dyspnoea) 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ lemons ­ desire 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ spices ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ pepper ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fish ­ desire 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cold ­ drinks, water ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ ice ­ desire 3&#13;
+SLEEP ­ POSITION ­ side, on ­ right 3&#13;
+PERSPIRATION ­ PERSPIRATION in general 3&#13;
+EXTREMITIES ­ HEAT ­ Foot ­ burning ­ uncovers them 3&#13;
+THROAT ­ HAWK, disposition to ­ morning ­ from thick mucus ­ post­nasal 3&#13;
+MIND ­ MEMORY ­ weakness of 2&#13;
+MIND ­ MEMORY ­ weakness of ­ words, for 3&#13;
+MIND ­ MEMORY ­ weakness of ­ names, for proper 2&#13;
+MIND ­ DELUSIONS, hallucinations, illusions ­ people ­ behind him, some one is 2&#13;
+MIND ­ UNTIDY 3&#13;
+MIND ­ FEAR ­ snakes, of 3&#13;
+MIND ­ FEAR ­ narrow places, in 2&#13;
+MIND ­ FEAR ­ high places, of 2&#13;
+MIND ­ JEALOUSY 2&#13;
+MIND ­ ARDENT 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>medorrhinum και sulphur</remedies_differentiation>
+      <prescription>
+        <remedy>medorrhinum</remedy>
+        <potency>200ch   1M</potency>
+        <regimen>1X1 200ch 1X1  1M</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-26 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>12 ώρες μετά τη λήψη του φαρμάκου ισχυρός πονοκέφαλος στο ινίο που κράτησε λίγες ώρες .κατά τη διάρκεια των επόμενης εβδομάδας  έφυγε η διπλωπία ,  το πρίξημο και τα αέρια στο στομάχι .Στη διαρκεια των επόμενων εβδομάδων εξαφανίστηκε  η δυσκοιλιότητα ,η αίσθηση οτι κάποιος είναι απο  πίσω του και ο φοβος τελέιως για τα φίδια, όπως επίσης και ο πονοκέφαλος γενικά.&#13;
+Επίσης την 2η προς τρίτη μέρα εμφανίστηκε ενα εξάνθημα μεταξύ του μέσου και του παράμεσου δακτύλου του ΔΕ χεριού το οποιο σταδιακά εξαφανίστηκε.Επίσης ελλατώθηκε λίγο η επιθυμια για λέμόνι και αυξήθηκε λίγο για πικάντικα και καυτερα.</reaction>
+      <analysis>αναμενόμενη αντίδραση με αρχικη επιδείνωση</analysis>
+      <conclusion>το φάρμακο έδρασε άρα περιμένω </conclusion>
+      <repertorization>
+        <desc>VISION ­ DIPLOPIA 0&#13;
+HEAD ­ PAIN (headache) 0&#13;
+ABDOMEN ­ FLATULENCE 0&#13;
+RECTUM ­ FLATUS 0&#13;
+STOMACH ­ DISTENTION 0&#13;
+EXTREMITIES ­ PAIN ­ Foot ­ sole 2&#13;
+RECTUM ­ HAEMORRHAGE from anus 3&#13;
+RECTUM ­ HAEMORRHOIDS 2&#13;
+RECTUM ­ CONSTIPATION 1&#13;
+RESPIRATION ­ DIFFICULT (Dyspnoea) 0&#13;
+GENERALITIES ­ FOOD and DRINKS ­ lemons ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ spices ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ pepper ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fish ­ desire 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cold ­ drinks, water ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ ice ­ desire 3&#13;
+SLEEP ­ POSITION ­ side, on ­ right 1&#13;
+PERSPIRATION ­ PERSPIRATION in general 2&#13;
+EXTREMITIES ­ HEAT ­ Foot ­ burning ­ uncovers them 2&#13;
+THROAT ­ HAWK, disposition to ­ morning ­ from thick mucus ­ post­nasal 2&#13;
+MIND ­ MEMORY ­ weakness of 1&#13;
+MIND ­ MEMORY ­ weakness of ­ words, for 3&#13;
+MIND ­ MEMORY ­ weakness of ­ names, for proper 2&#13;
+MIND ­ DELUSIONS, hallucinations, illusions ­ people ­ behind him, some one is 0&#13;
+MIND ­ UNTIDY 3&#13;
+MIND ­ FEAR ­ snakes, of 0&#13;
+MIND ­ FEAR ­ narrow places, in 1&#13;
+MIND ­ FEAR ­ high places, of 1&#13;
+MIND ­ JEALOUSY 2&#13;
+MIND ­ ARDENT 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>περιμένω </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

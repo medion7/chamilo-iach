@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL7f5e0a7a2d346d9f99b2fd85804a1001</ID>
+  <patient>
+    <case_date>2014-02-13 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Π.Μ.</patient_initials>
+    <age>49</age>
+    <circumstances>Διαζευγμένη (απο 15 ετίας). 1 τέκνο 23 ετών. Δασκάλα δημοτικού.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Σαν έκζεμα , κόκκινιλες, οι οποίες υποχωρούν απο το κέντρο προς τα έξω. Έχει 3 ανάμεσα στις ωμοπλάτες (περίπου 3εκ) και 1 πάνω από τον δεξιό μαστό (περίπου 4 εκ). Πριν 5-6 μήνες πρωτοεμφανίστηκε στην δεξια γάμπα. Σε δερματολόγο δεν έβαλε διάγνωση, έδωσε κάποια κρέμα.Έντονος κνησμός κάποιες στιγμές, όπου με το ξύσιμο υποχωρεί. &#13;
+Σε περίπτωση έντονου στρες, φόβου, καυγάδων έντονη φαγούρα στο τριχωτό.</origin>
+        <causative_factors>-Ο πατέρας της ήταν αυστηρός, χτυπούσε και την μεγαλύτερη αδελφή που του πήγαινε κόντρα, αλλά χτυπούσε και την μητέρα.&#13;
+-Με τον σύζυγο χώρισε διότι πήγε με την φίλη της. «Ακόμη υπάρχει θυμός γι αυτό, δεν τον έβγαλα ποτέ».&#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Τ4 150, ασβέστιο.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other>-Έχει κάνει 7 χρόνια ψυχοθεραπεία (από 27 ετών-34)&#13;
+-Θυρεοειδεκτομή 2004 και εναν παραθυρεοειδή (λόγω όζων).&#13;
+-Σε ηλικία 41 ετων εμμηνοπαυση. (στο παρελθόν κύκλοι κφ)&#13;
+-Το 2000 , λόγω θανάτου της μητερας λεει, είχε πολλές αμυγδαλίτιδες-φαρυγγίτιδες.&#13;
+-Το 1998 , τότε έβγαλε το διαζύγιο, ξαφνική αφωνία. Εδόθη κορτιζόνη. Κράτησε 3 ημέρες.&#13;
+-Στα 25 της επιλοχειος κατάθλιψη για 3 μηνες περίπου, άνευ αγωγής.&#13;
+-2εκτρώσεις σε ηλικία 20-21 ετών.&#13;
+-Κατά την διάρκεια της εφηβίας είχε έντονες κεφαλαλγίες.&#13;
+-Επιχείλιο έρπη, μια φορά τον χρόνο.&#13;
+-FEVER πέρσι 39ο C.</other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει . &#13;
+Extremities :  άκρα κρύα.&#13;
+Φοράει κάλτσες στον ύπνο.όταν έχει κρύο.</reactions>
+        <sleeping_habits>Σε γενικές γραμμές ξεκούραστος. Πλάι αρ και μπρούμυτα.</sleeping_habits>
+        <food_modalities>Desires: αλμυρά 2-3, αλάτι 2, πατάτες 2-3 ,αυγα 1-2, λαδερα, κρεας (με το λίπος)    &#13;
+ Aversions: γάλα                             &#13;
+Thirst:κφ, βρύσης.&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Έχει θυμό «όχι μόνο δεν τον βγάζω αλλά δεν τον αναγνωρίζω πως τον έχω»&#13;
+Αγαθή («δεν βλέπω εύκολα κακό»)&#13;
+ Εσωστρεφής&#13;
+Ήπια  &#13;
+Αποφεύγει τις κόντρες 2-3 (εάν κάτι την ενοχλήσει θα το πει σε άλλον σαν παράπονο περισσότερο)&#13;
+Συμπάσχει 1-2&#13;
+Πολύ σπάνια θα βγάλει τα νεύρα με φωνή.&#13;
+Σφίγγει πολύ τα δόντια (χρόνια τώρα)&#13;
+Αγχώνεται για την υγεία 2, και την δικιά της και των οικείων.&#13;
+Φοβίες: κλέφτες&#13;
+Εύθικτη 2&#13;
+Ενοχική&#13;
+Κλαίει (και μπροστά σε άλλους)&#13;
+Αισθάνεται αγανάκτηση 2 (δεν θα βγάλει  θυμό)&#13;
+Αυνανισμός από μικρή ηλικία (12 ετων ) και γενικά έντονες φαντασιώσεις από μικρή ηλικία εως τωρα.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>SKIN ERUPTIONS eczema 2&#13;
+SKIN ERUPTIONS itching 1&#13;
+HEAD ITCHING of scalp 1&#13;
+THROAT INFLAMMATION Tonsils (Tonsillitis) 1&#13;
+LARYNX AND TRACHEA INFLAMMATION larynx (Laryngitis) 1&#13;
+FACE ERUPTIONS herpes lips about 1&#13;
+GENERALITIES HEAT lack of vital 1&#13;
+GENERALITIES FOOD and DRINKS salt desire 2&#13;
+GENERALITIES FOOD and DRINKS eggs desire 1&#13;
+GENERALITIES FOOD and DRINKS milk aversion 1&#13;
+EXTREMITIES COLDNESS 1&#13;
+MIND ANGER, irascibility suppressed, from 2&#13;
+MIND CONTRADICTION is intolerant of 2&#13;
+TEETH CLENCHED firmly 1&#13;
+MIND ANXIETY health, about 1&#13;
+MIND ANXIETY health, about relatives, of 1&#13;
+MIND SYMPATHETIC 2&#13;
+MIND WEEPING, tearful mood, etc. 2&#13;
+MIND INDIGNATION 3&#13;
+MIND GRIEF ailments from 2&#13;
+GENITALIAFEMALE MASTURBATION, disposition 1&#13;
+MIND MILDNESS 1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Staphysagria</remedy>
+        <potency>1M</potency>
+        <regimen>1M/1cps, 6x/daily</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>13/3/2014&#13;
+Είναι καλύτερα, πιο ήπια, και όσα υπάρχουν είναι πιο ήπια. Εμφανισε 2 μικρα στο αριστερο αντιβράχειο και 1 στον αριστερο μαστό. &#13;
+Έχει και στις μασχάλες (δεν το είχε αναφαιρει) αμφω. Ερεθιζεται και με το ξυραφι. Εκει είναι έντονος ο  κνησμος.&#13;
+ Δεν υπάρχει κνησμός.&#13;
+Δεν υπάρχει τόσο άγχος.&#13;
+Τις πρωτες ημέρες εκνευριζόταν πιο εύκολα. (με κάποιο γεγονός στην εργασία της, τον έβγαλε τον θυμό και λεκτικά).&#13;
+Σφίγγει λιγότερο τα δόντια.&#13;
+&#13;
+Έχει αυξηθεί η όρεξη.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>placebo</remedy>
+        <potency>6x</potency>
+        <regimen>6x/daily.</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>24/4/2014&#13;
+Πολύ καλλιτερα με τις κοκκινιλες. Έχουν υποχωρήσει εκτος απο τις μασχάλες, στις οποίες είναι πολύ πιο ήπια, με λιγότερο κνησμο.&#13;
+Εμφάνισε μια καινουργια κοκκινιλα στο δεξιο ποδι(&gt;1εκ).&#13;
+Καλυτερα με το άγχος.&#13;
+Δεν έχει νευρα. Εαν κάτι την ενοχλήσει δεν το υπολογίζει όσο παλιά. (λιγότερο εύθικτη)&#13;
+Έχει περισσότερη διάθεση να περπατήσει. «είμαι λιγο καλλιτερα, έχω αρχήσει δίαιτα».&#13;
+Σφίγγει τα δόντια λιγότερο.&#13;
+Κλαιει λίγο περισσότερο.&#13;
+Ερωτική διάθεση ιδια.&#13;
+Ο ύπνος είναι καλός, ξεκούραστος.&#13;
+&#13;
+Έχει γίνει μείωση του Τ4 σε 135, επειδή υπήρξε πτώση της TSH. (προ 1 ½ μηνος).&#13;
+Δεν έχει εξετάσεις μαζί της. Η επανάληψη θα γίνει τον Ιούνιο όπου και θα τις φερει.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>placebo</remedy>
+        <potency>6x</potency>
+        <regimen>6x/daily.</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>26/6/2014&#13;
+Υποχώρησαν  οι κοκκινίλες εκτός απο τις μασχάλες, όπου είναι πολύ πιο ήπιες.&#13;
+Τώρα που έκλεισαν τα σχολεία αισθάνεται ενοχές επειδή ο πατέρας της είναι μόνος της στην Πάτρα κι εκείνη είναι η μόνη που μπορεί να παει να τον δει. (είχε πάθει προ έτους κι έναν ίλιγγο εξαιτίας αυτών των σκέψεων). «πρέπει να πάει» αλλά εκείνη δεν θέλει.&#13;
+Το αγχος της είναι πιο έντονο εξαιτίας του πατερα της. &#13;
+Της είναι στενάχωρο, «με βαλτώνει, με βουλιάζει», να πάει εκει. Δεν είχε απο μικρή τις καλλίτερες σχεσεις. (τον λυπαται που είναι μονος του αλλά κι εκείνος έκανε τις επιλογές του σε σχεση και με την μητέρα της). Ο πατέρας της απαιτεί να πάει εκείνη εκει.(ήταν αυταρχικός).&#13;
+&#13;
+Τα δόντια τα σφίγγει αυτό το διάστημα περισσότερο.&#13;
+Η ενέργειά  της είναι καλή.&#13;
+Ο ύπνος καλός.&#13;
+Η διάθεση της είναι μια χαρά.&#13;
+Δεν έχει ερωτική διάθεση το τελευταίο διάστημα. (αδιαφορία γενικότερη) &#13;
+&#13;
+Δεν έφερε τις εξετάσεις του θυρεοειδούς. Πρόκειται να κάνει καινούργιες.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Διατηρεί την βελτιωμένη εικόνα αλλά η φόρτιση που δέχεται απο την σχέση με τον πατέρα της βλέπουμε να επαναφέρει κάποια απο τα συμπτώματα της Staph. όπως το σφίξιμο στα δόντια. Επίσης έχει και μια αύξηση του άγχους. </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Staphysagria</remedy>
+        <potency>1M</potency>
+        <regimen>1M/1cps, 6x/30 daily.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Yπό Τ4: 135.</conv_med_presc>
+      <lab_tests>
+        <desc>Από εργαστηριακά για θυρεοειδή: κφ. , </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>11/9/2014&#13;
+Οι κοκκινίλες πλην της μασχάλης έχουν υποχωρήσει. Επειδή ξυρίζεται εκει υπάρχει ένας ερεθισμός αλλά κι εκεί είναι πολύ πιο ήπια.&#13;
+&#13;
+Ενέργεια σε γενικές γραμμές καλή.&#13;
+Ο ύπνος καλός.&#13;
+&#13;
+Το καλοκαίρι εξαιτίας οστεοφύτου στην δεξιά φτέρνα πήρε μια φορά αντιφλεγμονώδες αλλά επειδή την πείραξε δεν το συνέχισε.&#13;
+Ο πόνος υποχώρησε χωρίς να πάρει  κάτι.&#13;
+&#13;
+Σφίγγει τα δόντια. 2&#13;
+Το καλοκαίρι υπήρξε στο τέλος ξέσπασμα (με φωνή) απέναντι στην αδελφή της, επειδή πήγε να χτυπήσει το ανιψάκι της. Γενικά όλο το καλοκαίρι κρατούσε τις ισορροπίες.&#13;
+&#13;
+Η διάθεση καλή.&#13;
+Υπάρχει κρατημένος θυμός.&#13;
+&#13;
+Η ερωτική διάθεση είναι ίδια με την προηγούμενη φορά.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Staphysagria</remedy>
+        <potency>1M</potency>
+        <regimen>1M/1cps</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

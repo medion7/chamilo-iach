@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL9e1ce941f33cc5b4faab405c93dabf00</ID>
+  <patient>
+    <case_date>2014-08-27 11:45:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΑΝΝΥ Π.</patient_initials>
+    <age>36</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ ΜΕ ΕΝΑ ΠΑΙΔΙ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΕΜΦΑΝΙΖΕΙ ΚΟΛΠΙΚΑ ΥΓΡΑ ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΤΗΣ ΕΓΚΥΜΟΣΥΝΗΣ ΧΩΡΙΣ ΦΑΓΟΥΡΑ ΚΑΙ ΟΣΜΗ ΚΑΙ ΜΕΤΑ.ΑΠΟ ΛΙΓΟΥΣ ΜΗΝΕΣ ΒΡΕΘΗΚΕ ΣΤΡΕΠΤΟΚΟΚΚΟΣ&#13;
+ΠΟΝΟΣ ΚΑΤΑ ΤΗ ΣΕΞΟΥΑΛΙΚΗ ΕΠΑΦΗ.&#13;
+ΠΟΝΟΣ ΣΤΟ ΣΤΟΜΑΧΙ (ΤΩΡΑ ΣΠΑΝΙΑ)&#13;
+ΠΟΝΟΚΕΦΑΛΟΥΣ ΚΥΡΙΩΣ ΤΟ ΒΡΑΔΥ(ΚΡΟΤΑΦΙΚΟΣ)</origin>
+        <causative_factors>ΞΕΚΙΝΗΣΑΝ ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΤΗΣ ΕΓΚΥΜΟΣΥΝΗΣ .ΧΕΙΡΟΤΕΡΕΨΕ ΜΕΤΑ ΤΗ ΛΗΨΗ ΑΝΤΙΒΙΟΤΙΚΩΝ ΠΟΥ ΑΚΟΛΟΥΘΗΣΕ ΤΗΝ ΚΑΙΣΑΡΙΚΗ</causative_factors>
+        <modalities>ΑΝ ΚΑΤΑΝΑΛΩΝΕΙ ΤΑΚΤΙΚΑ ΓΙΑΟΥΡΤΙ ΠΡΟΒΕΙΟ ΚΑΛΥΤΕΡΕΥΕΙ ΜΕ ΤΑ ΥΓΡΑ.</modalities>
+        <occurrence_time>.</occurrence_time>
+        <body_side>.</body_side>
+        <appearence_frequency>ΚΑΘΗΜΕΡΙΝΑ</appearence_frequency>
+        <pain_desc>Ο ΠΟΝΟΚΕΦΑΛΟΣ ΕΝΤΟΠΙΖΕΤΑΙ ΚΡΟΤΑΦΙΚΑ ΚΑΙ ΣΤΙΣ 2 ΠΛΕΥΡΕΣ ΤΑΥΤΟΧΡΟΝΑ</pain_desc>
+        <complaint_ext>.</complaint_ext>
+        <other_complaints>ΔΥΣΚΟΙΛΙΟΤΗΤΑ(3)(ΕΙΝΑΙ ΚΑΛΥΤΕΡΑ ΜΕ ΤΟ ΚΕΦΙΡ)&#13;
+ΔΥΣΚΟΛΕΥΕΤΑΙ ΣΤΗΝ ΚΑΤΑΠΟΣΗ&#13;
+ΠΝΙΓΕΤΑΙ ΕΥΚΟΛΑ ΟΤΑΝ ΤΡΩΕΙ(ΚΥΡΙΩΣ ΑΠΟ ΤΗ ΦΛΟΥΔΑ ΜΗΛΟΥ)</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>.</conv_med_presc>
+        <lab_tests>
+          <desc>.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΤΟΥΣ ΠΡΟΒΛΕΠΟΜΕΝΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ&#13;
+ΠΗΡΕ ΑΝΤΙΒΙΩΣΗ ΠΡΙΝ 3 ΧΡΟΝΙΑ ΑΜΕΣΩΣ ΜΕΤΑ ΤΗΝ ΚΑΙΣΑΡΙΚΗ( ΕΓΚΥΜΟΣΥΝΗ ΔΙΑΡΚΕΙΑΣ 41.5 ΕΒΔΟΜΑΔΕΣ)&#13;
+ΑΝΤΙΒΙΩΣΗ ΟΤΑΝ ΕΠΑΘΕ ΜΑΣΤΙΤΙΔΑ ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΤΟΥ ΘΗΛΑΣΜΟΥ</therapies_vaccination>
+          <traumas>ΧΩΡΙΣΜΟΣ ΓΟΝΕΩΝ ΠΕΡΙΠΟΥ ΟΤΑΝ ΗΤΑΝ ΣΤΗΝ ΗΛΙΚΙΑ ΤΩΝ 20 ΧΡΟΝΩΝ&#13;
+</traumas>
+          <infections>ΠΥΡΕΤΟ ΕΙΧΕ ΝΑ ΚΑΝΕΙ ΑΠΟ ΠΑΙΔΙ ΚΑΙ ΕΚΑΝΕ ΞΑΝΑ ΣΤΟ ΘΗΛΑΣΜΟ (ΜΑΣΤΙΤΙΔΑ) 39.5 ΓΙΑ ΔΥΟ ΜΕΡΕΣ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Ο ΠΑΤΕΡΑΣ ΕΜΦΑΝΙΖΕΙ ΕΛΑΦΡΑ ΥΠΕΡΤΑΣΗ ΚΑΙ ΕΠΙΠΟΛΗΣ ΘΡΟΜΒΟΦΛΕΒΙΤΙΔΕΣ ΣΤΑ ΚΑΤΩ ΑΚΡΑ ΑΛΛΑ ΑΜΕΛΕΙ ΝΑ ΠΑΕΙ ΣΕ ΓΙΑΤΡΟ.&#13;
+Η ΜΗΤΕΡΑ ΕΜΦΑΝΙΖΕΙ ΑΡΧΕΣ ΟΣΤΕΟΠΟΡΩΣΗΣ ΚΑΙ ΚΑΠΟΙΕΣ ΕΝΔΕΙΞΕΙΣ ΓΙΑ ΠΑΡΑΜΟΡΦΩΤΙΚΗ ΑΡΘΡΙΤΙΔΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΕΙΝΑΙ ΑΤΟΜΟ ΠΟΥ ΖΕΣΤΑΙΝΕΤΑΙ ( ΜΕΧΡΙ ΤΗΝ ΕΓΚΥΜΟΣΥΝΗ ΚΡΥΩΝΕ)&#13;
+ΠΡΟΤΙΜΑΕΙ ΣΤΟ ΒΟΥΝΟ&#13;
+Ο ΗΛΙΟΣ ΤΗΝ ΚΟΥΡΑΖΕΙ ΠΟΛΥ .ΤΗΝ ΑΠΟΔΥΝΑΜΩΝΕΙ</reactions>
+        <sleeping_habits>ΜΕΧΡΙ ΤΗΝ ΕΓΚΥΜΟΣΥΝΗ ΚΟΙΜΟΤΑΝ ΜΠΡΟΥΜΥΤΑ.&#13;
+ΤΩΡΑ ΚΟΙΜΑΤΑΙ ΣΕ ΠΛΑΓΙΑ ΘΕΣΗ.&#13;
+Ο ΥΠΝΟΣ ΕΙΝΑΙ ΒΑΘΥΣ ΑΛΛΑ ΔΙΑΚΟΠΤΕΤΑΙ ΓΙΑ ΤΟ ΘΗΛΑΣΜΟ</sleeping_habits>
+        <food_modalities>ΤΗΣ ΑΡΕΣΟΥΝ ΤΑ ΓΛΥΚΑ(3) ΚΑΙ Η ΣΟΚΟΛΑΤΑ(3)&#13;
+ΤΟ ΚΡΕΑΣ ΤΟ ΘΕΛΕΙ ΧΩΡΙΣ ΛΙΠΟΣ&#13;
+ΕΠΙΘΥΜΕΙ ΑΥΓΑ(2)&#13;
+ΤΟ ΑΛΑΤΙ ΤΟ ΘΕΛΕΙ ΝΑ "ΤΣΙΜΠΑΕΙ"&#13;
+ΔΙΨΑΕΙ ΑΛΛΑ ΔΕΝ ΠΙΝΕΙ ΠΟΣΟΤΗΤΑ ΝΕΡΟΥ</food_modalities>
+        <menstruation>Ο ΚΥΚΛΟΣ ΤΗΣ ΔΙΑΡΚΕΙ ΑΠΟ 21-27 ΜΕΡΕΣ&#13;
+ΔΙΑΡΚΕΙΑ Ε.Ρ  7 ΜΕΡΕΣ    ΑΙΜΑ ΑΡΚΕΤΟ(ΠΑΛΑΙΟΤΕΡΑ ΠΟΛΥ ΑΙΜΑ)</menstruation>
+      </physical>
+      <mental_emotional>ΕΥΕΡΕΘΙΣΤΟΤΗΤΑ&#13;
+ΥΨΟΦΟΒΙΑ ΚΑΙ ΦΟΒΟ ΝΑ ΑΝΕΒΕΙ ΣΕ ΑΕΡΟΠΛΑΝΟ&#13;
+ΚΛΑΙΕΙ ΕΥΚΟΛΑ&#13;
+Ο ΧΟΡΟΣ ΚΑΙ Η ΜΟΥΣΙΚΗ ΑΡΕΣΟΥΝ&#13;
+ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ ΦΥΣΙΟΛΟΓΙΚΗ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΚΡΙΣΕΙΣ ΠΑΝΙΚΟΥ ΣΤΗΝ ΗΛΙΚΙΑ ΤΩΝ 19-20 ΕΤΩΝ&#13;
+ΠΟΝΟΣ ΣΤΗΝ ΠΛΑΤΗ ΑΠΟ ΤΟ 2007-2008&#13;
+ΣΥΧΝΟΥΡΙΑ ΑΠΟ ΦΟΙΤΗΤΡΙΑ</personal_medical_history>
+        <family_medical_history>ΠΑΠΠΟΥΣ ΑΠΟ ΠΑΤΕΡΑ ΔΕΝ ΘΥΜΑΤΑΙ ΤΗΝ ΑΙΤΙΑ&#13;
+ΠΑΠΠΟΥΣ ΑΠΟ ΜΗΤΕΡΑ    ΑΝΟΙΑ ΚΑΙ ΤΕΛΙΚΑ ΠΕΘΑΝΕ ΑΠΟ  Α.Ε.Ε &#13;
+ΓΙΑΓΙΑ ΑΠΟ Π[ΑΤΕΡΑ ΑΠΟ ΣΤΕΝΑΧΩΡΙΑ (ΣΑΝ ΕΠΑΚΟΛΟΥΘΟ ΤΟΥ ΧΩΡΙΣΜΟΥ ΤΩΝ ΠΑΙΔΙΩΝ)&#13;
+ΓΙΑΓΙΑ ΑΠΟ ΜΗΤΕΡΑ ΖΕΙ ΑΛΛΑ ΕΧΕΙ ΔΙΑΦΟΡΑ ΠΡΟΒΛΗΜΑΤΑ ΥΓΕΙΑΣ Γ.Ο.Π,  ΑΡΘΡΙΤΙΔΑ ΚΑΙ ΑΛΛΑ</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>.</peculiar>
+        <intense>ΥΓΡΑ ΑΠΟ ΤΟΝ ΚΟΛΠΟ(3)&#13;
+ΣΥΧΝΟΥΡΙΑ(3)&#13;
+Ο ΗΛΙΟΣ ΤΗΝ ΕΝΟΧΛΕΙ(3)&#13;
+ΕΥΕΡΕΘΙΣΤΟΤΗΤΑ(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>NATIUM MURIATICUM </remedies_differentiation>
+      <prescription>
+        <remedy>NATIUM MURIATICUM </remedy>
+        <potency>200CH</potency>
+        <regimen>1 ΚΑΨΟΥΛΑ ΕΦΑΠΑΞ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-24 10:45:00</followup_date>
+      <conv_med_presc>.</conv_med_presc>
+      <lab_tests>
+        <desc>.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ΠΟΝΟΣ ΣΤΗ ΣΕΞΟΥΑΛΙΟΚΗ ΕΠΑΦΗ ΧΑΘΗΚΕ &#13;
+Η ΔΥΣΚΟΙΛΙΟΤΗΤΑ ΠΟΛΥ ΚΑΛΥΤΕΡΑ&#13;
+ΕΞΑΦΑΝΙΣΤΗΚΕ Η ΔΥΣΚΟΛΙΑ ΣΤΗΝ ΚΑΤΑΠΟΣΗ ΚΑΙ ΤΟ ΑΙΣΘΗΜΑ ΠΝΙΓΜΟΥ ΑΠΟ ΤΙΣ ΦΛΟΥΔΕΣ ΤΟΥ ΜΗΛΟΥ&#13;
+ΤΑ ΥΓΡΑ ΑΠΟ ΤΟΝ ΚΟΛΠΟ ΠΕΡΙΟΡΙΣΤΗΚΑΝ ΑΛΛΑ ΔΕΝ ΕΞΑΦΑΝΙΣΤΗΚΑΝ</reaction>
+      <analysis>ΜΕΤΑ ΤΗ ΛΗΨΗ ΤΟΥ ΟΜΟΙΟΠΑΘΗΤΙΚΟΥ ΦΑΡΜΑΚΟΥ ΔΕΝ ΑΝΑΦΕΡΕΙ ΕΠΙΔΕΙΝΩΣΗ ΑΛΛΑ ΑΝΑΦΕΡΕΙ ΣΤΑΔΙΑΚΗ ΒΕΛΤΙΩΣΗ</analysis>
+      <conclusion>ΤΟ ΦΑΡΜΑΚΟ ΗΤΑΝ ΣΩΣΤΟ. &#13;
+ΠΕΡΙΜΕΝΟΥΜΕ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

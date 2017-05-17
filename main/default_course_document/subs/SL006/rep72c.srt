@@ -1,0 +1,1326 @@
+﻿1
+00:00:25,690 --> 00:00:31,440
+Začeli bomo z majhnim poglavjem na temo Expert sistema.
+
+2
+00:00:34,550 --> 00:00:39,170
+Ne le na pobudo tistih, ki imate Expert sistem,
+
+3
+00:00:39,270 --> 00:00:42,250
+ampak tudi za vse ostale, ki so se udeležili tega tečaja.
+
+4
+00:00:42,350 --> 00:00:45,750
+Ker, kakor vsi veste, George uporablja Expert sistem
+
+5
+00:00:45,850 --> 00:00:50,740
+in mogoče vam lahko povem nekaj stvari, ki ga bo naredilo še bolj zanimivega,
+
+6
+00:00:50,840 --> 00:00:56,850
+ko boste gledali na ekran in tako vedeli več, kaj se dejansko dogaja.
+
+7
+00:01:00,330 --> 00:01:09,810
+Kot prvo, poiskali in izbrali ste pravilne simptome.
+
+8
+00:01:09,910 --> 00:01:11,660
+In o tem smo že govorili.
+
+9
+00:01:12,410 --> 00:01:15,750
+Vsekakor lahko pride tu do določenih odstopanj.
+
+10
+00:01:15,770 --> 00:01:19,420
+Mogoče ste vnesli simptom, ki ni bil čisto pravilen,
+
+11
+00:01:19,520 --> 00:01:26,170
+ampak govorili smo že o iskanju pravilnih simptomov in kako jih vzamemo.
+
+12
+00:01:26,270 --> 00:01:28,920
+To je ena stvar, ki je potrebna.
+
+13
+00:01:29,020 --> 00:01:36,910
+Druga je, da VES v osnovi deluje, kot da bi več ljudi oziroma več različnih pogledov
+
+14
+00:01:37,010 --> 00:01:46,170
+gledalo enake simptome, vse skupaj sešteje in poda najbolj uravnotežen predlog.
+
+15
+00:01:46,270 --> 00:02:00,940
+Tukaj je še tretji elemnt, ki je podčrtovanje.
+
+16
+00:02:01,690 --> 00:02:08,810
+Zelo podrobno in shematsko vam bom razložil sistem podčrtovanja.
+
+17
+00:02:08,910 --> 00:02:16,760
+Podčrtovanje siptomov pomeni, da nakažemo intenziteto
+
+18
+00:02:16,860 --> 00:02:22,360
+ki jo ima simptom iz spraševanja pacienta.
+
+19
+00:02:25,110 --> 00:02:33,750
+Pacient vam pove en simptom, da si želi musake in vprašati ga moramo, ali je to samo danes 
+
+20
+00:02:33,850 --> 00:02:40,770
+zjutraj, ali si želi musake vsak dan ali samo vsakič, ko pride v Grčijo?
+
+21
+00:02:40,870 --> 00:02:46,100
+Ne, ne, musaka v Grčiji, musaka v Minhnu, musaka povsod!
+
+22
+00:02:47,140 --> 00:02:55,940
+Tako dobimo intenziteto želje po mousaki. To je intenziteta pri spraševanju.
+
+23
+00:02:58,680 --> 00:03:11,170
+Prva stvar je frekvenca simptoma, kako pogosto se pojavi želja po mousaki
+
+24
+00:03:11,270 --> 00:03:16,290
+ali bolečina v zapestju. Kako pogosta je?
+
+25
+00:03:17,020 --> 00:03:22,170
+Drugi element je intenziteta.
+
+26
+00:03:22,270 --> 00:03:27,250
+Kako intenzivno je, sploh za vse, kar je subjektivno.
+
+27
+00:03:27,350 --> 00:03:32,620
+Kako intenzivna je bolečina v zapestju?
+
+28
+00:03:34,100 --> 00:03:37,500
+Ko potem to združimo, dobimo predlog,
+
+29
+00:03:37,600 --> 00:03:41,530
+kako pravilno podčrtati simptome.
+
+30
+00:03:47,030 --> 00:04:00,660
+Simptom je enkrat podčrtan, ko je pogosto prisoten ali intenziven,
+
+31
+00:04:00,760 --> 00:04:04,170
+kar pomeni, ko pride nad ta nivo.
+
+32
+00:04:04,270 --> 00:04:08,430
+Se spomite skice, ki kaže, da se mora simptom dvigniti nad določen nivo
+
+33
+00:04:08,530 --> 00:04:10,920
+preden postane simptom?
+
+34
+00:04:11,020 --> 00:04:18,330
+Torej mora biti želja po musaki dovolj pogosto prisotna, da postane simptom
+
+35
+00:04:18,430 --> 00:04:25,760
+ali bolečina v zapestju, ki mora biti dovolj intenzivna, da je to simptom.
+
+36
+00:04:25,860 --> 00:04:36,320
+Vsak ima kdaj bolečino v zapestju. Je jasno prisotna. To je simptom.
+
+37
+00:04:39,530 --> 00:04:54,360
+Podčrtano 2krat, ko je ustrezna frekvenca ali ustrezna intenziteta.
+
+38
+00:04:54,460 --> 00:04:59,270
+To ni le potrditev: ja, večkrat jem musako.
+
+39
+00:04:59,370 --> 00:05:06,440
+Tokrat je: jem musako vsak dan, ko sem v Grčiji, vsakokrat ko imam priložnost.
+
+40
+00:05:06,540 --> 00:05:09,690
+To je zelo pogosto, bolj izstopajoče.
+
+41
+00:05:09,790 --> 00:05:17,540
+To je dovolj, da mu pripišemo stopnjo 2 pri podčrtanju ali ko je inteziteta izstopajoča.
+
+42
+00:05:18,280 --> 00:05:23,930
+Ni pravilno, da je simptom prisoten; je izstopajoče prisoten
+
+43
+00:05:24,030 --> 00:05:28,190
+zaradi intenzitete. Podčrtamo 2 krat.
+
+44
+00:05:28,290 --> 00:05:30,680
+To je torej takrat, ko je simptom samo prisoten.
+
+45
+00:05:30,780 --> 00:05:37,460
+To je, ko je res pogosto prisoten ali res intenzivno prisoten.
+
+46
+00:05:39,960 --> 00:05:55,290
+3 krat pa podčrtamo, ko je simptom zelo pogosto prisoten in zelo intenziven.
+
+47
+00:05:57,030 --> 00:06:00,030
+Je res neizmeren.
+
+48
+00:06:04,730 --> 00:06:09,770
+Veste, da imamo 4 stopnje v Repertoriju in iz določenih razlogov
+
+49
+00:06:09,870 --> 00:06:14,770
+imamo prav tako 4 stopnje intenzivnosti spraševanja.
+
+50
+00:06:14,870 --> 00:06:19,970
+Četrta stopnja intenzitete spraševanja
+
+51
+00:06:20,070 --> 00:06:25,350
+je kot nekaj, kar ne morete verjeti, da lahko obstaja.
+
+52
+00:06:25,450 --> 00:06:35,520
+Je res tako močno, vsak dan, 3 L mleka, vsak dan več let, to je res zelo močno,
+
+53
+00:06:35,620 --> 00:06:37,700
+vsaj za določene ljudi.
+
+54
+00:06:39,200 --> 00:06:46,750
+Četrta stopnja je , kot veste, v Repertoriju zelo redka. Mogoče jo najdemo pri 200, 250 zdravilih,
+
+55
+00:06:46,850 --> 00:06:50,610
+li imajo četrto stopnjo v Repertoriju.
+
+56
+00:06:52,780 --> 00:06:59,840
+Med vsemi vašimi pacienti, med vsemi simptomi vaših pacientov,
+
+57
+00:06:59,940 --> 00:07:07,180
+bi morala biti četrta stopnja indicirana približno enkrat na dva tedna.
+
+58
+00:07:10,950 --> 00:07:18,580
+Vi vidite paciente vsak dan, ampak le enkrat na dva tedna bi morali pri pacientu pripisati enemu simptomu četrto stopnjo.
+
+59
+00:07:18,680 --> 00:07:21,440
+Tako ne boste pretiravali.
+
+60
+00:07:21,970 --> 00:07:26,440
+Ker je vsa stvar v tem, da podčrtujemo kar se da pravilno.
+
+61
+00:07:26,540 --> 00:07:29,930
+Torej je četrta stopnja zelo redka.
+
+62
+00:07:33,180 --> 00:07:39,760
+Obstajajo tudi izračuni o prisotnosti prve, druge in tretje stopnje
+
+63
+00:07:39,860 --> 00:07:45,250
+in ideja je, da višje kot greste, manj simptomov bo lahko imelo drugo 
+
+64
+00:07:45,350 --> 00:07:49,350
+ali tretjo stopnjo podčrtovanja.
+
+65
+00:07:52,100 --> 00:08:02,250
+To je nekaj takega, kot da bi imelo 80% simptomov prvo stopnjo ali manj, to je dobro.
+
+66
+00:08:02,350 --> 00:08:06,020
+Če je več, boste dobili sporočilo, ko boste uporabljali sistem in takrat boste videli...
+
+67
+00:08:06,120 --> 00:08:09,090
+spremenite podčrtovanje ipd.
+
+68
+00:08:09,610 --> 00:08:20,020
+Jaz sem mnenja, da je pri drugi stopnji 50 % in tretji 20-25 %.
+
+69
+00:08:21,760 --> 00:08:25,950
+Seveda en pacient ni enak drugemu.
+
+70
+00:08:26,440 --> 00:08:31,860
+O tem ni potrebno razmišljati. Imam že 4 simptome prve stopnje,
+
+71
+00:08:31,960 --> 00:08:36,080
+moram imeti en simptom druge stopnje... ni vam treba o tem razmišljati.
+
+72
+00:08:36,180 --> 00:08:42,580
+Program vam bo povedal, če ste šli predaleč, ven iz meja, kar je popolnoma spejemljivo. 
+
+73
+00:08:42,680 --> 00:08:46,370
+Ali vam bo povedal, da malo spremenite vaše  podčrtovanje ali poskušajte razumeti
+
+74
+00:08:46,470 --> 00:08:49,930
+podčrtovanje na drugačen način.
+
+75
+00:08:50,680 --> 00:08:57,710
+Podal vam bom nekaj namigov, da boste poskušali pravilno podčrtovati.
+
+76
+00:08:58,690 --> 00:09:05,500
+Seveda bodo priložnosti, ko boste dvomili, ali podčrtati dvakrat ali trikrat?
+
+77
+00:09:05,600 --> 00:09:08,930
+Naj podčrtam enkrat ali dvakrat?
+
+78
+00:09:09,950 --> 00:09:16,760
+In veste, da sta frekvenca in intenziteta dva načina, da o tem razmislite.
+
+79
+00:09:16,860 --> 00:09:22,500
+Obstaja še tretji, manj pomemben element, ki vam lahko pomaga, da se odločite
+
+80
+00:09:22,600 --> 00:09:27,260
+med 1., 2., in 3. stopnjo.
+
+81
+00:09:27,360 --> 00:09:33,360
+To je nenavadnost simptoma.
+
+82
+00:09:34,350 --> 00:09:42,890
+Če ste v dvomih in če je simptom bolj navaden, potem podčrtate 2 krat, če se odločate med 2. in 3. stopnjo
+
+83
+00:09:42,990 --> 00:09:48,650
+in če je simptom bolj nenavaden, boste podčrtali 3 krat, da ga bolj poudarite,
+
+84
+00:09:48,750 --> 00:09:51,250
+ker je bolj nenavaden.
+
+85
+00:09:52,990 --> 00:10:01,490
+Torej je,če odmislimo seznam, frekvenco in intenziteto, drug način upoštevanje nenavadnosti.
+
+86
+00:10:02,740 --> 00:10:08,890
+Tretja stvar, ki jo morate upoštevati, je, da različni ljudje
+
+87
+00:10:08,990 --> 00:10:14,230
+izražajo svoje trpljenje na različne načine.
+
+88
+00:10:14,330 --> 00:10:23,740
+Če nekdo ves čas tako govori, daje simptome, imel sem to in tisto...
+
+89
+00:10:24,990 --> 00:10:31,730
+in ga nato vprašate, če ima rad banane? O ja, imam rad banane, postavite to zelo visoko.
+
+90
+00:10:31,830 --> 00:10:35,040
+Če nekdo pove, da je imel vse težave sveta, da je padel po stopnicah
+
+91
+00:10:35,140 --> 00:10:39,720
+in je šel na ladjo in mu je tam zdrsnilo... in ga vprašate, imate radi banane?
+
+92
+00:10:39,820 --> 00:10:42,440
+O ja, zelo rad.
+
+93
+00:10:42,540 --> 00:10:47,500
+In kaj pa musako? Ja, tudi musaka je zelo dobra...
+
+94
+00:10:47,980 --> 00:10:53,230
+Če torej vse to damo v tretjo stopnjo, ne bo prav.
+
+95
+00:10:54,260 --> 00:11:02,480
+In med tem ko govori, ga vprašate, kako je v službi? V službi je vse v redu.
+
+96
+00:11:02,990 --> 00:11:11,630
+V tem toku intenzivnih, tako imenovanih tretje stopnjskih simptomov po intenziteti, ste opazili
+
+97
+00:11:11,730 --> 00:11:17,630
+trenutek rahlega oklevanja in veste, kaj vam bo povedal o njegovi službi?
+
+98
+00:11:17,730 --> 00:11:20,900
+Vse drugo, mogoče niti ne boste dobili simptomov.
+
+99
+00:11:21,000 --> 00:11:25,890
+Tako ali tako v repertoriju ni tega, da je padel poleg "flying dolphina", tega ni v repertoriju,
+
+100
+00:11:25,990 --> 00:11:32,590
+a nato vam bo povedal nekaj o njegovi službi, da že celo življenje trpi
+
+101
+00:11:32,690 --> 00:11:35,800
+zaradi frustracij, težav zaradi (?),
+
+102
+00:11:35,900 --> 00:11:39,320
+to je simptom, ki si ga morate zapisati.
+
+103
+00:11:39,420 --> 00:11:45,830
+Intenzivnost je v razmerju z načinom, kako se pacient izraža
+
+104
+00:11:45,930 --> 00:11:48,410
+in to je prav tako pomembno.
+
+105
+00:11:56,000 --> 00:12:00,910
+Ta sistem se ukvarja z razliko med umskimi simptomi in telesnimi simptomi.
+
+106
+00:12:01,010 --> 00:12:06,140
+Ali ni to poseben vpliv (?) simptomov?
+
+107
+00:12:06,240 --> 00:12:14,250
+-Ja. Vprašal bi rad, če so kakšna vprašanja v zvezi z podčrtovanjem.
+
+108
+00:12:16,490 --> 00:12:25,570
+-(?) da postane simptom, kako bi ocenili, ali je ta simptom zelo redek?
+
+109
+00:12:25,670 --> 00:12:28,570
+Če se pojavi samo enkrat na dva meseca?
+
+110
+00:12:28,670 --> 00:12:32,170
+-Pri eni osebi?
+-Ja.
+
+111
+00:12:33,920 --> 00:12:43,310
+Odvisno, ampak če je zelo redek simptom, zelo jasno prisoten,
+
+112
+00:12:44,660 --> 00:12:52,970
+z jasnim mislim, da zaradi njega trpijo, tudi če se pojavi samo vsako četrto noč,
+
+113
+00:12:53,070 --> 00:12:57,490
+rekel bi, da je pomemben.
+
+114
+00:12:58,670 --> 00:13:04,060
+Imate lahko glavobol, ki se izboljša po pitju kave,
+
+115
+00:13:04,160 --> 00:13:09,310
+glavobol ima samo vsaka dva tedna, ko pa popije samo pol skodelice kave,
+
+116
+00:13:09,410 --> 00:13:14,650
+glavobol v minuti izgine, torej: head-pain-coffee-amel (glava-bolečina-kava-izboljša),
+
+117
+00:13:15,930 --> 00:13:21,660
+tudi če se to zgodi le vsake 2-3 tedne, je to pomembna modaliteta.
+
+118
+00:13:23,080 --> 00:13:29,730
+-V zvezi z podčrtovanjem. Se lahko zgodi, da so zdravila izbrana glede na podčrtanost?
+
+119
+00:13:29,830 --> 00:13:33,990
+Mandragoro dobimo na primer pod rubriko nemir.
+
+120
+00:13:34,090 --> 00:13:39,140
+Če imam pacienta, ki je (?) zelo intenzivno nemiren,
+
+121
+00:13:39,240 --> 00:13:46,150
+bi uporabil to v rubriki kot simptom tretje stopnje, ampak Mandragora je v tej rubriki v samo prvi stopnji .
+
+122
+00:13:46,250 --> 00:13:51,140
+Ali takšno podčtovanje daje prednost določenim zdravilom in ne drugim?
+
+123
+00:13:51,240 --> 00:13:59,640
+- Ja. To je zelo dober primer in v naslednjem koraku vam bom razložil
+
+124
+00:13:59,740 --> 00:14:06,600
+razlog za podčrtovanje. In to bo tudi odgovor na vaše vprašanje.
+
+125
+00:14:07,090 --> 00:14:15,580
+Če imamo pacienta in sumimo, da bi lahko bil Stramonium.
+
+126
+00:14:15,840 --> 00:14:21,730
+V nekem trenutku bomo vprašali par vprašanj za potrditev, 
+
+127
+00:14:21,830 --> 00:14:30,980
+če je res Stramonium. Eno vprašanje bi lahko bilo strah pred temo.
+
+128
+00:14:31,080 --> 00:14:40,000
+Torej vprašate, kako se počuti v temi? In kakšen odgovor pričakujete od Stramoniuma?
+
+129
+00:14:47,990 --> 00:14:57,910
+O ja, v temi moram imeti vedno prižgano luč. Zelo močen strah pred temo.
+
+130
+00:14:58,660 --> 00:15:02,090
+In sedaj, če greste v Repertori in pogledate pod strah pred temo,
+
+131
+00:15:02,190 --> 00:15:07,060
+boste videli, da je Stramonium v 4 stopnji. Je najmočnejše zdravilo. 
+
+132
+00:15:07,160 --> 00:15:13,150
+Torej za Stramonium to pomeni, da je bilo to pri preizkusih in v kliničnih primerih
+
+133
+00:15:13,250 --> 00:15:17,150
+zelo pogosto prisotno, strah pred temo pri Stramoniumu.
+
+134
+00:15:17,250 --> 00:15:24,230
+Sedaj gremo en korak naprej, če se vrnemo k pacientu in sumimo na Stamonium,
+
+135
+00:15:24,330 --> 00:15:31,430
+pričakujemo, da bo vsak pacient imel hud strah pred temo.
+
+136
+00:15:31,910 --> 00:15:34,570
+To je potrditev Stramoniuma.
+
+137
+00:15:35,140 --> 00:15:46,370
+Če je pacienta malo... strah pred temo, je to argument proti Stramoniumu.
+
+138
+00:15:46,470 --> 00:15:52,120
+Ali ne potiska Stramoniuma v ospredje do maksimuma.
+
+139
+00:15:52,890 --> 00:15:59,140
+To imenujemo ustrezanje intenzitete.
+
+140
+00:16:00,880 --> 00:16:06,950
+Torej ima Stramonium strah pred temo v 4 stopnji, Stramonium pacienti imajo pa v najboljšem primeru
+
+141
+00:16:07,050 --> 00:16:13,640
+strah pred temo v 4 stopnji, ustrezanje intenzivnosti.
+
+142
+00:16:13,740 --> 00:16:24,450
+In pravilo je, da bolj ko intenziteta ustreza, bolj je zdravilo primerno. 
+
+143
+00:16:37,290 --> 00:16:42,950
+- Ravno prej ste omenil, da stopnja v Repertoriju nima nič skupnega z 
+
+144
+00:16:43,050 --> 00:16:48,280
+intenzivnostjo ampak le s tem, kako pogosto se pojavi v rubriki.
+
+145
+00:16:48,380 --> 00:16:58,010
+In sedaj je pri analizi zelo pomembno, da podčrtamo glede na intenzivnost
+
+146
+00:16:58,110 --> 00:17:03,510
+in to pripelje do razlike, na primer pri Stramoniumu.
+
+147
+00:17:03,610 --> 00:17:12,470
+Sedaj pa se sklicujete na intenziteto, kakor da je četrta stopnja pri Stramoniumu za strah pred temo
+
+148
+00:17:12,570 --> 00:17:16,720
+povezana z intenziteto, čeprav ste prej rekel,
+
+149
+00:17:16,820 --> 00:17:21,990
+da je pomembno kolikokrat se pojavi.
+
+150
+00:17:22,090 --> 00:17:25,090
+-Ja, to je res.
+
+151
+00:17:34,740 --> 00:17:40,910
+To je razlog, zakaj sem se poskušal celo jutro izogniti, da bi nadaljeval na tej ravni.
+
+152
+00:17:41,410 --> 00:17:44,060
+Zato ker vem, da bo povzročilo nekaj zmede.
+
+153
+00:17:44,160 --> 00:17:51,550
+Sedaj bom poskušal razjasniti to zmedo. Prvi korak, narejen je bil repertorij.
+
+154
+00:17:51,650 --> 00:17:55,310
+Zakaj je bilo zdravilo postavljeno v prvo, drugo ali tretjo stopnjo?
+
+155
+00:17:55,410 --> 00:18:02,070
+Zaradi frekvence pri preizkusih in v kliničnih primerih. Se vsi strinjate?
+
+156
+00:18:04,320 --> 00:18:10,480
+Nato se je repertorij uporabljal, dodajali so še več informacij in nato je prišla ženska,
+
+157
+00:18:10,580 --> 00:18:19,760
+prišla je Margaret Tyler z idejo in rekla, da je zanimivo videti,
+
+158
+00:18:19,860 --> 00:18:27,470
+da za nekatera predpisana zdravila, simptome, ki vsebujejo zdravilo v poudarjenem tisku,
+
+159
+00:18:27,570 --> 00:18:31,210
+pacient izrazi te simptome poudarjeno.
+
+160
+00:18:31,310 --> 00:18:37,230
+Arsenicumov strah biti sam v temi, Arsenicum pacienta je zelo strah biti sam
+
+161
+00:18:37,330 --> 00:18:38,970
+ali ga je zelo strah v temi.
+
+162
+00:18:39,070 --> 00:18:43,970
+Torej je dobila idejo, da je bilo ujemanje v stopnjah
+
+163
+00:18:44,070 --> 00:18:49,220
+zanimiv način za obdelavo informacije.
+
+164
+00:18:49,320 --> 00:19:02,800
+Zato sem to izpustil, kajti drugi način opazovanja simptomov vašega pacienta
+
+165
+00:19:05,150 --> 00:19:10,170
+je to ujemanje stopenj.
+
+166
+00:19:13,150 --> 00:19:21,210
+Prav imate, na nek način je to v nasprotju, saj jo uporabljate kot pripomoček za slikanje,
+
+167
+00:19:21,310 --> 00:19:26,110
+uporabljate so za izdelavo skulpture. To je drugačna aplikacija.
+
+168
+00:19:26,210 --> 00:19:30,430
+Vendar je to dejstvo in George je to res pripeljal v homeopatijo,
+
+169
+00:19:30,530 --> 00:19:35,710
+slavno podčrtovanje, on to res ves čas uporablja do te mere,
+
+170
+00:19:35,810 --> 00:19:39,780
+da VES zavrača delo, če primer ni podčrtan.
+
+171
+00:19:42,950 --> 00:19:49,060
+To je njegov način razmišljanja, da morate od pacienta najprej izvedeti,
+
+172
+00:19:49,160 --> 00:19:55,870
+kako intenziven je njegov strah pred temo, kako intenzivno je ljubosumje ipd.
+
+173
+00:19:56,910 --> 00:20:03,840
+Nato primerjate pacientovo intenziteto s stopnjo v repertoriju
+
+174
+00:20:03,940 --> 00:20:08,690
+in rekel bom "karkoli je to pomenilo v preteklosti".
+
+175
+00:20:09,180 --> 00:20:18,320
+Priznati moram, da se te stopnje v repertoriju zdaj uporabljajo z drugačnim ciljem.
+
+176
+00:20:18,420 --> 00:20:23,980
+In prav je tako. Vendar najprej je preteklost in zdaj, odkar je Margaret Tyler
+
+177
+00:20:24,080 --> 00:20:31,990
+mislim, da je bila aktivna v 30ih, 40ih letih, od takrat je ta ideja,
+
+178
+00:20:32,090 --> 00:20:35,990
+posebno z Georgeom zdaj o ujemanju stopenj.
+
+179
+00:20:36,090 --> 00:20:42,980
+To je torej samo še ena ideja, s katero se George strinja, to ujemanje stopenj
+
+180
+00:20:43,080 --> 00:20:48,990
+pacienta in repertorija je zanimiv način analiziranja primera
+
+181
+00:20:49,090 --> 00:20:51,590
+in odločanja o zdravilu.
+
+182
+00:20:52,590 --> 00:20:59,160
+Res pa je, da je malo zašla z originalnega namena stopenj
+
+183
+00:20:59,260 --> 00:21:08,250
+in pomeni tudi, da bomo morali ponovno pretehtati celotno zgodbo o stopnjah v repertoriju.
+
+184
+00:21:08,350 --> 00:21:15,250
+In to delamo. V naslednji verziji lahko pričakujete nekaj novih stvari glede tega.
+
+185
+00:21:15,350 --> 00:21:21,740
+Za zdaj pa je pomembno razumeti, da je res,
+
+186
+00:21:21,840 --> 00:21:27,240
+da bo imela večina od 10 Stramonium pacientov zelo močan strah pred temo
+
+187
+00:21:27,340 --> 00:21:32,570
+in bo mogoče samo eden tak, pri katerem strah pred temo ni  tako naglašen.
+
+188
+00:21:32,670 --> 00:21:36,170
+In to lahko ponovite za mnoge primere.
+
+189
+00:21:48,410 --> 00:21:55,100
+Razložil sem vam torej prvih 6 metod repertorizacije, bolj ali manj klasične,
+
+190
+00:21:55,200 --> 00:22:06,140
+povedal sem vam za ujemanje stopenj, nekdo drug mi je dal še eno idejo,
+
+191
+00:22:07,750 --> 00:22:11,990
+da so še druge možnosti pogleda na informacije.
+
+192
+00:22:13,990 --> 00:22:21,390
+Če torej 2-3 simptomi pridejo iz uma in kažejo na Pulsatillo,
+
+193
+00:22:21,490 --> 00:22:28,300
+je mogoče to čisto drugačna situacija kot 2-3 simptomi iz ekstremitet, ki kažejo na Lycopodium.
+
+194
+00:22:28,400 --> 00:22:33,060
+Ker se to ujema s 3 simptomi uma, je to bolj argument za Pulsatillo,
+
+195
+00:22:33,160 --> 00:22:38,810
+kot 3 argumenti za Lycopodium, ker ti pridejo od ekstremitet.
+
+196
+00:22:38,910 --> 00:22:41,590
+Kajti pravimo, da so mentalni simptomi pomembnejši, če so prisotni,
+
+197
+00:22:41,690 --> 00:22:44,810
+če so pravi, so bolj pomembni.
+
+198
+00:22:44,910 --> 00:22:48,070
+Poglavje torej prav tako vpliva.
+
+199
+00:22:48,170 --> 00:22:55,470
+V bistvu sem zapisal 6, 7, mogoče 8 pravil, a jih je še več.
+
+200
+00:22:55,570 --> 00:23:00,970
+Obstaja več načinov razmišljanja o homeopatskih informacijah in simptomih.
+
+201
+00:23:02,830 --> 00:23:09,310
+Z Georgeom smo naredili izčrpen, popoln seznam vseh teh pravil
+
+202
+00:23:09,410 --> 00:23:16,060
+in za vsako pravilo definirali aplikacije in izjeme
+
+203
+00:23:16,160 --> 00:23:19,300
+in možna razmerja do ostalih pravil.
+
+204
+00:23:19,400 --> 00:23:26,320
+Imamo torej velikansko obliko s številnimi kalkulacijami in dobite
+
+205
+00:23:26,420 --> 00:23:30,570
+kot rezultat tako imenovano stopnjo verjetnosti.
+
+206
+00:23:30,670 --> 00:23:38,830
+Če je zdravilo predlagano kot 1 ali 2 ali 3 v Expert System, je to izračun verjetnosti.
+
+207
+00:23:45,070 --> 00:23:47,330
+Kaj je pomen tega?
+
+208
+00:23:48,830 --> 00:23:55,500
+Ta primer sem uporabil zjutraj, da bi vam razložil nekaj stvari. Se še spomnite?
+
+209
+00:23:56,460 --> 00:24:00,470
+In uporabljam ga v vsaki metodi repertorizacije.
+
+210
+00:24:01,940 --> 00:24:09,770
+Na to lahko gledamo tudi drugače. Če kliknem tukaj, vidim 6 različnih metod
+
+211
+00:24:09,870 --> 00:24:15,620
+repertorizacije, vse skupaj na ekranu. Prva zdravila od vsake izmed njih.
+
+212
+00:24:18,120 --> 00:24:23,190
+Če se ne spomnite, vidite zdravila, ki so 1,2,3 in 4. možnost
+
+213
+00:24:23,290 --> 00:24:26,940
+za vsak način repertorizacije.
+
+214
+00:24:27,040 --> 00:24:34,440
+Torej če vse to skombiniramo, z malo alkimije,
+
+215
+00:24:34,540 --> 00:24:44,370
+dodamo vse elemente in tisti, ki so jemali simptome vedo,
+
+216
+00:24:44,470 --> 00:24:49,020
+če uporabljajo VES, kar je samo pridobitev drugega ključa,
+
+217
+00:24:49,120 --> 00:24:57,300
+da se potrdi, da je Lachesis najboljša možnost za ta astmatični primer iz realnega življenja.
+
+218
+00:24:57,810 --> 00:25:05,780
+Da je bilo po odmerku Lachesisa nekaj rezultatov, ni pa bilo nadaljnjega izboljšanja. 
+
+219
+00:25:05,880 --> 00:25:14,860
+Zdravilo, ki je zdravljenje pripeljalo do konca, je bilo Aralia.
+
+220
+00:25:17,530 --> 00:25:21,790
+To je torej primer, kako VES...
+
+221
+00:25:23,540 --> 00:25:25,790
+Imeli ste ta primer in veste.
+
+222
+00:25:27,530 --> 00:25:31,280
+Mi lahko torej poveste, kakšna je razlika med Lachesis in Aralia?
+
+223
+00:25:38,700 --> 00:25:44,600
+Pa poskusimo drugače. Oseba ima astmo, Lachesis je zdravilo.
+
+224
+00:25:44,700 --> 00:25:49,620
+Kdaj pričakujete, da se bo astma poslabšala? Povejte mi nekaj idej.
+
+225
+00:25:50,120 --> 00:25:53,120
+Poslabšanje astme za Lachesis?
+
+226
+00:25:54,120 --> 00:26:09,870
+-Po spanju, toplota.
+-Pred menstruacijo.
+
+227
+00:26:11,880 --> 00:26:15,130
+-In drugi, splošno poslabšanje Lachesisa?
+
+228
+00:26:19,370 --> 00:26:27,970
+-Prebujanje, po spanju.
+-Ko zaspi.
+
+229
+00:26:30,460 --> 00:26:39,860
+-Ko zaspi. Lachesis je zdravilo, ki se ponovno zbudi, potem ko zaspi.
+
+230
+00:26:44,460 --> 00:26:47,460
+Ko zaspi, se ponovno pojavi astma.
+
+231
+00:26:48,470 --> 00:26:53,960
+Torej je proces, ko skuša zaspati,  za Lachesis težaven, tako kot je to pri pravih kačah. 
+
+232
+00:26:54,460 --> 00:26:59,710
+Kaj pa je bistvo pri Aralii? Se zdaj spomnite?
+
+233
+00:27:02,200 --> 00:27:15,220
+Tu ni težava takrat, ko zaspi, ampak.... eno uro kasneje, po prvem spancu.
+
+234
+00:27:18,620 --> 00:27:22,120
+Rad bi opozoril na to, da imamo enake simptome,
+
+235
+00:27:22,220 --> 00:27:26,620
+tako kot za vse druge metode, govorijo o Calcrei, Lachesisu, Pulsatilli, Silici,
+
+236
+00:27:26,720 --> 00:27:28,120
+to ste vse videli.
+
+237
+00:27:28,220 --> 00:27:33,620
+Uporabite enake simptome z nekaj malega te bolj komplicirane kalkulacije
+
+238
+00:27:33,720 --> 00:27:37,860
+in imate lep predlog za Aralio.
+
+239
+00:27:37,960 --> 00:27:41,860
+To počne Expert System.
+
+240
+00:27:41,960 --> 00:27:45,460
+Razložil vam bom, kot naslednjo točko, te slike.
+
+241
+00:27:46,000 --> 00:27:50,110
+Kajti med uporabo Expert System-a morate vedeti, kaj pomeni
+
+242
+00:27:50,210 --> 00:27:55,960
+in če je to projicirano, lahko izveste, če bi George želel nadaljevati, ja ali ne.
+
+243
+00:27:56,960 --> 00:27:59,860
+Mislim torej, da so sporočila jasna.
+
+244
+00:27:59,960 --> 00:28:04,930
+Preberete lahko sporočila in jih razumete, jaz bi pa rad razložil slike.
+
+245
+00:28:05,400 --> 00:28:10,530
+Vsako zdravilo tukaj, ki je projicirano kot prva možnost, ima sliko,
+
+246
+00:28:10,630 --> 00:28:19,030
+ki jo imenujemo stopnjo popolnega zaupanja, ki ga lahko imate pri tem zdravilu.
+
+247
+00:28:19,130 --> 00:28:28,710
+In to je samo rezultat izračunov, lahko je to slika 12625 ali 6720,
+
+248
+00:28:28,810 --> 00:28:29,950
+to ni pomembno.
+
+249
+00:28:30,050 --> 00:28:41,620
+Preračunano je na tak način, da lahko smatrate, da je slika 100 idealna za izbor.
+
+250
+00:28:42,730 --> 00:28:53,440
+Ko se približate in greste nad 100, to pomeni, da imate zelo dobre argumente za Lachesis.
+
+251
+00:28:54,800 --> 00:28:56,040
+To je pomen tega.
+
+252
+00:28:56,540 --> 00:29:03,270
+Na začetku boste torej videli, da bodo 45, 60 ipd. Ko pa primer napreduje
+
+253
+00:29:03,370 --> 00:29:12,860
+in je koherenten, se te slike dvignejo na 80 in 90000, lahko postane zelo velika,
+
+254
+00:29:12,960 --> 00:29:17,610
+če dodate nekaj potrditvenih simptomov.
+
+255
+00:29:17,710 --> 00:29:24,280
+Imamo še eno sliko, ki je pomembna, tisto med oklepaji.
+
+256
+00:29:25,360 --> 00:29:30,450
+Relativno zaupanje imamo v predpisu.
+
+257
+00:29:30,550 --> 00:29:36,120
+Kaj to zdaj pomeni? To je tehnična razlaga za realno življenje.
+
+258
+00:29:36,220 --> 00:29:43,540
+Če imate zelo dobre argumente za Lachesis, boste predpisali Lachesis?
+
+259
+00:29:47,560 --> 00:29:54,120
+Odvisno. Če so ti dobri argumenti za Lachesis samo za Lachesis.
+
+260
+00:29:54,220 --> 00:30:00,120
+Ali imate morda zaradi enakih simptomov dobre argumente za Pulsatillo,
+
+261
+00:30:00,220 --> 00:30:05,360
+ki je pogosto blizu in za druga zdravila.
+
+262
+00:30:05,460 --> 00:30:09,350
+Imate torej zelo dobre argumente za Lachesis, a še vedno ne zaupate,
+
+263
+00:30:09,450 --> 00:30:15,860
+ker je zaupanje v Lachesis relativno, saj obstajajo tudi dobri argumenti za Pulsatillo,
+
+264
+00:30:15,960 --> 00:30:18,960
+za Natrum Muriatucim ali karkoli drugega.
+
+265
+00:30:19,420 --> 00:30:25,350
+Relativno zaupanje v zdravilo pride torej spet bližje k 100,
+
+266
+00:30:25,600 --> 00:30:31,500
+če je izstopajoče, če se argumenti ločijo od zaupanja
+
+267
+00:30:31,600 --> 00:30:34,260
+ali argumentov za druga zdravila.
+
+268
+00:30:34,360 --> 00:30:40,410
+To, kar vidite na ekranu je prav to, kar George imenuje kolone, pokažite mi kolone,
+
+269
+00:30:40,510 --> 00:30:49,150
+pravi in v katerih je zaupanje v vsako zdravilo prikazano na grafični način.
+
+270
+00:30:49,250 --> 00:30:55,410
+To je verjetnost za vsako zdravilo v tem koraku. Daljša kot je palica,
+
+271
+00:30:55,510 --> 00:31:00,660
+več je zaupanja, več argumentov teh zdravil.
+
+272
+00:31:02,010 --> 00:31:05,900
+Vidite, tu sta dve veliki palici, Lachesis in Aralia
+
+273
+00:31:06,000 --> 00:31:10,240
+in nato je Calcarea (?), ki je malo manjša in vse ostale so še manjše.
+
+274
+00:31:10,340 --> 00:31:21,310
+V glavnem so torej še vedno možna 4 zdravila in zato v tem primeru predpis pravi,
+
+275
+00:31:21,410 --> 00:31:28,820
+100 zelo dobrih argumentov za Lachesis, a tudi 57 v drugi sliki,
+
+276
+00:31:28,920 --> 00:31:35,810
+nismo prav gotovi, da je to Lachesis, saj še vedno obstaja odprta možnost za druga zdravila.
+
+277
+00:31:35,910 --> 00:31:39,600
+In pogledate Calcareo (?) in Aralio.
+
+278
+00:31:44,330 --> 00:31:51,660
+Pogledamo, kateri simptomi so tukaj, poglejte, kaj delam.
+
+279
+00:31:51,760 --> 00:32:06,570
+Vzel bom še en Lachesis simptom, oblačila poslabšajo in ga dodal k
+
+280
+00:32:06,670 --> 00:32:09,570
+prejšnjim.
+
+281
+00:32:09,670 --> 00:32:19,340
+Če ponovno zaženem Expert System, vidite argumente za lachesis še boljše, 126.
+
+282
+00:32:19,590 --> 00:32:26,080
+In še malo bolj izstopa, če gremo h kolonam, vidite, Lachesis
+
+283
+00:32:26,180 --> 00:32:28,100
+in Aralia sta močnejša.
+
+284
+00:32:28,200 --> 00:32:34,070
+Relativno zaupanje za predpis Lachesisa se bo povečalo.
+
+285
+00:32:34,170 --> 00:32:38,190
+A kljub temu še vedno upoštevajte ostalih nekaj zdravil.
+
+286
+00:32:50,850 --> 00:32:51,850
+Še enega.
+
+287
+00:33:02,260 --> 00:33:07,410
+Grem tukaj na želja po močnati hrani, to dodam
+
+288
+00:33:07,510 --> 00:33:14,410
+in zdaj imam izstopajoč primer Lachesisa.
+
+289
+00:33:14,510 --> 00:33:21,430
+253 izstopajočih argumentov za Lachesis in zaupanje 111.
+
+290
+00:33:21,530 --> 00:33:28,420
+Aralia je zdaj še vedno nekje, vendar argumentov za Lachesis, ki bi prevladali.
+
+291
+00:33:28,520 --> 00:33:30,150
+Seveda to ni bil pravi primer.
+
+292
+00:33:30,250 --> 00:33:38,660
+Pokazal sem vam samo, kako lahko tipični simptomi dvignejo stopno zaupanja za neko zdravilo.
+
+293
+00:33:41,760 --> 00:33:46,410
+Na ta način se igrate s slikami in tako ugotovite, ali je posvet
+
+294
+00:33:46,510 --> 00:33:49,010
+zaključen ali še ne.
+
+295
+00:33:51,260 --> 00:33:53,660
+-Še eno vprašanje glede teh slik.
+
+296
+00:33:53,760 --> 00:33:57,660
+Na začetku ste rekli, da gre prvo zdravilo lahko samo do 100,
+
+297
+00:33:57,760 --> 00:34:02,820
+ko naj bi bil blizu 100 ali okoli 100. Zdaj pa gre čez 100.
+
+298
+00:34:08,010 --> 00:34:18,160
+-Ja, rekel sem, da naj bi se približal 100, ko gre do 80, 90, 100
+
+299
+00:34:18,260 --> 00:34:23,410
+in čez to pomeni dobre argumente za to. Seveda lahko gre čez.
+
+300
+00:34:23,510 --> 00:34:28,840
+Če dodam vse ključne simptome Lachesisa, bo se bo dvignil na 500 in 600.
+
+301
+00:34:30,850 --> 00:34:38,750
+-Enako vprašanje imam za drugo sliko.
+
+302
+00:34:38,850 --> 00:34:40,490
+-Enak odgovor.
+
+303
+00:34:40,590 --> 00:34:43,980
+-Toda koliko lahko gremo navzdol, da smo še vedno lahko zelo prepričani?
+
+304
+00:34:45,010 --> 00:34:50,900
+-Za absolutno zaupanje za zdravilo 80 in več.
+
+305
+00:34:51,000 --> 00:34:58,640
+Za drugo sliko bi rekel, da se začne pri 60-70. A ne zanašajte se na slike.
+
+306
+00:34:58,740 --> 00:35:03,820
+Če ste v dvomih ali Aralia ali Lachesis, samo recite pacientu,
+
+307
+00:35:03,920 --> 00:35:08,650
+da ga boste naslednji dan poklicali, preberite vašo malo knjigico in iz materije medike boste ugotovili,
+
+308
+00:35:08,750 --> 00:35:10,890
+katero zdravilo je boljše.
+
+309
+00:35:10,990 --> 00:35:17,160
+Ne zanašajte se na slike, ne zanašajte se na repertorizacijo. To so samo orodja, ki nam kažejo pot.
+
+310
+00:35:36,000 --> 00:35:42,400
+-Lahko poveste kaj o številu rubrik, ki so
+
+311
+00:35:42,500 --> 00:35:46,650
+(?) pravi, da moramo izbrati najmanj 4 rubrike,
+
+312
+00:35:46,750 --> 00:35:53,180
+a mogoče obstaja tudi maksimum, kjer (?) postane to brez veze.
+
+313
+00:35:54,160 --> 00:36:01,070
+-Mislim, da obstaja slika, število simptomov, pri katerem tako rekoč
+
+314
+00:36:01,170 --> 00:36:05,070
+vsaka repertorizacija postane neuporabna
+
+315
+00:36:05,170 --> 00:36:10,810
+Kot prvo, strinjam se z vami, da so 4 simptomi minimum.
+
+316
+00:36:10,910 --> 00:36:23,650
+Imeti moramo neko osnovo, na kateri stojimo in lahko jih je 6,7,12,15,
+
+317
+00:36:23,750 --> 00:36:30,070
+včasih tudi 20, vendar se bo večina primerov vrtela v tem območju.
+
+318
+00:36:30,170 --> 00:36:37,250
+S tem mislim posamične simptome. Jasno je, da en simptom, sestavljen iz petih simptomov, ni 1 simptom.
+
+319
+00:36:37,350 --> 00:36:40,490
+To bo območje, ki ga lahko pričakujete.
+
+320
+00:36:40,590 --> 00:36:43,890
+Če jih je precej več in imate občutek, da imate preveč simptomov, je mogoče bolje
+
+321
+00:36:43,990 --> 00:36:48,060
+nekaj simptomov počistiti proč in ohraniti tiste, ki so pomembni.
+
+322
+00:36:58,910 --> 00:37:05,250
+Rad bi spregovoril nekaj malega o prihodnosti.
+
+323
+00:37:06,990 --> 00:37:13,410
+-Samo ena malenkost še. Uporaba VES-a je zelo pomembna,
+
+324
+00:37:13,510 --> 00:37:21,650
+kot ste rekli že v 91, da takoj začnete, najprej ga uporabite s pacientom,
+
+325
+00:37:21,750 --> 00:37:22,900
+ne šele potem, ko je že odšel.
+
+326
+00:37:23,000 --> 00:37:28,820
+Veliko bolje je to uporabiti , ko je pacient še tukaj in narediti vrednotenje
+
+327
+00:37:28,920 --> 00:37:32,810
+vsakokrat, ko dodate en simptom.
+
+328
+00:37:32,910 --> 00:37:39,320
+Tako dobite kontinuiran razvoj možnosti
+
+329
+00:37:39,420 --> 00:37:44,920
+in verjetnosti za predpis.
+
+330
+00:37:45,420 --> 00:37:52,310
+Zelo nam je v pomoč, če ga lahko uporabljamo na ta način.
+
+331
+00:37:52,410 --> 00:37:57,690
+-Ja, absolutno. Odlično.

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELba234f48f2c910b903bff73bd0441c08</ID>
+  <patient>
+    <case_date>2015-11-03 17:05:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Φ.Μ</patient_initials>
+    <age>23</age>
+    <circumstances>ΑΓΑΜΗ,ΒΡΕΦΟΝΗΠΙΟΚΟΜΟΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΚΑΝΟΝΙΣΤΗ ΠΑΡΙΟΔΟΣ ΑΠΟ ΤΟΤΕ ΠΟΥ ΤΗΣ ΞΕΚΙΝΗΣΕ,ΔΗΛΑΔΗ ΣΤΑ 13 ΤΗΣ ΧΡΟΝΙΑ.ΠΟΛΥΚΥΣΤΙΚΕΣ ΩΟΘΗΚΕΣ. </origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>ΠΡΙΝ ΔΥΟ ΧΡΟΝΙΑ ΕΜΦΑΝΙΣΕ ΜΙΑ ΡΑΓΑΔΑ ΣΤΟΝ ΠΡΩΚΤΟ Η ΟΠΟΙΑ ΕΝΙΟΤΕ ΑΙΜΟΡΡΑΓΕΙ.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc>ΥΠΕΡΗΧΟΣ ΜΗΤΡΑΣ ΚΑΙ ΩΟΘΗΚΩΝ ΠΡΙΝ ΕΝΑ ΜΗΝΑ ΟΠΟΥ ΕΔΕΙΞΕ ΚΥΣΤΕΣ ΣΤΙΣ ΩΟΘΗΚΕΣ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>ΟΤΑΝ ΗΤΑΝ ΣΤΗ ΔΕΥΤΕΡΑ ΔΗΜΟΤΙΚΟΥ ΕΧΑΣΕ ΤΟΝ ΠΑΠΠΟΥ ΤΗΣ ΜΕ ΤΟΝ ΟΠΟΙΟ ΗΤΑΝ ΠΟΛΥ ΔΕΜΕΝΗ,ΑΚΟΜΑ ΑΙΣΘΑΝΕΤΑΙ ΤΗΝ ΑΠΩΛΕΙΑ ΤΟΥ.ΟΤΑΝ ΗΤΑΝ ΣΤΗΝ ΔΕΥΤΕΡΑ ΓΥΜΝΑΣΙΟΥ Η ΜΑΜΑ ΤΗΣ ΕΠΑΘΕ ΑΝΕΥΡΙΣΜΑ ΜΕ ΕΓΚΕΦΑΛΙΚΗ ΑΙΜΟΡΡΑΓΙΑ ΚΑΙ ΝΟΣΗΛΕΥΤΗΚΕ ΚΑΙ ΑΠΟ ΤΟΤΕ ΔΕΝ ΘΕΛΕΙ ΚΑΘΟΛΟΥ ΤΑ ΝΟΣΟΚΟΜΕΙΑ.</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ 52 ΕΤΩΝ:ΑΝΕΥΡΙΣΜΑ,ΠΙΕΣΗ,ΙΝΟΜΥΩΜΑ ΚΑΙ ΠΟΛΥΠΟΔΕΣ ΣΤΗ ΜΗΤΡΑ.ΠΑΤΕΡΑΣ 59 ΕΤΩΝ:2 ΜΠΑΛΟΝΑΚΙΑ,ΠΡΟΒΛΗΜΑ ΣΤΟΥΣ ΠΝΕΥΜΟΝΕΣ ΠΑΙΡΝΕΙ ΟΞΥΓΟΝΟ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ(3)</reactions>
+        <sleeping_habits>ΥΠΝΑΡΟΥ,ΚΟΙΜΑΤΑΙ ΒΑΡΙΑ,ΒΛΕΠΕΙ ΟΝΕΙΡΑ,ΚΟΙΜΑΤΑΙ ΜΠΡΟΥΜΗΤΑ,ΞΥΠΝΑΕΙ ΞΕΚΟΥΡΑΣΤΗ.</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΙΑ ΓΙΑ ΤΥΡΙ(4)-ΔΕΝ ΕΧΩ ΟΡΙΟ- ΠΑΓΩΤΟ(3),ΣΟΚΟΛΑΤΑ(3), ΜΑΝΙΤΑΡΙΑ(3),ΠΑΝΤΑ ΚΡΥΟ ΝΕΡΟ ΧΕΙΜΩΝΑ -ΚΑΛΟΚΑΙΡΙ 3 ΛΙΤΡΑ.ΣΙΧΑΙΝΕΤΑΙ ΤΑ ΑΒΓΑ(3),ΤΟ ΛΙΠΟΣ(3) ΤΟ ΒΟΥΤΥΡΟ(3) ΔΕΝ ΘΕΛΕΙ ΤΟ ΚΡΕΑΣ, ΤΑ ΨΑΡΙΑ,ΤΙΣ ΜΠΑΜΙΕΣ.</food_modalities>
+        <menstruation>ΤΕΛΕΥΤΑΙΑ ΦΟΡΑ ΗΤΑΝ ΠΡΙΝ 2 ΜΗΝΕΣ,ΓΕΝΙΚΑ ΑΣΤΑΤΟΣ ΚΥΚΛΟΣ ,ΟΤΑΝ ΕΧΕΙ ΔΙΑΡΚΕΙ 5-6 ΗΜΕΡΕΣ ΕΧΕΙ ΡΟΗ ΦΥΣΙΟΛΟΓΙΚΗ ΠΡΟΣ ΛΙΓΗ ,ΣΚΟΥΡΟ ΚΟΚΚΙΝΟ ΑΙΜΑ ΜΕ ΠΗΓΜΑΤΑ.</menstruation>
+      </physical>
+      <mental_emotional>ΑΥΤΟ ΤΟΝ ΚΑΙΡΟ ΕΙΝΑΙ ΑΓΧΩΜΕΝΗ(3),ΣΤΕΝΑΧΩΡΗΜΕΝΗ(3),ΘΥΜΩΜΕΝΗ(3),ΔΕΝ ΑΙΣΘΑΝΕΤΑΙ ΗΡΕΜΗ,ΚΛΑΙΕΙ(3) ΑΛΛΑ ΟΧΙ ΜΠΡΟΣΤΑ ΣΤΟΥΣ ΑΛΛΟΥΣ.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΕΚΑΝΕ ΠΥΡΕΤΟ ΠΡΙΝ 2 ΧΡΟΝΙΑ 39.</personal_medical_history>
+        <family_medical_history>ΜΗΤΕΡΑ 52 ΕΤΩΝ:ΑΝΕΥΡΙΣΜΑ,ΠΙΕΣΗ,ΙΝΟΜΥΩΜΑ ΚΑΙ ΠΟΛΥΠΟΔΕΣ ΣΤΗ ΜΗΤΡΑ.ΠΑΤΕΡΑΣ 59 ΕΤΩΝ:2 ΜΠΑΛΟΝΑΚΙΑ,ΠΡΟΒΛΗΜΑ ΣΤΟΥΣ ΠΝΕΥΜΟΝΕΣ ΠΑΙΡΝΕΙ ΟΞΥΓΟΝΟ.</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>ΕΚΑΝΕ ΥΨΗΛΟ ΠΥΡΕΤΟ ΠΡΙΝ 2 ΧΡΟΝΙΑ, ΑΡΑ ΑΝΗΚΕΙ ΣΕ ΥΨΗΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΚΡΥΩΝΕΙ(3) ΣΚΕΠΑΖΕΤΑΙ ΜΕ ΠΙΚΕ ΚΟΥΒΕΡΤΟΥΛΑ ΑΚΟΜΑ ΚΑΙ ΤΟ ΚΑΛΟΚΑΙΡΙ.ΦΟΒΑΤΑΙ ΤΙΣ ΚΑΤΣΑΡΙΔΕΣ(4),ΣΙΧΑΙΝΕΤΑΙ ΤΑ ΕΝΤΟΜΑ(3),ΤΑ ΦΙΔΙΑ(2),ΔΕΝ ΘΕΛΕΙ ΤΑ ΝΟΣΟΚΟΜΕΙΑ (3) ΑΛΛΑ ΑΝ ΕΙΝΑΙ ΜΕ ΤΗΝ ΠΑΡΕΑ ΤΗΣ ΘΑ ΠΑΕΙ.ΑΝΗΣΥΧΕΙ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΩΝ ΓΟΝΙΩΝ ΤΗΣ(3),ΔΕΝ ΘΕΛΕΙ ΝΑ ΠΑΘΟΥΝ ΚΑΤΙ.</peculiar>
+        <intense>ΦΟΒΑΤΑΙ ΣΤΟ ΒΡΑΔΥ(3) ΜΗΝ ΜΠΟΥΝ ΚΛΕΦΤΕΣ ΚΑΙ ΠΑΝΤΑ ΚΟΙΜΑΤΑΙ ΜΕ ΤΟ ΦΩΣ ΑΝΑΜΜΕΝΟ,ΦΟΒΑΤΑΙ ΜΗΝ ΤΗΣ ΕΠΙΤΕΘΕΙ ΚΑΠΟΙΟΣ ΟΤΑΝ ΕΙΝΑΙ ΣΤΟ ΔΡΟΜΟ ΚΑΙ ΠΑΝΤΑ ΕΧΕΙ ΤΟ ΝΟΥ ΤΗΣ(3),ΘΕΛΕΙ ΝΑ ΕΧΕΙ ΠΑΡΕΑ(4)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>PHOSPHORUS,AMBELOSCUS,ARG.NITRICUM,ARSENICUM,N.MURIATICUM</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5193/Φ.Μ..jpg</file_url>
+      </repertorization>
+      <remedies_differentiation>ΔΙΝΩ PHOSPHORUS ΕΧΕΙ ΠΑΡΑ ΠΟΛΛΑ  ΑΠΟ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΤΟΥ PHOSPHORUS.</remedies_differentiation>
+      <prescription>
+        <remedy>PHOSPHORUS</remedy>
+        <potency>1M</potency>
+        <regimen>ΕΦ'ΑΠΑΞ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-11-03 16:05:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΕΚΑΝΕ ΠΟΝΟΚΕΦΑΛΟ ΤΙΣ 3 ΠΡΩΤΕΣ ΜΕΡΕΣ ΚΑΙ Η ΠΕΡΙΟΔΟΣ ΤΗΣ ΗΡΘΕ ΤΗΝ ΕΠΟΜΕΝΗ ΜΕΡΑ ΑΦΟΥ ΕΙΧΕ ΠΑΡΕΙ ΤΟ ΦΑΡΜΑΚΟ.</reaction>
+      <analysis>ΠΟΛΛΗ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ΣΤΟ ΦΑΡΜΑΚΟ ΠΕΡΙΜΕΝΟΥΜΕ</analysis>
+      <conclusion>ΠΕΡΙΜΕΝΟΥΜΕ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-03 16:05:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ΠΕΡΙΟΔΟΣ ΤΗΣ ΕΡΧΕΤΑΙ ΚΑΝΟΝΙΚΑ ΚΑΘΕ ΜΗΝΑ,ΑΙΣΘΑΝΕΤΑΙ ΠΙΟ ΔΥΝΑΤΗ,ΔΕΝ ΚΛΑΙΕΙ,ΕΞΩΤΕΡΙΚΕΥΕΙ ΤΑ ΣΥΝΑΙΣΘΗΜΑΤΑ ΤΗΣ,ΦΟΒΑΤΑΙ ΑΚΟΜΗ ΤΟ ΒΡΑΔΥ ΑΛΛΑ ΛΙΓΟΤΕΡΟ,ΕΧΕΙ ΑΡΧΙΣΕΙ ΝΑ ΤΡΩΕΙ ΑΒΓΟ.</reaction>
+      <analysis>ΠΟΛΛΗ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ,ΠΕΡΙΜΕΝΟΥΜΕ ΝΑ ΔΡΑΣΕΙ ΤΟ ΦΑΡΜΑΚΟ ΣΕ ΟΛΑ ΤΑ ΕΠΙΠΕΔΑ.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2e327f6fe03a1cda2a6a24d1f6ccfd70</ID>
+  <patient>
+    <case_date>2015-08-19 16:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Κ.Χ</patient_initials>
+    <age>30</age>
+    <circumstances>αγαμος, ψαλτης</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αλλεργιες σε φραουλες, πλαστικο, πορτοκαλι κ.α, ευκολα δερματικα αν ερθει σ επαφη με διαφορα προιοντα, εντονο αγχος</origin>
+        <causative_factors>μετα απο πολλη κουβεντα μου εκμυστηρευτηκε οτι υπεστη κακοποιηση στα 4 κ απο τοτε ξεκινησαν ολες οι αλλεργιες</causative_factors>
+        <modalities>&lt;ζεστη, με τον ιδρωτα κ τον ηλιο βγαζει αλλεργια στο σωμα, &lt;κρυα ροφηματα η φωνη του κλεινει κ δν θελει να πινει</modalities>
+        <occurrence_time>&lt;καλοκαιρι αλλα και οποιαδηποτε εποχη πιανουν οι αλλεργιες, αγχος &lt;το βραδυ οταν ξαπλωνει κ σκεφτεται</occurrence_time>
+        <body_side>κ στα δυο μερη</body_side>
+        <appearence_frequency>αγχος το τελευταιο δθαστημα καθημερινα, αλλεργιες μια φορα το μηνα περιπου</appearence_frequency>
+        <pain_desc>δν αναφερει πονο</pain_desc>
+        <complaint_ext>συνηθως πιανει το προσωπο του κ επεκτεινεται εκει η αλλεργια</complaint_ext>
+        <other_complaints>ιδρωνει πολυ, ιδιαιτερα οταν ξαπλωνει</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>πριν εναν μηνα κορτιζονουχο αλοιφη γτ επιασε πλαστικο γαντι (δν θυμαται σκευασμα)</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>κορτιζονουχες αλοιφες κ χορηγηση κορτιζονης οταν κουραζεται πολυ η φωνη του και κλεινει</therapies_vaccination>
+          <traumas>σεξουαλικη κακοποιηση στα 4, σοβαρο τροχαιο με την μηχανη στα 16, σοβαρο τραυμα στο κεφαλι</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>υπερταση και μητερα κ πατερας</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ουτε ζεσταινεται , ουτε κρυωνει, αναφερει μονο κρυα ποδια </reactions>
+        <sleeping_habits>στο πλαι κ μπρουμυτα, θελει να κοιμηθει αλλα δν κοιμαται, 5 ωρες το 24ωρο κοιμαται συνηθως, θρησκευτικου περιεχομενου ονειρα συνηθως</sleeping_habits>
+        <food_modalities>γλυκα(3), ζεστα φαγητα συνηθως, οχι ιδιαιτερη προτιμηση η απεχθεια σε κατι, 'ολα μ αρεσουν'</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>τον απασχολει πολυ η αποκατασταση του, μονιμο αγχος για τα παντα κ ιδιαiτερα επειδη ειναι ανενεργος σεξουαλικα</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history> εχει παρει κορτιζονη για 3-4 μερες συνηθως μια φορα τον χρονο, η προγνωση ειναι μετρια</personal_medical_history>
+        <family_medical_history>καλη</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>μετρια κατασταση, δεν κανει ποτε πυρετο, φαινονται εντονες καταπιεσεις</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>βαζει πετσετα για να κοιμηθει το βραδυ στο κεφαλι(3) κ θελει να κουκουλωνεται</peculiar>
+        <intense>αγχος, νομιζει οτι θα πεθανει κπριν δυο χρονια επεισοδειο κολπικης μαρμαρυγης που κρατησε 20 ωρες περιπου, μονιμη θλιψη που την αποδιδει συνεχεια στο οτι κακοποιηθηκε σεξουαλικα(4)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENERALITIES - ALLERGIC constitution, HEAD - PERSPIRATION - Scalp - sleep, during,PERSPIRATION - PERSPIRATION in general,MIND - SADNESS, mental depression - mercury, after abuse of</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>(compass)&#13;
+Aurum muriaticum&#13;
+Aurum metallicum&#13;
+Hepar sulphuris calcareum&#13;
+Calcarea carbonica&#13;
+Podophyllum peltatum&#13;
+Nitricum acidum&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>calcarea carbonica </remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>δεκα λεπτα προ του πρωινου</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-19 14:00:00</followup_date>
+      <conv_med_presc>πριν εναν μηνα κορτιζονουχο αλοιφη γτ επιασε πλαστικο γαντι (δν θυμαται σκευασμα)</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>σκεφτεται τον θανατο εντονα, στενοχωρια και κενο μεγαλο, απεριοριστη θλιψη τις πρωτες μερες. ονειρωξεις σχεδον μερα παρα μερα, υγρα και κατα την αφοδευση, θελει παρεα, αισθανεται 'τσιμπουρι', οτι πνιγει τους γυρω του</reaction>
+      <analysis>υπαρχει χρονια καταπιεση απο 4 ετων κ πιστευω ειναι λογικο αυτο το κυμα στενοχωριας</analysis>
+      <conclusion>υπηρχε εντονη αντιδραση στο φαρμακο κ θεωρω οτι θα χρειαστει μακροχρονη θεραπεια</conclusion>
+      <repertorization>
+        <desc>phosphorus, phos.acid, calcarea carbonica</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>ο ασθενης παει καλα και δεν επαναλαμβανω το φαρμακο</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-19 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-08-19 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>-</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2015-08-19 08:00:00</followup_date>
+      <conv_med_presc>calacarea carbonica 200ch</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>αναφερει θλιψη μετα απο ερωτικη απορριψη, αισθανεται κομπο στον λαιμο (δεν μπορει να ψαλει)</reaction>
+      <analysis>θεωρω οτι πρεπει να παρεμβω, καθως μιλαει ολο για την απορριψη και οτι ειναι τοσο στενοχωρημενος που περναει τα φαναρια με κοκκινο</analysis>
+      <conclusion>το αντιμετωπιζω σαν οξυ την απογοητευση που αισθανεται</conclusion>
+      <repertorization>
+        <desc>MIND - LOVE - ailments from disappointed - silent grief</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ignatia</remedy>
+        <potency>200ch</potency>
+        <regimen>1x1</regimen>
+        <other_notes>1 καψουλα εφ απαξ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

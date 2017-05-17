@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELc68c4d79a424833d9b1b55767f4d0d03</ID>
+  <patient>
+    <case_date>2015-04-30 20:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Γ.Δ</patient_initials>
+    <age>26</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ ΧΩΡΙΣ ΠΑΙΔΙΑ&#13;
+ΕΙΝΑΙ ΙΔΙΩΤΙΚΟΣ ΥΠΑΛΛΗΛΟΣ ΣΕ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΙΑ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΕΔΩ ΚΑΙ ΠΕΝΤΕ ΜΗΝΕΣ ΝΙΩΘΕΙ ΕΞΑΝΤΛΗΣΗ  ΚΑΙ ΑΔΥΝΑΜΙΑ .ΕΙΝΑΙ ΡΑΚΟΣ.&#13;
+ΠΟΝΟΚΕΦΑΛΟΙ ΚΑΙ ΠΕΡΙΟΔΙΚΑ ΠΥΡΕΤΟΙ.</origin>
+        <causative_factors>ΠΡΙΝ 5 ΜΗΝΕΣ ΜΕΤΑ ΑΠΟ ΕΞΩΜΗΤΡΙΟ ΚΥΗΣΗ ΣΤΟ ΔΕΥΤΕΡΟ ΜΗΝΑ   ΕΚΑΝΕ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΕΜΒΑΣΗ ΚΑΙ ΧΡΕΙΑΣΤΗΚΕ &#13;
+ 5 ΦΥΑΛΕΣ ΑΙΜΑ, ΛΟΓΩ ΜΕΓΑΛΗΣ ΑΠΩΛΕΙΑΣ ΑΙΜΑΤΟΣ</causative_factors>
+        <modalities>ΤΗΣ ΦΤΑΙΝΕ ΟΛΑ ΕΧΕΙ ΑΠΙΣΤΕΥΤΟ ΕΚΝΕΥΡΙΣΜΟ ΚΑΙ ΕΚΝΕΥΡΙΖΕΤΑΙ ΟΤΑΝ ΤΗΝ ΑΓΓΙΖΟΥΝ.</modalities>
+        <occurrence_time>ΚΑΘΕ ΔΕΚΑΠΕΝΤΕ ΗΜΕΡΕΣ  ΕΧΕΙ ΠΥΡΕΤΟ ΜΕΧΡΙ 38 ΚΑΙ ΑΙΣΘΑΝΕΤΑΙ ΡΑΚΟΣ</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>ΚΑΘΗΜΕΡΙΝΑ</appearence_frequency>
+        <pain_desc>ΕΧΟΥΝ ΠΑΡΟΥΣΙΑΣΤΕΙ ΠΟΝΟΚΕΦΑΛΟΙ ΠΟΥ ΔΕΝ ΠΕΡΝΟΥΝ  ΜΕ ΠΑΥΣΙΠΟΝΑ ΑΛΛΑ ΤΗΝ ΑΝΑΚΟΥΦΙΖΕΙ ΟΤΑΝ ΑΣΚΕΙ ΠΙΕΣΗ ΕΝΤΟΝΗ ΣΤΟ  ΚΕΦΑΛΙ ΤΗΣ.</pain_desc>
+        <complaint_ext>ΚΑΝΕΙ ΣΥΧΝΑ ΟΥΡΟΛΟΙΜΩΞΕΙΣ.&#13;
+</complaint_ext>
+        <other_complaints>ΣΤΟ ΓΡΑΦΕΙΟ ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΜΕΤΑΦΕΡΕΙ ΤΟ ΝΤΟΣΙΕ ΑΠΟ ΤΟ ΕΝΑ ΓΡΑΦΕΙΟ ΣΤΟ ΑΛΛΟ.&#13;
+ΣΤΟ ΣΠΙΤΙ ΕΙΝΑΙ ΡΑΚΟΣ ΚΑΙ ΠΑΡΑ ΤΗΝ ΥΠΕΡΔΙΕΓΕΡΣΗ ΚΑΙ ΤΑ ΝΕΥΡΑ ΠΟΥ ΕΧΕΙ  ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΚΟΙΜΗΘΕΙ.&#13;
+ΑΠΙΣΤΕΥΤΗ ΚΟΥΡΑΣΗ ΤΟ ΠΡΩΙ ΣΗΚΩΝΕΤΑΙ ΔΥΣΚΟΛΑ  ΚΑΙ ΜΕ ΤΟ ΣΤΡΕΣ ΤΗΣ ΔΟΥΛΕΙΑΣ Η ΖΩΤΙΚΟΤΗΤΑ ΤΗΣ ΔΕΝ ΕΙΝΑΙ ΚΑΘΟΛΟΥ ΚΑΛΗ.&#13;
+ΚΑΝΕΙ ΣΥΧΝΑ ΟΥΡΟΛΟΙΜΩΞΕΙΣ.&#13;
+ΟΙ ΓΙΑΤΡΟΙ ΔΕΝ ΜΠΟΡΟΥΝ ΝΑ ΜΟΥ ΚΑΝΟΥΝ ΤΙΠΟΤΑ ΛΕΕΙ Η ΙΔΙΑ.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΕΧΕΙ ΚΑΝΕΙ ΟΛΑ ΤΑ ΕΜΒΟΛΙΑ .ΕΚΤΟΣ ΑΠΟ ΤΑ ΑΝΤΙΒΙΟΤΙΚΑ ΠΟΥ ΠΗΡΕ  ΣΤΗ ΝΟΣΗΛΕΙΑ ΤΗΣ ΕΧΕΙ ΠΑΡΕΙ ΜΟΝΟ ΑΛΛΗ ΜΙΑ ΦΟΡΑ ΣΤΗ ΖΩΗ ΤΗΣ .</therapies_vaccination>
+          <traumas>Η ΑΠΩΛΕΙΑ ΤΟΥ ΜΩΡΟΥ.&#13;
+Η ΑΠΩΛΕΙΑ ΤΩΝ ΓΟΝΕΙΩΝ ΤΗΣ.</traumas>
+          <infections>-</infections>
+          <other>ΟΖΟΙ ΣΤΟΝ ΘΥΡΕΟΕΙΔΗ&#13;
+ΟΥΡΟΛΟΙΜΩΞΕΙΣ&#13;
+ΔΥΣΟΣΜΙΑ ΣΤΙΣ ΜΑΣΧΑΛΕΣ.&#13;
+ΙΔΡΩΤΑΣ ΚΟΛΛΩΔΗΣ</other>
+        </personal>
+        <family>
+          <diseases>ΚΑΙ ΟΙ ΔΥΟ ΓΟΝΕΙΣ ΠΕΘΑΝΑΝ ΑΠΟ ΚΑΡΚΙΝΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ ΚΑΙ ΣΤΟΝ ΥΠΝΟ ΦΟΡΑΕΙ ΚΑΛΤΣΕΣ.</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΛΙΓΟ , ΔΥΣΚΟΛΑ ΚΑΙ ΑΝΥΣΗΧΑ  , ΔΕΝ ΤΗΝ ΞΕΚΟΥΡΑΖΕΙ.&#13;
+ΚΟΙΜΑΤΑΙ  ΣΕ ΔΙΑΦΟΡΕΣ ΣΤΑΣΕΙΣ.&#13;
+</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΙΕΣ :ΤΑ ΓΛΥΚΑ (3) ,ΤΟ ΚΑΛΑΜΠΟΚΙ (3) ,ΤΟ ΠΑΓΩΤΟ (2) ΟΙ ΣΟΥΠΕΣ ΜΕ ΠΟΛΛΑ ΠΙΠΕΡΙΑ (3)ΣΤΑ ΖΥΜΑΡΙΚΑ (2) ΑΠΕΧΘΕΙΑ : ΣΤΟ ΛΙΠΟΣ(2) ΣΤΗ ΦΑΣΟΛΑΔΑ (3)ΓΙΑΤΙ ΤΗΣ ΚΑΝΕΙ ΤΥΜΠΑΝΙΣΜΟ.</food_modalities>
+        <menstruation>ΠΡΙΝ ΤΗΝ ΕΠΕΜΒΑΣΗ ΗΤΑΝ Κ.Φ ΤΩΡΑ ΕΧΕΙ ΑΝΩΜΑΛΙΕΣ.&#13;
+ΔΕΝ ΕΧΕΙ ΣΕΞΟΥΑΛΙΚΗ ΕΠΙΘΥΜΙΑ.</menstruation>
+      </physical>
+      <mental_emotional>ΕΙΝΑΙ ΑΞΙΟΠΡΕΠΗΣ ΚΑΙ ΔΕΝ ΘΕΛΕΙ ΝΑ ΔΙΝΕΙ ΔΙΚΑΙΩΜΑΤΑ.ΑΝΑΣΦΑΛΗΣ ΑΛΛΑ ΠΑΙΡΝΕΙ ΤΗΝ ΕΥΘΥΝΗ ΓΙΑ ΠΟΛΛΑ ΠΡΑΓΜΑΤΑ.ΑΓΧΩΔΗΣ ΚΑΙ ΠΟΛΥ ΕΥΘΙΚΤΗ.ΔΕΝ ΕΙΝΑΙ ΚΟΙΝΩΝΙΚΗ ΦΟΒΑΤΑΙ ΜΗΝ ΠΛΗΓΩΘΕΙ.&#13;
+ΔΥΣΚΟΛΑ ΚΛΑΙΕΙ ΜΠΡΟΣΤΑ ΣΕ ΑΛΛΟΥΣ.&#13;
+Η ΠΑΡΗΓΟΡΙΑ ΤΗΣ ΔΗΜΙΟΥΡΓΕΙ ΑΜΗΧΑΝΙΑ.&#13;
+ΦΟΒΑΤΑΙ  ΣΚΥΛΙΑ-ΓΑΤΙΑ.&#13;
+ΔΕΝ ΑΝΑΣΤΕΝΑΖΕΙ.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΕΙΝΑΙ ΕΝΑ ΑΤΟΜΟ ΔΙΑΤΑΡΑΓΜΕΝΟ ΑΠΟ ΜΙΑ ΣΥΓΚΕΚΡΙΜΕΝΗ ΑΙΤΙΑ,ΔΕΝ ΕΧΕΙ ΒΑΘΕΙΑ ΠΑΘΟΛΟΓΙΑ .</personal_medical_history>
+        <family_medical_history>ΚΛΗΡΟΝΟΜΙΚΗ ΠΡΟΔΙΑΘΕΣΗ ΟΧΙ ΚΑΛΗ ΔΙΟΤΙ ΚΑΙ ΟΙ ΔΥΟ ΓΟΝΕΙΣ ΤΗΣ ΠΕΘΑΝΑΝ ΝΕΟΙ ΑΠΟ ΚΑΡΚΙΝΟ.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>ΠΙΣΤΕΥΩ ΟΤΙ Η ΠΡΟΓΝΩΣΗ ΕΙΝΑΙ ΚΑΛΗ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΑΝΑΣΦΑΛΗΣ (2)  ΠΟΛΥ ΕΥΘΙΚΤΗ(3)   ΦΟΒΑΤΑΙ ΜΗΝ ΠΛΗΓΩΘΕΙ(2) ΠΟΛΥ ΝΕΥΡΙΚΗ (3)&#13;
+ΔΥΣΚΟΛΑ ΚΛΑΙΕΙ ΜΠΡΟΣΤΑ ΣΕ ΑΛΛΟΥΣ (2)&#13;
+Η ΠΑΡΗΓΟΡΙΑ  ΤΗΣ ΔΗΜΙΟΥΡΓΕΙ ΑΜΗΧΑΝΙΑ (2)&#13;
+ΦΟΒΑΤΑΙ  ΣΚΥΛΙΑ-ΓΑΤΙΑ(3).&#13;
+ΔΕΝ ΑΝΑΣΤΕΝΑΖΕΙ . ΔΕΝ ΚΛΑΙΕΙ ΜΠΡΟΣΤΑ ΣΕ ΑΛΛΟΥΣ .ΧΑΜΗΛΗ ΖΩΤΙΚΟΤΗΤΑ.&#13;
+ΠΟΝΟΚΕΦΑΛΟΙ ΠΟΥ ΠΕΡΝΟΥΝ ΜΕ ΠΙΕΣΗ ΤΗΣ ΚΕΦΑΛΗΣ.</peculiar>
+        <intense>ΑΔΥΝΑΜΙΑ (4)  ΤΥΜΠΑΝΙΣΜΟΣ (2)  ΚΡΥΩΝΕΙ(3) &#13;
+ΕΠΙΘΥΜΙΕΣ :ΤΑ ΓΛΥΚΑ (3) ,ΤΟ ΚΑΛΑΜΠΟΚΙ (3) ,ΤΟ ΠΑΓΩΤΟ (2) ΟΙ ΣΟΥΠΕΣ ΜΕ ΠΟΛΛΑ ΠΙΠΕΡΙΑ (3)ΣΤΑ ΖΥΜΑΡΙΚΑ (2)&#13;
+ΑΠΕΧΘΕΙΑ : ΣΤΟ ΛΙΠΟΣ(2)  ΣΤΗ ΦΑΣΟΛΑΔΑ (3)ΓΙΑΤΙ ΤΗΣ ΚΑΝΕΙ ΤΥΜΠΑΝΙΣΜΟ ΣΤΟ ΚΟΤΟΠΟΥΛΟ (2)&#13;
+ΟΖΟΙ ΣΤΟΝ ΘΥΡΕΟΕΙΔΗ(2)&#13;
+ΟΥΡΟΛΟΙΜΩΞΕΙΣ (3)&#13;
+ΔΥΣΟΣΜΙΑ ΣΤΙΣ ΜΑΣΧΑΛΕΣ(2).ΙΔΡΩΤΑΣ ΚΟΛΛΩΔΗΣ (2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ΜΕΤΑ ΤΗΝ ΑΝΑΛΥΣΗ ΤΩΝ ΣΥΜΠΤΩΜΑΤΩΝ  ΤΑ ΦΑΡΜΑΚΑ ΠΟΥ ΠΡΟΚΥΠΤΟΥΝ ΕΙΝΑΙ 1.CHINA  2.NATRUM MURIATICUM.&#13;
+ΕΠΕΙΔΗ Η ΕΝΑΡΞΗ ΤΩΝ ΣΥΜΠΤΩΜΑΤΩΝ  ΣΥΜΠΙΠΤΕΙ ΜΕ ΤΗΝ ΜΕΓΑΛΗ ΑΠΩΛΕΙΑ ΖΩΤΙΚΩΝ ΥΓΡΩΝ ΥΠΕΡΕΧΕΙ  ΤΟ CHINA</remedies_differentiation>
+      <prescription>
+        <remedy>CHINA</remedy>
+        <potency>200CH KAI 1M</potency>
+        <regimen>1*200CH  ΤΟ ΠΡΩΙ &#13;
+1* 1Μ ΤΟ ΒΡΑΔΥ</regimen>
+        <other_notes>ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ ΕΝΑ ΜΗΝΑ.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-02 19:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΤΗΝ ΠΡΩΤΗ ΕΒΔΟΜΑΔΑ ΜΕΤΑ ΤΟ ΦΑΡΜΑΚΟ ΗΘΕΛΑ ΝΑ ΜΕΙΝΩ ΣΠΙΤΙ ΚΑΙ ΝΑ ΚΟΙΜΑΜΑΙ ΣΥΝΕΧΕΙΑ  ΛΕΕΙ Η ΑΣΘΕΝΗΣ.&#13;
+ΕΧΩ ΤΗΝ ΤΑΣΗ ΝΑ ΚΛΑΙΩ ΣΥΝΕΧΕΙΑ  ΚΑΙ ΤΗΝ ΑΝΑΓΚΗ ΝΑ ΠΩ ΠΡΑΓΜΑΤΑ ΠΟΥ ΠΡΙΝ ΔΕΝ ΤΑ ΕΛΕΓΑ.&#13;
+Ο ΙΔΡΩΤΑΣ ΜΟΥ ΔΕΝ ΕΙΝΑΙ ΚΟΛΛΩΔΗΣ.&#13;
+ΜΕΤΑ ΑΠΟ 20 ΗΜΕΡΕΣ Η ΚΟΥΡΑΣΗ ΕΙΧΕ ΦΥΓΕΙ ΤΕΛΕΙΩΣ.</reaction>
+      <analysis>ΤΟ ΦΑΡΜΑΚΟ ΛΕΙΤΟΥΡΓΕΙ ΣΩΣΤΑ  ΠΕΡΙΜΕΝΟΥΜΕ ΠΕΡΑΙΤΕΡΩ ΒΕΛΤΙΩΣΗ.</analysis>
+      <conclusion> ΠΕΡΙΜΕΝΟΥΜΕ ΠΕΡΑΙΤΕΡΩ ΒΕΛΤΙΩΣΗ.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ ΔΥΟ ΜΗΝΕΣ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-08-10 10:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ΑΣΘΕΝΗΣ ΑΝΑΦΕΡΕΙ ΟΤΙ Η ΚΟΥΡΑΣΗ ΕΧΕΙ ΕΞΑΦΑΝΙΣΤΕΙ. ΔΕΝ ΕΧΕΙ ΞΑΝΑΚΑΝΕΙ ΠΥΡΕΤΟ.ΔΕΝ ΜΥΡΙΖΟΥΝ ΟΙ ΜΑΣΧΑΛΕΣ ΤΗΣ.ΤΑ ΠΡΩΙΝΑ ΞΥΠΝΑΕΙ ΜΕ ΧΑΡΑ ΟΥΤΕ ΑΝΑΓΚΗ ΕΧΕΙ ΝΑ ΚΟΙΜΗΘΕΙ ΟΤΑΝ ΓΥΡΙΖΕΙ ΑΠΟ ΤΗΝ ΕΡΓΑΣΙΑ ΤΗΣ.&#13;
+ΕΛΕΓΧΕΙ ΠΟΛΥ ΕΥΚΟΛΑ ΤΑ  ΝΕΥΡΑ ΤΗΣ.ΕΚΦΡΑΖΕΙ ΕΥΚΟΛΑ ΤΑ ΣΥΝΑΙΣΘΗΜΑΤΑ ΤΗΣ ΠΟΥ ΕΙΧΕ ΠΟΛΥ ΚΑΙΡΟ ΝΑ ΤΑ ΕΚΦΡΑΣΕΙ.ΕΧΟΥΝ ΣΤΑΜΑΤΗΣΕΙ ΟΙ ΠΟΝΟΚΕΦΑΛΟΙ.</reaction>
+      <analysis>ΤΟ ΦΑΡΜΑΚΟ ΛΕΙΤΟΥΡΓΕΙ ΚΑΛΑ.</analysis>
+      <conclusion>ΠΕΡΙΜΕΝΟΥΜΕ ΝΑ ΔΟΥΜΕ ΕΑΝ ΘΑ ΒΕΛΤΙΩΘΕΙ ΠΕΡΑΙΤΕΡΩ Ο ΑΣΘΕΝΗΣ</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ ΤΡΕΙΣ ΜΗΝΕΣ.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-12-10 15:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ΑΣΘΕΝΗΣ ΑΝΑΦΕΡΕΙ ΟΤΙ  ΟΛΑ ΠΑΝΕ ΠΟΛΥ ΚΑΛΑ ΑΛΛΑ ΕΧΕΙ ΑΥΞΗΘΕΙ Η ΛΑΙΜΑΡΓΙΑ ΤΗΣ ΚΑΙ ΠΡΟΣΠΑΘΕΙ ΝΑ ΤΗΝ ΕΛΕΓΞΕΙ ΕΧΕΙ ΓΙΝΕΙ ΟΜΩΣ ΠΙΟ ΕΥΣΥΓΚΙΝΙΤΗ ΚΑΙ ΕΧΕΙ ΑΥΞΗΘΕΙ Η ΣΕΞΟΥΑΛΙΚΗ ΤΗΣ ΕΠΙΘΥΜΙΑ.</reaction>
+      <analysis>Η ΑΝΤΙΔΡΑΣΗ ΣΤΟ ΦΑΡΜΑΚΟ ΗΤΑΝ ΕΞΑΙΡΕΤΙΚΗ.</analysis>
+      <conclusion>ΤΟ ΦΑΡΜΑΚΟ ΕΔΡΑΣΕ ΣΩΣΤΑ</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

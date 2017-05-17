@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL62b27ca336b13c3f1e028454e908779b</ID>
+  <patient>
+    <case_date>2016-02-08 12:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Δ.Κ</patient_initials>
+    <age>45</age>
+    <circumstances>Πρώτη επίσκεψη 15 Σεπτεμβρίου 2015&#13;
+Παντρεμένος με 2 παιδιά ,μηχανικός,ιδιωτικός υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Τον τελευταίο χρόνο παρουσιάζει φούσκωμα μετά το φαγητό,ερυγές αίσθημα καύσου μετά το φαγητό</origin>
+        <causative_factors>Δεν αναφέρονται</causative_factors>
+        <modalities>Μετά το μεσημεριανό φαγητό αισθάνεται μεγάλη ατονία ,υπνηλία και κακή διάθεση. Χειρότερο το φούσκωμα στο στομάχι με τα λαδερά.</modalities>
+        <occurrence_time>Απόγευμα</occurrence_time>
+        <body_side>\\</body_side>
+        <appearence_frequency>Σχεδόν καθημερινά</appearence_frequency>
+        <pain_desc>\\</pain_desc>
+        <complaint_ext>\\</complaint_ext>
+        <other_complaints>Πόνος στα γόνατα που χειροτερεύει με την υγρασία.Πονοκέφαλοι τον τελευταίο καιρό κυρίως κροταφικοί και μετωπιαίοι.&#13;
+Αισθάνεται παχύς και θέλει μετά μανίας να χάσει βάρος.Δεν του αρέσει η εικόνα του εαυτού του.&#13;
+Προβλήματα στο γάμο του λόγω εξωσυζυγικής σχέσης του ίδιου.&#13;
+Τρώει τα νύχια του όταν έχει άγχος.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Γαστρεντερικές διαταραχές.Δεν παίρνει φάρμακα</conv_med_presc>
+        <lab_tests>
+          <desc>\\</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Έχει πάρει από άλλο γιατρό Sulphur πριν 4 χρόνια</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>\\</therapies_vaccination>
+          <traumas>\\</traumas>
+          <infections>\\</infections>
+          <other>\\</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας πέθανε από διατατική μυοκαρδιοπάθεια.&#13;
+Μητέρα κφ.&#13;
+Αδελφή κφ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται στον ύπνο 2, κοιμάται ξεσκέπαστος,δεν φοράει πυζάμες.&#13;
+Ιδρώτας πολύ 2 και μυρίζει ξινίλα 2.</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα και με το χέρι κάτω από το μαξιλάρι , ή στο δεξί πλευρό.Έχει σιελόρροια στον ύπνο,στριφογυρίζει στον ύπνο,κάποιες φορές παραμιλά και ροχαλίζει πολύ 2.</sleeping_habits>
+        <food_modalities>Des.: κρέας 3,φρούτα 2,σαλάτες 2&#13;
+Av.: δεν έχει</food_modalities>
+        <menstruation>\\</menstruation>
+      </physical>
+      <mental_emotional>Κλειστός 1,τακτικός 1,υποχωρητικός 1 , δειλός 2,θέλει να έχει τον τελευταίο λόγο,να είναι το επίκεντρο  της προσοχής.&#13;
+Κυκλοθυμικός 1,τον επηρεάζει η γνώμη των άλλων.Θυμώνει αλλά δεν το κρατάει,θέλει την παρηγοριά 2,συμπάσχει 2.Έχει φαντασιώσεις,αυτοικανοποιείται επειδή ο γάμος δεν πάει καλά. Τον επηρεάζει πολύ η εικόνα του.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Όχι σοβαρή παθολογία.Εντοπίζεται κυρίως στο γαστρεντερικό.Σχεδόν καθαρό φάρμακο , γιατί βλέπω συμπτώματα από το Sulphur αλλά και το Lycopodium.Κάνει ακόμα οξέα ,πιθανώς group Α.</personal_medical_history>
+        <family_medical_history>Προδιάθεση για καρδιαγγειακά από τον πατέρα.</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Καλό επίπεδο υγείας,μπορεί να χρειαστεί και δεύτερο φάρμακο.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Χειροτερεύει 3 με 8 απόγευμα</peculiar>
+        <intense>Αίσθημα υπερπλήρωσης του στομάχου μετά το φαγητό 3 και αδυναμία μετά το φαγητό 3&#13;
+Επιδείνωση 3 με 8 το απόγευμα 3&#13;
+Τον ενδιαφέρει πολύ η εικόνα του 2&#13;
+Ιδρώτας που μυρίζει 2&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>STOMACH ­ FULLNESS, sensation of ­ eating ­ after 3&#13;
+GENERALITIES ­ WEAKNESS ­ eating ­ after 2&#13;
+HEAD ­ PAIN (headache) ­ Forehead, in ­ eminence, frontal 2&#13;
+GENERALITIES ­ AFTERNOON ­ from 16:00 to 20:00 3&#13;
+MOUTH ­ SALIVATION ­ night 1&#13;
+MOUTH ­ SALIVATION ­ sleep, during 1&#13;
+MIND ­ LONGING ­ good opinion of others, for 2&#13;
+MIND ­ IRRITABILITY 1&#13;
+SLEEP ­ RESTLESS 2&#13;
+GENERALITIES ­ WARM ­ bed ­ agg. 3&#13;
+GENERALITIES ­ WARM ­ agg. 2&#13;
+MIND ­ RESERVED 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ meat ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fruit ­ desire 2&#13;
+PERSPIRATION ­ ODOR ­ fetid (offensive as of decay) 1&#13;
+PERSPIRATION ­ ODOR ­ offensive 2&#13;
+GENERALITIES ­ WEATHER ­ wet ­ agg. 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Sulphur :έχει ανήσυχο ύπνο,ιδρώνει και μυρίζει, αλλά το πρόβλημα για το οποίο κυρίως έρχεται είναι τα δυσπεπτικά ενοχλήματα και παρουσιάζει τη χαρακτηριστική επιδείνωση τις απογευματινές ώρες του Lycopodium.</remedies_differentiation>
+      <prescription>
+        <remedy>Lycopodium</remedy>
+        <potency>200 και 1M </potency>
+        <regimen>200ch και 1Μ την ίδια ημέρα ,και  6χ για 1 μήνα.</regimen>
+        <other_notes>\\</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-08 11:00:00</followup_date>
+      <conv_med_presc>20 Οκτωβρίου ,Ένα μήνα αργότερα.&#13;
+Η αρχική αγωγή.</conv_med_presc>
+      <lab_tests>
+        <desc>\\</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις πρώτες μέρες είχε έντονο πονοκέφαλο. Παρουσίασε γενική βελτίωση τη 2η εβδομάδα και στο στομάχι και στη ζωτικότητά του.</reaction>
+      <analysis>Βελτίωση μετά από αρχική επιδείνωση. Πράγματι ανήκει στα υψηλά επίπεδα υγείας.Καλή πρόγνωση.</analysis>
+      <conclusion>Σωστό φάρμακο,καλή αντίδραση,καλή πρόγνωση.</conclusion>
+      <repertorization>
+        <desc>\\</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δίνω άλλο φάρμακο.Περιμένω.</remedy>
+        <potency>\\</potency>
+        <regimen>\\</regimen>
+        <other_notes>Τελευταία επίσκεψη 2 Φεβρουαρίου. Αναφέρει σταθερή βελτίωση.Πρόγνωση αρίστη.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

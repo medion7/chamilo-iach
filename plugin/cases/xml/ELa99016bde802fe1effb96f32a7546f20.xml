@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELa99016bde802fe1effb96f32a7546f20</ID>
+  <patient>
+    <case_date>2014-12-14 16:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΚΩΣΤΑΣ Κ.</patient_initials>
+    <age>41</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ ΕΝΑ ΠΑΙΔΙ.ΕΛΕΥΘΕΡΟΣ ΕΠΑΓΓΕΛΜΑΤΙΑΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΒΗΧΑΣ ΞΗΡΟΣ ΣΤΑ ΤΕΛΕΥΤΑΙΑ ΔΕΚΑ ΧΡΟΝΙΑ</origin>
+        <causative_factors>ΔΕΝ ΤΟ ΣΥΝΔΕΕΙ ΜΕ ΚΑΤΙ</causative_factors>
+        <modalities>ΤΗΝ ΩΡΑ ΠΟΥ ΞΑΠΛΩΝΕΙ ΕΙΝΑΙ ΧΕΙΡΟΤΕΡΑ. &#13;
+ΟΤΑΝ ΕΙΝΑΙ ΑΝΑΣΚΕΛΑ ΧΕΙΡΟΤΕΡΕΥΕΙ.&#13;
+ΤΟ STREESS ΤΟΝ ΧΕΙΡΟΤΕΡΕΥΕΙ</modalities>
+        <occurrence_time>Ο ΒΗΧΑΣ ΕΙΝΑΙ ΠΙΟ ΕΝΤΟΝΟΣ ΤΟ ΒΡΑΔΥ</occurrence_time>
+        <body_side>.</body_side>
+        <appearence_frequency>5-10 ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ</appearence_frequency>
+        <pain_desc>.</pain_desc>
+        <complaint_ext>.</complaint_ext>
+        <other_complaints>ΓΑΣΤΡΟΟΙΣΟΦΑΓΙΚΗ ΠΑΛΙΝΔΡΟΜΗΣΗ.&#13;
+ΚΑΟΥΡΕΣ (ΠΑΙΡΝΕΙ ZANTAC)&#13;
+ΛΙΠΩΔΗΣ ΕΚΦΥΛΙΣΗ ΗΠΑΤΟΣ.&#13;
+ΦΛΕΒΙΚΗ ΑΝΕΠΑΡΚΕΙΑ ΚΥΡΙΩΣ ΣΤΙΣ ΚΑΘΕΤΟΥΣ ΦΛΕΒΕΣ. ΤΟ ΔΕΞΙ ΠΟΔΙ ΑΠΟ ΤΟ ΓΟΝΑΤΟ ΚΑΙ ΚΑΤΩ ΠΡΗΖΕΤΑΙ.&#13;
+ΟΡΘΟΣΤΑΤΙΚΗ ΥΠΟΤΑΣΗ&#13;
+ΚΑΠΝΙΖΕ ΑΡΕΙΜΑΝΙΩΣ ΜΕΧΡΙ ΠΡΙΝ 6 ΜΗΝΕΣ ΚΑΙ ΑΠΟ ΤΟΤΕ ΠΟΥ ΔΙΕΚΟΨΕ ΕΧΕΙ ΠΡΟΒΛΗΜΑΤΑ ΜΕ ΤΗ ΣΤΥΣΗ ΚΑΙ ΠΡΟΩΡΗ ΕΚΣΠΕΡΜΑΤΙΣΗ&#13;
+ΚΑΤΑ ΤΗΝ ΠΑΝΣΕΛΗΝΟ ΑΝΑΦΕΡΕΙ ΑΫΠΝΙΑ ΚΑΙ ΕΝΤΟΝΗ ΑΝΗΣΥΧΙΑ&#13;
+ΜΟΥΔΙΑΣΜΑΤΑ ΤΟ ΒΡΑΔΥ ΣΤΑ 3(3, 4, 5) ΔΑΧΤΥΛΑ ΤΟΥ ΧΕΡΙΟΥ&#13;
+ΡΙΝΙΤΙΔΑ&#13;
+ΟΙΔΗΜΑ ΣΤΑ ΠΟΔΙΑ ΚΑΙ ΚΥΡΙΩΣ ΣΤΟ ΔΕΞΙ ΠΟΥ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΑΠΟ ΤΗΝ ΟΡΘΟΣΤΑΣΙΑ&#13;
+ΑΥΞΗΜΕΝΗ ΔΙΑΣΤΟΛΙΚΗ ΠΙΕΣΗ 10-11</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ZANTAC ΓΙΑ ΤΟ ΣΤΟΜΑΧΙ</conv_med_presc>
+        <lab_tests>
+          <desc>ΜΙΚΡΟΟΖΙΔΙΑΚΗ ΑΛΛΟΙΩΣΗ ΥΠΟΥΠΕΖΩΚΟΤΙΚΑ ΣΤΗ ΔΕΞΙΑ ΠΝΕΥΜΟΝΙΚΗ ΒΑΣΗ ΔΙΑΜΕΤΡΟΥ 2ΜΜ ΜΕΤΑ ΑΠΟ ΑΞΟΝΙΚΗ ΤΟΜΟΓΡΑΦΙΑ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΤΟΥΣ ΠΡΟΒΛΕΠΟΜΕΝΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ. ΤΟΥΣ ΤΕΛΕΥΤΑΙΟΥΣ ΠΟΥ ΘΥΜΑΤΑΙ ΗΤΑΝ ΣΤΟ ΣΤΡΑΤΟ.&#13;
+ZANTAC ΟΤΑΝ ΕΧΕΙ ΚΑΟΥΡΕΣ</therapies_vaccination>
+          <traumas>.</traumas>
+          <infections>ΠΥΡΕΤΟΥΣ ΚΑΝΕΙ ΠΕΡΙΠΟΥ ΜΙΑ ΦΟΡΑ ΣΤΑ 3 ΧΡΟΝΙΑ ΜΕ ΘΕΡΜΟΚΡΑΣΙΑ 39 ΒΑΘΜΟΥΣ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΟΙ ΓΟΝΕΙΣ ΤΟΥ ΕΙΝΑΙ ΥΓΙΕΙΣ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΕΙΝΑΙ ΑΤΟΜΟ ΠΟΥ ΖΕΣΤΑΙΝΕΤΑΙ.&#13;
+ΞΕΣΚΕΠΑΖΕΤΑΙ ΣΤΟΝ ΥΠΝΟ</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΣΤΟ ΠΛΑΙ ΑΛΛΟΤΕ ΔΕΞΙΑ ΚΑΙ ΑΛΛΟΤΕ ΑΡΙΣΤΕΡΑ , ΟΧΙ ΟΜΩΣ ΜΠΡΟΥΜΥΤΑ Ή ΑΝΑΣΚΕΛΑ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΚΡΕΑΣ(3) ΨΑΡΙ(2), ΑΛΑΤΙ (3) ΕΛΑΙΟΛΑΔΟ(2) ΑΥΓΑ(2) ΚΑΙ ΑΛΚΟΟΛ(3)&#13;
+ΔΙΨΑΕΙ ΚΑΙ ΕΠΙΘΥΜΕΙ ΤΟ ΝΕΡΟ ΝΑ ΕΙΝΑΙ ΚΡΥΟ.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΙΝΑΙ ΑΓΧΩΔΗΣ(3) (ΥΠΟΧΟΝΔΡΙΟΣ). ΑΝΗΣΥΧΕΙ ΓΙΑ ΑΣΘΕΝΕΙΕΣ ΚΑΙ ΓΙΑ ΤΗΝ ΚΟΡΗ ΤΟΥ, ΠΟΥ ΓΕΝΝΗΘΗΚΕ ΤΟ 2012.&#13;
+ΕΙΝΑΙ ΑΤΟΜΟ ΕΞΩΣΤΡΕΦΕΣ, ΚΟΙΝΩΝΙΚΟΤΑΤΟ ΚΑΙ ΜΕ ΣΤΟΧΟΥΣ ΚΑΙ ΟΝΕΙΡΑ ΓΙΑ ΕΝΑΝ ΚΟΣΜΟ ΚΑΛΥΤΕΡΟ. &#13;
+ΤΟΥ ΑΡΕΣΕΙ Η ΧΡΗΣΗ ΚΑΝΝΑΒΗΣ .ΠΡΙΝ ΚΑΠΟΙΑ ΧΡΟΝΙΑ ΠΕΡΙΣΤΑΣΙΑΚΑ ΕΚΑΝΕ ΧΡΗΣΗ ΗΡΩΪΝΗΣ ΚΑΙ ΚΟΚΑΪΝΗΣ. &#13;
+ΟΤΑΝ ΒΛΕΠΕΙ ΑΠΟ ΤΟ ΜΠΑΛΚΟΝΙ ΝΟΙΩΘΕΙ ΝΑ ΤΟΝ ΤΡΑΒΑΕΙ ΤΟ ΚΕΝΟ.&#13;
+ΦΟΒΑΤΑΙ ΤΟ ΣΚΟΤΑΔΙ(2) ΚΑΙ ΤΑ ΦΙΔΙΑ(2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΣΕ ΠΑΙΔΙΚΗ ΗΛΙΚΙΑ ΑΝΑΦΕΡΕΙ ΑΥΤΟΜΑΤΕΣ ΡΙΝΟΡΑΓΙΕΣ.&#13;
+ΓΑΣΤΡΟΟΙΣΟΦΑΓΙΚΗ ΠΑΛΙΝΔΡΟΜΗΣΗ.&#13;
+ΚΑΟΥΡΕΣ (ΠΑΙΡΝΕΙ ZANTAC)&#13;
+ΛΙΠΩΔΗΣ ΕΚΦΥΛΙΣΗ ΗΠΑΤΟΣ.&#13;
+ΦΛΕΒΙΚΗ ΑΝΕΠΑΡΚΕΙΑ ΚΥΡΙΩΣ ΣΤΙΣ ΚΑΘΕΤΟΥΣ ΦΛΕΒΕΣ. ΤΟ ΔΕΞΙ ΠΟΔΙ ΑΠΟ ΤΟ ΓΟΝΑΤΟ ΚΑΙ ΚΑΤΩ ΠΡΗΖΕΤΑΙ.&#13;
+ΟΡΘΟΣΤΑΤΙΚΗ ΥΠΟΤΑΣΗ&#13;
+ΚΑΠΝΙΖΕ ΑΡΕΙΜΑΝΙΩΣ ΜΕΧΡΙ ΠΡΙΝ 6 ΜΗΝΕΣ ΚΑΙ ΑΠΟ ΤΟΤΕ ΠΟΥ ΔΙΕΚΟΨΕ ΕΧΕΙ ΠΡΟΒΛΗΜΑΤΑ ΜΕ ΤΗ ΣΤΥΣΗ ΚΑΙ ΠΡΟΩΡΗ ΕΚΣΠΕΡΜΑΤΙΣΗ&#13;
+ΚΑΤΑ ΤΗΝ ΠΑΝΣΕΛΗΝΟ ΑΝΑΦΕΡΕΙ ΑΫΠΝΙΑ ΚΑΙ ΕΝΤΟΝΗ ΑΝΗΣΥΧΙΑ&#13;
+ΜΟΥΔΙΑΣΜΑΤΑ ΤΟ ΒΡΑΔΥ ΣΤΑ 3(3, 4, 5) ΔΑΧΤΥΛΑ ΤΟΥ ΧΕΡΙΟΥ&#13;
+ΡΙΝΙΤΙΔΑ&#13;
+ΟΙΔΗΜΑ ΣΤΑ ΠΟΔΙΑ ΚΑΙ ΚΥΡΙΩΣ ΣΤΟ ΔΕΞΙ ΠΟΥ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΑΠΟ ΤΗΝ ΟΡΘΟΣΤΑΣΙΑ&#13;
+ΑΥΞΗΜΕΝΗ ΔΙΑΣΤΟΛΙΚΗ ΠΙΕΣΗ 10-11. ΤΟΝ ΜΕΤΡΗΣΑΝ ΜΕ HOLTER ΚΑΙ ΕΔΕΙΞΕ ΚΑΝΟΝΙΚΟ</personal_medical_history>
+        <family_medical_history>ΕΝΑΝ ΠΑΠΠΟΥ ΘΥΜΑΤΑΙ ΠΟΥ ΕΠΑΣΧΕ ΑΠΟ ΑΣΘΜΑ ΚΑΙ ΠΡΟΒΛΗΜΑΤΑ ΜΕ ΤΗΝ ΚΑΡΔΙΑ</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>ΕΙΝΑΙ ΣΕ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ.&#13;
+ΤΟ ΦΑΡΜΑΚΟ ΕΙΝΑΙ ΣΧΕΤΙΚΑ ΚΑΘΑΡΟ.&#13;
+ΚΑΝΕΙ ΕΜΠΥΡΕΤΑ ΚΑΘΕ 3 ΧΡΟΝΙΑ.&#13;
+ΕΧΕΙ ΟΜΩΣ ΚΑΤΑΧΡΗΣΕΙΣ.&#13;
+ΕΧΕΙ ΤΗ ΧΡΟΝΙΟΤΗΤΑ ΤΗΣ ΝΟΣΟΥ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>.</peculiar>
+        <intense>ΑΓΧΩΔΗΣ(ΥΠΟΧΟΝΔΡΙΟΣ)(3)&#13;
+ΕΠΙΘΥΜΕΙ ΑΛΚΟΟΛ(3), ΚΡΕΑΣ(3) ΚΑΙ ΑΛΑΤΙ(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5199/KOSTAS KAL1..jpg</file_url>
+      </repertorization>
+      <remedies_differentiation>PHOSPHORUS</remedies_differentiation>
+      <prescription>
+        <remedy>PHOSPHORUS</remedy>
+        <potency>200CH</potency>
+        <regimen>1 ΚΑΨΟΥΛΑ ΕΦΑΠΑΞ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-01-15 15:00:00</followup_date>
+      <conv_med_presc>ΣΕ ΠΕΡΙΟΔΟΥΣ ΣΤΟΜΑΧΙΚΩΝ ΔΙΑΤΑΡΑΧΩΝ ΠΑΙΡΝΕΙ ZANTAC</conv_med_presc>
+      <lab_tests>
+        <desc>ΟΧΙ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ο ΑΣΘΕΝΗΣ ΧΩΡΙΣ ΝΑ ΑΝΑΦΕΡΕΙ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΠΑΡΟΥΣΙΑΣΕ ΣΤΑΔΙΑΚΗ ΒΕΛΤΙΩΣΗ.&#13;
+Ο ΒΗΧΑΣ ΜΕΙΩΘΗΚΕ ΕΩΣ ΚΑΙ ΕΞΑΛΕΙΦΘΗΚΕ</reaction>
+      <analysis>ΤΟ ΟΤΙ ΔΕΝ ΕΚΑΝΕ ΤΟΝ ΠΡΟΒΛΕΠΟΜΕΝΟ ΕΠΑΝΕΛΕΓΧΟ ΔΕΙΧΝΕΙ ΥΠΟΧΩΡΗΣΗ ΤΟΥ ΥΠΟΧΟΝΔΡΙΑΚΟΥ ΣΤΟΙΧΕΙΟΥ(ΟΣΟΝ ΑΦΟΡΑ ΣΤΗΝ ΥΓΕΙΑ ΤΟΥ).&#13;
+ΑΝΑΦΕΡΕΙ ΜΕΙΩΣΗ ΣΤΟ ΦΟΒΟ ΓΙΑ ΤΟ ΣΚΟΤΑΔΙ.&#13;
+ΕΙΝΑΙ ΓΕΝΙΚΑ ΠΙΟ ΗΡΕΜΟΣ ΚΑΙ ΠΙΟ ΑΙΣΙΟΔΟΞΟΣ.&#13;
+ΥΠΑΡΧΕΙ ΣΑΦΗΣ ΒΕΛΤΙΩΣΗ ΣΤΟ ΣΩΜΑΤΙΚΟ ΕΠΙΠΕΔΟ.</analysis>
+      <conclusion>ΤΟ ΦΑΡΜΑΚΟ ΗΤΑΝ ΣΩΣΤΟ.&#13;
+ΔΕΝ ΔΙΝΟΥΜΕ ΑΛΛΟ ΦΑΡΜΑΚΟ.&#13;
+ΠΕΡΙΜΕΝΟΥΜΕ ΚΑΙ ΠΑΡΑΚΟΛΟΥΘΟΥΜΕ ΤΟΝ ΑΣΘΕΝΗ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>.</remedy>
+        <potency>.</potency>
+        <regimen>.</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

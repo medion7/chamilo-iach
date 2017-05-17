@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELf05a3c68316fd92b638ff010c09b5b5d</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>Π Β</patient_initials>
+    <age>50</age>
+    <circumstances>Παντρεμένη, με 2 παιδιά&#13;
+Ιδιωτική υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Το κύριο πρόβλημα είναι ο πόνος. "Πονάω παντού". Οι πόνοι εμφανίστηκαν πριν από 17 χρόνια. &#13;
+Πόνος κυρίως στον καρπό και στα άκρα. Υπάρχει ήπια διόγκωση και φλεγμονή.&#13;
+Ξεκινάει από την οσφύ και φτάνει στην ωμοπλάτη και μετά επεκτείνεται στα χέρια.&#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>&gt; υγρασία, &gt;βροχή, &gt;άσκηση&#13;
+&lt;καλοκαίρι, ζεστός καιρός, &lt;ζεστά επιθέματα, &lt;όταν τρίβει την περιοχή που πονάει&#13;
+Πολύ χειρότερα σε ακινησία, βελτιώνεται με ήπια κίνηση, αλλά επιδεινώνεται από την κόπωση&#13;
+Καλύτερα όταν πλέκει, χαλαρώνει</modalities>
+        <occurrence_time>&gt; πρωί</occurrence_time>
+        <body_side>Πονάει ΔΕ &gt; ΑΡ</body_side>
+        <appearence_frequency>Οι πόνοι είναι σχεδόν καθημερινοί</appearence_frequency>
+        <pain_desc>"Πονάει παντού"&#13;
+Ο πόνος εντοπίζεται κυρίως στον καρπό και τα άκρα. Υπάρχει ήπια διόγκωση και φλεγμονή.&#13;
+Ξεκινάει από την οσφύ και φτάνει στην ωμοπλάτη και μετά επεκτείνεται στα χέρια.&#13;
+Τα γόνατα κάνουν πολύ συχνά "κρακ"&#13;
+Τη νύχτα δε βολεύεται και είναι ανήσυχη, ψάχνει να βρει τη σωστή θέση&#13;
+Πολύ χειρότερα σε ακινησία, βελτιώνεται με ήπια κίνηση, αλλά επιδεινώνεται από την κόπωση</pain_desc>
+        <complaint_ext>Οι αστράγαλοι πρήζονται από την έξω πλευρά&#13;
+</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Γαστρίτιδα, νευροπαθητικοί πόνοι, σιδηροπενική αναιμία&#13;
+Cymbalta&#13;
+Nexium&#13;
+Tardyferon</conv_med_presc>
+        <lab_tests>
+          <desc>Φυσιολογικός εργαστηριακός έλεγχος πλην σιδηροπενίας</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Σε ηλικία 20 ετών πήρε αντικαταθλιπτικά για 1,5 χρόνο (Lexotanil, Tranxene, Librax), τα οποία διέκοψε μόνη της (πέθανε ο αρραβωνιαστικός της από Ca όρχεων και ένιωθε ότι παρέλυσε το σώμα της).&#13;
+Σε ηλικία 23 -25 ετών έλαβε πολλές φορές αντιβιοτικά λόγω αμυγδαλίτιδας. Υποβλήθηκε σε αμυγδαλεκτομή σε ηλικία 2 ετών.&#13;
+Εμβολιάστηκε όπως όλα τα παιδιά της ηλικίας της.</therapies_vaccination>
+          <traumas>Απώλεια του αρραβωνιαστικού της όταν ήταν 20 χρονών (πέθανε από καρκίνο στους όρχεις)&#13;
+</traumas>
+          <infections>Σπάνια κάνει πυρετό</infections>
+          <other>Πολύ έντονος συσφιγκτικός πονοκέφαλος, εκρηκτικός, &gt; φώτα, &gt; 2 - 3 ημέρες προ της Ε.Ρ., &lt; με τη ροή της περιόδου&#13;
+Έχει ρεψίματα&#13;
+Τα νύχια είναι μαλακά ξεφλουδίζονται και σπάνε</other>
+        </personal>
+        <family>
+          <diseases>όχι κάτι ιδιαίτερο</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Της αρέσει η ζέστη, Lack of vital heat&#13;
+Κοιμάται με κάλτσες, ενίοτε τις βγάζει, και ενίοτε βγάζει και τα πόδια από τα σκεπάσματα&#13;
+&gt; στην υγρασία (3)&#13;
+&lt; στον ήλιο&#13;
+ΙΔΡΩΝΕΙ, κυρίως σε αυχένα και ινιακά, αλλά και (λιγότερο) σε θώρακα και πλάτη&#13;
+Παθαίνει κράμπες στα πόδια το καλοκαίρι</reactions>
+        <sleeping_habits>Κοιμάται κυρίως στη ΔΕΞΙΑ πλευρά, δευτερευόντως αριστερά&#13;
+Ο ύπνος δεν είναι καλός, σκέφτεται τις δουλειές που έχει για την επόμενη ημέρα, τα έξοδα&#13;
+Βλέπει όνειρα διορατικά (ιδίως τα άσχημα)&#13;
+Σφίγγει τα δόντια της στον ύπνο&#13;
+Εχει σιελόρροια (αλλά και στη διάρκεια της ημέρας)&#13;
+Γενικά είναι πρωινός τύπος, μετά το μεσημέρι "είμαι λιώμα"</sleeping_habits>
+        <food_modalities>Desires: ΓΛΥΚΑ (κυρίως σοκολάτα), φρούτα (γλυκά), τυρί, γάλα, αβγό ((σφιχτό), λίπος&#13;
+Aversions: καυτερά, πικρά χόρτα, πικρά γενικά&#13;
+Εχει έντονη επιθυμία για γλυκό στην περίοδο&#13;
+Με τις γαρίδες έχει πρόβλημα, έχει φουσκώματα και μυρίζει ο ιδρώτας της&#13;
+Δεν πίνει πολύ νερό&#13;
+Θέλει το φαγητό ζεστό</food_modalities>
+        <menstruation>Δεν σταματάει (συνήθως είχε 7-8 ημέρες)&#13;
+Συνεχόμενη ροή από καφεοειδή υγρά&#13;
+Δυσμηνόρροια, &gt;κρύο, &lt;ζέστη, &lt;ζεστά ποτά, &lt;ζεστό μπάνιο&#13;
+Είχε μεγάλα (τρία) ΙΝΟΜΥΩΜΑΤΑ στη μήτρα</menstruation>
+      </physical>
+      <mental_emotional>ΦΟΒΙΕΣ&#13;
+- Υψος (2) (δεν μπορεί να πλησιάσει στο ύψος, νιώθει καλύτερα αν έχει κάγκελα)&#13;
+- Ζάλη σε ύψος (2) (και για άλλα άτομα, όταν τα βλέπει κοντά στο κενό)&#13;
+- Φόβος για την υγεία των άλλων (πολύ λιγότερο για την ίδια)&#13;
+- Φόβος καρκίνου&#13;
+- Φόβος για ποντίκια, σφήκες, σκυλιά&#13;
+&#13;
+Ξεχνάει εύκολα, φοβάται ότι οι άλλοι θα καταλάβουν την ανεπάρκειά της</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>Στένωση μεσοσπονδύλιου δίσκου&#13;
+Σε ηλικία 16 ετών διαγνώστηκε έλκος 12δακτύλου, πήρε φαρμακευτική αγωγή (aludrox, Tagamet), τώρα έχει "νεύρωση" στομάχου&#13;
+Αμυγδαλεκτομή σε ηλικία 25 ετών (μετά απο επανηλειμένες αμυγδαλίτιδες)&#13;
+Χειρουργηθέν ινομύωμα μήτρας σε ηλικία 38 ετών&#13;
+Θεραπεία εκρίζωσης για ελικοβακτηρίδιο πυλωρού σε ηλικία 39 ετών. Λαπαροσκοπική χολοκυστεκτομή λίγο αργότερα.&#13;
+Τμηματεκτομή αριστερού μαστού λόγω καρκίνου σε ηλικία 41 ετών&#13;
+</personal_medical_history>
+        <family_medical_history>Οχι κάτι ιδιαίτερο</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>&gt; Υγρασία (3), &gt; Βροχή (3)&#13;
+ΙΔΡΩΝΕΙ (3) κυρίως σε αυχένα (2)&#13;
+Νύχια μαλακά (2), ξεφλουδίζονται(2) και σπάνε (2)&#13;
+Σφίγγει τα δόντια της στον ύπνο (1)&#13;
+</peculiar>
+        <intense>Πόνος (3) σε καρπό και άκρα&#13;
+Βελτίωση με υγρασία (3), βροχή (3), άσκηση (2)&#13;
+Επιθυμία για Γλυκά (3), φρούτα (3), τυρί (3), γάλα (2), αβγό (1)&#13;
+Μεγάλα ινομυώματα (2)&#13;
+Διορατικά όνειρα (2)&#13;
+Φόβος ύψους (2), ζάλη σε ύψος (2)&#13;
+Φόβος για την υγεία των άλλων (2), φόβος καρκίνου (1), φόβος για ποντίκια (1)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Calcarea Carbonica&#13;
+Rhus Tox</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea Carbonica</remedy>
+        <potency>30 CH και 200CH</potency>
+        <regimen>1 χάπι Calcarea Carbonica 30CH το βράδυ και ένα 200CH το επόμενο πρωί</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>πήρε το φάρμακο όπως συνταγογραφήθηκε</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πολύ έντονη αρχική επιδείνωση (πονούσε παντού,δυσκαμψία, κλπ.). Εμφάνισε φοβίες (σε κλέφτες), αϋπνία, βλέπει διάφορα όνειρα.&#13;
+Είναι καλύτερα το πρωί - Χαρακτηριστικά λέει "πονάω και είμαι χαρούμενη"&#13;
+Εμφάνισε συμπτώματα που προϋπήρχαν (φαγούρα και ψευδαισθήσεις)&#13;
+Έχει πολλή ενέργεια παρόλο που πονάει</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

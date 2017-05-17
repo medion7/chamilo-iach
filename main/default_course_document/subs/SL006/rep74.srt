@@ -1,0 +1,1157 @@
+﻿1
+00:00:25,730 --> 00:00:36,040
+Danes, preden preidemo na kontrole, bi rad predlagal nekaj stvari,
+
+2
+00:00:36,140 --> 00:00:44,070
+ki bi jih lahko naredili in ki so zelo pomembne v vaših primerih.
+
+3
+00:00:48,460 --> 00:00:52,860
+V materiji mediki in v repertoriju je veliko informacij,
+
+4
+00:00:54,450 --> 00:01:01,100
+ki ne držijo in ki niso bile zares potrjene.
+
+5
+00:01:01,200 --> 00:01:06,360
+Tako imamo cel kup informacij v repertorijih
+
+6
+00:01:06,460 --> 00:01:15,700
+in v materiji mediki, ki so neuporabne, če pa jih poskusimo uporabiti, ne delujejo.
+
+7
+00:01:17,950 --> 00:01:28,670
+V Herringovi materiji mediki sem na primer našel veliko simptomov,
+
+8
+00:01:28,770 --> 00:01:39,230
+posebno, ko imate nenavadne simptome, ki jih dejansko srečate v primerih,
+
+9
+00:01:39,330 --> 00:01:41,980
+ki jih zdravite.
+
+10
+00:01:42,080 --> 00:01:47,220
+Najdete točen simptom, pobrskate po Heringovem ali Knerrovem repertoriju,
+
+11
+00:01:53,330 --> 00:01:59,090
+najdete točno ta simptom in predpišete zdravilo, a to skoraj nikoli ne deluje.
+
+12
+00:02:03,500 --> 00:02:12,710
+Kar pomeni, da je za simptom, za katerega imamo eno zdravilo,
+
+13
+00:02:12,810 --> 00:02:21,460
+tu mogoče 2,3 ali 5 ali 20 zdravil ali pa simptom,
+
+14
+00:02:21,560 --> 00:02:28,960
+tako kot je predstavljen za to zdravilo, ni pravilen, ne velja oz. ni potrjen.
+
+15
+00:02:29,060 --> 00:02:43,830
+Tako se mi je porodila ideja, da bi ta material, ki ga uporabljamo, repertorij
+
+16
+00:02:43,930 --> 00:02:49,620
+in materijo mediko morali pregledati čisto od začetka.
+
+17
+00:02:50,970 --> 00:02:59,880
+Kako bi jo morali pregledati? In kaj lahko naredimo glede tega?
+
+18
+00:03:03,390 --> 00:03:12,960
+To je seveda delo ekipe zdravnikov ali raziskovalcev.
+
+19
+00:03:15,060 --> 00:03:23,060
+Pojdimo na primere, ki smo jih tukaj zdravili.
+
+20
+00:03:25,810 --> 00:03:34,950
+V teh primerih imamo veliko, kot ste verjetno že opazili, veliko simptomov,
+
+21
+00:03:35,050 --> 00:03:42,300
+ki so izginili in ki ne pripadajo zdravilu.
+
+22
+00:03:42,810 --> 00:03:48,200
+Spomnil sem se na primer včerajšnjega primera.
+
+23
+00:03:48,300 --> 00:04:11,040
+Omenil je, da je odpor do paradižnikov izginil po Tuberculinumu. Omenil je tudi...
+
+24
+00:04:19,460 --> 00:04:25,700
+-Škrtanje?
+-Ne, škrtanje z zobmi je pri Tuberculinumu.
+
+25
+00:04:37,450 --> 00:04:45,010
+Če bi imeli možnost ostati tukaj in začeti z raziskovanjem,
+
+26
+00:04:45,110 --> 00:04:52,260
+bi lahko vsak med vami pregledal številne primere, recimo, da bi vsak vzel 10 primerov
+
+27
+00:04:52,360 --> 00:04:58,020
+in jih pregledal ter preveril vsak simptom, za katerega pacient trdi, da je izginil,
+
+28
+00:04:58,120 --> 00:05:04,370
+ali je v repertoriju ali ga ni.
+
+29
+00:05:07,320 --> 00:05:20,030
+Osnovna zamisel je naslednja: repertorij, nato nov simptom, nato potrjen simptom.
+
+30
+00:05:21,780 --> 00:05:29,190
+Vrnete se v vaš primer in preverite simptome, ki so izginili,
+
+31
+00:05:29,290 --> 00:05:33,690
+ali spadajo v repertorij.
+
+32
+00:05:33,790 --> 00:05:40,530
+Če spadajo, je v redu in jih ne vzamete v obzir.
+
+33
+00:05:40,630 --> 00:05:46,450
+Vidite pa tudi nek drug simptom, ki ne spada v repertorij.
+
+34
+00:05:46,550 --> 00:05:54,530
+Zapišete ga v ta stolpec. Zapišete simptom in zapišete zdravilo.
+
+35
+00:05:56,040 --> 00:06:02,600
+Takšen simptom bo potem postal veljaven,
+
+36
+00:06:02,700 --> 00:06:10,950
+ko ga bo nekdo drug v nekem drugem primeru potrdil.
+
+37
+00:06:12,960 --> 00:06:22,680
+Predvsem imamo simptome, ki so v repertoriju in ki so potrjeni.
+
+38
+00:06:22,780 --> 00:06:31,460
+S primerom potrdim, da ima Ignatia odpor do sadja.
+
+39
+00:06:33,690 --> 00:06:45,180
+Potrjeno je, da ima Calcarea carbonica odpor do jajc ... tako gre to.
+
+40
+00:06:45,280 --> 00:06:51,440
+Če pa odpor do jajc ni zabeležen, ga zabeležite tukaj kot nov simptom.
+
+41
+00:06:51,540 --> 00:06:55,940
+Odpor do jajc za Calcareo carbonico. Potem pa pride nekdo in pravi:
+
+42
+00:06:56,040 --> 00:07:00,610
+ja, tudi jaz sem imel primer, ki mu je Calcarea carbonica pomagala.
+
+43
+00:07:00,710 --> 00:07:20,980
+To je bil pravzaprav primer, kjer je želja po jajcih izginila s Pituitary (hipofiza).
+
+44
+00:07:21,080 --> 00:07:26,570
+Želja po jajcih (?), ki ni zabeležena.
+
+45
+00:07:28,060 --> 00:07:37,560
+Bil je še en primer, kjer se je po Silicei pojavila želja po jajcih. Čigav je ta primer?
+
+46
+00:07:45,990 --> 00:07:49,490
+Po Pulsatilli je izginila in po Silicei se je vrnila.
+
+47
+00:07:54,150 --> 00:08:02,060
+Kot lahko razumete, so simptomi, ki so izredno pomembni,
+
+48
+00:08:02,160 --> 00:08:05,550
+simptomi želja in odporov.
+
+49
+00:08:05,650 --> 00:08:12,880
+Po eni strani so pomembni, po drugi strani pa so nevarni za uporabo.
+
+50
+00:08:14,480 --> 00:08:20,120
+Zakaj? Ker radi nekaj jemo kar tako, iz navade. Jeste preveč sladkarij
+
+51
+00:08:20,220 --> 00:08:28,880
+ker je takšna navada glede uživanja sladkarij, vendar to ne velja. V trenutku pa, ko
+
+52
+00:08:28,980 --> 00:08:37,390
+želja po sladkem izgine, lahko rečete, da je željo po sladkem ozdravilo to zdravilo.
+
+53
+00:08:38,850 --> 00:08:45,470
+Ne simptomi, kot so bili dani na začetku. Ne govorim o teh simptomih.
+
+54
+00:08:45,570 --> 00:08:51,070
+Govorim o simptomih, ki izginejo po zdravilu.
+
+55
+00:08:51,170 --> 00:09:01,800
+Če imamo torej te kolone najprej v repertoriju, na koncu to potrdimo in nato
+
+56
+00:09:01,900 --> 00:09:08,620
+potrdimo pri novih simptomih, če je to potrjeno enkrat ali dvakrat.
+
+57
+00:09:11,610 --> 00:09:22,460
+In sčasoma, če bi se vsi organizirali in shranjevali tovrstne zabeležke,
+
+58
+00:09:22,560 --> 00:09:30,300
+bi imeli sčasoma zanesljive informacije v materiji mediki in v repertoriju.
+
+59
+00:09:31,070 --> 00:09:36,050
+To je edini način, s katerim lahko to naredimo. Čisto od začetka.
+
+60
+00:09:36,550 --> 00:09:45,310
+Celo simptomi, ki so v repertoriju zapisani z debelimi črkami, morajo
+
+61
+00:09:45,410 --> 00:09:49,990
+biti potrjeni, preden jih lahko uporabimo.
+
+62
+00:09:57,140 --> 00:10:07,820
+Materijal je v tem trenutku v precej primitivnem stanju.
+
+63
+00:10:12,050 --> 00:10:21,890
+Na ta način ga lahko prečistimo. To sem predlagal na nekaterih debatnih skupinah, ki jih imamo tukaj.
+
+64
+00:10:22,860 --> 00:10:34,580
+Izbranih je nekaj komisij, mednarodne komisije ali pa je lahko nekaj Nemcev,
+
+65
+00:10:34,680 --> 00:10:43,240
+kajti Nemci so bolj natančni in delovni,
+
+66
+00:10:45,100 --> 00:10:56,570
+da bo ta informacija prišla do komisije in komisija bo odločila, 
+
+67
+00:10:56,670 --> 00:11:04,680
+ali bo to informacijo objavila v eni od publikacij.
+
+68
+00:11:06,920 --> 00:11:17,250
+Na tak način lahko pride informacija v različne repertorije, ljudje
+
+69
+00:11:17,350 --> 00:11:23,820
+bodo dobili informacijo in lahko označite z rdečim vsak simptom,
+
+70
+00:11:23,920 --> 00:11:30,830
+ki ga komisija zdaj pošlje. Nov in potrjen.
+
+71
+00:11:30,930 --> 00:11:36,170
+Nov simptom, potrjen, simptom v repertoriju, potrjen.
+
+72
+00:11:37,170 --> 00:11:47,200
+Si lahko predstavljate, koliko materiala bi se lahko v 10 - 15 letih prečistilo?
+
+73
+00:11:49,180 --> 00:11:56,990
+Vprašanje je seveda, kateri ljudje lahko pošljejo informacijo
+
+74
+00:11:57,090 --> 00:12:02,250
+in jih lahko vzamemo resno.
+
+75
+00:12:05,560 --> 00:12:09,670
+-Vas!
+-Jaz ne bom ničesar naredil.
+
+76
+00:12:15,840 --> 00:12:21,000
+Vsi veste, koliko primerov sem videl, poznate datoteke
+
+77
+00:12:21,100 --> 00:12:31,250
+in vseh teh milijon simptomov, ki so bili zabeleženi.
+
+78
+00:12:31,350 --> 00:12:37,740
+A problem je, da se mi ta zamisel ni porodila čisto na začetku.
+
+79
+00:12:37,840 --> 00:12:41,910
+Tudi video primerov  nimamo čisto od začetka.
+
+80
+00:12:42,010 --> 00:12:48,560
+Ko imate veliko dela, kot sem ga imel jaz, in je nekdo prišel in mi povedal, da je veliko boljše,
+
+81
+00:12:48,660 --> 00:12:53,400
+mi ni bilo važno, koliko boljše, v kakšnem obsegu in kaj točno.
+
+82
+00:12:53,500 --> 00:13:00,740
+Mogoče sem si kdaj napisal, a je ta informacija zdaj izgubljena.
+
+83
+00:13:02,000 --> 00:13:07,990
+Sem veliko bolje, placebo, gremo ali pa ne priti več.
+
+84
+00:13:11,240 --> 00:13:25,820
+Na ta način bi komisija vedela, da je to prišlo od Johna D. On je dober, je zanesljiv.
+
+85
+00:13:25,920 --> 00:13:28,670
+To lahko vzamemo resno.
+
+86
+00:13:34,160 --> 00:13:46,070
+Kajti na žalost moramo biti zelo striktno kritični do tega, kar počnemo,
+
+87
+00:13:46,170 --> 00:13:56,060
+saj je za vsakogar zelo težko kasneje preverjati, ali je to res, ja ali ne. 
+
+88
+00:13:56,160 --> 00:14:01,090
+Da moramo dejansko zaupati integriteti posameznika.
+
+89
+00:14:01,840 --> 00:14:09,240
+Če on reče, da je ta simptom nov, je to res nov simptom ali pa imamo neke druge parametre,
+
+90
+00:14:09,340 --> 00:14:16,430
+ki potekajo v nekem primeru in oseba ne čuti več tega ali onega simptoma.
+
+91
+00:14:16,530 --> 00:14:25,750
+Ali je simptom izginil zaradi zdravila ali zaradi katerih drugih faktorjev?
+
+92
+00:14:26,740 --> 00:14:33,290
+Zaljubil se je. Sanja o valovih...
+
+93
+00:14:35,470 --> 00:14:45,620
+Se spomnite včeraj? Sanje o valovih... Ah, Magnesia Sulphurica.
+
+94
+00:14:46,120 --> 00:14:52,030
+Ni govora. To ni zaradi zdravila ali ker bi zdravilo to odstranilo.
+
+95
+00:14:52,130 --> 00:15:05,620
+Sanje o valovih bodo izginile, ko se bo njen entuziazem malo umiril.
+
+96
+00:15:12,290 --> 00:15:23,270
+To delo se mi zdi zelo pomembno za prihodnost homeopatije.
+
+97
+00:15:24,880 --> 00:15:31,190
+Kajti, če imamo simptome v repertoriju potrjene
+
+98
+00:15:31,290 --> 00:15:39,610
+in če bi vsakdo razmišljal o tej zamisli, bi imeli v 5 letih,
+
+99
+00:15:39,710 --> 00:15:47,460
+10 letih potrjene repertorije in materijo mediko.
+
+100
+00:15:55,450 --> 00:16:08,020
+Kdo bi torej rad delal na tem projektu? Nekaj ljudi je, ki bi to želeli.
+
+101
+00:16:08,120 --> 00:16:20,530
+Mislim, da bi morali ustanoviti komisijo,
+
+102
+00:16:20,630 --> 00:16:30,200
+ki bo sprejemala informacije in najti moramo način, kako bo najlažje
+
+103
+00:16:30,300 --> 00:16:39,880
+zdravniku zabeležiti to informacijo.
+
+104
+00:16:41,120 --> 00:16:46,380
+Mogoče lahko tisti, ki hitro tipkate na računalnik, zapišete celoten simptom.
+
+105
+00:16:50,380 --> 00:16:57,290
+Ena od težav, ki se bo pojavila, bodo različni načini
+
+106
+00:16:57,390 --> 00:17:01,580
+izražanja istega simptoma.
+
+107
+00:17:01,680 --> 00:17:08,660
+Pacient lahko pove enak simptom, a na malenkost drugačen način,
+
+108
+00:17:08,760 --> 00:17:11,930
+kot je zapisan v repertoriju.
+
+109
+00:17:12,670 --> 00:17:22,250
+Ali moramo torej imeti točen izraz ali ga moramo vnesti 
+
+110
+00:17:22,350 --> 00:17:26,010
+tako, kot ga opisuje repertorij?
+
+111
+00:17:28,760 --> 00:17:38,650
+Takšne vrste praktičnih problemov. Kar je predlagano, mora komisija
+
+112
+00:17:38,750 --> 00:17:48,110
+zasedati in proučiti možne modifikacije tega programa.
+
+113
+00:17:50,110 --> 00:17:56,750
+Ko pa je enkrat ta program dogovorjen v podrobnosti,
+
+114
+00:17:56,850 --> 00:18:03,130
+objavimo to v homeopatskih publikacijah.
+
+115
+00:18:11,520 --> 00:18:24,420
+Ni mogoče pričakovati od 1 - 2 posameznikov, da bosta vse to naredila.
+
+116
+00:18:25,780 --> 00:18:31,420
+To ni mogoče. Včasih imam občutek, da čakate name, da vam bom vse povedal.
+
+117
+00:18:31,520 --> 00:18:37,430
+To ni mogoče. Imel sem 10 primerov Myristice, mogoče je bilo v njih kaj novih simptomov
+
+118
+00:18:37,530 --> 00:18:41,180
+Myristice, a sem jih izgubil.
+
+119
+00:18:41,280 --> 00:18:45,920
+Sem pa pripravljen, če bi eden ali dva, recimo trije posamezniki
+
+120
+00:18:46,020 --> 00:18:53,180
+bili pripravljeni delati na tem projektu, sem jim pripravljen dovoliti vpogled v vse video primere,
+
+121
+00:18:53,280 --> 00:19:00,760
+kako so se odvijali in kateri simptomi so se pozdravili. Potem bi lahko
+
+122
+00:19:00,860 --> 00:19:09,940
+potrdili ali si zapisali nove simptome. Vendar je potrebnega za to veliko časa.
+
+123
+00:19:12,690 --> 00:19:20,340
+Zato medicinske fakultete omogočijo študentom delati doktorat.
+
+124
+00:19:20,440 --> 00:19:26,790
+Rečejo vam, da delate doktorat in vam naložijo delo v zvezi z idejami
+
+125
+00:19:26,890 --> 00:19:34,180
+profesorja ali pa so morda študentje imeli kakšne ideje.
+
+126
+00:19:34,280 --> 00:19:42,270
+Študentje delajo z upanjem, da bodo dobili doktorat.
+
+127
+00:19:43,280 --> 00:19:47,270
+Tukaj pa lahko delate za mojstrsko stopnjo.
+
+128
+00:19:59,930 --> 00:20:08,030
+Po opravljeni diplomi. Ne morete preskočiti na mojstrsko stopnjo
+
+129
+00:20:08,130 --> 00:20:11,340
+brez diplome.
+
+130
+00:20:18,610 --> 00:20:22,460
+Ste dojeli pomen tega?
+
+131
+00:20:25,210 --> 00:20:35,780
+Se zavedate, da v starih repertorijih, v Atenah jih imam štiri,
+
+132
+00:20:35,880 --> 00:20:39,040
+v vsakem repertoriju so bile zapisane nekatere informacije.
+
+133
+00:20:39,140 --> 00:20:45,280
+Te informacije so prihajale iz različnih virov plus moje izkušnje.
+
+134
+00:20:45,380 --> 00:20:51,930
+In rezultat, vzeli so to informacijo, ki je prišla iz (?) Boerickeja
+
+135
+00:20:52,030 --> 00:20:55,350
+ali od kjerkoli sem jo že našel in se mi je zdela zanimiva
+
+136
+00:20:55,450 --> 00:20:57,860
+in sem jo zapisal v repertorij.
+
+137
+00:20:57,960 --> 00:21:04,360
+Nato so prišli ljudje in poznate izdaje, ki so vsa leta krožile.
+
+138
+00:21:04,460 --> 00:21:09,350
+Vithoulkasove izdaje, ki niso bile moje izdaje.
+
+139
+00:21:09,450 --> 00:21:13,700
+Bile so izdaje iz različnih virov.
+
+140
+00:21:15,200 --> 00:21:19,770
+Vsi repertoriji imajo te izdaje, ki niso moje.
+
+141
+00:21:21,360 --> 00:21:28,600
+S katerimi se ne bi strinjal. Na podlagi poznavanja strukture zdravila
+
+142
+00:21:28,700 --> 00:21:39,850
+bi lahko rekel, da to ne ustreza preveč osebnosti zdravila.
+
+143
+00:21:43,310 --> 00:21:52,100
+Nekaj moramo vsi skupaj narediti, da popravimo material.
+
+144
+00:21:54,100 --> 00:21:56,360
+In potrebujemo prostovoljce.
+
+145
+00:21:57,600 --> 00:22:05,760
+Natanko to pravim, da moramo v določenem trenutku omejiti
+
+146
+00:22:05,860 --> 00:22:16,360
+dnevno prakso in se posvetiti raziskavam, za javno dobro.
+
+147
+00:22:18,090 --> 00:22:22,940
+Ne moremo nadaljevati na ta način.
+
+148
+00:22:26,440 --> 00:22:33,090
+-George, rekli ste, da se z različnimi Vithoulkasovimi izdajami ne strinjate.
+
+149
+00:22:33,190 --> 00:22:40,330
+Tudi Fredericka sem vprašal (?) tem problemu.
+
+150
+00:22:40,430 --> 00:22:48,330
+Tudi njega sem vprašal glede tega problema in odgovoril je, da lahko iz Synthesisa potegne
+
+151
+00:22:48,430 --> 00:22:52,830
+vse vaše dodatke, jih zapiše, vam jih pošlje
+
+152
+00:22:52,930 --> 00:22:58,330
+in vas prosi za potrditev teh dodatkov ali za zanikanje teh dodatkov.
+
+153
+00:22:58,430 --> 00:23:06,640
+A od vas nikoli ni dobil odgovora. Meni je rekel, da ni dobil odgovora.
+
+154
+00:23:06,740 --> 00:23:09,280
+-Resnična zgodba je nekoliko drugačna.
+
+155
+00:23:11,790 --> 00:23:18,280
+Rekel sem, da bom naredil dodatke v poglavju um (mind).
+
+156
+00:23:19,010 --> 00:23:26,840
+V poglavju um sem obdelal stopnje, dodal, odvzel ipd.
+
+157
+00:23:26,940 --> 00:23:35,230
+Vendar sem mu povedal, da bi moral za to, kar me je on prosil, delati več mesecev, preden
+
+158
+00:23:35,330 --> 00:23:44,200
+bi lahko rekel, da je to tako in tako. In še vedno ne bi bil gotov glede tega, kar pravim.
+
+159
+00:23:44,300 --> 00:23:49,900
+Kajti vse temelji na spominu ali na razumevanju zdravil,
+
+160
+00:23:50,000 --> 00:23:57,670
+kar pa ni dovolj dobro. Ni tako znanstveno, kot bi lahko bilo.
+
+161
+00:23:57,770 --> 00:24:09,730
+Si lahko predstavljate, da ste potrdili simptom Belladonne o pojavljanju na desni strani?
+
+162
+00:24:09,830 --> 00:24:14,230
+Potrjen, potrjen, potrjen....
+
+163
+00:24:14,330 --> 00:24:24,910
+V tem stolpcu tukaj boste končno dobili takšen simptom Belladonne, 150-krat potrjen.
+
+164
+00:24:25,010 --> 00:24:33,900
+Ali veste, kako uporaben je ta simptom, ko ga slišite in zelo boste presenečeni 
+
+165
+00:24:34,000 --> 00:24:42,650
+glede tega, kajti simptomov, ki so tukaj, mogoče so zapisani celo v debelih črkah
+
+166
+00:24:42,750 --> 00:24:45,160
+ne boste nikoli potrdili.
+
+167
+00:24:47,900 --> 00:24:54,980
+Po drugi strani pa imate lahko nov simptom Belladonne, ki je lahko potrjen 10-krat.
+
+168
+00:24:55,080 --> 00:24:58,880
+To je čudovito, lahko se zanesete na ta simptom.
+
+169
+00:24:58,980 --> 00:25:04,100
+Potem lahko naredimo Expert System z zanesljivimi simptomi.
+
+170
+00:25:04,200 --> 00:25:12,160
+Dobili bomo orodje, ki bo zelo točno.
+
+171
+00:25:13,660 --> 00:25:22,580
+Točnost predpisovanja je pravzaprav odvisna od te informacije.
+
+172
+00:25:25,410 --> 00:25:30,890
+Sem vam kdaj povedal za predpis, brez da bi ga upravičil?
+
+173
+00:25:30,990 --> 00:25:39,140
+Povem to in ono. Ko povem to in ono običajno vzamem simptome, za katere
+
+174
+00:25:39,240 --> 00:25:50,400
+vem, da so potrjeni. Zato raje vzamem te simptome, potrjene simptome.
+
+175
+00:25:50,500 --> 00:25:55,490
+Od tu pridejo razlike.
+
+176
+00:25:58,490 --> 00:26:05,140
+Posebno v starejših časih, ko sem govoril na seminarju, bi lahko nekdo rekel:
+
+177
+00:26:05,240 --> 00:26:24,390
+ampak to zdravilo nima zbadajoče bolečine v kazalcu na nogi, kot jo ima ta pacient.
+
+178
+00:26:27,240 --> 00:26:33,660
+Kjer smo imeli sliko Calcaree Carbonice, vi pa niste našli Calcaree Carbonice
+
+179
+00:26:33,760 --> 00:26:38,740
+v tem simptomu. Saj ni pomembna, boste rekli.
+
+180
+00:26:39,740 --> 00:26:48,390
+Ena možnost je, da ni pomembna. Zakaj? Kajti ta zbadajoča bolečina še ni bila zabeležena
+
+181
+00:26:48,490 --> 00:26:56,190
+pri Calcarei Carbonici. Od tega primera dalje pa bo zabeležena.
+
+182
+00:26:56,910 --> 00:27:06,230
+Do danes sem moral reči, da ni pomembna. Zakaj? Ker še ni bila zabeležena.
+
+183
+00:27:06,330 --> 00:27:13,560
+Zdaj pa, ko damo Calcareo Carbonico in bolečina izgine, jo zabeležimo.
+
+184
+00:27:14,070 --> 00:27:17,970
+Ko je enkrat zabeležena, jo lahko potrdimo.
+
+185
+00:27:18,070 --> 00:27:25,480
+Ko je enkrat potrjena, posebno če je to pri drugem posamezniku in ne pri istem,
+
+186
+00:27:25,580 --> 00:27:31,550
+postane to dragocen simptom, ki gre lahko v repertorij
+
+187
+00:27:31,650 --> 00:27:35,570
+in ga nato potrdimo še tretjič in četrtič.
+
+188
+00:27:37,070 --> 00:27:45,220
+Zdaj imamo računalnike, imamo dostop do bolj točnih orodij.
+
+189
+00:27:45,320 --> 00:27:57,240
+Lahko veliko prečistimo. Imamo celo bogastvo informacij v primerih, ki ste jih videli.
+
+190
+00:27:57,770 --> 00:28:01,400
+Recimo, da ste videli 50 primerov. V teh 50 primerih.
+
+191
+00:28:01,500 --> 00:28:06,970
+Da ne govorim o stotinah primerov, ki jih imam na videu.
+
+192
+00:28:07,070 --> 00:28:17,190
+Isto je z Alfom (?), ki dela na videih.
+
+193
+00:28:19,150 --> 00:28:27,900
+Govoril sem z Alfom in upam, da so razumeli pomen tega načrta.
+
+194
+00:28:31,650 --> 00:28:40,150
+-Ni mi čisto jasno, kako razlikujete med zatiranjem
+
+195
+00:28:40,250 --> 00:28:46,890
+in zdravljenjem simptoma? Kaj pomeni "je izginil"? Veste, kaj mislim?
+
+196
+00:28:46,990 --> 00:28:52,210
+-To je dobra ideja, o kateri mora komisija razpravljati.
+
+197
+00:28:54,720 --> 00:28:58,620
+O tem smo razpravljali, bilo je več ljudi, sprejeli smo odločitve,
+
+198
+00:28:58,720 --> 00:29:02,400
+kdo bo to naredil ipd.
+
+199
+00:29:03,130 --> 00:29:12,030
+On dela s tem repertorijem in ima nekaj idej, ki smo jih skušali vnesti v ta načrt,
+
+200
+00:29:12,130 --> 00:29:16,540
+a nastane problem.
+
+201
+00:29:16,640 --> 00:29:28,090
+Pravi, da je nekaj dokončal, da lahko naredi tudi repertorij, a da za to potrebuje 5 milijonov mark.
+
+202
+00:29:29,090 --> 00:29:36,120
+Ko začnete s takšnimi pogoji, ne vodi to nikamor.
+
+203
+00:29:37,470 --> 00:29:50,390
+Kje naj najdemo 5 milijonov? 500 ja, 5000 ja, ampak 5 milijonov za čiščenje repertorija?
+
+204
+00:29:51,130 --> 00:29:57,290
+Ne verjamem, da lahko kakšen posameznik, tudi če ima ekipo, to naredi.
+
+205
+00:29:57,390 --> 00:30:02,890
+Kajti ne dobite primera Myristice vsak dan.
+
+206
+00:30:02,990 --> 00:30:07,630
+Lahko dobite enega v Ameriki, enega v Indiji in enega na Finskem.
+
+207
+00:30:11,960 --> 00:30:19,730
+(?) zdravnik, da bi odkril, kaj je nov simptom Myristice.
+
+208
+00:30:25,240 --> 00:30:31,110
+-George, v soboto smo govorili s Frederickom o Synthesisu.
+
+209
+00:30:31,210 --> 00:30:36,870
+Če sem prav razumel, je vedno več informacij.
+
+210
+00:30:36,970 --> 00:30:41,540
+Razpravljali smo o kvantiteti in kvaliteti.
+
+211
+00:30:41,640 --> 00:30:46,530
+Rekel je: kritizirali so me, da kvantiteta
+
+212
+00:30:46,630 --> 00:30:50,780
+ali kvaliteta nista takšna, kot naj bi bila.
+
+213
+00:30:50,880 --> 00:31:02,540
+Mislim, da je to zdaj vaša naloga, da simptom potrdite vsakič, ko pridete do njega.
+
+214
+00:31:02,640 --> 00:31:08,370
+Kolikor sem razumel, odkar ste nas začeli poučevati, se vedno obračate na,
+
+215
+00:31:08,470 --> 00:31:14,070
+rekli ste, naj vam pokažemo, ali je simptom prisoten v originalnem Kentu.
+
+216
+00:31:14,170 --> 00:31:19,780
+In izgleda, da ne verjamete ničemur, razen originalnemu Kentu.
+
+217
+00:31:19,880 --> 00:31:28,560
+Kakšna je torej korist od nečesa takšnega, kot je Synthesis, kjer je ogromno informacij, potem pa...
+
+218
+00:31:29,050 --> 00:31:36,460
+-Je korist. Je korist, a ne vemo, v čem je korist?
+
+219
+00:31:37,220 --> 00:31:48,800
+Ko na primer kritiziram nekakšne "preizkuse", ki se jih danes dela,
+
+220
+00:31:48,900 --> 00:31:59,470
+sanje in majhne skupine, kjer jemljejo odmerke 12 ipd in ven pride 2000 simptomov.
+
+221
+00:31:59,570 --> 00:32:11,230
+Od teh 2000 simptomov je uporabnih 12, 10, 15 simptomov, ki so lahko pravilni.
+
+222
+00:32:11,330 --> 00:32:22,120
+A kateri od 2000 je to? To je moja kritika do takšnih načinov preizkušanja,
+
+223
+00:32:22,220 --> 00:32:27,130
+kjer cel razred jemlje eno zdravilo...
+
+224
+00:32:27,230 --> 00:32:32,630
+Če vam dam zdravilo v preizkus in vsak od vas pove simptome,
+
+225
+00:32:32,730 --> 00:32:38,700
+ali lahko vzamem vse te simptome in jih objavim? To je smešno.
+
+226
+00:32:38,800 --> 00:32:44,220
+Te informacije imamo zdaj noter. Scorpion, chocolate ipd. To je eno.
+
+227
+00:32:44,320 --> 00:32:50,960
+In potem sanje. (?) je delal na sanjah, sanje, vse sanje so šle tja.
+
+228
+00:32:51,060 --> 00:32:54,530
+Nekatere stvari morajo biti pravilne.
+
+229
+00:32:54,630 --> 00:33:01,620
+Kajti vzamete substanco in ker vsaka substanca lahko proizvede simptome,
+
+230
+00:33:01,720 --> 00:33:06,380
+jih lahko tudi zdravi. Ampak kateri so simptomi?
+
+231
+00:33:06,480 --> 00:33:13,130
+Repertoriji in še slabše, celoten repertorij vsebuje vse,
+
+232
+00:33:13,230 --> 00:33:17,870
+kar je bilo kjerkoli objavljeno, vso to kramo stlačijo v repertorij.
+
+233
+00:33:17,970 --> 00:33:27,300
+Povedal sem že, da je to napačna strategija za homeopatijo, da so repertoriji tako obsežni in
+
+234
+00:33:27,400 --> 00:33:33,550
+s celimi kupi navlake v njih. Vi pa ste izgubljeni.
+
+235
+00:33:35,150 --> 00:33:40,330
+Ko bom umrl, bo ta repertorij tako velik in vi boste izgubljeni.
+
+236
+00:33:40,430 --> 00:33:46,050
+Na koncu ne boste vedeli, katero zdravilo izbrati. Kajti pojavljala se vam bodo najrazličnejša zdravila. 
+
+237
+00:33:46,150 --> 00:33:51,970
+Pojavilo se vam bo 20 zdravil in vsa ta zdravila bodo imela vse te simptome.
+
+238
+00:34:00,470 --> 00:34:06,880
+Povejte nam, povejte nam, kaj je za povedati? Kaj naj vam rečem?
+
+239
+00:34:06,980 --> 00:34:13,060
+Odtlej bodo nekateri posamezniki morali spoznati problem
+
+240
+00:34:13,160 --> 00:34:18,790
+in se angažirati in reči: na voljo sem za takšno delo.
+
+241
+00:34:18,890 --> 00:34:28,460
+Na voljo sem, če se strinjamo, lahko nas je 5 ali 10, se zberemo tukaj
+
+242
+00:34:28,560 --> 00:34:37,120
+in podrobno razpravljamo o tem, kakšne vrste pravil naj bi ta komisija
+
+243
+00:34:37,220 --> 00:34:43,730
+uporabila za takšno prečiščevanje.
+
+244
+00:34:48,980 --> 00:34:54,630
+-George, mi (?) informacije. Lahko naredite svoj repertorij, je to narobe?
+
+245
+00:34:54,730 --> 00:35:00,380
+-Ja. Nekdo je predlagal, naj pustimo vse repertorije in si napišemo svojega.
+
+246
+00:35:00,480 --> 00:35:05,380
+Napisal bom, kar veste, da je pravilno. To ni rešitev.
+
+247
+00:35:05,480 --> 00:35:10,970
+Ker ne morem vedeti...
+
+248
+00:35:19,210 --> 00:35:25,210
+-George, bojim se, da nas je ta ideja zanesla stran od osnovne ideje za klasične preizkuse.
+
+249
+00:35:25,310 --> 00:35:30,210
+Kajti, ko ste na (?) in vidite v vsakodnevni praksi nekatere simptome,
+
+250
+00:35:30,310 --> 00:35:36,710
+imate paciente, ne veste, ali so preobčutljivi na zdravilo
+
+251
+00:35:36,810 --> 00:35:41,710
+in pošljemo komisiji veliko simptomov, ki so samo zaradi tega pacienta.
+
+252
+00:35:41,810 --> 00:35:49,100
+In veliko teh informacij gre v repertorij, ki je popolnoma zanesljiv.
+
+253
+00:35:49,200 --> 00:35:56,620
+-Vendar bo komisija sprejela pravila in to bo pravilo 1.
+
+254
+00:35:56,720 --> 00:36:06,910
+Pošljete informacije, če se je pacient pozdravil, to pomeni, da se je počutil veliko bolje
+
+255
+00:36:07,010 --> 00:36:09,370
+in ti simptomi so izginili.
+
+256
+00:36:09,470 --> 00:36:22,120
+Potem imamo pravilo 2. Še vedno lahko pošljete simptom zdravila, a morali boste navesti,
+
+257
+00:36:22,220 --> 00:36:33,120
+da ta simptom ne izhaja iz zdravilne situacije, ampak bolj iz supresije.
+
+258
+00:36:33,220 --> 00:36:44,170
+To zdravilo je torej zatrlo ta določen simptom, kar vam daje pravico reči,
+
+259
+00:36:44,270 --> 00:36:49,620
+da obstaja afiniteta med simptomom in zdravilom,
+
+260
+00:36:49,720 --> 00:36:52,610
+ker lahko zdravilo zatre ta specifični simptom.
+
+261
+00:36:52,710 --> 00:36:57,450
+Zdravilo ne more zatreti simptoma, ki ga nima v sebi.
+
+262
+00:37:00,060 --> 00:37:09,790
+V tem primeru, na primer, bi si zapisal kot nov simptom željo po bananah.
+
+263
+00:37:09,890 --> 00:37:26,570
+In zraven tega bi dopisal odpor do paradižnika, Tuberculinum in bi počakal.
+
+264
+00:37:26,670 --> 00:37:29,350
+Počakal bi, da vidim nov primer.
+
+265
+00:37:29,450 --> 00:37:39,480
+To sem videl pri Ferrumu in Hyoscyamusu. Obe zdravili imata odpor do paradižnika.
+
+266
+00:37:39,580 --> 00:37:46,190
+To je majhna informacija, ki pa je potrjena in postane zato zelo pomembna.
+
+267
+00:37:46,290 --> 00:37:50,430
+Kajti oseba pravi, da sovraži paradižnike tako, da se jih ne more niti dotakniti.
+
+268
+00:37:53,730 --> 00:38:04,850
+Seveda imate tudi posameznike, ki v teh deželah jedo paradižnike,
+
+269
+00:38:04,950 --> 00:38:10,370
+kajti če imate državo, kjer paradižnikov ne poznajo in posameznik
+
+270
+00:38:10,470 --> 00:38:16,010
+ni še nikoli videl paradižnika in ga draži, bo mogoče rekel, da ga ne mara.
+
+271
+00:38:16,110 --> 00:38:21,270
+Na enak način boste na Kitajskem, ko vam bodo dali jesti kačo
+
+272
+00:38:21,370 --> 00:38:27,380
+rekli: ni govora. Odpor do kač.
+
+273
+00:38:28,890 --> 00:38:39,820
+Nekateri to napišejo kot simptom. Odpor do kač ali odpor do žab.
+
+274
+00:38:40,530 --> 00:38:43,430
+V Franciji na primer jedo žabe, to je zelo lepo.
+
+275
+00:38:43,530 --> 00:38:50,680
+Če pa mi prinesete žabo in mi poveste, da je to žaba, je ne bom pojedel, ni govora. Ne maram je.
+
+276
+00:38:50,780 --> 00:38:56,430
+Če mi boste dali konjsko meso, ga ne bom pojedel, ni govora.
+
+277
+00:38:56,530 --> 00:39:04,760
+Vendar nekateri ljudje jedo konje in nekateri jedo mačke. V Italiji jedo mačke.
+
+278
+00:39:06,440 --> 00:39:10,350
+-Na Tajskem.
+
+279
+00:39:10,450 --> 00:39:20,600
+-Na Tjaskem, kakorkoli. Komisija se bo morala odločiti glede teh vsebin.
+
+280
+00:39:25,450 --> 00:39:37,450
+Komisija naj bi tudi postavila pravila za izvajanje preizkusov. Kakšna so pravila za preizkuse?
+
+281
+00:39:39,280 --> 00:39:44,670
+Še vedno nimamo pravil in kdorkoli lahko enostavno zbere skupino ljudi
+
+282
+00:39:44,770 --> 00:39:47,450
+in jim da zdravilo in se gredo preizkus.
+
+283
+00:39:47,970 --> 00:40:08,440
+Imate preizkuse, kot na primer s sovino slino, date jim sovino slino
+
+284
+00:40:17,610 --> 00:40:33,620
+in simptomi izginejo. Če slišim kaj takega, je oseba izločena. Ne more pošiljati informacij sem.
+
+285
+00:40:35,110 --> 00:40:39,620
+Sova in karkoli.
+
+286
+00:40:43,770 --> 00:40:51,820
+Ni mi pa jasno, kdo bo sprejel ta izziv.
+
+287
+00:40:54,320 --> 00:41:04,180
+Če imate možnosti... če imate na primer na vašem oddelku tajnico,
+
+288
+00:41:04,280 --> 00:41:09,440
+ki nima veliko dela, lahko to delo prepustite njej
+
+289
+00:41:09,540 --> 00:41:11,200
+in bo ona zapisovala.

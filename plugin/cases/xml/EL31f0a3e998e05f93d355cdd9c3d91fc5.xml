@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL31f0a3e998e05f93d355cdd9c3d91fc5</ID>
+  <patient>
+    <case_date>2015-01-12 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α Π</patient_initials>
+    <age>14</age>
+    <circumstances>Μαθήτρια γυμανασίου.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πριν δύο χρόνια.</origin>
+        <causative_factors>Ορμονικοί παράγοντες.&#13;
+Το ανεφερα απλως λογω εφηβειας. Ο δερματολογος δεν ζητησε καμια εργαστηριακη εξεταση.</causative_factors>
+        <modalities>Δεν υπάρχει κάπιος παράγοντας που να καλυτερεύει.&#13;
+Χειροτερεύει με το άγχος.</modalities>
+        <occurrence_time>Όλο το χρόνο.</occurrence_time>
+        <body_side>Όλο το πρόσωπο.</body_side>
+        <appearence_frequency>Υπάρχει συνεχώς εδώ και δύο χρόνια.</appearence_frequency>
+        <pain_desc>Δεν εμφανίζει πόνο. &#13;
+Επιθυμία να πειράζει τα σπυράκια με τα νύχια.</pain_desc>
+        <complaint_ext>Στην πλάτη.</complaint_ext>
+        <other_complaints>Δεν έχει άλλα προβλήματα υγείας.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ακμή.&#13;
+Καμία φαρμακευτική αγωγή.</conv_med_presc>
+        <lab_tests>
+          <desc>Εργαστηριακές εξετάσεις δεν υπάρχουν.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αντιβίωση σε ωτίτιδες.&#13;
+Έγιναν όλα τα εμβόλια.</therapies_vaccination>
+          <traumas>Δεν υπάρχουν κανενός είδους.</traumas>
+          <infections>Καμία.</infections>
+          <other>Ιώσεις, πυρετός κάθε χρόνο.</other>
+        </personal>
+        <family>
+          <diseases>Υγιείς και οι δύο.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται 4, καλύτερα σε ανοιχτό αέρα 3.&#13;
+Της αρέσει περισσότερο η ύπαιθρος 3, ούτε το βουνό, ούτε η θάλασσα1</reactions>
+        <sleeping_habits>Αργεί να κοιμηθεί το βράδυ 4, κοιμάται βαριά 1, μπρούμυτα και πλάγια 1.&#13;
+Κάποιες φορές παραμιλάει 2 και σπάνια βλέπει όνειρα.</sleeping_habits>
+        <food_modalities>Επιθυμεί κρέας 1, ψάρι 3, αγγούρι 3, κοτόπουλο 3, σοκολάτα 4,  λουκάνικα 4, παγωτά 1, μακαρόνια 3, αλάτι 3.&#13;
+Απέχθεια στο λίπος 3, κανονική δίψα για κρύο νερό 2.</food_modalities>
+        <menstruation>Όλα φυσιολογικά.</menstruation>
+      </physical>
+      <mental_emotional>Φόβος απόρριψης 4, φόβος μήπως πληγωθεί 4, της αρέσει να είναι μόνη 3, εύθικτη 1, ακατάστατη 1, αισθάνεται ότι δεν την θέλουν οι φίλες της 1. Δεν παίρνει τηλέφωνο της φίλες της γιατί φοβάται ότι θα της πουν όχι 1.&#13;
+Είναι πολύ ευαίσθητη 3,  κλαίει μόνη της 3.&#13;
+Ανασφαλής με την ώρα 2, θέλει να είναι συνεπής 2.&#13;
+Έλλειψη αυτοπεποίθησης 3, και κάθε μεσημέρι γυρίζει από το σχολείο με νεύρα και διάθεση να μαλώσει με τη μαμά της 1.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Ωτίτιδες.&#13;
+Επιχείλιο έρπη πολύ συχνά.</personal_medical_history>
+        <family_medical_history>Καλό το οικογενειακό ιστορικό και χωρίς κληρονομική προδιάθεση.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Καλή πρόγνωση γιατί έχει πυρετό κάθε χειμώνα και γιατί το φάρμακο είναι καθαρό.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Δεν υπάρχουν.</peculiar>
+        <intense>Κάποιες φορές παραμιλάει στον ύπνο 2, κανονική δίψα για κρύο νερό 2, ανασφαλής με την ώρα 2, θέλει να είναι συνεπής 2.&#13;
+Της αρέσει περισσότερο η ύπαιθρος 3, δεν επιδιώκει παρέες 3, κλαίει μόνη της 3, επιθυμεί τα μακακορόνια, το αγγούρι, το κοτόπουλο και το αλάτι 3, έλλειψη αυτοπεποίθησης 3, της αρέσει να είναι μόνη 3.&#13;
+Κοιμάται αργά 4, ζεσταίνεται 4, φόβος απόρριψης 4, φόβος μήπως πληγωθεί 4, επιχείλιος έρπης 4, απέχθεια για το λίπος 3, επιθυμεί το ψάρι 3, τα λουκάνικα και τη σοκολάτα 4, υπερευαίσθητη 3,  δεν θέλει αγκαλιά όταν είναι θυμωμένη 4.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Επισυναπτεται αρχειο pdf.</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5200/g2.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Pulsatilla, Natrium Mureaticum.&#13;
+Η Pulsatilla θέλει την παρηγοριά ενώ η ασθενής δεν θέλει ούτε την παρηγοριά ούτε την αγκαλιά.&#13;
+&#13;
+Σημειωση: Την Pulsatilla την σκεφτικα σαν μια πιθανη επιλογη αλλα το Natrium Mureaticum εχει πολλα χαρακτηριστικα και γιαυτο ανεφερα οτι ειναι καθαρο φαρμακο.</remedies_differentiation>
+      <prescription>
+        <remedy>Natrium Mureaticum</remedy>
+        <potency>200 CH</potency>
+        <regimen>Μία κάψουλα το πρωί.</regimen>
+        <other_notes>Δεν υπάρχουν.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-25 12:20:00</followup_date>
+      <conv_med_presc>Πρώτο Followup: 17 Φεβρουαρίου 2015.&#13;
+Καμία αλλοπαθητική φαρμακευτική αγωγή.</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν υπάρχουν.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Επιδείνωση για μία εβδομάδα στο πρόσωπο, στην πλάτη και στο στήθος.&#13;
+Βελτίωση σταδιακή.</reaction>
+      <analysis>Σωστό το φάρμακο, δυνατός ο αμυντικός μηχανισμός.&#13;
+</analysis>
+      <conclusion>Αναμονή για μεγάλο χρονικό διάστημα ίσως 6 μήνες ή και περισσότερο.</conclusion>
+      <repertorization>
+        <desc>Επισυναπτεται αρχειο pdf.</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5200/g2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>κανένα</remedy>
+        <potency>τίποτα</potency>
+        <regimen>τίποτα</regimen>
+        <other_notes>Δεν υπάρχουν.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

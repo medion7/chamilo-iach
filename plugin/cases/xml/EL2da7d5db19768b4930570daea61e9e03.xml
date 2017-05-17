@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2da7d5db19768b4930570daea61e9e03</ID>
+  <patient>
+    <case_date>2014-09-19 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΡΠ</patient_initials>
+    <age>39</age>
+    <circumstances>60 κιλά, 158 εκ, Παντρεμένη, με δύο παιδιά</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ρινίτιδα 3, μετά από αλλεργική αντίδραση σε απορρυπαντικά, πριν από 10 χρόνια</origin>
+        <causative_factors>απορρυπαντικά</causative_factors>
+        <modalities>&lt;&lt; υγρασία 3 ,&lt;&lt; ζέστη 2, &lt;&lt; σκόνη, &gt;&gt; θάλασσα 3</modalities>
+        <occurrence_time>&lt;&lt; πρωί 2</occurrence_time>
+        <body_side>και στα δύο ρουθούνια</body_side>
+        <appearence_frequency>συνέχεια</appearence_frequency>
+        <pain_desc>νιώθει ότι είναι βουλωμένη η μύτη, σα να έχει χώμα, χωρίς καταρροή</pain_desc>
+        <complaint_ext>την πιάνει βήχας ξηρός 2, υπνηλία </complaint_ext>
+        <other_complaints>λίθος στο δεξιό νεφρό, κωλικοί πριν 7 χρόνια&#13;
+τρώει τα νύχια της 4</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ρινίτιδα, υπό Ronal, Pulmicort</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Ronal, Pulmicort</therapies_vaccination>
+          <traumas>όχι σημαντικά</traumas>
+          <infections>ουρολοίμωξη στην πρώτη εγκυμοσύνη, έκτοτε συχνές υποτροπές</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: αφαίρεση μήτρας, προ 3ετίας, περιτονίτιδα, δισκοπάθεια, οστεοπώρωση, δυσλιπιδαιμία, 60 χρ&#13;
+Πατέρας: κωλικός νεφρού- ουρολιθίαση, υπέρταση, υπερτροφία προστάτη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει 3, η ρινίτιδα είναι πολύ καλύτερα στη θάλασσα 3</reactions>
+        <sleeping_habits>μπρούμυτα 3, ζεστά πόδια- τα ξεσκεπάζει 3</sleeping_habits>
+        <food_modalities>Επιθυμίες: γλυκά 3, λίπος 3, λεμόνι 3, πορτοκάλι 3, ξυνόμηλα 2, μελιντζάνες 2, κρέας 2&#13;
+Απέχθειες: γάλα 2&#13;
+Επιδεινώσεις: πορτοκάλια 3</food_modalities>
+        <menstruation>σταθερός κύκλος, με αίμα κόκκινο ζωηρό </menstruation>
+      </physical>
+      <mental_emotional>άγχος για την υγεία των παιδιών της 2, τακτική 2, την ενοχλεί η αδικία 2, υπομονετική, νευριάζει συχνά με τη μητέρα της 2, φόβος ύψους 2, σεισμών 2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>15 χρ, κωλικός νεφρού &#13;
+συχνές ουρολοιμώξεις από την πρώτη κύηση και μετά</personal_medical_history>
+        <family_medical_history>δεν υπάρχει ιστορικό ρινίτιδας στην οικογένειά της</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Χωρίς υψηλό πυρετό από 7 ετίας, χωρίς οικογενειακή προδιάθεση για το πρόβλημα (αλλεργική ρινίτιδα)</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>επιθυμεί αλλά και επιδεινώνεται από τα πορτοκάλια 3, η ρινίτιδα υποχωρεί στη θάλασσα 3</peculiar>
+        <intense>&lt;&lt; υγρασία 3 ,&lt;&lt; ζέστη 2&#13;
+Επιθυμίες: γλυκά 3, λίπος 3, λεμόνι 3, πορτοκάλι 3, ξυνόμηλα 2,  κρέας 2&#13;
+Απέχθειες: γάλα 2&#13;
+Επιδεινώσεις: πορτοκάλια 3 &#13;
+κοιμάται μπρούμυτα 3, ζεστά πόδια- τα ξεσκεπάζει 3&#13;
+κρυώνει 3, η ρινίτιδα είναι πολύ καλύτερα στη θάλασσα 3&#13;
+τρώει τα νύχια της 4, φόβος ύψους 2, σεισμών 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>KIDNEYS - STONES (Renal Calculi) 	2&#13;
+GENERALITIES - FOOD and DRINKS - lemons - desire 	3&#13;
+GENERALITIES - FOOD and DRINKS - oranges - desire 	3&#13;
+GENERALITIES - FOOD and DRINKS - meat - desire 	2&#13;
+SLEEP - POSITION - abdomen, on  	3&#13;
+GENERALITIES - FOOD and DRINKS - sweets - desire 	3&#13;
+MIND - BITING - nails 4&#13;
+GENERALITIES - BATHING - sea - amel. 	3&#13;
+GENERALITIES - FOOD and DRINKS - fat - desire 	3&#13;
+GENERALITIES - FOOD and DRINKS - milk - aversion 	2&#13;
+MIND - FASTIDIOUS 	2&#13;
+GENERALITIES - WEATHER - wet - agg. 	3&#13;
+GENERALITIES - FOOD and DRINKS - fruit - desire - acid (sour) 	2&#13;
+MIND - FEAR - high places, of 	2&#13;
+MIND - FEAR - earthquakes, of 	2&#13;
+MIND - ANXIETY - health, about 	2&#13;
+MIND - ANXIETY - health, about - relatives, of &#13;
+GENERALITIES - WARM - aggr    2&#13;
+EXTREMITIES - UNCOVER, inclination to, Feet  3&#13;
+GENERALITIES - FOOD and DRINKS - oranges - aggr   3&#13;
+GENERALITIES - MORNING 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Medorrhinum : επειδή το σύμπτωμα βελτιώνεται στη θάλασσα, θέλει ξυνά φρούτα και λεμόνι, κοιμάται μπρούμυτα.&#13;
+Arsenicum : επειδή κρυώνει , έχει άγχος υγείας και θέλει λεμόνι- δεν υπάρχουν άλλα στοιχεία.&#13;
+Calcarea carbonica : επειδή θέλει γλυκά, φοβάται το ύψος, κρυώνει και επιδεινώνεται με την υγρασία.&#13;
+&#13;
+Το Medorrhinum συγκεντρώνει και περίεργα και γενικά συμπτώματα.</remedies_differentiation>
+      <prescription>
+        <remedy>Medorrhinum</remedy>
+        <potency>30 CH, 200 CH</potency>
+        <regimen>1η μέρα 30 CH&#13;
+2η μέρα 200 CH&#13;
+</regimen>
+        <other_notes>Το πρόβλημα είναι σωματικό. Επιλέγχθηκε χαμηλή δυναμοποίηση.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up : 22/10/2015&#13;
+ τίποτα&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Είχε άμεση βελτίωση στη ρινίτιδα - σε 2 μέρες. Ενέργεια καλύτερη και καλή διάθεση. Δε χρειάζεται πια αποσυμφορητικά.</reaction>
+      <analysis>Το φάρμακο έδρασε χωρίς επιδείνωση αρχική. Αυτό συμφωνεί με την εκτίμηση για το επίπεδο υγείας.</analysis>
+      <conclusion>Δεν χρειάζεται φάρμακο - παρά μόνο σε υποτροπή της ρινίτιδας ή σε εμφάνιση νέας συμπτωματολογίας.</conclusion>
+      <repertorization>
+        <desc>ίδιο, με συμπτώματα σε χαμηλότερη ένταση</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up: 10/12/2015 Ronal</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ενώ ήταν σε καλή κατάσταση βαθμιαία η ρινίτιδα επιδεινώθηκε- πιθανά ξανά από απορρυπαντικά που χρησιμοποιεί. Χρειάσθηκε Ronal. Τα συμπτώματα είναι του ίδιου χαρακτήρα. </reaction>
+      <analysis>Το φάρμακο έδρασε αλλά υπήρξε σταδιακή αντιδότηση- με τα απορρυπαντικά. Αφού πρόκειται για υποτροπή του ίδιου προβλήματος, με ίδια συμπτώματα και το Medorrhinum έδρασε καλά, μπορεί να επαναληφθεί η δόση.</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>ίδια με πριν</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Medorrhinum</remedy>
+        <potency>30 CH, 200 CH</potency>
+        <regimen>Αφού τα συμπτώματα έχουν την ίδια ένταση θα δοθεί αρχικά η ίδια δοσολογία.&#13;
+1η μέρα 30 CH&#13;
+2η μέρα  200CH</regimen>
+        <other_notes>Η ασθενής είχε και πάλι καλή αντίδραση και μέχρι και σήμερα τηλεφωνικά αναφέρει ότι είναι ασυμπτωματική " κι ας μην πήγε φέτος στη θάλασσα, που βοηθούσε πάντα"</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

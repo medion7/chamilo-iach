@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL24a1fc5945a16b99cdf8501857ae44bc</ID>
+  <patient>
+    <case_date>2015-03-08 21:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Κ.Μ.</patient_initials>
+    <age>2</age>
+    <circumstances>Βρέφος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Καθυστέρηση στην ανάπτυξη </origin>
+        <causative_factors>Ιδιοσυστατικοί</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Ευαισθησία σε λοιμώξεις Ανώτερου Αναπνευστικου</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμμια</conv_med_presc>
+        <lab_tests>
+          <desc>Δεν υπάρχουν</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>εχει πάρει tuberculinum για ένα επίμονο εξάνθημα στη μύτη</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Κανένα εμβόλιο, &#13;
+Από φάρμακα μόνο παρακεταμόλη</therapies_vaccination>
+          <traumas>Δεν αναφερει </traumas>
+          <infections>-</infections>
+          <other>Γεννήθηκε με φυσιολογικό τοκετό, θηλάζει.&#13;
+χωρίς αλλα προβλήματα</other>
+        </personal>
+        <family>
+          <diseases>Χωρίς χρόνια προβλήματα υγείας</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ευαισθησία στο κρύο, ιδρώνει κατά τη διάρκεια της νύχτας</reactions>
+        <sleeping_habits>κοιμάται ανάσκελα ή σε πλαγια θέση λογω θηλασμου.Ο ύπνος της είναι φυσιολογικός</sleeping_habits>
+        <food_modalities>Της αρέσει το ωμό κρεμμυδι, τρώει φρούτα κανονικά, </food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Ειναι πολύ ευαισθητη και συμπονετική.&#13;
+Εχει ήπιο χαρακτήρα, φαινεται να συμπαθεί την τάξη και την καθαριότητα</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εμπυρετο με συνάχι και απόχρεμψη, μετά από έκθεση σε κρύο αέρα. Τα συμπτώματα παρέμειναν σχέδόν καθόλη τη διάρκεια του χειμώνα</personal_medical_history>
+        <family_medical_history>Γονείς χωρίς χρόνια νοσήματα. Απο τη μεριά του πατέρα στην οικογένειά του  υπήρχε ιστορικό φυματίωσης</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Βρέφος με σχετικά καλό επίπεδο υγείας χωρίς κατασταλτικές θεραπείες.&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>επιθυμία για ωμό κρεμμύδι (2) &#13;
+Ξινη μυρωδιά ιδρώτα</peculiar>
+        <intense>Ιδρώνει όταν θηλάζει κυρίως στο τριχωτό της κεφαλής και στον αυχένα- καθε βράδυ το στρώμα είναι μούσκεμένο (3)&#13;
+Καθυστερημένη οδοντοφυία (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Κ.Β.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Calcarea carbonica, Calcarea Phosphorica, Silica</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea Carbonica</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-02 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η οδοντοφυία αρχίζει να εξελίσσεται κανόνικά&#13;
+Εχει μείνει πισω στις καμπύλες ανάπτυξης. (3η εκατόστιαία θέση)&#13;
+Η διάμετρος της κεφαλής ωστόσο είναι μεγάλη (σχεδόν έξω απο τις καμπύλες)&#13;
+Δεν τρώει πολύ- κυρίως θηλάζει.</reaction>
+      <analysis>Λογω της φύσης του προβλήματος, η αξιολόγηση πρέπει να γίνει σε βάθος χρόνου.&#13;
+Αρχισε να έχει απέχθεια στο αυγό - στοιχείο που συνηγορεί στη σωστή επιλογή του φαρμάκου. &#13;
+Εχει κάποια καινούργια στοιχεία στο ιστορικό που δείχνουν ένα νέο φάρμακο.(silica)&#13;
+</analysis>
+      <conclusion>Θεωρούμε πως η Calcarea  δρα και επιμένουμε σε αυτό το φάρμακο</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Κ.Β follow up.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-04 20:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πλέον δεν ιδρώνει τόσο στο κεφάλι.&#13;
+Θηλάζει μανιωδώς, τρώει ελάχιστα.&#13;
+Το βράδυ θέλει να ξεσκεπάζει τα πόδια της.&#13;
+Είναι ευαίσθητη, κλαίει με το παραμικρό.</reaction>
+      <analysis>Ο συνδυασμός κάποιων συμπτωμάτων δείχνει την Silica αρκετά έντονα&#13;
+ενώ εμφανίζονται κάποια στοιχεία  pulsatilla</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Κ.Β follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

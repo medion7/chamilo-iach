@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3d457838afe00b54806fb0c01d88fbaa</ID>
+  <patient>
+    <case_date>2015-10-02 12:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Λ.Α.</patient_initials>
+    <age>37</age>
+    <circumstances>παντρεμενη, εχει ενα κοριτσακι 2,5-3 χρονων, τωρα δεν εργαζεται, θελει να βρει μια δουλεια, να βγαινει εξω απο το σπιτι</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>-εγκεφαλικο επεισοδιο 2013, 4 μηνες μετα τον τοκετο. ισχαιμικο, της ειπαν οι γιατροι οτι το αιμα στροβιλιστηκε και σε ανωμαλη κοιλοτητα της αρτηριας και ο θρομβος κατεληξε στον εγκεφαλο.&#13;
+-πονοκεφαλοι απο μικρη(10 ετων), μετα εγκυμοσυνη λιγοτερο συχνα</origin>
+        <causative_factors>ισως η πιεση του τοκετου αλλα και το στρες της λοχειας να συνεβαλλαν. η εγκυμοσυνη ηταν καλη αλλα στον τελευταιο μηνα το μωρο δεν τρεφοταν, ειχε μεινει 2κιλα και της εδιναν ασπιρινη.</causative_factors>
+        <modalities>πονοκεφαλοι:&#13;
+&gt;ξαπλωμενη&#13;
+&gt;σκοταδι&#13;
+&gt;θορυβο&#13;
+γενικως &gt;περπατημα (2)</modalities>
+        <occurrence_time>&lt;το απογευμα(μετα το μεσημερι) διαρκουσαν 2 ημερες</occurrence_time>
+        <body_side>και στις δυο πλευρες, στους κροταφους</body_side>
+        <appearence_frequency>παλια μια φορα το μηνα, τωρα μπορει μια φορα το χρονο</appearence_frequency>
+        <pain_desc>σα σφυρακια</pain_desc>
+        <complaint_ext>εγκεφαλικο: επηρεαστηκε η οραση και στα δυο ματια, εχει χαθει το οπτικο πεδιο αριστερα και πανω</complaint_ext>
+        <other_complaints>-περιοδοντιτιδα(3) :οστικη απωλεια χωρις αιμορραγια ή ενδειξεις ενεργους φλεγμονης( απο το 2009 που υπηρχε αποστημα πανω μπροστα)&#13;
+-υποταση(8,5-9mm Hg)&#13;
+-σχεδον ανεπαισθητο σημειο Λεύκη</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>salospir 100mg/ ημερισιως</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εμβολια τα συνηθη </therapies_vaccination>
+          <traumas>δεν αναφερει κατι</traumas>
+          <infections>-</infections>
+          <other>-μικρη (10 ετων) ρινορραγιες(3) σχεδον καθημερινες για ενα εξαμηνο. δεν ξερει πως περασαν&#13;
+-αφθες</other>
+        </personal>
+        <family>
+          <diseases>πατερας:υγιης&#13;
+       μητερα:υπερταση, κυκλοφορικα προβληματα, πρησμενα ποδια(2)&#13;
+μητερα:ισχαιμικο εγκεφαλικο επεισοδιο λογω καρδιοπαθειας&#13;
+       μητερα:Ca πεθανε μικρη&#13;
+       πατερας:Ca, το ξεπερασε ,πεθανε 85 ετων απο καποια λοιμωξη&#13;
+αδελφια(ετεροθαλη, απο τον πατερα) υγιη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>μαλλον κρυωνει</reactions>
+        <sleeping_habits>κοιμαται καλα, υπνος βελτιωνει(4), οχι μεσημερι, κυριως στο πλαι, παντα καλτσες(3)&#13;
+ονειρα: σπανια τα θυμαται</sleeping_habits>
+        <food_modalities>επιθυμιες:σουβλακια(2), σαντουιτς, τυρι(3), αλατι(2), νερο(4) δροσερο., ψαρι(2), παγωτο(4)&#13;
+απεχθειες: φρουτα(3), κοτοπουλο(2)</food_modalities>
+        <menstruation>-απο 9 ετων, σταθερος κυκλος 28 ημερες, τελευταιο εξαμηνο ανα 20-22 μερες, μεγαλη ροη, περισσοτερη ροη οταν ειναι ορθια ή σε κινηση. &#13;
+-οχι πια πονος, αλλα πρηξιμο στο στηθος(2) και στην κοιλια</menstruation>
+      </physical>
+      <mental_emotional>-ευεπηρεαστη(3), αν δει κατι θα την επηρεασει και θα το σκεφτεται&#13;
+-επιθυμια για παρεα(3)&#13;
+-αλλαζει η διαθεση πολυ ευκολα(4)&#13;
+-παρηγορια εκνευριζει(2)&#13;
+-τρομαζει ευκολα(2)&#13;
+-κλαιει ευκολα(2)&#13;
+-συμπασχει(3) &#13;
+-αναστεναζει(2) παιρνοντας βαθια ανασα&#13;
+-φοβος οτι κατι κακο θα συμβει(3)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history> γνωριζουμε βεβαια οτι οποιαδηποτε παθολογια μπορει να απαντηθει σε οποιοδηποτε επιπεδο υγειας, αλλα το εγκεφαλικο επεισοδιο σε αυτη την ηλικια θεωρω οτι δεν δειχνει πολυ υψηλο επιπεδο υγειας. επισης φαινεται οτι οι αρχικες ρινορραγιες εδωσαν τη θεση τους στους πονοκεφαλους και αυτοι στο εγκεφαλικο. θεωρω οτι ειναι σιγουρα στο δευτερο γκρουπ.</personal_medical_history>
+        <family_medical_history>κληρονομικα εχουμε την μαμα με την ιδια συμπτωματολογια και επιβαρημενο οικογενες ιστορικο με καρκινους και κυκλοφορικα προβληματα. καποια αναφορα που να παρεπεμπε σε ιδιαιτερο μιασμα δεν εχουμε.</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>αν οντως η ασθενης ανηκει στο 5ο επιπεδο υγειας αναμενουμε αρχικη επιδεινωση, ισως οχι πολυ εντονη</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>-stomach- thirst(4)&#13;
+-mind-mood changeable(4)&#13;
+-generalities-food-ice-dream desire(4)&#13;
+-generalities-sleep after ameliorates(4)&#13;
+-mind-fear sth bad will happen(3)&#13;
+-mind-desire company(3)&#13;
+-mind-sensitive to external impressions-to all (3)&#13;
+-mind-sympathetic(3)&#13;
+-mouth-inflammation-gums(3)&#13;
+-chest-swelling-mammae-menses before(2)&#13;
+-generalities-food-fruit aversion(2)&#13;
+-mind-startled easily(2)&#13;
+-mind-tearful mood(20&#13;
+-generalities-walking amel(2)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation> απο το compass βγαινει καθαρη εικονα Phos., με δευτερη την Ignatia, λογω κλαματος, ευκολης αλλαγης της διαθεσης,απεχθεια στα φρουτα, μια silent grief που η ασθενης ομολογει, το κλαμα και τους αναστεναγμους και τριτο το nat-mur, παλι λογω silent grief , αλατιου, διψας , απεχθειας προς την παρηγορια.</remedies_differentiation>
+      <prescription>
+        <remedy>phosphorus</remedy>
+        <potency>30cH-200cH</potency>
+        <regimen>πρωι-βραδυ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-15 12:00:00</followup_date>
+      <conv_med_presc>salospir 100mg ημερησιως</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-την ημερα που πηρε το φαρμακο, το μεσημερι ειχε κρουσμα εντονου πονοκεφαλου που κρατησε για 3 ημερες. πιο εντονος απ'οτι συνηθως με τον ιδιο χαρακτηρα&#13;
+&gt;η Ε.Ρ., στις 25 μερες, πολυ λιγοτεροι το πρηξιμο στο στηθος&#13;
+&gt;αναστεναγμοι&#13;
+αυξημενη ορεξη, εχει παρει λιγο βαρος&#13;
+τα υπολοιπα ιδια</reaction>
+      <analysis>πιθανο ο πονοκεφαλος να ειναι αρχικη επιδεινωση και η βελτιωση να φαινεται στην περιοδο. δεν ειναι σαφες το αποτελεσμα, περιμενουμε αν δουμε και τη δευτερη Ε.Ρ. και να εκτιμησουμε και τα υπολοιπα αν αλλαξει κατι. </analysis>
+      <conclusion>δεν δινουμε φαρμακο, περιμενουμε για να επιβεβαιωσουμε ή οχι το πρωτο φ.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>δεν εχουμε προλαβει να κανουμε β follow up</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd5ef0f87496744edaf2130c2ce960bcd</ID>
+  <patient>
+    <case_date>2015-01-12 18:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>M.Γ.</patient_initials>
+    <age>52</age>
+    <circumstances>Έγγαμος, οδοντίατρος, 3παιδιά,1,70 ύψος, 78 kg,</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ευαιρέθιστο έντερο. Γαστροοισοφαγική παλινδρόμηση - φουσκώματα - αέρια - καούρες,     Τελευταία, έγινε οξύθυμος1.    Νεύρα2, το τελευταίο 6μηνο. Δεν αντιμετωπίζει, τις δύσκολες καταστάσεις ήρεμα, όπως παλιά. </origin>
+        <causative_factors>Πέθανε ο πατέρας του,πριν 7 μήνες και έχει αναλάβει την περίθαλψη , της μητέρας του.</causative_factors>
+        <modalities>&lt;των πεπτικών προβλημάτων μετά το φαγητό2, (κυρίως λιπαρά και όσπρια),    &gt; μετά από ερυγές2,     &gt;με αέρια3      </modalities>
+        <occurrence_time>&lt;το απόγευμα3</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>Όποτε φάει πολύ, ή κάτι βαρύ.    τ</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>Έχει πόνο στην κοιλιά, κοντά στις βουβωνικές περιοχές που&gt;μετά από εξοδο αερίων και ερυγών1</complaint_ext>
+        <other_complaints>Νεύρα2, τον τελευταίο καιρό , που δεν τα εκφράζει, πάντα.     Χαμηλή αυτοπεποίθηση2        Δειλία3</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Για τις καούρες, παίρνει αντιόξινα.    &#13;
+&#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>Γαστροσκόπηση :Γαστροοισοφαγική παλινδρόμηση       &#13;
+Κολονοσκόπηση:κ.φ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>Χώρισε με την σύζυγο, πριν 4 χρόνιακαι τον ενοχλεί, που δεν έχει κάνει σοβαρή σχέση,</traumas>
+          <infections>Αρκετές ιώσεις, με όχι ιδιαίτερα υψηλό πυρετό</infections>
+          <other>Ουρολοίμωξη πριν 8 μήνες</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας:¨Ανοια,υπέρταση   Μητέρα:νεφρική ανεπέρκεια</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει1,    </reactions>
+        <sleeping_habits>Ξυπνάει κουρασμένος1</sleeping_habits>
+        <food_modalities>des:γλυκά2 ,λιπος1        agg:φασολια3   </food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>Χαμηλή αυτοπεποίθηση2,     δειλία3   Οξύθυμος2  νεύρα2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Έχει αρκετά σωματικά και διανοητικά προβλήματα,αλλά μπορούμε να βοηθήσουμε. </personal_medical_history>
+        <family_medical_history>Έχει επιβαρύνσεις και από τους δύο γονείς.</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Περιμένουμε βελτίωση</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>&gt;με τις ερυγές2     &gt;με τα αέρια3           </peculiar>
+        <intense>&lt;το απόγευμα3,  στα φουσκώματα και τις ερυγές</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Mind - confidence - want of self - confidence(low)2&#13;
+Mind - caowardice2&#13;
+Mind - anger - irascability2&#13;
+Stomach - eructations - afternoon3&#13;
+Stomach - eructations - acrid2&#13;
+Abdomen - flatulence - afternoon2&#13;
+Abdomen -  pain - afternoon1&#13;
+Bladder - inflamation(cystitis)1&#13;
+Generalities - eating after - agg2&#13;
+Generalities - food and drinks - beans and peas agg3&#13;
+Generalities - food and drinks - sweets - desire2&#13;
+Sleep - unrefreshing -morning1&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation> To compass , βγάζει Lycopodium, Bryonia και Carbo veg. Λόγω των ψυχοδιανοητικών και σωματικών του χαρακτηριστικών, σκέφτηκα το Lycopodium.</remedies_differentiation>
+      <prescription>
+        <remedy>Lycopodium</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Tην πρώτη μέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-02-14 18:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>&gt;όλα τα συμπτώματα του, προοδευτικά μετά την 10η ημέρα,    Συνεχίζεται η βελτίωση</reaction>
+      <analysis>Το φάρμακο δρα</analysis>
+      <conclusion>Περιμένω, δεν αλλάζω, δεν επαναλαμβάνω</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-04-16 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction> τα φουσκώματα&gt;2,   νοιώθει τεμπελιά- βαριέται2,  άγχος2   επικριτικός2, ζεσταίνεται2,   ιδρώνει2, μυρίζει οιδρώτας2,   το πρωί έχει διάρροια που τον αναγκάζει2, αυπνία1  θέλει δροσερά ροφήματα2</reaction>
+      <analysis>Βελτιώθηκαν τα φουσκώματα και άλλαξε η εικόνα του</analysis>
+      <conclusion>Βγάζει εικόνα Sulphur</conclusion>
+      <repertorization>
+        <desc>Rectum - diarrhoea - morning - bed,drivingout of2     Mind- anxiety2          Mind - untidy2          Mind contrary2              Mind - dullness - sluggishness,difficultyof thinkingand coprehending2         Generalities - warm - agg2          Sleep sleeplessness2      Generalities - food and drinks - drinks, water - desire2       </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>200CH</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Nα ληφθεί το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-09-07 19:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Από την πρώτη εβδομάδα &gt;η διάρροια2,  η αυπνία&gt;1 και διαχειρίζεται το άγχος του καλύτερα. Συνεχίζεται η βελτίωση.</reaction>
+      <analysis>Συνεχώς βελτιώνεται. Συνεχίζει η δράση του φαρμάκου. </analysis>
+      <conclusion>Περιμένω. Του δίνω placebo, γιά ψυχολογικούς λόγους</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>6χ</potency>
+        <regimen>1  caps κάθε πρωί</regimen>
+        <other_notes>Nα λαμβάνεται το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

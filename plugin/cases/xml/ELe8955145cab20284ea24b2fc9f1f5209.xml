@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELe8955145cab20284ea24b2fc9f1f5209</ID>
+  <patient>
+    <case_date>2015-12-27 14:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Χ.Μ.</patient_initials>
+    <age>64</age>
+    <circumstances>Πρώτη επίσκεψη 28 Μαίου 2015&#13;
+Παντρεμένος σε 2ο γάμο, μία κόρη από τον 1ο και δύο κόρες από τον 2ο&#13;
+Συνταξιούχος&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Έμφραγμα μυοκαρδίου  1992- νοσηλεία στην καρδιολογική του Αγία Όλγα-Παραπομπή για Bypass στο Ωνάσειο. Ασυμπτωματικός μετά την επέμβαση (έχει διακόψει και το κάπνισμα από τότε)&#13;
+Στυτική δυσλειτουργία- κανονική έως αυξημένη επιθυμία αλλά ανεπαρκής ή χαλαρή στύση , επιδεινούμενη την τελευταία 5ετία.</origin>
+        <causative_factors>Για τη στεφανιαία νόσο :Κληρονομική προδιάθεση, κάπνισμα, παχυσαρκία,προσωπικότητα τύπου Α (ambition,anxiety,aggressiveness)&#13;
+&#13;
+Για τη στυτική δυσλειτουργία-φαρμακευτικά αίτια (Lopresor), παχυσαρκία ,διαβήτης (πιθανότατα στα πλαίσια της γενικευμένης αγγειοπάθειας του διαβήτη)</causative_factors>
+        <modalities>---</modalities>
+        <occurrence_time>---</occurrence_time>
+        <body_side>---</body_side>
+        <appearence_frequency>Σε κάθε επαφή</appearence_frequency>
+        <pain_desc>---</pain_desc>
+        <complaint_ext>---</complaint_ext>
+        <other_complaints>---</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Στεφανιαία νόσος Bypass σε ηλικία 41 ετών, ΣΔ, ΑΥ,παχυσαρκία&#13;
+Τώρα πέρνει: Lopresor 1/2x3, Tenoretic, Salospir,Glucophage x2,Solosa3mg x1,micardis,lipitor&#13;
+Ο λόγος για τον οποίο έρχεται τώρα είναι στυτική δυσλειτουργία&#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>Γενική αίματος κφ Βιοχημικός έλεγχος: αυξημένο σάκχαρο,χοληστερίνη,HbA1c 6,4 ,λοιπά κφ&#13;
+Triplex καρδιάς -καλή λειτουργικότητα,διαστολική δυσλειτουργία&#13;
+Σπινθηρογράφημα μυοκαρδίου-χωρίς παθολογικά ευρήματα</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-----</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Β-αναστολείς και πλήρης αγωγή στεφανιαίας νόσου, όλα τα υποχρεωτικά εμβόλια, συμπεριλαμβανομένου του ετήσιου για τη γρίππη που γίνεται στις ομάδες υψηλού κινδύνου.&#13;
+Τελευταίος πυρετός &gt;10 χρόνια</therapies_vaccination>
+          <traumas>Θάνατος αδερφού, Θάνατος πατέρα,Διαζύγιο και απομάκρυνση από το πρώτο παιδί</traumas>
+          <infections>---</infections>
+          <other>---</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας καρδιοπαθής,πέθανε από ανακοπή στα 70&#13;
+Αδερφός ανακοπή σε ηλικία 40 ετών&#13;
+Μητέρα ζει ακόμη (97 ετών) αυτοεξυπυρετείται , δεν παίρνει κανένα φάρμακο,το μόνο της ιστορικό είναι χολοκυστεκτομή (λίθοι) πριν 3 χρόνια (!)</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται 3&#13;
+ιδρώνει 3 , μυρίζει ο ιδρώτας του 3</reactions>
+        <sleeping_habits>Ύπνος καλός, ανάσκελα ή στο πλάϊ, τα πόδια του καίνε και τα ξεσκεπάζει το βράδυ 3</sleeping_habits>
+        <food_modalities>επιθυμεί: Γλυκά 3,λίπος 2,αλάτι 1,ξινό 3&#13;
+Απεχθάνεται: αυγά 2</food_modalities>
+        <menstruation>---</menstruation>
+      </physical>
+      <mental_emotional>Νεύρα 2, ερειστικός 2, τεμπέλης 2, ακατάστατος 2,φοβάται το ύψος 3 , έχει και έναν ακαθόριστο φόβο-μελαγχολία στη δύση του ήλιου 2 , κλαίει 1 (μόνος του ) και του αρέσει η παρηγοριά 2,μελαγχολία 2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Βαριά σωματική παθολογία (καρδιοπάθεια) αλλά ήπια συμπτώματα από το ψυχοδιανοητικό .&#13;
+Η στυτική δυσλειτουργία πιθανότατα είναι κυρίως παρενέργεια χημικού φαρμάκου.&#13;
+Τελευταίος πυρετός πριν τουλάχιστον 10 χρόνια,αλλά το φάρμακο ακόμα φαίνεται καθαρό.&#13;
+Δεν είμαι σίγουρη αν ανήκει στο group B  ή  C. &#13;
+</personal_medical_history>
+        <family_medical_history>Από τη μεριά της μητέρας δεν έχει προδιάθεση για ασθένειες. Από την μεριά του πατέρα όμως φαίνεται ευαισθησία στο καρδιαγγειακό που την έχουν κληρονομήσει και οι δύο γιοί . Ο ένας μάλιστα πέθανε σε νεαρή ηλικία (χωρίς να έχει νοσήσει προηγουμένως ) από ανακοπή.</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Ασθένεια στο σωματικό επίπεδο στο 2ο κατά σειρά πιο σημαντικό σύστημα στην ιεραρχία των συστημάτων. Σοβαρή παθολογία.&#13;
+Δεν κάνει πυρετούς άρα έχει περάσει στο στάδιο της χρόνιας νόσου. Παρόλα αυτά το φάρμακο (sulphur) είναι μάλλον καθαρό (που είναι χαρακτηριστικό των υψηλότερων επιπέδων υγείας). Ίσως να έχει να κάνει με την καλή υγεία και καλή κληρονομικότητα από την μητέρα (;)&#13;
+Περιμένω βελτίωση χωρίς επιδείνωση. Αν εμφανιστεί επιδείνωση αυτή θα είναι σοβαρή.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Τα πόδια του καίνε και τα ξεσκεπάζει το βράδυ 3&#13;
+pennis relaxed when excited,small and cold 3</peculiar>
+        <intense>σεξουαλική ανικανότητα 3&#13;
+αυξημένη σεξουαλική επιθυμία με μικρή στύση 3&#13;
+αρτηριοσκλήρυνση 1&#13;
+καρδιακά προβλήματα 2&#13;
+τεμπελιά 2&#13;
+ακαταστασία 2&#13;
+φόβος για το ύψος 3&#13;
+ζεσταίνεται 3&#13;
+του αρέσει η παρηγοριά 2&#13;
+ιδρώνει,κυρίως στη μασχάλη,μυρίζει 2&#13;
+ιδρώνει  τη νύχτα 2&#13;
+ευερέθιστος 2&#13;
+ερειστικός 2&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENITALIA­MALE ­ SEXUAL desire ­ increased ­ erection, without 3&#13;
+GENITALIA­MALE ­ ERECTIONS ­ wanting (Impotency) 3&#13;
+GENITALIA­MALE ­ ERECTIONS ­ wanting (Impotency) ­ penis relaxed when excited ­ small and cold 1&#13;
+GENERALITIES ­ ARTERIOSCLEROSIS 1&#13;
+CHEST ­ AFFECTIONS ­ Heart, of 2&#13;
+MIND ­ LAZINESS 2&#13;
+MIND ­ UNTIDY 2&#13;
+MIND ­ FEAR ­ high places, of 3&#13;
+GENERALITIES ­ WARM ­ agg. 3&#13;
+EXTREMITIES ­ HEAT ­ Foot ­ burning ­ uncovers them 2&#13;
+MIND ­ FEAR ­ evening ­ twilight 3&#13;
+MIND ­ CONSOLATION ­ amel. 2&#13;
+CHEST ­ PERSPIRATION ­ Axilla ­ offensive 2&#13;
+PERSPIRATION ­ NIGHT 2&#13;
+MIND ­ IRRITABILITY 2&#13;
+MIND ­ QUARRELSOME 2&#13;
+GENERALITIES FOOD AND DRINKS fat desire 3&#13;
+GENERALITIES FOOD AND DRINKS eggs aversion 2&#13;
+GENERALITIES FOOD AND DRINKS swetts desire 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Sulphur -pulsatila-argentum nitricum&#13;
+pulsatila : δεν κλαίει τόσο εύκολα,δεν απεχθάνεται το λίπος ή το χοιρινό,δεν έχει αλλαγή ή μετακίνηση στα συμπτώματα&#13;
+argentum nitricum : δεν έχει άγχος υγείας ούτε φόβο θανάτου,δεν έχει έντονη την παρορμητικότητα,δεν έχει τη χαρακτηριστική διάρροια ή συχνουρία από το άγχος </remedies_differentiation>
+      <prescription>
+        <remedy>sulphur</remedy>
+        <potency>12ch</potency>
+        <regimen>12ch μία φορά την ημέρα, αυξανόμενο  κατά 2ch ανά 20ήμερο</regimen>
+        <other_notes>----</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-27 13:00:00</followup_date>
+      <conv_med_presc>sulphur 12 ch /20caps</conv_med_presc>
+      <lab_tests>
+        <desc>----</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Στον πρώτο μήνα είχε μικρή βελτίωση στη στύση , αλλά πολύ μεγάλη βελτίωση στα νεύρα,δεν καυγάδιζε πια με το παραμικρό. Τα πόδια του σταμάτησαν να τον ενοχλούν, δεν καίνε πια.</reaction>
+      <analysis>Δεν υπήρξε αρχική επιδείνωση. Το κύριο σύμπτωμα βελτιώθηκε λίγο,αλλά αφενός το κύριο αίτιο (lopresor) παραμένει και αφετέρου ο ασθενής αναφέρει μεγάλη βελτίωση στο ψυχοδιανοητικό κομμάτι,καλύτερη ενέργεια και γενικά λέει οτι αισθάνεται πολύ καλύτερα.&#13;
+Σωστό φάρμακο.Συνεχίζω τις καθημερινές μικρές δυναμοποιήσεις με στόχο να μειώσω όσο μπορώ τα χημικά φάρμακα.</analysis>
+      <conclusion>Σωστό φάρμακο,όντως χαμηλό επίπεδο υγείας.Πιο χαμηλό από το 6 στο ποίο αρχικά τον είχα εκτιμήσει.</conclusion>
+      <repertorization>
+        <desc>-----</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>sulphur </remedy>
+        <potency>14ch</potency>
+        <regimen>14ch χ 1 , για 20 ημέρες</regimen>
+        <other_notes>-----</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-27 13:00:00</followup_date>
+      <conv_med_presc>sulphur </conv_med_presc>
+      <lab_tests>
+        <desc>----</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά τη μεγάλη βελτίωση (όπως ανέφερε ο ίδιος) του πρώτου μήνα συνεχίσαμε τις χαμηλές σταδιακά αυξανόμενες δυναμοποιήσεις. Αποτέλεσμα: μειώσαμε το lopresor από 1/2 χ3 σε 1/2 χ 2 , το σάκχαρο άρχισε να σταθεροποιέιται και τον τρίτο μήνα κόψαμε το solosa. Ως προς τη στυτική δυσλειτουργία, ακόμη όχι μεγάλη βελτίωση. </reaction>
+      <analysis>Το κύριο πρόβλημα για το οποίο ήρθε παραμένει σχεδόν το ίδιο, αλλά έχει βελτιωθεί η γενική του κατάσταση , κάνει και δουλειές που πριν βαριόταν να κάνει ή δεν άντεχε. Έχουμε μειώσει δύο πολύ σημαντικά φάρμακα και φαίνεται πως το ανέχεται καλώς.&#13;
+Συνεχίζουμε sulphur 18ch</analysis>
+      <conclusion>σωστή θεραπεία ,καλό αποτέλεσμα</conclusion>
+      <repertorization>
+        <desc>---</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>sulphur </remedy>
+        <potency>18ch</potency>
+        <regimen>18 ch χ 1, για 20 μέρες</regimen>
+        <other_notes>Στο τελευταίο follow up , εννιά μήνες μετά , είχαμε φτάσει στο 30 ch, ο ασθενής ανέφερε στηθαγχικό ενόχλημα που δεν είχε ξαναεμφανίσει, μετά από στρες. &#13;
+Επιδείνωση . Διέκοψα το φάρμακο και τον παρέπεμψα για στεφανιογραφία.Λόγω του βάρους του δεν βρίσκει εύκολα εργαστήριο που να τον δέχεται (δεν υπάρχουν πολλά αιμοδυναμικά εργαστήρια που να έχουν μηχανήματα για ασθενείς &gt;130kg). Ακόμη δεν έχει κάνει στεφανιογραφία- Δεν έχει εμφανίσει άλλο επεισόδιο στηθάγχης. </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL977d7fee91593a060d9fe7c1146f0ae1</ID>
+  <patient>
+    <case_date>2016-11-27 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Κ.Σ</patient_initials>
+    <age>30</age>
+    <circumstances>παντρεμένη , 1 παιδί , δεν καπνίζει , εκπαιδευτικός</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>εμφανίστηκε εδώ και  1 χρόνο</origin>
+        <causative_factors>όταν πήρε μετάθεση λόγω δουλειάς σε άλλη πόλη , ένιωσε μεγάλη θλίψη και απογοήτευση(2) επειδή δεν την υποστήριξαν από την οικογένεια της(ο σύζυγος).</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>δε ωοθήκη</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>συχνοί πονοκέφαλοι από το πρωί μέχρι το μεσημέρι συνήθως ,συσφικτικοί  &#13;
+έρπης επιχείλιος &#13;
+Όταν ανεβαίνει σκαλιά λαχανιάζει&#13;
+σπάνε τα νύχια(2)&#13;
+νιώθει πλαδαρή&#13;
+μετά τη σεξουαλική επαφή τρέμουν οι μηροί της</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>σοκολατοειδή (ενδομητριωσική) κύστη  ΔΕ ωοθήκης</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>όλα τα κλασσικά εμβόλια , όπως επίσης και για τον HPV&#13;
+οχι κατασταλτικές θεραπείες</therapies_vaccination>
+          <traumas>2010 έπεσε από σκαλιά και έχει πρόβλημα στη μέση ΑΡ -ισχιαλγία&#13;
+μετά τη γέννα ανέπτυξε νευρικότητα , ευαισθησία και κλάμα ( πιθανή επιλόχεια κατάθλιψη)</traumas>
+          <infections>δεν αναφέρει</infections>
+          <other>νιώθει κουρασμένη , αγχωμένη  "έχει φτάσει στο αμήν" να τα προλάβει όλα με το μεταπτυχιακό και το μωρό.&#13;
+Νιώθει οτι έχει πάει χαράμι ο κόπος της.Νιώθει κάποιες φορές αδιαφορία από το σύζυγο και ότι δεν την στήριξε στην προσπάθεια της.</other>
+        </personal>
+        <family>
+          <diseases>πατέρας ΑΥ&#13;
+μητέρα τίποτε </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει(2)&#13;
+ιδρώνει στο λαιμό (3)</reactions>
+        <sleeping_habits>κοιμάται στο πλάι ΔΕ(2) , όχι μπρούμυτα&#13;
+ξυπνά κουρασμένη(2) &#13;
+όχι όνειρα</sleeping_habits>
+        <food_modalities>DES: γλυκά(3), σοκολάτα(3),κρέας (2), αλάτι(4) , λίπος(1) ,αυγό βραστό(4) μελιτζάνες (3)&#13;
+AVERS χοιρινό(1)&#13;
+νερό λίγο ,όχι κρύο  ,όχι παγάκια </food_modalities>
+        <menstruation>νιώθει πρήξιμο στο στήθος πριν τη Ε.Ρ.(1) </menstruation>
+      </physical>
+      <mental_emotional>Είναι πεισματάρα , κάνει υπομονή , κυκλοθυμική(2) , νευρική ,ευαίσθητη , κλειστή (2), εσωστρεφής. Κλαίει (2)μόνη της, μπορεί η παρηγοριά να την ενοχλήσει(1) .Είναι της τάξης(2). Κρατά τη θλίψη μέσα της , σκληρή. θέλει παρέα(1) αλλά Θέλει να μένει λίγο μόνη.&#13;
+Θέλει γενικά να προχωρά όχι με την έννοια της καριέρας ( να εξελίσσεται).Είναι κολλημένη στο παιδί της. Θέλει οπωσδήποτε να έχει δουλειά, ίσως επειδή δεν έχει στήριξη από το σπίτι. Νιώθει ότι την "άδειασε" (ο σύζυγος).&#13;
+fear :αρρώστια (2) ύψη (1) ,ατυχήματα , δεν θέλει να ακούει κακά πράγματα .&#13;
+ξεχνά.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>προ 2 ετίας  έκανε 40o  C (έχει αρρωστήσει 6-7 φορές στη ζωή της)&#13;
+έχει κάνει 1 καισαρική τομή</personal_medical_history>
+        <family_medical_history>πατέρας ΑΥ&#13;
+μητέρα δεν αναφέρει</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>περιμένουμε αρχική επιδείνωση</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>EXTREMITIES ­ TREMBLING ­ Thigh ­ coition (sex), after 1&#13;
+SLEEP ­ UNREFRESHING 2&#13;
+GENERALITIES ­ SLEEP ­ afternoon ­ agg. 2&#13;
+BACK ­ PERSPIRATION ­ Cervical region 3&#13;
+EXTREMITIES ­ NAILS ­ brittle 2&#13;
+CHEST ­ SWELLING ­ Mammae ­ menses ­ before 1</peculiar>
+        <intense>GENITALIA­FEMALE ­ ENLARGED ­ ovaries ­ right 2&#13;
+GENITALIA­FEMALE ­ TUMORS ­ Ovaries ­ cysts 2&#13;
+MIND ­ DISAPPOINTMENT ­ ailments from 2&#13;
+SLEEP ­ POSITION ­ side, on ­ right 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chocolate ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ meat ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ desire 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ eggs ­ desire 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ eggs ­ desire ­ boiled ­ hard 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ pork ­ aversion 1&#13;
+PERSPIRATION ­ PERSPIRATION in general 3&#13;
+MIND ­ CONSOLATION ­ agg. 1&#13;
+CHILL ­ COLDNESS in general 2&#13;
+MIND ­ RESERVED 2&#13;
+MIND ­ MOOD ­ changeable, variable, etc. 2&#13;
+MIND ­ WEEPING, tearful mood, etc. 2&#13;
+MIND ­ ANXIETY ­ health, about 1&#13;
+HEAD ­ PAIN (headache) ­ daytime 1&#13;
+MIND ­ COMPANY ­ desire for 1&#13;
+MIND ­ FEAR ­ high places, of 1&#13;
+BACK ­ PERSPIRATION ­ Cervical region ­ sleep, in 2&#13;
+MIND ­ FEAR ­ happen, something (bad), will 1&#13;
+GENERALITIES ­ FLABBY ­ feeling 1&#13;
+MIND ­ FEAR ­ cancer 1&#13;
+EXTREMITIES ­ COLDNESS ­ Foot 1&#13;
+GENERALITIES ­ EXERTION, physical ­ agg. 1&#13;
+RESPIRATION ­ DIFFICULT (Dyspnoea) ­ exertion ­ after 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ slimy food ­ aversion 1</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENITALIA­FEMALE ­ ENLARGED ­ ovaries ­ right 2&#13;
+GENITALIA­FEMALE ­ TUMORS ­ Ovaries ­ cysts 2&#13;
+MIND ­ DISAPPOINTMENT ­ ailments from 2&#13;
+SLEEP ­ UNREFRESHING 2&#13;
+GENERALITIES ­ SLEEP ­ afternoon ­ agg. 2&#13;
+SLEEP ­ POSITION ­ side, on ­ right 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chocolate ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ meat ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ desire 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ eggs ­ desire 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ eggs ­ desire ­ boiled ­ hard 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ pork ­ aversion 1&#13;
+PERSPIRATION ­ PERSPIRATION in general 3&#13;
+BACK ­ PERSPIRATION ­ Cervical region 3&#13;
+MIND ­ CONSOLATION ­ agg. 1&#13;
+EXTREMITIES ­ NAILS ­ brittle 2&#13;
+CHILL ­ COLDNESS in general 2&#13;
+MIND ­ RESERVED 2&#13;
+MIND ­ MOOD ­ changeable, variable, etc. 2&#13;
+MIND ­ WEEPING, tearful mood, etc. 2&#13;
+MIND ­ ANXIETY ­ health, about 1&#13;
+HEAD ­ PAIN (headache) ­ daytime 1&#13;
+MIND ­ COMPANY ­ desire for 1&#13;
+MIND ­ FEAR ­ high places, of 1&#13;
+BACK ­ PERSPIRATION ­ Cervical region ­ sleep, in 2&#13;
+MIND ­ FEAR ­ happen, something (bad), will 1&#13;
+EXTREMITIES ­ TREMBLING ­ Thigh ­ coition (sex), after 1&#13;
+GENERALITIES ­ FLABBY ­ feeling 1&#13;
+MIND ­ FEAR ­ cancer 1&#13;
+EXTREMITIES ­ COLDNESS ­ Foot 1&#13;
+GENERALITIES ­ EXERTION, physical ­ agg. 1&#13;
+RESPIRATION ­ DIFFICULT (Dyspnoea) ­ exertion ­ after 1&#13;
+CHEST ­ SWELLING ­ Mammae ­ menses ­ before 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ slimy food ­ aversion 1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>calcarea carbonica</remedy>
+        <potency>200CH 1M</potency>
+        <regimen>200chX1   1MX1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-01-20 21:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

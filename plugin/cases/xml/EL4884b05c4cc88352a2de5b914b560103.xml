@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4884b05c4cc88352a2de5b914b560103</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>ΘΑΛΕΙΑ Π.</patient_initials>
+    <age>41</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ ΜΕ ΕΝΑ ΠΑΙΔΙ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ ΤΟ 2009 ΠΟΥ ΓΕΝΝΗΘΗΚΕ Η ΚΟΡΗ ΤΗΣ ΞΕΚΙΝΗΣΑΝ ΟΙ ΗΜΙΚΡΑΝΙΕΣ ΤΗΣ</origin>
+        <causative_factors>Η ΙΔΙΑ ΤΟ ΑΠΟΔΙΔΕΙ ΣΤΗΝ ΑΥΠΝΙΑ ΕΠΕΙΔΗ ΞΥΠΝΑΓΕ ΜΕ ΤΟ ΠΑΙΔΙ ΤΑΚΤΙΚΑ</causative_factors>
+        <modalities>Ο ΠΟΝΟΚΕΦΑΛΟΣ ΑΝΑΚΟΥΦΙΖΟΤΑΝ  ΜΕ ΤΟΝ ΕΜΕΤΟ. ΕΚΑΝΕ ΚΑΙ 20 ΕΜΕΤΟΥΣ ΤΗΝ ΗΜΕΡΑ ΠΟΥ ΚΑΤΕΛΗΓΑΝ ΧΟΛΩΔΕΙΣ. &#13;
+ ΜΕΤΑ ΝΟΣΗΛΕΥΟΤΑΝ  ΕΞΑΙΤΙΑΣ ΑΦΥΔΑΤΩΣΗΣ.&#13;
+Η ΗΜΙΚΡΑΝΙΑ ΤΗΣ ΞΕΚΙΝΑΕΙ ΜΕΤΑ ΑΠΟ STRESS.&#13;
+ΑΝ ΚΑΘΗΣΕΙ ΣΕ ΡΕΥΜΑ ΑΕΡΑ ΜΕΤΑ ΑΠΟ ΔΥΟ ΜΕΡΕΣ ΑΡΧΙΖΕΙ Η ΗΜΙΚΡΑΝΙΑ</modalities>
+        <occurrence_time>ΟΤΑΝ ΑΡΧΙΖΕ Η ΠΕΡΙΟΔΟΣ ΣΤΑΜΑΤΟΥΣΕ Ο ΠΟΝΟΚΕΦΑΛΟΣ ΑΛΛΑ ΗΔΗ ΕΙΧΕ ΣΥΜΠΛΗΡΩΣΕΙ ΤΡΕΙΣ ΜΕΡΕΣ.  ΤΟ ΘΕΩΡΕΙ ΛΙΓΟ ΣΧΕΤΙΚΟ ΛΙΓΟ ΑΣΧΕΤΟ&#13;
+Η ΕΝΑΡΞΗ ΤΗΣ ΗΜΙΚΡΑΝΙΑΣ ΕΜΦΑΝΙΖΕΤΑΙ ΤΑΚΤΙΚΟΤΕΡΑ ΣΤΗΝ ΠΑΝΣΕΛΗΝΟ.&#13;
+ΒΕΛΤΙΩΝΕΤΑΙ ΑΝ ΜΠΟΡΕΣΕΙ ΝΑ ΚΟΙΜΗΘΕΙ.</occurrence_time>
+        <body_side>ΑΡΙΣΤΕΡΗ ΗΜΙΚΡΑΝΙΑ ΚΑΙ ΦΟΒΕΡΟ ΠΟΝΟ ΣΤΟΝ ΑΥΧΕΝΑ</body_side>
+        <appearence_frequency>2 ΦΟΡΕΣ ΤΟ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>ΞΕΚΙΝΑΕΙ ΓΥΡΩ ΣΤΙΣ 4-5 ΤΑ ΞΗΜΕΡΩΜΑΤΑ ΠΙΟ ΕΛΑΦΡΑ ΜΕ ΠΟΝΟ ΣΤΟ ΜΕΤΩΠΟ ΚΑΙ ΠΙΣΩ ΑΠΟ ΤΟ ΜΑΤΙ ΑΛΛΑ ΠΑΛΙ ΜΕ ΕΜΕΤΟΥΣ ΚΑΙ ΓΥΡΩ ΣΤΙΣ 10 ΤΟ ΠΡΩΙ ΕΙΝΑΙ ΣΕ ΠΛΗΡΗ ΕΞΑΡΣΗ ΜΕ ΠΟΛΥ ΠΟΝΟ ΚΑΙ ΣΤΟΝ ΑΥΧΕΝΑ (ΠΑΝΤΑ ΚΑΙ ΜΟΝΟ ΑΡΙΣΤΕΡΑ)ΠΟΥ ΤΗΝ ΑΝΑΓΚΑΖΕΙ ΝΑ ΠΑΡΑΜΕΙΝΕΙ ΚΛΙΝΗΡΗΣ.&#13;
+ΟΙ ΠΟΝΟΙ ΕΙΝΑΙ ΣΑΝ ΣΦΥΡΙΕΣ&#13;
+ΚΡΑΤΑΕΙ 2,5 ΕΩΣ 3 ΜΕΡΕΣ</pain_desc>
+        <complaint_ext>.</complaint_ext>
+        <other_complaints>.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΣΤΙΣ ΚΡΙΣΕΙΣ ΗΜΙΚΡΑΝΙΑΣ&#13;
+MESOULID  ΔΥΟ ΦΟΡΕΣ ΤΗΝ ΗΜΕΡΑ ΧΩΡΙΣ ΙΔΙΑΙΤΕΡΑ ΑΠΟΤΕΛΕΣΜΑΤΑ&#13;
+Ή VOLTAREN ΤΩΝ 75mg H 100mg&#13;
+ΚΑΙ PRIMPERAN ΕΝΕΣΙΜΟ ΓΙΑ ΤΟΥΣ ΕΜΕΤΟΥΣ</conv_med_presc>
+        <lab_tests>
+          <desc>.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>SPIGELIA 200CH KAI SPIGELIA 1M ΑΙΣΘΑΝΕΤΑΙ ΟΤΙ ΤΗ ΒΟΗΘΗΣΕ&#13;
+KALI BICHROMICUM 1M ΑΝΑΦΕΡΕΙ ΕΠΙΣΗΣ ΟΤΙ ΤΗ ΒΟΗΘΗΣΕ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΤΟΥΣ ΠΡΟΒΛΕΠΟΜΕΝΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ.&#13;
+ΑΝΑΦΕΡΕΙ ΟΤΙ ΠΗΡΕ ΑΝΤΙΒΙΩΣΗ ΤΟ 2010 ΑΠΟ ΠΑΘΟΛΟΓΟ ΓΙΑΤΙ ΕΠΑΘΕ  ΨΥΞΗ ΚΑΙ ΤΟ 2013 ΠΗΡΕ ΑΝΤΙΒΙΩΣΗ ΓΙΑΤΙ ΑΡΡΩΣΤΗΣΕ ΑΠΟ ΠΝΕΥΜΟΝΙΑ.</therapies_vaccination>
+          <traumas>ΔΕΝ ΑΝΕΦΕΡΕ ΚΑΤΙ</traumas>
+          <infections>ΣΤΗΝ ΠΝΕΥΜΟΝΙΑ ΕΚΑΝΕ ΠΥΡΕΤΟ 39 ΜΕ ΠΟΛΥ ΠΟΝΟ ΣΤΟ ΝΕΦΡΟ.</infections>
+          <other>.</other>
+        </personal>
+        <family>
+          <diseases>ΟΙ ΓΟΝΕΙΣ ΕΙΝΑΙ ΥΓΙΕΙΣ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΩΣ ΑΤΟΜΟ ΚΡΥΩΝΕΙ. ΘΕΛΕΙ ΖΕΣΤΗ.&#13;
+Ο ΗΛΙΟΣ ΟΤΑΝ ΕΙΝΑΙ ΕΝΤΟΝΟΣ ΤΗΝ ΕΠΙΔΕΙΝΩΝΕΙ(ΠΡΟΤΙΜΑΕΙ ΝΑ ΕΙΝΑΙ ΣΤΗ ΣΚΙΑ)</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΣΥΝΗΘΩΣ ΣΤΟ ΔΕΞΙ ΠΛΑΙ. ΠΟΙΟΤΗΤΑ ΥΠΝΟΥ ΚΑΛΗ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΤΑ ΑΛΜΥΡΑ (ΓΑΡΙΔΑΚΙΑ, ΣΚΟΥΜΠΡΙ).&#13;
+ΔΕΝ ΘΕΛΕΙ ΚΑΘΟΛΟΥ ΛΙΠΟΣ ΣΤΟ ΚΡΕΑΣ&#13;
+ΑΡΕΣΕΙ ΤΟ ΞΥΔΙ&#13;
+ΑΠΕΧΘΑΝΕΤΑΙ ΤΑ ΑΥΓΑ&#13;
+ΔΕΝ ΔΙΨΑΕΙ</food_modalities>
+        <menstruation>Η ΠΕΡΙΟΔΟΣ ΕΡΧΕΤΑΙ ΚΑΘΕ 26 ΜΕΡΕΣ ΚΑΙ ΚΡΑΤΑΕΙ 4 ΜΕΡΕΣ. &#13;
+ΡΟΗ ΚΑΝΟΝΙΚΗ ΠΡΟΣ ΛΙΓΗ</menstruation>
+      </physical>
+      <mental_emotional>ΕΣΩΣΤΡΕΦΕΣ ΑΤΟΜΟ.  ΔΕΝ ΚΛΑΙΕΙ ΜΠΡΟΣΤΑ ΣΕ ΑΛΛΟΥΣ ΠΟΤΕ.&#13;
+Η ΣΕΞΟΥΑΛΙΚΗ ΤΗΣ ΕΠΙΘΥΜΙΑ ΕΙΝΑΙ ΜΕΤΡΙΑ </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>ΟΛΑ ΤΗΣ ΤΑ ΘΕΜΑΤΑ ΜΕ ΤΗΝ ΥΓΕΙΑ ΤΗΣ ΞΕΚΙΝΗΣΑΝ ΑΠΟ ΤΟ 2009 ..&#13;
+ΕΠΑΘΕ ΠΝΕΥΜΟΝΙΑ ΤΟ ΦΕΒΡΟΥΑΡΙΟ ΤΟΥ 2013</personal_medical_history>
+        <family_medical_history>Η ΓΙΑΓΙΑ ΑΠΟ ΤΗΝ ΠΛΕΥΡΑ ΤΗΣ ΜΑΜΑΣ  ΠΕΘΑΝΕ ΑΠΟ ΚΑΡΔΙΑ ΕΝΩ Ο ΠΑΠΠΟΥΣ ΕΧΕΙ ΝΕΦΡΙΚΗ ΑΝΕΠΑΡΚΕΙΑ. Ο ΠΑΠΠΟΥΣ ΑΠΟ ΤΗΝ ΠΛΕΥΡΑ ΤΟΥ ΜΠΑΜΠΑ ΠΕΘΑΝΕ ΑΠΟ ΚΑΡΚΙΝΟ ΚΑΙ Η ΓΙΑΓΙΑ ΠΕΘΑΝΕ ΑΠΟ ΕΓΚΕΦΑΛΙΚΟ.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>.ΚΑΝΕΙ ΥΨΗΛΟ ΠΥΡΕΤΟ ΣΤΗΝ ΠΕΡΙΠΤΩΣΗ ΤΗΣ ΠΝΕΥΜΟΝΙΑΣ.&#13;
+ΟΙ ΓΟΝΕΙΣ ΤΗΣ ΕΙΝΑΙ ΥΓΙΕΙΣ&#13;
+ΑΛΛΑ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΤΗΣ ΕΠΙΜΕΝΟΥΝ ΑΡΚΕΤΑ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΑΡΚΕΤΕΣ ΦΟΡΕΣ ΕΠΙΔΕΙΝΩΝΕΤΑΙ ΚΑΤΑ ΤΗΝ ΠΑΝΣΕΛΗΝΟ(2) </peculiar>
+        <intense>ΕΠΙΘΥΜΕΙ ΑΛΑΤΙ(3)&#13;
+ΕΝΤΟΝΟΥΣ ΕΜΕΤΟΥΣ ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΤΩΝ ΗΜΙΚΡΑΝΙΩΝ(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>NATRIUM MURIATICUM KAI SEPIA</remedies_differentiation>
+      <prescription>
+        <remedy>NATRIUM MURIATICUM </remedy>
+        <potency>200CH</potency>
+        <regimen>1 ΚΑΨΟΥΛΑ</regimen>
+        <other_notes>..</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>ΜΙΑ ΦΟΡΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΑΡΕΙ PRIMPERAN ΣΕ ΔΙΑΣΤΗΜΑ 8 ΜΗΝΩΝ</conv_med_presc>
+      <lab_tests>
+        <desc>.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΣΤΗΝ ΑΡΧΗ ΕΠΙΔΕΙΝΩΘΗΚΕ ΓΙΑ 1 ΜΕΡΑ ΚΑΙ ΠΗΡΕ PRIMPERAN ΔΙΣΚΙΟ&#13;
+ΑΝΑΦΕΡΕΙ ΣΑΦΗ ΒΕΛΤΙΩΣΗ ΜΕ ΤΟΥΣ ΠΟΝΟΚΕΦΑΛΟΥΣ ΓΥΡΩ ΣΤΟ 90 %. &#13;
+</reaction>
+      <analysis>ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΠΟΥ ΑΚΟΛΟΥΘΗΘΗΚΕ ΑΠΟ ΣΑΦΗ ΒΕΛΤΙΩΣΗ</analysis>
+      <conclusion>ΤΟ ΟΜΟΙΟΠΑΘΗΤΙΚΟ ΦΑΡΜΑΚΟ ΗΤΑΝ ΣΩΣΤΟ. ΠΕΡΙΜΕΝΟΥΜΕ</conclusion>
+      <repertorization>
+        <desc>.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>.</remedy>
+        <potency>.</potency>
+        <regimen>.</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

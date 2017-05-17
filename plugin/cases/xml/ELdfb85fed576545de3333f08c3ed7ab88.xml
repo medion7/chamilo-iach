@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELdfb85fed576545de3333f08c3ed7ab88</ID>
+  <patient>
+    <case_date>2014-06-21 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Χ.Ε.</patient_initials>
+    <age>42</age>
+    <circumstances>Νυμφευμένος. 2 παιδιά. Μηχανικός ανελκυστήρων.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ψωρίαση από 18 ετών με εμφάνισει έντονη στο τριχωτό της κεφαλής, στην πλάτη (μεγάλη επιφάνεια) και διάσπαρτα και από λίγο στο υπόλοιπο σώμα.  ΤΟΤΕ ΑΠΟ ΕΡΩΤΙΚΗ ΑΠΟΓΟΗΤΕΥΣΗ .&#13;
+Τότε χρησιμοποίησε τοπικά αλοιφές.Έκανε βελονισμό με βελτίωση 100%.Μέχρι την ηλικία των 25 εμφανιζόταν κάποιο μικρό σημαδι το οποίο εξαφανιζόταν. Από τα 25 και μετά επανεμφάνιζεται πιο έντονα με σταδιακή επιδείνωση. Περιοχές: Τριχωτο (κυρίως γύρω από τα αυτιά), αγκώνες, κνήμες (στις κνήμες επιμένουν για χρόνια), και λιγότερο στα νύχια.Σποραδικά εμφανίζεται και σε άλλα σημεία του σώματος. &#13;
+Ο ήλιος δεν τον βοηθάει.   Έχει επεκταθεί και στις αρθρώσεις (ψωριασική αρθρίτις) έγινε αντιληπτό πριν από ένα χρόνο (εξαιτίας λήψης Neoral που τον βελτίωσε).&#13;
+ΔΕΝ ΕΧΕΙ ΠΑΡΕΙ ΑΠΟ ΤΟ ΣΤΟΜΑ ΑΠΟ ΤΟΝ ΔΕΚΕΜΒΡΙΟ ΚΑΙ ΜΕΤΑ.&#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Neodigason, Dovobent, Neoral, Zirtek.</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other>-Γαστρεντερίτιδες (ιογενείς) φέτος τον χειμώνα.&#13;
+-Αναφέρει έναν συνεχή βήχα παραγωγικός (άσπρο) τους τελευταίους μήνες.&#13;
+-Κρυολογήματα (εμπύρετο 39, με τελευταίο τον Φεβρουάριο), &#13;
+-Αλλεργία από πέρσι τον Φεβρουάριο με ρινική καταρροή (στην γύρη)&#13;
+-Είχε αιμορροΐδες τα τελευταία 4 χρόνια.&#13;
+-Μυκητιάσεις στα γεννητικά.&#13;
+-Στο γυμνάσιο είχε καθυστερημένη μυοσκελετική ανάπτυξη.&#13;
+-Ωτίτιδες σε παιδική ηλικία και αμυγδαλίτιδες.&#13;
+-Δεν καπνίζει, το έχει κόψει εδώ και 5 περίπου χρόνια.&#13;
+Χρήση ινδικής κάνναβης στην φοιτητική περίοδο μέχρι και την ηλικία των 30. («είχα ξεφύγει», «έχω δοκιμάσει τα πάντα»).Εκείνη την περίοδο δεν είχε έξαρση.&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>Ιστορικό Ca (πατέρας με Ca πνεύμονος , απεβίωσε 3/12 και η γιαγιά του (η μητέρα του πατέρα του) με Ca).</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Όταν είναι έντονη η ζέστη «οι δυνάμεις μου με εγκαταλείπουν».&#13;
+Αντέχω περισσότερο το κρύο από την ζέστη.&#13;
+</reactions>
+        <sleeping_habits>Δεν είναι καλός. Ο μεγάλος υιός κοιμάται πάντοτε με κάποιον από τους γονείς.  Κοιμάται δεξιά στο πλάι.</sleeping_habits>
+        <food_modalities>Desires:    κρέας 3, ρύζι 3,   ψαρι, κοτόπουλο, ξηρούς καρπούς 2, αλάτι, λεμόνι.&#13;
+Aversions:     λαδερα, φακες 2                       &#13;
+Thirst: τον χειμώνα λίγο, το καλοκαίρι παρα πολύ. Δροσερό.	&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Αγχώδης (στην εργασία, αγχώνομαι πολύ με το μέλλον των παιδιών μου, την οικονομική αποκατάστασή  τους.)&#13;
+Προ 5ετίας όταν έμαθε πως ο πατέρας του αρρώστησε «ήρθε ο κόσμος ανάποδα, έπαθα σοκ». «Γεννούσε η γυναίκα μου και δεν κατάλαβα τίποτα».»Σκλήρυνα σαν άνθρωπος. Άρχισα και οριοθετώ τα πάντα»&#13;
+Ριψοκίνδυνος (κάνει extreme sports)&#13;
+Ανώριμος 2 (ότι μπορώ να το ζήσω σε αυτήν την ζωή να το ζήσω)&#13;
+Κοινωνικός 3 &#13;
+«Δίνω δεύτερη ευκαιρία, δεν κρατάω κακία»&#13;
+Φοβίες: δεν μπορεί να βουτήξει στην θάλασσα όταν είναι σκοτεινά τα νερά.&#13;
+ Δεν του αρέσουν οι γάτες.&#13;
+Έχω χάσει την πίστη μου στην θρησκεία .Έχω αρχίσει να πιστεύω πως δεν υπάρχει τίποτα.&#13;
+Λειτουργώ καλλίτερα το βράδυ.&#13;
+Fastidious &#13;
+Υπάρχει ερωτική επιθυμία , αλλά λόγω παιδιών και κούρασης δεν υπάρχει η ανταπόκριση που θα ήθελε. «με τα δυο αγοράκια έχει ρίξει η σύζυγος όλο το βάρος έκει».&#13;
+-«τρελαίνομαι για την θάλασσα».</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>SKIN ERUPTIONS psoriasis 2&#13;
+EXTREMITIES INFLAMMATION Joints 1&#13;
+RECTUM HAEMORRHOIDS 1&#13;
+GENERALITIES HISTORY family (Inheritance) cancer 1&#13;
+GENERALITIES SEASHORE, at the amel. 2&#13;
+GENERALITIES FOOD and DRINKS meat desire 2&#13;
+GENERALITIES FOOD and DRINKS rice desire 2&#13;
+GENERALITIES FOOD and DRINKS lemons desire 1&#13;
+GENERALITIES FOOD and DRINKS salt desire 1&#13;
+MIND COMMUNICATIVE 2&#13;
+MIND FEAR cats 1&#13;
+MIND ARDENT 2&#13;
+MIND EXHILARATION night 1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Medorrhinum</remedy>
+        <potency>1M</potency>
+        <regimen>1M/1cps, Nat-s 6x.</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Δεν παίρνει κάτι.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>6/9/2014&#13;
+Μετά από την έναρξη της θεραπείας (2-3 ημέρες) είχε έξαρση (κυρίως στα γεννητικά και στην γύρω περιοχή).&#13;
+Βρογχίτιδα μετά την έναρξη της θεραπείας (10 ήμερο), με εμπύρετο 38,3 (είχε δέκατα για 3-4 ημέρες) «ερχόταν έφευγε» με έντονη δύσπνοια και παραγωγικό βήχα. Έγινε προσπάθεια με ομοιοπαθητικά, χωρίς αποτέλεσμα, πήρε εισπνεόμενα και αντιβίωση.&#13;
+Τρείς ημέρες από την έναρξη της αντιβίωσης κάποια ενόχληση που είχε στο αρ. αυτί εξελίχθηκε σε ωτίτιδα άμφω. (Augmendin για 10 ημέρες).&#13;
+Μετά τα οξέα, υπάρχει μια κατάσταση έξαρσης (έντονο κνησμό και κοκκινίλες) και ύφεσης (χωρίς κνησμό και ασπριζουν τα σημεία), με εναλλαγές ανά ημέρα ή διήμερο.&#13;
+&#13;
+Με την ψωριασική αρθρ. δεν υπάρχει κάποια επιδείνωση. Τις πρώτες ημέρες από την έναρξη της θεραπείας είχε μια βελτίωση στην ευλυγισία και στην αντοχή, αλλά τις τελευταίες ημέρες αισθάνεται ένα πισωγύρισμα. &#13;
+ «ενεργειακά είμαι πάρα πολύ καλά»&#13;
+Έχει  περισσότερα νεύρα (το καταλαβαίνει με τα παιδιά του, δεν έχει πολύ υπομονή).&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Medorrhinum</remedy>
+        <potency>1M</potency>
+        <regimen>1M/1cps, Nat-s 6x.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>10/1/2015&#13;
+Εδώ και ένα μήνα είναι σε έξαρση στο δερματικό, αλλά είναι καλύτερα με τις αρθρώσεις, μόνο μικρή ενόχληση.(συγκριτικά με πέρσι  καλλίτερα).&#13;
+Έχει  μια γενική έξαρση στο δερματικό, σε όλο τα σώμα , έντονα , με έντονο κνησμό.&#13;
+Δύσκολα υποχωρούν και εύκολα επανέρχονται.  Ευκολότερα υποχωρούν στο πρόσωπο και τα γεννητικά. Δεν έβαλε καμία κορτιζονούχα αλοιφή.&#13;
+&#13;
+Έχει έντονη δυσκοιλιότητα ανά περιόδους με έντονους πόνους κατά την αφόδευση. Κόπρανα σαν πετρες και ευμεγέθη. Εαν έχει να πάει μέρες (σπάνια) τον διπλώνει στα δύο ο πόνος. Εδώ και 20 ημέρες δεν του έχει παρουσιαστεί.&#13;
+&#13;
+Γενικά είναι καλά, ευχαριστημένος από την καθημερινότητά του, λόγω του ότι τα παιδιά κοιμούνται πια στον χώρο τους , έχει βελτιωθεί και η ερωτική ζωή.&#13;
+Ενεργειακά είναι καλά αλλά όχι όπως στην αρχή της θεραπείας.&#13;
+</reaction>
+      <analysis>-</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>placebo</remedy>
+        <potency>6x</potency>
+        <regimen>6x daily.</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc>Εξετάσεις από27/02/2015:  CRP: 4&#13;
+                                            ΤΚΕ: 15&#13;
+Ερυθρά: 3.94&#13;
+HGB: 12.50&#13;
+Ht 38.3&#13;
+&#13;
+Αιμοπετάλια, μέσος όγκος: 6.40&#13;
+Μικροσκοπική εξέταση: υποχρωμία +&#13;
+                                    Ανισοχρωμία +&#13;
+</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>14/3/2015&#13;
+Γενικά καλλίτερα,  αισθητή διαφορά, υποχωρούν στα γόνατα, αγκώνες. Ο κνησμός έχει υποχωρήσει πολύ. &#13;
+Γεννητικά καλύτερα.&#13;
+Νύχια πολύ καλλίτερα.&#13;
+Καλλίτερα στις αρθρώσεις. Και στην ευλυγισία, αντοχή κτλ.&#13;
+&#13;
+Δυσκοιλιότητα πολύ καλύτερα.&#13;
+Πέρασε μια ίωση προ 20 ημέρου, χωρίς εμπύρετο, μόνο με κρυάδες και ήπιες αρθραλγίες.&#13;
+Ύπνος καλός.&#13;
+Αισθάνεται κούραση με υπνηλία. Κυρίως προς το μεσημέρι.(δεν έχει προηγηθεί γεύμα). «θέλω να τεμπελιάσω λίγο περισσότερο»&#13;
+Νεύρα . Εκνευρίζεται εύκολα, κυρίως το πρωί, φωνάζει, «δεν αφήνω τίποτα να πέσει κάτω».&#13;
+             Βιασύνη στην σκέψη («σκέφτομαι εκατό πράγματα ταυτόχρονα»)&#13;
+             Θέλει να ξεχωρίζει στην δουλειά του, θέλει την επιβράβευση.&#13;
+             Δεν πάει σε τουαλέτες (Σιχαίνεται και φοβάται μην κολλήσει κάτι)&#13;
+            Τρώει αλλαντικά 2, κρέας 2 (και το λίπος), πικάντικα2, λεμόνι, &#13;
+            (Παγάκια μασάει σπάνια)&#13;
+             Η θάλασσα του αρέσει &#13;
+               Κρυώνει&#13;
+           &#13;
+            Ερωτική διάθεση είναι πιο ήρεμη σε σχέση με πριν από 6 μήνες.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>placebo</remedy>
+        <potency>6x</potency>
+        <regimen>6x daily.</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

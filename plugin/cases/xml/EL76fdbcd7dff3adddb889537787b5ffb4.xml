@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL76fdbcd7dff3adddb889537787b5ffb4</ID>
+  <patient>
+    <case_date>2015-10-28 11:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΣΡ</patient_initials>
+    <age>50</age>
+    <circumstances>Παντρεμένη, δύο παιδιά, ιδ. υπάλληλος        . Λήψη ιστορικού 18/4/15</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Η ασθενής, 49 ετών πάσχει απο πονοκεφάλους (3) δεξιά από την κροταφογναθική άρθρωση μέχρι πάνω απο το μάτι που δακρύζει κατα τον πονοκέφαλο. Τ α τελευταία 5 χρόνια η συχνότητα που παρουσιάζεται είναι μια φορά την εβδομάδα επι δύο μέρες. Δεν περνά με παυσίπονα. Τον εχει νύχτα- μέρα με μικρές υφέσεις.</origin>
+        <causative_factors>Η ασθενής τοποθετεί χρονικά την εμφάνιση των πονοκεφάλων πριν πέντε περίπου χρόνια αν και με μειωμένη συχνότητα και ένταση. Τότε  είχε χειρουργηθεί τρεις φορές σε διάστημα ενός χρόνου για αφαίρεση &lt;&lt;λανθάνουσας αμυγδαλής&gt;&gt; στις φωνητικές χορδές που υποτροπίαζε. Μετά ακολούθησε η λήψη κορτιζόνης για 5 χρόνια.Εδώ και 6 μήνες έχει σταματήσει. </causative_factors>
+        <modalities>Οι πονοκέφαλοι επιδεινώνονται με το στρες-κίνηση-θόρυβο-ζέστη-φως. Βελτιώνονται με την ησυχία και την ακινησία.Δεν σταμάτησαν με την διακοπή της κορτιζόνης που έγινε με σύσταση του γιατρού της.</modalities>
+        <occurrence_time>Δεν προσδιορίζει χρόνο.</occurrence_time>
+        <body_side>Δεξιά.</body_side>
+        <appearence_frequency>2 μέρες την εβδομάδα</appearence_frequency>
+        <pain_desc>Ως ανωτέρω</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Δυσκοιλιότητα (3) που εμφανίστηκε κατα το ίδιο διάστημα με τους πονοκεφάλους</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>παυσίπονα,κορτιζόνη</conv_med_presc>
+        <lab_tests>
+          <desc>Φυσιολογικές</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Καμία</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει κάνει όλα τα εμβόλια. Έχει πάρει κορτιζόνη επι 5 χρόνια</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Οι γονείς της (80 χρονών) είναι υγιέστατοι και δραστήριοι αγρότες. Δεν αναφέρουν κάτι ιδιαίτερο στο ιστορικό τους </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Περισσότερο ζεσταίνεται (2) ,την ενοχλεί η ζέστη του κρεβατιου</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα(2)  και ιδρώνει σε στήθος και κοιλιά(2) απο τότε που άρχισαν οι πονοκέφαλοι. Βλέπει λίγα όνειρα που συνήθως είναι ότι τρακάρει με το αυτοκίνητο και πέφτει στο κενό(2).</sleeping_habits>
+        <food_modalities>Επιθυμεί: αλάτι (2), κρέας (3), λίπος (3), τυριά (3)&#13;
+Απεχθάνεται τα κρεμμύδια (2) που της προξενόυν δυσπεψία και πόνο στο στομάχι.Τρώει πολύ και είναι υπέρβαρη(+15κιλά)</food_modalities>
+        <menstruation>Τακτική με πολύ αίμα, με κομμάτια επι τρεις μέρες. Βουλιμία πριν την περίοδο</menstruation>
+      </physical>
+      <mental_emotional>Γενικά την αναστατώνουν οι εντάσεις και οι κακές ειδήσεις(2).Κάνει μαύρες σκέψεις (2) ακόμα κι όταν είναι καλά και αυτό την αγχώνει(2).Κλαίει εύκολα(2), κλειστός άνθρωπος(3),δεν εμπιστεύεται εύκολα(3).Δεν έχει φίλους γιατί στο παρελθόν την είχαν προδώσει.Μειωμένη μνήμη(2) ,θολούρα(2) ,αφηρημάδα(2).Την συναναστρέφομαι προσωπικά και μου έκανε εντύπωση η κρυψίνοια και η μυστικοπάθεια της </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η καταπίεση της λανθάνουσας αμυγδαλής με τα συνεχή χειρουργεία και την κορτιζόνη δημιούργησε την βαθύτερη παθολογία των πονοκεφάλων και την πιο επιφανειακή  της δυσκοιλιότητας.Το γεγονός της τριπλής υποτροπής της αμυγδαλής μαρτυρά υγιή οργανισμό.Πραγματι ήταν υγιής και σπάνια αρρώσταινε. Τώρα έχει συχνά κρυολογήματα με συνάχι και βουλωμένη μύτη και λίγα δέκατα πυρετού,έχει επομένως κατέβει στο 6ο επίπεδο υγείας</personal_medical_history>
+        <family_medical_history>Υγιέστατοι και μακρόβιοι συγγενείς από πατέρα και μητέρα</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Γερός οργανισμός με καλή κληρονομική προδιάθεση, εξασθενημένος από κορτιζόνη.Με την κατάλληλη ομοιοπ.θεραπεία γρήγορα θ'ανέβει τα επίπεδα υγείας.  &#13;
+Η δυναμοποίηση δεν πρέπει να είναι υψηλή</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ονειρα ότι πέφτει(2)   &#13;
+Απέχθεια στα κρεμμύδια(2)</peculiar>
+        <intense>Εσωστεφής(3)          &#13;
+Κρυψίνους,μυστικοπαθής(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND SECRETIVE&#13;
+2&#13;
+MIND RESERVED&#13;
+3&#13;
+MIND FORGETFUL&#13;
+2&#13;
+MIND WEEPING,&#13;
+tearful mood, etc. 2&#13;
+MIND ANXIETY&#13;
+2&#13;
+HEAD PAIN&#13;
+(headache) SIDES&#13;
+right&#13;
+3&#13;
+RECTUM CONSTIPATION&#13;
+3&#13;
+GENERALITIES WARM&#13;
+agg.&#13;
+2&#13;
+SLEEP POSITION&#13;
+abdomen,&#13;
+on 2&#13;
+SLEEP DREAMS&#13;
+falling,&#13;
+of 2&#13;
+CHEST PERSPIRATION&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS salt&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS fat&#13;
+desire&#13;
+3&#13;
+GENERALITIES FOOD&#13;
+and DRINKS cheese&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS onions&#13;
+agg.&#13;
+2&#13;
+EXTREMITIES NAILS&#13;
+brittle&#13;
+finger&#13;
+nails 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>H εκλογή του φαρμάκου που είναι η thuja βασίστηκε στα keynotes και κυρίως στο essence του φαρμάκου.Ακόμα και η αρχική παθολογία (λανθάνουσα αμυγδαλή) ανήκει στην εικόνα του φαρμάκου</remedies_differentiation>
+      <prescription>
+        <remedy>THUJA</remedy>
+        <potency>2OOCH-6X</potency>
+        <regimen>200CH X1                    &#13;
+6X  X 20</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-28 10:00:00</followup_date>
+      <conv_med_presc>-1ο follow up 5/7/15. Σχεδόν 3 μήνες μετά</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά 3 μέρες είχε έντονη υπνηλία ,κοιμόταν ως και το μεσημέρι που ποτέ δεν το έκανε.Αυτό διάρκεσε 1 βδομάδα περίπου Οι πονοκέφαλοι και η δυσκοιλιότητα άρχισαν να μειώνονται σταδιακά.Τρείς μήνες μετά έχει πλήρως θεραπευτεί </reaction>
+      <analysis>Θεαματική θεραπεία ενός καταπονημένου,από αλλοπαθητικά , οργανισμού που κληρονομικά διαθέτει δυνατό αμυντικό σύστημα.</analysis>
+      <conclusion>Δεν δίνουμε φάρμακο</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL66c965cc9eae964943f10002335679d6</ID>
+  <patient>
+    <case_date>2015-08-19 07:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Γ.Γ</patient_initials>
+    <age>37</age>
+    <circumstances>παντρεμενη, 2 παιδια,&#13;
+ελ.επαγγελματιας</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>παρεση τριδυμου- αριστερα τα τελευταια 9 χρονια, μονιμο 'μπουκωμα' στην μυτη εκνευρισμος πολυς (ειδικα πριν την περιοδο)</origin>
+        <causative_factors>ειχε περασει ιατρικη και δν την αφησαν οι γονεις της να παει, την παντρεψαν , αισθανεται αδικημενη, 'αν δν ειχα κανει τα παιδια μου θα ειχα αυτοκτονησει'</causative_factors>
+        <modalities>&lt;την αλλαγη του καιρου, &gt;σε ξηρο καιρο</modalities>
+        <occurrence_time>&lt;ανοιξη</occurrence_time>
+        <body_side>αριστερα και η παρεση και γενικα περιγραφει αριστερα συμπτωματα</body_side>
+        <appearence_frequency>παρεση-ρινιτιδα καθημερινα, νευρα πολλα 2-3 μερες πριν απο καθε περιοδο</appearence_frequency>
+        <pain_desc>δν ποναει αλλα την ενοχλει που τραβαει η παρεση, κλινικα φαινεται το τραβηγμα στο χειλος και το αριστερο ματι αλλα σε μικρο βαθμο</pain_desc>
+        <complaint_ext>την πιανουν τα δοντια της αριστερα, ολη η αριστερη πλευρα εχει φλεγμονη, πολυσφραγισμενα δοντια, θηκες και παλι ολο κατι την ενοχλει</complaint_ext>
+        <other_complaints>αναφερει περιστασιακο πονο στο αριστερο γονατο</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>αντισταμινικα κυριως(xozal,aerius), spray για την μυτη</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>κορτιζονη και κορτιζονουχα σκευασματα που ανα καιρους της εχουν χορηγηση για παρεση και ρινιτιδα χωρις να βλεπει αποτελεσμα</therapies_vaccination>
+          <traumas>τραυματισμος στο ποδι που την αναγκασε να σταματησει το βολει ενω ηθελε να συνεχισει επαγγελματικα, αρνηση γονεων να σπουδασει, εχει παραδοθει στην μοιρα της</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>δν μιλαει για τους γονεις της, ουτε καν για το τι ασθενειες εχουν (θυμος)</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ουτε κρυωνει, ουτε ζεσταινεται</reactions>
+        <sleeping_habits>κοιμαται λιγες ωρες κ με αγχος, βλεπει ονειρα οτι την κυνηγανε, ανασκελα κοιμαται κυριως</sleeping_habits>
+        <food_modalities>μπορει να ζησει μονο με γλυκα, ολη μερα θελει κατι να τρωει, δν μπορει αν μεινει νηστικη για 2 ωρες συνεχομενα</food_modalities>
+        <menstruation>αρκετο σκουρο αιμα, κυκλοι αστατοι, μπορει καθε 36 μερες μπορει καθε 28, εκνευρισμος τοσος που ο αντρας της καθε μηνα πριν της ερθει περιοδος κοιμαται στο σαλονι</menstruation>
+      </physical>
+      <mental_emotional>πιεσμενη, αδικημενη απ την ζωη, 'ψυχαναγκαστικα τακτικη', κραταει σημειωσεις για τα παντα(και την ωρα που μου μιλαει)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>μετρια προγνωση, επιβαρυμενη, θεωρω οτι χρειαζεται ψυχολογικη υποστηριξη</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>νομιζω θα την βοηθησει η ομοιοπαθητικη σε πολλα επιπεδα αλλα θα χρειαστει πολυ καιρο κ καποια στιγμη και ψυχολογο γτ θεωρω οτι ειναι βαθια η διαταραχη, σπανια κανει πυρετο</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>αν δεν τελειωσει τις σημειωσεις της για την επομενη ημερα δν παει για υπνο(3)</peculiar>
+        <intense>9 χρονια παρεση(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>FACE - PARALYSIS - one-sided,MIND - FASTIDIOUS,GENERALITIES - FOOD and DRINKS - sweets - desire,&#13;
+&#13;
+EXTREMITIES - PAIN - Knee - left,MIND - RESTLESSNESS, nervousness - menses - before,NOSE - CORYZA - annual (Hay Fever)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>causticum, ars.album,sulphur, sabatilla (compass)</remedies_differentiation>
+      <prescription>
+        <remedy>causticum</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>δεκα λεπτα προ του πρωινου</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-12 05:00:00</followup_date>
+      <conv_med_presc>αντισταμινικα κυριως(xozal,aerius), spray για την μυτη</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>τις πρωτες 8 μερες πολυς υπνος(3), 10 ωρες την ημερα, θελει να κοιμαται απ τις 9, νευρα πολλα πολλα, δν φωναζει ουτε πεταει πραγματα αλλα ολα την ενοχλουν, με πηρε τηλεφωνο στην εβδομαδα πανω τρομαγμενη οτι την τραβαει πολυ η παρεση κ οτι την πονανε και τα δοντια απ την ιδια πλευρα, διψα πολυ για κρυο νερο, και πονος στην κοιλια πριν απο την περιοδο, ξεχναει πολυ</reaction>
+      <analysis>μιλαει συνεχεια και σε συνδυασμο με την αριστερη συμπτωματολογια το μυαλο μου ειχε παει αρχικα στο lachesis,αλλα με τετοια περιγραφη εκνευρισμου πριν την περιοδο και με την παραπανω αντιδραση που ειχε στο kreosotum, θεωρω οτι ορθα το εδωσα</analysis>
+      <conclusion>παει καλα κ συνεχιζω με το ιδιο</conclusion>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>causticum</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

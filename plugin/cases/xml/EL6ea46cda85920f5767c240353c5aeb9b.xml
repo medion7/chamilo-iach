@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6ea46cda85920f5767c240353c5aeb9b</ID>
+  <patient>
+    <case_date>2014-12-10 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΚΣ</patient_initials>
+    <age>18</age>
+    <circumstances>82 κιλά, 183 εκ, μαθητής, από οικογένεια με τέσσερα παιδιά</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin> βρογχίτιδες από 10 μηνών, όταν σταμάτησε να θηλάζει</origin>
+        <causative_factors>ιώσεις</causative_factors>
+        <modalities>&lt; υγρασία 4, &lt; κρύο 3, &lt; πρωινές ώρες μετά τις 4.00 πμ  3 </modalities>
+        <occurrence_time>&lt;&lt;πρωί, μετά τις 4.00πμ,  3  &lt;&lt;χειμώνα 4</occurrence_time>
+        <body_side>χωρίς εντόπιση </body_side>
+        <appearence_frequency>1-2 φορές/ μήνα</appearence_frequency>
+        <pain_desc>βήχας με φλέμα μόνιμο, 3  δύσπνοια 3</pain_desc>
+        <complaint_ext>χωρίς επεκτάσεις</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>εισπνεόμενα Aerolin, Seretide, κατ΄επίκληση</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εισπνεόμενα στεροειδή, εμβολιασμοί όπως προβλέπονται από το Εθνικό Πρόγραμμα</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>ιώσεις</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: 48 χρ, ιστορικό ελεύθερο&#13;
+Πατέρας: 49 χρ, ιστορικό ελεύθερο</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταίνεται 3, &lt; υγρασία 4</reactions>
+        <sleeping_habits>ήσυχος ύπνος, δεξιά πλάι, 2  πόδια ζεστά- τα ξεσκεπάζει 3</sleeping_habits>
+        <food_modalities>Επιθυμίες: όρεξη αυξημένη 3, κρέας 3, λίπος 3, αυγά σφιχτά 3, γλυκά 2, λουκάνικα- αλλαντικά 3, φρούτα 2, αλμυρά&#13;
+Απέχθειες: ψάρι 3, γλοιώδη 3</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>κλειστός 3, μετρημένος και τυπικός 3, εγωιστής 2, επικριτικός 2, του αρέσει να κάνει θεωρίες 2, σοβαρός 3 </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history> ατοπική δερματίτιδα από βρέφος, καταστολή με τοπικά στεροειδή, συχνές βρογχίτιδες από τότε με αφορμή λοιμώξεις</personal_medical_history>
+        <family_medical_history>χωρίς ιστορικό αναπνευστικών προβλημάτων στην οικογένεια</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Επίπεδο Υγείας του ασθενούς  5ο με 6ο, αφού κάνει ακόμη πυρετού.&#13;
+Θα χρειασθούν 1 ή 2 φάρμακα για τη θεραπεία </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>βήχας το πρωί μετά τις 4.00 πμ, 3, &lt; με υγρασία 4</peculiar>
+        <intense>βήχας με φλέμα μόνιμο, 3  δύσπνοια 3, Επιθυμίες: όρεξη αυξημένη 3, κρέας 3, λίπος 3, αυγά σφιχτά 3, λουκάνικα- αλλαντικά 3, γλυκά 2&#13;
+Απέχθειες: ψάρι 3, γλοιώδη 3&#13;
+κλειστός 3, μετρημένος και τυπικός 3, επικριτικός 2&#13;
+πόδια ζεστά- τα ξεσκεπάζει 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>1. 		GENERALITIES - FOOD and DRINKS - fat - desire 	3&#13;
+2.             GENERALITIES - FOOD and DRINKS - fish - aversion 	3&#13;
+3. 		GENERALITIES - WARM - agg. 	3&#13;
+4. 		GENERALITIES - FOOD and DRINKS - eggs - desire 	3&#13;
+5. 		GENERALITIES - FOOD and DRINKS - eggs - desire - boiled - hard&#13;
+boiled 	3&#13;
+6. 		GENERALITIES - FOOD and DRINKS - slimy food - aversion 	3&#13;
+7. 		MIND - EGOTISM 	3&#13;
+8. 		MIND - RESERVED 	3&#13;
+9. 		MIND - CENSORIOUS, critical 	3&#13;
+10. 		MIND - SERIOUS 	3&#13;
+11. 		GENERALITIES - WEATHER - wet - agg. 	4&#13;
+12. 		RESPIRATION - ASTHMATIC - night - midnight, after - 04:00 	3	&#13;
+13. 		GENERALITIES - WEATHER - cold - wet - agg. 	4&#13;
+14.           GENERALITIES - FOOD and DRINKS - sweets - desire 2&#13;
+15.           GENERALITIES - FOOD and DRINKS - sausages- desire 3&#13;
+16.           STOMACH - APPETITE - increased 3&#13;
+17.           COUGH - RATTLING 3&#13;
+18.           EXTREMITIES - UNCOVER - inclination to - Feet 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Sulphur: λόγω της αυξημένης όρεξης, της αγάπης του για θεωρίες, της επιθυμίας για λίπος και αλλαντικά, των ζεστών ποδιών και ζεστής ιδιοσυγκρασίας&#13;
+Natrium Sulphuricum: λόγω της παθολογίας του αναπνευστικού που επιδεινώνεται με υγρασία, τις πρωινές ώρες 4.00 πμ, κλειστός και τυπικός, αγάπη για λίπος&#13;
+&#13;
+Το Natrum Sulphyricum υπερτερεί λόγω του περίεργου συμπτώματος  ασθματική αναπνοή &lt;&lt; 4.00πμ και &lt;&lt; με υγρασία.</remedies_differentiation>
+      <prescription>
+        <remedy>Natrium Sulphuricum </remedy>
+        <potency>200CH, 1M</potency>
+        <regimen>1η μέρα 200CH&#13;
+2η μέρα 1Μ&#13;
+από την 3η μέρα 6x για 40 μέρες</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up : 15/2/2015, χρειάσθηκε λιγότερες φορές τα εισπνεόμενα αυτό το διάστημα</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Οι κρίσεις αραίωσαν αυτό το διάστημα- χρειάσθηκε λιγότερες φορές τα εισπνεόμενα.&#13;
+Τώρα όμως έρχεται με κρίση δύσπνοιας 3- είναι μικρότερης έντασης από παλιά αλλά δυσκολεύεται να αναπνεύσει. Ο χαρακτήρας των συμπτωμάτων είναι ο ίδιος.&#13;
+Έχει καλύτερη ενέργεια και μεγαλύτερη αντοχή στις δραστηριότητες.&#13;
+ </reaction>
+      <analysis>Επειδή έχει μεγαλύτερη ενέργεια το διάστημα αυτό και οι κρίσεις δύσπνοιας έχουν αραιώσει, το φάρμακο είχε καλή δράση. Η κρίση που περνά τώρα μοιάζει με τις παλιές, επομένως μπορούμε να επαναλάβουμε το ίδιο φάρμακο.</analysis>
+      <conclusion>Πρόκειται για έξαρση του χρονίου προβλήματος- μικρότερης έντασης, που εμφανίζεται και σε αραιότερο διάστημα. Η πορεία της θεραπείας είναι καλή.</conclusion>
+      <repertorization>
+        <desc>ίδιο - με συμπτώματα μικρότερης έντασης</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum Sulphuricum</remedy>
+        <potency>200 CH</potency>
+        <regimen>200 CH ανά 8 ωρο για τρεις μέρες και μέχρι ύφεσης των συμπτωμάτων</regimen>
+        <other_notes>Η κρίση αντιμετωπίσθηκε χωρίς εισπνεόμενα και μετά ο ασθενής συνέχισε με Natrum Sulphuricum 6x</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up: 10/8/2015.  καμία αγωγή</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετά την τελευταία μεγάλη κρίση συνέχισε με natrum Sulpuricum 6x, μέχρι τώρα.&#13;
+Τώρα έχει καλή ενέργεια, δεν ξαναείχε κρίση βήχα, ωστόσο παραπονείται για ρινίτιδα. Υδαρής έκκριση, μη καυστική, ιδίως το πρωί που ξυπνά. Οι επιθυμίες / απέχθειες και η ιδιοσυγκρασία του είναι ίδια.</reaction>
+      <analysis>Η κατεύθυνση της θεραπείας είναι σωστή αφού το νέο σύμπτωμα εμφανίζεται πιο περιφερικά- στο ανώτερο αναπνευστικό. Ακόμη καλύτερα θα περιμέναμε να εμφανισθεί η ατοπική δερματίτιδα που είχε από βρέφος- αλλά αυτό το ελπίζουμε για το μέλλον.</analysis>
+      <conclusion>αναμονή</conclusion>
+      <repertorization>
+        <desc>χωρίς αλλαγές</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Περιμένουμε κάποια έξαρση του χρονίου προβλήματος, αν με κάποιο τρόπο στρεσαριστεί ο οργανισμός, για να επαναλάβουμε δοσολογία. Αλλιώς περιμένουμε μία νέα συμπτωματολογία για νέα συνταγογράφηση.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

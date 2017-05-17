@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELc5230bfbeea1277797df0a7bbd8ae9ef</ID>
+  <patient>
+    <case_date>2014-08-10 16:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΚΜ</patient_initials>
+    <age>51</age>
+    <circumstances>Please enter the personal circumstances&#13;
+&#13;
+Επάγγελμα λογίστρια ,Χωρισμένη με ένα παιδί, Παχύσαρκη</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+&#13;
+&#13;
+Ρευματοειδής αρθρίτιδα από τότε που χώρισε και συνέπεσε να κάνει μετακόμιση του γραφείου και του σπιτιού της και κουράστηκε  πάρα πολύ&#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+&#13;
+Η Κούραση και το στρες</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+&#13;
+Το κρύο ,η κούραση και το sress</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+&#13;
+&lt; το βράδυ μετά την δουλειά αλλά γενικά πονάει συνεχώς</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+&#13;
+Και δεξιά και αριστερά</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+&#13;
+Κάθε μέρα πονάει</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+&#13;
+Σαν πιάσιμο σφίξημο</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+Σε όλες σχεδόν τις αρθρώσεις</complaint_ext>
+        <other_complaints>-</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+&#13;
+Plakenin   και κορτιζόνη .Τώρα μόνο Plakenin</conv_med_presc>
+        <lab_tests>
+          <desc>-Κ.φ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι δεν έχει</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+&#13;
+Εμβολιασμοί, κορτιζόνη  plakenin </therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+&#13;
+Χώρησε με άσχημες συνθήκες μετά από ένα βασανιστικό γάμο</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+&#13;
+ Παιδί είχε συχνά κρυολογήματα (3) μεγαλώνοντας σταμάτησαν Τώρα όχι</infections>
+          <other>1)Παχυσαρκία, από μικρή&#13;
+2)χρόνια κόπωση, τώρα τελευταία&#13;
+3)δυσκοιλιότητα από μικρή πού δεν την ενοχλούσε</other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+&#13;
+Γονείς με αρθριτικά, πίεση, μαμά με ινομυώματα, άνοια&#13;
+Παππούδες έχουν πεθάνει σε μεγάλη ηλικία φυσιολογικά.&#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει(3)  &lt;  τον χειμώνα</reactions>
+        <sleeping_habits>Παλιά αϋπνίες τώρα σχετικά καλός, κουράζεται από την δουλειά., κρυώνει  (3) φορά κάλτσες κρύα χέρια(2)&#13;
+Πλάι την βολεύει, όνειρα καμιά φορά εφιαλτικά όχι επαναλαμβανόμενα&#13;
+Ιδρώνει (2) στον αυχένα ,δεν ξυπνά το βράδυ&#13;
+</sleeping_habits>
+        <food_modalities>Τρελαίνεται για ψωμιά (3)  ζυμαρικά (3)  αυγά (4) μελάτα και σφιχτά , ομελέτες,(3), γλυκά (3)  γάλα (2)  τυριά (2)  κρέας (3 )  νερό (2) όχι παγωμένο  &#13;
+όχι λίπος αλάτι κ.φ&#13;
+Απέχθεια καπνιστά, καυτερά &#13;
+</food_modalities>
+        <menstruation>Αρχή Eμμηνόπαυσης</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+&#13;
+Είναι επίμονη (3), κλειστή  (3) δεν λέει τα προβλήματά της, δύσπιστη  (2) ,χαμηλή αυτοπεποίθηση (1) λόγω πάχους &#13;
+Φοβίες πολλές, φόβος μη χάσει το μυαλό της  (3) σαν την μαμά της, σκοτάδι (3) κοιμάται με φώς, ύψους (2)  αρρώστιες (3) θάνατο (3)  ζώα (2)  νεκρούς (3) &#13;
+&#13;
+&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+&#13;
+Λόγω της χρόνιας καταστολής με κορτιζόνη και plakenin έχει πέσει το επίπεδο υγείας της δεν κάνει πυρετούς εδώ και αρκετά χρόνια </personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+&#13;
+Δεν έχει τόσο βαριά κληρονομική προδιάθεση</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+&#13;
+Επειδή η περίπτωση είναι ξεκάθαρη και δεν έχει βαριά   κληρονομική προδιάθεση θα πάει καλά παρά τις κατασταλτικές θεραπείες που έχει κάνει</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+&#13;
+Μη χάσει το μυαλό της  (3) &#13;
+Κούραση από μικρό παιδί (2)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+Κρυώνει(3)  &#13;
+κουράζεται (2) &#13;
+επίμονη (3), κλειστή  (3) &#13;
+δύσπιστη  (2) &#13;
+Φόβος σκοτάδι (3) κοιμάται με φώς, ύψους (2)  αρρώστιες (3) θάνατο (3)  ζώα (2)  νεκρούς (3) &#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Είναι μιά καθαρή CALCAREA CARBONICA  παχουλή λόγω δυσαπορρόφησης από μικρή, με κούραση από μικρό παιδάκι, με φοβίες και κυρίως η χαρακτηριστική φοβία  μη χάσει το μυαλό της σε συνδιασμό με την τρελή της επιθυμία για αυγά και το ότι ιδρώνει στον αυχένα στον ύπνο της </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+&#13;
+Το φάρμακο είναι ξεκάθαρο</remedies_differentiation>
+      <prescription>
+        <remedy>CALCAREA CARBONICA </remedy>
+        <potency>200 ch</potency>
+        <regimen>Please enter regimen&#13;
+&#13;
+Ι δόση εφάπαξ</regimen>
+        <other_notes>Please enter other notes&#13;
+&#13;
+Να προσέχει την αντιδότηση του καφέ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-09-29 15:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+Το πρώτο Followup έγινε μετά ένα μήνα &#13;
+Συνεχίζει το Plakenin</conv_med_presc>
+      <lab_tests>
+        <desc>-Δεν έχει κάνει</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+&#13;
+Λέει «Μου ανοίχτηκε μπροστά μου ένας καινούργιος κόσμος που μου αρέσει»&#13;
+Την πρώτη εβδομάδα κοιμόταν συνέχεια, η περίοδος αυτό τον μήνα δεν της έχει έρθει ακόμα.&#13;
+Η κούραση (2) &gt;, η ενέργεια της (2) &gt;, ψυχικά (3) &gt; είναι χαρούμενη που δεν ήταν&#13;
+Δυσκοιλιότητα (1) &gt;, φόβος αρρώστιας (1) &gt;, φόβος ύψους (2) &gt; φόβος τρέλας ίσως λίγο καλύτερα,&#13;
+Πόνοι στα χέρια (1) &gt;&#13;
+&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+&#13;
+Δεν είχε επιδείνωση στην ρευματοειδή αρθρίτιδα αλλά άμεση λίγη καλυτέρευση .&#13;
+Στο ψυχοδιανοητικό είχε άμεση καλυτέρευση και αυτό συνέβη λόγω του επιπέδου υγείας της&#13;
+&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Επειδή η περίπτωση είναι καθαρή περιμένω να κάνει την επιδείνωση και να ανέβη επίπεδο υγείας</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Ουδέν περιμένω</remedy>
+        <potency>-</potency>
+        <regimen>Please enter regimen&#13;
+&#13;
+-</regimen>
+        <other_notes>Please enter other followup notes&#13;
+Αν δεν της σταματήση το plakenin o γιατρός της αργότερα πιθανόν να της επαναλάβω την δόση</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-01-19 15:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+Εξη μήνες μετά την αρχική συνταγογράφηση δεν πονάει στις αρθρώσεις και ο γιατρός της ελλάτωσε πάρα πολύ το Plakenin</conv_med_presc>
+      <lab_tests>
+        <desc>Κφ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+Η κούραση (2) &gt;, η ενέργεια της (3) &gt;, ψυχικά (3) &gt; &#13;
+Δυσκοιλιότητα (1) &gt;, φόβος αρρώστιας (1) &gt;, φόβος ύψους (2) &gt;, φόβος τρέλας δεν το έχει ξανασκεφτεί&#13;
+Πόνοι στα χέρια (3) &gt;&#13;
+Έχει χάσει 5 κιλά</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+Έχει βελτιωθεί θεαματικά αλλά δεν έχει κάνει οξύ επεισόδειο για να ανέβει επίπεδο υγείας</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Το φάρμακο συνεχίζει να δρά και περιμένω</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδέν</remedy>
+        <potency>-</potency>
+        <regimen>Please enter regimen&#13;
+-</regimen>
+        <other_notes>Please enter other followup notes&#13;
+Θα είναι υπό παρακολούθηση περιμένοντας το οξυ για να γίνει επανεκτίμηση</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

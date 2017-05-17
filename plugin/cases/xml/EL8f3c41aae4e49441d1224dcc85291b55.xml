@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL8f3c41aae4e49441d1224dcc85291b55</ID>
+  <patient>
+    <case_date>2015-03-10 16:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Α.Μ</patient_initials>
+    <age>39</age>
+    <circumstances>Please enter the personal circumstancesΕΙΝΑΙ ΚΑΘΗΓΗΤΡΙΑ ΦΥΣΙΚΟΣ,ΚΑΙ ΔΟΥΛΕΥΕΙ ΣΕ ΕΠΑΓΓΕΛΜΑΤΙΚΟ ΛΥΚΕΙΟ.&#13;
+ΕΧΕΙ ΜΙΑ ΜΑΚΡΟΧΡΟΝΗ ΣΧΕΣΗ,ΔΕΝ ΕΧΕΙ ΠΑΙΔΙΑ .ΖΕΙ ΜΟΝΗ ΤΗΣ.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+Η ΑΣΘΕΝΗΣ ΕΜΦΑΝΙΖΕΙ ΔΥΣΜΗΝΟΡΡΟΙΑ ΜΕ ΑΦΟΡΗΤΟΥΣ ΠΟΝΟΥΣ </origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ΕΧΕΙ ΣΧΕΔΟΝ ΚΑΘΕ ΜΗΝΑ.ΛΟΓΩ ΕΜΜΗΝΟΥ ΡΥΣΕΩΣ</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+ΝΙΩΘΕΙ ΚΑΛΥΤΕΡΑ ΜΕ ΤΟΠΟΘΕΤΗΣΗ ΖΕΣΤΟΥ ΕΠΙΘΕΜΑΤΟΣ ΣΤΗΝ ΚΟΙΛΙΑ</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or ameliorationΔΕΝ ΕΠΗΡΕΑΖΕΤΑΙ ΑΠΟ ΤΟΝ ΧΡΟΝΟ</occurrence_time>
+        <body_side>Please enter side of the bodyΚΟΙΛΙΑΚΗ ΧΩΡΑ</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ΚΑΘΕ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΔΙΑΞΙΦΙΣΤΙΚΟΣ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ΟΧΙ</complaint_ext>
+        <other_complaints>ΠΡΙΝ ΤΗΝ ΠΕΡΙΟΔΟ ΤΟ ΣΤΗΘΟΣ ΤΗΣ ΠΡΗΖΕΤΑΙ ΚΙΑ ΣΚΛΗΡΑΙΝΕΙ.&#13;
+ΕΧΕΙ ΠΟΝΟΥΣ ΣΤΟΝ ΑΥΧΕΝΑ , ΚΑΙ ΚΑΠΟΙΕΣ ΦΟΡΕΣ ΜΟΥΔΙΑΖΟΥΝ ΤΑ ΧΕΡΙΑ ΤΗΣ ΚΥΡΙΩΣ ΣΤΟΝ ΥΠΝΟ ΤΗΣ&#13;
+ΠΑΛΙΟΤΕΡΑ ΟΤΑΝ ΑΡΡΩΣΤΑΙΝΕ ,ΞΕΚΙΝΟΥΣΕ ΚΑΙ ΕΝΤΟΝΟΣ ΑΛΛΕΡΓΙΚΟΣ ΒΗΧΑΣ.ΕΧΕΙ 3 ΧΡΟΝΙΑ ΝΑΤΗΣ ΕΜΦΑΝΙΣΤΕΙ ΑΥΤΟ.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+MESULID  επι πονου</conv_med_presc>
+        <lab_tests>
+          <desc>ΔΕΝ ΥΠΑΡΧΟΥΝ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΕΜΒΟΛΙΑ ΝΑΙ &#13;
+ΛΗΨΗ ΚΟΡΤΙΖΟΝΟΥΧΟΥ ΣΠΡΕΙ ΓΙΑ ΤΟΝ ΒΗΧΑ&#13;
+ΛΗΨΗ ΑΝΤΙΣΥΛΛΗΠΤΙΚΩΝ ΓΙΑ 5 ΧΡΟΝΙΑ&#13;
+&#13;
+</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+Ο ΜΠΑΜΠΑΣ ΤΗΣ ΠΕΘΑΝΕ ΟΤΑΝ ΑΥΤΗ ΗΤΑΝ 17 ΧΡΟΝΩΝ&#13;
+ΑΦΑΙΡΕΣΗΣΚΩΛΗΚΟΕΙΔΟΥΣ ΑΠΟΦΥΣΗΣ ΠΡΙΝ 10 ΧΡΟΝΙΑ.&#13;
+ΑΦΑΙΡΕΣΗ ΠΟΛΥΠΟΔΑ ΑΠΟ ΤΗΝ ΜΗΤΡΑ ΠΡΙΝ 3 ΧΡΟΝΙΑ</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΚΑΜΙΑ</infections>
+          <other>ΔΕΝ ΑΡΡΩΣΤΑΙΝΕΙ ΓΕΝΙΚΑ ΕΥΚΟΛΑ.,ΚΑΙ ΣΠΑΝΙΑ ΚΑΝΕΙ ΠΥΡΕΤΟ .ΓΕΝΙΚΑ ΑΚΟΜΑ ΚΑΙ ΟΤΑΝ ΟΛΟΙ ΓΥΡΩ ΤΗΣ ΕΙΝΑΙ ΑΡΡΩΣΤΟΙ&#13;
+ΕΚΕΙΝΗ ΠΑΡΑΜΕΝΕΙ ΚΑΛΑ.ΜΟΝΟ ΟΤΑΝ ΑΦΑΙΡΕΣΕ  ΤΗΝ ΣΚΩΛΗΚΟΕΙΔΗ ΑΠΟΦΥΣΗ ΕΚΑΝΕ ΥΨΗΛΟ ΠΥΡΕΤΟ[39-40] ΓΙΑ 3 ΜΕΡΕΣ</other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΟΜΠΑΜΠΑΣ ΤΗΣ ΠΕΘΑΝΕ ΣΕ ΗΛΙΚΙΑ 36 ΧΡΟΝΩΝ &#13;
+Ο ΑΔΕΛΦΟΣ ΤΗΣ ΕΧΕΙ ΥΨΗΛΟ ΑΙΜΑΤΟΚΡΙΤΗ&#13;
+Η ΜΑΜΑ ΤΗΣ ΕΧΕΙ ΤΑΣΗ ΓΙΑ ΥΨΗΛΟ ΣΑΚΧΑΡΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΔΕΝ ΤΗΝ ΕΠΗΡΕΑΖΕΙ ΓΕΝΙΚΑ Η ΘΕΡΜΟΚΡΑΣΙΑ</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΑΝΑΣΚΕΛΑ,ΚΑΙ ΣΦΙΓΓΕΙ ΤΑ ΔΟΝΤΙΑ ΤΗΣ ΣΤΟΝ ΥΠΝΟ.ΚΑΜΙΑ ΦΟΡΑ ΒΛΕΠΕΙ ΟΝΕΙΡΑ "ΣΤΡΕΣΟΓΟΝΑ" ΚΑΙ ΞΥΠΝΑΕΙ ΜΕ ΣΦΙΓΜΕΝΟ ΣΤΟΜΑΧΙ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΨΩΜΙ ΚΑΙ ΜΑΚΑΡΟΝΙΑ ΚΑΙ ΑΠΕΧΘΑΝΕΤΑΙ ΤΟ ΚΡΕΑΣ ΚΑΙ ΤΑ ΑΥΓΑ</food_modalities>
+        <menstruation>ΔΙΑΡΚΕΙ 7 ΜΕΡΕΣ ΜΕ ΕΝΤΟΝΟΥΣ ΠΟΝΟΥΣ ΣΤΗΝ ΚΟΙΛΙΑ ΧΑΜΗΛΑ ΚΑΙ ΜΕ ΠΗΓΜΑΤΑ ΚΟΚΚΙΝΑ.ΕΜΦΑΝΙΖΕΤΑΙ ΚΑΘΕ 28-30 ΜΕΡΕΣ ΚΑΙ ΝΩΡΙΤΕΡΑ ΠΡΗΖΕΤΑΙ ΤΟ ΣΤΗΘΟΣ ΤΗΣ ΚΑΙ ΣΚΛΗΡΑΙΝΕΙ</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+ΓΕΝΙΚΑ ΕΙΝΑΙ ΑΙΣΙΟΔΟΞΗ.ΑΠΑΙΣΙΟΔΟΞΑ ΝΙΩΘΕΙ ΜΟΝΟ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΠΟΥ ΕΧΕΙ ΣΧΕΣΗ ΔΗΛΑΔΗ ΓΙΑ ΤΗΝ ΔΟΥΛΕΙΑ ΤΟΥ ΚΑΙ ΓΙΑ ΤΟ ΟΤΙ ΠΡΟΣΠΑΘΟΥΝ ΓΑΙ ΠΑΙΔΙ ΧΩΡΙΣ ΑΠΟΤΕΛΕΣΜΑ.ΖΗΛΕΥΕΙ ΚΑΙ ΨΑΧΝΕΙ ΚΙΝΗΤΟ .ΜΕ ΕΝΟΧΛΕΙ ΟΤΑΝ ΔΕΝ ΦΡΟΝΤΙΖΕΙ ΤΟΝ ΕΑΥΤΟ ΤΟΥ ΚΑΙ ΤΟ ΣΠΙΤΙ ΤΟΥ.ΤΗΣ ΑΡΕΣΕΙ  Η ΤΑΞΗ ΟΤΝ ΔΕΝ ΕΙΝΑΙ ΚΑΛΑ ΠΗΓΑΙΝΕΙ ΣΤΟ ΣΠΙΤΙ ΤΗΣ ΓΙΑΤΙ ΝΙΩΘΕΙ ΑΣΦΑΛΕΙΑ ΣΕ ΑΥΤΟ ΕΧΕΙ ΓΕΝΙΚΑ ΑΓΧΟΣ,ΕΙΝΑΙ ΟΡΓΑΝΩΤΙΚΗ ΑΝΕΞΑΡΤΗΤΗ.ΤΗΣ ΑΡΕΣΕΙ ΝΑ ΓΚΡΙΝΙΑΖΕΙ.ΣΑΝ ΠΑΙΔΙ ΑΛΛΑ ΑΚΟΜΑ ΚΑΙ ΤΩΡΑ ΘΕΛΕΙ ΝΑ ΚΑΝΕΙ ΚΑΙΝΟΥΡΙΑ ΠΡΑΓΜΑΤΑ.[ΔΙΑΒΑΣΜΑ ΥΦΑΝΤΙΚΗ ΓΥΜΝΑΣΤΗΡΙΟ ΠΟΔΗΛΑΤΟ]ΤΗΣ ΑΡΕΣΕΙ ΤΟ ΚΑΛΟΚΑΙΡΙ ΓΙΑΤΙ ΜΠΟΡΕΙ ΝΑ ΕΙΝΑΙ ΠΕΡΙΣΣΟΤΕΡΗ ΩΡΑ ΕΞΩ.ΦΟΒΑΤΑΙ ΤΟ ΣΚΟΤΑΔΙ ΚΑΙ ΤΑ"ΖΟΜΠΙ"</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+Η ΑΣΘΕΝΗΣ ΓΕΝΙΚΑ ΔΕΝ ΕΧΕΙ ΣΟΒΑΡΑ ΠΑΘΟΛΟΓΙΚΑ ΠΡΟΒΛΗΜΑΤΑ.ΕΙΝΑΙ ΟΜΩΣ ΑΞΙΟΠΡΟΣΕΧΤΗ Η ΟΡΜΟΝΙΚΗ ΚΑΤΑΠΙΕΣΗ ΑΠΟ ΤΗΝ ΛΗΨΗ ΑΝΤΙΣΥΛΗΠΤΙΚΩΝ ΚΑΙ ΟΒΗΧΑΣ ΠΟΥ ΑΝΑΦΕΡΕΙ ΟΤΙ ΕΙΧΕ ΠΑΛΙΟΤΕΡΑ [ΠΡΙΝ 2-3 ΧΡΟΝΙΑ} ΚΑΙ ΕΠΕΜΕΝΕ ΓΙΑ ΚΑΙΡΟ ΓΙ ΑΥΤΟ ΚΑΙ ΕΠΑΙΡΝΕ ΚΟΡΤΙΖΟΝH [ceretide spray]</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΔΕΙΧΝΕΙ ΑΠΟ ΤΟ ΙΣΤΟΡΙΚΟ ΤΟΥ ΜΠΑΜΠΑ ΤΗΣ ΟΤΙ ΥΠΑΡΧΕΙ ΜΙΑ ΕΥΑΙΣΘΗΣΙΑ ΣΤΟ ΑΝΑΠΝΕΥΣΤΙΚΟ  ΚΑΙ ΠΟΥ ΔΙΑΦΑΙΝΕΤΑΙ ΚΑΙ ΑΠΟ ΤΟΝ ΔΙΚΟ ΤΗΣ ΒΗΧΑ ΠΟΥ ΕΙΝΑΙ ΣΥΝΕΧΗΣ  ΣΑΝ ΑΛΛΕΡΓΙΚΟΣ</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+ΕΙΝΑΙ ΕΝΑ ΑΤΟΜΟ  ΧΩΡΙΣ ΑΞΙΟΛΟΓΑ ΠΡΟΒΛΗΜΑΤΑ ΠΟΥ ΟΜΩΣ ΕΔΩ ΚΑΙ ΚΑΙΡΟ ΔΕΝ ΕΧΕΙ ΕΜΦΑΝΙΣΕΙ ΟΞΥ </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΑΙΜΜΟΡΑΓΙΑ ΣΤΗΝ ΓΛΩΣΣΑ ΑΥΤΟΜΑΤΗ[1]</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΔΥΣΜΗΝΟΡΡΟΙΑ [3],ΚΟΚΚΙΝΑ ΠΗΓΜΑΤΑ [3]ΑΙΣΙΟΔΟΞΗ [2] ΖΗΛΙΑΡΑ[2]ΓΚΡΙΝΙΑΡΑ [3] ΣΧΟΛΑΤΙΚΗ[[2]ΣΦΙΞΙΜΟ ΔΟΝΤΙΩΝ [2]ΦΟΒΟ ΣΚΟΤΑΔΙ[2]ΕΠΙΘΥΜΕΙΜΑΚΑΡΟΝΙΑ[3] ΑΠΕΧΘΑΝΕΤΑΙ ΚΡΕΑΣ[3] ΑΥΓΑ[1] ΒΕΛΤΙΩΝΕΤΑΙ Ο ΠΟΝΟΣ ΠΕΡΙΟΔΟΥ ΜΕ ΖΕΣΤΗ[2]</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>απο την αναλυση των  συμπτωματων πολυ κοντα ερχονται το lachesis και tuberculinum &#13;
+ το lachesis  εχει ζηλεια[4] επιθυμια μακαρονια[1] φοβο σκοταδι[2]κριτικη[2] βηχα ασθματικο[2] γκρινια[1] βελτιωση ζετη[1]δυσμ.[2]&#13;
+to tuberc.  εχει αισιοδοξια[2] ανικανοποιητο[3] γκρινια[2] δυσμηνορροια[2]απεχθεια κρεασ[2]</remedies_differentiation>
+      <prescription>
+        <remedy>LACHESIS</remedy>
+        <potency>200CH,1M,30CH</potency>
+        <regimen>πρωτη μερα 200ch το πρωι,1Μ το βραδυ&#13;
+μετα 1καψουλα 30ch καθε πρωι για 30 μερες</regimen>
+        <other_notes>Please enter other notes&#13;
+οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-04-24 16:00:00</followup_date>
+      <conv_med_presc>ΚΑΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΤΟ ΣΤΗΘΟΣ ΑΥΤΟ ΤΟΝ ΜΗΝΑ ΗΤΑΝ ΠΟΛΥ ΚΑΛΥΤΕΡΑ.ΔΕΝ  ΤΟ ΕΝΙΩΣΕ ΝΑ ΠΡΗΖΕΤΑΙ.ΕΙΧΕ ΠΙΟ ΠΟΛΛΑ ΠΗΓΜΑΤΑ ΣΤΗΝ ΠΕΡΙΟΔΟ  ΑΛΛΑ ΧΩΡΙΣ ΠΟΝΟ,ΔΕΝ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΑΡΕΙ ΠΑΥΣΙΠΟΝΟ.ΒΛΕΠΕΙ ΓΕΝΙΚΑ ΟΤΙ ΠΙΕΖΕΤΑΙ ΚΑΝΟΝΤΑΣ ΔΙΑΦΟΡΑ ΠΡΑΓΜΑΤΑ ΚΑΙ ΘΕΛΕΙ ΝΑ ΜΕΙΩΣΕΙ ΑΥΤΑ  ΠΟΥ ΚΑΝΕΙ ΓΙΑ ΝΑ ΧΑΛΑΡΩΝΕΙ.ΗΖΗΛΕΙΑ ΕΧΕΙ ΜΕΙΩΘΕΙ.ΕΠΙΣΗΣ ΕΙΧΕ ΠΡΙΝ ΤΗΝ ΠΕΡΙΟΔΟ ΠΟΛΥ ΕΝΤΟΝΟ ΠΟΝΟΚΕΦΑΛΟ ΟΠΩΣ ΠΑΛΙΟΤΕΡΑ.</reaction>
+      <analysis> ΣΤΟ ΣΩΜΑΤΙΚΟ ΤΗΣ ΠΡΟΒΛΗΜΑ  ΕΙΧΕ ΒΕΛΤΙΩΣΗ,ΑΛΛΑ ΚΑΙ ΣΤΑ ΑΛΛΑ ΕΠΙΠΕΔΑ ΕΙΧΕ ΜΙΑ ΜΙΚΡΗ ΚΑΛΥΤΕΡΕΥΣΗ.ΕΠΙΣΗΣ ΕΚΑΝΕ ΚΑΙ ΕΠΙΔΕΙΝΩΣΗ ΣΤΟΝ ΠΟΝΟΚΕΦΑΛΟ ΠΟΥ ΕΙΧΕ ΣΤΟ ΠΑΡΕΛΘΟΝ ΓΙΑ ΤΟΝ ΟΠΟΙΟ ΝΑ ΑΝΑΦΕΡΩ ΟΤΙ ΔΕΝ ΠΗΡΕ ΚΑΝΕΝΑ ΠΑΥΣΙΠΟΝΟ</analysis>
+      <conclusion>ΠΙΣΤΕΥΩ ΟΤΙ ΠΗΓΕ ΚΑΛΑ,ΚΑΙ ΘΑ ΠΕΡΙΜΕΝΟΥΜΕ ΠΩΣ ΘΑ ΠΡΟΧΩΡΗΣΕΙ.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΟΧΙ</remedy>
+        <potency>ΚΑΜΙΑ</potency>
+        <regimen>ΔΕΝ ΥΠΑΡΧΕΙ</regimen>
+        <other_notes>ΔΕΝ ΥΠΑΡΧΟΥΝ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-07-03 19:30:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΚΑΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+Η ΑΣΘΕΝΗΣ ΕΞΑΚΟΛΟΥΘΕΙ ΝΑ ΠΗΓΑΙΝΕΙ ΚΑΛΑ ΧΩΡΙΣ ΠΡΟΒΛΗΜΑΤΑ ΣΤΟ ΚΥΡΙΟ ΠΡΟΒΛΗΜΑ ΤΗΣ.ΚΑΙ ΟΛΑ ΤΑ ΑΛΛΑ ΠΑΡΑΜΕΝΟΥΝ ΒΕΛΤΙΩΜΕΝΑ</reaction>
+      <analysis>ΝΟΜΙΖΩ ΟΤΙ ΤΟ ΦΑΡΜΑΚΟ ΣΥΝΕΧΙΖΕΙ ΝΑ ΕΧΕΙ ΔΡΑΣΗ ΚΑΙ ΤΗΝ ΒΟΗΘΑ ΣΤΟ ΠΡΟΒΛΗΜΑ ΤΗΣ</analysis>
+      <conclusion>ΔΕΝ ΘΑ ΑΛΛΑΞΩ ΚΑΤΙ ΣΤΗΝ ΣΥΝΤΑΓΟΓΡΑΦΗΣΗ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΟΧΙ</remedy>
+        <potency>ΚΑΜΙΑ</potency>
+        <regimen>Please enter regimenΚΑΜΙΑ</regimen>
+        <other_notes>Please enter other followup notesΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-10-08 17:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptionsΚΑΜΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ΒΕΛΤΙΩΣΗ ΠΑΡΑΜΕΝΕΙ ΣΤΑΘΕΡΗ</reaction>
+      <analysis>ΤΟ ΦΑΡΜΑΚΟ ΕΧΕΙ ΔΡΑΣΗ ΑΚΟΜΑ</analysis>
+      <conclusion>Please enter followup conclusionΔΕΝ ΘΑ ΑΛΛΑΞΟΥΜΕ ΤΙΠΟΤΑ ΠΡΟΣ ΤΟ ΠΑΡΟΝ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΟΧΙ</remedy>
+        <potency>ΚΑΜΙΑ</potency>
+        <regimen>ΚΑΜΙΑ</regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

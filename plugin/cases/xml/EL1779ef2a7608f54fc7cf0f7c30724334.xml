@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL1779ef2a7608f54fc7cf0f7c30724334</ID>
+  <patient>
+    <case_date>2014-09-26 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Τ.Δ.</patient_initials>
+    <age>27</age>
+    <circumstances>Ζει με τη μητέρα της με τη γιαγιά της και το μικρότερό της αδερφό. &#13;
+Οι γονείς της χώρισαν όταν  ήταν 17 ετών. &#13;
+Έχει 3 αδέρφια και μια ετεροθαλή αδερφή από το δεύτερο γάμο του πατέρα της. &#13;
+Η μεγάλη της αδερφή: είναι παντρεμένη στην Αλεξανδρούπολη και ο μεγάλος της αδερφός ζει μόνος του στην Αθήνα ανύπαντρος. &#13;
+Σπουδές: Μηχανολόγος μηχανικός στο Πολυτεχενίο. (μπήκε το 2006).&#13;
+Εργάζεται ως ιδιωτικός υπάλληλος σε εταιρεία. &#13;
+&#13;
+&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Χρόνια ιγμορίτιδα από εξαετίας.&#13;
+Έτνονη ρινική συμφόρηση και μετωπιαία κεφαλαλγία από μηνός. &#13;
+Ζάλη, ίλιγγος και ναυτία και πόνο στα ιγμόρεια και μετωπιαία και ινιακά και αυχενικά. &#13;
+Το πρωί όταν σηκώνεται και κάνει κάτι απότομο θα έχει αυτό τον ίλιγγο. &#13;
+Η ασθενής δεν αναφέρει αιτιολογικό παράγοντα&#13;
+&#13;
+</origin>
+        <causative_factors>Η ασθενής αναφέρει ότι δεν ενοχλήθηκε σημαντικά από το χωρισμό των γονέων της. &#13;
+Μετά από ένα τροχαίο ατύχημα στο οποίο τραυματίστηκε σοβαρά η μητέρα της, έπρεπε να αναλάβει τη φροντίδα της καθώς και τη φροντίδα του μικρότερού της αδερφού και της γιαγιάς της. &#13;
+Θυμάται ότι ήταν μεγάλη η ευθύνη που είχε αναλάβει και δεν την άντεχε. </causative_factors>
+        <modalities>&lt;&lt; υγρασία του Νοτιά &#13;
+&lt;&lt; υγρασία του χειμώνα</modalities>
+        <occurrence_time>Ξυπνάει στις 4 το πρωί με ρινική συμφόρηση και κεφαλαλγία το τελευταίο μήνα. &#13;
+Τον τελευταίο μήνα (Αύγουστο) υπήρξε επιδείνωση της χρόνιας ιγμορίτιδας. </occurrence_time>
+        <body_side>Μετωπιαία κεφαλαλγία. </body_side>
+        <appearence_frequency>Μπορεί για 5 μέρες να έχει έντονη ρινική συμφόρηση και τις επόμενες 5 μέρες να μην έχει κανένα σύμπτωμα. </appearence_frequency>
+        <pain_desc>Πιεστικό άλγος </pain_desc>
+        <complaint_ext>------</complaint_ext>
+        <other_complaints>Σύνδρομο ευερέθιστου εντέρου τα τελευταία χρόνια. &#13;
+Κάποιες μέρες έχει φουσκώματα και πόνο στο υπογάστριο και μερικές φορές και στο ΔΕ νεφρό. &#13;
+Φουσκώματα : συνήθως μετά το μεσημεριανό φαγητό. &#13;
+Πόνος: τις πρωινές ώρες.&#13;
+Μερικές φορές πηγαίνει στην τουαλέτα αλλά τελικά δεν έχει κένωση. Δυσκολεύεται για κένωση. &#13;
+Αέρια: που την ανακουφίζουν. &#13;
+Ερυγές: δεν την ανακουφίζουν και νιώθει άσχημα μετά το ρέψιμο, γιατί φοβάται μήπως υπάρχει κάτι στο στομάχι&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>DEXARHINASPRAY </conv_med_presc>
+        <lab_tests>
+          <desc>----</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-----</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>DEXATRHINASPRAY ΠΡΩΙ-ΒΡΑΔΥ ΣΕ ΕΝΤΟΝΗ ΡΙΝΙΚΗ ΣΥΜΦΟΡΗΣΗ</therapies_vaccination>
+          <traumas>Ο χωρισμός των γονέων της, δεν την ενόχλησε σε σημαντικό βαθμό, αναφέρει η ίδια ασθενής. &#13;
+</traumas>
+          <infections>----</infections>
+          <other>Σκωληκοειδεκτομή στα 17 της χρόνια.  &#13;
+Αμυγδαλίτιδα: μια φορά το χρόνο με ψηλό πυρετό&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας (55 ετών): υγιής&#13;
+Μητέρα (55 ετών): θυρεοειδοπάθεια υπό αγωγή. </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται 2&#13;
+&lt;&lt; υγρασία του Νοτιά&#13;
+&lt;&lt; υγρασία του χειμώνα</reactions>
+        <sleeping_habits>Unrefreshing sleep in the morning. Σαν να κοιμάται βαθιά και δεν μπορεί να σηκωθεί.&#13;
+Κοιμάται δεξιά πλάγια. &#13;
+Ξυπνάει στις 4 το πρωί το τελευταίο διάστημα με άσχημα όνειρα και έντονη ρινική συμφόρηση και κεφαλαλγία, περνάει ένα 20λεπτο για να ξανακοιμηθεί και ξυπνάει μετά στις 6 το πρωί. &#13;
+&#13;
+</sleeping_habits>
+        <food_modalities>Fish 3, meat 1 τους υδατάνθρακες το τελευταίο χρόνο δεν τους θέλει, ενώ πριν έτρωγε πατάτες, ψωμί. &#13;
+Λίπος 3&#13;
+Αλάτι 1&#13;
+Λεμόνι 3&#13;
+Φρούτα: οκ αλλά δεν τρελαίνεται. &#13;
+Αυγά: βραστά μελάτα κυρίως 2&#13;
+Καπνιστά αλλαντικά και τυριά. &#13;
+Γάλα: σταμάτησε να πίνει, γιατί της είναι δύσπεπτο&#13;
+Γιαούρτι 2. Μέχρι πριν λίγα χρόνια δεν έτρωγε καθόλου γιαούρτι, γιατί της προκαλούσε τάση για εμετό.  &#13;
+Φέτα και τυριά 3&#13;
+Ελιές 2&#13;
+Ελάχιστα το σκόρδο σε τζατζίκι. &#13;
+Κρεμμύδι: δεν μπορεί να το χωνέψει. &#13;
+Ξίδι: οκ&#13;
+thirsty 1&#13;
+</food_modalities>
+        <menstruation>περίοδος: κάθε 31 μέρες. &#13;
+Την πρώτη και τη δεύτερη μέρα δυσμηνόρροια: έπαιρνε ponstan και τώρα παίρνει brufen.&#13;
+Μόνο τις δύο πρώτες μέρες έχει αρκετή ροή και τις 3 τελυεταίες μέρες έχει μικρή ροή. &#13;
+Μερικές φορές πήγματα. &#13;
+Σκούρο κόκκινο το αίμα της.  &#13;
+</menstruation>
+      </physical>
+      <mental_emotional>Με τον πατέρα της έχει καλή σχέση και τον βλέπει όποτε θέλει και μένουνε κοντά. &#13;
+Τακτική 3&#13;
+Fastidious 1&#13;
+Εσωστρεφής 2. Τα λέει γιατί αναγκάζεται να τα πει για την παρέα. &#13;
+Κοινωνική 2.&#13;
+Μικρή έκλαιγε πολύ εύκολα. &#13;
+Όταν είναι πολύ πιεσμένη θέλει να κλάψει αλλά την πιάνει με πολλή δυσκολία. &#13;
+Δε θέλει να τη βλέπουν να κλαίει.&#13;
+Παρηγοριά δε θέλει. &#13;
+Στον αδερφό της θα φωνάξει.  &#13;
+Της έρχεται να φωνάξει αλλά το καταπιέζει. &#13;
+Δε φωνάζει για να μη δυσαρεστήσει τον άλλο. &#13;
+Συμπάσχει και βοηθάει αλλά δεν ταυτίζεται. &#13;
+FEARS: σκοτάδι: όταν κοιμάται και βλέπει όνειρα θέλει να ανάψει το φως. &#13;
+Μπορεί να βλέπει πολλούς που έχουν πεθάνει. &#13;
+Δεν ξυπνάει με ταχυκαρδία. &#13;
+Κλειστοφοβία: δεν μπορεί τον πολύ συνωστισμό. &#13;
+Όταν την αγκαλιάζουν, μπορεί να μη θέλει την αγκαλιά. &#13;
+Η αναμονή σε σειρά την εκνευρίζει αλλά κρίση πανικού δεν την πιάνει. &#13;
+Κατσαρίδες, αράχνες: όχι&#13;
+Φίδια 1&#13;
+Ποντίκια: όχι&#13;
+Θάνατος :όχι&#13;
+Αρρώστια:όχι</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Σκωληκοειδεκτομή στα 17 της χρόνια.  &#13;
+Αμυγδαλίτιδα: μια φορά το χρόνο με ψηλό πυρετό&#13;
+</personal_medical_history>
+        <family_medical_history>----</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Λόγω της εσωστρέφειας της ασθενούς δεν μπορεί να διευκρινιστεί αιτιολογικός παράοντας για την ψυχολογική της κατάσταση. &#13;
+Είχε καλό επίπεδο υγείας, εφόσον ανέβαζε πυρτό μέχρι 40 σε αμυγδαλίτιδα. </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Ξυπνάει στις 4 τη νύχτα με εφιάλτες και ρινική συμφόρηση και κεφαλαλγία. </peculiar>
+        <intense>&lt;&lt; υγρασία 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND FASTIDIOUS 1&#13;
+MIND RESERVED 2&#13;
+HEAD PAIN (headache) morning 2&#13;
+FACE INFLAMMATION sinuses, of (Sinusitis) 2&#13;
+STOMACH THIRSTLESS 1&#13;
+COUGH WEATHER damp 1&#13;
+GENERALITIES NIGHT midnight after 04:00 2&#13;
+GENERALITIES FOOD and DRINKS cheese desire 2&#13;
+GENERALITIES Fand DRINKS fat desire 2&#13;
+GENERALITIES FOOD and DRINKS fish desire 2&#13;
+GENERALITIES FOOD and DRINKS lemons desire 2&#13;
+GENERALITIES FOOD and DRINKS meat desire 1&#13;
+GENERALITIES STOOL after amel. 3&#13;
+GENERALITIES WARM agg. 2&#13;
+GENERALITIES WEATHER warm (hot) wet agg. 2&#13;
+GENERALITIES WEATHER wet agg. 1&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>NATRIUM SULPHURICUM, MEDORRHINUM, NATRIUM MURIATICUM </remedies_differentiation>
+      <prescription>
+        <remedy>NATRIUM SULPHURICUM </remedy>
+        <potency>200 CH</potency>
+        <regimen>NATRIUM SULPHURICUM 200CH/4CAPS WEEKLY&#13;
+NATRIUM SULPHURICUM 6X/30CAPS DAILY</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-11-03 08:00:00</followup_date>
+      <conv_med_presc>-----</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>3/11/2014&#13;
+Μειώθηκε αρκετά η συχνότητα των κεφαλαλγιών από την ιγμορίτιδα. &#13;
+Είχε αραιές εξάρσεις το μήνα της αγωγής: περίπου 3 φορές. &#13;
+Μόνο τις τελευταίες μέρες ξεκίνησε βήχας αλλά δεν είχε μπούκωμα και δεν έχει ούτε και τώρα. &#13;
+&gt; δυσμηνόρροια. Με ένα depon ανακουφίστηκε από το κοιλιακό άλγος, ενώ πριν την ομοιοπαθητική ήθελε ponstan και για τις δύο μέρες. &#13;
+&gt;&gt; ευερέθιστο έντερο. &#13;
+Έχει φυσιολογικές κενώσεις, δεν έχει πλέον πόνο και δεν έχει φουσκώματα&#13;
+no more clenching teeth (δεν το ανέφερε στο πρώτο ιστορικό, αλλά παρατήρησε ότι δε σφίγγει πλέον τα δόντια της με την έναρξη της αγωγής)&#13;
+Έντονος πόνος στα γόνατα της που είχε και στην Ε΄Δημοτικού και μετά πάλι στο Λύκειο. Τις πρώτες 3 εβδομάδες είχε έντονο πόνο στα γόνατα και την τελευταία εβδομάδα υφέθηκε ο πόνος. Ξύπνησε η χονδροπάθεια από το παρελθόν&#13;
+</reaction>
+      <analysis> Υπήρξε βελτίωση της χρόνιας ιγμορίτιδας, της κεφαλαλγίας, της δυσμηνόρροιας και του συνδρόμου του ευερέθιστου εντέρου. &#13;
+Εμφανίστηκε και ένα παλιό σύμπτωμα από το παρελθόν: η αρθραλγία στα γόνατα  &#13;
+</analysis>
+      <conclusion>Έδωσα στην ασθενή ignatia λόγω της ερωτικής απογοήτευσης. &#13;
+Το natrium sulphuricum έδρασε και θα το χρειαστεί και στη συνέχεια. </conclusion>
+      <repertorization>
+        <desc>MIND SIGHING 3&#13;
+AILMENTS FROM DISSAPPOINTED LOVE 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>IGNATIA</remedy>
+        <potency>200CH, 1M</potency>
+        <regimen>IGNATIA 200CH THE FIRST DAY&#13;
+IGNATIA 1M/2CAPS THE SECOND AND THIRD DAY&#13;
+NATRIUM SULPHURICUM 6X/30CAPS DAILY ΑΠΌ ΤΗΝ 4η μέρα. &#13;
+NATRIUM SULPHURICUM την 20η μέρα</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-12-10 08:00:00</followup_date>
+      <conv_med_presc>-----</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>10/12/14&#13;
+ψυχολογικά καλύτερα. &#13;
+Εμφανίστηκαν πάλι τα συμπτώματα της ιγμορίτιδας και του ευερέθιστου εντέρου, της αρθραλγίας καθώς και το σφίξιμο των δοντιών. </reaction>
+      <analysis>----</analysis>
+      <conclusion>Χρειάζεται επανάληψη του natrium sulphuricum </conclusion>
+      <repertorization>
+        <desc>MIND FASTIDIOUS 1&#13;
+MIND RESERVED 2&#13;
+HEAD PAIN (headache) morning 2&#13;
+FACE INFLAMMATION sinuses, of (Sinusitis) 2&#13;
+STOMACH THIRSTLESS 1&#13;
+COUGH WEATHER damp 1&#13;
+GENERALITIES NIGHT midnight after 04:00 2&#13;
+GENERALITIES FOOD and DRINKS cheese desire 2&#13;
+GENERALITIES Fand DRINKS fat desire 2&#13;
+GENERALITIES FOOD and DRINKS fish desire 2&#13;
+GENERALITIES FOOD and DRINKS lemons desire 2&#13;
+GENERALITIES FOOD and DRINKS meat desire 1&#13;
+GENERALITIES STOOL after amel. 3&#13;
+GENERALITIES WARM agg. 2&#13;
+GENERALITIES WEATHER warm (hot) wet agg. 2&#13;
+GENERALITIES WEATHER wet agg. 1&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>NATRIUM SULPHURICUM </remedy>
+        <potency>200CH</potency>
+        <regimen>NATRIUM SULPHURICUM 200CH/ 8CAPS &#13;
+1CAPS ΤΟ ΠΡΩΙ ΚΑΙ 1CAPS TO ΒΡΑΔΥ ΓΙΑ 4 ΜΕΡΕΣ ΚΑΙ ΕΠΕΙΤΑ 1CAPS ΚΑΘΕ ΕΒΔΟΜΑΔΑ</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-01-07 08:00:00</followup_date>
+      <conv_med_presc>Depon για κεφαλαλγία</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>7/1/15&#13;
+Ήταν σχετικά καλά. &#13;
+Έντονη κεφαλαλγία από εβδομάδος μετωπιαία που επεκτείνεταιι κροταφικά και ινιακά., Χρειαζόταν να λάβει depon για να ανακουφιστεί. Το αποδίδει στο κρύο&#13;
+Αρθραλγία στο Αρ γόνατο την τελετυαία εβδομάδα. </reaction>
+      <analysis>Υπήρξε υποτροπή μάλλον της ιγμορίτιδας. </analysis>
+      <conclusion>Θα δοθεί μεγαλύτερη δυναμοποίηση </conclusion>
+      <repertorization>
+        <desc>MIND FASTIDIOUS 1&#13;
+MIND RESERVED 2&#13;
+HEAD PAIN (headache) morning 2&#13;
+FACE INFLAMMATION sinuses, of (Sinusitis) 2&#13;
+STOMACH THIRSTLESS 1&#13;
+COUGH WEATHER damp 1&#13;
+GENERALITIES NIGHT midnight after 04:00 2&#13;
+GENERALITIES FOOD and DRINKS cheese desire 2&#13;
+GENERALITIES Fand DRINKS fat desire 2&#13;
+GENERALITIES FOOD and DRINKS fish desire 2&#13;
+GENERALITIES FOOD and DRINKS lemons desire 2&#13;
+GENERALITIES FOOD and DRINKS meat desire 1&#13;
+GENERALITIES STOOL after amel. 3&#13;
+GENERALITIES WARM agg. 2&#13;
+GENERALITIES WEATHER warm (hot) wet agg. 2&#13;
+GENERALITIES WEATHER wet agg. 1&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>NARIUM SULPHURICUM </remedy>
+        <potency>1M</potency>
+        <regimen>NATRIUM SULPHURICUM 1M/3CAPS EVERY 10 DAYS&#13;
+NATRIUM SULPHURICUM 6X/30CAPS DAILY</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2015-03-31 08:00:00</followup_date>
+      <conv_med_presc>Depon για κεφαλαλγία</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Υπήρξε βελτίωση στα συμπτώματά της. &#13;
+Πριν 3 εβδομάδες υπήρξε τηλεφωνική επικοινωνία για κρυολόγημα και της έδωσα gelsemium τηλεφωνικώς. &#13;
+Τον τελευταίο μήνα έμεινε χωρίς ομοιοπαθητική αγωγή. &#13;
+Αναφέρει ότι υπάρχει μια υποτροπή πάλι στην αρθραλγία και στην ιγμορίτιδα. &#13;
+Ξυπνάει στις 4 το πρώι με άσχημα όνειρα πάλι. </reaction>
+      <analysis>----</analysis>
+      <conclusion>-----</conclusion>
+      <repertorization>
+        <desc>MIND FASTIDIOUS 1&#13;
+MIND RESERVED 2&#13;
+HEAD PAIN (headache) morning 2&#13;
+FACE INFLAMMATION sinuses, of (Sinusitis) 2&#13;
+STOMACH THIRSTLESS 1&#13;
+COUGH WEATHER damp 1&#13;
+GENERALITIES NIGHT midnight after 04:00 2&#13;
+GENERALITIES FOOD and DRINKS cheese desire 2&#13;
+GENERALITIES Fand DRINKS fat desire 2&#13;
+GENERALITIES FOOD and DRINKS fish desire 2&#13;
+GENERALITIES FOOD and DRINKS lemons desire 2&#13;
+GENERALITIES FOOD and DRINKS meat desire 1&#13;
+GENERALITIES STOOL after amel. 3&#13;
+GENERALITIES WARM agg. 2&#13;
+GENERALITIES WEATHER warm (hot) wet agg. 2&#13;
+GENERALITIES WEATHER wet agg. 1&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>NATRIUM SULPHURICUM </remedy>
+        <potency>1M</potency>
+        <regimen>NATRIUM SULPHURICUM 1M/4CAPS WEEKLY&#13;
+NATRIUM SULPHURICUM 6X/30CAPS DAILY</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

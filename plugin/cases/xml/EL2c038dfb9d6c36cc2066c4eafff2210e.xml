@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2c038dfb9d6c36cc2066c4eafff2210e</ID>
+  <patient>
+    <case_date>2015-08-07 19:35:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ρ.Μ.</patient_initials>
+    <age>34</age>
+    <circumstances>Παντρεμένη, άνεργη.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αδυναμία/κούραση - Ημικρανίες/πονοκέφαλοι από 4-5μήνου.</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>Αριστερά.</body_side>
+        <appearence_frequency>Η αδυναμία είναι καθημερινή. Οι ημικρανίες την πιάνουν 2-3 φορές τη βδομάδα, 2-3 φορές το μήνα.</appearence_frequency>
+        <pain_desc>Η κούραση είναι σα να σέρνει τα πόδια της, καμπουριάζει σα να μη μπορεί να σηκώσει το σώμα της. Η ημικρανία ξεκινά από την κροταφική περιοχή.</pain_desc>
+        <complaint_ext>Επεκτείνεται σε όλο το κεφάλι ή μόνο αρ ή μόνο δε.</complaint_ext>
+        <other_complaints>Δυσκοιλιότητα. Πολυκυστικές ωοθήκες. Ινοκυστική μαστοπάθεια (κύστες 12-15χιλ. άμφω και αδένωμα στο αρ στήθος). Πόνος στην πλάτη μερικές φορές όταν στέκεται όρθια. Εφίδρωση στα χέρια και στα πόδια, μερικές φορές μυρίζει. Αδυναμία σύλληψης. Στίγμα μεσογειακής αναιμίας. Τελευταίος πυρετός πριν 4 χρόνια.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλα τα παιδικά εμβόλια που προβλέπονται από το ΕΣΥ. Αντιβιώσεις. Gynofen στα 17 για πολυκυστικές ωοθήκες. Προγεστερόνη το 2014 για υδροσάλπιγγα (τώρα σαλπιγγιγραφία=κ.φ.)</therapies_vaccination>
+          <traumas>Έχει χτυπήσει το αρ γόνατο.</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα = καλοήθης όγκος στο στήθος(έχει αφαιρεθεί), αρθρίτιδα, οστεοπενία, πρόωρη κλιμακτήριος. Πατέρας = υπερχοληστεριναιμία, Σ.Δ., ca πνευμόνων.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει. &lt; με την υγρασία το αρ γόνατο. &lt; με τα ρεύματα αέρα.</reactions>
+        <sleeping_habits>Αϋπνίες κάποιες φορές. Κοιμάται ανάσκελα με τα χέρια πάνω από το κεφάλι ή στο πλάι. Βλέπει αγχωτικά όνειρα. Κοιμάται κουκουλωμένη, αλλά τα πόδια τα βγάζει έξω από τα σκεπάσματα.</sleeping_habits>
+        <food_modalities>Επιθυμίες = αυγά, σοκολάτα. Απέχθειες =( - ). Δεν πίνει πολύ νερό.</food_modalities>
+        <menstruation>κ.φ. Πονάει στην κοιλιά και τη μέση την 1η μέρα. &gt; με τη ζέστη. Μειωμένη σεξουαλική επιθυμία. Αδυναμία σύλληψης.</menstruation>
+      </physical>
+      <mental_emotional>Ψυχολογικές μεταπτώσεις. Στρεσάρεται εύκολα και την πιάνει ταχυπαλμία. Έχει άγχος για τα πάντα σχεδόν. Κάποιες φορές της έρχεται το συναίσθημα να κλάψει, αλλά δεν το κάνει. Αναποφάσιστη. Ντροπαλή. Σοβαρή. Έχει νεύρα κάποιες φορές. Φοβίες = ύψος, στη θάλασσα το απίστευτο κενό που είναι από κάτω, τις αρρώστιες, τις βελόνες. </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>σχετικά επιβαρυμένη κατάσταση λόγω των ψυχοδιανοητικών συμπτωμάτων και των χρόνιων παθήσεων και επίσης έχει αρκετό καιρό να κάνει πυρετό.</personal_medical_history>
+        <family_medical_history>Επιβαρυμένο λόγω του ιστορικού του πατέρα.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Έχει πιθανότητα και δυνατότητα με τη σωστή αγωγή να βελτιωθεί η κατάσταση της υγείας της.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Βγάζει τα πόδια έξω από τα σκεπάσματα 2. Τα χέρια και τα πόδια ιδρώνουν και κάποιες φορές μυρίζουν 2. Αδένωμα στο στήθος 2. Φοβάται τις ενέσεις 3. Μειωμένη σεξουαλική επιθυμία 2. Κοιμάται ανάσκελα με τα χέρια πάνω από το κεφάλι 2. Αδυαναμία σύλληψης 2. Φοβάται το ύψος 2. Φοβάται το σκοτάδι 1.</peculiar>
+        <intense>Ντροπαλή 3. &lt; από τα ρεύματα αέρα 3. Ψυχολογικές ματαπτώσεις 1. Δυσκοιλιότητα 3. Επιθυμεί τα αυγά 2. Επιθυμεί τη σοκολάτα 2. Κρυώνει 3. Δεν πίνει πολύ νερό 2. Αναποφάσιστη 2. Φοβάται τις αρρώστιες 2. Αγχώνεται σχεδόν για τα πάντα 3. Αδυναμία 3.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ρ.Μ.1.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>δ.δ. Sil, Calc-c, Puls, Phos, Sulph, Sep. Η δ.δ. ήταν κυρίως μεταξύ Sil, Calc-c και Puls, κυρίως όμως με δυσκόλεψε να κάνω δ.δ. μεταξύ Sil και Calc-c, τελικά επέλεξα τη Sil λόγω του έντονου φόβου για τις βελόνες και του ατομικού της ιστορικού &#13;
+(ινοκυστική μαστοπάθεια και πολυκυστικές ωοθήκες).</remedies_differentiation>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-09-25 18:35:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την 1η εβδομάδα μετά το φάρμακο είχε λίγα περισσότερα νεύρα και έκλαψε 2-3 φορές. Επίσης είχε ζαλάδες, δεκατική πυρετική κίνηση, συνάχι και πονόλαιμο. Έχει/αισθάνεται πιο πολλή ενέργεια. Δε νιώθει κούραση/αδυναμία. Κοιμάται και ξυπνά καλύτερα. Δεν βλέπει αγχωτικά όνειρα. Δεν είχε καθόλου πονοκεφάλους. Δεν έχει νεύρα,πολύ σπάνια. Αγχώνεται πολύ λιγότερο. Δεν έχει ψυχολογικές μεταπτώσεις. Δε φοβάται καθόλου τις αρρώστιες πλέον. είναι λιγότερο ντροπαλή, νιώθει πιο κοινωνική και έχει διάθεση να επικοινωνήσει. Έχει περισσότερη αυτοπεποίθηση και είναι λιγότερο αναποφάσιστη. Ιδρώνει λιγότερο στα πόδια. </reaction>
+      <analysis>Δεν μου είναι ξεκάθαρο αν είχε αρχική επιδείνωση, αλλά σίγουρα έχει μεγάλη βελτίωση.</analysis>
+      <conclusion>Θα περιμένω και θα δώσω placebo.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ρ.Μ.2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-05 19:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ήταν λίγο αγχωμένη αυτή την περίοδο. Δεν είχε πονοκεφάλους. Μειώθηκε το άγχος της για τις βελόνες. Μειώθηκε η δυσκοιλιότητα και λίγο η όρεξη της για σοκολάτα.</reaction>
+      <analysis>Το φάρμακο συνεχίζει να έχει δράση. </analysis>
+      <conclusion>Θα περιμένω και θα δώσω placebo.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Ρ.Μ.3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

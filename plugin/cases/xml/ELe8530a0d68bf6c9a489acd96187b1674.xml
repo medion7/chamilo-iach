@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELe8530a0d68bf6c9a489acd96187b1674</ID>
+  <patient>
+    <case_date>2015-03-08 11:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Α.</patient_initials>
+    <age>5</age>
+    <circumstances>Παιδί 4 ετών.Υιοθετημένο σε ηλικία 2,5 ετών,πιθανώς από τοξικομανείς βιολογικούς γονείς,πηγαίνει παιδικό σταθμό.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Άγνωστη.</origin>
+        <causative_factors>Άγνωστοι.</causative_factors>
+        <modalities>Χειροτερεύει με το κρύο.</modalities>
+        <occurrence_time>Κρυολογεί συχνότερα το χειμώνα.Για 2 μήνες είναι άρρωστη. &#13;
+Το καλοκαίρι είναι καλά.</occurrence_time>
+        <body_side>\\</body_side>
+        <appearence_frequency>Κάθε χειμώνα για 2 μήνες είναι άρρωστη.</appearence_frequency>
+        <pain_desc>Περιγραφή του βήχα: Βήχας με φλέματα που δεν μπορεί να τα βγάλει. Βελτιώνεται μπρούμυτα ή στο πλάι.Όταν πέσει να κοιμηθεί βήχει πολύ έντονα τις 2  πρώτες ώρες,9 έως 11.Ξεκινάει συνήθως με φτέρνισμα και καταρροή,με ασπροκίτρινη πηχτή βλέννα και οπισθορινική καταρροή.</pain_desc>
+        <complaint_ext>\\</complaint_ext>
+        <other_complaints>\\</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Χρόνια βρογχίτιδα.Παίρνει όταν αρρωσταίνει βρογχοδιασταλτικά, και κορτικοστεροειδή.</conv_med_presc>
+        <lab_tests>
+          <desc>\\</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>\\</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλοι οι υποχρεωτικοί εμβολιασμοί.Δεν έχει καταγραφεί κάτι στο ιστορικό της από το ίδρυμα.</therapies_vaccination>
+          <traumas>Μόλις υιοθετήθηκε έκανε εξάνθημα σε μηρούς , γόνατα,βραχίονες,ήταν πολύ φοβισμένο,έκλαιγε συνέχεια .</traumas>
+          <infections>\\</infections>
+          <other>\\</other>
+        </personal>
+        <family>
+          <diseases>Δεν γνωρίζουμε.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ούτε ζεσταίνεται ούτε κρυώνει.</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα.Τρίζει τα δόντια στον ύπνο 2. Για να κοιμηθεί θέλει να αυνανιστεί με το σεντόνι της.</sleeping_habits>
+        <food_modalities>Des αλάτι 3,λουκάνικα 2,τα πικάντικα 2,τα παγωτά 2&#13;
+Μεγάλη δίψα 3</food_modalities>
+        <menstruation>\\</menstruation>
+      </physical>
+      <mental_emotional>Σοβαρή ,κλειστή 2 .Πολύ έξυπνη.Φόβος εγκατάλειψης.Άνθρωπος με πάθος 2.Δένεται δύσκολα με ανθρώπους,αλλά όταν δεθεί προσκολλάται.Φοβάται το σκοτάδι 2.Έχει μεγάλη φαντασία.Είναι πάρα πολύ  αξιοπρεπής και τη νοιάζει πολύ η εικόνα της 2. Της αρέσει πολύ η μουσική 2,χορεύει.Όταν θυμώνει πετάει πράγματα και μπορεί να πέσει κάτω και να κλαίει. Αγωνίστρια.Της αρέσουν τα ταξίδια 3 και η θάλασσα 3.Ζηλεύει 2,από ανασφάλεια.Φοβάται τα έντομα 2.Απέχθεια στις γάτες 3</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Βρογχίτιδες:προσβολή του αναπνευστικού ,και μάλιστα σε βαθύτερο επίπεδο,σχετικά ψηλά στην ιεραρχία των συστημάτων.Και συμπτώματα από το ψυχοδιανοητικό. Παρόλα αυτά είναι σχετικά καθαρό φάρμακο και κάνει πυρετούς.Πιθανώς ανήκει στο γκρούπ Α.</personal_medical_history>
+        <family_medical_history>άγνωστο.</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Παρότι η παθολογία του δεν είναι επιφανειακή δίνει καθαρό φάρμακο.Θεωρώ ότι η πρόγνωση είναι καλή.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Της αρέσουν πολύ τα λουκάνικα 2&#13;
+Της αρέσει το ταξίδι αυτό καθεαυτό 3&#13;
+</peculiar>
+        <intense>Βρογχίτιδες 3&#13;
+Κοιμάται μπρούμυτα 3&#13;
+Τρίζει τα δόντια 3&#13;
+Αυνανίζεται 2&#13;
+Απέχθεια στις γάτες 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>NOSE ­ CATARRH 2&#13;
+COUGH ­ DAYTIME 1&#13;
+COUGH ­ LYING ­ bed ­ agg. 2&#13;
+LARYNX AND TRACHEA ­ CATARRH 2&#13;
+SLEEP ­ POSITION ­ abdomen, on 2&#13;
+TEETH ­ GRINDING ­ sleep, during 3&#13;
+GENERALITIES ­ HISTORY ­ personal ­ bronchitis, of recurrent 3&#13;
+GENITALIA­FEMALE ­ MASTURBATION, disposition 2&#13;
+MIND ­ FEAR ­ dark 2&#13;
+GENERALITIES ­ BATHING ­ sea ­ amel. 2&#13;
+MIND ­ TRAVEL ­ desire to 2&#13;
+MIND ­ RESPONSIBILITY ­ taking responsibility too seriously 2&#13;
+MIND ­ SERIOUS 1&#13;
+MIND ­ FEAR ­ alone, of being 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 2&#13;
+MIND ­ ARDENT 2&#13;
+MIND ­ ANGER, irascibility ­ throws things away 2&#13;
+MIND ­ FEAR ­ insects, of 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sausages ­ desire 2&#13;
+MIND ­ SENSITIVE, oversensitive 2&#13;
+MIND ­ ANIMALS ­ disgust of cats and furry animals 1&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Medorrhinum: θέλει τη θάλασσα,το αλάτι,είναι άνθρωπος με πάθος,κοιμάται μπρούμυτα,είναι ευαίσθητη και αυνανίζεται.Αλλά δεν σιχαίνεται τις γάτες,δεν πετάει πράγματα στα νεύρα του , δεν φοβάται να μείνει μόνο του,δεν τρίζει τα δόντια</remedies_differentiation>
+      <prescription>
+        <remedy>Tuberculinum</remedy>
+        <potency>200/1M</potency>
+        <regimen>200 και  1M την πρώτη μέρα Kali sulphuricum 6χ για ένα μήνα.</regimen>
+        <other_notes>//</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-08 10:00:00</followup_date>
+      <conv_med_presc>η αρχικη αγωγη</conv_med_presc>
+      <lab_tests>
+        <desc>//</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>παρουσιασε την πρωτη  εβδομαδα για δυο ημερες βηχα εντονο χωρις αλλα συμπτωματα. Η διάθεση της είναι πολύ καλύτερα ,θυμώνει λιγότερο και οι αντιδράσεις της είναι πολύ πιο ήπιες.Δόντια τρίζει αλλά λιγότερο.&#13;
+</reaction>
+      <analysis>Βελτίωση μετά από αρχική επιδείνωση.Καλή αντίδραση ,σωστό φάρμακο. Περιμένω.</analysis>
+      <conclusion>Σωστό φάρμακο, καλή αντίδραση καλή πρόγνωση</conclusion>
+      <repertorization>
+        <desc>//</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δίνω άλλο φάρμακο.Περιμένω.</remedy>
+        <potency>//</potency>
+        <regimen>//</regimen>
+        <other_notes>6μήνες αργότερα παραμένει βελτιωμένη σε όλα τα επίπεδα. Αναμένω την εικόνα ως προς τις βρογχίτιδες τους χειμερινούς μήνες.&#13;
+Δεν έχω δώσει ενδιάμεσα άλλο φάρμακο.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELa011371f3f94db0b5f090daeab705ae7</ID>
+  <patient>
+    <case_date>2014-11-06 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Π.Β.</patient_initials>
+    <age>41</age>
+    <circumstances>Παντρεμένη. (παντρευτηκε προ έτους,στην ιδια σχεση 10 χρόνια).Άτεκνη.Πωλήτρια χονδρικής.&#13;
+Έχει κόψει το κάπνισμα, ασκείται.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ημικρανίες . Εδώ και 2 χρόνια. Έχασε τον πατέρα της πριν 2 ½ χρόνια. Πριν είχε κεφαλαλγίες αλλά σπάνια. Δεν έχει κάνει εξετάσεις.</origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>&lt;άγχος ,στενοχώρια, &lt;πριν την περίοδο. Διαρκεί 3 ημέρες.  Δεν έχει το ίδιο μοτίβο. (χρησιμοποιεί ponstan υπόθετο). Καπέλο στον ηλιο &lt;&lt; ημικρανία.</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc> Ο πόνος είναι σαν μαχαιριά.</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>-Έκανε προσπάθεια εξωσωματικής πριν λίγο καιρό ολοκληρώθηκε το 2ο στάδιο. Κατά την διάρκεια λήψης ορμονών δεν είχε ημικρανίες. Την έχει πειράξει πως δεν μπορεί να κάνει παιδί. Ξεκίνησε προσπάθεια την περίοδο ασθένειας τού πατέρα της.&#13;
+-Σε υστεροσκόπιση είδαν κάποια ζημιά και της είπαν πως έχει προκληθεί πιθανόν από φυματίωση σε μικρη ηλικία. Έκανε όλες τις εξετάσεις αλλά δεν έδειξαν κάτι.&#13;
+-Ήταν πολύ πιο ευαίσθητη όταν άκουγε για αρρώστιες και σε σχέση με την ασθένεια του πατέρα της (ca). (κράτησε 2 χρόνια).</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc>Δεν έχει φέρει.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αναφέρει χρήση ινδικής κάνναβης, κοκαΐνη. (για 10ετία). Ξενυχτούσε, έβγαινε, έχει δουλέψει νύχτα, και κάποια στιγμή «έπαθα μια κρίση μέσα μου, πως έχω καταστραφεί και μου γύρισε το μυαλό».</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other>-Σε εφηβεια αμυγδαλίτιδες πυωδεις.&#13;
+-Έχει οζους στον θυρεοειδη. (προ 2 ετίας). Θα κάνει ξανα έλεγχο.&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας ca,σάκχαρο (απεβίωσε προ 2 ετίας). Παππούς είχε ca. </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει  1.&#13;
+Extremities :  κρύα</reactions>
+        <sleeping_habits>ξεκούραστος. Πλάι δεξιά.</sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation>περίοδος κφ.</menstruation>
+      </physical>
+      <mental_emotional>Αγχώδης 2 (με τα ραντεβού, με τον χρόνο)&#13;
+Νευριάζει (θα κρατησει τα νευρα, «προκειμένου να υπάρχει ισορροπία»)&#13;
+Αποφευγει τις κόντρες.&#13;
+Κάποιες φορες  σφίγγει τα δόντια (στον ύπνο δεν ξερει)&#13;
+Τακτική  1-2 &#13;
+Συμπάσχει 2-3 (δεν βλέπει ειδήσεις, θα πάρει το πρόβλημα του άλλου)&#13;
+Της αρέσει η θάλασσα 1.&#13;
+Φοβίες: υγείας 2 για τους δικούς της.&#13;
+Κλαίει, και μπροστά σε άλλους.( προτιμά να κλαψει μόνη).&#13;
+Εσωστρεφής 2.&#13;
+Δέχεται την παρηγοριά, δεν θα το ζητήσει.&#13;
+Έχει αυτοπεποίθηση.&#13;
+Δεν διεκδικεί.&#13;
+Κοινωνική.&#13;
+Συνεπής.&#13;
+Υπεύθυνη.&#13;
+Τον τελευταίο καιρό που ο πατέρας της έκανε χημειοθεραπείες, έμενε μαζί του και για ένα 6μηνο το έζησε όλο από κοντά. «μου στοίχισε». Της πήρε καιρό να κλάψει.&#13;
+Μέτρια ερωτική επιθυμία.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>HEAD PAIN (headache) 1&#13;
+HEAD PAIN (headache) menses before 2&#13;
+HEAD PAIN (headache) Cutting, darting, stabbing knife, as with a 1&#13;
+GENERALITIES SUN from exposure to agg. 2&#13;
+GENERALITIES HISTORY family (Inheritance) cancer 1&#13;
+GENERALITIES FOOD and DRINKS fat aversion 1&#13;
+GENERALITIES FOOD and DRINKS eggs aversion 2&#13;
+GENERALITIES FOOD and DRINKS sweets desire 2&#13;
+GENERALITIES FOOD and DRINKS pasta desire 1&#13;
+EXTREMITIES COLDNESS 1&#13;
+GENERALITIES HEAT lack of vital 1&#13;
+MIND FASTIDIOUS 2&#13;
+MIND SYMPATHETIC 2&#13;
+MIND WEEPING, tearful mood, etc. alone, when 2&#13;
+MIND RESERVED 2&#13;
+MIND GRIEF ailments from 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Natrium muriaticum</remedy>
+        <potency>200CH, 1M, 12CH</potency>
+        <regimen>200CH/1cps, 1M/1cps, 12CH/30.</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>11/12/2014&#13;
+Είχε 2 φορές ημικρανία. Στην περίοδο και πριν την περίοδο δεν την έπιασε. Μόνο μετά 1 φορά. Και η 2 φορές ήταν δυνατές. Μετά απο επικοινωνία πήρε Sang. Και ήταν καλά μετά από 24 ωρες.&#13;
+Και τις 2 φορές ξεκίνησαν στον ύπνο, αλλά υποχωρούν πιο γρήγορα. Υπήρχαν και φορές που ένιωσε πως θα κάνει κεφαλαλγία αλλά δεν εκδηλώθηκε.&#13;
+&#13;
+Είχε μια καθυστέρηση 10 ημερών και η έμμηνος κράτησε 2 ημέρες.&#13;
+Καλύτερη ενέργεια. «Αισθάνομαι πιο δυνατή».&#13;
+Διαχειρίζεται καλύτερα το άγχος της.&#13;
+Ύπνος καλός.Αισθάνεται πιο ήρεμη.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Βελτίωση.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrium muriaticum</remedy>
+        <potency>12CH</potency>
+        <regimen>12CH/30cps.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>21/1/2015&#13;
+Τον Δεκ/14 μετά απο κλήση πήρε Sang. αλλά  χειροτέρεψε. Δόθηκαν ξανά οδηγίες να πάρει παρακεταμόλη και την άφησε μετά από 3 ημέρες. Ο πόνος ήταν πολύ έντονος. Με την υποχώρηση της ημικρανίας ξεκίνησε η έμμηνος ρήση.&#13;
+Μαζί με την περίοδο είχε και βήχα, ρινική συμφόρηση, εμπύρετο (38,5ο ), πήρε Aconitum. Κράτησε 4-5 ημέρες. Τις τελευταίες ημέρες της αρρώστιας την έπιασε ημικρανία πάλι, πήρε Bell , δεν την βοήθησε. Μετά από 2 ημέρες ήταν οκ. &#13;
+Στις αρχές του Ιανουαρίου είχε πονόλαιμο, ρινική συμφόρηση και εμπύρετο (38,5ο ). Και κατά την ασθένεια είχε πάλι ημικρανία. Πήρε Kali-b. η ημικρανία διήρκεσε 2 ημέρες. &#13;
+Αδιαθέτησε μια εβδομάδα νωρίτερα (15/1/15) χωρίς να προηγηθεί ημικρανία. Όμως στο τελείωμα της εμμήνου έκανε πολύ έντονη κεφαλαλγία, η οποία κράτησε 3 ημέρες.(συνέπεσε και κούραση εργασίας και στενοχώρια).&#13;
+Κοιμάται καλύτερα.&#13;
+Αισθάνεται πιο δυνατή.&#13;
+Διάθεση καλύτερη.&#13;
+Το άγχος είναι καλύτερα, πιο ήρεμη. (παρόλο που είχε ταξίδι επαγγελματικό ήταν πιο ήρεμη).&#13;
+Δεν αναφέρει αλλαγές.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Η εμφάνιση οξέως είναι θετική. Η γενικότερη εικόνα είναι βελτιωμένη (ενέργεια, διάθεση κτλ). Μπορεί η ένταση των κεφαλαλγιών να είναι μεγάλη αλλά έχουν μειωθεί σε συχνότητα.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrium muriaticum</remedy>
+        <potency>1M, 12CH</potency>
+        <regimen>1M/3cps-μια κάθε 15 ημέρες,  12CH/45cps.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>31/3/2015&#13;
+Πολύ καλλίτερα.&#13;
+Από τις 21/2 εως σήμερα δεν έχει ημικρανία. Είχε 2 φορές πριν τις 21/2 αλλα ήταν μικρότερης διάρκειας (1 ημερα).&#13;
+&#13;
+Ύπνος καλός.&#13;
+Ενέργεια πολύ καλή.&#13;
+Διαχειρίζεται καλύτερα το άγχος, πιο ήρεμη παρόλο τον φόρτο εργασίας.&#13;
+Δεν αναφέρει αλλαγές στα ψυχοδιανοητικά ούτε και στα μεταβολικά.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrium muriaticum</remedy>
+        <potency>12CH</potency>
+        <regimen>12CH/30cps.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>9/6/2015&#13;
+Θεωρεί πως είναι πάρα πολύ καλύτερα.  Είχε ημικρανία για 2 ημέρες αλλά ξεκινούσε το πρωί και μέχρι το μεσημέρι ήταν οκ.&#13;
+Μετά από 15 ημέρες είχε πάλι έντονη ημικρανία για 2 ημέρες (πήρε depon). &#13;
+Τον Μάιο είχε για μια φορά παλι για 2 ημέρες μέχρι το μεσημέρι. Τελευταία φορά σε επαγγελματικό ταξίδι που ήταν και κουρασμένη και σε έμμηνο ρηση, κράτησε μια ημέρα.&#13;
+Ενέργεια καλη όπως και την τελευταία φορά.&#13;
+Ο ύπνος ειναι καλός, ξεκούραστος.&#13;
+Καλύτερα με το άγχος, και με την διαχείριση του χρόνου. Δεν έχει νεύρα. «τα έπαιρνα πιο βαριά όλα πιο στενάχωρα, τώρα το διαχειρίζομαι καλύτερα». &#13;
+Και με τον πατέρα της , το πρόβλημα που είχε, μπορεί να μιλήσει πιο άνετα για αυτό, «σαν να το εχω ξεπεράσει αρκετά».&#13;
+Η ερωτική επιθυμία είναι στα ίδια.&#13;
+Ψυχοδιανοητικά: «είμαι πιο ανέμελη». Τα ίδια στοιχεία αλλά πιο ήπια.&#13;
+Μεταβολικά χωρίς αλλαγές.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrium muriaticum</remedy>
+        <potency>12CH</potency>
+        <regimen>Συνέχιση όπως πριν.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

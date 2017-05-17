@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL670758cc97668655b8c3da0e48841168</ID>
+  <patient>
+    <case_date>2016-01-04 00:40:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΕΜ</patient_initials>
+    <age>2</age>
+    <circumstances>ΚΟΡΙΤΣΑΚΙ 15 ΜΗΝΩΝ ΔΕΥΤΕΡΟ ΠΑΙΔΙ ΤΗΣ ΟΙΚΟΓΕΝΕΙΑΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΠΟ 4ΜΗΝΟΥ ΣΥΝΔΥΑΖΕΤΑΙ ΜΕ ΤΗΝ ΟΔΟΝΤΟΦΥΙΑ</origin>
+        <causative_factors>ΟΔΟΝΤΟΦΥΙΑ ΕΝΑΡΞΗ ΔΟΥΛΕΙΑΣ ΜΑΜΑΣ(ΑΠΟΧΩΡΙΣΜΟΣ)</causative_factors>
+        <modalities>ΒΕΛΤΙΩΣΗ ΜΕ ΤΗΝ ΑΓΚΑΛΙΑ ΤΗΣ ΜΑΜΑΣ ΚΑΙ ΤΟ ΚΟΥΝΗΜΑ. ΕΠΙΔΕΙΝΩΣΗ ΤΗΝ ΝΥΧΤΑ</modalities>
+        <occurrence_time>ΕΠΙΔΕΙΝΩΣΗ ΤΗΝ ΝΥΧΤΑ ΚΑΙ ΜΕ ΤΗΝ ΟΔΟΝΤΟΦΥΙΑ</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>ΚΑΘΗΜΕΡΙΝΗ ΕΥΕΡΕΘΙΣΤΟΤΗΤΑ ΔΙΑΡΡΟΙΕΣ2/ΗΜΕΡΑ</appearence_frequency>
+        <pain_desc>ΑΝΥΠΟΦΟΡΗ ΓΚΡΙΝΙΑ ΚΑΙ ΕΥΕΡΕΘΙΣΤΟΤΗΤΑ ΘΥΜΩΝΕΙ ΧΩΡΙΣ ΛΟΓΟ ΠΕΤΑΕΙ ΠΡΑΓΜΑΤΑ ΔΑΓΚΩΝΕΙ.ΔΙΑΡΡΟΙΑ ΣΑΝ ΣΠΑΝΑΚΙ.</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΑΝΗΣΥΧΙΑ ΓΚΡΙΝΙΑ ΓΙΑ ΤΑ ΟΠΟΙΑ ΛΑΜΒΑΝΕΙ ΣΥΧΝΑ DEPON ΧΩΡΙΣ ΚΑΛΗ ΑΝΤΑΠΟΚΡΙΣΗ</conv_med_presc>
+        <lab_tests>
+          <desc>ΔΕΝ ΕΧΟΥΝ ΓΙΝΕΙ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΔΕΝ ΕΧΟΥΝ ΓΙΝΕΙ ΕΜΒΟΛΙΑΣΜΟΙ ΕΚΤΟΣ ΑΠΟ 3 ΔΟΣΕΙΣ ΔΙΦΘΕΡΙΤΙΔΟΣ ΤΕΤΑΝΟΥ ΚΟΚΚΥΤΗ</therapies_vaccination>
+          <traumas>ΠΡΙΝ ΑΠΟ 5ΜΗΝΕΣ Η ΜΗΤΕΡΑ ΕΠΕΣΤΡΕΨΕ ΣΤΗΝ ΔΟΥΛΕΙΑ ΤΗΣ</traumas>
+          <infections>ΙΩΣΗ ΑΠΟ ΑΔΕΝΟΙΟ ΠΡΟ 6ΜΗΝΟΥ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΕΛΕΥΘΕΡΟ ΟΙΚΟΓΕΝΕΙΑΚΟ ΙΣΤΟΡΙΚΟ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΕΝΕΤΑΙ  ΞΕΣΚΕΠΑΖΕΤΑΙ ΙΔΡΩΝΕΙ ΣΤΟ ΚΕΦΑΛΙ</reactions>
+        <sleeping_habits>ΑΝΑΣΚΕΛΑ ΑΛΛΑ ΑΛΛΑΖΕΙ ΣΥΧΝΑ ΘΕΣΗ ΜΕΣΑ ΣΤΟΝ ΥΠΝΟ ΤΗΣ.</sleeping_habits>
+        <food_modalities>ΘΕΛΕΙ ΧΛΙΑΡΟ ΓΑΛΑ ΓΙΑΟΥΡΤΙ.</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΥΕΡΕΘΙΣΤΟΤΗΤΑ ΔΕΝ ΞΕΡΕΙ ΤΙ ΘΕΛΕΙ ΘΥΜΩΝΕΙ ΚΑΙ ΠΕΤΑΕΙ ΠΡΑΓΜΑΤΑ ΔΕΝ ΘΕΛΕΙ ΝΑ ΤΗΝ ΑΓΓΙΖΕΙΣ.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΙΩΣΗ ΑΠΟ ΑΔΕΝΟΙΟ 6ΜΗΝΕΣ ΠΡΙΝ.ΜΕΧΡΙ ΤΟΝ 11 ΜΗΝΑ ΗΤΑΝ ΕΝΑ ΣΧΕΤΙΚΑ ΗΡΕΜΟ ΠΑΙΔΑΚΙ</personal_medical_history>
+        <family_medical_history>ΕΛΕΥΘΕΡΟ</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΚΑΘΑΡΟ ΦΑΡΜΑΚΟ ΚΑΛΗ ΠΡΟΓΝΩΣΗ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΔΕΝ ΘΕΛΕΙ ΑΓΓΙΓΜΑ3 ΠΕΤΑΕΙ ΟΤΙ ΤΟΥ ΔΙΝΟΥΝ 3ΔΙΑΡΡΟΙ ΣΑΝ ΣΠΑΝΑΚΙ2</peculiar>
+        <intense>ΕΥΕΡΕΘΙΣΤΟΤΗΤΑ4ΘΥΜΟΣ 3ΑΥΠΝΙΑ2Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>CHAMOMILA  PULSATILA</remedies_differentiation>
+      <prescription>
+        <remedy>CHAMOMILA</remedy>
+        <potency>1M</potency>
+        <regimen>1CAPS 1M</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-02 23:40:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc>ΔΕΝ ΧΡΕΙΑΣΤΗΚΑΝ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΕΤΑ ΑΠΟ 3 ΜΕΡΕΣ ΣΤΑΔΙΑΚΗ ΒΕΛΤΙΩΣΗ ΣΕ ΣΗΜΕΙΟ ΠΟΥ ΤΩΡΑ ΤΟ ΠΑΙΔΙ ΕΙΝΑΙ ΗΡΕΜΟ ΜΕ ΠΟΛΥ ΒΕΛΤΙΩΜΕΝΗ ΔΙΑΘΕΣΗ ΚΑΙ ΑΔΙΑΛΛΕΙΠΤΟ ΥΠΝΟ ΧΩΡΙΣ ΤΗΝ ΧΡΗΣΗ DEPON.</reaction>
+      <analysis>ΠΟΛΥ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΚΑΘΑΡΟ ΦΑΡΜΑΚΟ</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL729f2f4b367af979381b9b8c17d5440d</ID>
+  <patient>
+    <case_date>2015-09-23 22:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Γ.</patient_initials>
+    <age>32</age>
+    <circumstances>άγαμη (σε σχέση από 6ετίας), ηλεκτρολόγος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>κεφαλαλγία από 6μήνου</origin>
+        <causative_factors>άγνωστοι</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>συνήθως συνδέεται με την εμμηνο ρύση</occurrence_time>
+        <body_side>ινίο</body_side>
+        <appearence_frequency>στην αρχή καθημερινά. &#13;
+Τώρα 1 εβδομάδα το μήνα-διαρκεί όλη τη μέρα</appearence_frequency>
+        <pain_desc>συσφιγκτικός, σαν μέγγενη</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>δυσκαμψία στα δάχτυλα των χεριών το πρωί όταν ξυπνά-ψωριασική αρθρίτιδα&#13;
+αναιμία&#13;
+πολλή εξαντλημένη,θέλει συνέχεια να κοιμάται,ξυπνάει δύσκολα&#13;
+ευαισθησία στις πατούσες,δεν μπορεί να περπατήσει ξυπόλητη στα βότσαλα&#13;
+βραδυνός τύπος&#13;
+ατοπική δερματίτιδα&#13;
+τα τελευταία 5 χρόνια δεν έχει κάνει πυρετό&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Σίδηρος  και αναλγητικά περιστασιακά</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>δε θυμάται τα φάρμακα</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>όλοι οι εμβολιασμοί που προβλέπονται από το ΕΣΥ&#13;
+αντιβιώσεις&#13;
+κρέμα κορτιζόνης για την ατοπική δερματίτιδα&#13;
+ενδοφλέβια αντιβίωση προ 5ετίας λόγω πυελονεφρίτιδας (θ=39)</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>ψωριασική αρθρίτιδα από 19 ετών&#13;
+ατοπική δερματίτιδα&#13;
+ρινίτιδα&#13;
+πυελονεφρίτιδα προ 5ετίας</other>
+        </personal>
+        <family>
+          <diseases>πατέρας : απεβίωσε σε ηλικία 53 ετών λόγω ΑΕΕ&#13;
+μητέρα : κατάθλιψη, ψωριασική αρθρίτιδα, πρόπτωση μήτρας</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει&#13;
+&gt; στη θάλασσα&#13;
+&lt; από το κρύο και την υγρασία (αρθρίτιδα)</reactions>
+        <sleeping_habits>κοιμάται σε εμβρυική στάση&#13;
+δεν την ξεκουράζει ο ύπνος, θέλει να κοιμάται συνέχεια, νιώθει ο,τι θέλει να κοιμηθεί πιο πολύ&#13;
+</sleeping_habits>
+        <food_modalities>επιθυμίες = άγουρα φρούτα, ξύδι, αλάτι, κοκκινη σάλτσα, λαχανικά&#13;
+απέχθειες = γάλα&#13;
+</food_modalities>
+        <menstruation>κ.φ.</menstruation>
+      </physical>
+      <mental_emotional>κοινωνική, ευαίσθητη, δυναμική, καλλιτεχνική φύση&#13;
+αγαπά τα ζώα περισσότερο από τους ανθρώπους&#13;
+πλένει συχνά τα χέρια&#13;
+έχει μία προσκόλληση στα θεία&#13;
+φοβάται το κακό/σατανικό, τα φαντάσματα</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>θετικά στοιχεία = κοινωνική, δυναμική, καλλιτεχνική φύση&#13;
+αρνητικά στοιχεία = έχει πάψει μετά απο  πυελονεφρίτιδα να κάνει οξέα, ψωριασική αρθρίτιδα, προσκόλληση στα θεία που της δημιουργεί φοβίες&#13;
+μετρίως επιβαρυμένο</personal_medical_history>
+        <family_medical_history>αρκετά επιβαρυμένο και από τους δύο γονείς&#13;
+κληρονομική προδιάθεση για ψωριασική αρθρίτιδα από τη μητέρα&#13;
+</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>επιβαρυμένη κατάσταση υγείας,αλλά έχει καθαρή εικόνα και δεν έχει μόνιμες βλάβες. Με τη σωστή συνταγογράφηση θα πάει καλά. Στην πορεία της θεραπείας θα εμφανίσει οξύ που θα χρειαστεί αγωγή.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>αγαπά τα ζώα περισσότερο από τους ανθρώπους 1&#13;
+πλένει συχνά τα χέρια 2&#13;
+φοβάται  τα φαντάσματα 2&#13;
+δυσκαμψία στα δάχτυλα των χεριών το πρωί όταν ξυπνά 2&#13;
+ευαισθησία στις πατούσες,δεν μπορεί να περπατήσει ξυπόλητη στα βότσαλα 2&#13;
+κοιμάται σε εμβρυική στάση 2&#13;
+της αρέσουν τα άγουρα φρούτα 2&#13;
+δεν της αρέσει το γάλα 1&#13;
+της αρέσει το ξύδι 2&#13;
+&gt; στη θάλασσα 3</peculiar>
+        <intense>φοβάται το κακό/σατανικό/προσκόλληση στα θεία 3&#13;
+πονοκέφαλος στο ινίο 3&#13;
+πονοκέφαλος σχετίζεται με την έμμηνο ρύση 1&#13;
+πονοκέφαλος σαν μέγγενη 1&#13;
+δεν την ξεκουράζει ο ύπνος 1&#13;
+κρυώνει 1&#13;
+της αρέσει το αλάτι 2&#13;
+&lt; με την υγρασία και το κρύο (κυρίως η αρθρίτιδα) 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Γ.1.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>Στη δ.δ. Med,Manc,Rhus-tox,Calc-c,Phos,Lyc,Sep,Nat-m,Ars,Carbo-v,Sulp&#13;
+Η εικόνα του φαρμάκου είναι καθαρή</remedies_differentiation>
+      <prescription>
+        <remedy>Medorrhinum</remedy>
+        <potency>200CH</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-26 21:00:00</followup_date>
+      <conv_med_presc>Σίδηρος περιστασιακά</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>την 1η μέρα πολύ βαρύ κεφάλι και ανακατοσούρα και το βράδυ την έπιασαν κλάματα χωρίς λόγο&#13;
+για 3-4 μέρες μετά είχε ζαλάδες και βαρύ κεφάλι&#13;
+την 5η μέρα νύσταζε όλη τη μέρα,έκανε δέκατα και είχε ρίγος όλη τη μέρα&#13;
+μετά την 1η εβδομάδα σταμάτησε η δυσκαμψία στα δάχτυλα και σιγά σιγά ξεπρήστηκαν, έχει μείνει μία ερυθρότητα στις αρθρώσεις&#13;
+2-3 φορές βαρύ κεφάλι, δεν ξαναέκανε έντονο πονοκέφαλο&#13;
+μεγαλύτερη ανεκτικότητα στο κρύο και την υγρασία εφόσον κρυώνει ο καιρός και αυτή βελτιώνεται</reaction>
+      <analysis>είχε αρχική επιδείνωση και το συναίσθημα της κινήθηκε-πολύ καλή αντίδραση&#13;
+δεν περίμενα να κάνει οξύ, λόγω του επιπέδου υγείας&#13;
+</analysis>
+      <conclusion>θα περιμένουμε</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Γ.2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-22 21:00:00</followup_date>
+      <conv_med_presc>Σίδηρος περιστασιακά</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>παραμένει βελτιωμένη</reaction>
+      <analysis>καλή πορεία</analysis>
+      <conclusion>θα περιμένουμε</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5196/Μ.Γ.3.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Silica</remedy>
+        <potency>6x</potency>
+        <regimen>1 cap</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL43519ec91f4cdb3b3c196e0039d35a7f</ID>
+  <patient>
+    <case_date>2014-12-09 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Τ.Κ.</patient_initials>
+    <age>49</age>
+    <circumstances>Ανύπαντρη. Ζει μαζί με τη μάνα της, την οποία και φροντίζει</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Γαστροοισοφαγική παλινδρόμηση από την εφηβεία με αίσθημα καύσους και αναγωγές. &#13;
+Στο παρελθόν είχε άλγος κατά μήκος του οισοφάγου αλλά τώρα μόνο 2 μέρες πριν την περίοδο. &#13;
+Γαστρόσκοπηση πριν 4 χρόνια: γαστρίτιδα ΙΙ. Δεν πήρε τα συμβατικά φάρμακα.&#13;
+Συνδρόμο ευερέθιστου εντέρου: αιμορροϊδες, δύσκολο στριμμένο έντερο (ένας παθολόγος  ήθελε να της δώσει ηρεμιστικά). &#13;
+&#13;
+. &#13;
+&#13;
+</origin>
+        <causative_factors>Οι γονείς της, την εμπιστεύτηκαν  σε ηλικία 40 ημερών στον παππού και στη γιαγιά για να δουλέψουν ως οικονομικοί μετανάστατες στη Γερμανία. </causative_factors>
+        <modalities>Γαστροοισοφαγική παλινδρόμηση&#13;
+&lt;&lt;&lt; τσιγαριστό με κρεμμύδι&#13;
+&lt;&lt; τηγανιτά&#13;
+&lt;&lt; λίπος&#13;
+&lt;&lt; σφολιάτες</modalities>
+        <occurrence_time>Πριν την περίοδο: αίσθημα καύσους κατά μήκος του οισοφάγου και νιώθει ότι δεν πέπτει καλά. &#13;
+&#13;
+</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>--</appearence_frequency>
+        <pain_desc>----</pain_desc>
+        <complaint_ext>----</complaint_ext>
+        <other_complaints>Μετατραυματική φλεγμονή στο ΔΕ μετατάρσιο.&#13;
+Κήλες στην αυχενική μοίρα και πολλά οστεόφυτα. &#13;
+Κοιμάται και μουδιάζουν τα χέρια της. &#13;
+&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Αντιφλεγμονώδη: XEFO για αρθραγλγία στα γόνατα που προκλήθηκε από κάκωση πριν 2 μήνες. </conv_med_presc>
+        <lab_tests>
+          <desc>-----</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Έχει πάρει διάφορα ομοιοπαθητικά φάρμακα στο παρελθόν και από διάφορους ομοιοπαθητικούς γιατρούς. </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Aντιφλεγμονώδη για την αρθραλγία </therapies_vaccination>
+          <traumas>Όταν η ασθνεής ήταν 40 ημερών, οι γονείς της την άφησαν στον παππού και στη γιαγιά προκειμένου να δουλέψουν στη Γερμανία.&#13;
+Έκτοτε έχει έντονο το αίσθημα εγκατάλειψης. &#13;
+Έχει μνήμες από συνεχόμενους καυγάδες των γονέων από την παιδική ηλικία. &#13;
+Η ασθενής αναφέρει ότι ο πατέρας κακοποιούσε τη μητέρα της. &#13;
+Η ϊδια έχει υποστεί κακοποίηση και από τους δύο γονείς της.  &#13;
+Θυμάται ότι  ένιωθε ενοχές για την υπαρξή της. &#13;
+</traumas>
+          <infections>Μηνιγγίτιδα στα 8 της χρόνια με 40 πυρετό. </infections>
+          <other>Ακροριζεκτομή στην άνω γνάθο</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας: απεβίωσε πριν λίγα χρόνια&#13;
+Μητέρα: κατάκοιτη από ΑΕΕ. &#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει πριν την περίοδο για 4-5 μέρες. &#13;
+Γενικά: κρυώνει 1&#13;
+Ιδρώνει στον αυχένα και στο πρόσωπο&#13;
+&lt;&lt; υγρασία (αρθραλγία)&#13;
+Προτιμά τον ήλιο&#13;
+</reactions>
+        <sleeping_habits>Πλάγια δεξιά</sleeping_habits>
+        <food_modalities>thirsty 2.  Cool water &#13;
+Aversions:  Λίπος 2                            &#13;
+&#13;
+Desires:       βούτυρο 2, λάδι 2, ελιές 2 (πριν την περίοδο πολύ)&#13;
+Αμυλούχα (ρύζι, μακαρόνια, ψωμί, γλυκά )3,&#13;
+ fish 2, meat 1. &#13;
+Smoked 1&#13;
+Λεμόνι (το θέλει λιγότερο, στο παρελθόν περισσότερο)&#13;
+Αλάτι: το θέλει πολύ. &#13;
+Αυγά μελάτα μάτια 3&#13;
+ γιαούρτι 1&#13;
+Το γάλα πριν την περίοδο το θέλει με μέλι ή corn flakes. &#13;
+Το γάλα και το τυρί και η φέτα δεν την ενοχλούν και της αρέσουν. &#13;
+Παγωτό και το χειμώνα. &#13;
+</food_modalities>
+        <menstruation>Λόγω έντονης δυσμηνόρροιας διεγνώσθη ενδομητρίωση. Μία κύστη στη Δε ωοθήκη. Οι περισσότεροι γυναικολόγοι συστήνουν επέμβαση</menstruation>
+      </physical>
+      <mental_emotional>Κλαίει εύκολα 3&#13;
+Της βγαίνει ένα παράπονο και μια απογοήτευση για την εξέλιξη της ζωής της. &#13;
+Έντονο το αίσθημα της εγκατάλειψης 3&#13;
+Θέλει παρηγοριά  3&#13;
+"Θέλω μια αγκαλιά"&#13;
+το τελευταιο διάστημα: αίσθημα καταπίεσης γιατί πρέπει να φροντίζει τη μητέρα της που είναι κατάκοιτη. &#13;
+sighihg 3&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Λόγω της μη αποδοχής από τους γονείς της από μικρή ηλικία, η ασθενής αναφέρει ότι όποτε στεναχωριέται, περπατά απρόσεκτα και προκαλεί μικροτραυματισμούς όπως διαστρέμματα στον εαυτό της. &#13;
+H συναισθηματική της εξέλιξη είναι αρκετά προβληματική, γιατί έχει την τάση να μπλέκει ακόμα και σε αυτή την ηλικία με επιπόλαιους ανθρώπους, προκειμένου να πάρει λίγη αποδοχή. &#13;
+Υπάρχει χαμηλή αυτοεκτίμηση. </personal_medical_history>
+        <family_medical_history>Μητέρα: μανιοκατάθλιψη</family_medical_history>
+        <level_of_health>8</level_of_health>
+        <conclusion>Υπάρχει αιτιολογικός παράγοντας (causative factor), η εγκατάλειψη της ασθενούς και η μη αποδοχή της από τους γονείς της, ο οποίος είναι καθοριστικός για την μετέπειτα εξέλιξη της ασθενούς ψυχοδιανοητικά. </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>desire consolation 3&#13;
+tearful mood 3&#13;
+</peculiar>
+        <intense>desire consolation 3&#13;
+tearful mood 3&#13;
+desire eggs soft boiled 3&#13;
+sighing 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND COMPANY desire for 2&#13;
+MIND CONFIDENCE want of selfconfidence (low) 2&#13;
+MIND CONSOLATION amel. 3&#13;
+MIND FORSAKEN feeling 2&#13;
+MIND FORSAKEN feeling beloved by his parents, spouse, friends, feeling of not being 2&#13;
+MIND- SIGHING 3&#13;
+THROAT INFLAMMATION Oesophagus 1&#13;
+GENERALITIES FOOD and DRINKS butter desire 2&#13;
+GENERALITIES FOOD and DRINKS eggs desire boiled soft 2&#13;
+GENERALITIES FOOD and DRINKS farinaceous food desire 2&#13;
+GENERALITIES FOOD and DRINKS fat agg. 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>PULSATILLA, CALCAREA CARBONICA, IGNATIA</remedies_differentiation>
+      <prescription>
+        <remedy>IGNATIA</remedy>
+        <potency>200CH, 1M</potency>
+        <regimen>IGNATIA 200CH/1CAPS THE FIRST DAY&#13;
+IGNATIA 1M/1CAPS THE SECOND DAY&#13;
+IGNATIA 6X/30CAPS DAILY</regimen>
+        <other_notes>Δίνω σαν φάρμακο πιο επιφανειακο το Ignatia, λόγω πρόσφατης ερωτικής απογοήτευσης που αναφέρει. &#13;
+Μπορεί να χρειαστεί &#13;
+PULSATILLA 1M/1CAPS ΣΕ 20 ΜΕΡΕΣ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>----</conv_med_presc>
+      <lab_tests>
+        <desc>----</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>FOLLOW UP 1Oo: 15/1/2015&#13;
+Ψυχολογικά: καλύτερα.&#13;
+Δεν είναι ικανοποιημένη από τη σχέση της, γιατί ζητάει περισσότερη αποδοχή από αυτόν και δεν την εισπράττει, και αυτός δε θέλει τον περιορισμό. &#13;
+Αίσθημα εγκατάλειψης μεγάλη. &#13;
+Χαμηλή αυτοεκτίμηση 2&#13;
+Ψάχνει την αποδοχή 2&#13;
+&#13;
+Ιγμορίτιδα και έχει αντιδραστικό βήχα. &#13;
+Πηχτό ελαφρώς κίτρινη απόχρεμψη. &#13;
+Δεν αντέχει τη μυρωδιά του καπνού. &#13;
+&#13;
+&#13;
+&#13;
+</reaction>
+      <analysis>Aναμενόμενη αντίδραση</analysis>
+      <conclusion>έχει συμπώματα καθαρά που παραπέμπουν σε καθαρό φάρμακο: DESIRE CONSOLATION 3</conclusion>
+      <repertorization>
+        <desc>MIND COMPANY desire for 2&#13;
+MIND CONFIDENCE want of selfconfidence (low) 2&#13;
+MIND CONSOLATION amel. 3&#13;
+MIND FORSAKEN feeling 2&#13;
+MIND FORSAKEN feeling beloved by his parents, spouse, friends, feeling of not being 2&#13;
+THROAT INFLAMMATION Oesophagus 1&#13;
+GENERALITIES FOOD and DRINKS butter desire 2&#13;
+GENERALITIES FOOD and DRINKS eggs desire boiled soft 2&#13;
+GENERALITIES FOOD and DRINKS farinaceous food desire 2&#13;
+GENERALITIES FOOD and DRINKS fat agg. 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>PULSATILLA </remedy>
+        <potency>1M, 10M</potency>
+        <regimen>PULSTAILLA 1M/1CAPS THE FIRST DAY&#13;
+PULSATILLA 10M/1CAPS THE SECOND DAY&#13;
+PULSATILLA 6X/30CAPS DAILY</regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>----</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>FOLLOW UP 2o: 26/2/15&#13;
+Aπεβίωσε η μητέρα της πριν 10 μέρες. &#13;
+sighing 3&#13;
+Έκλαιγε και συνεχίζει να κλαίει 2&#13;
+Έλαβε φροντίδα από μια φίλη της και ένιωσε ότι κάποιος την αγαπάει &#13;
+</reaction>
+      <analysis>Ενώ ψυχολογικά ένιωθε καλύτερα λόγω της απώλειας της μητέρα της, έπεσε πάλι η δύναμη της να μείνει μόνη της και ζητούσε πάλι μια στήριξη από κάποιον. </analysis>
+      <conclusion>---</conclusion>
+      <repertorization>
+        <desc>MIND COMPANY desire for 2&#13;
+MIND CONFIDENCE want of selfconfidence (low) 2&#13;
+MIND CONSOLATION amel. 3&#13;
+MIND FORSAKEN feeling 2&#13;
+MIND FORSAKEN feeling beloved by his parents, spouse, friends, feeling of not being 2&#13;
+THROAT INFLAMMATION Oesophagus 1&#13;
+GENERALITIES FOOD and DRINKS butter desire 2&#13;
+GENERALITIES FOOD and DRINKS eggs desire boiled soft 2&#13;
+GENERALITIES FOOD and DRINKS farinaceous food desire 2&#13;
+GENERALITIES FOOD and DRINKS fat agg. 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>IGNATIA</remedy>
+        <potency>1M</potency>
+        <regimen>IGNATIA 1M/1CAPS THE FIRST DAY&#13;
+IGNATIA 10M/1CAPS THE SECOND DAY&#13;
+IGNATIA 6X/30CAPS DAILY</regimen>
+        <other_notes>----&#13;
+</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>---</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>FOLLOW UP 3o: 7/4/2015&#13;
+Ψυχολογικά πολύ καλύτερα όσον αφορά το πένθος της για την απώλεια της μάνας της. &#13;
+Σταθεροποιήθηκε η περίοδός της τους τελευταίους 3 μήνες. &#13;
+</reaction>
+      <analysis>----</analysis>
+      <conclusion>Αναμένουμε βελτίωση στην ψυχολογία της.</conclusion>
+      <repertorization>
+        <desc>MIND COMPANY desire for 2&#13;
+MIND CONFIDENCE want of selfconfidence (low) 2&#13;
+MIND CONSOLATION amel. 3&#13;
+MIND FORSAKEN feeling 2&#13;
+MIND FORSAKEN feeling beloved by his parents, spouse, friends, feeling of not being 2&#13;
+THROAT INFLAMMATION Oesophagus 1&#13;
+GENERALITIES FOOD and DRINKS butter desire 2&#13;
+GENERALITIES FOOD and DRINKS eggs desire boiled soft 2&#13;
+GENERALITIES FOOD and DRINKS farinaceous food desire 2&#13;
+GENERALITIES FOOD and DRINKS fat agg. 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>PULSATILLA </remedy>
+        <potency>1M. 10M</potency>
+        <regimen>PULSATILLA 1M/1CAPS THE FIRST DAY&#13;
+PULSATILLA 10M/1CAPS THE SECOND DAY&#13;
+PULSATILLA 6X/30CAPS DAILY</regimen>
+        <other_notes>----</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date></followup_date>
+      <conv_med_presc>----</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>FOLLOW UP 4o: 20/6/2015&#13;
+Πολύ καλύτερα ψυχολογικά. &#13;
+Αδιαφορεί πλέον για το σύντροφό της. Θεωρεί ότι πλέον δεν έχει σχέση και ας την παίρνει αυτός τηλέφωνο και του μιλάει πλέον σα φίλη. &#13;
+Έχει ξεκινήσει τις δικές της διακοπές με παρέες και περνάει όμορφα. &#13;
+&gt;&gt; αυτοεκτίμηση&#13;
+Είναι χαρούμενη και νιώθει ότι δεν έχει ανάγκη κανέναν. &#13;
+Δεν έχει πλέον το αίσθημα εγκατάλειψης&#13;
+Ασχολείται πολύ με τη γιόγκα και νιώθει ότι την έχει χαλαρώσει πολύ η ομάδα με την οποία προπονείται και κάνει εκδρομές. &#13;
+Πάντα ήταν υπέρ της εναλλακτικής επίλυσης των προβλημάτων της.</reaction>
+      <analysis>Πολύ καλή αντίδραση</analysis>
+      <conclusion>-----</conclusion>
+      <repertorization>
+        <desc>-----</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δε δόθηκε φάρμακο</remedy>
+        <potency>Δε δόθηκε φάρμακο</potency>
+        <regimen>Δε δόθηκε φάρμακο</regimen>
+        <other_notes>-----</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>5</number>
+      <followup_date></followup_date>
+      <conv_med_presc>----</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>FOLLOW UP 5o: 29/7/2015&#13;
+Πολύ καλά. &#13;
+Επέστρεψε από τις πρώτες της διακοπές και νιώθει μια μεγάλη ηρεμία μέσα της. </reaction>
+      <analysis>Η βετίωση της ψυχολογίας της παραμένει. Είναι αρκετά χαρούμενη. Τα σωματικά συμτπώματα δεν την ενοχλούν πλέον, όπως γαστροοισοφαγική παλινδρόμηση και αρθραλγίες. &#13;
+Δεν κλαίει πλέον.</analysis>
+      <conclusion>---</conclusion>
+      <repertorization>
+        <desc>----</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δε δόθηκε φάρμακο</remedy>
+        <potency>Δε δόθηκε φάρμακο</potency>
+        <regimen>Δε δόθηκε φάρμακο</regimen>
+        <other_notes>Δε δόθηκε φάρμακο</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>6</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

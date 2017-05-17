@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL98799150505e4e30a7ddac8abb3799e8</ID>
+  <patient>
+    <case_date>2015-05-02 16:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Ν.Κ.</patient_initials>
+    <age>45</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ 2 ΠΑΙΔΙΑ&#13;
+ΚΑΘΗΓΗΤΗΣ ΠΛΗΡΟΦΟΡΙΚΗΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΚΜΗ ΑΠΟ 16 ΕΤΩΝ&#13;
+ΕΛΚΟΣ ΑΠΟ 20 ΕΤΩΝ</origin>
+        <causative_factors>ΑΠΩΛΕΙΑ ΤΟΥ ΠΑΤΕΡΑ ΟΤΑΝ ΗΤΑΝ 15 ΕΤΩΝ</causative_factors>
+        <modalities>&gt; Η ΑΚΜΗ ΜΕ ΤΑ ΠΟΛΛΑ ΓΛΥΚΑ ΚΑΙ ΛΙΠΑΡΑ</modalities>
+        <occurrence_time>&gt; ΤΟ ΧΕΙΜΩΝΑ</occurrence_time>
+        <body_side>ΔΕΞΙΑ</body_side>
+        <appearence_frequency>Η ΑΚΜΗ ΕΙΝΑΙ ΜΟΝΙΜΗ ΜΕ ΕΞΑΡΣΕΙΣ ΚΑΙ ΥΦΕΣΕΙΣ</appearence_frequency>
+        <pain_desc>ΤΟ ΕΛΚΟΣ ΕΧΕΙ ΕΝΑ ΠΟΝΟ ΣΥΣΦΙΚΤΙΚΟΥ ΧΑΡΑΚΤΗΡΑ</pain_desc>
+        <complaint_ext>ΔΕΝ ΕΧΕΙ ΕΠΕΚΤΑΣΕΙΣ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc> ROACUTAN ΓΙΑ &#13;
+ΚΥΣΤΙΚΗ ΑΚΜΗ&#13;
+LOSEC ΓΙΑ ΤΟ ΕΛΚΟΣ</conv_med_presc>
+        <lab_tests>
+          <desc>ΛΕΥΚΑ=8760&#13;
+Γ.Α.=Κ.Φ.&#13;
+ΒΙΟΧΗΜΙΚΑ=Κ.Φ.&#13;
+Η.Κ.Γ.=Κ.Φ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΑΝΤΙΒΙΩΣΕΙΣ ΠΡΙΝ ΤΟ ROACUTAN&#13;
+ΟΛΑ ΤΑ ΠΑΙΔΙΚΑ ΕΜΒΟΛΙΑ</therapies_vaccination>
+          <traumas>ΑΠΩΛΕΙΑ ΤΟΥ ΠΑΤΕΡΑ ΤΟΥ&#13;
+ΜΕΤΑΝΑΣΤΕΥΣΗ ΣΤΗ ΓΕΡΜΑΝΙΑ ΑΠΟ ΤΑ 16&#13;
+ΚΑΙ ΔΙΑΜΟΝΗ ΕΚΕΙ ΓΙΑ 10 ΧΡΟΝΙΑ</traumas>
+          <infections>ΦΥΜΑΤΙΩΣΗ ΟΤΑ ΗΤΑΝ 22 ΕΤΩΝ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΠΑΤΕΡΑΣ=Α.Υ.&#13;
+ΜΑΝΑ=ΥΠΕΡΧΟΛΗΣΤΕΡΙΝΑΙΜΙΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΙΝΑΙ ΑΡΚΕΤΑ ΕΠΙΚΡΙΤΙΚΟΣ ΚΑΙ "ΞΕΡΟΛΑΣ"&#13;
+ΕΙΝΑΙ ΑΝΙΚΑΝΟΠΟΙΗΤΟΣ&#13;
+ΕΠΙΚΟΙΝΩΝΙΑΚΟΣ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΝΟΣΗΛΕΙΑ ΣΤΟ ΝΟΣΟΚΟΜΕΙΟ ΓΙΑ ΚΑΤΑΓΜΑ ΚΝΗΜΗΣ&#13;
+ ΑΠΟ ΑΤΥΧΗΜΑ&#13;
+ΜΕ ΜΗΧΑΝΑΚΙ ΣΤΑ 19 ΤΟΥ</personal_medical_history>
+        <family_medical_history>ΚΑΙ ΟΙ ΔΥΟ ΓΟΝΕΙΣ ΕΛΕΥΘΕΡΟ ΙΣΤΟΡΙΚΟ&#13;
+ΕΚΤΟΣ ΤΩΝ ΠΑΘΗΣΕΩΝ&#13;
+ΠΟΥ ΠΡΟΑΝΑΦΕΡΘΗΚΑΝ</family_medical_history>
+        <level_of_health>10</level_of_health>
+        <conclusion>Η ΚΥΣΤΙΚΗ ΑΚΜΗ ΕΙΝΑΙ ΤΟ ΜΕΓΑΛΥΤΕΡΟ ΠΡΟΒΛΗΜΑ ΤΟΥ&#13;
+ΧΑΝΕΙ ΤΗΝ ΑΥΤΟΕΚΤΙΜΗΣΗ ΤΟΥ ΚΑΙ ΝΙΩΘΕΙ ΑΠΟΜΟΝΟΜΕΝΟΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΥΨΟΦΟΒΙΑ 2&#13;
+ΖΕΣΤΑΙΝΟΝΤΑΙ ΤΑ ΠΟΔΙΑ ΤΟΥ 2&#13;
+ΖΕΣΤΑΙΝΕΤΑΙ ΤΟ ΚΕΦΑΛΙ ΤΟΥ 1&#13;
+</peculiar>
+        <intense>ΜΥΡΙΖΕΙ ΕΝΤΟΝΑ Ο ΙΔΡΩΤΑΣ ΤΟΥ 3&#13;
+ΜΥΡΙΖΟΥΝ ΕΝΤΟΝΑ ΤΑ ΚΟΠΡΑΝΑ ΤΟΥ 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>SULFAR      ΦΩΣΦΟΡΟΣ</remedies_differentiation>
+      <prescription>
+        <remedy>SULFAR</remedy>
+        <potency>200 CH</potency>
+        <regimen>1X2 ΓΙΑ 60 ΗΜΕΡΕΣ</regimen>
+        <other_notes>TO ROACUTAN ΔEN TON BOHΘΗΣΕ&#13;
+ΚΑΙ ΠΟΛΥ ΣΤΗ ΑΚΜΗ ΤΟΥ</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-28 15:00:00</followup_date>
+      <conv_med_presc>ΕΧΕΙ ΣΤΑΜΑΤΗΣΕΙ ΤΑ ROACUTAN ΠΡΟ ΠΟΛΛΟΥ&#13;
+ΠΑΡΝΕΙ ΓΙΑ ΤΟ ΣΤΟΜΑΧΙ ΤΟΥ 1 ΦΟΡΑ ΤΗΝ ΕΒΔΟΜΑΔΑ ZANTAC</conv_med_presc>
+      <lab_tests>
+        <desc>ΟΛΑ ΤΑ ΕΡΓΑΣΤΗΡΙΑΚΑ ΤΟΥ ΗΤΑΝ ΦΥΣΙΟΛΟΓΙΚΑ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ΑΚΜΗ ΤΟΥ ΗΤΑΝ ΠΙΟ ΕΝΤΟΝΗ &#13;
+ΣΤΗΝ ΑΡΧΗ ΤΗΣ ΘΕΡΑΠΕΙΑΣ&#13;
+</reaction>
+      <analysis>ΑΦΟΥ ΕΛΑΒΕ ΤΟ SULFAR KAI ΓΙΑ ΕΝΑ ΜΗΝΑ&#13;
+ΕΙΧΕ ΠΙΟ ΕΝΤΟΝΗ ΑΚΜΗ&#13;
+ΑΛΛΑ ΜΕΤΑ ΠΑΡΟΥΣΙΑΣΕ ΣΗΜΑΝΤΙΚΗ ΒΕΛΤΙΩΣΗ</analysis>
+      <conclusion>ΤΟ SULFAR TON BOHΗΣΕ ΠΟΛΥ ΣΤΗΝ ΑΚΜΗ&#13;
+ΚΑΙ ΣΤΟ ΕΛΚΟΣ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>SULFAR</remedy>
+        <potency>30 CH</potency>
+        <regimen>1X3 ΓIA ENA MHNA</regimen>
+        <other_notes>ΓΙΝΕ ΛΙΓΟΤΕΡΟ ΕΠΙΚΡΙΤΙΚΟΣ&#13;
+ΚΑΙ ΟΙ ΕΚΡΙΣΕΙΣ ΤΟΥ ΜΥΡΙΖΑΝ ΛΙΓΟΤΕΡΟ ΑΣΧΗΜΑ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

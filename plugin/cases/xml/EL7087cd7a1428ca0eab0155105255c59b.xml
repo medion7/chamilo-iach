@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL7087cd7a1428ca0eab0155105255c59b</ID>
+  <patient>
+    <case_date>2014-12-02 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Φ</patient_initials>
+    <age>17</age>
+    <circumstances>ΜΑΘΗΤΡΙΑ Α ΛΥΚΕΙΟΥ. ΖΕΙ ΜΕ ΤΟΥΣ ΓΟΝΕΙΣ ΤΗΣ ΣΤΗΝ ΙΕΡΑΠΕΤΡΑ ΚΡΗΤΗΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Η ΙΔΙΑ ΘΕΩΡΕΙ ΟΤΙ ΣΕ ΗΛΙΚΙΑ 10 ΕΤΩΝ ΠΙΕΣΘΗΚΕ ΑΠΟ ΗΜΕΡΗΣΙΟ ΒΑΡΥ ΠΡΟΓΡΑΜΜΑ ΣΤΟ ΣΧΟΛΕΙΟ ΚΑΙ ΤΟ ΦΡΟΝΤΗΣΤΗΡΙΟ-ΑΓΓΛΙΚΑ ΚΑΙ ΣΧΟΛΙΚΟ ΠΡΟΓΡΑΜΜΑ ΕΚΤΟΤΕ ΕΜΦΑΝΙΖΕΙ ΤΡΙΑ ΕΠΕΙΣΟΔΙΑ ΗΜΙΚΡΑΝΙΑΣ  ΤΗΝ ΕΒΔΟΜΑΔΑ ΠΟΥ ΥΠΟΧΩΡΟΥΝ ΜΕ DEPON</origin>
+        <causative_factors>ΣΥΧΝΗ ΧΡΗΣΗ ΑΝΤΙΒΙΩΤΙΚΩΝ ΤΟΥΣ ΧΕΙΜΕΡΙΝΟΥΣ ΜΗΝΕΣ ΛΟΓΩ ΩΤΙΤΙΔΩΝ ΩΣ ΤΗΝ ΗΛΙΚΙΑ ΤΩΝ 4 ΕΤΩΝ</causative_factors>
+        <modalities>&lt;με εμμηνο ρύση, καπνό&#13;
+&gt;με παγωμένα επιθέματα</modalities>
+        <occurrence_time>&gt;στον ύπνο&#13;
+&lt;μερικέςφορές στην αφύπνηση</occurrence_time>
+        <body_side>μετωπιαία κεφαλαλγία δεξιά</body_side>
+        <appearence_frequency>Από 10-11 χρονών τρείς φορές την εβδομάδα.Απο 13 χρονών κάθε μέρα</appearence_frequency>
+        <pain_desc>Σφυγμικός προοδευτικά αυξανόμενης έντασης με συνοδό ναυτία και εμέτους</pain_desc>
+        <complaint_ext>Προς ινιακή χώρα και δεξί οφθαλμό</complaint_ext>
+        <other_complaints>Δεν αναφέρει</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΗΜΙΚΡΑΝΙΕΣ ΧΡΗΣΗ DEPONΑΠΟ ΕΠΤΑΕΤΙΑΣ ΛΟΓΩ ΗΜΙΚΡΑΝΙΩΝ</conv_med_presc>
+        <lab_tests>
+          <desc>ΒΙΟΧΗΜΙΚΟΣ ΕΛΕΓΧΟΣ ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ ΠΛΗΝ ΧΑΜΗΛΟΥ ΑΙΜΑΤΟΚΡΙΤΗ ΛΑΜΒΑΝΕΙ ΣΙΔΗΡΟ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΥΠΑΡΧΟΥΝ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-Αντιβιώσεις για υποτροπιάζουσες ωτίτιδες ως την ηλικία των εννέα  ετών(Augmentin klaricid ceclor)</therapies_vaccination>
+          <traumas>_</traumas>
+          <infections>_</infections>
+          <other>Πυρετό υψηλό τελευταία φορά προ οκτώ ετών</other>
+        </personal>
+        <family>
+          <diseases>Ιστορικό ελεύθερο</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται+++, ιδρώνει γενικά+ πόδια ξεσκέπαστα το βράδυ++</reactions>
+        <sleeping_habits>Κοιμάται ανάσκελα</sleeping_habits>
+        <food_modalities>Επιθυμεί αλάτι+, κρεμώδη γλυκά++,σούπες++, παγωτά++ ποδια ξεσκέπαστα το βράδυ ++&#13;
+Απεχθάνεται λίπος+++, ζεσταίνεται+++ παγωμένα βελτιώνουν την κεφαλαλγία+++</food_modalities>
+        <menstruation>Φυσιολογική</menstruation>
+      </physical>
+      <mental_emotional>Ντροπαλή++ κλαίει εύκολα ++,θέλει παρηγοριά απο την μαμά της,συμπάσχει++</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>   Η παθολογία δεν είναι ιδιαίτερα σοβαρή</personal_medical_history>
+        <family_medical_history>Ηελλειψη κληρονομικής επιβάρυνσης απο τους γονείς ενισχύει την μη βαρειά παθολογία</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Η έλλειψη πυρετού για οκτώ χρόνια είναι ένδειξη όχι πολύ υψηλού επιπέδου υγείας Ηεπιθυμία να ευχαρισεί τους άλλους με κάνει να σκεφτώ το Natr-mur το carc αλλά και την Puls λόγω του ευσυγκίνητου του χαρακτήρα της</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Δεν αναφέρονται</peculiar>
+        <intense>Επιθυμεί αυγά σφικτά 1,σούπες2 κρεμώδη γλυκά2 ,παγωτό 2, ντροπαλή 2 κλαίει εύκολα 2 ,άγχος υγείας 2 απέχθεια στο λίπος3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Head pain-headache- side right 3, generalities food and drinks fat aversion3 ,generalities foot and drinks eggs desire boils -hard boils  mind consolation ameliorate ,head pain headache cold application amel ,generalities weather warm hot -wet aggr extrimities uncover  inclination to-feet 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Ηδιαφοροποίηση θα γίνει μεταξύ Natr- mur και Puls.Λόγω της βελτίωσης της κεφαλαλγίας με παγωμένα επιθέματα του ότι κλαίει εύκολα, βγάζει τα πόδια έξω απο τα σκεπάσματα ,επιλέγεται ως πρώτο φάρμακο ηPuls </remedies_differentiation>
+      <prescription>
+        <remedy>PULSATILA</remedy>
+        <potency>PULS 200CH και PULS 1M</potency>
+        <regimen>PULS 200CH και την επομένη PULS 1M</regimen>
+        <other_notes>_</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-01-13 08:00:00</followup_date>
+      <conv_med_presc>_</conv_med_presc>
+      <lab_tests>
+        <desc>_</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής εμφανίζει την πρώτη ημέρα έντονο επεισόδιο κεφαλαλγίας με πολούς εμέτους Πήρε primperan καιdepon.Τις επόμενες δύο μέρες δύο ηπιότερα επεισόδια που υποχώρησαν με παρακεταμόλη. Εκτοτε εκτός μίας ημέρας που πιέστηκε πολύ και εμφάνισε πονοκέφαλο που υποχώρησε χωρίς αναλγητικό δεν έχει παρουσιάσει άλλο επεισόσιο κεφαλαλγίας</reaction>
+      <analysis>Ηαντιδραση στο φάρμακο είναι πολύ καλη λόγω της αρχικής επιδείνωσησ .Ισως να είναι στο level 5 h 4</analysis>
+      <conclusion>Ηασθενής αντέδρασε πολύ καλά στο φάρμακο Μετά την αρχική επιδείνωση παραμένει ελευθερη συμπτωμάτων Κλείνεται ραντεβού σε δύο μήνες</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>kali carb placebo</remedy>
+        <potency>kali-carb 6x 60 caps</potency>
+        <regimen>1caps καθε πρωί</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-11 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ηασθενής ανταποκριθηκε πολύ καλά στην Puls Εχει μείνει ελεύθερη συμπτωμάτων έως τώρα</reaction>
+      <analysis>Πολύ καλή ανταπόκριση</analysis>
+      <conclusion>Η αντιδραση της ασθενούς έως τώρα δείχνει ότι το φάρμακο ήταν το σωστό</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δίδεται αγωγή</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>Επανεξέταση σε ένα μήνα</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-07-17 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μέχρι σήμερα η ασθενής παραμένει χωρίς κεφαλαλγία</reaction>
+      <analysis>Αριστη ανταπόκριση</analysis>
+      <conclusion>Ηασθενής είναι πολύ καλά και αποφασίζεται να επικοινωνήσει μαζί μου όταν εκείνη το χρειαστεί</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

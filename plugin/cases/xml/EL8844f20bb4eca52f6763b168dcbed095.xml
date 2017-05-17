@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL8844f20bb4eca52f6763b168dcbed095</ID>
+  <patient>
+    <case_date>2014-07-03 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΔΜ</patient_initials>
+    <age>25</age>
+    <circumstances>μεταπτυχιακή φοιτήτρια, ανύπαντρη&#13;
+1.69cm&#13;
+73kg</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>κυστική ακμή στην εφηβεία στους ώμους και τη ράχη, από διετίας στο πρόσωπο, επώδυνη.</origin>
+        <causative_factors>επιδεινώνεται γύρω από την έμμηνο ρύση και τις περιόδους έντονου stress.</causative_factors>
+        <modalities>άγχος.</modalities>
+        <occurrence_time>όχι προσδιορισμένος</occurrence_time>
+        <body_side>πρόσωπο</body_side>
+        <appearence_frequency>συνέχεια με εξάρσεις και υφέσεις.</appearence_frequency>
+        <pain_desc>πόνος μόνο στα μεγάλα, κυστικά</pain_desc>
+        <complaint_ext>στην εφηβεία σε ώμους και ράχη, τώρα όχι.</complaint_ext>
+        <other_complaints>μυκητιασική κολπίτιδα (2 επεισόδια την τελευταία διετία)&#13;
+κνησμός δακτυλίου από έτους&#13;
+έρπης γεννητικών οργάνων προ 2ετίας (1 υποτροπή)&#13;
+σκολίωση, επέμβαση ρινικού διαφράγματος προ 2ετίας&#13;
+τελευταίος πυρετός 39οC προ 5ετίας</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ακμή (κυστική) για την οποία έχει λάβει κατά διαστήματα εκτός από τοπική αγωγή, αντιβιώσεις, αντισυλλυπτικά και ρετινοειδή με παροδική υποχώρηση και επανεμφάνιση.</conv_med_presc>
+        <lab_tests>
+          <desc>καμία</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>καμία</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>συνήθεις εμβολιασμοί&#13;
+συχνές αντιβιώσεις σε παιδική ηλικία λόγω συχνών κρουσμάτων ωτίτιδας (ευθειασμός ευσταχιανής) με εμπύρετο. Τα τελευταία χρόνια, λοιμώξεις ανωτέρου αναπνευστικού χωρίς πυρετό (τελευταία προ 2ετίας).&#13;
+Έρπης γεννητικών οργάνων προ 2ετίας ( 1 υποτροπή)&#13;
+ακμή ώμων και ράχης (κυστική) στην εφηβεία, από 2ετίας στο πρόσωπο με διάφορες συμβατικές θεραπείες.</therapies_vaccination>
+          <traumas>προ 2ετίας έντονο stress όταν έφυγε στην Αμερική για μεταπτυχιακά.</traumas>
+          <infections>καμία</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>γονείς: κφ&#13;
+γιαγιά από πατέρα: ιστορικό Ca μαστού</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει, ακόμα και το καλοκαίρι παίρνει ζακέτα. Κουράζεται εύκολα, τα κάνει όλα αργά. Δυσκοιλιότητα</reactions>
+        <sleeping_habits>χρειάζεται πολύ ύπνο (10 ώρες), ξυπνάει καλά. Κοιμάται μπρούμυτα ή στο πλάι. Δεν θυμάται συνήθως όνειρα. Κρυώνει και είναι πάντα σκεπασμένη. Κάλτσες στον ύπνο ακόμα και το καλοκαίρι.</sleeping_habits>
+        <food_modalities>της αρέσουν: γλυκά (3), λεμόνι, αλάτι, σοκολάτα, παγωτά (1)&#13;
+απέχθειες: μαγιονέζα (2), μανιτάρια (2), λίπος (2)</food_modalities>
+        <menstruation>φυσιολογική, σταθερή. Προεμμηνορρυσιακό σύνδρομο με διογκωμένο και επώδυνο στήθος.</menstruation>
+      </physical>
+      <mental_emotional>Η ασθενής αναφέρει ότι είναι επίμονη, αναβλητική, υπεύθυνη, με αίσθηση καθήκοντος και ευαίσθητη. Είναι ανασφαλής (προτιμάει την παρέα). Ισχυρογνώμων, δίκαια, την ενοχλεί το άδικο. Είναι ευθύς (λέει την αποψή της) και ¨κολλημένη¨(δύσκολα αλλάζει ιδέα). Έχει φόβους για τα έντομα, τα νεκροταφεία, τους τρελλούς και μην της κοπεί η ανάσα (δεν κάνει βουτιές στη θάλασσα).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Ιστορικό ακμής με εντόπιση στο πρόσωπο από διετίας. Μυκητιασικές κολπίτιδες (2 επεισόδια) από διετίας. Έρπης γεννητικών οργάνων από διετίας. Κνησμός δακτυλίου από έτους.</personal_medical_history>
+        <family_medical_history>γιαγιά από μπαμπά με ιστορικό Ca μαστού.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Η επιλογή του επιπέδου 4 έγινε λόγω της διακοπής εμπυρέτου από 5ετίας και λοιμώξεων ανωτέρου αναπνευστικού από 2ετίας.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>extremities-coldness-foot-evening, bed in (3)&#13;
+fear-insects, of (3)&#13;
+mind-fear-insanity, of (3)</peculiar>
+        <intense>extremities-coldness-foot-evening, bed in (3)&#13;
+generalities-food and drinks-sweets desire (3)&#13;
+fear-insects, of (3)&#13;
+mind-obstinate (3)&#13;
+mind-fear-insanity, of (3)&#13;
+mind-sensitive, oversensitive (1)&#13;
+generalities-weakness (2)&#13;
+extremities-nails, brittle (1)&#13;
+generalities-food and drinks-fat-aversion (2)&#13;
+mind-anxiety-meses-before (1)&#13;
+mind-injustice-cannot support (1)&#13;
+rectum-constipation (1)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>extremities-coldness-foot-evening, bed in (3)&#13;
+generalities-food and drinks-sweets desire (3)&#13;
+fear-insects, of (3)&#13;
+mind-obstinate (3)&#13;
+mind-fear-insanity, of (3)&#13;
+mind-sensitive, oversensitive (1)&#13;
+generalities-weakness (2)&#13;
+extremities-nails, brittle (1)&#13;
+generalities-food and drinks-fat-aversion (2)&#13;
+mind-anxiety-meses-before (1)&#13;
+mind-injustice-cannot support (1)&#13;
+rectum-constipation (1)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η συνταγογράφηση βασίστηκε στα χαρακτηριστικά:&#13;
+extremities-coldness-foot-evening, bed in (3)&#13;
+generalities-food and drinks-sweets desire (3)&#13;
+fear-insects, of (3)&#13;
+mind-obstinate (3)&#13;
+mind-fear-insanity, of (3)&#13;
+mind-sensitive, oversensitive (1)&#13;
+generalities-weakness (2)&#13;
+extremities-nails, brittle (1)&#13;
+generalities-food and drinks-fat-aversion (2)&#13;
+mind-anxiety-meses-before (1)&#13;
+rectum-constipation (1)&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>200CH/1M</potency>
+        <regimen>200CH/1M και 60 caps 6x</regimen>
+        <other_notes>Η συνταγογράφηση βασίστηκε στην ένταση και την ποιότητα των συμπτωμάτων της ασθενούς, καθώς και στο επίπεδο υγείας της.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-09-09 18:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Καλύτερα ψυχικά. Καλύτερο κουράγιο. Περισσότερη ενέργεια κατά 30%. "Γκρινιάζω λιγότερο". Λιγότερο αναβλητική. Επίμονη αλλά τσακώνεται λιγότερο. Αύξηση του κνησμού του πρωκτού με επέκταση στο αιδοίο. Η ακμή εμφάνισε ήπια βελτίωση στο πρόσωπο, αλλά ξαναέβγαλε σε ώμους-ράχη. Η μυκητιασική κολπίτιδα είχε υποτροπή. H δυσκοιλιότητα επιδεινώθηκε ελαφρά. Έμμηνος ρύση με λιγότερο αίμα σε αυτόν τον κύκλο. Μικρότερη επιθυμία για γλυκά.</reaction>
+      <analysis>Έχει βελτιωθεί η ενέργεια της ασθενούς, καθώς και τα ψυχικά της συμπτώματα με επιδείνωση των δερματικών της προβλημάτων.</analysis>
+      <conclusion>Θα συνεχιστεί η συνταγογράφηση με Calcarea carbonica σε δυναμοποίηση 12CH λόγω των δερματικών ευρημάτων και του κνησμού.</conclusion>
+      <repertorization>
+        <desc>extremities-coldness-foot-evening, bed in (3)&#13;
+generalities-food and drinks-sweets desire (2)&#13;
+fear-insects, of (3)&#13;
+mind-obstinate (2)&#13;
+mind-fear-insanity, of (2)&#13;
+mind-sensitive, oversensitive (1)&#13;
+generalities-weakness (1)&#13;
+extremities-nails, brittle (1)&#13;
+generalities-food and drinks-fat-aversion (2)&#13;
+mind-anxiety-meses-before (1)&#13;
+rectum-constipation (2)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>12CH</potency>
+        <regimen>45caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-10-30 21:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ενέργεια πολύ καλύτερα (50%), πιο χαλαρή. Αναβλητικότητα καλύτερα (κοιτάω να μην αφήνω εκκρεμότητες). Καλύτερη οργάνωση. Η μυκητιασική κολπίτιδα βελτιωμένη όπως και η δυσκοιλιότητα. Ο κνησμός του πρωκτού πιο αραιά αλλά πιο έντονα. Η ακμή γενικά καλύτερα με επιδείνωση πριν την περίοδο. Ιδρώνει πολύ (κορμός).  Λοίμωξη ανώτερου αναπνευστικού με πυρετό 38,5οC. </reaction>
+      <analysis>Συνεχίζεται η βελτίωση τόσο στην ενέργεια της ασθενούς, όσο και στα ψυχικά και σωματικά της συμπτώματα.</analysis>
+      <conclusion>Η ασθενής σε εμφανή βελτίωση της ενέργειας καθώς και των ψυχικών και σωματικών συμπτωμάτων. </conclusion>
+      <repertorization>
+        <desc>extremities-coldness-foot-evening, bed in (2)&#13;
+generalities-food and drinks-sweets desire (1)&#13;
+fear-insects, of (3)&#13;
+mind-obstinate (1)&#13;
+mind-fear-insanity, of (1)&#13;
+mind-sensitive, oversensitive &#13;
+generalities-weakness &#13;
+generalities-food and drinks-fat-aversion (1)&#13;
+mind-anxiety-meses-before (1)&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6x</potency>
+        <regimen>60caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-01-07 21:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ενέργεια βελτιωμένη κατά 70%, κουράζεται πολύ λιγότερο. Πιο οργανωμένη, αγχώνεται λιγότερο. Λόγω δουλειάς κοιμάται λιγότερο, αλλά δεν αισθάνεται ότι της λείπει, μπορεί να λειτουργεί καλά. Δεν είχε επεισόδιο μυκητιασικής κολπίτιδας. Ο κνησμός του πρωκτού πιο ήπιος. Η ακμή στάσιμη.</reaction>
+      <analysis>Συνεχίζεται η βελτίωση της ασθενούς σε όλα τα επίπεδα.</analysis>
+      <conclusion>λόγω βελτίωσης της γενικότερης εικόνας της ασθενούς θα συνεχίσει η συνταγογράφηση με 6x μέχρι το επόμενο follow-up</conclusion>
+      <repertorization>
+        <desc>extremities-coldness-foot-evening, bed in (2)&#13;
+generalities-food and drinks-sweets desire &#13;
+fear-insects, of (2)&#13;
+mind-obstinate &#13;
+mind-fear-insanity, of (1)&#13;
+generalities-food and drinks-fat-aversion (1)&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6x</potency>
+        <regimen>60caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

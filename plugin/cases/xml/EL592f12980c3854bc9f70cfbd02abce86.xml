@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL592f12980c3854bc9f70cfbd02abce86</ID>
+  <patient>
+    <case_date>2015-03-03 15:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΚΑ</patient_initials>
+    <age>22</age>
+    <circumstances>Please enter the personal circumstance&#13;
+ΦΟΙΤΗΤΡΙΑ ΤΗΣ  ΙΑΤΡΙΚΗΣ&#13;
+168 cm &#13;
+59 Kgr&#13;
+&#13;
+&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ΕΡΧΕΤΑΙ ΓΙΑ ΤΟ ΑΓΧΟΣ ΠΟΥ ΕΧΕΙ  ΟΣΟ ΑΦΟΡΑ ΤΗΝ ΣΧΟΛΗ ΤΗΣ &#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ΑΠΟ ΤΗΝ ΜΙΑ &#13;
+1. ΤΟ ΑΓΧΟΣ ΤΗΣ ΕΧΕΙ ΧΕΙΡΟΤΕΡΕΥΣΕΙ ΑΠΟ ΤΟΤΕ ΠΟΥ ΠΕΡΑΣΕ ΣΤΗΝ ΙΑΤΡΙΚΗ( ΠΡΟ 3 ΧΡΟΝΙΑ)  ΓΙΑΤΙ ΘΕΛΕΙ ΝΑ ΕΙΝΑΙ ΕΝΤΑΞΕΙ ΣΤΙΣ ΥΠΟΧΩΣΕΙΣ ΤΗΣ &#13;
+2. ΚΑΙ ΑΠΟ ΤΗΝ ΑΛΛΗ ΣΥΜΠΕΡΙΦΟΡΑ ΤΗΣ ΜΗΤΕΡΑΣ ΤΗΣ ΠΟΥ  ΠΑΝΤΑ  ΤΗΣ ΖΗΤΑΕΙ ΟΛΟ ΚΑΙ ΠΕΡΙΣΣΟΤΕΡΑ&#13;
+ ΚΑΙ ΠΟΥ  ΔΕΝ ΕΙΝΑΙ ΕΥΧΑΡΙΣΤΗΜΕΝΗ ΜΕ ΤΙΠΟΤΑ &#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+ ΓΙΑ ΝΑ ΔΙΑΧΕΙΡΙΣΤΕΙ ΤΟ ΑΓΧΟΣ ΤΗΣ ΑΝΑΦΕΡΕΙ ΟΤΙ ΠΡΟΣΠΑΘΕΙ  ΝΑ ΕΙΝΑΙ ΣΥΣΤΗΜΑΤΙΚΗ ΚΑΙ  ΝΑ ΒΑΖΕΙ ΠΡΟΓΡΑΜΜΑ   ΣΕ ΑΥΤΑ ΠΟΥ ΘΕΛΕΙ  ΝΑ ΚΑΝΕΙ &#13;
+ΣΥΓΚΕΚΡΙΜΕΝΑ ΑΝΑΦΕΡΕ ΟΤΙ ΤΑ ΒΑΖΕΙ ΟΛΑ ΣΕ ΚΟΥΤΑΚΙΑ  ΠΡΑΓΜΑ ΠΟΥ  ΤΗΝ ΗΡΕΜΕΙ ΠΟΛΥ &#13;
+ΑΝΤΙΘΕΤΑ  ΕΑΝ  ΔΕΝ ΤΟ ΚΑΝΕΙ ΑΥΤΟ ΤΟΤΕ,  ΥΠΟΦΕΡΕΙ ΚΑΙ ΑΓΧΩΝΕΤΑΙ ΥΠΕΡΒΟΛΙΚΑ &#13;
+</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+ΚΑΛΥΤΕΡΕΥΕΙ ΑΠΟ ΤΗΝ ΣΤΙΓΜΗ ΠΟΥ ΒΑΖΕΙ ΕΝΑ ΠΡΟΓΡΑΜΜΑ ΚΑΙ ΑΥΤΟ ΤΟ  ΚΑΝΕΙ ΑΠΟ ΤΗΝ ΑΡΧΗ ΤΗΣ ΗΜΕΡΑΣ &#13;
+ΑΝΑΦΕΡΕΙ ΣΥΓΚΕΚΡΙΜΕΝΑ ΟΤΙ  ΜΟΛΙΣ ΞΥΠΝΗΣΕΙ ΣΚΕΦΤΕΤΑΙ ΤΟ ΠΡΟΓΡΑΜΜΑ ΤΗΣ &#13;
+ΠΡΩΤΑ ΘΑ ΚΑΝΩ ΠΛΥΝΩ ΤΑ ΔΟΝΤΑ ΜΟΥ ΜΕΤΑ ΘΑ ΝΤΥΘΩ , ΘΑ ΕΤΟΙΜΑΣΩ ΤΑ ΠΡΑΓΜΑΤΑ ΜΟΥ...ΘΑ ΠΑΩ ΣΤΗ ΣΧΟΛΗ ΜΟΥ &#13;
+</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΠΟΛΛΕΣ  ΦΟΡΕΣ ΜΕ ΤΟ ΑΓΧΟΣ  ΑΙΣΘΑΝΕΤΑΙ  ΜΙΑ ΔΥΣΦΟΡΙΑ ΣΤΟ ΕΠΙΓΑΣΤΡΙΟ </body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ΤΟ ΑΓΧΟΣ ΤΗΣ ΕΙΝΑΙ ΚΑΘΗΜΕΡΙΝΟ  </appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΟΥ ΑΓΧΟΥΣ ΑΙΣΘΑΝΕΤΑΙ ΕΝΑ ΔΥΣΦΟΡΙΑ  /ΜΙΑ ΤΑΧΥΚΑΡΔΙΑ ΚΑΙ ΕΧΕΙ ΤΗΝ ΑΙΣΘΗΣΗ ΟΤΙ Η ΚΑΡΔΙΑ ΤΗΣ  ΘΑ ΒΓΕΙ ΑΠΟ ΤΟ ΣΤΗΘΟΣ ΤΗΣ &#13;
+</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ΕΧΕΙ ΠΑΡΑΤΗΡΗΣΕΙ ΟΤΙ ΤΟ ΑΓΧΟΣ ΤΗΣ ΠΡΟΚΑΛΕΙ ΔΙΑΡΡΟΙΑ ΚΑΙ  ΦΟΥΣΚΩΜΑΤΑ ΣΤΟ ΚΟΙΛΙΑΚΗ ΧΩΡΑ </complaint_ext>
+        <other_complaints>ΣΠΑΣΤΙΚΗ ΔΥΣΚΟΙΛΙΟΤΗΤΑ &#13;
+ΑΛΛΕΡΓΙΚΗ ΕΠΙΠΕΦΥΚΙΤΙΔΑ  ΠΟΥ ΒΕΛΤΙΩΝΕΤΑΙ ΜΕ ΤΟ ΚΡΥΟ ΝΕΡΟ &#13;
+ΑΙΣΘΑΝΕΤΑΙ ΟΤΙ ΔΕΝ ΕΧΕΙ ΑΡΚΕΤΕΣ ΔΥΝΑΜΕΙΣ </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+ΕΧΕΙ ΠΟΛΥΚΥΣΙΚΕΣ ΩΟΘΗΚΕΣ ΚΑΙ ΠΑΙΡΝΕΙ ΟΡΜΟΝΟΘΕΡΑΠΕΙΑ ΕΔΩ ΚΑΙ ΔΥΟ ΧΡΟΝΙΑ &#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>Τ4 = 5.0(5.1-17) TSH =3.0(0.27-4.76)&#13;
+Hb=12 Ht=37  MCV=79(76-96) MCH =30(27-33) MCHC=32(30-36) MBW=12(11-16)  PLQ=200000&#13;
+ GB=7000 Nευτροφιλα=84% Λεμφοκύτταρα=10% Μονο =2%  Εοσιν=2% &#13;
+σακχ=75 ουρία =45 κρεατ=0,4 χοληστερ=200( &lt;200 )  HDL = 50(&gt;40) LDL = 100( &lt;130) τριγλυ= 111(&lt;150)  SGOT = 20(10-30) SGPT= 20 (8-20)&#13;
+ουρα = Proteines = αρν   Hb =αρν   glu= αρν  Πυοσφ  = 2-3 GR = 0-1&#13;
+ΥΠΕΡΗΧΟ ΑΝΩ-ΚΑΤΩ ΚΟΙΛΙΑΣ ΕΔΕΙΞΕ ΤΙΣ ΠΟΛΥΣΤΚΕΣ ΤΗΣ ΩΟΘΗΚΕΣ &#13;
+ΗΚΓ ΧΩΡΙΣ ΠΑΘΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΕΧΕΙ ΚΑΝΕΙ ΟΜΟΙΟΘΕΡΑΠΕΙΑ ΣΤΟ ΠΑΡΕΛΘΟΝ </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΕΧΕΙ ΚΑΝΕΙ ΟΛΟΥΣ  ΤΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ &#13;
+ΟΡΜΟΝΟΘΕΡΑΠΕΙΑ ΕΔΩ ΚΑΙ 2 ΧΡΟΝΙΑ &#13;
+</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+1 Η .ΜΗΤΕΡΑ ΤΗΣ  ΠΟΥ ΕΙΝΑΙ ΠΟΛΥ   ΚΑΤΑΠΙΕΣΤΙΚΗ ΑΦΟΥ ΤΗΝ ΠΙΕΖΕΙ  ΣΥΝΕΧΕΙΑ ΝΑ ΕΙΝΑΙ ΚΑΛΗ ΜΑΘΗΤΡΙΑ &#13;
+2. ΣΤΡΕΣ ΣΤΗ ΣΧΟΛΗ ΤΗΣ &#13;
+&#13;
+</traumas>
+          <infections>Please enter Acute infectious disea&#13;
+ΕΧΕΙ ΚΑΝΕΙ ΕΜΠΥΡΕΤΗ ΠΥΩΔΗ ΑΜΥΓΔΑΛΙΤΙΔΑ    2-3 ΦΟΡΕΣ ΤΟΝ ΤΕΛΕΥΤΑΙΟ ΧΡΟΝΟ  &#13;
+ΜΕ ΥΨΗΛΟ ΠΥΡΕΤΟ ΕΩΣ 40 </infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΜΗΤΕΡΑ ΜΕ ΥΠΕΡΤΑΣΗ -ΤΑΧΥΚΑΡΔΙΑ &#13;
+ΠΑΤΕΡΑΣ ΜΕ ΥΠΕΡΛΙΠΙΔΑΙΜΙΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΑΙΝΕΤΑΙ 3 ΚΑΙ ΧΕΙΡΟΤΕΡΕΥΕΙ ΑΠΟ ΤΗ ΖΕΣΤΗ 3 &#13;
+ΙΔΡΩΤΑΣ   1 &#13;
+</reactions>
+        <sleeping_habits>ΚΟΙΜΑΤΑΙ ΔΕΞΙΑ &#13;
+ΤΟ ΒΡΑΔΥ ΞΥΠΝΑΕΙ ΚΑΙ ΣΚΕΦΤΕΤΑΙ ΜΗΠΩΣ ΔΕΝ ΕΠΡΑΞΕ ΣΩΣΤΑ ΣΤΗΝ ΔΙΑΡΚΕΙΑ ΤΗΣ ΗΜΕΡΑΣ &#13;
+</sleeping_habits>
+        <food_modalities>1.ΕΠΙΘΥΜΙΑ ΓΛΥΚΑ 3 /ΖΑΧΑΡΗ 3 &#13;
+2. ΕΠΙΘΥΜΙΑ ΓΛΥΚΑ -ΑΛΜΥΡΑ -ΓΛΥΚΑ 3&#13;
+3. ΟΧΙ ΠΑΓΩΜΕΝΑ ΝΕΡΟ /ΟΧΙ ΛΕΜΟΝΙ /ΟΧΙ ΞΥΔΙ/ΟΧΙ ΑΛΑΤΙ &#13;
+4. ΔΕΝ ΘΕΛΕΙ  ΤΑ ΠΑΧΑΚΙΑ 2&#13;
+&#13;
+</food_modalities>
+        <menstruation>Η ΠΕΡΙΟΔΟΣ ΤΗΣ ΕΙΝΑΙ ΚΑΝΟΝΙΚΗ ΤΗΝ ΣΤΙΓΜΗ ΠΟΥ ΠΑΙΡΝΕΙ ΤΑ ΑΝΤΙΣΗΛΛΥΠΤΙΚΚΑ </menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+1. ΑΤΟΜΟ ΕΞΥΠΝΟ  2  /ΣΥΜΠΑΘΗΤΙΚΗ  2&#13;
+2.  ΜΙΛΑΕΙ ΓΡΗΓΟΡΑ &#13;
+3.  ΠΑΙΖΕΙ ΜΕ ΤΑ ΜΑΛΛΙΑ ΤΗΣ ΚΑΙ ΟΤΑΝ ΒΡΙΣΚΕΙ ΜΙΑ ΤΡΙΧΑ ΠΟΥ ΕΧΕΙ ΠΕΣΕΙ  ΑΠΟ ΤΑ ΜΑΛΛΙΑ ΤΗΣ  ΤΗΝ ΚΟΜΜΑΤΙΑΖΕΙ ΣΕ ΜΙΚΡΑ        ΚΟΜΜΑΤΑΚΙΑ  ΠΡΙΝ ΤΗΝ ΠΕΤΑΞΕΙ  3&#13;
+4.   ΕΧΕΙ ΕΛΑΦΡΟ ΤΙΚ ΟΤΑΝ ΜΙΛΑΕΙ 1 &#13;
+5.   ΥΠΕΡΚΙΝΗΤΙΚΗ 1&#13;
+6    ΦΟΒΟΙ  ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΗΣ   2 /ΚΛΕΙΣΤΟΦΟΒΙΚΗ  3  /ΥΨΟΣ ΚΑΙ ΔΕΝ ΠΗΓΑΙΝΕΙ ΠΟΤΕ ΣΤΗΝ ΑΚΡΗ ΓΙΑΤΙ ΦΟΒΑΤΑΙ      ΜΗΠΩΣ ΤΗΣ ΕΡΘΕΙ Η  ΠΑΡΟΡΜΗΣΗ ΝΑ ΠΕΣΕΙ 3 &#13;
+7   .ΔΕΝ ΘΕΛΕΙ ΝΑ ΑΡΓΕΙ ΣΤΑ ΡΑΝΤΕΒΟΥ ΤΗΣ  2&#13;
+8   .ΕΙΝΑΙ ΕΞΩΣΡΕΦΗΣ 3 &#13;
+9   .ΜΙΛΑΕΙ ΓΙΑ ΤΑ ΠΡΟΒΛΗΜΑΤΑ ΤΗΣ ΣΤΙΣ ΦΙΛΕΣ ΤΗΣ  3&#13;
+10.  ΔΕΝ ΕΝΤΕΧΕΙ ΤΗΝ ΜΟΝΑΞΙΑ ΚΑΙ ΚΑΛΥΤΕΡΕΥΕΙ ΜΕ ΤΗΝ ΣΥΝΤΡΟΦΙΑ  3&#13;
+11.  ΓΙΑ ΝΑ ΔΙΑΒΑΣΕΙ ΠΡΕΠΕΙ ΝΑ ΕΧΕΙ ΣΥΓΚΕΚΡΙΜΕΝΑ ΧΡΩΜΑΤΑ ΓΙΑ ΝΑ ΥΠΟΓΡΑΜΙΖΕΙ &#13;
+12  .ΕΙΝΑΙ ΤΣΑΠΑΤΣΟΥΛΑ ΣΤΟ ΔΩΜΑΤΙΟ ΤΗΣ ΚΑΙ ΔΕΝ ΕΝΔΙΑΦΕΡΕΤΑΙ  ΝΑ ΕΙΝΑΙ ΤΑΚΤΙΚΟ ΚΑΙ ΠΕΡΙΠΟΙΗΜΕΝΟ 3 &#13;
+13.  ΤΟ ΒΡΑΔΥ ΞΥΠΝΑΕΙ ΚΑΙ ΣΚΕΦΤΕΤΑΙ  ΜΗΠΩΣ  ΣΤΗ ΔΙΑΡΚΕΙΑ ΤΗΣ ΗΜΕΡΑΣ  ΕΚΑΝΕ ΚΑΤΙ ΚΑΚΟ  2&#13;
+14.  ΜΙΚΡΟΒΙΟΦΟΒΙΑ ΚΑΙ ΠΛΕΝΕΙ ΣΥΧΝΑ ΤΑ ΧΕΡΙΑ ΤΗΣ &#13;
+15  ΕΧΕΙ ΕΜΜΟΝΕΣ  ΜΗΠΩΣ  ΔΕΝ ΕΧΕΙ  ΚΛΕΙΔΩΣΕΙ  ΤΗΝ ΠΟΡΤΑ ΤΟΥ ΣΠΙΤΙΟΥ ΤΗΣ ΚΑΙ ΜΠΟΡΕΙ ΝΑ ΓΥΡΙΣΕΙ ΚΑΙ ΤΡΕΙΣ   ΦΟΡΕΣ ΠΙΣΩ  ΓΙΑ ΝΑ ΔΕΙ    ΕΑΝ ΕΙΝΑΙ ΚΛΕΙΔΩΜΕΝΗ  3 &#13;
+16. ΠΡΟΛΗΠΤΙΚΗ   ΓΙΑΤΙ ,ΠΡΕΠΕΙ ΝΑ ΦΟΡΑ ΣΥΓΚΕΚΡΙΜΕΝΗ ΠΛΟΥΖΑ ΟΤΑΝ ΓΡΑΦΕΙ ΕΞΕΤΑΣΕΙΣ  3 &#13;
+17  ΝΕΥΡΑ 1     ΣΤΗΝ ΠΕΡΙΠΤΩΣΗ ΠΟΥ ΚΑΠΟΙΟΣ  ΤΗΣ  ΑΛΛΑΖΕΙ ΤΟ ΠΡΟΓΡΑΜΜΑ  &#13;
+ΕΚΝΕΥΡΙΖΕΤΑΙ   ΑΛΛΑ ΔΕΝ ΘΥΜΩΝΕΙ  ΕΥΚΟΛΑ    ΚΑΙ ΔΕΝ   ΚΡΑΤΑΕΙ  ΚΑΚΙΑ &#13;
+18.  ΑΓΧΟΣ ΟΤΑΝ ΠΑΕΙ ΝΑ ΔΩΣΕΙ ΕΞΕΤΑΣΕΙΣ ΠΟΥ ΣΥΝΟΔΕΥΕΤΑΙ ΜΕ ΔΙΑΡΡΟΙΕΣ  &#13;
+19. ΤΗΣ ΑΡΕΣΕΙ Η ΘΑΛΑΣΣΑ 2 &#13;
+20. ΔΕΝ ΚΛΑΕΙ ΕΥΚΟΛΑ ΚΑΙ ΚΥΡΙΩΣ ΜΠΡΣΤΑ ΣΤΟΥΣ ΑΛΛΟΥΣ&#13;
+21. ΑΙΣΘΑΝΕΤΑΙ ΕΞΑΝΤΛΗΜΕΝΗ &#13;
+22. ΕΧΕΙ ΧΑΜΗΛΗ ΑΥΤΟΠΕΠΟΙΘΗΣΗ ΚΑΙ ΒΡΙΣΚΕΤΑΙ ΥΠΟ ΤΗΝ ΕΠΙΡΡΟΗ ΤΗΣ ΜΗΤΕΡΑΣ ΤΗΣ &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+1. ΠΡΟΒΛΗΜΑ ΜΕ ΤΟ ΣΤΟΜΑΧΙ ΤΗΣ  ΜΕ ΣΥΧΝΕΣ ΕΡΥΓΕΣ ΠΟΥ ΒΕΛΤΙΩΝΕΙ ΤΗΝ ΓΑΣΤΡΙΤΙΔΑ ΤΗΣ  2&#13;
+2. ΕΧΕΙ ΔΙΑΡΡΟΙΕΣ ΠΟΥ ΧΕΙΡΟΤΕΡΕΥΟΥΝ ΜΕ ΤΟ ΑΓΧΟΣ  3 &#13;
+3. ΤΡΙΧΩΠΤΩΣΗ ΚΑΙ ΛΙΠΑΡΟΤΗΤΑ ΣΤΑ ΜΑΛΛΙΑ ΤΗΣ 1 &#13;
+4. ΤΑΧΥΚΑΡΔΙΑ ΠΟΥ ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΟ ΑΓΧΟΣ ΧΩΡΙΣ ΟΜΩΣ ΘΕΡΑΠΕΥΤΙΚΗ ΑΓΩΓΗ&#13;
+5 ΟΧΙ ΡΙΝΟΡΡΑΓΙΕΣ &#13;
+</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΠΡΟΔΙΑΘΕΣΗ ΓΙΑ ΑΛΛΕΡΓΙΑ/  ΑΛΛΕΡΓΙΚΗ ΡΙΝΙΤΙΔΑ ΚΑΙ ΕΠΙΠΕΦΥΚΙΤΙΔΑ&#13;
+</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+Η ΑΣΘΕΝΗΣ ΜΑΣ ΒΡΙΣΚΕΤΑΙ ΣΤΟ ΕΠΙΠΕΔΟ 3 ΓΙΑΤΙ &#13;
+1. ΕΙΝΑΙ ΜΙΚΡΗ ΣΕ ΗΛΙΚΙΑ&#13;
+2. ΔΕΝ ΠΑΣΧΕΙ ΑΠΟ ΣΟΒΑΡΟ ΝΟΣΗΜΑ &#13;
+3  ΕΧΕΙ ΚΑΝΕΙ  ΥΨΗΛΟ ΕΜΠΥΡΕΤΟ ΤΟΝ ΤΕΛΕΥΤΑΙΟ ΧΡΟΝΟ </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+mind anxiety anticipating 2&#13;
+generalities food and drinks sweets  desire sugar 3 &#13;
+mind fear of hight places 3&#13;
+mind jump -height from a-  impulse  to jump 3&#13;
+mind supestitious 3 </peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+mind anxiety 3&#13;
+mind anxiety health about 3&#13;
+generalities warm agg 3 &#13;
+generalities food and drinks sweets  desire  3 &#13;
+mind sympathetic 2 &#13;
+mind fear alone of being 3 &#13;
+mind anxiety hypochondrial 3&#13;
+mind compagny desire for 3&#13;
+stomach inflammation 2&#13;
+chest palpitation -anxiety 2 &#13;
+mind restlessness nervousness-anxious 2&#13;
+eye inflammation 2 &#13;
+sleep -sleeplessness-thoughts activity of mind, from 2&#13;
+mind fear narrow places in 3 &#13;
+mind condidence -want of self conidence low 2 &#13;
+generalities -pulse -frequent,acceleratedfast (tachycardia) 2&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Argentum nitricum &#13;
+Phosporus &#13;
+calcarea carbonica&#13;
+Arsenicum album&#13;
+lycopodium </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+1. ΤΟ Αrgentum -nitricun ΕΙΝΑΙ ΕΞΩΣΤΡΕΦΕΣ ΚΑΙ ΠΟΛΥ ΣΥΜΠΑΘΗΤΙΚΟ ΑΤΟΜΟ  ΚΑΙ ΜΠΟΡΕΙ ΝΑ ΚΛΑΨΕΙ  ΟΤΑΝ ΔΕΙ  ΚΑΠΟΙΟΝ ΝΑ ΥΠΟΦΕΡΕΙ   ΑΚΡΙΒΩΣ  ΟΠΩΣ Ο Phosporus&#13;
+ ΚΑΙ ΤΑ ΔΥΟ ΦΑΡΜΑΚΑ ΑΠΟΛΑΜΒΑΝΟΥΝ ΤΗΝ ΠΑΡΗΓΟΡΙΑ .&#13;
+ΜΠΟΡΕΙ ΤΟ Argentum-nitricum ΝΑ ΜΗΝ ΤΟΥ ΑΡΕΣΕΙ ΝΑ ΚΛΑΕΙ ΜΠΡΟΣΤΑ ΣΤΟΥΣ ΑΛΛΟΥΣ ΚΑΙ ΝΑ ΚΛΑΕΙ , ΑΛΛΑ ΜΠΟΡΕΙ ΚΑΙ ΝΑ ΤΟ ΠΡΑΞΕΙ ΚΑΙ ΑΥΤΟ   ΜΟΝΟ ΟΤΑΝ ΔΕΝ ΜΠΟΡΕΙ,  ΝΑ ΚΡΥΨΕΙ ΤΑ ΣΥΝΑΣΘΗΜΑΤΑ ΤΟΥ&#13;
+ΣΤΗΝ ΣΥΓΚΕΚΡΙΜΕΝΗ ΠΕΡΙΠΤΩΣΗ Η ΑΣΘΕΝΗΣ ΔΕΝ ΕΠΙΘΥΜΕΙ ΤΟ ΠΑΓΩΜΕΝΟ  ΝΕΡΟ/  ΕΧΕΙ ΕΜΜΟΝΕΣ / ΕΙΝΑΙ ΠΡΟΛΗΠΤΙΚΗ / ΕΧΕΙ ΑΥΠΝΙΑ ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΗΣ ΝΥΧΤΑΣ ΚΑΙ ΠΑΡΟΡΜΗΣΕΙΣ ΑΦΟΥ ΣΚΕΦΤΕΤΑΙ ΝΑ ΠΗΔΗΞΕΙ ΑΠΟ ΤΟ ΥΨΟΣ ΟΤΑΝ ΠΑΕΙ ΚΟΝΤΑ &#13;
+2. Η calcarea carbonica ΕΧΕΙ ΦΟΒΟΥΣ ΓΙΑ ΤΟ ΥΨΟΣ ΓΙΑ  ΤΑ ΣΚΟΤΕΙΝΑ ΜΕΡΗ ΕΧΕΙ ΑΥΠΝΙΑ &#13;
+ΕΠΙΘΥΜΕΙ ΤΗΝ ΣΥΝΤΡΟΦΙΑ / ΤΑ ΓΛΥΚΑ ΑΛΛΑ ΔΕΝ ΧΕΙΡΟΤΕΡΕΥΕΙ ΑΠΟ ΤΗ ΖΕΣΤΗ ΟΥΤΕ ΚΑΙ ΕΧΕΙ ΕΜΜΟΝΕΣ ΝΑ ΠΕΣΕΙ ΑΠΟΤΟ ΥΨΟΣ &#13;
+3.  ΟΣΟ ΑΝΑΦΟΡΑ  ΤΟ Arsenicum ΚΑΙ ΤΟ Phosrorus  ΚΑΙ ΤΑ ΔΥΟ ΕΧΟΥΝ ΑΓΧΟΣ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΟΥΣ ΚΑΙ ΦΟΒΟ ΘΑΝΑΤΟΥ &#13;
+ΤΟ ΚΥΡΙΑΡΧΟ  ΧΑΡΑΚΤΗΡΙΣΤΙΚΟ ΤΟΥ Arsenicum ΕΙΝΑΙ O ΥΠΟΧΟΝΔΡΙΣΜΟΣ  ΕΝΩ ΤΟΥ Phosporus  EINAI TO ΑΓΧΟΣ ΓΙΑ ΤΗΝ ΥΓΕΙA &#13;
+ ΤΟ Arsenicum ΕΠΙΖΗΤΕΙ  ΤΗΝ ΣΥΝΤΡΟΦΙΑ ΓΙΑ ΝΑ ΚΑΘΗΣΥΧΑΣΤΕΙ   ΟΤΙ ΚΑΠΟΙΟΣ ΝΟΙΑΖΕΤΑΙ ΓΙΑ ΑΥΤΟΝ ΕΝΩ Ο Phosporus ΑΝΑΖΗΤΕΙ  ΓΕΝΙΚΑ ΤΗΝ ΑΝΘΡΩΠΙΝΗ ΕΠΑΦΗ &#13;
+ΕΠΙΠΛΕΟΝ ΤΟ Arsenicum ΔΕΝ ΕΙΝΑΙ ΚΑΘΟΛΟΥ ΣΥΜΠΑΘΗΤΙΚΟ ΑΤΟΜΟ /ΣΥΝΗΘΩΣ ΚΡΥΩΝΕΙ /ΚΑΙ ΔΕΝ ΕΙΝΑΙ ΠΡΟΛΗΠΤΙΚΟ ΟΠΩΣ ΕΔΩ &#13;
+4 ΣΤΟ lycopodium ΥΠΑΡΧΟΥΝ ΦΟΒΟΙ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΟΥ / ΝΑ ΜΕΙΝΕΙ ΜΟΝΟΣ ΤΟΥ/ ΓΙΑ ΤΑ ΣΚΟΤΕΙΝΑ ΜΕΡΗ ΕΙΝΑΙ ΖΕΣΤΟ ΦΑΡΜΑΟ /ΕΧΕΙ ΑΥΠΝΙΕΣ ΚΑΙ ΑΓΧΟΣ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΟΥ ΑΛΛΑ ΔΕΝ ΦΟΒΑΤΑΙ ΤΟ ΥΨΟΣ ΟΥΤΕ ΕΧΕΙ ΤΗΝ ΕΜΜΟΝΗ ΝΑ ΠΕΡΣΕΙ ΑΠΟ ΤΟ ΜΠΑΛΚΟΝΙ ΟΤΑΝ ΒΡΕΘΕΙ ΣΤΗΝ ΑΚΡΗ . ΕΠΙΣΗΣ ΔΕΝ ΕΙΝΑΙ ΠΡΟΛΗΠΤΙΚΟ </remedies_differentiation>
+      <prescription>
+        <remedy>Argentum nitricum </remedy>
+        <potency>200CH -1M </potency>
+        <regimen>Please enter regimen&#13;
+200Ch  ΤΟ ΠΡΩΙ &#13;
+1Μ ΤΟ ΜΕΣΗΜΕΡΙ </regimen>
+        <other_notes>Please enter other notes&#13;
+ΕΠΕΙΔΗ&#13;
+1.  ΤΟ ΦΑΡΜΑΚΟ ΜΑΣ ΕΙΝΑΙ ΑΡΚΕΤΑ ΚΑΘΑΡΟ &#13;
+2..Η ΑΣΘΕΝΗΣ ΜΑΣ ΒΡΙΣΚΕΤΑΙ ΣΕ ΥΨΗΛΟ ΕΠΙΠΕΔΟ                   &#13;
+3. ΕΙΝΑΙ ΨΥΧΙΚΟ ΤΟ ΠΡΟΒΛΗΜΑ &#13;
+ΘΑ ΠΑΜΕ ΣΕ ΥΨΗΛΗ ΔΥΝΑΜΟΠΟΙΗΣΗ &#13;
+ΤΗΣ ΕΞΗΓΟΥΜΕ ΟΤΙ ΔΕΝ ΠΡΕΠΕΙ ΝΑ ΚΑΦΕ ΚΑΙ  ΝΑ ΚΑΝΕΙ ΚΑΤΑΧΡΗΣΗ ΣΕ ΤΡΟΦΕΣ ΠΟΥ ΠΕΡΙΕΧΟΥΝ ΚΑΦΕΙΝΗ &#13;
+&#13;
+</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-04-03 14:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΣΥΝΕΧΙΖΕΙ ΤΑ ΑΝΤΙΣΥΛΗΠΤΙΚΑ </conv_med_presc>
+      <lab_tests>
+        <desc>Hb=12,5 Ht=37  MCV=78(76-96) MCH =31(27-33) MCHC=32(30-36) MBW=12(11-16)  PLQ=250000&#13;
+ΥΠΕΡΧΗΧΟΣ ΩΟΘΗΚΩΝ ΔΕΝ ΕΔΕΙΞΕ ΜΕΙΩΣΗ ΤΩΝ ΚΥΣΤΕΩΝ </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΕΡΧΕΤΑΙ ΚΑΙ ΜΑΣ ΛΕΕΙ ΟΤΙ ΤΗΝ ΠΡΩΤΗ ΗΜΕΡΑ ΕΙΧΕ ΜΙΑ ΕΝΤΟΝΗ ΚΕΦΑΛΑΛΓΙΑ ΠΟΥ ΑΝΑΓΚΑΣΤΗΚΕ ΝΑ ΠΑΡΕΙ ΠΑΥΣΙΠΟΝΑ &#13;
+ΤΩΡΑ  ΓΕΝΙΚΑ ΕΙΝΑΙ ΠΟΛΥ ΚΑΛΥΤΕΡΑ&#13;
+1. ΟΣΟ ΑΦΟΡΑ ΤΙΣ ΔΥΝΑΜΕΙΣ ΤΗΣ  ΚΑΙ ΕΧΕΙ ΠΙΟ ΠΟΛΥ ΕΝΕΡΓΗΤΙΚΟΤΗΤΑ &#13;
+2. ΟΙ ΤΑΧΥΚΑΡΔΙΕΣ  ΠΟΥ ΕΙΧΕ ΟΤΑΝ ΑΓΧΩΝΟΤΑΝ ΕΧΟΥΝ ΜΕΙΩΘΕΙ ΚΑΤΑ 30%&#13;
+3.ΟΙ  ΕΜΜΟΝΕΣ ΤΗΣ ΠΟΥ ΤΗΝ ΑΝΑΓΚΑΖΑΝΕ ΝΑ ΓΥΡΙΣΕΙ ΠΙΣΩ ΓΙΑ ΝΑ ΕΛΕΓΧΕΙ ΕΧΟΥΝ ΜΕΙΩΘΕΙ ΠΕΡΙΠΟΥ ΣΤΟ 50%&#13;
+4. ΕΙΝΑΙ ΓΕΝΙΚΑ ΠΙΟ ΗΡΕΜΗ ΑΠΟ ΤΗΝ ΠΡΩΤΗ ΕΠΙΣΚΕΨΗ ΤΗΣ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΤΗΝ ΠΡΩΤΗ ΗΜΕΡΑ ΕΚΑΝΕ ΜΙΑ ΘΕΡΑΠΕΥΤΙΚΗ ΕΠΙΔΕΙΝΩΣΗ  ΓΕΓΟΝΟΣ ΠΟΥ ΜΑΣ ΔΕΙΧΝΕΙ ΟΤΙ  ΤΟ ΦΑΡΜΑΚΟ ΗΤΑΝ ΤΟ ΣΩΣΤΟ &#13;
+ΜΕΤΑ ΤΟΝ ΠΡΩΤΟ ΜΗΝΑ &#13;
+1. ΕΧΟΥΜΕ ΜΙΑ  ΒΕΛΤΙΩΣΗ ΣΤΗ  ΖΩΤΙΚΗ ΕΝΕΡΓΕΙΑ&#13;
+2. ΕΧΟΥΜΕ ΕΛΑΤΤΩΣΗ  ΤΟΥ  ΚΥΡΙΟΥ ΣΥΜΠΤΩΜΑΤΟΣ ΤΟΥ ΑΓΧΟΥΣ &#13;
+3.   ΨΥΧΙΚΑ ΑΙΣΘΑΝΕΤΑΙ ΠΙΟ ΗΡΕΜΗ </analysis>
+      <conclusion>ΔΕΝ ΔΙΝΟΥΜΕ ΚΑΝΕΝΑ ΦΑΡΜΑΚΟ ΚΑΙ ΒΛΕΠΟΥΜΕ ΤΗΝ ΑΣΘΕΝΗ ΜΕΤΑ ΑΠΟ 1 ΜΗΝΑ&#13;
+ ΕΚΤΟΣ ΚΑΙ ΕΑΝ ΥΠΑΡΞΕΙ   ΟΞΥ ΠΕΡΙΣΤΑΤΙΚΟ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>--ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>ΤΗΣ ΛΕΜΕ ΝΑ ΜΗΝ ΠΙΕΙ ΚΑΦΕ ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΗΣ ΘΕΡΑΠΕΙΑΣ </regimen>
+        <other_notes>ΘΑ ΤΗΝ ΞΑΝΑΔΟΥΜΕ ΣΕ ΕΝΑ ΜΗΝΑ ΕΚΤΟΣ ΚΑΙ ΑΝ ΥΠΑΡΞΕΙ ΚΑΠΟΙΑ ΕΠΙΔΕΙΝΩΣΗ ΤΗΣ ΚΑΤΑΣΤΑΣΗΣ </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-05-04 14:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΣΥΝΕΧΙΖΕΙ ΤΑ ΑΝΤΙΣΥΛΛΗΠΤΙΚΑ  &#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>ΥΠΕΡΗΧΟ ΩΟΘΗΚΩΝ  ΥΠΑΡΞΗ ΤΩΝ ΠΟΛΥΚΥΣΤΙΚΩΝ ΩΟΘΗΚΩΝ </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+Η ΑΣΘΕΝΗΣ ΜΑΣ ΑΙΣΘΑΝΕΤΑΙ ΠΟΛΥ ΚΑΛΥΤΕΡΑ &#13;
+1.ΕΧΕΙ ΓΡΑΦΤΕΙ ΣΤΟ ΓΥΜΝΑΣΤΗΡΙΟ &#13;
+2. ΖΕΣΤΑΙΝΕΤΑΙ ΛΙΓΟΤΕΡΟ &#13;
+3. Ο ΦΟΒΟΣ ΠΟΥ ΕΙΧΕ ΓΙΑ ΤΟ ΥΨΟΣ ΕΧΕΙ ΜΕΙΩΘΕΙ  ΚΑΤΑ 70% &#13;
+4 ΟΙ ΔΙΑΡΡΟΙΕΣ ΠΟΥ ΧΕΙΡΟΤΕΡΕΥΑΝ ΜΕ ΤΟ ΑΓΧΟΣ ΚΥΡΙΩΣ ΤΩΝ ΕΞΕΤΑΣΕΩΝ  ΤΩΡΑ ΕΧΟΥΝ ΜΕΙΩΘΕΙ ΚΑΤΑ 70%&#13;
+5. ΕΧΕΙ  ΠΑΡΑΤΗΡΗΣΕΙ ΜΙΑ ΣΗΜΑΝΤΙΚΗ  ΒΕΛΤΙΩΣΗ ΣΤΗΝ ΑΛΛΕΡΓΙΚΗ ΕΠΙΠΕΦΥΚΙΤΙΔΑ  &#13;
+6. ΣΠΑΝΙΑ ΕΧΕΙ ΤΩΡΑ ΤΗΝ ΠΑΡΟΡΜΗΣΗ ΝΑ ΠΕΣΕΙ ΑΠΟ ΤΟ ΥΨΟΣ  ΟΤΑΝ ΒΡΙΣΚΕΤΑΙ ΣΤΗΝ ΑΚΡΗ ΤΟΥ ΜΠΑΛΚΟΝΙΟΥ &#13;
+7. ΔΕΝ ΕΠΙΘΥΜΕΙ ΤΟΣΟ ΤΗΝ ΣΑΚΧΑΡΗ ΚΑΙ ΤΑ ΓΛΥΚΑ  ΟΣΟ  ΠΡΙΝ &#13;
+8. ΔΕΝ ΞΥΠΑΝΕΙ ΠΙΑ ΤΟ ΒΡΑΔΥ ΚΑΙ ΚΟΙΜΑΤΑΙ ΚΑΛΑ &#13;
+9.ΤΑ ΜΑΛΛΙΑ ΤΗΣ ΔΕΝ ΕΙΝΑΙ ΤΟΣΟ ΛΙΠΑΡΑ ΚΑΙ ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ ΚΙΑ Η ΤΡΙΧΟΠΤΩΣΗ ΤΗΣ &#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΑΡΑ ΒΛΕΠΟΥΜΕ ΟΤΙ ΤΟ ΦΑΡΜΑΚΟ ΣΥΝΕΧΙΖΕΙ ΝΑ ΔΡΑ ΕΥΕΡΓΕΤΙΚΑ  ΣΤΟΝ ΟΡΓΑΝΙΣΜΟ &#13;
+ΚΑΙ ΚΑΘΩΣ ΔΕΝ ΒΛΕΠΟΥΜΕ ΚΑΜΜΙΑ ΥΠΟΤΡΟΠΗ ΣΥΜΠΤΩΜΑΤΩΝ &#13;
+ΔΕΝ ΔΙΝΟΥΜΕ ΚΑΝΕΝΑ ΦΑΡΜΑΚΟ ΚΑΙ ΠΕΡΙΜΕΝΟΥΜΕ &#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΤΟ ΦΑΡΜΑΚΟ ΠΟΥ ΔΩΣΑΜΕ ΑΡΧΙΚΑ ΤΗΝ ΒΟΗΘΗΣΕ ΣΕ ΟΛΑ ΤΑ ΕΠΙΠΕΔΑ&#13;
+ΚΑΙ ΣΩΜΑΤΙΚΑ &#13;
+ΚΑΙ ΨΥΧΙΚΑ &#13;
+ΑΛΛΑ ΚΑΙ ΣΤΗΝ ΖΩΤΙΚΗ ΕΝΕΡΓΕΙΑ ΤΗΣ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ  ΦΑΡΜΑΚΟ</remedy>
+        <potency>- ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>ΚΑΙ ΤΗΣ ΣΥΣΤΗΝΟΥΜΕ ΝΑ ΜΗΝ ΠΙΕΙ ΚΑΦΕ ΚΑΤΑ ΤΗΝ ΔΙΑΡΚΕΙΑ ΤΗΣ ΘΕΡΑΠΕΙΑΣ </regimen>
+        <other_notes>ΤΙΣ ΖΗΤΑΜΕ ΝΑ ΜΑΣ ΞΑΝΑΕΠΙΣΚΕΦΤΕΙ ΜΕΤΑ ΑΠΟ 2 ΜΗΝΕΣ </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-07-04 14:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΣΤΑΜΑΤΗΣΕ ΤΑ ΑΝΤΙΣΥΛΛΗΠΤΙΚΑ &#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>ΥΠΕΡΗΧΟΣ ΩΟΘΗΚΩΝ ΕΔΕΙΞΕ ΜΙΑ ΜΕΙΩΣΗ ΤΩΝ ΚΥΣΤΕΩΝ </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultatio&#13;
+ΣΥΝΕΧΙΖΕΤΑΙ Η ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ ΧΩΡΙΣ ΝΑ ΕΧΟΥΜΕ ΥΠΟΤΡΟΠΗ ΣΥΜΠΤΩΜΑΤΩΝ  &#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+1.ΟΙ ΔΥΝΑΜΕΙΣ ΤΗΣ ΕΧΟΥΝ ΕΠΑΝΕΛΘΕΙ  &#13;
+2. ΔΕΝ ΦΟΒΑΤΑΙ ΤΟ ΥΨΟΣ ΠΙΑ &#13;
+3. ΔΕΝ ΕΧΕΙ ΜΙΚΡΟΒΙΟΦΟΒΙΑ &#13;
+4. ΟΙ ΕΜΜΟΝΕΣ ΤΗΣ ΒΕΛΤΙΩΘΗΚΑΝ ΑΦΟΥ ΔΕΝ ΕΧΕΙ ΑΝΑΓΚΗ ΝΑ ΓΥΡΙΣΕΙ ΠΙΣΩ  ΣΤΟ ΣΠΙΤΙ ΤΗΣ ΓΙΑ ΝΑ ΕΛΕΓΞΕΙ ΑΝ ΕΧΕΙ ΚΛΕΙΔΩΣΕΙ ΤΗΝ ΠΟΡΤΑ &#13;
+5 .ΔΕΝ  ΕΧΕΙ ΤΗΝ ΣΥΝΗΘΕΙΑ ΤΩΡΑ ΝΑ ΚΟΜΜΑΤΑΖΕΙ   ΤΙΣ ΤΡΙΧΕΣ ΤΩΝ ΜΑΛΛΙΩΝ ΤΗΣ ΠΡΙΝ ΤΙΣ ΠΕΤΑΞΕΙ &#13;
+6.  ΝΙΩΘΕΙ ΠΙΟ ΗΡΕΜΗ ΤΩΡΑ-ΚΟΙΜΑΤΑΙ ΠΟΛΥ ΚΑΛΥΤΕΡΑ ΚΑΘΩΣ  ΔΕΝ ΞΥΠΝΑΕΙ ΤΗΝ ΝΥΧΤΑ    &#13;
+7. ΕΧΕΙ ΜΕΓΑΛΥΤΕΡΗ  ΑΥΤΟΠΕΠΟΙΘΗΣΗ ΣΤΟΝ ΕΑΥΤΟ ΤΗΣ  ΑΦΟΥ ΜΠΟΡΕΙ ΝΑ ΔΙΑΦΩΝΕΙ ΜΕ ΤΗΝ ΜΗΤΕΡΑ ΤΗΣ &#13;
+ΚΑΙ ΝΑ ΛΕΕΙ ΤΗΝ ΓΝΩΜΗ ΤΗΣ ΠΡΑΓΜΑ ΑΔΙΑΝΟΗΤΟ ΠΙΟ ΠΡΙΝ &#13;
+&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΤΟ Argentum nitricum ΤΗΝ ΒΟΗΘΗΣΕ ΒΑΘΙΑ ΚΑΙ ΟΥΣΙΑΣΤΙΚΑ &#13;
+ΑΦΟΥ ΒΕΛΤΙΩΣΕ ΚΑΙ ΤΑ ΨΥΧΙΚΑ ΚΑΙ ΤΑ ΣΩΜΑΤΙΚΑ ΣΥΝΠΤΩΜΑΤΑ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>---</potency>
+        <regimen>Please enter regimen&#13;
+ ΝΑ ΜΗΝ ΠΙΕΙ ΚΑΦΕ ΚΑΙ ΑΜΑ ΘΕΛΕΙ ΝΑ ΠΕΙ DECAFEINE </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΗΣ ΛΕΜΕ  ΝΑ ΜΑΣ ΤΗΛΕΦΩΝΙΣΕΙ   ΕΑΝ ΞΑΝΑΕΜΦΑΝΙΣΤΟΥΝ ΤΑ ΣΥΜΠΤΩΜΑΤΑ &#13;
+</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

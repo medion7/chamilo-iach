@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd4b29f9df99185f646072b4e751cb32a</ID>
+  <patient>
+    <case_date>2015-03-20 11:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Σ.Χ</patient_initials>
+    <age>55</age>
+    <circumstances>Παντρεμένη,2 παιδιά,οδοντίατρος.    Λήψη ιστορικού 20/3/2015</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Τον Μάρτιο του 2015 η φίλη οδοντίατρος άρχισε να έχει ένα ξηρό βήχα(3)</origin>
+        <causative_factors>Τοποθετεί την έναρξη του βήχα το βράδυ της μέρας που έκανε joking στη παραλία.Ο καιρός ήταν ηλιόλουστος αλλά είχε πολύ αέρα.Ο βήχας προκαλείται από αίσθηση γδαρσίματος στην αριστερή πλευρά του λαιμού(2) που κατεβαίνει προς την τραχεία(2).Αρχίζει συνήθως το βράδυ που κλείνει το καλοριφέρ και πέφτει η θερμοκρασία του δωματίου.Την ανακουφίζει να κουκουλώνεται με τα σκεπάσματα ώστε να ζεσταίνεται ο αέρας που αναπνέει</causative_factors>
+        <modalities>Είναι καλύτερα σε ζεστή ατμόσφαιρα και με ζεστά ροφήματα(2)</modalities>
+        <occurrence_time>Είναι χειρότερα όταν βγαίνει έξω</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>-</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Καμμία</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Δεν παίρνει εύκολα φάρμακα</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>-Δεν υπάρχει ιστορικό αναπνευστικών ασθενειών. Μόνο μυοσκελετικά.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται(2) το καλοκαίρι την ενοχλεί ο ήλιος</reactions>
+        <sleeping_habits>Κοιμάται καλά στα δεξιά</sleeping_habits>
+        <food_modalities>Επιθυμεί γλυκά(2) και μοσχαρίσιο κρέας(2)              &#13;
+Απεχθειες τίποτα ιδιαίτερα</food_modalities>
+        <menstruation>Σε εμμηνόπαυση</menstruation>
+      </physical>
+      <mental_emotional>Ειναι ισορροπημένος άνθρωπος,ήρεμη και δραστήρια.Δεν εκφράζει ιδιαίτερα ψυχοδιανοητικά προβλήματα</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Το προβλημα εντοπίζεται μόνο στο σωματικό επίπεδο (ανώτερο αναπνευστικό).Πρόκειται για υγιές άτομο που αρρωσταίνει σπάνια και με ψηλό πυρετό άρα επίπεδο υγείας 2</personal_medical_history>
+        <family_medical_history>Δεν υπάρχει ιστορικό αναπνευστικών προβλημάτων</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Το οξύ προκλήθηκε απο τις καιρικές συνθήκες.Αν και αθλείται συχνά στη φύση αναφέρει οτι εκέίνη την ημέρα ήταν κουρασμένη από την δουλειά αλλά δεν ήθελε να χάσει την άθληση.Ετσι εκδηλώθηκε το οξύ.Η πρόγνωση είναι καλή</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Να σκεπάζει το κεφάλι όταν ξαπλώνει(3) για να σταματά ο βήχας</peculiar>
+        <intense>Βήχας(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Σύμπτωμα Βαθμός&#13;
+COUGH DRY&#13;
+3&#13;
+COUGH COVERING&#13;
+mouth, so the inhaled air is warmed, amel. 1&#13;
+COUGH AIR&#13;
+cold&#13;
+air agg. 3&#13;
+COUGH SCRATCHING&#13;
+(scraping, tickling), from larynx,&#13;
+in, from 2&#13;
+THROAT PAIN&#13;
+sides&#13;
+left&#13;
+2&#13;
+THROAT PAIN&#13;
+scratching&#13;
+2&#13;
+COUGH WARM&#13;
+fluids&#13;
+(drinks) amel.&#13;
+2&#13;
+CHEST PAIN&#13;
+Lungs&#13;
+left&#13;
+2&#13;
+GENERALITIES COLD&#13;
+air&#13;
+agg.&#13;
+3&#13;
+GENERALITIES WARM&#13;
+agg.&#13;
+2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Στο repertory (compass) και στη ρούμπρικα cough cold air agg. είναι στο 3ο βαθμό τα φάρμακα :All.c,ars phos.,nux.v., rumex   &#13;
+Στη ρούμπρικα cough covering mouth so the inhaled air is warmed που είναι και το peculiar της περίπτωσης ύπαρχει μόνο το rumex.     &#13;
+Επίσης το βρισκουμε στη ρούμπρικα cough dry.Το rumex καλύπτει τα keynotes(ξηρός βήχας,&lt; στον κρύο αέρα,&gt;όταν σκεπάζει το κεφάλι)    &#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>RUMEX</remedy>
+        <potency>2OOCH</potency>
+        <regimen>200CH x 1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-28 10:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Αμεση βελτίωση-θεραπεία του βήχα από την πρώτη νύχτα.Δεν την ξαναενόχλησε μέχρι σήμερα 7 μήνες μετά.-</reaction>
+      <analysis>-</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

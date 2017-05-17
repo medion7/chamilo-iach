@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2c4b482b58db1ae1b2b049ffc3c2aa14</ID>
+  <patient>
+    <case_date>2014-09-26 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΑΖ</patient_initials>
+    <age>69</age>
+    <circumstances>60,5 κιλά, 158 εκ, παντρεμένη, 2 παιδιά, συνταξιούχος δασκάλα</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>θλίψη 3, "είμαι ισοπεδωμένη", από 2 ετίας-με εξάρσεις - υφέσεις</origin>
+        <causative_factors>χωρισμός της κόρης της, στεναχωριέται αν θα παντρευτεί ξανά</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time> &gt;&gt; πρωί</occurrence_time>
+        <body_side>χωρίς εντόπιση</body_side>
+        <appearence_frequency>συνέχεια</appearence_frequency>
+        <pain_desc>θλίψη 3, δεν μπορεί να χαρεί ούτε με εγγόνια της, ούτε υπάρχει κάτι που να επιθυμεί άλλο</pain_desc>
+        <complaint_ext>τριχόπτωση 3, σπάνε τα νύχια 2</complaint_ext>
+        <other_complaints>-</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Thyrohormone 50 μg, Lexotanil 3 mg καθημερινά, Remeron, Seroquel</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Remeron, Seroquel, Lexotanil 3 mg καθημερινά</therapies_vaccination>
+          <traumas>χωρισμός της κόρης πριν 2 χρόνια&#13;
+χολοκυστεκτομή πριν 8 χρόνια</traumas>
+          <infections>έχει πάνω από 5 χρόνια να κάνει πυρετό</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατέρας: ΣΔ, απεβίωσε από εγκεφαλικό, 83 χρ&#13;
+Μητέρα: εγκεφαλικό, απεβίωσε 84 χρ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει 3</reactions>
+        <sleeping_habits>ανάσκελα 2, βγάζει πόδια έξω από σκεπάσματα </sleeping_habits>
+        <food_modalities>Επιθυμίες: λεμόνι 3, χυμούς 4, γιαούρτι , λίπος 2, κρέας, τυρί 3&#13;
+Απέχθειες: τσάι</food_modalities>
+        <menstruation>εμμηνόπαυση από 10 ετίας</menstruation>
+      </physical>
+      <mental_emotional>κλειστή 3, απαθής 4, ζήλεια 3 για γάμους άλλων παιδιών – οικογενειών,θλίψη 3, σιωπηλή 3, δε θέλει συζητήσεις , αναστενάζει 2, δεν παίρνει αποφάσεις 2, χαμηλή αυτοπεποίθηση 2, σιχαίνεται&#13;
+φοβίες: αρρώστιες 3&#13;
+“νιώθω ισοπεδωμένη”</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>2 καισαρικές τομές, 2 παιδιά υγιή</personal_medical_history>
+        <family_medical_history>Δεν υπάρχει ιστορικό κατάθλιψης στην οικογένεια. Επειδή φαίνεται να είναι αντιδραστικού τύπου κατάθλιψη-παρά ενδογενής, η πρόγνωση είναι λίγο καλύτερη.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Θα χρειασθούν 5 ή 6 φάρμακα για τη θεραπεία. Το πρόβλημα βρίσκεται στο συναισθηματικό επίπεδο.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>δεν υπάρχουν ιδιαίτερα περίεργα συμπτώματα</peculiar>
+        <intense>κλειστή 3, απαθής 4, ζήλεια 3, θλίψη 3, σιωπηλή 3, δε θέλει συζητήσεις, αναστενάζει 2, χαμηλή αυτοπεποίθηση 2, κρυώνει 3&#13;
+φοβίες: αρρώστιες 3&#13;
+Επιθυμεί λεμόνι 3, χυμούς 4, λίπος 2, τυρί 3, απέχθεια τσάι 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>1. 		MIND - GRIEF 	3&#13;
+2. 		MIND - INDIFERENCE, apathy   4&#13;
+3. 		MIND - GRIEF - ailments from 	4&#13;
+4. 		HEAD - HAIR - falling - grief, from 	3&#13;
+5. 		GENERALITIES - FOOD and DRINKS - lemons - desire 	3&#13;
+6. 		STOMACH - APPETITE - diminished 	3&#13;
+7. 		MIND - GRIEF - silent 	3&#13;
+8. 		SLEEP - POSITION - back, on 	2&#13;
+9. 		GENERALITIES - COLD - agg. 	3&#13;
+10. 		MIND - ANXIETY - children - about his 	3&#13;
+11. 		EXTREMITIES - NAILS - brittle 	2&#13;
+12. 		MIND - CONFIDENCE - want of self confidence 2&#13;
+13. 		GENERALITIES - FOOD and DRINKS - fat - desire 	3&#13;
+14. 		GENERALITIES - FOOD and DRINKS - cheese - desire 	2&#13;
+15. 		MIND - RESERVED 	3&#13;
+16. 		MIND - ANXIETY 	3&#13;
+17. 		MIND - JEALOUSY 	3&#13;
+18. 		MIND - SIGHING 	2&#13;
+19. 		GENERALITIES - FOOD and DRINKS - juicy things - desires 	3&#13;
+20. 		GENERALITIES - FOOD and DRINKS - tea - aversion 	3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Ignatia: λόγω των συμπτωμάτων μετά από θλίψη και αναστεναγμών, ζήλειας και τριχόπτωσης.&#13;
+&#13;
+Phosphoric Acid: λόγω των συμπτωμάτων μετά από θλίψη, της τριχόπτωσης -  κρυώνει και θέλει χυμούς, απάθεια και αδιαφορία.&#13;
+&#13;
+Επειδή προέχει η απάθεια, προτιμήθηκε το Phosphoric Acid.</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphoric Acid</remedy>
+        <potency>30 CH</potency>
+        <regimen>30 CH, για 30 μέρες&#13;
+</regimen>
+        <other_notes>Επειδή παίρνει καθημερινά κατασταλτική αγωγή προτιμήθηκε σχήμα με μικρές καθημερινές χαμηλότερες δυναμοποιήσεις.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up: 2/11/2014&#13;
+Thyrohormone 50 μg, Remeron, Seroquel&#13;
+Δε χρειάζεται πια το Lexotanil σε καθημερινή βάση- το χρειάσθηκε 3-4 φορές το μήνα που πέρασε.</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Είναι πιο ευδιάθετη, έχει λιγότερο άγχος και καλύτερη ενέργεια. Της άνοιξε η όρεξη τρώει σχεδόν κανονικά- έβαλε 2 κιλά. Δε χρειάζεται Lexotanil καθημερινά.</reaction>
+      <analysis>Το φάρμακο έδρασε - ήταν σωστό.</analysis>
+      <conclusion>Αφού άρχισε η βελτίωση μπορεί να συνεχίσει με το ίδιο φάρμακο σε δυναμοποίηση 6x ή και να μην πάρει τίποτα πια.</conclusion>
+      <repertorization>
+        <desc>Είναι ίδιο με το προηγούμενο, μόνο που τα συμπτώματα έχουν μικρότερη ένταση. </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Phosphoric Acid</remedy>
+        <potency>6x</potency>
+        <regimen>για 3 μήνες, μέχρι την επόμενη εξέταση</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up: 20/7/2015    ίδια</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τηλεφωνικά ανέφερε ότι είναι καλύτερα το Μάρτιο 2014, χωρίς νέα συμπτώματα- όλο το διάστημα μέχρι την επανεξέταση έπαιρνε Phosphoric Acid 6x.&#13;
+&#13;
+20/7/2015 Είναι ακόμη καλύτερα, δε στεναχωριέται - έχει περιοριστεί η τριχόπτωση και έχει βγάλει καινούρια μαλλιά- όχι 100% βελτίωση, αλλά σαφής αλλαγή. Κοιμάται καλά- έχει καιρό να πάρει Lexotanil. Νιώθει ότι και το μυαλό της λειτουργεί καλύτερα- παρόλο που δεν είχε αναφέρει πρόβλημα την πρώτη φορά. Είναι λίγο πιο ευερέθιστη της λένε οι άλλοι. Η όρεξή της έχει έρθει σε κανονικά επίπεδα.</reaction>
+      <analysis>Το φάρμακο βοήθησε σε όλα τα επίπεδα. Η ευερεθιστότητα είναι πιο επιφανειακό σύμπτωμα σε συναισθηματικό επίπεδο από την απάθεια, επομένως η κατεύθυνση της θεραπευτικής πορείας είναι η σωστή.</analysis>
+      <conclusion>αναμονή με το ίδιο φάρμακο</conclusion>
+      <repertorization>
+        <desc>ίδιο- με συμπτώματα χαμηλότερης έντασης.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Phosphoric Acid</remedy>
+        <potency> 6x</potency>
+        <regimen>για 3 μήνες</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL16a14e7dd9d0e8f7e54df2df881f0111</ID>
+  <patient>
+    <case_date>2015-12-26 22:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Μ</patient_initials>
+    <age>33</age>
+    <circumstances>Ανυπαντρη μητέρα με 2 τέκνα, εκπαιδευτικός</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>έντονη ουλορραγία,επίπονη περίοδος με πολύ αίμα</origin>
+        <causative_factors>εμφανιστηκε μετά το δεύτερο τοκετό</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>έντονος πονος περιόδου διάρκειας 4-5 ημερών</occurrence_time>
+        <body_side>κυρίως δεξιά κατά την ωορρηξία και κατά την περίοδο</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>διασχιστικός αντανακλά στη μέση</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμμία</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>thuja  για εμφάνιση κονδυλωμάτων</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβολιασμός διφθεριτις-κοκκυτης-τέτανος, πολιομυελίτις, Ηπατίτιδα Β&#13;
+θεραπεία με Αντιβιοτικά όχι συχνά&#13;
+Καυτηριασμός κονδυλωμάτων</therapies_vaccination>
+          <traumas>Συναισθηματικό τραύμα λόγω ξαφνικής εμφάνισης ψυχιατρικής νόσου της αδελφής της</traumas>
+          <infections>Λοιμώξεις ανωτερου αναπνευστικού 1-2 φορές  ανα έτος</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>καμμια</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>μάλλον κρυώνει</reactions>
+        <sleeping_habits>ύπνος στο πλάι, δεν ξεκουράζεται κυρίως λόγω θηλασμού</sleeping_habits>
+        <food_modalities>επιθυμια για γλυκά-σοκολάτα, κοτόπουλο, ψάρι, τυρί&#13;
+απέχθεια για λιπος</food_modalities>
+        <menstruation>σταθερός κλυκλος&#13;
+πολύ αίμα και πόνος&#13;
+</menstruation>
+      </physical>
+      <mental_emotional>φόβοι: κεραυνοί-αστραπές&#13;
+ αγχος για τους οικείους,&#13;
+χάνει την ψυχραιμία της εύκολα &#13;
+Νιώθει καλύτερα οταν βρισκεται με παρέα&#13;
+συμπάσχει</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Κονδυλωματα πριν από 5 χρόνια &#13;
+Ειχε εντονη αιμορραγία μετά τον δευτερο τοκετό&#13;
+Δεν αρρωσταίνει συχνά, ανεβάζει υψηλο πυρετό&#13;
+</personal_medical_history>
+        <family_medical_history>Η γιαγιά της επασχε απο άνοια&#13;
+Η αδελφή της εχει νοσηλευτεί επανηλειμμενα σε Ψ.Ν. μετά από χρήση κανναβης</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>καθαρή εικόνα φαρμάκου</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ανησυχία για τους οικείους της (2)&#13;
+θηλάζει τον αντίχειρα (2)&#13;
+</peculiar>
+        <intense>επιθυμία για σοκολάτα (4)&#13;
+φόβος για κεραυνούς-βροντές (3)&#13;
+δυσμηνόρροια (2)&#13;
+ουλορραγία (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/M.M.pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>PHOSPH, CALC-C</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>1xcaps</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-26 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ουλορραγία εξαφανίστηκε μετά απο 2 μέρες. Επιδείνωση τις πρώτες 3-4 μέρες στο mental-emotional level με ξεσπάσματα θυμού,έντονη ανησυχία και κλάμα &#13;
+Η περίοδος της ήταν επίπονη αλλά ο πόνος δεν κρατησε όσο συνήθως.&#13;
+τώρα νιώθει πιο ήρεμη</reaction>
+      <analysis>Σύντομη επιδείνωση με άμεση βελτίωση στο βασικό πρόβλημα.&#13;
+</analysis>
+      <conclusion>Περιμένουμε η βελτίωση να συνεχιστεί σταθερά τους επόμενους μήνες</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/M.M follow up 1.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-26 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Εχει κάποιες διαφοροποιήσεις στην εικόνα της.&#13;
+Τωρα κυρίως ανησυχει για τη δική της υγεία. Ο θηλασμός έχει γίνει ανυπόφορος.Νιώθει σα να "ξεζουμίζεται".&#13;
+Έχει πονοκεφάλους &lt; με την αφή.Δεν ξεκουράζεται στον ύπνο εξαιτίας του θηλασμού.Έχει νέυρα-ξεσπάει στα παιδιά της.</reaction>
+      <analysis>Αντιδότηση στο Phosphorus δεν επιβεβαιώνεται. Η εικόνα δεν είναι πλέον τόσο καθαρή. Ο phosphorus εξακολουθεί να επικρατεί σαν totality, ωστόσο το κύριο ενόχλημα σχετίζεται με το θηλασμό και θα μπορούσαμε να το ερμηνεύσουμε σαν "απώλεια υγρών"  με πιθανά φάρμακα  China ή Pulsatilla. &#13;
+&#13;
+</analysis>
+      <conclusion>Αναμονή μέχρι να ξεκαθαρίσει η εικόνα εφόσον είναι δυνατό. Βέβαια στην περίπτωση που η θεραπεία κινηθεί προς την κατεύθυνση του αποθηλασμού θα πρέπει να συμπεριλάβει και το παιδί. </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

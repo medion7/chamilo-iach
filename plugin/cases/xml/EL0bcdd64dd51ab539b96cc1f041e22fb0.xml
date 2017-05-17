@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL0bcdd64dd51ab539b96cc1f041e22fb0</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>VBL</patient_initials>
+    <age>7</age>
+    <circumstances>                                     A child aged around 6 years was brought  to me by her parents on 29th March,2015 for treatment. She was a lean fairchild. She looked drowsy and sleepy as if she did not slept for some days. Constantly staring at the surrounding objects without any idea that she was the subject of our talk. At times she made some ridiculous gestures. Her face was so cold and pale. Involuntary laughing occasionally without any reason was also there. Her lips were red. Her eyes were with dilated pupils and the lids opened and closed suddenly. When questioned she answered with a muttering, low voice. She had a quarrel with her brother for a toy during the consultation and her parents pacified her. Convulsions started three years before, one night while she had fever. From that time it occurred several times with short and long intervals. If she did not sleep properly there was a chance for its repetition. Some kind of hard, spicy, farinaceous food etc also worsened the disturbance. She had all kinds of vaccinations as per the doctor's advice. She took bath only in warm water and drank only boiled water. Even then there were fever and convulsions.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+&#13;
+Convulsions started three years before, one night while she had fever. From that time it occurred several times with short and long intervals.</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+&#13;
+When she was two years she suffered from a severe, moist, oozing skin eruption, treated allopathically with pills and ointments. It took several months to get cured. Suppression of the skin disease might be the cause, the after effects of the drugs she took for her skin eruption and her living condition at times induced its aggravation. &#13;
+&#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+&#13;
+Frequent fever with convulsions whenever the temperature went high. Sleeplessness, farinaceous food, sour food and anxiety excitement aggravated her symptoms and the convulsions relapsed. (Suppression of psora and the after effects of the drug). </modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+&#13;
+Convulsions will occur during sleep and whenever she had high grade fever..</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+&#13;
+No particular side to be mentioned.</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+&#13;
+Frequency varied. Whenever she was affected by fever and during sleep.</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+&#13;
+No pain was reported only severe tiredness and sometimes headache after the convulsions.</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+&#13;
+Only convulsions and twitching of some parts of the extremities.</complaint_ext>
+        <other_complaints>When she was two years she suffered from a severe, moist, oozing skin eruption, treated allopathically with pills and ointments. It took several months to get cured.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>                               Her parents told that she was suffering from convulsions for the past three years and they were giving tablets, Valparin-100 mg (Sodium Valproate), daily twice, as per the prescription given by their physician. After this medicine the child was so drowsy and feeling sleepy always. She could not be good at school. The doctors prescribed the medicine told the parents that she had to take the medicine for a long time, sometimes throughout her life, which worried them much. </conv_med_presc>
+        <lab_tests>
+          <desc>EEG was done. Doctors told there was a slight deviation but not to be worried. X-ray taken - mild inflammation otherwise normal.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>First time coming for homeopathic treatment and so there was no previous prescriptions.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+&#13;
+Valparin-100 mg (Sodium Valproate), daily twice, as per the prescription given by their physician.&#13;
+Her mother told that she was given all kinds of vaccines. &#13;
+The moist oozing skin eruptions she had when she was two years old was treated by allopathic medicine and ointments..&#13;
+</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+&#13;
+There is nothing to be mentioned.</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+&#13;
+When she was two years she suffered from a severe, moist, oozing skin eruption, treated allopathically with pills and ointments. It took several months to get cured and then frequent fever. At present no acute infectious disease.</infections>
+          <other>Nothing special I found to mention here.</other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family                                         &#13;
+&#13;
+   Father of the girl belongs to an agricultural family but finished his postgraduate degree in commerce. He was taking allopathic medicines for his depression after his college days and then he took homeopathic medicines for his depression and got cured completely. Mother belongs to an educated family living in a small town. She finished her graduation and after getting married she was looking after her house hold affairs. Grandfather (father side) was in his seventies and the only problem he had, was the itching skin eruption which disturbed him much and for that he was taking medicines from an allopathic physician. Grandmother(father's side) died of  paralytic attack and after confined to bed for a short time three years before when she was sixty five. Grandfather and grandmother (mother's side) were living a healthy life. Father's elder brother was a diabetic patient and it was recently deducted.     &#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>                                      Convulsions at night and during high fever  - lying down - sleep profound with muttering, cries and starts in sleep  -  sensitive to cold  - constant staring at surrounding objects -  exciting emotions  - brain and nervous system - talks to imaginary  persons - playing with the fingers - aversion to drink ample water - cold drinks aggravates.          </reactions>
+        <sleeping_habits>Profound sleep. At times sleeplessness. Unrefreshing.</sleeping_habits>
+        <food_modalities> Farinaceous food, sour food aggravated her symptoms.</food_modalities>
+        <menstruation>Not applicable.</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms                                    &#13;
+&#13;
+ Staring at the surrounding objects - Talking to imaginary persons -  Emotional excitement causing the convulsions - Jealous with his brother - Sitting and muttering to herself - Makes gestures with fingers - Plays with finger - Plays antics; foolish behaviour.&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>Please enter personal medical history&#13;
+When she was two years old she was treated allopathically with tablets and ointments for her oozing painful eruptions.</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition                                          &#13;
+&#13;
+ Father of the girl belongs to an agricultural family but finished his postgraduate degree in commerce. He was taking allopathic medicines for his depression after his college days and then he took homeopathic medicines for his depression and got cured completely. Mother belongs to an educated family living in a small town. She finished her graduation and after getting married she was looking after her house hold affairs. Grandfather (father side) was in his seventies and the only problem he had, was the itching skin eruption which disturbed him much and for that he was taking medicines from an allopathic physician. Grandmother (father's side) died of paralytic attack and after confined to bed for a short time three years before when she was sixty five. Grandfather and grandmother (mother's side) were living a healthy life. Father's elder brother was a diabetic patient and it was recently deducted.    &#13;
+</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+The ill effects of the suppressed skin eruptions, the after effects of vaccinations,and  the allopathic medicine Valparin what she is taking now are the main reasons for the convulsions and  so at first these ill effects, going to  the obstruct a perfect cure are to be detoxed with the help of homeopathic medicine to pave way for the correctly chosen homeopathic medicine to act.The allopathic drug what she is taking must be withdrawn slowly.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+&#13;
+1. MIND - GESTURES, makes - hands; involuntary motions of the - grasping:-2&#13;
+2. MIND - MUTTERING - sleep, in:-2&#13;
+3. MIND - SHRIEKING - convulsions - epileptic:-3&#13;
+4. MIND - STARING, thoughtless:-2 &#13;
+5. MIND - TALKING - himself, to: -2&#13;
+6. GENERALS - CONVULSIONS - epileptic - during epileptic convulsions; complaints - froth, foam from mouth:-2 &#13;
+7. GENERALS - CONVULSIONS - eruptions - suppressed eruptions; after: -1&#13;
+8. GENERALS - CONVULSIONS - heat; during:-3&#13;
+9. GENERALS - CONVULSIONS - sleep - during - agg.:-2&#13;
+</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest) &#13;
+MIND - SHRIEKING - convulsions - epileptic: -3&#13;
+GENERALS - CONVULSIONS - heat; during:-3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+Hyoscyamus, Opium and Belladonna are the three remedies coming out after repertorization.&#13;
+HYOSCYAMUS&#13;
+KEYNOTES&#13;
+1. Jealousy and suspicion. Violent out bursts.             &#13;
+2. Loquacity or silent disposition.&#13;
+3. Extreme shamelessness or shame.&#13;
+4. Fumbling with hands, playing with fingers, picking at cloths. &#13;
+5. Epilepsy; twitchings, jerks, cramps.&#13;
+6. Dry spasmodic cough &lt; lying down, &gt; sitting erect.&#13;
+&#13;
+OPIUM&#13;
+KEYNOTES&#13;
+1. Withdrawal, especially after emotional or physical shocks.&#13;
+2. Unaffected by external impressions, or boldness and fearlessness.&#13;
+3. Somnolence. Snoring respiration.&#13;
+4. &lt; Heat; &gt; Cold.&#13;
+5. All secretions suppressed, except perspiration.  &#13;
+&#13;
+BELLADONNA&#13;
+KEYNOTES&#13;
+1. Sudden and violent onset. Throbbing and pulsating pains. Visible pulsations.&#13;
+2. Redness, burning and heat. Ailments and rush of blood to head and face. Hot to touch. Dilated shining pupils.&#13;
+3. Violent mental symptoms: striking, biting, spitting, kicking, pulling hair. Frightening hallucinations.&#13;
+4. Extreme sensitiveness to touch, jarring , jarring ,light, noise etc.&#13;
+5. Angel when well, devil when sick.                                                             	                           	          	    &#13;
+&#13;
+&#13;
+&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Hyoscyamus</remedy>
+        <potency>30C</potency>
+        <regimen>Please enter regimen                                &#13;
+&#13;
+ In this case our first and foremost duty is to clear the ill effects of the allopathic drug, the effects of vaccinations and the obstacles caused by the suppression of the skin disease by using the detox method. So at first i.e. on 30th,March, 2015, Sulphur-30c one dose (three globules mixed in 25 ml water) in the morning and then one dose in the evening in empty stomach and from 31st March one dose of Sulphur -30c  for three more days in the morning only is  given.  After that i.e. on 3rd, April,2015 Thuja-30c, one dose in the morning and one dose in the evening and from 4th April one dose daily in the morning for three more days just to correct the ill effects of vaccinations. The drug Valparin she is taking must not be stopped because it cannot be withdrawn immediately. Sulphur-30c for the first four days and after it Thuja-30C for the next four days are given according to the detox method. Two days break is given after these homeopathic medicines. Sulphur-30c and Thuja-30c are to be taken in empty stomach and the allopathic drug Valparin, 30 minutes after supper. &#13;
+                                  After 10 days i.e. from 9th April Hyoscyamus-30c, the medicine selected according to the classical method is prescribed. Hyos-30c  one dose in the morning  and one dose in the evening, and from the next day i.e. from 10th Hyos-30c one dose daily in the morning for five more days is the next prescription and to report again after 14th of April, 2015.  &#13;
+&#13;
+</regimen>
+        <other_notes>Please enter other notes&#13;
+                                      &#13;
+ She is not allowed to take anything for about an hour after the homeo medicine which she  takes early in the morning in empty stomach. . After that only milk added with water and a small quantity of sugar is permitted. Sour food, fat food and farinaceous food are totally banned. Food easily digestible alone is permitted. Advised her parents to send her to bed before 10 o'clock in the night. Restrict strenuous mental exertion, watching TV, playing games in the computer or cell phone  are the other instructions. The allopathic drug must not be stopped and they are to be taken along with this medicine as per the advice of the doctor, sometime after food.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+                             The second consultation took place at 11.00 hours on 15th April, 2015. Though there was fever and headache for a day, she had no convulsions, and the fever went away without medicines. Her intake of food increased. Slept well during the past fifteen days. Involuntary urination stopped. She looked pretty well and was active when compared to the previous consultation.  When I questioned her parents about her condition both of them admitted that she was doing better. There was no new symptom to add to do a new repertorization, even after a thorough consultation which consumed 45 minutes. So it was decided to continue with the same medicine in the same potency because it was acting as expected. Considering her miasmatic affections as quoted earlier, one dose of Sulphur- 30c was prescribed on every Sunday and Hyos-30c one dose on all other days in the morning in empty stomach, for a month. The allopathic drugs what she was taking along with this medicine, should be given on alternate days after food as she took it earlier, up to the next consultation was the direction to the parents.</conv_med_presc>
+      <lab_tests>
+        <desc>No test were conducted.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+&#13;
+Progressing well in the right direction.</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+&#13;
+The ill effects of the vaccination, suppressed skin eruption and the allopathic drug valparin now she is taking are properly and slowly antidoted by the homeopathic medicine, and so we can expect cure in the near future.</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+&#13;
+The remedy Hyos-30 is acting better and the health of the patient is increasing day by day there is no need to change the remedy.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+Hyos-30 was prescribed  as per the first repertorization because there is no new symptoms to add and the patient was proceeding towards cure.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Hyocyamus</remedy>
+        <potency>30c</potency>
+        <regimen>Please enter regimen&#13;
+Sulphur-30c was given as an intercurrent remedy to speed up the cure, to pave way for Hyos-30c to act as expected, to detox the ill effects of the other drugs and to bring back the suppressed eruption to establish a perfect cure.                                           After taking the homeopathic medicines there may be aggravation of the original symptoms, probably we can expect severe convulsions, fever, diarrhoea, itching eruptions or sometimes sleeplessness or disturbed sleep. If any one of the reactions is there then the remedy must be stopped for some time till the aggravation passes off. If the person feels better after the remedy, the remedy can be continued till there is an aggravation or the appearance of some other suppressed symptoms. When there is no problem and the patient is doing well means the remedy and the potency are correct and the same can be continued till it needs a change. In this case the fever, the main cause for the convulsion came again as expected but in a mild form, which confirmed the selected remedy was acting well. It will take some more time and some more doses of the remedy to help the vital force to bring out the suppressed skin eruption.    &#13;
+&#13;
+&#13;
+</regimen>
+        <other_notes>Please enter other follow up notes             &#13;
+&#13;
+   On 16th May, 2015 they came again for the third consultation without any specific complaints or unusual events. She was so fine and no one could say that she was suffering from fits. Her food habits, sleep, stools, urination and study improved considerably and was progressing in a better way, the parents felt. Some more time than the usual time was given to the parents to explain her sufferings and activities to find out the peculiar, new or specific symptoms, but they could not bring anything new to add or drop. Once again the same medicine Hyos-30c was prescribed for one more month to be given from Monday to Saturday and before that one dose of Sulphur-30c on every Sunday as an intercurrent remedy. The medicines were to be administered as said earlier and the allopathic drug Valparin was reduced to two doses in the first week with sufficient interval between each dose, half a tablet once in three days in the second week, half a tablet only once in the third week and if there were no problem then the allopathic drug should be stopped completely in the fourth week, was the guidance to the parents. Hyos-30c must be given regularly without any break.     &#13;
+After the fourth consultation Hyos-30 was the prescription without any aggravation and after the fifth consultation there was fever one night with mild convulsions and so Hyos-30 was stopped for four days and then Hyos-30 one dose on every fourth day and then the homeopathic medicine was slowly withdrawn and she was doing fine. What we expected in the near future was the  reappearance of the suppressed eruption, which is yet to come.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL64cf60f04910bf6aa18ab2e861d176fa</ID>
+  <patient>
+    <case_date>2016-10-30 16:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>KA</patient_initials>
+    <age>9</age>
+    <circumstances>Please enter the personal circumstancesΠΑΙΔΙ ΑΡΡΕΝ 8 ΕΤΩΝ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ΣΥΧΝΕΣ ΑΜΥΓΔΑΛΙΤΙΔΕΣ ΜΕ ΥΨΗΛΟ ΠΥΡΕΤΟ &#13;
+ΑΠΟ 2 ΕΤΩΝ</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+ΔΕΝ ΠΡΟΣΔΙΟΡΙΖΟΝΤΑΙ</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+Ο ΠΟΝΟΣ ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΗΝ ΚΑΤΑΠΟΣΗ ΣΤΕΡΕΩΝ</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+ΔΕΝ ΠΡΟΣΔΙΟΡΙΖΕΤΑΙ</occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΔΕΞΙΑ .&#13;
+ΠΑΝΤΑ ΑΡΧΙΖΕΙ ΑΠΟ ΤΗΝ ΔΕΞΙΑ ΑΜΥΓΔΑΛΗ ΚΑΙ ΠΡΟΣΒΑΛΕΤΑΙ ΕΠΕΙΤΑ ΚΑΙ Η ΑΡΙΣΤΕΡΗ </body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+ΚΑΘΕ 2 ΜΗΝΕΣ ΠΕΡΙΠΟΥ </appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΚΑΤΑΠΙΕΙ ΣΤΕΡΕΑ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ΟΧΙ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical PrescriptionsΑΝΤΙΒΙΟΤΙΚΑ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+ΕΜΒΟΛΙΑΣΜΟΣ ΠΛΗΡΗΣ ΣΥΜΦΩΝΑ ΜΕ ΤΟ ΕΘΝΙΚΟ ΠΡΟΓΡΑΜΜΑ&#13;
+ΠΑΝΤΑ ΛΑΜΒΑΝΕΙ ΑΝΤΙΒΙΩΣΗ</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+ΔΕΝ ΑΝΑΦΕΡΟΝΤΑΙ</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+Η ΜΗΤΕΡΑ ΑΜΥΓΔΑΛΕΚΤΟΜΗ ΣΕ ΗΛΙΚΙΑ 8 ΕΤΩΝ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΖΕΣΤΗ ΙΔΙΟΣΥΓΡΑΣΙΑ ΜΑΛΛΟΝ , ΔΕΝ ΕΞΑΓΕΤΑΙ ΑΣΦΑΛΕΣ ΣΥΜΠΕΡΑΣΜΑ ΑΠΟ ΤΟ ΙΣΤΟΡΙΚΟ</reactions>
+        <sleeping_habits>ΔΥΣΚΟΛΕΥΕΤΑΙ ΝΑ ΞΥΠΝΗΣΕΙ ΤΟ ΠΡΩΙ&#13;
+ΘΕΣΗ : ΠΛΑΙ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΑΥΓΟ ΜΕΛΑΤΟ&#13;
+ΑΠΕΧΘΑΝΕΤΑΙ ΤΟ ΛΙΠΟΣ ΚΑΙ ΤΟ ΚΡΕΑΣ&#13;
+ΤΟ ΓΑΛΑ ΤΟΥ ΠΡΟΚΑΛΕΙ ΦΟΥΣΚΩΜΑ ΣΤΗΝ ΚΟΙΛΙΑ&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+ΥΠΕΡΚΙΝΗΤΙΚΟΣ&#13;
+ΔΥΣΚΟΛΑ ΠΡΟΣΑΡΜΟΖΕΤΑΙ ΣΕ ΚΑΙΝΟΥΡΓΙΕΣ ΚΑΤΑΣΤΑΣΕΙΣ&#13;
+ΦΟΒΑΤΑΙ ΝΑ ΜΕΙΝΕΙ ΜΟΝΟΣ ΚΑΙ ΤΟ ΣΚΟΤΑΔΙ &#13;
+ΟΤΑΝ ΘΥΜΩΝΕΙ ΜΟΥΤΡΩΝΕΙ ΚΑΙ ΔΕΝ ΜΙΛΑΕΙ&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+ΣΥΧΝΕΣ ΑΜΥΓΔΑΛΙΤΙΔΕΣ</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΟΙ ΑΜΥΓΔΑΛΙΤΙΔΕΣ ΑΠΟ ΤΗΝ ΜΗΤΕΡΑ</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+ΑΝ ΣΥΝΕΧΙΣΕΙ ΧΩΡΙΣ ΟΜΟΙΠΑΘΗΤΙΚΗ ΘΕΡΑΠΕΙΑ ΤΟ ΠΙΘΑΝΟΤΕΡΟ ΕΙΝΑΙ ΝΑ ΠΡΟΧΩΡΗΣΕΙ ΣΕ ΑΜΥΓΔΑΛΕΚΤΟΜΗ Ή ΝΑ ΠΕΣΕΙ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΛΟΓΩ ΤΩΝ ΣΥΧΝΩΝ ΛΗΨΕΩΝ ΑΝΤΙΒΙΩΤΙΚΩΝ.&#13;
+ΙΑΣΙΜΗ ΠΕΡΙΠΤΩΣΗ&#13;
+ΕΜΦΑΝΙΖΕΙ ΥΨΗΛΟΥΣ ΠΥΡΕΤΟΥΣ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΑΜΥΓΔΑΛΙΤΙΔΑ ΑΠΟ ΔΕΞΙΑ ΣΤ' ΑΡΙΣΤΕΡΑ -3&#13;
+ΣΤΕΡΕΑ ΚΑΤΑΠΟΣΗ ΧΕΙΡΟΤΕΡΑ - 2&#13;
+ </peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+ΑΜΥΓΔΑΛΙΤΙΣ -3&#13;
+ΦΟΒΟΣ ΣΚΟΤΑΔΙΟΥ -3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>THROA INFL TONSILITIS RECURRENT-3&#13;
+GEN RIGHT TO LEFT-3&#13;
+SLEEP UNREFRESHING-3&#13;
+MIND RESTLESSNEESS-2&#13;
+MIND FEAR ALONE-2&#13;
+MIND FEAR DARK-2&#13;
+MIND RESERVED-2&#13;
+DES EGG SOFT BOILD-2&#13;
+AV FAT-2&#13;
+AGG MILK-2&#13;
+THROAT SHALLOWING DIFF SOLIDS -2&#13;
+LYC - 9/11&#13;
+CALC - 8/11&#13;
+PULS - 8/11&#13;
+BAR-C - 5/11&#13;
+MAT-M - 7/11&#13;
+STRAM - 6/11&#13;
+MAG-C - 4/11&#13;
+PHOS - 7/11&#13;
+ARS - 7/11&#13;
+SEP - 7/11&#13;
+ARG- N- 6/11&#13;
+NITR -AC 5/11&#13;
+SIL - 7/11&#13;
+AETH - 5/11</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+ΕΠΑΝΑΛΑΜΒΑΝΟΜΕΝΕΣ ΑΜΥΓΔΑΛΙΤΙΔΕΣ ΜΕ ΤΟ ΧΑΡΑΚΤΗΡΙΣΤΙΚΟ ΑΠΟ ΔΕΞΙΑ ΠΡΟΣ ΑΡΙΣΤΕΡΑ ΕΜΦΑΝΙΖΟΥΝ :&#13;
+LYC , SULPHUR KAI SANGUINARIA&#13;
+ΑΠΟ ΤΑ ΠΑΡΑΠΑΝΩ ΤΟ LYC ΤΑΙΡΙΑΖΕΙ ΚΑΛΥΤΕΡΑ&#13;
+ΤΟ SULPHUR ΔΕΝ ΕΧΕΙ ΤΙΣ ΦΟΒΙΕΣ   ΚΑΙ Η SANG ΔΕΝ ΤΑΙΡΙΑΖΕΙ ΚΑΘΟΛΟΥ ΣΤΑ ΥΠΟΛΟΙΠΑ ΣΥΜΠΤΩΜΑΤΑ </remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedyLYCOPODIUM</remedy>
+        <potency>Please enter potency10 M</potency>
+        <regimen>Please enter regimen1 CAPSULA</regimen>
+        <other_notes>Please enter other notes -</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-10-30 15:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions2 ΜΗΝΕΣ ΜΕΤΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΑΝΕΠΑΙΣΘΗΤΗ  ΑΜΥΓΔΑΛΙΤΙΔΑ ΜΕ ΤΑ ΙΔΙΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ ΔΙΑΡΚΕΙΑΣ 2ΗΜΕΡΩΝ , 2 ΜΗΝΕΣ ΜΕΤΑ  </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΣΩΣΤΟ ΦΑΡΜΑΚΟ</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΙΑΣΗ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+ΑΝΑΜΜΗ</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedyΑΝΑΜΟΝΗ</remedy>
+        <potency>Please enter potency-</potency>
+        <regimen>Please enter regimen-</regimen>
+        <other_notes>Please enter other followup notes-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-10-30 17:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptionsΚΑΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΕΝΑ ΧΡΟΝΟ ΜΕΤΑ ΕΛΕΥΘΕΡΟΣ ΣΥΜΠΤΩΜΑΤΩΝ </reaction>
+      <analysis>Please enter Analysis of the reactionΠΛΗΡΗΣ ΙΑΣΗ</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΕΝΙΣΧΥΣΗ ΤΗΣΥΓΕΙΑΣ ΤΟΥ ΜΕ ΤΗΝ ΟΜΟΙΟΠΑΘΗΤΙΚΗ ΠΑΡΕΜΒΑΣΗ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy-</remedy>
+        <potency>Please enter potency-</potency>
+        <regimen>Please enter regimen-</regimen>
+        <other_notes>Please enter other followup notes-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2ef1b295a7cd027a28d01c927a16210c</ID>
+  <patient>
+    <case_date>2014-10-21 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>A.O.</patient_initials>
+    <age>0</age>
+    <circumstances>Παντρεμένη με δυο παιδιά</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πόνος σε έντερο ,Σπαστική κολίτιδα </origin>
+        <causative_factors>-</causative_factors>
+        <modalities>Καλύτερα όταν ξαπλωνει(3), όταν τεντωνεται</modalities>
+        <occurrence_time>Χειρότερα απογευμα- βραδακι(2)</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Ζαλαδα, Αερια, δεξί αυτί σα να βουιζει, μπούκωμα καταρροή, βηχας, τενοντίτιδα σε δεξί ώμο, πόνος σε μεση</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>-</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections> Προ δεκαετιας</infections>
+          <other>ΓΟΠ</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας και μητερα Ca πανκρεατος-πεθαναν</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει(2), παγωμένα ποδιαδεν ιδρωνει ποτέ, σπάνια ακόμα και με ασκηση</reactions>
+        <sleeping_habits>Εμβρυική στάση περισσότερο αριστερα</sleeping_habits>
+        <food_modalities>Επιθυμεί λίπος, κρέας(2), αλάτι, πολυ ώριμα φρουτα&#13;
+Απεχθεια ξινά&#13;
+Νερό ελάχιστο βρυσης</food_modalities>
+        <menstruation>Σταθερό, λίγο αίμα&#13;
+PMS πονοκέφαλο πριν και λίγα νευρα</menstruation>
+      </physical>
+      <mental_emotional>Γλυκιά, ήπια, χαμηλών τόνων, πολύ αγχωδης, νεύρα που δεν μπορεί να τα εκφράσει και να ξεσπάσει έτσι πάει σπίτι και κλαίει(2), τα κρατάει μέσα της(2), θέλει παρηγοριά μόνο από τους δικούς της,χαμηλη αυτοπεποίθηση(3), δεν παίρνει εύκολα αποφάσεις(2), υποχωρητικη(3), ευθικτη(3), τακτική(2), της αρέσει ο χορός(3)&#13;
+Φοβιτσιαρα(2), κλειστούς χώρους, σκοτάδι(3), σεισμούς(3), φίδια(2), αίμα λιγο</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-</peculiar>
+        <intense>Τενοντίτιδα;1), πόνος σε έντερο(2), πονοκέφαλο(1), οσφυαλγια(1)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Carc, Puls, calc- c, lyc</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>30ch (1), 200ch(1)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-10-21 06:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Εκανε πυρετο, έντερο καλύτερα, ζαλάδα καλύτερα, ψυχολογικά καλύτερα, όχι μπούκωμα, όχι καταρροή, όχι βήχας, όχι πονοκέφαλο, τενοντίτιδα τα ιδια, πόνος στη μέση τα ίδια, φόβοι τα ιδια, βουή στο αυτι</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>6x</potency>
+        <regimen>*60</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-10-21 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετρια</reaction>
+      <analysis>Έντερο πολύ καλά, ζαλάδες όχι, βουή σε δεξί αυτί(2), τενοντίτιδα χεριού πέρασε, μέση καλύτερα, κρυώνει λιγότερο, ιδωσε και στον αυχένα, πόνος σε δόντι δεξιά χειρότερα με τα ζεστά(2), δεν μπορεί να μασήσει, πήγε οδοντίατρο όπου την ταλαιπώρησε πολυ</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Arnica</remedy>
+        <potency>30 ch</potency>
+        <regimen>*1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-10-21 08:00:00</followup_date>
+      <conv_med_presc>Πήρε αντιβιωση για τα δόντια και την έριξε πολύ, έκανε  μύκητες&#13;
+Πηρε dufalac, sporanox, lexotanil, duspatalin, librax, zurcazol</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Miκρη</reaction>
+      <analysis>Πόνος σε στομάχι, μεση  και πλευρα, καλύτερα όταν ξαπλωνει(3), άγχος, κουραση, αν κοιμηθεί απόγευμα ξυπνάει κουρασμένη(3)(παλιά όχι), δίψα περισσότερο, αερια περισσοτερα(2), Εμβοες, δυσκοιλιότητα(2), ντροπαλή(3), γλυκά, την επηρεάζει πο!ή ή γνώμη των άλλων(3)</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Lycopodium</remedy>
+        <potency>30 ch</potency>
+        <regimen>*30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2015-10-21 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη </reaction>
+      <analysis>Έντερο οκ, όχι δυσκοιλιότητα, όχι κουραση, ο ύπνος την ξεκουράζει, την ενοχλεί λίγο το γιαούρτι, αναπνευστικό καλύτερα, βήχας όχι, φόβο μην παθουν οι αλλοι κάτι, καλύτερη αυτοπεποίθηση , λιγότερο ευθικτη, όχι τενοντίτιδα, ναι πόνος σε μέση, </analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Lyc</remedy>
+        <potency>6x</potency>
+        <regimen>30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>5</number>
+      <followup_date>2015-10-21 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετρια</reaction>
+      <analysis>Βρογχιτιδα, δυσκοιλιότητα, αδιψια(2), αιμορροΐδες, εμβοη δεξιά, λίπος(2), όχι κλαμα</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Puls</remedy>
+        <potency>200ch</potency>
+        <regimen>*1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

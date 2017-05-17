@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELb4c0fef57d67ffca1a56cb80057ee4fb</ID>
+  <patient>
+    <case_date>2013-11-28 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Β.Ι.</patient_initials>
+    <age>25</age>
+    <circumstances>Φοιτήτρια αρχιτεκτονικής. Άγαμη.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>- Ακμή  στο πρόσωπο, από 13 ετών .&#13;
+-Προ  1 έτους αναφέρει επεισόδιο κατάθλιψης.</origin>
+        <causative_factors>-Για κατάθλιψη: Δεν της άρεσε η σχολή και ήρθε σε αντιπαράθεση με τους γονείς της, έκανε διακοπή για 6 μήνες αλλά συνέχισε γιατί «πρέπει, δεν μπορούμε χωρίς ένα χαρτί».&#13;
+Δεν έτρωγε, είχε φτάσει στα 52 κιλά, τσακωνόταν με τους γονείς, έβγαινε συνεχώς, δεν κοιμόταν καλά.&#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>-Head: κεφαλαλγίες οι οποίες μπορεί να κρατήσουν και 4 ημέρες , αλλά να μην εμφανιστούν και για 2 μήνες. Μπορεί να ξεκινήσει και ξαφνικά και σιγά σιγά, συνήθως στο κέντρο του μετώπου και κάποιες φορές στο vertex. Ο πόνος δεν ειναι έντονος, σαν πίεση, αντανακλά κάποιες φορές στο αυτί (δεν θυμάται ποιο).  &#13;
+&lt;φως, τηλεόραση.&#13;
+Υποχωρεί με παρακεταμολη.   &#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-Υπό seropram 10mg /κάθε βράδυ</conv_med_presc>
+        <lab_tests>
+          <desc>Δεν υπάρχουν.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>--Για την ακμή είχε πάρει τον Νοέμβριο του 2011 φάρμακο νεότερο του roaqutane (δεν θυμάται ποιο), για 6 μήνες. Η ακμή είχε υποχωρήσει μέχρι το καλοκαίρι του 2013 τελείως.</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other>-FEVER  το 2009, 39ο C, από τότε όχι.&#13;
+-Κάνει χρήση κάνναβης.</other>
+        </personal>
+        <family>
+          <diseases>-Πατέρας  με έμφραγμα σε ηλικία 51 και 63 ετών και με ΣΔ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει  2-3</reactions>
+        <sleeping_habits>Sleep: ξεκούραστος. Ανάσκελα. </sleeping_habits>
+        <food_modalities>Desires:   γλυκά 2-3 (παγωτό 2-3), πικάντικα 2, αλλαντικά 1-2  ,soups, eggs &#13;
+&#13;
+Aversions:   φασόλια 2-3	</food_modalities>
+        <menstruation>κ.φ.</menstruation>
+      </physical>
+      <mental_emotional>Κυκλοθυμική 2&#13;
+Αγχώδης 2 (με τα πάντα)&#13;
+Εσωστρεφής 2&#13;
+Νευριάζει συχνά αλλά δεν το δείχνει. (εάν εκδηλωθεί θα φωνάξει)&#13;
+Δεν θέλει την παρηγοριά.&#13;
+Κλαίει σπάνια, και μπροστά σε άλλους.&#13;
+Σεναριακές σκέψεις 2-3&#13;
+Σκέπτεται  μην προσβάλει τον άλλον.&#13;
+Ευαίσθητη &#13;
+Συμπάσχει 1-2&#13;
+«μου αρέσει να δοκιμάζω καινούργια πράγματα»&#13;
+Υπάκουη, δεν λέει όχι, από μικρή.&#13;
+Ντροπαλή 2&#13;
+Χαμηλή αυτοπεποίθηση.&#13;
+Ονυχοφαγία&#13;
+Φοβίες: φίδια 2, κλειστοφοβία 1-2&#13;
+Δεν φοράει στενά ζιβάγκο&#13;
+Ζηλεύει 2, και τον φίλο της αλλά και τα αδέλφια της («στην ανεξαρτησία τους»)&#13;
+Από μικρή αναφέρει τα ίδια ψυχοδιανοητικά&#13;
+Βλέπει στον ύπνο της την γιαγιά της που έχει φύγει από την ζωή και συνομιλεί μαζί της. 2&#13;
+Σεξουαλική επιθυμία κφ.&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>-Βλέπει στον ύπνο της την γιαγιά της που έχει φύγει από την ζωή και συνομιλεί μαζί της. 2</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>FACE ERUPTIONS acne 3&#13;
+MIND SADNESS, mental depression 1&#13;
+GENERALITIES HEAT lack of vital 2&#13;
+GENERALITIES FOOD and DRINKS sweets desire 2&#13;
+GENERALITIES FOOD and DRINKS ice cream desire 2&#13;
+GENERALITIES FOOD and DRINKS pungent desire 1&#13;
+GENERALITIES FOOD and DRINKS beans aversion 2&#13;
+HEAD PAIN (headache) 1&#13;
+HEAD PAIN (headache) Forehead,in 1&#13;
+HEAD PAIN (headache) Vertex 1&#13;
+MIND MOOD changeable, variable, etc. 1&#13;
+MIND RESERVED 2&#13;
+MIND ANXIETY 1&#13;
+MIND SYMPATHETIC 1&#13;
+MIND TIMIDITY 2&#13;
+MIND JEALOUSY 2&#13;
+SLEEP DREAMS dead of the dead 2&#13;
+MIND TALKS dead people, with 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea silicata</remedy>
+        <potency>200CH</potency>
+        <regimen>8 cps, κάθε Δευτέρα και Πέμπτη.</regimen>
+        <other_notes>-Ρύθμιση Seropram και διακοπή κάνναβης.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>10/4/2014&#13;
+-Τις πρώτες ημέρες ήταν με πονοκέφαλο (κράτησε 5 ημέρες), μετά έχει ανά διαστήματα, καθώς αναφέρει και κάποιους πόνους στο στομάχι. Υπήρξε και μικρή επιδείνωση στην ακμή. Όλα αυτά διήρκεσαν περίπου έναν μήνα. &#13;
+Μετά τον μήνα καλλίτερα και στην ακμή (έχει υποχωρήσει αρκετά) και στα υπόλοιπα συμπτώματα. (οι κεφαλαλγίες είναι με μικρότερη συχνότητα, ίδια ένταση και ίδια διάρκεια). &#13;
+-Καλός ύπνος.&#13;
+-Δεν έχει πάει ακόμη στον ιατρό της για το seropram.&#13;
+-Έχει ελαττώσει την χρήση κάνναβης.&#13;
+-Είναι σε εξεταστική. Δεν έχει ιδιαίτερο άγχος.&#13;
+-Αναφέρει πως είναι καλλίτερα όσον αφορά την αυτοπεποίθησή της.&#13;
+-Δεν έχει δει όνειρα με την γιαγιά της αυτό το διάστημα.&#13;
+-Ντροπαλή («όχι τόσο»)&#13;
+-Πιο ήρεμη.&#13;
+Δεν αναφέρει αλλαγές στα ψυχοδιανοητικά και μεταβολικά συμπτώματα.</reaction>
+      <analysis>Η αρχική επιδείνωση επιβεβαιώνει πως το φάρμακο ήταν σωστό και πως η ασθενής βρίσκεται σε ένα υψηλό επίπεδο υγείας.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea-silicata</remedy>
+        <potency>200CH</potency>
+        <regimen>10cps, συνέχιση κάθε Δευτέρα και Πέμπτη.</regimen>
+        <other_notes>-Διακοπή κάνναβης και μείωση του Seropram.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>14/5/2015&#13;
+-Οι κεφαλαλγίες έχουν βελτιωθεί πάρα πολύ. Εμφανίζονται 2 ημερες πριν την περίοδο. Είναι πολύ πιο ήπιες.&#13;
+Και η ακμή πολύ πιο ήπια.&#13;
+Το seropram το έχει σταματήσει από τον Νοέμβρη/14. &#13;
+Τα νεύρα είναι καλύτερα, έχει ηρεμήσει.&#13;
+Όρεξη για φαγητό καλή.&#13;
+Ύπνος καλός, ξεκούραστος.&#13;
+Ενέργεια καλύτερη απ’ όταν ξεκίνησε την αγωγή.&#13;
+Έχει χαμηλή αυτοπεποίθηση, «δεν είμαι τόσο κοινωνική όσο θα ήθελα»&#13;
+Την ενοχλεί που είναι κλειστός χαρακτήρας, θέλει να επικοινωνεί πιο άνετα με τους ανθρώπους.&#13;
+Καλλίτερα με το άγχος.&#13;
+Ντροπαλή.&#13;
+Έχει να δει καιρό όνειρο με την γιαγιά της. Δεν θυμάται τα όνειρα της με λεπτομέρειες.&#13;
+Εάν νευριάσει δεν το δείχνει.&#13;
+Της αρέσει να δοκιμάζει καινούργια πράγματα.&#13;
+Δεν σφίγγει τα δόντια.&#13;
+Δεν αισθάνεται θυμό, είναι ήρεμη.&#13;
+Ζηλεύει 1-2&#13;
+Φοβίες: φίδια 2, κλειστοφοβία 1 (είναι καλύτερα στην κλειστοφοβία).&#13;
+Λιγότερο κυκλοθυμική.&#13;
+&#13;
+Έχει βάλει σαν στόχο να τελειώσει την σχολή (παρόλο που δεν της αρέσει), κάνει και άλλα πράγματα που της αρέσουν (κολύμβηση, φωτογραφία).&#13;
+Des: sweets 1-2(ice cream 2-3), αλμυρό 1-2, σούπες, αυγά.&#13;
+Έχει σταματήσει την χρήση κάνναβης.&#13;
+&#13;
+-Συνεχίζει και παίρνει Calc-sil 2/εβδ.&#13;
+</reaction>
+      <analysis>-</analysis>
+      <conclusion>-Αναμονή.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>placebo</remedy>
+        <potency>6x</potency>
+        <regimen>1cps/ημέρα.</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL00043fefee868c12293aa03c8de5258b</ID>
+  <patient>
+    <case_date>2015-05-04 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>M.K</patient_initials>
+    <age>48</age>
+    <circumstances>Ιατρός , άγαμος ,χωρίς παιδιά</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>κεφαλαλγία αυχενική με επέκταση στο ινίο που την αφυπνίζει, καταβολή δυνάμεων</origin>
+        <causative_factors>στεναχώρια απο διαφωνίες στο χώρο της δουλειάς</causative_factors>
+        <modalities>προ των εφημεριών επιδείνωση του πονοκεφάλου</modalities>
+        <occurrence_time>κατά τη διάρκεια της νύχτας επιδείνωση</occurrence_time>
+        <body_side>κεφαλή</body_side>
+        <appearence_frequency>δύο φορές την εβδομάδα τουλάχιστον</appearence_frequency>
+        <pain_desc>σαν σφυριά και μετά κατέληγε συσφικτικός</pain_desc>
+        <complaint_ext>από τον αυχένα στο ινίο</complaint_ext>
+        <other_complaints>οχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>αντιφλεγμονώδη</conv_med_presc>
+        <lab_tests>
+          <desc>κ.φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>sepia, phosporus</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>αντιφλεγμονώδη , ολοι οι εμβολιασμοί </therapies_vaccination>
+          <traumas>τροχαίο ατύχημα με υποσκληρίδιο αιμάτωμα 2008 χωρίς χειρουργική επέμβαση&#13;
+</traumas>
+          <infections>οχι</infections>
+          <other>οχι</other>
+        </personal>
+        <family>
+          <diseases>πατέρας:στεφανιαία νόσος . ΑΥ, υπερλιπιδαιμία&#13;
+μητέρα : ΑΥ οστεοαρθρίτιδα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει</reactions>
+        <sleeping_habits>μπρούμυτα και ΔΕ&#13;
+ύπνος διαταραγμένος ,&#13;
+όνειρα οχι</sleeping_habits>
+        <food_modalities>από 6 μήνου έντονη επιθυμία για τυρί αλμυρά και γλυκά (δεν προϋπήρχε επιθυμία για γλυκά)&#13;
+&#13;
+</food_modalities>
+        <menstruation>κφ&#13;
+</menstruation>
+      </physical>
+      <mental_emotional>πάρα πολύ άγχος  σχεδόν σε όλες τις δραστηριότητες &#13;
+φόβος ακόμα και στην οδήγηση (μήπως συμβεί κάτι π.χ. ατύχημα )&#13;
+(ήθελε να δει τι θα γίνει αν δεν στρίψει)&#13;
+φόβος ότι θα χάσει τον έλεγχο </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>πυρετό , λοιμώξεις ανωτέρου αναπνευστικού κάθε τρία χρόνια , χρόνια δυσκοιλιότητα </personal_medical_history>
+        <family_medical_history>παππούς TBC , γιαγιά διαβήτη και ΣΝ </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>πρόκειται για ασθενή που ανήκει πιθανόν  στο group A lever 3 </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>επιθυμία για γλυκά που δεν προϋπήρχε -3&#13;
+παρόρμηση έντονη ,ήθελε να δει τι θα γίνει αν δεν στρίψει στο δρόμο οδηγώντας -3</peculiar>
+        <intense>γλυκά -3&#13;
+φόβος ατυχημάτων -3&#13;
+άγχος -3&#13;
+ύπνος που δεν αναζωογονεί  -3&#13;
+αλμυρά -3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>CHILL ­ COLDNESS in general 1&#13;
+SLEEP ­ POSITION ­ abdomen, on 2&#13;
+SLEEP ­ POSITION ­ side, on ­ right 2&#13;
+SLEEP ­ UNREFRESHING 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+MIND ­ FEAR 2&#13;
+MIND ­ FEAR ­ self­control, losing 2&#13;
+MIND ­ FEAR ­ accidents, of 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 3&#13;
+MIND ­ ANXIETY 3&#13;
+MIND IMPULSIVE 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>επιλογή του argentum nitricum έναντι του  phosphorus βασιζόμενος στην έντονη παρόρμηση , το άγχος και την επιθυμία για γλυκά που δεν είχε. Ύπαρξη φυσιολογικών κενώσεων ενώ πάντα υπήρχε δυσκοιλιότητα (συσχετισμός με γλυκά)</remedies_differentiation>
+      <prescription>
+        <remedy> argentum nitricum</remedy>
+        <potency>200 CH 1M</potency>
+        <regimen>1x1</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-07-02 08:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δύο μέρες κεφαλαλγία άμεσα&#13;
+βελτίωση του άγχους , πιο ήρεμη στις αντιδράσεις , ελεγχόμενη &#13;
+σημαντική βελτίωση της ενέργειας μετά από κόπωση</reaction>
+      <analysis>επιθυμητή επιδείνωση</analysis>
+      <conclusion>περιμένουμε</conclusion>
+      <repertorization>
+        <desc>οχι</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>περιμένω</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

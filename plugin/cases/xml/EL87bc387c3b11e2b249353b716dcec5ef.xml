@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL87bc387c3b11e2b249353b716dcec5ef</ID>
+  <patient>
+    <case_date>2014-11-05 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Κ.Δ</patient_initials>
+    <age>49</age>
+    <circumstances>Εγγαμος μητέρα δύο παιδιών ,εργάζεται σε SM Είναι παχύσαρκη, συνεσταλμένη ,γελαστή</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πανικοί μετά τον θάνατο του πεθερού της από ανακοπή προ πενταετίας</origin>
+        <causative_factors>Κατασταλτικές θεραπείες σε εφηβική ηλικία  και μετά στην έγγαμο ζωή με αντιβιώσεις λόγω υποτροπιαζουσών ουρολοιμώξεων</causative_factors>
+        <modalities>&lt; όταν είναι μόνη&#13;
+&gt;όταν κοιμάται,ξεκουράζεται &gt; με παρέα</modalities>
+        <occurrence_time>Στον ύπνο ξεκουράζεται και είναι καλά με παρέα&#13;
+Όταν είναι μόνη η περπατά στον δρόμο νομίζει πως θα πέσει και θα λιποθυμήσει</occurrence_time>
+        <body_side>_</body_side>
+        <appearence_frequency>Κάθε μέρα ίδια συμπτωματολογία</appearence_frequency>
+        <pain_desc>_</pain_desc>
+        <complaint_ext>_</complaint_ext>
+        <other_complaints>Είχε και πονοκεφάλους που πέρασαν με την ομοιοπαθητική Μικρή αύξηση της χοληστερόλης</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Κρίσεις πανικού -τάση λιποθυμίας Δεν λαμβάνει τώρα τίποτα ,προ έτους πήρε SEROPRAM 20 (αντικαταθλιπτικό) για έξι μήνες και ήταν καλύτερα</conv_med_presc>
+        <lab_tests>
+          <desc>_</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Εχει κάνει δύο χρόνια ομοιοπαθητική με blestia και μείξεις ομοιοπαθητικών που δεν θυμάται</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Υποτροπιάζουσες ουρολοιμώξεις για τις οποίες πήρε πολύ αντιβίωση Ιστορικό κωλικών νεφρού</therapies_vaccination>
+          <traumas>_</traumas>
+          <infections>_</infections>
+          <other>Κωλικοί νεφρού Γαστρίτιδα με μετεωρισμό και ερυγές</other>
+        </personal>
+        <family>
+          <diseases>Ιστορικό νεφρολιθίασης και οι δύο γονείς</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται+++ Ιδρώνει πολύ στον αυχένα ++</reactions>
+        <sleeping_habits>Κοιμάται πλάγια δεξιά η αριστερά Ούπνος την ξεκουράζει</sleeping_habits>
+        <food_modalities>Επιθυμεί σοκολάτα+++ ,γλυκά++ αλλά της προκαλούν ξυνίλες,αλάτι++ πιπέρι++,τυρί++&#13;
+Απεχθάνεται το λίπος+</food_modalities>
+        <menstruation>Φυσιολογική  ΕΡ</menstruation>
+      </physical>
+      <mental_emotional>Κλειστοφοβική++, υψοφοβία++, φοβάται τα σκυλιά++ τις γάτες++ να μείνει μόνη++ φόβο λιποθυμίας++,πανικό+++</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η αναφερόμενη παθολογία είναι σοβαρή γιατί αφορά το emotional επίπεδο και επίσης  έχει επηρρεάσει  την ζωή της ασθενούς αρνητικά </personal_medical_history>
+        <family_medical_history>Δεν υπάρχει σοβαρή κληρονομική επιβάρυνση</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Η κληρονομικότητα δεν είναι βαρειά Ομως οι κρίσεις πανικού και ο φόβος λιποθυμάς καθυστουν δύσκολη την καθημερινότητα της ασθενούς</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Η τάση λιποθυμίας με τις φοβίες της ασθενούς(κλειστοφοβία ,υψοφοβία φόβο θανάτου) ,και πεπτικές ενοχλήσεις οδηγούν την σκέψη στο ARG-NITR</peculiar>
+        <intense>Τάση λιποθυμίας++++Πανικό+++ Επιθυμία σοκολάτας+++ ιδρώνει+++ζεσταίνεται+++ερυγές++φόβο θανάτου++γλυκά++πιπέρι++αλάτι++υψοφοβία++κλειστοφοβία++ φοβος για σκυλιά και γατιά++φόβος για καρδιακές παθήσεις++</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Mind fainting++++mind fear death++ fear narrow place++,fear heart disease++generalitieswarm agg+++ fear dogs++,cats++stomach eructation++generalities food and drinks sweet desire++ chocolate+++ salt+ peper++</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Ηδιαφορική διαγνωση θα γίνει μεταξύ ARG-NITR και LAC-CANN Λόγω των συμπτωμάτων υψοφοβίας κλειστοφοβίας φόβο θανάτου ερυγών αγάπης στα γλυκά και το αλάτι επιλέγεται ARG-NITR</remedies_differentiation>
+      <prescription>
+        <remedy>ARG-NITR</remedy>
+        <potency>200CH- 1M</potency>
+        <regimen>200CHπρωί 1Mτο βράδυ</regimen>
+        <other_notes>_</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-12 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής είχε αυχεναλγίες που δεν μου είχε αναφέρει και στο πρώτο follow up μου λέει πως έχει βελτίωση ως προς αυτές.Εμφάνισε μία ημέρα εμβοές και κεφαλαλγία που τα είχε παλιότερα αλλά έκτοτε είναι καλά Καλύτερα αισθάνεται και το στομάχι της και επίσης δεν έχει πια τόσο έντονο φόβο σε κλειστά μέρη όμως δεν άλλαξε καθόγου ο φόβος λιποθυμίας λια τον οποίο είχε έρθει σε μένα</reaction>
+      <analysis>Η βελτίωση κάποιον συμπτωμάτων δείχνει ότι το φάρμακο ήταν κοντινό αλλά όχι το ακριβές  Παίρνεται ξανά το ιστορικόκαι αυτή τηνφορά ρωτάω την ασθενή εκτός των άλλων αν φοβάται τα φίδια Η απάντηση είναι (τα τρέμω++++)</analysis>
+      <conclusion>Η αντιδραση της ασθενούς αφορούσε συμπτώματα που είχαν σχέση  με το φάρμακο αλλά δεν επηρρεαστικε ο βασικός της φόβος Πιθανώς το φάρμακο ήταν το κοντινό και όχι το ακριβές Με το νέο δεδομένο του φόβου της για τα φίδια συνταγογραφείται LAC-CANN</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>LAC-CANN</remedy>
+        <potency>10M</potency>
+        <regimen>ΕΦΑΠΑΞ</regimen>
+        <other_notes>To LAC- CAN έχει ως στοιχείο τον μεγάλο φόβο για τα φίδια ως key-notes έχει φόβο λιποθυμίας επίσης θέλει το πιπέρι και το αλάτι και έχειφόβο για τα σκυλιά Γιαυτό θεωρώ ότι είναι το πιό κατάληλο φάρμακο</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-09-17 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc>_</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>Την πρώτη μέρα η ασθενής εμφάνισε ένα σοβαρό επεισόδιο πανικού με ταχυκαρδία  εφίδρωση και τάση λιποθυμίας Την δεύτερη μέρα όμως αισθανόταν καλύτερα Από τότε νοιώθει πολύ καλα Για πρώτη φορά αρχίζει να πιστεύει πως μπορεί να γίνει καλά</analysis>
+      <conclusion>Η αντιδραση της ασθενούς είναι πολύ καλή Μετά απο αρχική επιδείνωση εμφανίζει θεαματική βελτίωση Το φάρμακο είναι το σωστό και περιμένουμε να δούμε και άλλες αλλαγές στην ασθενή</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>_</remedy>
+        <potency>-</potency>
+        <regimen>_</regimen>
+        <other_notes>Δεν θα δωθεί άλλο φαρμακο στην ασθενή Θα επανεκτιμηθεί σε δύο μήνες</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-06-15 08:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Ηασθενής είναι πολύ καλά Πήγε ταξίδι και στο εξωτερικό και δεν ένοιωσε καθόλου άσχημα στο αεροπλάνο λογω της κλειστοφοβίας τηςΚαι στο ασανσέρ μπαίνει τώρα</reaction>
+      <analysis>Πολύ καλή αντίδραση Το φάρμακο συνεχίζει να δρα</analysis>
+      <conclusion>Μετα΄την χορήγηση του σωστού ομοιοπαθητικού η αντίδραση της ασθενούς ήταν θαυμάσια αποδεικνύοντας την θεραπευτική ίαση της ομοιοπαθητικής</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>_</remedy>
+        <potency>_</potency>
+        <regimen>_</regimen>
+        <other_notes>Η ασθενής είναι πολύ καλά  Θα κρατηθεί τηλεφωνική επικοινωνία για ότι χρειασθεί</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

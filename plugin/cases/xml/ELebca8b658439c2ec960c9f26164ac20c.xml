@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELebca8b658439c2ec960c9f26164ac20c</ID>
+  <patient>
+    <case_date>2016-05-08 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Χ.Μ.</patient_initials>
+    <age>42</age>
+    <circumstances>παντρεμενη,1 παιδι, υπαλληλος γραφειου</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ουλιτιδα τα τελευταια 5 χρονια</origin>
+        <causative_factors>εμφανιστικε μετα τον τοκετο</causative_factors>
+        <modalities>τα ουλα της ματωνουν με το παραμικρο</modalities>
+        <occurrence_time>κατα το βουρτσισμα των δοντιων,οταν τρωει κατι σκληρο.</occurrence_time>
+        <body_side>πανω και κατω οδιντοστοιχειες</body_side>
+        <appearence_frequency>Καθημερινα κατα το βουρτσισμα των δοντιων,οταν τρωει κατι σκληρο.</appearence_frequency>
+        <pain_desc>χωρις πονο</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>στοματικα διαλυματα,οδοντοπαστες</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Καποια απο τα εμβολια ως παιδι αλλα δε θυμαται ποια, θεραπεια με κορτιζονη peros και τοποκα με κρεμα για δερματικη αλλεργια ως φοιτητρια</therapies_vaccination>
+          <traumas>Της στοιχησε πολυ το γεγονος οτι γεννησε με καισαρικη και οχι φυσιολογικα. Δεν ειχε χειρουργηθει ποτε αλλοτε και δεν ηθελε με τιποτα να κανει καισαρικη.Οταν της το ανακοινωσαν στην κλινικη, επαθε κριση πανικου</traumas>
+          <infections>περιστασιακα καποιες ουρολοιμωξεις</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Γονεις υγιεις</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ουτε κρυωνει ουτε ζεσταινεται</reactions>
+        <sleeping_habits>Υπνος κφ στο πλαι ΑΡ ή ΔΕ</sleeping_habits>
+        <food_modalities>Επιθυμει κρυο νερο++,παγωτο+++ακομη και το χειμωνα,μακαρονια+++,ξινα+++,λεμονι+++το τρωει ωμο,θαλασσινα+++&#13;
+Απεχθανεται λιπος, ουισκι, ψαρι, σουπες.</food_modalities>
+        <menstruation>κφ</menstruation>
+      </physical>
+      <mental_emotional>νιωθει αγχωμενη με τα δοντια της και φοβαται οτι θα της πεσουν</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Υποφερει απο χρονια ουλιτιδα τα τελευταια 5 χρονια.Εμφανιστικε μετα τον τοκετο.Της στοιχησε πολυ το γεγονος οτι γεννησε με καισαρικη και οχι φυσιολογικα. Δεν ειχε χειρουργηθει ποτε αλλοτε και δεν ηθελε με τιποτα να κανει καισαρικη.Οταν της το ανακοινωσαν στην κλινικη, επαθε κριση πανικου.Τα ουλα της ειναι πολυ κοκκινα και σε ορισμενα σημεια εχει υπερπλασιες.Ματωνουν πολυ ευκολα καθε φορα που τα πλενει ή καθε φορα που τρωει κατι σκληρο+++.Τον τελευταιο μηνα αρχισε να μυριζει και η αναπνοη της++.&#13;
+Χρησιμοποισε διαφορ α σκευασματα (στοματικα διαλυματα,οδοντοπαστες, αλατονερο) χωρις αποτελεσμα.&#13;
+Ειναι ατομο ευαισθητο, κλαιει με το παραμικρο διαβαζοντας βιβλια και βλεποντας ταινιες++.&#13;
+Ειναι επικοινωνιακη και της αρεσουν πολυ οι παρεες++&#13;
+Αγχος για την υγεια της+,αγχος φτωχειας++&#13;
+Φοβοι: νιωθει αγχωμενη με τα δοντια της και φοβαται οτι θα της πεσουν+, φοβος φτωχειας++οτι δε θα εχει να προσφερει αρκετα στην κορη της.&#13;
+Περιοδος κφ&#13;
+Οταν ηταν παιδι ειχε συχνες ρινορραγιες, πλεον ποτε.&#13;
+Υπνος κφ. Κοιμαται σε ΔΕ πλευρο ή ανασκελα. Οταν κοιμαται πλαι εχει σιελλοροια στο μαξιλαρι&#13;
+Ουτε ζεσταινεται ουτε κρυωνει&#13;
+Επιθυμει κρυο νερο++,παγωτο+++ακομη και το χειμωνα,μακαρονια+++,ξινα+++,λεμονι+++το τρωει ωμο,θαλασσινα+++&#13;
+Απεχθανεται λιπος, ουισκι, ψαρι, σουπες.&#13;
+</personal_medical_history>
+        <family_medical_history>ανευ</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Phosphorus,Mercury,Pulsatilla</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Επιθυμει κρυο νερο++,παγωτο+++ακομη και το χειμωνα,μακαρονια+++,ξινα+++,λεμονι+++το τρωει ωμο,θαλασσινα+++&#13;
+Απεχθανεται λιπος, ουισκι, ψαρι, σουπες.&#13;
+Αγχος για την υγεια της+,αγχος φτωχειας++</peculiar>
+        <intense> κλαιει με το παραμικρο διαβαζοντας βιβλια και βλεποντας ταινιες++&#13;
+Ειναι επικοινωνιακη και της αρεσουν πολυ οι παρεες++</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MOUTH INFLAMATION gums+++ : Kreos. Nat-m. Phos.  Sil.&#13;
+MOUTH BLEEDING Gums easily +++: Carb-v. Crot-h. Hep. Kreos. Lach. Merc. Merc-c. Nat-m. Phos.&#13;
+MOUTH ODOR offensive ++: Bapt. Merc.Arn. Ars. Ars-i. Carb-ac. Carb-v. Cham. Chel. Kali-p. Kreos. Lach. Merc-c. Nat-m. Nit -ac. Plb. Sulph. Tub. ( χωρις bold ειναι και Phos. )&#13;
+MIND SENSITIVE oversensitive +++: Arg-n. Bell. Borx. Caust. Chin. Chinin-ar. Chinin-s. Coff. Gels. Ign. Lyc. Lyss. Nat -m. Nit -ac. Nux-v. Phos. Plb. Puls. Ran-b. Sil. Staph. Sulph. Ther. Valer.&#13;
+MIND WEEPING tearful mood +++: Puls. Apis. Calc. Calc-s. Carbn-s. Caust. Cic. Graph. Ign. Kali-br. Lac-c. Lyc. Nat-m. Pall. Plat. Rhus-t. Sep. Stann. Sulph. Verat.&#13;
+MIND COMPANY desire for++: Arg-n. Ars. Bism. Hyos. Kali-c. Lac-c. Lyc. Phos. Stam. &#13;
+MIND ANXIETY about health+: Agar. Arg -n. Kali-ar. Nit-ac. Ars. Fl-ac. Graph. Lob. Lyc. Phel. Phos. Syph.&#13;
+MIND FEAR poverty ++: Bry. Calc-ar. Psor. Sep. &#13;
+SLEEP POSITION on right side+++: Phos.&#13;
+SLEEP POSITION on back +++: Puls. Bry. Merc-c. Rhus-t.&#13;
+MOUTH SALIVATION night+: Merc. ( χωρις bold ειναι και Phos.)&#13;
+GENERALITIES FOOD and DRINKS cold drinks water desire ++: Phos.&#13;
+GENERALITIES FOOD and DRINKS ice cream desire +++: Phos.&#13;
+GENERALITIES FOOD and DRINKS pasta desire +++: Calc. Lach. Nat-m.&#13;
+GENERALITIES FOOD and DRINKS sour food acids desire +++: Cor-r. Hep. Verat. (Χωρις bold ειναι και Phos. ) &#13;
+GENERALITIES FOOD and DRINKS lemons desire+++: Bell. Verat. Hell. Med. Merc. Sabad. &#13;
+GENERALITIES FOOD and DRINKS fat aversion +: Puls. Nat -m. Petr. Ptel. &#13;
+GENERALITIES FOOD and DRINKS alcoholic drinks aversion +: Hyos. Rhus-t. &#13;
+GENERALITIES FOOD and DRINKS fish aversion +: Graph. Sulph. Colch. Phos. Zinc.&#13;
+&#13;
+</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5717/image.jpeg</file_url>
+      </repertorization>
+      <remedies_differentiation>Phosphorus,Mercury,Pulsatilla</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200ch</potency>
+        <regimen>1caps εφαπαξ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-05-08 16:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τα ουλα ματωνουν πλεον μονο οταν τα βουρτζισει και οχι οταν τρωει&#13;
+</reaction>
+      <analysis>καλη-υπηρχε βελτιωση</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-05-08 16:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>τα ουλα ματωνουν πολυ σπανια πλεον, οι υπερπλασιες εχουν υποχορησει οι περισσοτερες.&#13;
+Κακοσμια ειναι λιγοτερη&#13;
+Εμφανιστηκε νεο συμπτωμα: Αρχισε να ποναει κατα την περιοδο οπως οταν ηταν εφηβη</reaction>
+      <analysis>καλη αντιδραση-υπηρχε βελτιωση και εμφανιση παλαιου συμπτωματος</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

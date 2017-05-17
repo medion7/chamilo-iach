@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL247a22b076d1cb58f0d49208cf813fa4</ID>
+  <patient>
+    <case_date>2015-01-14 19:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Ν</patient_initials>
+    <age>19</age>
+    <circumstances>εφηβη 16 χρονων&#13;
+πηγαινει σχολειο</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αγχος για το σχολειο κουραση ,κ πονοκεφαλοι το τελεθταιο τριμηνο &#13;
+αλλαξε σχολειο και πιεστικε &#13;
+</origin>
+        <causative_factors>αγχος</causative_factors>
+        <modalities>χειροτερα πριν τα διαγωνισματα</modalities>
+        <occurrence_time>χειροτερα πριν τα διαγωνισματα </occurrence_time>
+        <body_side>μετωπο</body_side>
+        <appearence_frequency>οχι συχνα </appearence_frequency>
+        <pain_desc>ελαφρυς ππονοκεφαλος που περναει με ντεπον νιωθει κουραση κ δεν μπορει να συγκεντρωθει</pain_desc>
+        <complaint_ext>στον αυχενα</complaint_ext>
+        <other_complaints>οχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>τιποτα</conv_med_presc>
+        <lab_tests>
+          <desc>ολα φυσιολογικα</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εχει κανει ολα τα εμβολια &#13;
+</therapies_vaccination>
+          <traumas>εσπασε το ποδι της πριν 3 χρονια </traumas>
+          <infections>καθε χρονο κανει πυρετο &#13;
+εκανε πριν 3 μηνες</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας χοληστερινη </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>δεν της αρεσει το κρυο &#13;
+καλλιτερα στη θαλασσα ,οταν παιζει &#13;
+&#13;
+&#13;
+&#13;
+</reactions>
+        <sleeping_habits>οχι κατι ιδιαιτερο </sleeping_habits>
+        <food_modalities>της αρεσουν τα αλμυρα ,πατατακια,πιτσα </food_modalities>
+        <menstruation>φυσιολογικη</menstruation>
+      </physical>
+      <mental_emotional>ειναι ρομαντικη 2&#13;
+αγχωνεται κα κουραζεται στο σχολειο 3&#13;
+νιωθει οτι δεν θυμαται κ κουραση απο το διαβασμα 4&#13;
+εχει φιλες της αρεσει η παρεα συμπασχει 2&#13;
+την ενοχλει η αδικια 2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>υψηλο επιπεδο υγειας &#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>κουραση 3&#13;
+χειροτερα μετα απο απογοητευση 2&#13;
+αδυναμια μνημης4</peculiar>
+        <intense>αδυναμια μνημησ 4&#13;
+αδυναμια 3&#13;
+κουραση 3&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind-daytime 2&#13;
+head -pain students 3&#13;
+mind-ailments from disapoitment 2&#13;
+mind-memory-weakness of memory 4</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>phpsphoric acid</remedy>
+        <potency>200ch</potency>
+        <regimen>1</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-18 18:00:00</followup_date>
+      <conv_med_presc>phosphoric acid</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>εκανε πονοκεφαλο το πρωτο απογευμα &#13;
+νιωθει καλλιτερα επανηρθαν οι δυναμεις της μπορει κ διαβαζει &#13;
+οι πονοκεφαλοι μειωθηκαν</reaction>
+      <analysis>αρχικη επιδεινωση κ καλη αντιδραση θεραπευτικη</analysis>
+      <conclusion>περιμενουμε &#13;
+</conclusion>
+      <repertorization>
+        <desc>mind-day time 1&#13;
+head -pain students1&#13;
+mind ailments fom disapointment 2&#13;
+mind memory weaknessof memory2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>τιποτα</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-06-03 18:00:00</followup_date>
+      <conv_med_presc>phosphoric acid 200 ch</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>αρχικη επιδεινωση &#13;
+βελτιωση σε ολα τα επιπεδα μπορει να ανταπεξελθει πλεον στην καθημερηνοτητα της νιωθει καλα </reaction>
+      <analysis>η αρχικη επιδεινωση καθως κ βελτιωση στα σθμπτωμτα κ την ψυχολογια της επιβεβαιωνουν το φαρμακο </analysis>
+      <conclusion>σωστο φαρμακο </conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2ce44ec999a7a7cf573dbd14f45bb097</ID>
+  <patient>
+    <case_date>2014-09-11 19:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΜΙΧΑΛΗΣ Ξ.</patient_initials>
+    <age>51</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ ΔΥΟ ΠΑΙΔΙΑ. ΕΙΝΑΙ ΑΓΡΟΤΗΣ ΚΑΙ ΠΡΟΕΔΡΟΣ ΣΤΟ ΓΕΩΡΓΙΚΟ ΣΥΝΕΤΑΙΡΙΣΜΟ ΤΗΣ ΧΡΥΣΟΥΠΟΛΗΣ ΚΑΒΑΛΑΣ</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ο ΑΣΘΕΝΗΣ ΠΡΟΣΗΛΘΕ ΓΙΑ ΣΥΧΝΕΣ ΚΕΦΑΛΑΛΓΙΕΣ ΠΟΥ ΟΤΑΝ ΕΜΦΑΝΙΣΤΟΥΝ ΚΡΑΤΑΝΕ ΤΡΕΙΣ ΜΕΡΕΣ ΚΑΙ ΣΥΝΟΔΕΥΟΝΤΑΙ ΑΠΟ ΒΟΥΗΤΟ ΣΤΑ ΑΥΤΙΑ ΚΑΙ ΔΑΚΡΥΡΡΟΙΑ.ΓΙΑ ΠΡΩΤΗ ΦΟΡΑ ΞΕΚΙΝΗΣΑΝ ΟΤΑΝ ΗΤΑΝ ΣΤΟ ΣΤΡΑΤΟ ΤΟ ΜΗΝΑ ΑΥΓΟΥΣΤΟ.</origin>
+        <causative_factors>Ο ΙΔΙΟΣ ΤΟΥ ΔΕΝ ΤΟ ΣΥΝΔΕΕΙ ΜΕ ΚΑΤΙ. ΠΙΘΑΝΟΝ ΝΑ ΣΧΕΤΙΖΕΤΑΙ ΜΕ ΤΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ ΠΟΥ ΓΙΝΟΝΤΑΙ ΚΑΤΑ ΤΗ ΣΤΡΑΤΙΩΤΙΚΗ ΘΗΤΕΙΑ.</causative_factors>
+        <modalities>ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ STRESS, ΡΕΥΜΑΤΑ ΚΡΥΟΥ ΑΕΡΑ, ΥΓΡΑΣΙΑ, ΠΟΤΟ( 2+ΠΟΤΗΡΙΑ)</modalities>
+        <occurrence_time>ΚΑΘΕ ΑΥΓΟΥΣΤΟ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΕΙΝΑΙ ΠΙΟ ΕΝΤΟΝΑ</occurrence_time>
+        <body_side>ΞΕΚΙΝΑΕΙ ΑΠΟ ΤΟΝ ΑΥΧΕΝΑ ΣΥΝΕΧΙΖΕΙ ΑΠΟ ΤΗΝ ΚΟΡΥΦΗ ΤΟΥ ΚΕΦΑΛΙΟΥ ΚΑΙ ΚΑΤΑΛΗΓΕΙ ΑΝΑΜΕΣΑ ΣΤΑ ΜΑΤΙΑ (ΠΙΟ ΠΟΛΥ ΑΡΙΣΤΕΡΑ)</body_side>
+        <appearence_frequency>ΤΡΕΙΣ Η ΤΕΣΣΕΡΙΣ ΦΟΡΕΣ ΤΟ ΜΗΝΑ</appearence_frequency>
+        <pain_desc>ΞΕΚΙΝΑΕΙ ΑΠΟ ΤΟΝ ΑΥΧΕΝΑ ΣΥΝΕΧΙΖΕΙ ΑΠΟ ΤΗΝ ΚΟΡΥΦΗ ΤΟΥ ΚΕΦΑΛΙΟΥ ΚΑΙ ΚΑΤΑΛΗΓΕΙ ΑΝΑΜΕΣΑ ΣΤΑ ΜΑΤΙΑ </pain_desc>
+        <complaint_ext>ΔΕΝ ΑΝΕΦΕΡΕ ΚΑΤΙ</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΠΑΥΣΙΠΟΝΑ ΕΠΙ ΠΟΝΟΥ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΕΓΙΝΕ Ο ΠΡΟΒΛΕΠΟΜΕΝΟΣ ΕΜΒΟΛΙΑΣΜΟΣ ΜΕΧΡΙ ΣΗΜΕΡΑ. ΤΕΛΕΥΤΑΙΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ ΠΟΥ ΘΥΜΑΤΑΙ ΗΤΑΝ ΑΥΤΟΙ ΚΑΤΑ ΤΗ ΣΤΡΑΤΙΩΤΙΚΗ ΤΟΥ ΘΗΤΕΙΑ.&#13;
+ΦΑΡΜΑΚΑ ΔΕΝ ΠΑΙΡΝΕΙ ΕΚΤΟΣ ΑΠΟ ΤΑ ΠΑΥΣΙΠΟΝΑ.</therapies_vaccination>
+          <traumas>ΔΕΝ ΘΥΜΑΤΑΙ ΚΑΤΙ ΕΝΤΟΝΑ</traumas>
+          <infections>ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Ο ΠΑΤΕΡΑΣ ΤΟΥ ΠΕΘΑΝΕ ΑΠΟ ΚΑΡΚΙΝΟ. Η ΜΗΤΕΡΑ ΤΟΥ ΠΑΣΧΕΙ ΑΠΟ ALZHEIMER</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΑΛΥΤΕΡΑ ΟΤΑΝ ΕΙΝΑΙ ΣΤΗ ΦΥΣΗ.ΤΟΥ ΑΡΕΣΕΙ ΝΑ ΕΙΝΑΙ ΣΕ ΕΝΑ ΒΟΥΝΟ(ΧΩΡΙΣ ΕΠΙΚΟΙΝΩΝΙΑ) ΚΑΙ ΕΚΕΙ ΝΑ ΕΧΕΙ ΑΠΟΛΥΤΗ ΗΣΥΧΙΑ.Ο ΗΛΙΟΣ ΤΟΝ ΕΝΟΧΛΕΙ ΣΤΑ ΜΑΤΙΑ ΚΑΙ ΙΔΙΑΙΤΕΡΑ 5-6 ΤΟ ΑΠΟΓΕΥΜΑ</reactions>
+        <sleeping_habits>ΕΧΕΙ ΑΥΠΝΙΑ .ΓΙΑ ΝΑ ΚΟΙΜΗΘΕΙ ΧΡΕΙΑΖΕΤΑΙ ΠΟΛΛΗ ΗΣΥΧΙΑ. ΑΝ ΚΟΙΜΗΘΕΙ ΣΕ ΜΕΡΟΣ ΠΟΥ ΤΟ ΜΑΞΙΛΑΡΙ ΤΟΝ ΤΑΛΑΙΠΩΡΕΙ Ή ΚΑΤΙ ΆΛΛΟ ΤΟΝ ΤΑΛΑΙΠΩΡΕΙ, ΑΡΧΙΖΕΙ Ο ΠΟΝΟΚΕΦΑΛΟΣ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ ΤΥΡΙ(2),ΛΕΜΟΝΙ(1) ,ΑΥΓΑ(1). ΔΕΝ ΤΟΥ ΑΡΕΣΕΙ ΤΟ ΛΙΠΟΣ ΣΤΟ ΚΡΕΑΣ.ΔΙΨΑ Κ.Φ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΕΙΝΑΙ ΑΝΘΡΩΠΟΣ ΕΥΕΞΑΠΤΟΣ ΚΑΙ ΘΕΛΕΙ ΝΑ ΕΙΝΑΙ ΣΩΣΤΟΣ.ΤΟΥ ΑΡΕΣΕΙ ΤΟ ΠΟΤΟ ΜΕ ΠΑΡΕΑ ( 1 ΠΟΤΗΡΙ ΓΙΑΤΙ ΤΟ ΠΕΡΙΣΣΟΤΕΡΟ ΤΟΝ ΧΕΙΡΟΤΕΡΕΥΕΙ) .ΔΕΝ ΘΕΛΕΙ ΝΑ ΤΟΝ ΠΛΗΣΙΑΣΕΙ ΓΑΤΑ(ΔΕΝ ΤΙΣ ΕΜΠΙΣΤΕΥΕΤΑΙ). ΤΑ ΤΑΞΙΔΙΑ ΤΟΥ ΑΡΕΣΟΥΝ ΠΟΛΥ.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΔΕΝ ΕΧΕΙ ΣΥΧΝΑ ΟΞΕΑ. Ο ΠΥΡΕΤΟΣ ΤΟΥ ΟΤΑΝ ΥΠΗΡΧΕ ΗΤΑΝ ΓΥΡΩ ΣΤΟ 38</personal_medical_history>
+        <family_medical_history>ΙΣΩΣ ΕΠΙΒΑΡΥΝΣΗ ΓΙΑ CA ΑΠΟ ΤΟΝ ΠΑΤΕΡΑ</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>ΔΕΝ ΑΡΡΩΣΤΗΣΕ ΠΟΤΕ ΣΟΒΑΡΑ.ΔΕΝ ΚΑΝΕΙ ΥΨΗΛΟΥΣ ΠΥΡΕΤΟΥΣ ΚΑΙ ΕΧΕΙ ΜΙΑ ΣΧΕΤΙΚΑ ΚΑΘΑΡΗ ΕΙΚΟΝΑ ΦΑΡΜΑΚΟΥ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΔΕΝ ΕΜΠΙΣΤΕΥΕΤΑΙ ΤΙΣ ΓΑΤΕΣ ,ΔΕΝ ΤΙΣ ΘΕΛΕΙ ΚΟΝΤΑ ΤΟΥ(2).&#13;
+ΑΥΓΟΥΣΤΟ ΣΤΟ ΣΤΡΑΤΟ ΞΕΚΙΝΗΣΑΝ ΟΙ ΚΕΦΑΛΑΛΓΙΕΣ ΚΑΙ ΚΑΘΕ ΑΥΓΟΥΣΤΟ ΕΙΝΑΙ ΧΕΙΡΟΤΕΡΑ(2)</peculiar>
+        <intense>ΕΠΙΘΥΜΕΙ ΝΑ ΕΙΝΑΙ ΣΤΟ ΒΟΥΝΟ (3).&#13;
+ΕΠΙΘΥΜΕΙ ΤΑ ΤΑΞΙΔΙΑ(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5199/MIXALHS X3.jpg</file_url>
+      </repertorization>
+      <remedies_differentiation>TUBERCULLINUM, CARCINOSINUM</remedies_differentiation>
+      <prescription>
+        <remedy>TUBERCULLINUM</remedy>
+        <potency>200CH</potency>
+        <regimen>1 ΚΑΨΟΥΛΑ ΕΦΑΠΑΞ</regimen>
+        <other_notes>.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-04-03 18:00:00</followup_date>
+      <conv_med_presc>ΜΕ ΤΙΣ ΚΕΦΑΛΑΛΓΙΕΣ ΕΙΝΑΙ ΠΟΛΥ ΚΑΛΥΤΕΡΑ ΚΑΙ ΧΡΗΣΙΜΟΠΟΙΕΙ ΠΟΛΥ ΛΙΓΟΤΕΡΟ ΤΑ ΠΑΥΣΙΠΟΝΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΕ ΤΟΥΣ ΠΟΝΟΚΕΦΑΛΟΥΣ ΕΙΝΑΙ ΠΟΛΥ ΚΑΛΥΤΕΡΑ. ΤΗΝ ΤΕΛΕΥΤΑΙΑ ΕΒΔΟΜΑΔΑ ΝΟΙΩΘΕΙ ΘΟΛΟΥΡΑ ΚΑΙ ΠΙΑΣΙΜΟ ΣΤΟΝ ΑΥΧΕΝΑ ΚΑΙ ΚΟΥΡΑΣΗ ΣΤΑ ΜΑΤΙΑ.  ΕΧΕΙ ΚΑΠΟΙΕΣ ΦΟΡΕΣ ΠΟΝΟ ΣΤΗ ΜΕΣΗ ΠΟΥ ΕΠΕΚΤΕΙΝΕΤΑΙ ΚΑΙ ΣΤΟΝ ΑΡΙΣΤΕΡΟ ΜΗΡΟ(ΟΧΙ ΚΑΤΙ ΕΝΤΟΝΟ) .&#13;
+ΑΙΣΘΑΝΕΤΑΙ ΠΙΟ ΗΡΕΜΟΣ.</reaction>
+      <analysis>ΙΣΩΣ ΝΑ ΥΠΗΡΞΕ ΑΡΧΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΠΟΥ ΔΕΝ ΕΓΙΝΕ ΑΝΤΙΛΗΠΤΗ.ΕΙΝΑΙ ΚΑΛΥΤΕΡΑ ΣΕ ΣΩΜΑΤΙΚΟ ΚΑΙ ΨΥΧΙΚΟ ΕΠΙΠΕΔΟ</analysis>
+      <conclusion>ΤΟ ΦΑΡΜΑΚΟ ΗΤΑΝ ΣΩΣΤΟ.ΕΧΟΥΝ ΠΕΡΑΣΕΙ 7 ΜΗΝΕΣ ΚΑΙ ΠΙΘΑΝΟΝ ΜΙΑ ΔΕΥΤΕΡΗ ΙΔΙΑ ΔΟΣΗ ΝΑ ΒΟΗΘΗΣΕΙ ΤΗΝ ΑΝΤΙΔΡΑΣΤΙΚΗ ΔΥΝΑΜΗ ΤΟΥ ΟΡΓΑΝΙΣΜΟΥ.(ΥΠΗΡΧΕ ΚΑΙ Η ΣΚΕΨΗ ΤΗΣ ΑΝΑΜΟΝΗΣ )</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5199/ΜΙΧΑΛΗΣ Ξ2.jpg</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>TUBERCULLINUM </remedy>
+        <potency>200CH</potency>
+        <regimen>1 ΚΑΨΟΥΛΑ ΕΦΑΠΑΞ</regimen>
+        <other_notes> </other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL9825467fc07fb0c9ec8d2597ad15f8af</ID>
+  <patient>
+    <case_date>2015-05-20 17:30:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Γ.</patient_initials>
+    <age>42</age>
+    <circumstances>Παντρεμένη, 2 παιδιά. &#13;
+Επάγγελμα: φιλόλογος. </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Εδώ και 10 χρόνια παρουσιάζει μετωπιαία κεφαλαλγία (νιώθει βάρος στο κεφάλι).</origin>
+        <causative_factors>Η κεφαλαλγία συμπίπτει με την έναρξη χρήσης ενός φαρμάκου (Dostinex), το οποίο το παίρνει λόγω υψηλής προλακτίνης (το παίρνει για να διατηρεί την ορμόνη σε χαμηλά επίπεδα).</causative_factors>
+        <modalities>Επιδείνωση: κατά την περίοδο.&#13;
+&#13;
+Βελτίωση: με λήψη αναλγητικών (συνήθως: Depon, Panadol extra) και όταν είναι μόνη.</modalities>
+        <occurrence_time>Επιδείνωση: κατά την περίοδο.&#13;
+&#13;
+Βελτίωση: μετά την περίοδο.</occurrence_time>
+        <body_side>Κεφάλι-μέτωπο. Δεν μπορεί να εντοπίσει μεγαλύτερη ένταση του πόνου αριστερά ή δεξιά.</body_side>
+        <appearence_frequency>1 φορά τον μήνα (κατά την περίοδο).</appearence_frequency>
+        <pain_desc>Οξύς μετωπιαίος πονοκέφαλος(4) (χαρακτηριστικά αναφέρει ότι τρελαίνεται από τον πόνο κατά την περίοδο), συσφικτικός, με αίσθημα βάρους στο άνω μέρος της κεφαλής (μέτωπο).</pain_desc>
+        <complaint_ext>Όχι.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Διάγνωση: Κεφαλαλγία πριν και κατά την περίοδο.&#13;
+&#13;
+Φαρμακευτική αγωγή: Dostinex</conv_med_presc>
+        <lab_tests>
+          <desc>κ.φ.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπήρχαν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Λαμβάνει αναλγητικά όταν παρουσιάζεται ο πόνος (συνήθως Depon, Panadol extra).&#13;
+&#13;
+Εμβολιασμός: πλήρης.</therapies_vaccination>
+          <traumas>Σωματικά: όχι.&#13;
+&#13;
+Συναισθηματικά: έντονη θλίψη λόγω εμφάνισης σοβαρού προβλήματος υγείας του συζύγου της προ 2 ετών.</traumas>
+          <infections>Όχι.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Υγιείς.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει πολύ γενικώς(3), τα πόδια της όμως ζεσταίνονται. Ιδρώνει πολύ σε μασχάλες και πρόσωπο. Σπανιότερα ιδρώνει στον αυχένα κατά τη διάρκεια του ύπνου.</reactions>
+        <sleeping_habits>Κοιμάται ανάσκελα, με φως. Την παίρνει ο ύπνος δύσκολα, χωρίς κάλτσες, κοιμάται σκεπασμένη αφήνοντας έξω από τα σκεπάσματα το κεφάλι και τα πόδια της. Ιδρώνει ο αυχένας της κάποιες φορές. Δε βλέπει αξιομνημόνευτα όνειρα. Το πρωί ξυπνάει καλά (3).</sleeping_habits>
+        <food_modalities>Δεν έχει κάποια ιδιαίτερη προτίμηση σε συγκεκριμένα φαγητά. Δεν πίνει πολύ νερό. Δεν της αρέσουν τα φρούτα, επιθυμεί λαχανικά, αυγό σφικτό, επιθυμεί τυρί και κασέρι (3).&#13;
+&#13;
+Απέχθεια: στο γιαούρτι(2)</food_modalities>
+        <menstruation>Σταθερός κύκλος, όχι πολύ αίμα, καθαρό αίμα, διάρκεια 4-5 ημέρες. Εάν δεν λάβει το φάρμακό της (Dostinex), η ροή του αίματος είναι μειωμένη και το αίμα δεν είναι καθαρό.</menstruation>
+      </physical>
+      <mental_emotional>Νιώθει κουρασμένη, πιεσμένη και στρεσαρισμένη λόγω φόρτου εργασίας. έχει μόνιμη ανησυχία (κυρίως για την κατάσταση της υγείας του συζύγου) χωρίς όμως αυτό να επηρεάζει ιδιαιτέρως την καθημερινότητά της.&#13;
+&#13;
+Φοβίες: κλειστοφοβία, φοβάται τα σκυλιά τις γάτες, το σκοτάδι, την εγκατάλειψη, το θάνατο.&#13;
+&#13;
+Κλαίει εύκολα(4), με το παραμικρό.Επιθυμεί παρηγοριά(2).&#13;
+&#13;
+Είναι ανασφαλής.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εκτός της χαμηλής προλακτίνης για την οποία λαμβάνει το φάρμακο, δεν παρουσιάζει άλλα προβλήματα.</personal_medical_history>
+        <family_medical_history>Δεν υπάρχει.</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Το επίπεδο υγείας της δεν είναι πολύ υψηλό. Δεν εμφανίζει συχνά πυρετό (τελευταίος πυρετός προ 5 ετών: 38).</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Συσφιγκτικός χαρακτήρας του πονοκέφαλο.</peculiar>
+        <intense>Κεφαλαλγία.Θέλει παρηγοριά.</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Pulsatila,nat.act</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η Pulsatila ήταν σχετικά ξεκάθαρη επιλογή εξ αρχής, καθώς η ασθενής είναι ιδιαίτερα ανασφαλής, εμφανίζει υψηλό φόβο εγκατάλειψης, κλαίει συχνά, είναι γλυκιά, συμπαθητική, δεν έχει επιθετικότητα, εμφανίζει ιδιαίτερη επιθυμία στο τυρί / κασέρι, δε διψάει. Έχει καλή σχέση με τον σύζυγό της, αλλά λόγω ανασφάλειας θέλει να έχει τον έλεγχο.</remedies_differentiation>
+      <prescription>
+        <remedy>Pulsatila.</remedy>
+        <potency>200CH/1 </potency>
+        <regimen>1x1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-24 16:30:00</followup_date>
+      <conv_med_presc>Δε χρειάστηκε να ξαναπάρει άλλο φάρμακο, ένιωσε καλύτερα. </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Όπως αναφέρει η ίδια την πρώτη μέρα που πήρε το φάρμακο παρουσίασε ελαφρύ πονοκέφαλο διάρκειας μιας ημέρας. Στην συνέχεια ήταν καλά.</reaction>
+      <analysis>Υπήρξε ελαφρά επιδείνωση των συμπτωμάτων που εμφάνιζε αρχικά η ασθενής και έπειτα βελτίωση.</analysis>
+      <conclusion>Βελτίωση της κατάστασης της ασθενούς. Νιώθει καλύτερα σε όλα τα επίπεδα.</conclusion>
+      <repertorization>
+        <desc>Δεν πήρε κάποιο άλλο φάρμακο, περιμένουμε να δούμε την πορεία της ασθενούς, παραμένουμε σε επικοινωνία.</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν πήρε κάποιο φάρμακο. Περιμένουμε.</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

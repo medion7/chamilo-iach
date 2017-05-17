@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL33500f885d4a2240666e062b3aca1fcf</ID>
+  <patient>
+    <case_date>2015-04-15 22:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>M.K.</patient_initials>
+    <age>5</age>
+    <circumstances>Νήπιο</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Εμφανίστηκε τον Φλεβάρη θεραπεία με τοπικό αντιβιοτικό&#13;
+Επανεμφάνιση μετά από 1 μήνα, θεραπεία με Augmentin&#13;
+Υποτροπή</origin>
+        <causative_factors>Stress στο οικογενειακό περιβάλλον</causative_factors>
+        <modalities>Δεν υπάρχουν</modalities>
+        <occurrence_time>όχι</occurrence_time>
+        <body_side>στη μέση γραμμή, στο τριχωτό της κεφαλης</body_side>
+        <appearence_frequency>εξάρσεις κατά τη διάρκεια τπυ σχολικού έτους</appearence_frequency>
+        <pain_desc>οχι</pain_desc>
+        <complaint_ext>Τοπικά στο τριχωτό της κεφαλής</complaint_ext>
+        <other_complaints>Επιθετικότητα,θυμός, χτυπά, δαγκώνει&#13;
+δυσκαμψία αυχένα&#13;
+βήχας ξηρός</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Μολυσματικό κηρίο&#13;
+bactroban 10 μέρες,&#13;
+Augmentin &#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εχεί ακολουθήσει το προγραμμα εμβολιασμου ανελλιπώς&#13;
+Αντιβίωση 3-4 φορές</therapies_vaccination>
+          <traumas>Η μητέρα δεν ήθελε να συνεχίσει τον θηλασμό πέραν του 3μήνου</traumas>
+          <infections>Λοιμώξεις του αναπνευστικού 1-2 φορές το χρόνο</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>κανένα χρόνιο νόσημα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεστένεται&#13;
+ευαισθησία στον κρύο αέρα</reactions>
+        <sleeping_habits>κοιμάται στο πλάι&#13;
+θέλει φώς το βράδυ αλλιώς βλέπει εφιάλτες</sleeping_habits>
+        <food_modalities>επιθυμια για γλυκά, ζυμαρικά</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>θυμός-ξεσπά με βία, χτυπά, δαγκώνει,&#13;
+χτυπά τον εαυτό του και γελάει&#13;
+μιλά προσβλητικά&#13;
+ζηλεύει</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Ήπια εποχιακή αλλεργία την άνοιξη&#13;
+ανεβάζει εύκολα υψηλό πυρετό</personal_medical_history>
+        <family_medical_history>ψωρίαση από τη μεριά της μητέρας&#13;
+προβλήματα με ναρκωτικές ουσίες από μεριάς του πατέρα</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>παρά τις επαναλαμβανόμενες θεραπείες με αντιβιοτικά, η δερματική βλάβη επανέρχεται γεγονός που δηλώνει καλό επίπεδο υγείας&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>φόβος λύκων (2)&#13;
+χτυπά τον εαυτό του και γελά (2)</peculiar>
+        <intense>Ζεστένεται (3)&#13;
+επιθυμία για γλυκά (3)&#13;
+Βίαια ξεσπάσματα (3)&#13;
+Κνησμώδη εξανθήματα στο τριχωτό της κεφαλής (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Stramonium, tarentula, Hyoscyamus</remedies_differentiation>
+      <prescription>
+        <remedy>stramonium</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>επανέλεγχος σε 1 μήνα</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-01 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Βελτίωση στο βασικό πρόβλημα, αμετάβλητη η εικόνα οσον αφορά στη συμπεριφορά του. Ελάχιστη βελτίωση στο θέμα της ζήλειας.&#13;
+Δείχνει να μην έχει τόση ανάγκη το φώς την ωρα του ύπνου&#13;
+</reaction>
+      <analysis>Δυνατός οργανισμός, άμεση βελτίωση,περιμένουμε σε βάθος χρόνου να δράσει και σε mental-emotional επίπεδο</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-12 21:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Σταδιακή συνεχιζόμενη βελτίωση. οι σχέσεις του στο σχολείο είναι καλύτερες, δεν έχει τόσο έντονα ξεσπάσματα θυμου.&#13;
+Είναι ιδιαίτερα στοργικός με τα ζώα, ενώ παλιότερα τα βασάνιζε.&#13;
+Οι φόβοι του επιμένουν &#13;
+</reaction>
+      <analysis>Το φάρμακο ήταν το σωστό και περιμένουμε περεταίρω βελτίωση τους επόμενους μήνες.&#13;
+Μάλλον δε θα χρειαστεί άλλο φάρμακο σύντομα&#13;
+</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/M.K follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>δεν έχει αρρωστήσει από την αρχή της θεραπείας.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

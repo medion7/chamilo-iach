@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELff77303d24323ee73b040d1428ad1a80</ID>
+  <patient>
+    <case_date>2014-10-07 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΓΑ</patient_initials>
+    <age>46</age>
+    <circumstances>Σε διάσταση με δύο παιδιά (κορίτσια) 16 και 12 χρόνων, ιδιωτικός υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Κεφαλαλγίες από 7ετίας&#13;
+Διαρροϊκά επεισόδια από 5ετίας (υποψία νόσου Crohn)</origin>
+        <causative_factors>Πέρναγε άσχημα μέσα στο γάμο της. Ακόμα είναι σε μια κατάσταση που δεν έχει ξεκαθαρίσει.&#13;
+</causative_factors>
+        <modalities>οι κεφαλαλγίες εμφανίζονται πριν ή μετά την έμμηνο ρύση&#13;
+βελτιώνονται με το σκοτάδι και την ησυχία.</modalities>
+        <occurrence_time>Η ασθενής δεν αναφέρει </occurrence_time>
+        <body_side>οι κεφαλαλγίες ξεκινούν συνήθως από το αριστερό μάτι και φρύδι, με εξάπλωση στο μέτωπο.</body_side>
+        <appearence_frequency>κεφαλαλγίες 1-2 φορές το μήνα&#13;
+διαρροϊκές κενώσεις περισσότερο από 1 φορά το μήνα</appearence_frequency>
+        <pain_desc>συσφικτικός στην κεφαλαλγία</pain_desc>
+        <complaint_ext>η κεφαλαλγία πάει από το μάτι στο μέτωπο.</complaint_ext>
+        <other_complaints>μετεωρισμός και αποβολή αερίων</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>αντιφλεγμονώδη και αναλγητικά για τις κεφαλαλγίες (panadol extra, mesulid)</conv_med_presc>
+        <lab_tests>
+          <desc>καμία</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>καμία</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Συνήθεις εμβολιασμοί&#13;
+Αναλγητικά και αντιφλεγμονώδη (panadol extra, mesulid)  για τις κεφαλαλγίες</therapies_vaccination>
+          <traumas>σκωληκοειδεκτομή, αμυγδαλεκτομή και αφαίρεση αδενοειδών εκβλαστήσεων σε ηλικία 6-7 χρόνων&#13;
+2 καισαρικές&#13;
+1 έκτρωση (σε ηλικία 26χρόνων-σύνδρομο Down)&#13;
+κωνοειδής εκτομή σε ηλικία 23 χρόνων για HPV</traumas>
+          <infections>καμία</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατέρας:υπέρταση&#13;
+μητέρα: θυρεοειδοπάθεια, κατάθλιψη, ημικρανίες</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει</reactions>
+        <sleeping_habits>Η ασθενής δεν αναφέρει ιδιαίτερες συνήθειες. Το τελευταίο διάστημα αργεί να την πάρει ο ύπνος, ή ξυπνάει πολύ νωρίς ενώ είναι ακόμα κουρασμένη.&#13;
+O μεσημεριανός ύπνος τη χαλάει.</sleeping_habits>
+        <food_modalities>επιθυμία για αμυλούχα (ψωμί, πίτες) (3), σοκολάτα (2), γλυκά (3)&#13;
+απέχθεια για γάλα (3)&#13;
+επιδεινώνεται με το γάλα (2)</food_modalities>
+        <menstruation>σταθερή με αρκετή απώλεια αίματος.</menstruation>
+      </physical>
+      <mental_emotional>Η ασθενής είναι ευαίσθητη, προσβάλλεται εύκολα και έχει έλλειψη αυτοπεποίθησης. Δεν εκδηλώνει τα συναισθήματά της και ανέχεται καταστάσεις ιδιαίτερα στις προσωπικές σχέσεις ("δεν μου αρέσει που ανέχομαι πράγματα αλλά νιώθω αδύναμη να πράξω αλλιώς"). Τον τελευταίο καιρό έχει πολλά νεύρα και θυμό τα οποία τα κρατάει και μετά με ελάχιστη αφορμή κάνει ξεσπάσματα.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>σκωληκοειδεκτομή, αμυγδαλεκτομή και αφαίρεση αδενοειδών εκβλαστήσεων σε ηλικία 6-7 χρόνων&#13;
+2 καισαρικές&#13;
+1 έκτρωση (σε ηλικία 26χρόνων-σύνδρομο Down)&#13;
+κωνοειδής εκτομή σε ηλικία 23 χρόνων για HPV</personal_medical_history>
+        <family_medical_history>πατέρας:υπέρταση&#13;
+μητέρα: θυρεοειδοπάθεια, κατάθλιψη, ημικρανίες</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Το επίπεδο 5 βασίζεται στο ιατρικό ιστορικό της ασθενούς, καθώς και στις ψυχικές και σωματικές διαταραχές που εμφανίζει.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>mind-anger, irascibility-suppressed, from (3)</peculiar>
+        <intense>mind-confidence-want of self confidence (low) (3)&#13;
+mind-offended, easily (3)&#13;
+mind-emotions, suppressed (3)&#13;
+mind-anger, irascibility-suppressed, from (3)&#13;
+generalities-food and drinks-sweets, desire (3)&#13;
+generalities-food and drinks-milk aversion (3)&#13;
+generalities-sleep afternoon-agg (3)&#13;
+generalities-food and drinks-milk-agg (3)&#13;
+generalities-food and drinks-bread, desire (3)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind-confidence-want of self confidence (low) (3)&#13;
+mind-offended, easily (3)&#13;
+mind-sensitive, oversensitive(2)&#13;
+mind-emotions, suppressed (3)&#13;
+mind-anger, irascibility-suppressed, from (3)&#13;
+generalities-food and drinks-sweets, desire (3)&#13;
+generalities-food and drinks-milk aversion (3)&#13;
+generalities-sleep afternoon-agg (3)&#13;
+generalities-food and drinks-milk-agg (3)&#13;
+generalities-food and drinks-chocolate, desire (2)&#13;
+mind-fear-dark (2)&#13;
+mind-fear-alone, of being -night (2)&#13;
+generalities-food and drinks-bread, desire (3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η συνταγογράφηση βασίζεται στα παρακάτω συμπτώματα:&#13;
+mind-confidence-want of self confidence (low) (3)&#13;
+mind-offended, easily (3)&#13;
+mind-sensitive, oversensitive(2)&#13;
+mind-emotions, suppressed (3)&#13;
+mind-anger, irascibility-suppressed, from (3)&#13;
+generalities-food and drinks-milk aversion (3)&#13;
+generalities-sleep afternoon-agg (3)&#13;
+generalities-food and drinks-milk-agg (3)&#13;
+που είναι χαρακτηριστικά για το φάρμακο Staphisagria</remedies_differentiation>
+      <prescription>
+        <remedy>Staphisagria</remedy>
+        <potency>200CH/1M</potency>
+        <regimen>1caps 200CH. 1 caps 1M. 60caps 6x.</regimen>
+        <other_notes>H συνταγογράφηση βασίζεται στο επίπεδο υγείας της ασθενούς καθώς και στο είδος και την ένταση των συμπτωμάτων της.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-11-28 23:00:00</followup_date>
+      <conv_med_presc>panadol extra και mesulid για τις κεφαλαλγίες</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής αναφέρει ότι έχει περισσότερη ενέργεια. Αισθάνεται πιο ξεκούραστη και άρχισε να κοιμάται καλύτερα. Έχει βελτιωθεί η διάθεσή της και μειώθηκαν τα νεύρα της. Εκφράζεται περισσότερο. Αυτή την περίοδο είχε ένα μόνο επεισόδιο κεφαλαλγίας που ήταν λίγο πιο έντονο από ότι συνήθως. Ο μετεωρισμός και τα αέρια, καλύτερα.</reaction>
+      <analysis>Έχει βελτιωθεί η εικόνα της ασθενούς τόσο σε επίπεδο ενέργειας, όσο και νοητικά, ψυχικά και σωματικά.</analysis>
+      <conclusion>Μια που η ασθενής παρουσιάζει βελτίωση θα περιμένουμε μέχρι το επόμενο follow-up</conclusion>
+      <repertorization>
+        <desc>mind-confidence-want of self confidence (low) (2)&#13;
+mind-offended, easily (2)&#13;
+mind-sensitive, oversensitive(2)&#13;
+mind-emotions, suppressed (2)&#13;
+mind-anger, irascibility-suppressed, from (2)&#13;
+generalities-food and drinks-sweets, desire (2)&#13;
+generalities-food and drinks-milk aversion (3)&#13;
+generalities-sleep afternoon-agg (3)&#13;
+generalities-food and drinks-milk-agg (3)&#13;
+generalities-food and drinks-chocolate, desire (2)&#13;
+mind-fear-dark (2)&#13;
+mind-fear-alone, of being -night (2)&#13;
+generalities-food and drinks-bread, desire (3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Staphisagria</remedy>
+        <potency>6x</potency>
+        <regimen>60 caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-02-02 00:00:00</followup_date>
+      <conv_med_presc>panadol</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής αισθάνεται πολύ καλύτερα. Η ενέργεια είναι βελτιωμένη κατά 60% ενώ τα νεύρα έχουν μειωθεί κατά 50%.Τσακώνεται ελάχιστα πια με τα παιδιά. Αισθάνεται μεγαλύτερη αυτοπεποίθηση και μπόρεσε να μιλήσει στον πρώην σύζυγό της για διάφορα θέματα χωρίς να φοβάται. Είχε ένα μόνο επεισόδιο κεφαλαλγίας αυτό το διάστημα, πολύ πιο ήπιο, ενώ τα διαρροϊκά επεισόδια έχουν περιοριστεί σε αριθμό και χρονική διάρκεια.</reaction>
+      <analysis>Η ασθενής εμφανίζει βελτίωση σε όλα τα επίπεδα.</analysis>
+      <conclusion>Αναμονή μέχρι το επόμενο follow-up</conclusion>
+      <repertorization>
+        <desc>mind-confidence-want of self confidence (low) (2)&#13;
+mind-offended, easily (1)&#13;
+mind-sensitive, oversensitive(1)&#13;
+mind-emotions, suppressed (1)&#13;
+mind-anger, irascibility-suppressed, from (1)&#13;
+generalities-food and drinks-sweets, desire (2)&#13;
+generalities-food and drinks-milk aversion (2)&#13;
+generalities-sleep afternoon-agg (2)&#13;
+generalities-food and drinks-milk-agg (2)&#13;
+generalities-food and drinks-chocolate, desire (2)&#13;
+mind-fear-dark (1)&#13;
+mind-fear-alone, of being -night (1)&#13;
+generalities-food and drinks-bread, desire (3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Staphisagria</remedy>
+        <potency>6x</potency>
+        <regimen>60caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-04-09 01:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής αισθάνεται πολύ καλύτερα. Έχει ηρεμήσει. Μπορεί να λέει αυτά που την ενοχλούν χωρίς να φοβάται. Η σχέση με τα παιδιά πολύ καλύτερη. Κοιμάται καλά, η ενέργεια βελτιωμένη στο 80%. Η αυτοπεποίθησή της βελτιωμένη στο 60%. Δεν είχε καθόλου επεισόδια κεφαλαλγίας αυτό το διάστημα. Ο μετεωρισμός και τα αέρια έχουν φύγει. Μπορεί και τρώει πιο ελεύθερα. Τα διαρροϊκά επεισόδια έχουν βελτιωθεί στο 60%. Δεν φοβάται το σκοτάδι, μπορεί να κοιμηθεί και μόνη της το βράδυ στο σπίτι.</reaction>
+      <analysis>Βελτίωση σε όλα τα επίπεδα</analysis>
+      <conclusion>Βελτίωση σε όλα τα επίπεδα</conclusion>
+      <repertorization>
+        <desc>mind-confidence-want of self confidence (low) (1)&#13;
+mind-offended, easily &#13;
+mind-sensitive, oversensitive&#13;
+mind-emotions, suppressed (1)&#13;
+mind-anger, irascibility-suppressed, from &#13;
+generalities-food and drinks-sweets, desire (2)&#13;
+generalities-food and drinks-milk aversion (2)&#13;
+generalities-sleep afternoon-agg (1)&#13;
+generalities-food and drinks-milk-agg (2)&#13;
+generalities-food and drinks-chocolate, desire (2)&#13;
+generalities-food and drinks-bread, desire (2)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Staphisagria</remedy>
+        <potency>6x</potency>
+        <regimen>60 caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL1f16f061461bee6e966bd05ae2ba10ee</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>Β.Θ</patient_initials>
+    <age>9</age>
+    <circumstances>Παιδί</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πριν 6 μήνες</origin>
+        <causative_factors>Τρόμος από ισχυρό σεισμό.</causative_factors>
+        <modalities>agg: σκοτάδι(3), </modalities>
+        <occurrence_time>agg: βράδυ, κατά την διάρκεια του ύπνου</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Οι εφιάλτες σχεδόν σε καθημερινή βάση ή 5 φορές την εβδομάδα.&#13;
+Η νυχτερινή ενούρηση 1-2 φορες την εβδομάδα</appearence_frequency>
+        <pain_desc>Φωνάζει,ουρλιάζει την νύχτα</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>Πονοκέφαλοι ( θα παραπονεθεί 2 φορές την εβδομάδα γι'αυτο). Ο πονοκέφαλος ξεκινά από τα μάτια,κυρίως το αριστερό κ επεκτείνεται στους κροτάφους,μέτριας έντασης ο πόνος και διάρκειας 1-2 ωρών. Επιδεινώνεται από φασαρία,θορύβους, άγγιγμα, βλεμματική επαφή.Θέλει να είναι μόνη της τότε,πηγαίνει στο δωμάτιο της.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Εφιάλτες και περιστασιακή νυχτερινή ενούρηση</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβόλια όλα όσα προβλέπονται.&#13;
+Αντιβίωση γ μεγάλο χρονικό διάστημα λόγω επίμονης ωτίτιδας.</therapies_vaccination>
+          <traumas>Συναισθηματικό: Ισχυρός σεισμός, κατά τη διάρκεια του οποίου ήταν μόνη της στο σπίτι με την άρρωστη-κατάκοιτη γιαγιά της. Όταν γύρισαν στο σπίτι οι γονείς μετά από λίγα λεπτά, έτρεμε η μικρή, είχε σπασμούς</traumas>
+          <infections>Ωτίτιδα στην ηλικία των 5 ετών.Πήρε αντιβίωση για μεγάλο χρονικό διάστημα.</infections>
+          <other>Εξανθήματα στους πήχεις κ στον λαιμό της σε επαφή με μάλλινο.</other>
+        </personal>
+        <family>
+          <diseases>Μανιοκατάθλιψη μητέρας μετά την γέννηση του τρίτου παιδιού.&#13;
+Παχυσαρκία πατέρα κ θυρεοειδίτιδα Hashimoto .</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Γενικά κρυώνει(2) αλλά ιδρώνει κ εύκολα όταν παίζει κ ειδικά κατά την διάρκεια του ύπνου.Θέλει οπωσδήποτε σεντόνι ακόμη και το καλοκαίρι,παρόλο που μετά ιδρώνει στον ύπνο της.</reactions>
+        <sleeping_habits>Όχι κάτι ιδιαίτερο.</sleeping_habits>
+        <food_modalities>Desire: γλυκά(3), σοκολάτες(3), αυγά αλλά όχι μελάτα(2),μακαρόνια(2), λίπος από το κρέας(1), ντομάτες(1)&#13;
+Αversion: φρούτα(2), φασόλια , φέτα(3)</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional></mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

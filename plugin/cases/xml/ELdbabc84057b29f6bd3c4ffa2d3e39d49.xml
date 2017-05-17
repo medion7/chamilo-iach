@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELdbabc84057b29f6bd3c4ffa2d3e39d49</ID>
+  <patient>
+    <case_date>2014-10-14 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Φ. Κ.</patient_initials>
+    <age>11</age>
+    <circumstances>Δεύτερο παιδί οικογένειας με 3 παιδιά (1 κορίτσι, το μεγαλύτερο και 2 αγόρια)</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Έλεγξε τους σφιγκτήρες από την ηλικία των 3,5 ετών ποτέ το βράδυ πλήρως ως προς την ούρηση, εξακολουθεί να παρουσιάζει ενούρηση η οποία έχει περιοδικότητα, υπάρχουν περίοδοι το πολύ 2 εβδομάδων που δεν έχει απώλεια και ακολουθεί σχεδόν καθημερινή απώλεια κατά το βαθύ ύπνο. Δεν έχει ελέγξει ποτέ τη νυκτερινή απώλεια.</origin>
+        <causative_factors>Άγνωστο. Δεν αναφέρεται ψυχολογικός τραυματισμός εμφανής ούτε υπάρχει σωματική παθολογία</causative_factors>
+        <modalities>Δεν αναφέρεται. Υπάρχουν περίοδοι που δεν έχει απώλεια για 1-2 εβδομάδες αλλά το πρόβλημα συνεχίζεται ανεξάρτητα από εποχή ή κούραση.&#13;
+Ο πατέρας έχει ιστορικό νυκτερινής ενούρησης στην παιδική ηλικία.</modalities>
+        <occurrence_time>Δεν ανιχνεύθηκε</occurrence_time>
+        <body_side>Δεν υφίσταται επικράτηση ημιμορίου</body_side>
+        <appearence_frequency>1-2 Εβδομάδες στεγνός το πρωί, ακολουθεί καθημερινή απώλεια ή μέρα παρά μέρα για 1-2 εβδομάδες κοκ</appearence_frequency>
+        <pain_desc>όχι</pain_desc>
+        <complaint_ext>όχι</complaint_ext>
+        <other_complaints>Όχι κάτι ιδιαίτερο. Το παιδί έχει πολύ καλή σωματική και νοητική ανάπτυξη. Παρουσιάζει τους χειμερινούς μήνες 1-2 εμπύρετες ιογενείς λοιμώξεις για τις οποίες δεν έχει λάβει αγωγή ειδική. Επίσης, 2 επεισόδια βρογχίτιδας στην έναρξη του παιδικού σταθμού (σε ηλικία 4 ετών) που πήρε εισπνεόμενα βρογχοδιασταλτικά</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>πρωτοπαθής νυκτερινή ενούρηση</conv_med_presc>
+        <lab_tests>
+          <desc>Γενικές αιματολογικές εξετάσεις: φυσιολογικές&#13;
+Υπερηχογράφημα νεφρών-ουρητήρων-κύστεως: φυσιολογικό</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Έχει πάρει σε οξείες καταστάσεις (εμπύρετα, βρογχίτιδες)&#13;
+Δεν έχει πάρει ιδιοσυγκρασιακό φάρμακο</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχει κάνει πολύ λίγα εμβόλια&#13;
+Δεν έχει πάρει αντιβιοτικά</therapies_vaccination>
+          <traumas>Όχι εμφανή</traumas>
+          <infections>Ιογενείς ρινοφαρυγγίτιδες 1-2 επεισόδια τους χειμερινούς μήνες</infections>
+          <other>όχι</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα,42χρ, υγιής&#13;
+Πατέρας, 45χρ, ιστορικό αλκοολισμού-έκανε αποτοξίνωση&#13;
+Μεγάλη αδελφή, 12χρ, ιστορικό βρογχικού άσθματος στην πρώτη παιδική ηλικία, που έκανε ομοιοπαθητική και ξεπέρασε το πρόβλημα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt; ζέστη&#13;
+&gt; κρύος καιρός&#13;
+Ζεσταίνεται (2)&#13;
+Ιδρώτας (2) &lt; κορμός (2), κεφάλι (1), πέλματα με δυσοσμία (2)</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα. Σκεπασμένος αλλά ξεσκεπάζεται. Κάνει βαρύ ύπνο, στριφογυρίζει. Ξυπνάει δύσκολα, με κάποια γκρίνια όταν έχει σχολείο(1)</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ: κρύο νερό (3), μακαρόνια (3), ψωμί (3), παγωτό (2), σοκολάτα (3), λίπος (2)&#13;
+ΔΕΝ ΕΠΙΘΥΜΕΙ: αυγά (2), γάλα (2), τυρί (2)&#13;
+Διψάει πολύ, θέλει πολύ νερό κρύο</food_modalities>
+        <menstruation>όχι</menstruation>
+      </physical>
+      <mental_emotional>εσωστρεφής (2), χαρούμενος (2), του αρέσει η μουσική (2), άτακτος, πετάει τα πράγματά του (2), τεμπελάκος (2), φοβάται το σκοτάδι (1), κάνει λάθη στο γραπτό λόγο (2), δύσκολα συγκεντρώνεται (1), το μπάνιο του αρέσει χλιαρό(2), φοβάται το ύψος (1)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Πρωτοπαθής νυκτερινή ενούρηση χωρίς παθολογία</personal_medical_history>
+        <family_medical_history>Πατέρας με ιστορικό αλκοολισμού που έκανε αποτοξίνωση</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Αγόρι 10 χρόνων με ιστορικό νυχτερινής ενούρησης χωρίς άλλα εμφανή προβλήματα</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>όχι</peculiar>
+        <intense>bladder-urination-involuntary-night (incontinence in bed) in Children (3)&#13;
+bladder-urination-involuntary-night-difficult to waken the child (3)&#13;
+cheese aversion (3)&#13;
+bread desire (3)&#13;
+pasta desire (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>bladder-urination-involuntary night (incontinence in bed)-Children in(3), bladder-urination-involuntary night-difficult to waken the child (3), bladder-urination-involuntary night-first sleep (2), generalities-history-personal-mononucleosis,of(2), mind-introspection (2), mind-cheerful, gay, happy (2), mind-music ameliorates (2), mind-lazy (2), generalities-bathing-warm ameliorates (2), sleep position, on abdomen (2), sleep restless (2), generalities-cold drinks, water desire (3), cheese aversion (3), eggs aversion (3), pasta desire (3), bread desire (3), fruit desire (1), milk aversion (3), ice-cream desire (2), chocolate desire (3), fat desire (2), mind-fear dark (1), mind-fear high places (1), mind-mistakes, in writing (2), mind-concentration difficult (1), unrefreshing sleep morning (1)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>sulphur (ζεσταίνεται, πίνει νερό, είναι τεμπελάκος και κάπως χύμα, του αρέσει το λίπος, τα γλυκά, ιδρώνει και μυρίζει ο ιδρώτας στις πατούσες του, έχει φόβο ύψους)&#13;
+phosphorus (είναι συμπαθητικό παιδί, θέλει κρύο νερό, παγωτό, δεν περιγράφει όμως ιδιαίτερους φόβους, δεν είναι πολύ επικοινωνιακός,και γενικά τα key-notes δεν το υποστηρίζουν)&#13;
+lycopodium (ξυπνάει κουρασμένος, του αρέσει το λίπος, δεν έχει όμως ιδιαίτερα στοιχεία για το φάρμακο)</remedies_differentiation>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>200CH, 1M</potency>
+        <regimen>Sulphur 200CH την πρώτη μέρα&#13;
+Sulphur 1M τη δεύτερη μέρα</regimen>
+        <other_notes>Επανεξέταση αναλόγως πορείας, το νωρίτερο σε 1 μήνα.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-12 08:00:00</followup_date>
+      <conv_med_presc>όχι</conv_med_presc>
+      <lab_tests>
+        <desc>όχι</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πολύ καλή αντίδραση. Μετά την πρώτη εβδομάδα από τη λήψη του φαρμάκου σταμάτησε το πρόβλημα</reaction>
+      <analysis>Πολύ καλή αντίδραση. Δεν αναφέρεται αρχική επιδείνωση αλλά η σύντομη και σταθερή θεραπεία δείχνουν ότι πρόκειται για παιδί με ψηλό επίπεδο υγείας</analysis>
+      <conclusion>Πολύ καλή θεραπευτική απάντηση. Δεν χρειάζεται προς το παρόν φάρμακο.</conclusion>
+      <repertorization>
+        <desc>όχι</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>όχι</remedy>
+        <potency>όχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>Όχι φάρμακο. Απλή παιδιατρική παρακολούθηση</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

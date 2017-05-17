@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL89f57e5e7fbdcb77c68d91f0afb72203</ID>
+  <patient>
+    <case_date>2015-02-26 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Ι.</patient_initials>
+    <age>30</age>
+    <circumstances>Άγαμη. Γραφίστρια.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πολυκυστικές ωοθήκες. Δεν είχε ποτέ κανονικό κύκλο. Από 18 έως 29 ετών παίρνει αντισυλληπτικά. Η περίοδος ήρθε σε ηλικία 14 ετών.&#13;
+Από το 1/14 δεν παίρνει αντισυλληπτικά .&#13;
+Είχε ακμή σε ηλικία 11 ετών και στα 14 πήρε roaqutan για 3 μήνες (της είχε έρθει η περίοδος 2 μήνες πριν πάρει το roaqutan). Σε όλο το λύκειο ήταν οκ και προς το τέλος της 3ης λυκείου και πήρε ξανά για 6 μήνες. </origin>
+        <causative_factors>Please enter any possible causative factors</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance</appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>Μυκητιάσεις τον τελευταίο χρόνο. (μετά την διακοπή των αντισυλληπτικών). Έχει έντονο κνησμό, και ελαφρύ τσούξιμο. Χρησιμοποιεί κάποια φυτικά υπόθετα που την βοηθούν .</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions</conv_med_presc>
+        <lab_tests>
+          <desc>Ορμονολογικός έλεγχος 1/11/2014 (χωρίς αντισυλληπτικά- 5η ημέρα κύκλου):&#13;
+ LH  21,7&#13;
+ PRL 11,13&#13;
+ PRG 0,82&#13;
+ FSH  9,44&#13;
+Estrad-E2  79,8&#13;
+Testosterone: 0,51&#13;
+Free testo : 0,57&#13;
+DHEA: 4,60&#13;
+DHEA-S: 1,92&#13;
+Δ4 androstendione: 3,70 &#13;
+&#13;
+TSH: 2,14&#13;
+U/S 29/10/2014: μικροπολυκυστική υφή ωοθηκών.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Παίρνει φυτικά φάρμακα (agnus castus συμπλήρωμα) και διάφορα ανθοϊάματα. Για την ακμή της έδιναν ανα διαστήματα Sulphur 30Ch και τώρα παίρνει Hypophysis 7CH.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)</traumas>
+          <infections>Please enter Acute infectious diseases</infections>
+          <other>-Head:   παλαιότερα (προ 5 ετίας) είχε έντονες κεφαλαλγίες με ιλίγγους, τάση για έμετο (&gt;), &lt;φως,&lt;κίνηση,&lt;θόρυβο. Με άσκηση που της είχαν πει βελτιώθηκε. &#13;
+-RECTUM: δυσκοιλιότητα (ανά 2ημερο).&#13;
+</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας  με ca (2007-απεβίωσε) και μητέρα αφαίρεση μήτρας (πρόπτωση).</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει 2&#13;
+Extremities :  κρύα άκρα.</reactions>
+        <sleeping_habits>Sleep: από μικρή δεν την πιάνει εύκολα ο ύπνος. Καλός γενικά. Πλάι τα τελευταία χρόνια. (παλαιότερα μπρούμυτα).</sleeping_habits>
+        <food_modalities>Thirst:κφ, όχι παγωμένο.&#13;
+Aversions:   λιπαρά.&#13;
+Desires:  ψάρι 2, πικάντικα 2, πιπέρι 2-3, κρεμμύδι 2, σκόρδο 1-2, γλυκά 2-3, αλάτι 2-3 .&#13;
+ &#13;
+</food_modalities>
+        <menstruation>Genitalia: κύκλος: τελευταία έμμηνος ρ. 9/1/15. (προηγούμενη 28/10/14). Κρατάει δυο ημέρες. Σκούρο αίμα πολύ λίγο και πήγματα.</menstruation>
+      </physical>
+      <mental_emotional>Φιλότιμη&#13;
+Ευαίσθητη 2-3&#13;
+Κλαιει 2 ευκολα.  &#13;
+Θελει την παρηγοριά. Αισθανεται καλυτερα.&#13;
+Συμπάσχει 2-3&#13;
+Όταν εκνευρίζεται κλαιει. Δεν εκνευρίζεται συχνα.  Δεν έχει θυμο.&#13;
+Ηπίων τονων.&#13;
+Τακτική 2.&#13;
+Ευθικτη ήταν παλιά πολυ, τωρα όχι.(απο τον πατερα της και μετά).&#13;
+Φοβίες: τον θανατο, υγειας 2 (και των άλλων)&#13;
+Την ενοχλεί η αδικία 1 (παλαιότερα πιο εντονα)&#13;
+Κοινωνική 2&#13;
+Ότι συμβαίνει γύρω της την επηρεάζει.&#13;
+Υποχωρητική πολύ.&#13;
+Εξωστρεφής 2&#13;
+Ξεχνά συνεχώς.&#13;
+Θέλει να ευχαριστεί τους άλλους. Λέει και όχι.&#13;
+&#13;
+Με τον πατέρα της βίωσε έντονα την ασθένεια του πατέρα της. Έκλαιγε πολύ. &#13;
+Είχε χωρίσει τα Χριστούγεννα με τον φίλο της. Τώρα είναι πάλι μαζί.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-FEVER:  κάθε χειμώνα κάνει 37,5οC.</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENITALIA FEMALE TUMORS Ovaries cysts 2&#13;
+FACE ERUPTIONS acne 1&#13;
+GENITALIAFEMALE ITCHING Vagina 1&#13;
+GENITALIAFEMALE PAIN Vagina 1&#13;
+GENERALITIES HEAT lack of vital 2&#13;
+GENERALITIES FOOD and DRINKS fat aversion 1&#13;
+GENERALITIES FOOD and DRINKS fish desire 2&#13;
+GENERALITIES FOOD and DRINKS pungent things desire 2&#13;
+GENERALITIES FOOD and DRINKS pepper desire 2&#13;
+GENERALITIES FOOD and DRINKS sweets desire 3&#13;
+GENERALITIES FOOD and DRINKS salt desire 2&#13;
+GENERALITIES FOOD and DRINKS onions desire 2&#13;
+RECTUM CONSTIPATION 1&#13;
+GENITALIAFEMALE MENSES irregular 2&#13;
+GENITALIAFEMALE MENSES fluid blood containing clots 1&#13;
+GENITALIAFEMALE MENSES clotted 1&#13;
+EXTREMITIES COLDNESS 1&#13;
+MIND SENSITIVE, oversensitive 2&#13;
+MIND WEEPING, tearful mood, etc. 1&#13;
+MIND CONSOLATION amel. 1&#13;
+MIND FASTIDIOUS 2&#13;
+MIND SYMPATHETIC 3&#13;
+MIND FEAR death, of 1&#13;
+MIND ANXIETY health, about 2&#13;
+MIND ANXIETY health, about relatives, of 2&#13;
+MIND COMMUNICATIVE 2&#13;
+MIND YIELDING disposition 1&#13;
+MIND SENSITIVE, oversensitive external impressions, to all 2&#13;
+MIND FORGETFUL 1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Είναι άτομο εξωστρεφές που συμπάσχει και επηρεάζεται σε μεγάλο βαθμό από ότι συμβαίνει γύρω της. Ευαίσθητη πολύ, φοβάται για την υγεία και την δική της και των δικών της καθώς και τον θάνατο. Της αρέσουν πολύ τα γλυκά, το αλάτι, το ψάρι και κρυώνει αρκετά. Η βασική της ψυχοδιανοητική εικόνα καθώς και τα μεταβολικά της χαρακτηριστικά μαζί με την φύση της παθολογίας της συνηγορούν υπέρ της εικόνας του Phosphorus.</remedies_differentiation>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>10cps, 2cps/weekly.</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>2/4/2015&#13;
+Όταν πήρε το πρώτο χάπι αδιαθέτησε την 3η ημέρα (ηταν ήδη στις 50 ημέρες κύκλου). Σήμερα είναι στην 29η ημέρα κύκλου. (σήμερα πήρε το τελευταίο χάπι). Η ροή ήταν καλύτερη από τις άλλες φορές. &#13;
+Η ακμή είναι πιο ήπια. Τις τελευταίες ημέρες άρχισε να γίνεται πιο έντονη (πριν την έμμηνο ρήση γίνεται πιο έντονη).&#13;
+Έχουν υποχωρήσει τα νεύρα. Αισθάνεται πιο ήρεμη, πιο αισιόδοξη.&#13;
+Της βγαίνει μια κούραση, πως δεν έχει ενέργεια. Είχε μπει για ορθοπεδική επέμβαση ο φιλος της και η μητέρα της και το αποδίδει εκει. Τώρα έχει μια μικρη βελτιωση σε σχέση με πριν.&#13;
+Έχει κανει στο χέρι αρ ενα γάγγλιο απο την χρήση πολλών ωρών υπολογιστεί. Μουδιάζει και πιάσιμο σε όλο το χερι, έχει και αδυναμία δεν μπορει να το σφιξει καλα. Όταν είναι σε ευθεια είναι καλλίτερα. Την τραβά όταν είναι σε κάμψη. &gt;ξεκούραση, κολύμβηση</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Έχει βελτίωση στην ροή της εμμήνου ρήσεως και στην ακμή αλλά είναι και πιο ήρεμη , με λιγότερα νεύρα. Αισθάνεται πιο αισιόδοξη. Θετική αντίδραση στο φάρμακο.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>Συνέχιση κατά τον ίδιο τρόπο.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>14/5/2015&#13;
+Προ 10ημερου ειδε λιγο αιμα καφε (30ημερα κυκλου) και μετα ξεκινησε κολπικός κνησμός και τσουξιμο. Τις πρωτες ημερες ειδε λιγο και μετα χειροτερευσε. Πηρε τηλ πηρε υποθετα καλεντουλας, αλλα δεν υποχωρησε και πηρε Stabilanol απο μονη της, διοτι ειχε πρηστει και στα εξωτερικά χειλη με καυστικές εκκρίσεις. Υποχωρησε το πρηξιμο αλλα τα συμπτωματα παρεμειναν. Προ 3ημερου επικοινωνησε τηλ και πηρε Sepia 30CH 1-1 για 4 ημερες. Τωρα είναι πολυ καλυτερα, το πρηξιμο εχει υποχωρήσει και η λευκορροια ειναι πιο ήπια, πηχτη. Ο κνησμος είναι πολυ πιο ήπιος χωρις τσουξιμο.&#13;
+(συνεχιζει τα υπόθετα καλεντουλας και κανει τοπικες πλυσεις)&#13;
+Τελευταια φορά που αδιαθετησε ηταν στις 4/4/2015 (31η ημερα κυκλου). Το αιμα ηταν πιο κοκκινο με καλη ροη.&#13;
+&#13;
+Η ακμη εχει ηρεμίσει. Ειναι πολυ καλλιτερα.&#13;
+&#13;
+Αισθανεται περισσότερη ενεργεια καθολη την διαρκεια της ημέρας.&#13;
+Καλός υπνος, ξεκουραστος.&#13;
+Τα νευρα ειναι καλλιτερα, ενω εχει αλλαξει και εργασία.&#13;
+&#13;
+Το γαγγλιο στο χερι υποχωρησε.&#13;
+&#13;
+Οταν πλησιάζει η έμμηνος ρήση έχει πρηξιμο στο υπογάστριο και ηπιο πόνο χαμηλά στην μήτρα. Τις τελευταίες 2-3 ημερες το αισθάνεται. Το είχε και προ 10 ημέρου.&#13;
+Δεν αναφέρει αλλαγές.</reaction>
+      <analysis> Βελτίωση στον κύκλο και στην ακμή. Η ενέργεια έχει βελτιωθεί καθώς και ο ύπνος της. Παρόλο που έχει αλλάξει και εργασιακό περιβάλλον είναι ήρεμη και χωρίς ιδιαίτερο άγχος.</analysis>
+      <conclusion>Βελτίωση της γενικής εικόνας.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>200CH</potency>
+        <regimen>Με τον ίδιο τρόπο.</regimen>
+        <other_notes>Συνέχιση της Sepia για 2 ημέρες ακόμη.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>25/6/2015&#13;
+Αδιαθέτησε στις 29/5. Δεν ηταν το ιδιο εντονο σε ροη-χρώμα αιματος οπως στις προηγούμενες φορές. (Ηταν περισσότερο προς καφε το αίμα-διήρκησε 3 ημερες).&#13;
+Σημερα είναι στην 29η ημερα και εχει πρήξιμο με πόνο στο υπογαστριο, αισθανεται λιγο κουρασμένη, δεν εχει διάθεση. (αυτα τα εχει πριν απο την έμμηνο ρ.) εχει και μικρή καφέ ροη και βλεννα. &#13;
+&#13;
+Αναφέρει πως ξεχναει συνεχως. Το ειχε παντοτε αλλα θεωρει πως ειναι πιο έντονο τον τελευταιο καιρο (σημειωνει συνεχως για να μην ξεχνα).&#13;
+Αναφέρει πως έχει περισσότερη πίεση στην εργασία.&#13;
+Εχει νευρα, απο την πίεση στην εργασία. Δεν εχει διαθεση μετά την εργασία να κανει οτιδήποτε. (εχει εδω κι 1 ½ μηνα σε νεο εργασιακό χωρο κι αυτο την αγχωνει για να ειναι σωστή).&#13;
+Ο ύπνος δεν ειναι πολύ καλός. Ξυπνάει εύκολα (και από θορύβους).&#13;
+&#13;
+«εχω μια θολούρα στο κεφαλι μου, δεν αισθανομαι καθαρή την σκέψη μου, αισθάνομαι περίεργα»&gt;&#13;
+Η ακμή εχει υποχωρήσει πολύ.&#13;
+Η τριχοφυία ειναι πιο έντονη και στο πηγουνι και στα κατω ακρα σε σημεια που δεν ειχε. Και στο στηθος (θηλες) εχουν αυξηθει. (προ 6 μηνου εμφανιστηκαν).&#13;
+Κρυώνει 2.&#13;
+«αισθανομαι πως τον τελευταίο καιρό βρισκω χρόνο για εμενα, θελω να περιποιηθώ τον εαυτό μου ενω ειχα αφαιθει».&#13;
+Δεν αναφερει αλλαγές στα ψυχοδιανοητικά, ουτε στα μεταβολικά.&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Phosphorus</remedy>
+        <potency>1M, 12CH</potency>
+        <regimen>1M/1cps, 12CH/30/daily.</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

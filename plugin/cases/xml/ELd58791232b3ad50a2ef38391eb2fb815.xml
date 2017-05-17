@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELd58791232b3ad50a2ef38391eb2fb815</ID>
+  <patient>
+    <case_date>2016-05-08 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Μ.Τ.</patient_initials>
+    <age>18</age>
+    <circumstances>Μαθητρια λυκειου</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ακμη σε προσωπο απο 12 ετων</origin>
+        <causative_factors>εφηβεια - ισως εισοδος σε μεση εκπαιδευση απο το δημοτικο</causative_factors>
+        <modalities>βελτιωση τους καλοκαιρινους μηνες οταν ειναι στη θαλασσα</modalities>
+        <occurrence_time>βελτιωση τους καλοκαιρινους μηνες οταν ειναι στη θαλασσα</occurrence_time>
+        <body_side>ολο το προσωπο</body_side>
+        <appearence_frequency>ολο το ετος απο 12 ετων</appearence_frequency>
+        <pain_desc>Κνησμός στα σημεία ακμής</pain_desc>
+        <complaint_ext>οχι</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Ακμη-περιστασιακες θεραπειες απο δερματολογους</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παιδικοι εμβολιασμοι, περιστασιακα αντιβιωσεις, θεραπειες απο δερματολογους και αισθητικους για την ακμη.</therapies_vaccination>
+          <traumas>Αμυγδαλεκτομη σε ηλικια 7 ετων</traumas>
+          <infections>Μολυσματικο κηριο σε ηλικια 3 ετων, ουρολοιμωξη σε ηλικια 7 ετων</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>γονεις υγιεις</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ουτε ζεσταινεται ουτε κρυωνει</reactions>
+        <sleeping_habits>Υπνος κφ, ΑΡ ή μπρουμητα</sleeping_habits>
+        <food_modalities>Επιθυμει γλυκα+++,μακαρονια+++,πιτσα+++,τυρι+++,παγωτο+++.&#13;
+Απεχθανεται αυγα+++,πικαντικα+++,λιπος+++.</food_modalities>
+        <menstruation>περιοδος κφ</menstruation>
+      </physical>
+      <mental_emotional>Αγχωνεται γιατι το προσωπο της δεν ανταποκρινεται στις θεραπειες, φοβαται μηπως μεινει για παντα ετσι</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εχει ακμη στο προσωπο απο ηλικια 12 ετων. Απο 10 ετων το δερμα της αρχισε να γινεται πιο λιπαρο και στα 11 τα πρωτα σπυρακια εμφανιστηκαν. Απο τοτε εκανε πολλες θεραπειες σε δερματολογους και αισθητικους αλλα με σχεδον καθολου αποτελεσμα. Τωρα ειναι γεματο ολο της το προσωπο+++. Μερικα σημεια εκκρινουν κιτρινο ορωδες υγρο και κενει κρουστα που της δημιουργει κνησμο καποιες φορες.&#13;
+Περιοδος κφ&#13;
+Υπνος κφ, ΑΡ ή μπρουμητα. Κοιμαται καλα χωρις να ξυπναει τη νυχτα. Το πρωι ειναι ξεκουραστη, δε θελει να κοιμαται πολυ αργα το βραδυ αν δεν υπαρχει λογος.&#13;
+Μολυσματικο κηριο σε ηλικια 3 ετων, ουρολοιμωξη σε ηλικια 7 ετων&#13;
+Αμυγδαλεκτομη σε ηλικια 7 ετων&#13;
+Χωρις λοιπα προβληματα υγειας&#13;
+Με το σχολειο τα παει καλα. Εχει παρεες αλλα υπαρχουν και καποιοι που την κοροιδευουν για το προσωπο της και αισθανεται ασχημα, καποιες φορες πληγωνεται. Οταν συμβαινει αυτο τον τελευταιο καιρο,καταναλωνει μεγαλες ποσοτητες γλυκων και φαγητου για να αισθανθει καλυτερα και εχει παχυνει.++&#13;
+Την αγχωνει το γεγονος οτι δεν ανταποκρινεται στις θεραπειες, φοβαται μηπως μεινει για παντα ετσι++.&#13;
+Χωρις λοιπες φοβιες.&#13;
+Λατρευει τη θαλασσα και το κολυμπι.Το καλοκαιρι ειναι η αγαπημενη της εποχη γιατι αν κατσει μερες στη θαλασσα, η ακμη βελτιωνεται++. Δεν της αρεσουν το αλατι , ουτε τα ξινα.&#13;
+Ειναι πολυ ακαταστατη, πεταει τα ρουχα της, τα πραγματα της +++. Δε θελει να της τα συμμαζευουν γιατι αισθανεται οτι της τα ανακατευουν και μετα δε βρισκει τιποτα.&#13;
+Δεν αισθανεται οτι μυριζει ο ιδρωτας της. Γενικα προσπαθει να μην ιδρωνει γιατι τον σιχαινεται πολυ+++. Για αυτο δεν της αρεσει και η γυμναστικη καθολου.&#13;
+Θελαι να πλενει τα χερια της πολλες φορες την ημερα και εχει παντα μαζι της αντισηπτικο χεριων++&#13;
+Επιθυμει γλυκα+++,μακαρονια+++,πιτσα+++,τυρι+++,παγωτο+++.&#13;
+Απεχθανεται αυγα+++,πικαντικα+++,λιπος+++.</personal_medical_history>
+        <family_medical_history>γονεις παππουδες υγιεις , εν ζωη.</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Sulphur ή Medhorrinum</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Επιθυμει γλυκα+++,μακαρονια+++,πιτσα+++,τυρι+++,παγωτο+++.&#13;
+Απεχθανεται αυγα+++,πικαντικα+++,λιπος+++.</peculiar>
+        <intense>Υπερφαγια οταν αιθανεται ασχημα++&#13;
+Ειναι πολυ ακαταστατη, πεταει τα ρουχα της, τα πραγματα της +++. Δε θελει να της τα συμμαζευουν γιατι αισθανεται οτι της τα ανακατευουν και μετα δε βρισκει τιποτα.&#13;
+ Γενικα προσπαθει να μην ιδρωνει γιατι τον σιχαινεται πολυ+++&#13;
+Θελαι να πλενει τα χερια της πολλες φορες την ημερα και εχει παντα μαζι της αντισηπτικο χεριων++</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>SKIN ERUPTIONS +++: Ars. Ars-i. Bar-c. Calc. Calc-s. Caust. Jug-c. Jug-r. Kali-c. Kali-s. Lyc. Merc. Mez. Nat-m. Petr. Psor. Rhus-t. Sep. Sil. Sulph.&#13;
+SKIN ERUPTIONS itching ++: Ars. Caust. Clem. Graph. Mez. Nat-m. Nit-ac. Nux-v. Rhus-t. Sep. staph. Sulph.&#13;
+HEAD ERUPTION crusts scubs ++: Ars. Clem. Crot-t. Dulc. Graph. Merc. Mez. Nat-m. Psor. Sulph.&#13;
+MIND DESPAIR recovery +:  Alum. Ars. Calc. Coloc. Merc. Psor. Syph. ( χωρις bold ειναι και Sulph.)&#13;
+GENERALITIES SEASHORE amel ++: Med.&#13;
+GENERALITIES FOOD and DRINKS salt aversion+: Cor-r. Graph. &#13;
+GENERALITIES FOOD and DRINKS sweets desire +++: Arg-n. Calc. Chin. Lyc. Sulph. &#13;
+THROAT INFLAMMATION oesophagus+++: Ars. Thus-t.&#13;
+MIND RESTLESSNESS nervousness anxious+++: Acon. Ars. Kali-ar. Kali-c. Nat-ar. Nat-c. Tarent.&#13;
+MIND ANXIETY health about+++: Agar. Arg-n. Kali-ar. Nit-ac. Ars. Fl-ac. Graph. Lob. Lyc. Phel. Phos. Syph.&#13;
+MIND CARES -full of -relatives , about+: Cocc. Sulph.(χωρις bold ειναι και Ars.)&#13;
+SLEEP DREAMS frightful++: Am-m. Ars. Aur. Borx. Calc. Calc-ar. Carb-v. Cina. Cocc. Con. Crot-c. Graph. Kali-ar. Kali-br. Kali-c. Lyc. Nay-m. Nicc. Puls. Sil.&#13;
+SLEEP WAIKING frequent +: Alum. Bar-c. Calc. Hep. Mur-ac. Phos. Puls. Sep. Sulph. (Χωρις bold ειναι και Ars.)&#13;
+GENERALITIES WEAKNESS waking on +++: Puls. Cycl. Sep.&#13;
+GENERALITIES COLD agg ++: Ars. Bar-c. Calc. Calc -ar. Calc -f. Calc-p. Calc-Sil. Caps. Caust. Chin. Dulc. Graph. Hep. Hyper. Kali -ar. Kali -c. Kali-p. Lyc. Mag-p. Mosch. Nat-ar. Nit-ac. Nux -v. Phos. Psor. Pyrog. Ran -b. Rhus-t. Rumex Sabad. Sep. Sil. Spig. Verat.&#13;
+EXTERNAL THROAT CLOTHING agg ++: Lach. Cench. Crot-c. Crot-h.&#13;
+THROAT PAIN burning+++: Acon. Ars. Canth. Caps. Caust. Euph. Kali-ar. Lac-c. Lyc. Merc-c. Mez. Nat-m. Sang. Sulph. &#13;
+THROAT PAIN burning night++: Bar-c. Nux-v.&#13;
+MIND FASTIDIOUS +++: Ars&#13;
+GENERALITIES FOODand DRINKS meat smoked desire++: Calc-p. Caust. Tub.&#13;
+GENERALITIES FOOD and DRINKS SWEETS DESIRE +++: Arg-n. Calc. Chin. Lyc. Sulph. (Χωρις bold ειναι και Ars.)&#13;
+GENERALITIES FOOD and DRINKS coffee desire+++: Ang. Alum. Ars. Aur. Bry. Caps. Carb-v. Chin. Con. Mez. Nux-m. Sel. Sep. Xan. Xanth.&#13;
+GENERALITIES FOOD and DRINKS milk aversion+: Nat-c. Lac-d. Mag-m. Staph.&#13;
+GENERALITIES FOOD and DRINKS yoghurt aversion+: Nat-s.&#13;
+GENERALITIES FOOD and DRINKS fruit aversion+: Ign.  ( χωρις bold ειναι και Ars.) FOOD and DRINKS pasta desire +++: Calc. Lach. Nat -m.&#13;
+GENERALITIES FOOD and DRINKS CHEESE DESIRE +++: Chel. Cist. Nit-ac. Phos.&#13;
+GENERALITIES FOOD and DRINKS ice cream desire +++: Phos. Calc. Eup-per. Puls. ( χωρις bold ειναι και Sulph. )&#13;
+GENERALITIES FOOD and DRINKS eggs aversion +++: Sulph.&#13;
+GENERALITIES FOOD and DRINKS pungent things aversion +++: Hep. Sulph.&#13;
+GENERALITIES FOOD and DRINKS fat aversion +++: Puls. Chin. Nat-m. Petr. Ptel.  ( χωρις bold ειναι και Sulph )&#13;
+GENERALITIES PERSPIRATION after-agg. +++: Chin. Merc. Nat -m. Ph-ac. Sep. Calc. Phos. Puls. Staph. Sulph.&#13;
+MIND WASHING desire to always washing her hands ++: Syph. Lac-c. Med. Nat -m. Psor. Sulph.&#13;
+MIND untidy+++: Sulph.&#13;
+</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5717/image.jpeg</file_url>
+      </repertorization>
+      <remedies_differentiation>Medhorrinum ή Sulphur</remedies_differentiation>
+      <prescription>
+        <remedy>Sulphur</remedy>
+        <potency>200ch</potency>
+        <regimen>1caps εφαπαξ</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-05-08 16:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Το προσωπο της ειναι περισσοτερο κοκκινο και εχει πολυ περισσοτερες εκκρισεις.&#13;
+Ειναι αγχωμενη γιατι νομιζει πως χειροτερευει, τις τρεις τελευταιες μερες αρνηθηκε να παει σχολειο σε αυτη την κατασταση.&#13;
+Θελει αλλη θεραπεια επιμονα.</reaction>
+      <analysis>καλη αντιδραση-υπηρχε επιδεινωση</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Placebo</remedy>
+        <potency>placebo</potency>
+        <regimen>placebo</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-05-08 16:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>καλή αντίδραση </reaction>
+      <analysis>Μεσα στο καλοκαιρι τα σπυρακια εξαφανιστηκαν εντελως και δεν εχου ξαναεμφανιστει ως τωρα. Το δερμα της ειναι λιγοτερο λιπαρο. Ειναι πιο χαρουμενη και αδυνατισε.</analysis>
+      <conclusion>αναμονη</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

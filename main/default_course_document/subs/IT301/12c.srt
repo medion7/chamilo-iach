@@ -1,0 +1,1768 @@
+﻿1
+00:00:19,375 --> 00:00:34,000
+Ora voglio continuare con le strategie che dobbiamo seguire in diverse circostanze.
+
+2
+00:00:39,468 --> 00:00:51,666
+Qualche volta facciamo la prescrizione in base a un sintomo, qualche volta in base a un quadro psicologico,
+
+3
+00:00:51,770 --> 00:01:03,041
+qualche volta in base ad altre cose. Le strategie possono essere diverse e dietro a questo c'è una logica.
+
+4
+00:01:04,354 --> 00:01:12,916
+Qual 'è la prima strategia che dovete seguire con tutti i pazienti?
+
+5
+00:01:14,750 --> 00:01:28,416
+La prima strategia è quella che Hahnemann menziona, quando parla della totalità dei sintomi.
+
+6
+00:01:29,708 --> 00:01:34,646
+Vai a vedere la totalità, trova la totalità e dai il rimedio che copre la totalità.
+
+7
+00:01:34,750 --> 00:01:45,958
+Come strategia, questa è la prima che seguiamo sempre. La prima strategia.
+
+8
+00:01:47,927 --> 00:01:59,104
+Perciò, una volta che avete seguito questa strategia, avete considerato tutti i sintomi del paziente, li avete repertorizzati,
+
+9
+00:01:59,208 --> 00:02:12,531
+scoprite che il rimedio non risponde, cosa fate?
+
+10
+00:02:13,802 --> 00:02:25,250
+Avete per esempio la totalità dei sintomi, 20 sintomi, ne considerate 16 e date Sepia,
+
+11
+00:02:27,593 --> 00:02:36,906
+ma se prendete i 4 rimanenti, che con altri 11 fanno 15, dareste Natrum muriaticum.
+
+12
+00:02:37,687 --> 00:02:53,218
+E se ne considerate 8, sui 20 totali, dareste Phosphorus se ne considerate 5 dareste Medorrhinum.
+
+13
+00:02:54,979 --> 00:03:00,760
+Ora potete dire che il rimedio è Sepia, perchè copre la maggior parte dei sintomi.
+
+14
+00:03:00,864 --> 00:03:09,896
+Ma molte volte dovete dire che non è Sepia. perchè lo dite? Perchè avete delle informazioni
+
+15
+00:03:10,000 --> 00:03:19,083
+dalla Materia Medica che vi mostrano che in realtà questo caso non ha l'aspetto di Sepia.
+
+16
+00:03:20,416 --> 00:03:30,208
+Cosa intendiamo quando diciamo che "non ha l'aspetto di Sepia? "Significa che portiamo dentro il quadro del rimedio un altro fatttore
+
+17
+00:03:30,312 --> 00:03:42,958
+un fattore nuovo nell'analisi del caso. Abbiamo, sì, la totalità, ma questa totalità è soltanto piatta sintomatologia,
+
+18
+00:03:43,062 --> 00:03:54,333
+la quale molte volte ci può fuorviare verso un rimedio che non è quello corretto.
+
+19
+00:03:55,354 --> 00:04:10,781
+Quindi rinunciate alla strategia. Voglio dire, Hahnemann ha detto di prendere nota della totalità dei sintomi,
+
+20
+00:04:10,885 --> 00:04:21,073
+ma la totalità non mi ha dato soluzione al caso, perciò cosa faccio?
+
+21
+00:04:21,177 --> 00:04:29,406
+Prenderò in considerazione un altro elemento, un'altra informazione che metterò nel quadro per vedere
+
+22
+00:04:29,510 --> 00:04:41,896
+la combinazione di questa strategia con un'altra strategia che viene chiamata dell' "Essenza del rimedio", e vedrò se la combinazione
+
+23
+00:04:42,000 --> 00:04:59,812
+delle due strategie darà risposta a questo problema. Molte volte si scopre che l'essenza
+
+24
+00:04:59,916 --> 00:05:12,541
+combacia realmente con Phosphorus, non con Sepia, non con Natrum muriaticum. Quindi, anche se la mera
+
+25
+00:05:12,646 --> 00:05:22,052
+sintomatologia indica Sepia o Natrum muriaticum, vado a prescrivere Phosphorus,
+
+26
+00:05:22,156 --> 00:05:34,625
+perchè il paziente ha l'immagine di Phosphorus. Lo fate consciamente o inconsciamente,
+
+27
+00:05:34,729 --> 00:05:41,646
+quando analizzate un caso.
+
+28
+00:05:41,750 --> 00:06:01,854
+Per esempio, il bambino di ieri. Se avessimo considerato la totalità dei sintomi
+
+29
+00:06:05,531 --> 00:06:18,802
+saremmo arrivati a Chamomilla, a Cina, ad altri rimedi.
+
+30
+00:06:21,239 --> 00:06:33,468
+In realtà non avevamo sintomi di Calcarea phosphorica, abbiamo detto però
+
+31
+00:06:33,573 --> 00:06:50,354
+che il quadro, per come si presentava, l'essenza di quel quadro, il mentale-emozionale del bambino sembrava essere Calc-ph.
+
+32
+00:06:50,458 --> 00:07:07,416
+Abbiamo lasciato da parte la totalità, per prescrivere in base alla sola essenza. In questo caso abbiamo prescritto in base all'essenza soltanto.
+
+33
+00:07:08,771 --> 00:07:22,531
+Tornate indietro al caso di ieri, quello della ragazza, abbiamo detto che l'immagine è di Phosphorus.
+
+34
+00:07:24,333 --> 00:07:33,187
+Se aveste considerato la totalità dei sintomi, avreste visto che vi portava a Phosphorus.
+
+35
+00:07:33,291 --> 00:07:43,333
+L'essenza porta a Phosphorus e questo è il motivo per cui direte con sicurezza quale sia il rimedio
+
+36
+00:07:43,437 --> 00:07:52,093
+che curerà quella persona, rimedio che copre sia la totalità che l'essenza, in questo caso Phosphorus.
+
+37
+00:07:52,198 --> 00:08:06,406
+Allora avrete molta fiducia in questo rimedio, perchè copre l'essenza di Phoshorus e la totalità
+
+38
+00:08:06,510 --> 00:08:17,364
+di Phosphorus. Beve molta acqua, ha la sensazione di stomaco vuoto, dorme sul fianco destro ecc.
+
+39
+00:08:17,468 --> 00:08:25,698
+Tutti questi sono semplici sintomi che, se repertorizzati, portano a Phosphorus, ma
+
+40
+00:08:25,802 --> 00:08:35,791
+viene descritto anche l'elemento empatico, verso la sofferenza altrui, in maniera evidente.
+
+41
+00:08:35,895 --> 00:08:47,333
+Ho detto Phosphorus. Anche l'improvviso collasso indica Phosphorus. Per voi, questo è un bel caso di Phosphorus.
+
+42
+00:08:53,312 --> 00:08:59,802
+-Ma allora per che cosa abbiamo bisogno della totalità dei sintomi?
+
+43
+00:09:09,771 --> 00:09:20,625
+-Forse non mi sono spiegato bene. Ho detto che la totalità vi darà il rimedio.
+
+44
+00:09:20,729 --> 00:09:28,291
+Prendete la totalità dei sintomi, avete il rimedio, chiaro, perfetto.
+
+45
+00:09:29,312 --> 00:09:37,739
+Ci sono casi, però, in cui questa strategia non vi darà un rimedio. Prendete in considerazione tutti i sintomi
+
+46
+00:09:37,843 --> 00:09:46,208
+ma non c'è un rimedio chiaro. In tali casi, considerate un altro fattore che è l'essenza.
+
+47
+00:09:47,000 --> 00:09:58,958
+E guardate il caso da quel punto di vista. E comunque ci sono casi che non troveranno soluzione nè dalla totalità, nè dall'essenza.
+
+48
+00:09:59,062 --> 00:10:10,416
+Questo significa che non avete un'essenza chiara e la totalità si adatta a 10 diversi rimedi. Allora cosa farete?
+
+49
+00:10:11,979 --> 00:10:28,177
+Questo è il momento di andare a vedere quelle che chiamiamo "Keynotes"- le note chiave.
+
+50
+00:10:36,802 --> 00:10:51,854
+Cosa significa? Significa che, ad esempio, nel caso del ragazzino, il keynote è molto forte per
+
+51
+00:10:51,958 --> 00:10:58,041
+Medorrhinum e può portarci a prescrivere Medorrhinum.
+
+52
+00:10:58,573 --> 00:11:05,312
+Dato che la totalità dei sintomi non ci darà una immagine chiara, e l'essenza non c'è,
+
+53
+00:11:05,416 --> 00:11:11,573
+ma abbiamo un forte keynote, facciamo la prescrizione in base al forte keynote.
+
+54
+00:11:19,000 --> 00:11:30,823
+Quello che voglio che abbiate chiaro è che dovete seguire una strategia dopo l'altra. Non si tratta di
+
+55
+00:11:30,927 --> 00:11:39,135
+prescrivere sulla base del keynote, "George prescrive solo in base alle essenze, solo in base a questo e a quello", no.
+
+56
+00:11:39,239 --> 00:11:49,854
+E' una questione di metodo di pensiero nell'analisi di un caso. Metodo di pensiero, voi fate i compiti,
+
+57
+00:11:49,958 --> 00:11:56,312
+fate la repertorizzazione, ci pensate su, vi chiedete se è questo o quel rimedio.
+
+58
+00:11:56,416 --> 00:12:05,375
+Non mi appare chiaro ma quel caso ha l'aspetto di Nux vomica.
+
+59
+00:12:06,260 --> 00:12:23,521
+Ma ho 5 sintomi di Nux vomica, ok, prendila. Questa è l'idea. Ma a volte viene fuori la totalità.
+
+60
+00:12:25,354 --> 00:12:34,729
+Oppure i sintomi keynote del rimedio, quindi datelo. Dimenticate l'essenza, dimenticate ogni altra cosa.
+
+61
+00:12:36,000 --> 00:12:50,718
+Allora voi seguite l'ordine delle strategie e arrivate a un punto, in alcuni casi, in cui non c'è soluzione
+
+62
+00:12:50,823 --> 00:12:59,416
+nè con la totalità, nè con l'essenza, nè col keynote. Questi sono i casi in cui avete prescritto molti rimedi.
+
+63
+00:13:01,916 --> 00:13:12,427
+C'è un altro paragrafo, par. 153, in cui Hahnemann
+
+64
+00:13:12,531 --> 00:13:27,916
+ci dà sì la totalità e l'essenza, ma riguardo i keynotes, nel par. 153, dice che si devono prendere
+
+65
+00:13:28,021 --> 00:13:38,666
+in considerazione soprattutto quei sintomi che sono strani, rari o peculiari. Questi sono i keynotes.
+
+66
+00:13:39,291 --> 00:13:50,208
+Questo è ciò che significano i keynotes. Sintomi strani, rari e peculiari di un rimedio. Quali sono?
+
+67
+00:13:50,312 --> 00:14:00,364
+Questi sono i sintomi che cerchiamo di darvi nella Materia Medica. Nella Materia Medica cerchiamo di combinare
+
+68
+00:14:00,468 --> 00:14:11,364
+l'essenza con i keynotes, perciò vi diamo un'informazione coerente per ogni rimedio e quindi
+
+69
+00:14:11,468 --> 00:14:21,718
+quando lo vedete nella persona, vi risuonerà nella mente. Qui Hahnemann sottolinea l'idea
+
+70
+00:14:21,823 --> 00:14:43,510
+di prendere nota con particolare attenzione dei keynotes. Vedete qui nel bambino con la bronchite:
+
+71
+00:14:44,802 --> 00:14:59,208
+il keynote è strano, raro e peculiare, è Medorrhinum. Ma avete un'altra impressione
+
+72
+00:14:59,312 --> 00:15:03,448
+del bambino che vi dà questo rimedio.
+
+73
+00:15:03,552 --> 00:15:13,760
+Considerando l'essenza, è l'insoddisfazione, al mattino mostra questa insoddisfazione.
+
+74
+00:15:13,864 --> 00:15:31,031
+Vedrete, se progredite sempre di più con le vostre esperienze, vedrete la differenza
+
+75
+00:15:31,135 --> 00:15:41,427
+tra l'insoddisfazione di Chamomilla, quella di Antimonium crudum,
+
+76
+00:15:41,531 --> 00:15:49,250
+l'insoddisfazione di Calcarea phosphorica, quella di Cina. Vedrete una differenza che
+
+77
+00:15:49,354 --> 00:16:07,666
+mi è difficile definire. Con Chamomilla c'è un aspetto di malignità.
+
+78
+00:16:13,021 --> 00:16:35,562
+Il bambino ha del malanimo ed è più aggressivo. Voi cercate di mettere lo stetoscopio
+
+79
+00:16:39,927 --> 00:16:46,291
+e il bambino Chamomilla reagirà così.
+
+80
+00:16:46,395 --> 00:16:49,385
+Voi siete gentili, ma... Questo è ciò che chiamiamo essenza.
+
+81
+00:16:58,906 --> 00:17:08,083
+Se dite: non ho visto questo comportamento. Insoddisfatto e lamentoso.
+
+82
+00:17:11,218 --> 00:17:33,781
+Riguardo Calcarea phosphorica...voi dite: andiamo fuori, facciamo due passi fuori, vuoi uscire? No. Questo è diverso.
+
+83
+00:17:33,885 --> 00:17:47,239
+Voglio dire che pensate a un rimedio o a un altro, per l'insoddisfazione, ma in realtà ci sono delle differenze.
+
+84
+00:17:50,333 --> 00:18:07,489
+Cina non è lamentoso. E' aggressivo e non sa quello che vuole.
+
+85
+00:18:07,593 --> 00:18:21,552
+Capricciosità. "Dammi questo", lo prende e lo butta via.
+
+86
+00:18:29,729 --> 00:18:41,250
+E' molto interessante come si vivono i casi, come si percepisce ogni rimedio.
+
+87
+00:18:50,198 --> 00:18:57,646
+Vedete che c'è l'aspetto dell'aggressività e allora andate a un altro rimedio. Vedete che c'è l'aspetto
+
+88
+00:18:57,750 --> 00:19:07,979
+del lamentarsi e andate ad un altro rimedio, vedete la capricciosità e andate ad un altro rimedio.
+
+89
+00:19:08,083 --> 00:19:17,312
+Ma tutti questi rimedi sono vicini uno all'altro e la valutazione è difficile.
+
+90
+00:19:30,864 --> 00:19:48,406
+Perciò, da un punto di vista pratico, cosa dovrete fare?Vi dico che ci sono dei casi in cui avete dato,
+
+91
+00:19:48,510 --> 00:19:53,604
+avete prescritto in base alla totalità, Sepia, avete prescritto Natrum muriatium, Phosphorus,
+
+92
+00:19:53,708 --> 00:20:10,521
+siete andati verso Medorrhinum a causa della posizione, ma nessun effetto. E poi scoprite che questo paziente ha avuto un incidente
+
+93
+00:20:10,625 --> 00:20:28,333
+15 anni fa e ha avuto un forte trauma alla testa, e ha uno o due sintomi di Arnica, e non avevate mai pensato ad Arnica,
+
+94
+00:20:28,437 --> 00:20:43,896
+perchè erano 2 sintomi su 20. Ma la causa è chiara e andate al "Fattore Causale" che può
+
+95
+00:20:44,000 --> 00:20:52,114
+richiedere una sola informazione, che non copre la totalità, non copre l'essenza,
+
+96
+00:20:52,218 --> 00:21:02,521
+non ci sono keynotes. Ma avete la causa chiara, dopo l'incidente ha iniziato con i mal di testa.
+
+97
+00:21:02,625 --> 00:21:12,208
+I mal di testa non hanno il quadro di Arnica, possono avere il quadro di Sepia,
+
+98
+00:21:12,312 --> 00:21:23,375
+o di Natrum muriaticum o di Phosphorus. Eppure è Arnica che funzionerà.
+
+99
+00:21:24,958 --> 00:21:43,291
+Conoscete la storia del pavone? La ferita alla testa? Il pavone che fu riportato in vita. Si conosceva la causa.
+
+100
+00:21:51,875 --> 00:22:03,604
+Una donna che diventa isterica e con l'isteria la lingua cade all' indietro e ostruisce le vie aeree, mentre è incosciente.
+
+101
+00:22:03,708 --> 00:22:09,531
+Le date Ignatia e lei torna in vita. Sapete queste cose.
+
+102
+00:22:16,312 --> 00:22:29,416
+Qui, quando parliamo di essenza, per lo più intendiamo l'immagine mentale-emozionale, il temperamento.
+
+103
+00:22:30,468 --> 00:22:38,854
+A volte, sebbene facciate la ricerca delle informazioni, non riuscite a trovare veramente il rimedio, anche se
+
+104
+00:22:38,958 --> 00:22:45,104
+avete provato tutte le strategie. Non riuscite a trovare il rimedio.
+
+105
+00:22:46,333 --> 00:23:07,000
+La quinta strategia è andare agli "Essenziali". Questa è una strategia molto importante.
+
+106
+00:23:12,218 --> 00:23:16,687
+Cosa sono gli essenziali?
+
+107
+00:23:27,041 --> 00:23:37,562
+-Volevo chiedere a proposito del quarto punto. Lei ha citato i mal di testa dovuti, per esempio, a incidente, ma molto spesso
+
+108
+00:23:37,666 --> 00:23:51,468
+i mal di testa hanno un rapporto con problemi dei denti. Non pensa mai ai denti?
+
+109
+00:23:52,437 --> 00:24:02,448
+-Questo è quello che chiamo fattore causale. La causa sono i denti.
+
+110
+00:24:02,552 --> 00:24:09,312
+-No, sto chiedendo se lei pensa mai che potrebbero esserci problemi ai denti.
+
+111
+00:24:09,416 --> 00:24:20,562
+-No. Ho sentito dire che a volte dopo un'estrazione dentaria c'è un miglioramento.
+
+112
+00:24:20,666 --> 00:24:27,708
+Ho anche sentito che molte persone hanno estratto il dente senza miglioramento.
+
+113
+00:24:29,260 --> 00:24:35,229
+-Se togliete tutti i denti...-Non tutti, i denti che non sono a posto.
+
+114
+00:24:35,333 --> 00:24:43,927
+L'ho fatto perchè sono un dentista e ho scoperto che c'è un cambiamento.
+
+115
+00:24:44,375 --> 00:24:55,031
+-Ho visto casi di nevralgia al trigemino, per esempio, in cui sono stati tolti tutti i denti.
+
+116
+00:24:55,135 --> 00:25:04,489
+Nessun effetto. E poi queste persone vengono e raccontano questa storia, ovviamente. In realtà noi ascoltiamo le storie di fallimenti.
+
+117
+00:25:04,593 --> 00:25:12,854
+Perchè, se hanno successo, non vengono da noi.
+
+118
+00:25:12,958 --> 00:25:22,448
+Mi hanno tolto un dente, pensavano che dipendesse dal dente, mi hanno tolto 1,2,3 denti, senza effetto. Mi hanno tolto tutti i denti.
+
+119
+00:25:22,552 --> 00:25:36,562
+Ricordo almeno 2 casi in cui avevano tolto tutti i denti, senza effetto. Perciò dicono, per esempio,
+
+120
+00:25:36,666 --> 00:25:47,187
+che se si riempie il dente con amalgama, mercurio, questo potrebbe avere effetto. Quindi cambiano il dente con l'oro,
+
+121
+00:25:47,291 --> 00:26:01,291
+Ho visto dei casi. Ma non ho visto alcun effetto. Ma, come dicevo, noi vediamo i fallimenti.
+
+122
+00:26:01,396 --> 00:26:13,291
+Ho letto nelle riviste che facendo questo c'è stato un effetto e io lo credo.
+
+123
+00:26:13,396 --> 00:26:21,718
+Ma la mia esperienza è di vedere i fallimenti. Chi ha fallito viene per essere trattato.
+
+124
+00:26:21,823 --> 00:26:31,750
+"Ho fatto questo, ho fatto quello, senza effetto. Puoi fare tu qualcosa?" E questi sono i casi che ho visto.
+
+125
+00:26:33,593 --> 00:26:56,541
+Dobbiamo procedere con queste strategie e vedere gli aspetti essenziali del rimedio.
+
+126
+00:26:56,646 --> 00:27:04,489
+Nelle Materia Medica che ho scritto c'è un capitolo dedicato agli Essenziali.
+
+127
+00:27:04,593 --> 00:27:13,625
+Negli Essenziali non descrivo solo l'essenza, ma, soprattutto con i rimedi piccoli, descrivo
+
+128
+00:27:13,729 --> 00:27:18,239
+la combinazione della patologia.
+
+129
+00:27:26,312 --> 00:27:54,437
+Significa, per esempio, che qualcuno soffre molto di otiti e allo stesso tempo ha problemi alle gengive.
+
+130
+00:27:57,000 --> 00:28:12,958
+Gengive che sanguinano, che recedono ecc. Prendiamo il fatto che abbiamo un rimedio che concretamente concentra l'azione
+
+131
+00:28:13,062 --> 00:28:24,406
+sulle orecchie e sulle gengive, possiamo prescriverlo sulla base degli aspetti essenziali di questo rimedio.
+
+132
+00:28:24,510 --> 00:28:36,093
+Qual'è il rimedio? Mercurius solubilis è il principale rimedio a cui penserete, al di là del fatto che
+
+133
+00:28:36,198 --> 00:28:47,468
+abbiate preso nota di tutti i dettagli dei sintomi. Magari Mercurius non esce, come rimedio, ma, considerato il fatto che la combinazione
+
+134
+00:28:47,573 --> 00:28:57,218
+delle patologie indica Mercurius, alla fine lo prescrivete e vedete l'effetto.
+
+135
+00:28:58,510 --> 00:29:28,729
+Vi farò un altro esempio. La raucedine insieme a un effetto nella cartilagine delle articolazioni,
+
+136
+00:29:42,354 --> 00:29:47,625
+Argentum metallicum.
+
+137
+00:29:57,437 --> 00:30:09,041
+In questo modo risolverete molti casi in cui cercate di trovare la patologia mentale. In realtà non c'è.
+
+138
+00:30:09,843 --> 00:30:17,354
+Cercate di trovare la totalità? Non c'è totalità. La totalità vi dà molte possibilità.
+
+139
+00:30:18,666 --> 00:30:34,218
+Non ci sono keynotes particolari. Ma ci sono aspetti essenziali, ad esempio avete eruzioni e ulcera duodenale,
+
+140
+00:30:35,531 --> 00:30:41,510
+a quali rimedi penserete per primi?
+
+141
+00:30:43,802 --> 00:30:52,177
+Antimonium crudum, Graphites, Kali bichromicum, Dulcamara...
+
+142
+00:30:52,906 --> 00:31:04,854
+I rimedi arrivano subito. Avete un caso che dice:" Ho sanguinato dallo stomaco.
+
+143
+00:31:04,958 --> 00:31:34,833
+Sono stato in ospedale 5 volte con l'ulcera che sanguinava". E contemporaneamente vi dà l'informazione che
+
+144
+00:31:49,416 --> 00:31:59,771
+ha una steatosi epatica.
+
+145
+00:32:09,625 --> 00:32:25,906
+Il rimedio che colpisce il fegato e allo stesso tempo causa emorragie assai facili è Phosphorus.
+
+146
+00:32:33,416 --> 00:32:44,729
+Perciò se c'è una patologia, vi concentrate su quella principale patologia.
+
+147
+00:32:45,750 --> 00:33:04,937
+Avete un caso che ha le ghiandole gonfie, le ghiandole cervicali, anche alcune mascellari e alcune inguinali
+
+148
+00:33:05,041 --> 00:33:27,312
+e se questa persona ha anche ipotiroidismo, e sta diventando obesa,
+
+149
+00:33:27,416 --> 00:33:32,104
+a quale rimedio penserete?
+
+150
+00:33:40,135 --> 00:33:56,073
+Calcarea carbonica. Aumento di peso, ipotiroidismo con gonfiore delle ghiandole.
+
+151
+00:33:56,177 --> 00:34:18,864
+Se le ghiandole sono gonfie, gonfie e dure e l'altro sintomo è stordimento, vertigini, capite che è Conium. Questo è l'orientamento.
+
+152
+00:34:20,687 --> 00:34:33,604
+Diventa molto importante che il vostro ragionamento si orienti così e qualche volta ignori la totalità,
+
+153
+00:34:33,708 --> 00:34:50,541
+la quale vi darebbe Sepia, perchè gli essenziali sono per Conium. Avete bisogno dell'informazione sugli essenziali,
+
+154
+00:34:51,354 --> 00:34:59,552
+perchè non abbiamo tutte le informazioni sul mentale-emozionale di tutti i rimedi, su ciò che possono causare.
+
+155
+00:34:59,750 --> 00:35:07,854
+Non ce l'abbiamo. Sarebbe interessante avere queste informazioni per tutti i rimedi, sapere
+
+156
+00:35:07,958 --> 00:35:17,333
+le peculiarità del livello mentale-emozionale di Cajuputum. Non ce l'abbiamo.
+
+157
+00:35:21,791 --> 00:35:30,625
+Esiste un tale rimedio? Cajuputum? No, l'ho sperimentato.
+
+158
+00:35:58,125 --> 00:36:09,437
+Questi pazienti hanno un sintomo peculiare, la lingua così grossa che riempie l'intera bocca.
+
+159
+00:36:19,583 --> 00:36:35,468
+Non sto scherzando. Un tale rimedio esiste, esiste questo sintomo che ha un'ansia tremenda per la salute.
+
+160
+00:37:02,198 --> 00:37:08,823
+Vedrete, che lo vogliate o no, che lo facciate consciamente o no,
+
+161
+00:37:08,927 --> 00:37:17,958
+vedrete che nell' Omeopatia Classica nella vostra valutazione, voi seguirete queste linee guida.
+
+162
+00:37:19,000 --> 00:37:26,687
+La prima cosa che cercate è la totalità dei sintomi. Poi andate al Repertorio, entrate nel programma
+
+163
+00:37:26,791 --> 00:37:32,698
+e cercate di vedere quale sia il rimedio e poi guardate gli aspetti che esprimono l'essenza.
+
+164
+00:37:32,802 --> 00:37:47,729
+Poi arrivano i keynotes per aggiustare il quadro. Quindi, molte volte, la vostra decisione sarà frutto della combinazione di queste strategie.
+
+165
+00:37:48,875 --> 00:38:04,333
+Un po' la totalità, un po' l'essenza, uno o due keynotes e anche la causalità può servire, perfetto.
+
+166
+00:38:14,468 --> 00:38:40,312
+Vi dirò qualche altra cosa. per cogliere l'essenza, avete bisogno dell'osservazione. Questa non vi verrà data
+
+167
+00:38:40,416 --> 00:38:50,750
+dal paziente stesso. Spesso avrete bisogno dell'osservazione per arrivare all'essenza.
+
+168
+00:38:51,687 --> 00:39:01,468
+I keynotes vi vengono dati dal paziente stesso. La causalità è facile da sapere se raccogliete l'anamnesi.
+
+169
+00:39:01,573 --> 00:39:11,854
+Gli essenziali servono per chiarire tutto il resto, per innescare il ragionamento, fermarsi un momento e dire:
+
+170
+00:39:11,958 --> 00:39:23,448
+"Gli essenziali qui sono questi. Cosa accade a questo organismo che ha stomaco e pelle in cattivo stato,
+
+171
+00:39:23,552 --> 00:39:27,177
+sono colpiti stomaco e pelle".
+
+172
+00:39:33,239 --> 00:39:40,177
+Vi darò un esempio, tornando a Phosphorus, visto che stiamo studiando un caso di Phosphorus.
+
+173
+00:39:40,281 --> 00:39:59,271
+Vi farò l'esempio di una bimba Phosphorus. Era figlia di due medici che studiavano
+
+174
+00:39:59,375 --> 00:40:16,698
+con me 20 anni fa. Una bimba piccola che si ammalò, le prescrissero molti rimedi, senza effetto.
+
+175
+00:40:18,906 --> 00:40:29,916
+E chiamarono il pediatra. Diagnosticò encefalomielite, la bimba aveva la febbre alta
+
+176
+00:40:30,021 --> 00:40:40,604
+aveva il collo rigido e fu portata in ospedale. Da lì, loro mi chiamarono
+
+177
+00:40:40,708 --> 00:40:49,583
+al telefono, mi raccontarono cosa stava succedendo, che la bimba aveva un' encefalomielite
+
+178
+00:40:52,260 --> 00:41:03,562
+e mi chiesero di andare a visitarla. Andai e la piccola aveva i tipici sintomi dell'encefalomielite,
+
+179
+00:41:25,333 --> 00:41:48,937
+era cosciente ma in uno stato di semi-stupore. Poi la madre mi descrisse il caso,
+
+180
+00:41:49,041 --> 00:42:03,781
+i sintomi, febbre e i sintomi patologici, non potevo fare nulla.
+
+181
+00:42:03,885 --> 00:42:14,271
+Mi raccontò quanto fosse coraggiosa questa bimba, mentre la pungevano ripetutamente
+
+182
+00:42:14,375 --> 00:42:25,156
+per prendere il sangue, lei non reagiva per niente, una bimba molto coraggiosa.
+
+183
+00:42:31,135 --> 00:42:41,156
+Io dissi: "Coraggiosa? "Vedete, era un momento molto critico per me, bisogna pensare in fretta, perchè il bambino
+
+184
+00:42:41,260 --> 00:42:50,646
+ha la febbre, cosa potrà fare o non fare il cortisone? Bisogna decidere in fretta.
+
+185
+00:42:51,104 --> 00:43:05,666
+E la madre non mi aveva dato altri sintomi tranne il coraggio. Non mi convinceva.
+
+186
+00:43:06,416 --> 00:43:17,093
+Di solito un bambino a cui viene fatta un'iniezione piange. Avevano prelevato il sangue molte volte,
+
+187
+00:43:17,198 --> 00:43:39,239
+e prelevato il liquido cerebrale e la bambina non aveva reagito per nulla. Molto strano.
+
+188
+00:43:39,979 --> 00:43:58,854
+Nel frattempo la madre stava seduta accanto alla bambina e le teneva la mano. Ho detto alla madre di
+
+189
+00:43:58,958 --> 00:44:10,843
+togliere la mano, la bambina era in uno stato di semi-stupore. La madre ha tolto la mano,
+
+190
+00:44:17,135 --> 00:44:31,073
+le ho detto di riprenderla, poi toglierla, poi riprenderla. Stop.
+
+191
+00:44:31,177 --> 00:44:42,698
+Molto bene. Ho detto: "Quando vuoi che stia meglio, stasera o domani?" Lei piangeva: "Stai scherzando?"
+
+192
+00:44:42,802 --> 00:44:59,291
+"No, sono serio. Stasera o domani?" e lei "Non ha importanza". "Ok, dalle Phosphorus 10M"
+
+193
+00:45:00,771 --> 00:45:18,448
+Perchè? Perchè la bambina aveva una tale ansia, una tale paura che la paralizzava da non poter nemmeno reagire alle punture.
+
+194
+00:45:18,552 --> 00:45:30,187
+La paura e l'ansia erano così grandi da non farle sentire le punture e aveva un desiderio di vicinanza
+
+195
+00:45:30,291 --> 00:45:41,312
+così forte che voleva che la madre le tenesse la mano per rassicurarla.
+
+196
+00:45:41,416 --> 00:45:53,375
+Questi due sintomi, l'ansia e il desiderio di essere tenuta per mano, erano così forti che indicavano Phosphorus.
+
+197
+00:45:54,771 --> 00:46:04,437
+Questa è l'osservazione basata sull'essenza del caso. Quindi ha preso Phosphorus alle 11 del mattino,
+
+198
+00:46:04,541 --> 00:46:13,448
+Phosphorus 10M, e poi le ho chiesto di chiamarmi verso sera per dirmi come stava. La sera ha chiamato il padre,
+
+199
+00:46:13,552 --> 00:46:29,802
+anche lui omeopata. Mi ha detto: "Sai cosa è successo? Sai cosa ha chiesto di mangiare?"
+
+200
+00:46:29,906 --> 00:46:43,291
+Erano 2 giorni che la bambina non mangiava. "Cosa ha chiesto di mangiare? Gelato" "Vai a prenderle il gelato" gli ho detto.
+
+201
+00:46:44,291 --> 00:47:01,073
+Il giorno successivo, alle 11, di nuovo la febbre cominciò a salire. Mi telefonarono dicendo che c'era una recidiva. Dissi di dare la 50M.
+
+202
+00:47:01,177 --> 00:47:17,229
+Le hanno dato la 50M e alla sera la bambina stava meglio. Aveva preso molti altri rimedi, non dimenticatelo, senza effetto, perchè?
+
+203
+00:47:17,333 --> 00:47:26,896
+Erano rimedi della totalità. Che cosa mancava? La madre non vedeva l'immagine complessiva della bambina,
+
+204
+00:47:27,000 --> 00:47:41,083
+non vedeva che la bambina era molto in ansia per la salute. Ascoltava tutto ciò che i medici facevano su di lei, pensava di stare per morire.
+
+205
+00:47:42,104 --> 00:47:51,437
+Hanno un'ansia così grande per la salute, i pazienti Phosphorus, che sono paralizzati dalla paura.
+
+206
+00:47:52,198 --> 00:47:59,250
+Ecco in che stato era la bambina. Voi state imparando questo.
+
+207
+00:48:00,708 --> 00:48:13,031
+- Non ho capito la differenza tra essenza e keynotes. I sintomi nel caso Phos
+
+208
+00:48:13,135 --> 00:48:19,468
+erano sintomi dell'essenza o erano keynotes?
+
+209
+00:48:35,750 --> 00:48:46,312
+- L'essenza si riferisce per lo più all'immagine mentale-emozionale generale. L'aspetto mentale-emozionale
+
+210
+00:48:46,416 --> 00:48:58,698
+della persona in ogni patologia, che cos'è? Essere ansiosi con questo tipo di ansia o quel tipo di ansia,
+
+211
+00:48:58,802 --> 00:49:04,562
+essere irritabili, essere aggressivi, con questo tipo o quel tipo di irritabilità, aggressività. Questa è l'essenza.
+
+212
+00:49:04,666 --> 00:49:15,291
+I keynotes sono sintomi, possono essere mentali, emozionali, ma anche fisici.
+
+213
+00:49:15,396 --> 00:49:26,896
+Sintomi che sono particolari di quel rimedio. Significa che quando andate a vedere nel Repertorio,
+
+214
+00:49:27,000 --> 00:49:40,541
+urina simile a yogurt, vengono fuori pezzi di materia bianca, sarà solo Phosphoricum acidum.
+
+215
+00:49:41,291 --> 00:49:50,333
+Questo è un keynote di Phosphoricum acidum. Quindi, quando il paziente vi dice che l'urina è come yogurt, andate a vedere nel Repertorio
+
+216
+00:49:50,437 --> 00:50:03,333
+e c'è solo Ph-ac., è meglio darlo. Il keynote è quando il bambino, per esempio, dorme in posizione genu-pettorale.
+
+217
+00:50:03,437 --> 00:50:11,104
+Avevamo solo un rimedio, Medorrhinum. Ora abbiamo qualche altro rimedio
+
+218
+00:50:11,208 --> 00:50:18,823
+che ha questa caratteristica di dormire in quella posizione. E penso che ce ne siano altri ancora,
+
+219
+00:50:18,927 --> 00:50:28,906
+perchè molti bambini dormono in quella posizione. Non tutti sono Medorrhinum, ma questo è un keynote di Medorrhinum.
+
+220
+00:50:30,218 --> 00:50:59,135
+Se la persona non ama le ostriche, allora si tratta di un keynote di Phosphorus.
+
+221
+00:51:10,354 --> 00:51:39,208
+Definiamo meglio i keynotes. Un keynote è un sintomo strano, raro e peculiare, o abbiamo bisogno di una definizione più dettagliata?
+
+222
+00:51:44,177 --> 00:51:58,031
+Vi faccio l'esempio di un sintomo strano, raro e peculiare. Il paziente, quando scende le scale, perde gocce di urina,
+
+223
+00:51:58,135 --> 00:52:07,489
+perdita involontaria di urina. Cercate questo sintomo.
+
+224
+00:52:09,802 --> 00:52:24,979
+Questo è un keynote soprattutto di Pulsatilla. Pulsatilla non vuole uscire fuori, è molto timida.
+
+225
+00:52:27,041 --> 00:52:38,937
+Vedete che ci sono pochi rimedi. Abbiamo 2,3,4,6 rimedi e un rimedio è forte per questo sintomo,
+
+226
+00:52:39,041 --> 00:52:58,552
+un sintomo peculiare, allora diciamo che Pulsatilla ha un keynote che è perdita involontaria di urina mentre sta seduto.
+
+227
+00:53:02,375 --> 00:53:11,208
+Non è Causticum, come vi aspettereste, che ha la paralisi della vescica. E' Pulsatilla.
+
+228
+00:53:12,250 --> 00:53:26,083
+Ma perdita involontaria di urina mentre scende le scale, anche se lo cercate in tutta la Materia Medica, non lo troverete.
+
+229
+00:53:27,573 --> 00:53:36,812
+Quindi, per avere una definizione del keynote, avete bisogno di avere un sintomo raro, strano, peculiare,
+
+230
+00:53:36,916 --> 00:53:49,468
+e in più che questo sintomo sia stato registrato nei provings. Altrimenti magari avete bellissimi,
+
+231
+00:53:49,958 --> 00:53:58,271
+strani, rari e peculiari sintomi, ma non li potete usare. Perchè non sono registrati nella Materia Medica,
+
+232
+00:53:58,375 --> 00:54:04,625
+non sono registrati nel Repertorio, non riuscite a trovarli e non sono utili.
+
+233
+00:54:05,927 --> 00:54:16,937
+Quindi i keynotes con cui di solito lavoriamo, devono avere questo elemento: strano, raro, peculiare e anche
+
+234
+00:54:17,041 --> 00:54:28,333
+essere registrati nella Materia Medica e nel Repertorio come sintomi peculiari di pochi o solo un rimedio.
+
+235
+00:54:28,750 --> 00:54:45,583
+Questa è la definizione di keynote. Devono essere registrati per pochi rimedi, saranno pochi i rimedi ad averlo
+
+236
+00:54:45,687 --> 00:54:54,333
+perchè magari voi pensate che sia un sintomo strano, raro e peculiare, andate a vedere nel Repertorio e
+
+237
+00:54:54,437 --> 00:55:12,312
+vedete che è stato registrato per 100 rimedi: non è raro, perciò non si tratta di keynote.
+
+238
+00:55:12,416 --> 00:55:18,416
+anche se vi sembra molto strano come sintomo.
+
+239
+00:55:19,468 --> 00:55:27,625
+Nella Materia Medica è registrato da troppi rimedi; non è un keynote.
+
+240
+00:55:28,541 --> 00:55:54,052
+provate a trovare "maligno". Lo vedete in 150 rimedi. pensate che una persona sia maligna, un sintomo molto strano, raro e peculiare.
+
+241
+00:55:54,156 --> 00:56:22,604
+Non lo è. E' sconcertante vedere l'immagine dell'umanità in questa rubrica. Che Dio ci aiuti. Maligno.
+
+242
+00:56:22,708 --> 00:56:32,468
+Chi non è maligno? Non è così strano, raro e peculiare. E' un sintomo comune.
+
+243
+00:56:36,552 --> 00:56:54,573
+Anac., Ars., Nat-m, Nux-v., Stram, dov'è Sepia, non è tra questi? Lasciate perdere.
+
+244
+00:56:57,198 --> 00:57:01,885
+Sepia è scritto a lettere minuscole.
+
+245
+00:57:16,198 --> 00:57:59,812
+Staph., Phos., Tub., Lach dovrebbero stare più in alto, al terzo grado, Sep dovrebbe stare al secondo grado.
+
+246
+00:58:00,333 --> 00:58:10,875
+In ogni caso la malignità in ciascuno di questi rimedi ha un proprio colore. Cambia da un rimedio all'altro.
+
+247
+00:58:10,979 --> 00:58:26,177
+La malignità di Arsenicum non è la stessa di Stramonium. E quella di Tub non è la stessa di Sepia.
+
+248
+00:58:27,375 --> 00:58:32,916
+Ciascuna ha il proprio colore.
+
+249
+00:58:53,843 --> 00:59:17,531
+E' molto strano, raro e peculiare che un paziente vi dica che è maligno. Non l'ho mai sentito dire da nessun paziente finora.
+
+250
+00:59:20,573 --> 00:59:31,823
+- Perciò il keynote di Pulsatilla è per il caso precedente e per altri cinque.
+
+251
+00:59:31,927 --> 00:59:45,521
+-Ma solo Pulsatilla è a lettere maiuscole. Pulsatilla spicca e ce ne sono pochi altri. Se il sintomo è veramente forte,
+
+252
+00:59:45,625 --> 00:59:53,906
+il primo rimedio a cui pensare è Pulsatilla. Nell'analisi avrete quel sintomo.
+
+253
+00:59:54,416 --> 01:00:09,646
+Diciamo, qui avete un caso, dove tra gli altri sintomi c'è la perdita involontaria di urina mentre sta seduto.
+
+254
+01:00:09,750 --> 01:00:26,510
+E Pulsatilla nell'analisi viene fuori con 6 sintomi. Ma con un keynote forte come questo, Puls. è il rimedio da prescrivere.
+
+255
+01:00:35,885 --> 01:00:46,062
+- Se ci sono keynotes  molto specifici per un certo rimedio, sono automaticamente registrati al 3zo grado nel Repertorio?
+
+256
+01:00:59,552 --> 01:01:11,666
+-No. Ci sono keynotes che possono stare al 1mo grado. Cosa significa 3zo grado?
+
+257
+01:01:11,771 --> 01:01:22,239
+Terzo grado nel Repertorio ha a che fare con la frequenza e l'intensità negli sperimentatori.
+
+258
+01:01:23,198 --> 01:01:35,666
+E la frequenza e l' intensità del sintomo è un'osservazione clinica. Significa che molti sperimentatori hanno detto
+
+259
+01:01:36,489 --> 01:01:49,229
+chiaramente di aver avuto quel sintomo. Quel sintomo viene registrato in maiuscolo. Se nessun altro rimedio ha quel sintomo,
+
+260
+01:01:49,333 --> 01:02:01,229
+allora diventa un sintomo importante. Se è stato registrato in altri rimedi, ma non così forte,
+
+261
+01:02:01,333 --> 01:02:08,187
+verranno indicati altri rimedi, ma al 1mo o 2ndo grado, non in maiuscolo.
+
+262
+01:02:08,291 --> 01:02:21,291
+Ma se nel proving di un rimedio molti sperimentatori hanno detto di aver perso urina mentre stavano seduti,
+
+263
+01:02:21,396 --> 01:02:27,802
+allora questo diventa un sintomo forte ed è registrato al terzo grado nel Repertorio.
+
+264
+01:02:27,906 --> 01:02:39,437
+In realtà la registrazione nel Repertorio è una questione di valutazione dell'informazione da parte degli sperimentatori
+
+265
+01:02:39,541 --> 01:02:45,875
+e anche della valutazione che arriva dai pazienti.
+
+266
+01:02:45,979 --> 01:03:01,031
+Quanti pazienti Pulsatilla soffrono il caldo? Molti. Diventa un sintomo forte, maiuscolo.
+
+267
+01:03:01,135 --> 01:03:08,427
+Pulsatilla, peggiora col caldo. Quanti pazienti Pulsatilla migliorano all'aria aperta?
+
+268
+01:03:08,531 --> 01:03:23,916
+Molti, l'80%. Maiuscolo. Quanti pazienti perdono urina da seduti, tra i pazienti Pulsatilla?
+
+269
+01:03:24,906 --> 01:03:37,427
+Non molti, questo è un sintomo strano, raro e peculiare e su 100 pazienti Pulsatilla,
+
+270
+01:03:37,531 --> 01:03:45,593
+viene registrato in 10, 12 casi, quindi diventa un keynote forte.
+
+271
+01:03:53,021 --> 01:04:08,979
+- George, sto facendo confusione, perchè prima lei ha detto che le essenze sono registrate dall'osservazione e
+
+272
+01:04:09,083 --> 01:04:15,760
+i keynotes dai pazienti. Poi ha parlato di strano, raro e peculiare, con l'esempio
+
+273
+01:04:15,864 --> 01:04:25,750
+della malignità che non verrà espressa dal paziente, perciò c'è una distinzione?
+
+274
+01:04:26,750 --> 01:04:37,073
+No. Ho detto: maligno sembra essere un aspetto strano, raro e peculiare. Tuttavia non è strano, raro e peculiare,
+
+275
+01:04:37,177 --> 01:04:52,823
+è comune a molti rimedi. Questo è un punto. E in questo caso non stavamo parlando di un keynote.
+
+276
+01:04:57,771 --> 01:05:06,979
+Di solito i keynotes sono registrati dal paziente, ma abbiamo detto che abbiamo tre fonti di informazione.
+
+277
+01:05:07,218 --> 01:05:22,718
+Il paziente, i parenti, il medico. L'essenza di solito è un'osservazione del medico,
+
+278
+01:05:22,823 --> 01:05:39,906
+un'osservazione dei parenti, degli altri. La persona in sè, per esempio Nux vomica è molto irritabile.
+
+279
+01:05:42,510 --> 01:05:51,854
+Vi faccio un esempio. Stavo osservando un professore di chirurgia con mal di testa severi e cronici.
+
+280
+01:05:51,958 --> 01:05:59,583
+E vicino a me c'era George Papaphilippou che è chirurgo e anche Omeopata.
+
+281
+01:05:59,687 --> 01:06:10,718
+Lui aveva studiato col professore, operava con lui e me lo portò in osservazione.
+
+282
+01:06:10,823 --> 01:06:22,687
+Io vedo questa persona molto piacevole, sta seduto molto calmo. E' obeso, calmo e garbato.
+
+283
+01:06:22,729 --> 01:06:37,416
+Mi riferisce i sintomi del mal di testa soltanto e non ne ricavo nulla. Provo a chiedere una cosa, poi un'altra, niente, tutto normale.
+
+284
+01:06:40,823 --> 01:06:50,729
+Ma alla fine mi viene l'idea, forse è Nux vomica. Ma sembra così calmo.
+
+285
+01:06:50,812 --> 01:06:58,104
+Gli chiedo: "Sei irritabile" Dice di no.
+
+286
+01:06:58,208 --> 01:07:16,562
+E poi George mi fa un cenno con la gamba, come per dirmi che ho indovinato. Gli dico: "Intendo dire, non urli?" lui non urlava,
+
+287
+01:07:16,666 --> 01:07:25,250
+ma dentro di sè, se qualcuno gli passava lo strumento sbagliato, immediatamente gli montava la rabbia.
+
+288
+01:07:26,000 --> 01:07:35,104
+Ma non si faceva notare dagli altri. George lavorando con lui aveva notato che era molto rabbioso e irritabile.
+
+289
+01:07:35,208 --> 01:07:42,646
+Lui aveva risposto di no perchè non esprimeva esternamente la sua rabbia, nè la sua irritabilità.
+
+290
+01:07:45,708 --> 01:07:56,395
+Perciò con quella informazione ho prescritto Nux vomica e i mal di testa sono stati curati.
+
+291
+01:07:59,958 --> 01:08:08,541
+- Questa è una domanda di teoria. Diciamo di avere un caso in cui la totalità dei sintomi porta
+
+292
+01:08:08,645 --> 01:08:21,750
+a un rimedio chiaro ma l'essenza è in contraddizione, è un caso possibile e cosa fare?
+
+293
+01:08:22,531 --> 01:08:33,437
+-Prima date il rimedio della totalità. Se fallisce, allora andate come seconda battuta all'essenza.
+
+294
+01:08:34,489 --> 01:08:44,854
+L'essenza è qualcosa che viene dall'esperienza ed è molto difficile da trasferire.
+
+295
+01:08:44,958 --> 01:08:53,260
+Vi trasferisco un'impressione. Non sono sicuro di riuscire a trasferire sempre la giusta impressione, corretto?
+
+296
+01:08:53,750 --> 01:09:02,406
+Quindi quando vedete la vera situazione...io dico "Questa è Ambra grisea" e voi rispondete "L'avevo pensato", ecco perchè dico
+
+297
+01:09:02,510 --> 01:09:09,156
+prima la totalità, se avete una totalità chiara, date quel rimedio. poi andrete all'essenza.
+
+298
+01:09:10,625 --> 01:09:25,958
+Gli essenziali sono più facili. Fatti. L'essenza descrive l'anima, qualcosa di intangibile.
+
+299
+01:09:28,437 --> 01:09:36,333
+Questa mia esperienza non è ancora la vostra esperienza, fino a quando non vedete un vero caso e prescrivete il rimedio.
+
+300
+01:09:36,437 --> 01:09:46,739
+Ricevo lettere dai miei studenti che dicono: "E' stato bello, ho dato una dose di Agaricus e ha agito benissimo sull'essenza".
+
+301
+01:09:48,260 --> 01:10:02,041
+Quello studente aveva colto l'essenza. Ma non sono sicuro che ognuno di voi stia afferrando veramente l'essenza di quello che dico.
+
+302
+01:10:02,916 --> 01:10:08,208
+-Lei prenderebbe un rimedio in base all'essenza?
+
+303
+01:10:09,260 --> 01:10:23,333
+- Lasciate fuori il mio caso, perchè prenderei quello che la mia esperienza mi mostra che dovrei prendere in quel momento.
+
+304
+01:10:27,218 --> 01:10:42,875
+E non sempre, tuttavia. Vi dirò di un caso a Londra. Ero a Londra e mi fu presentato un caso
+
+305
+01:10:42,979 --> 01:10:49,489
+senza alcuna essenza, senza sintomi generali, solo sintomi patologici.
+
+306
+01:10:50,802 --> 01:11:00,687
+Ho prescritto sulla base della patologia, ho prescritto in base agli essenziali, sentivo che aveva gli aspetti essenziali di quel rimedio.
+
+307
+01:11:03,573 --> 01:11:10,031
+In settembre abbiamo parlato del paziente che riceve un rimedio che non è quello corretto e poi
+
+308
+01:11:10,135 --> 01:11:19,229
+sviluppa sintomi di proving. Significa che ha questi sintomi di proving oltre ai suoi sintomi originari.
+
+309
+01:11:19,333 --> 01:11:25,270
+E lei dice che, se repertorizziamo nuovamente, non dobbiamo prendere in considerazione i sintomi nuovi che ha sviluppato.
+
+310
+01:11:25,375 --> 01:11:32,250
+Ma nell'Organon, Hahnemann dice che si dovrebbero includere i nuovi sintomi
+
+311
+01:11:32,354 --> 01:11:37,396
+nella repertorizzazione quando si cerca un nuovo rimedio.
+
+312
+01:11:40,708 --> 01:11:50,698
+-Prima di tutto, non è sempre vero che ogni volta che date un rimedio sbagliato avete provings di questo rimedio.
+
+313
+01:11:50,802 --> 01:11:58,000
+Perchè date l'impressione che io abbia detto che ogni volta che si dà un rimedio sbagliato ci sia un proving.
+
+314
+01:11:58,104 --> 01:12:17,937
+In alcuni casi avrete sintomi proving del rimedio dato, più i sintomi del paziente.
+
+315
+01:12:18,041 --> 01:12:27,073
+E io dico, in tal caso tornate indietro al caso originale, ristudiatelo e date un altro rimedio.
+
+316
+01:12:27,177 --> 01:12:38,604
+Questo è diverso rispetto a quando date un rimedio che non è corretto ma non sapete ancora se è giusto o sbagliato,
+
+317
+01:12:38,708 --> 01:12:52,135
+e vi cambia alcuni dei sintomi del caso senza curarlo. Questo è un caso diverso in cui
+
+318
+01:12:52,239 --> 01:13:03,885
+dovete prendere in considerazione i nuovi sintomi che si sono sviluppati, e solo quelli.
+
+319
+01:13:05,104 --> 01:13:08,573
+Vedete la differenza? -No.
+
+320
+01:13:24,708 --> 01:13:40,229
+- Avete un caso con questi sintomi. Date il rimedio sbagliato che produce certi sintomi
+
+321
+01:13:40,333 --> 01:13:55,052
+del rimedio che avete dato. Questi sono i nuovi sintomi che produce, senza cambiare gli altri.
+
+322
+01:13:55,156 --> 01:14:08,125
+In questo caso dovete tornare indietro al caso originale e cercare di trovare un altro rimedio che sia adatto all'immagine.
+
+323
+01:14:10,958 --> 01:14:23,802
+Andiamo ora a vedere il caso numero 2, quello in cui avete la stessa immagine e avete dato un rimedio
+
+324
+01:14:23,906 --> 01:14:36,396
+che non ha curato ma ha modificato il caso stesso. Come? Così.
+
+325
+01:14:51,666 --> 01:15:04,073
+Ha cambiato il caso così. Il paziente ha persino un sintomo che è più disturbante ora, più forte,
+
+326
+01:15:04,177 --> 01:15:09,416
+ma alcuni degli altri sintomi sono scomparsi, alcuni sono cambiati.
+
+327
+01:15:10,531 --> 01:15:45,802
+In casi come questo dovete studiare questa immagine e dare un secondo rimedio.
+
+328
+01:15:49,416 --> 01:15:54,375
+Qui è un altro rimedio.
+
+329
+01:15:58,000 --> 01:16:09,239
+Date questo rimedio, ignorate questa parte e tornate al caso originale, lo studiate e date un altro rimedio.
+
+330
+01:16:17,583 --> 01:16:27,312
+- Ho un'altra domanda su questo. Alcuni danno 7 CH ogni giorno e poi,
+
+331
+01:16:27,416 --> 01:16:37,802
+anche se il rimedio giusto, dopo un po' il paziente inizia ad avere nuovi sintomi del rimedio
+
+332
+01:16:37,906 --> 01:16:47,896
+dato. Allora si fa confusione perchè non si sa se andava bene,
+
+333
+01:16:48,000 --> 01:16:53,062
+se era un proving, vorrei chiarire questo punto.
+
+334
+01:16:53,083 --> 01:17:06,781
+-Sono anch'io confuso da questa domanda. Lascia perdere il paragrafo. Fammi l'esempio.
+
+335
+01:17:06,885 --> 01:17:15,250
+- Una persona viene dall'Omeopata, il quale decide che deve prendere ogni giorno 9 CH di un certo rimedio.
+
+336
+01:17:15,354 --> 01:17:16,625
+-Rimedio sbagliato?
+
+337
+01:17:16,729 --> 01:17:23,479
+No, rimedio giusto. E' il trattamento che lui prescrive. Il primo mese va tutto bene.
+
+338
+01:17:23,583 --> 01:17:35,646
+Il secondo mese tutto bene e poi all'improvviso inizia ad avere sintomi di questo rimedio come fosse un proving.
+
+339
+01:17:35,750 --> 01:17:46,781
+-Si, è corretto. Questo è ciò che accadrà. Se continuate, benchè la persona stia bene,
+
+340
+01:17:46,885 --> 01:17:52,354
+se continuate a dare ogni giorno lo stesso rimedio, causerete un qualche proving.
+
+341
+01:17:52,458 --> 01:18:00,416
+Perciò alla fine la persona svilupperà sintomi del rimedio che sta ripetendo. Non sempre.
+
+342
+01:18:03,750 --> 01:18:10,896
+Ci sono casi in cui la ripetizione non ha effetti di questo tipo. Ma nei casi di sensibilità
+
+343
+01:18:11,000 --> 01:18:17,271
+sicuramente vedrete apparire sintomi del rimedio.
+
+344
+01:18:22,281 --> 01:18:29,718
+-Questo significa che, se ho capito giusto, il secondo esempio che ha segnato alla lavagna, è il caso
+
+345
+01:18:29,823 --> 01:18:38,531
+in cui diamo un rimedio simile, ma non il più simile, il simillimum, giusto?
+
+346
+01:18:39,573 --> 01:19:01,531
+-Non solo quello. Ma se lei va avanti con questa logica, sbaglierà. Fatemi chiarire la situazione.
+
+347
+01:19:03,375 --> 01:19:17,437
+Un rimedio ha cambiato l'immagine del paziente, l'immagine originale è stata cambiata dal rimedio. Questo non significa che il rimedio sia scorretto.
+
+348
+01:19:18,198 --> 01:19:31,229
+Significa che questo caso ha bisogno di una serie di rimedi. Uno, due, tre, forse quattro rimedi.
+
+349
+01:19:31,333 --> 01:19:41,791
+In casi del genere ci sono cambiamenti man mano che la persona va verso la cura.
+
+350
+01:20:07,135 --> 01:20:19,187
+-Una domanda sul primo caso. Se ci sono sintomi proving significa che il paziente è sensibile?
+
+351
+01:20:19,291 --> 01:20:30,760
+-Significa che è un rimedio vicino. E' una sfortuna. Non è una cosa buona quello che è successo qui. E' una sfortuna.
+
+352
+01:20:30,864 --> 01:20:38,333
+Quello che succede qui è corretto. Non c'è altra via.
+
+353
+01:20:39,354 --> 01:20:51,489
+-Si, ma penso che se fosse sensibile, ci sarebbe un cambiamento. Se ci sono altri sintomi, se i sintomi
+
+354
+01:20:51,593 --> 01:21:03,646
+sono cambiati, la malattia è cambiata oppure la risposta è anche cambiata. Potrebbe essere meglio
+
+355
+01:21:03,750 --> 01:21:08,604
+aspettare finchè i sintomi proving scompaiono.
+
+356
+01:21:08,708 --> 01:21:23,093
+-E' senz'altro meglio. Se non si può aspettare, dipende dal caso, se è un caso urgente, dovete dare qualcosa.
+
+357
+01:21:23,198 --> 01:21:30,125
+Se non è urgente, la cosa migliore è aspettare e i sintomi proving recederanno.
+
+358
+01:21:30,906 --> 01:21:55,354
+Ed è anche bene in questo caso che il paziente beva caffè oppure, in caso di urgenza, che lo trattiate allopaticamente.
+
+359
+01:21:57,500 --> 01:22:10,104
+Il farmaco allopatico vi riporterà al caso originale, purchè non sia troppo pesante.
+
+360
+01:22:16,021 --> 01:22:25,385
+Allopaticamente potete ovviamente causare molti danni, ma se la situazione è fallimentare si farà così.
+
+361
+01:22:25,489 --> 01:22:37,687
+Questo è ciò che accade. Il medico dirà al paziente che non risponde ai rimedi omeopatici.
+
+362
+01:22:37,791 --> 01:22:48,521
+E' un buon modo per dire "Ho fallito nella ricerca del rimedio. Il tuo organismo non risponde ai rimedi omeopatici".
+
+363
+01:22:48,625 --> 01:22:58,823
+E' una buona scusa, se volete potete usare questa scusa. Ma per voi stessi dovete sapere come stanno le cose.
+
+364
+01:22:58,927 --> 01:23:11,604
+Perciò prescrivete qualche antidolorifico. Cercate di evitare il cortisone, il più possibile.
+
+365
+01:23:11,708 --> 01:23:21,198
+Il cortisone è un farmaco così profondo che può cambiare l'intera immagine e lasciarvi privi di sintomi.
+
+366
+01:23:23,041 --> 01:23:30,718
+In seguito si vedrà cosa fare. Quindi il caso originale ritorna e potete ristudiarlo,
+
+367
+01:23:30,823 --> 01:23:34,375
+vedere l'originale e dare un rimedio.
+
+368
+01:23:35,177 --> 01:23:44,312
+Hahnemann non doveva affrontare questi problemi, come capita a noi. Quello che facevano era mettere sanguisughe
+
+369
+01:23:44,416 --> 01:23:55,427
+per estrarre il sangue e cataplasmi e cose superficiali che non cambiavano
+
+370
+01:23:55,531 --> 01:24:01,531
+l'organismo in maniera profonda come i farmaci che abbiamo oggi.
+
+371
+01:24:02,312 --> 01:24:10,406
+Perciò le sue osservazioni vengono da queste esperienze. Queste nostre osservazioni vengono dalla nostra esperienza.
+
+372
+01:24:10,510 --> 01:24:21,135
+Al tempo di Hahnemann non avevano costituzioni fisiche così indebolite come quelle che abbiamo oggi,
+
+373
+01:24:21,239 --> 01:24:29,291
+che hanno bisogno di una serie di rimedi prima di poter almeno sopravvivere.
+
+374
+01:24:33,625 --> 01:24:50,093
+-Vorrei chiedere qualcosa di pratico. Ho avuto una paziente affetta da ipotiroidismo
+
+375
+01:24:53,489 --> 01:25:02,864
+e le ho dato Medorrhinum . Si è sentita molto meglio, ma l'ipotiroidismo non è cambiato
+
+376
+01:25:03,468 --> 01:25:23,489
+e aveva sempre più bisogno di Tiroxina, fino a 150 mcg. Pensai che poteva essere Causticum.
+
+377
+01:25:23,593 --> 01:25:36,229
+e glielo diedi, sviluppò sintomi Causticum e l'internista le disse che
+
+378
+01:25:36,333 --> 01:25:52,104
+le dosi di tiroxina erano troppo alte. Doveva abbassarle. Vorrei chiedere cosa è successo in questo caso.
+
+379
+01:25:52,208 --> 01:26:06,885
+Pensai che Causticum fosse il rimedio giusto, la tiroide incominciò a funzionare, per cui la dose di tiroxina era troppo alta.
+
+380
+01:26:09,468 --> 01:26:18,062
+- Fammi capire. La dose di tiroxina che aveva prescritto l' endocrinologo, era troppo alta dopo Causticum
+
+381
+01:26:18,166 --> 01:26:29,489
+e allora ha dovuto ridurre la dose. Corretto. Significa che Causticum stava aiutando la paziente a produrre
+
+382
+01:26:29,593 --> 01:26:42,052
+più tiroxina da sola e quindi ne aveva meno bisogno come farmaco. Quindi Causticum stava compiendo un'azione curativa in questo caso.
+
+383
+01:26:42,156 --> 01:26:56,979
+- Erano proprio sintomi Causticum. Come fosse un proving di Causticum.
+
+384
+01:26:58,708 --> 01:27:14,406
+- Abbiamo detto, nella prima sessione, che quando diamo un rimedio e questo compie un'azione curativa,
+
+385
+01:27:14,510 --> 01:27:25,000
+aumenta l' energia generale del paziente e allo stesso tempo produce alcuni sintomi caratteristici del rimedio stesso,
+
+386
+01:27:25,104 --> 01:27:31,021
+e questa è una prova che il rimedio è corretto.
+
+387
+01:27:31,125 --> 01:27:44,531
+Se il rimedio non cambia nulla e produce i sintomi che appartengono al rimedio stesso, allora abbiamo un proving.
+
+388
+01:27:46,437 --> 01:27:59,489
+Quando il rimedio cambia 1 o 2 sintomi senza portare nessun cambiamento essenziale nello stato del paziente,
+
+389
+01:27:59,593 --> 01:28:08,573
+di nuovo abbiamo un proving con un rimedio che era molto vicino al caso.
+
+390
+01:28:08,833 --> 01:28:18,114
+In questi casi, questo e l'altro, in cui abbiamo dato un rimedio vicino, dobbiamo aspettare
+
+391
+01:28:18,218 --> 01:28:24,218
+fino a quando- questa è la risposta giusta- fino a quando i sintomi proving se ne sono andati.
+
+392
+01:28:28,135 --> 01:28:33,291
+- Un'altra domanda sui sintomi proving, il primo esempio alla lavagna.
+
+393
+01:28:34,291 --> 01:28:39,958
+Quando il paziente all'improvviso ha la diarrea, è anche questo un sintomo proving?
+
+394
+01:29:02,937 --> 01:29:09,729
+- Date un rimedio e fa la diarrea.
+
+395
+01:29:10,489 --> 01:29:16,396
+-E' assai probabile che la diarrea dipenda dall'aver mangiato qualcosa di guasto.- No.
+
+396
+01:29:23,125 --> 01:29:33,770
+- Che cosa si deve pensare delle reazioni di scolo, dopo aver preso un rimedio? Anche queste sono parte del proving o no?
+
+397
+01:29:34,541 --> 01:29:40,521
+-Scoli dalla vagina, leucorrea. Date un rimedio e avete scoli dalla vagina
+
+398
+01:29:40,625 --> 01:29:50,218
+o dal naso. Questo è un buon sintomo, un sintomo curativo. Non è un proving.
+
+399
+01:29:52,312 --> 01:29:59,239
+-Significa che tutti gli scoli sono sintomi buoni e prove di un effetto curativo?
+
+400
+01:30:01,375 --> 01:30:17,083
+- La reazione dell'organismo si prende nel suo complesso. Quello che valutate è la reazione globale del paziente.
+
+401
+01:30:17,698 --> 01:30:26,156
+Se la reazione globale dice che questa persona sta andando verso la cura perchè sta meglio,
+
+402
+01:30:26,260 --> 01:30:37,854
+e ha un po' di diarrea, la diarrea va bene. Lo scolo dal naso va bene. Lo sfogo dalla pelle va bene.
+
+403
+01:30:37,958 --> 01:30:50,312
+Ma se la persona sta peggiorando, ha la diarrea, sangue nelle feci,
+
+404
+01:30:50,416 --> 01:31:00,646
+voi date un rimedio e il sangue fuoriesce, quello è un aggravamento che molto probabilmente dipende dal rimedio sbagliato.
+
+405
+01:31:00,750 --> 01:31:14,041
+Non si può dire che gli scoli in generale siano un buon segno. Dipende dall'assetto complessivo del caso.
+
+406
+01:31:16,468 --> 01:31:23,823
+Il bambino di cui parlavamo dimostra che il rimedio era corretto perchè c'è stato miglioramento.
+
+407
+01:31:23,927 --> 01:31:35,114
+E' guarito col rimedio? No. C'è un miglioramento, mentale-emozionale, nella febbre,
+
+408
+01:31:35,218 --> 01:31:40,146
+nell'appetito ma ha bisogno di un secondo rimedio.
+
+409
+01:31:40,250 --> 01:31:49,437
+Qual' è il secondo rimedio? Studiamo i sintomi e prescriviamo un secondo rimedio.
+
+410
+01:31:55,510 --> 01:32:01,135
+-Ho avuto un problema simile. Avevo un manager che copriva un ruolo molto impegnativo ed era esausto,
+
+411
+01:32:01,239 --> 01:32:15,052
+era a un passo dall'attacco cardiaco. Era veramente stremato. Quando venne da me gli diedi Pulsatilla.
+
+412
+01:32:15,156 --> 01:32:25,312
+Dopo 4-5 mesi, quando si sentiva veramente risollevato, con un bell'aspetto e completamente rilassato,
+
+413
+01:32:25,416 --> 01:32:38,521
+è ritornato da me. Aveva avuto un piccolo problema di ritmo cardiaco, molto piccolo, e fu risolto facilmente con i farmaci allopatici.
+
+414
+01:32:42,000 --> 01:32:47,854
+Quando tornò da me, mi disse che aveva seri problemi con i colleghi, perchè
+
+415
+01:32:47,958 --> 01:32:54,646
+non sentiva più interesse per quel lavoro. Aveva 57 anni e gli mancavano 3 anni per andare in pensione.
+
+416
+01:32:54,750 --> 01:33:03,771
+Cosa potevo dirgli? Dovevo dirgli di bere caffè o interrompere il lavoro. Gli dissi di smettere col lavoro.
+
+417
+01:33:05,375 --> 01:33:14,854
+- No, nemmeno questo. Si dovrebbe incoraggiare questa persona. Voglio dire che a 57 anni probabilmente lavorerà per 40 anni,
+
+418
+01:33:14,958 --> 01:33:23,396
+cioè se lavora per altri 3 anni non è una gran cosa. Lo incoraggerei a lavorare.
+
+419
+01:33:23,500 --> 01:33:37,916
+Avevo dichiarato che avrei smesso di insegnare, di lavorare, molto tempo fa. Ne avevo abbastanza, ero esausto,
+
+420
+01:33:38,021 --> 01:33:50,427
+ma poi trovo mia moglie a casa e mi dice: "Perchè vuoi suicidarti?" E poi ho detto a me stesso: va bene, vediamo di lavorare altri 3 anni e ora ne ho 65.
+
+421
+01:33:50,531 --> 01:33:56,468
+- E' perchè lei ama il suo lavoro. - Non ne sono così sicuro.
+
+422
+01:34:08,864 --> 01:34:15,271
+-Ancora non sono così sicuro del caso portato da Marion perchè il Causticum ha migliorato il caso,
+
+423
+01:34:15,375 --> 01:34:22,760
+e la tiroide sta funzionando meglio. Ma cosa succede se la paziente sviluppa sintomi Causticum?
+
+424
+01:34:22,864 --> 01:34:33,427
+Ha detto che lei ha sviluppato sintomi Causticum e ora ha perdite di urina per esempio.
+
+425
+01:34:33,531 --> 01:34:41,000
+Se Caustium funziona ma produce sintomi molto brutti?
+
+426
+01:34:46,708 --> 01:34:54,666
+-Naturalmente questa domanda dipende dal fatto che non abbiamo completato la teoria Omeopatica, ma lo faremo.
+
+427
+01:34:54,771 --> 01:35:05,271
+Voglio darvi un'altro concetto. Parlando di casi ipotetici mi risulta difficile rispondere
+
+428
+01:35:05,375 --> 01:35:12,104
+perchè devo conoscere tutti i parametri prima di rispondere a domande specifiche su casi specifici.
+
+429
+01:35:12,208 --> 01:35:25,646
+Ma come regola generale, voglio dirvi questo. Iniziate un trattamento con un bambino che è piuttosto disturbato mentalmente
+
+430
+01:35:25,750 --> 01:35:37,875
+e i genitori lo portano da voi. Lui è inquieto, ha questo sintomo ecc. Loro si lamentano a proposito di sintomi indefiniti,
+
+431
+01:35:37,979 --> 01:35:47,781
+voi non siete in grado di dire se sia realmente mentalmente malato. Ma non è in equilibrio a livello mentale-emozionale.
+
+432
+01:35:47,885 --> 01:35:54,364
+E iniziate un trattamento, ma con questo bambino avrete molti problemi,
+
+433
+01:35:54,468 --> 01:36:07,854
+mentre migliorate la sua salute. Quali problemi? Condizioni acute e croniche a livello fisico, per lo più.
+
+434
+01:36:08,218 --> 01:36:18,093
+Mentre migliorate il livello mentale -emozionale, il bambino incomincerà a prendere raffreddori facilmente, a prendere questo e quello,
+
+435
+01:36:20,208 --> 01:36:33,771
+dolori allo stomaco, all'addome, e avrete veramente un problema. Non potete dire che questi problemi
+
+436
+01:36:33,875 --> 01:36:43,906
+dipendono dal proving del rimedio. Dipendono dal fatto che il miglioramento avviene ad un altro livello.
+
+437
+01:36:44,625 --> 01:36:50,604
+I disturbi se ne vanno dal mentale-emozionale e compaiono a livello fisico.
+
+438
+01:36:50,708 --> 01:37:01,271
+L' organismo non ha la possibilità di portare direttamente il disturbo sulla pelle, e allora combatte all' interno del "corpo fisico".
+
+439
+01:37:01,375 --> 01:37:11,385
+E allora avrete molti problemi con questi bambini. Ma una volta che li avrete accompagnati in questo percorso, quando saranno grandi,
+
+440
+01:37:11,489 --> 01:37:29,437
+diventeranno forti e voi sentirete di aver fatto veramente qualcosa alla fine. Ma nel frattempo avete molti problemi.
+
+441
+01:37:29,541 --> 01:37:37,854
+Quindi se mi date un caso specifico, mi portate l' intero caso con tutti i dettagli,
+
+442
+01:37:37,958 --> 01:37:42,698
+vi darò la risposta, se si tratta di questo rimedio o quello.
+

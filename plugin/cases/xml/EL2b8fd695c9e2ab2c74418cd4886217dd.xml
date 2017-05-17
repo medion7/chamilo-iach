@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2b8fd695c9e2ab2c74418cd4886217dd</ID>
+  <patient>
+    <case_date>2016-10-20 14:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>A.A.</patient_initials>
+    <age>0</age>
+    <circumstances>-</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Ουρολοιμωξεις</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>Ουρολοιμωξεις σχεδον  πάντα μετα απο σεξουαλική επαφη</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>Ουρολοιμωξη 1-2 φορές ανά δύο μηνες</appearence_frequency>
+        <pain_desc>Τσούξιμο, καψιμο στο τέλος της ουρησης</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Αλλεργια, Φουσκωματα, μπουκωμα, δυσκοιλιότητα εύκολα αν είναι όλη μέρα στην δουλειά και αιμορροιδες, δερματίτιδα εξ επαφής από διάφορα μεταλλα, νύχια και μαλλιά σπάνε ευκολα</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>-</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αντιβιωσεις</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>38 πυρετό προ 2ετιας</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>-</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει(2)</reactions>
+        <sleeping_habits>-</sleeping_habits>
+        <food_modalities>Επιθυμεί γλυκά(2), σολωμό(3), αλμυρα(2), λίπος, ζυμαρικα, καυτερα&#13;
+Απεχθεια κρέας, γάλα, οσπρια&#13;
+Νερό βρύσης παντα</food_modalities>
+        <menstruation>Κανονικό κυκλο, λίγο αίμα, πολύ σκούρο, πριν την περίοδο ημικρανία δεξιά, πόνο σε στήθος αριστερά, λίγο πρηξιμο, λευκορροια(2)</menstruation>
+      </physical>
+      <mental_emotional>Καταπιέζεται δουλεια-προσωπικα,  θυμό(3), θέλει να σπάσει κάποιον στο ξύλο, νεύρα(2) κυρίως τα ξεσπάει στους δικούς της, δεν αντέχει το άδικο(2), θλίψη(2), πρώιμος τύπος, θάλασσα(3), είναι των ακρων, κοινωνική, τα λέει ολα, ευσυγκινητη(2), κλαίει πολύ για παρελθον(2) αδικία(3), ευθικτη(3), συμπονετικη (2)&#13;
+Φόβο θανάτου(2), σκοτάδι(2), αεροπλανο(3), αρρώστια(3), τρυπημα(2),σεισμούς(2), κλειστούς χωρους&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Χειρότερα μετά από μεσημεριανό ύπνο(2)</peculiar>
+        <intense>Κταπιεζεται(2), ευθικτη(3), ευσυγκινητη(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Staph, Phos, acon, carc</remedies_differentiation>
+      <prescription>
+        <remedy>Staphisagria</remedy>
+        <potency>200ch(1), 6x(30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-10-20 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Ή ουρολοιμωξη καλύτερα τις πρώτες 3-4 ημέρες μετά ομως μετρια, φοβία(2) μην πάθει παλι, καλύτερα ψυχολογικά(2), ξεκίνησε γυμναστήριο, ύπνος το μεσημέρι καλύτερα, ήρθε περίοδος 2 μέρες νωρίτερα χωρίς ενοχλησεις πριν, πονοκέφαλο μετά την περίοδο, νεύρα καλύτερα, ξέσπασε έντονα 4-5 φορές, θυμό(2), δεν συγχωρεί(2), εκδικειται(2),νύχια καλυτερα, δυσκοιλιότητα όχι, κλαίει λιγότερο, θίγεται λιγοτερο</analysis>
+      <conclusion>Περιμενω</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Staph</remedy>
+        <potency>6x</potency>
+        <regimen>*30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-10-20 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Στην αρχή αερια και διάρροιες, τώρα οκ,  καλύτερα ο θυμός, καλύτερα ουρολοιμωξη, δεν έχει ενέργεια(2), αλλεργια όχι καλά, φτερνισματα, φαγούρα,καταρροη, κλείνουν τα ματια, διάρροιες(2) και συχνοουρια από άγχος πριν την πτηση</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Gelsenium</remedy>
+        <potency>30 ch</potency>
+        <regimen>*1</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2016-10-20 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Έχει μία σχεδόν μόνιμη ταση για εμετο, φαγούρα απο πρωκτό που επεκτείνεται μπροστά, λευκορροια συνέχεια(2), όχι θυμό, όχι νεύρα, κλάμα λίγο, επιθυμεί ψάρι(2), πάλι πονοκέφαλο έντονο πριν την περίοδο, άσχημα ονειρα</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Gelsenium</remedy>
+        <potency>6x</potency>
+        <regimen>15</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>4</number>
+      <followup_date>2016-10-20 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Δυσκοιλιότητα(1),  επιθυμεί γλυκά(3), κρυώνει,παγωμένα πόδια, ιδρωσε στον αυχένα μερικές φορές, ξανά πονοκεφάλους, άσχημος ύπνος μη αναζωογονητικος,</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>200ch(*3), 6x(*30)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>5</number>
+      <followup_date>2016-10-20 12:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μετρια</reaction>
+      <analysis>Φουσκωματα, αερια που μυρίζουν, νεύρα όχι, κλαμα όχι, φοβία αεροπλάνου τα ίδια, την έπιασε πανικός σε πλοίο, κούραση, φόβο θανάτου αλλων</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Calcarea</remedy>
+        <potency>6x</potency>
+        <regimen>*30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,1326 @@
+1
+00:00:25,690 --> 00:00:31,440
+Nós começaremos agora com um pequeno capítulo do Expert System.
+
+2
+00:00:34,550 --> 00:00:39,170
+Não apenas pelo interesse daqueles que têm o Expert System,
+
+3
+00:00:39,270 --> 00:00:42,250
+mas também para todos que estão participando desse curso,
+
+4
+00:00:42,350 --> 00:00:45,750
+pois vocês sabem que o George está utilizando o Expert System
+
+5
+00:00:45,850 --> 00:00:50,740
+e talvez eu possa dizê-los mais algumas coisas, que o deixa mais interessante
+
+6
+00:00:50,840 --> 00:00:56,850
+quando olham na tela para entenderem mais do que está acontecendo.
+
+7
+00:01:00,330 --> 00:01:09,810
+Primeiramente, vocês encontraram e selecionaram os sintomas corretos.
+
+8
+00:01:09,910 --> 00:01:11,660
+E nós falamos sobre isso.
+
+9
+00:01:12,410 --> 00:01:15,750
+Obviamente, existe algum tipo de variação.
+
+10
+00:01:15,770 --> 00:01:19,420
+Talvez vocês colocam os sintomas que não estão completamente corretos,
+
+11
+00:01:19,520 --> 00:01:26,170
+mas nós discutimos como encontrar os sintomas corretos e como pegá-los.
+
+12
+00:01:26,270 --> 00:01:28,920
+Essa é uma coisa que é necessária.
+
+13
+00:01:29,020 --> 00:01:36,910
+A segunda, basicamente o VES trabalha como pessoas diferentes ou visões diferentes
+
+14
+00:01:37,010 --> 00:01:46,170
+olhando para os mesmos sintomas, acrescenta como um todo e apresenta uma sugestão equilibrada.
+
+15
+00:01:46,270 --> 00:02:00,940
+No entanto, existe um terceiro elemento e esse é o sublinhado.
+
+16
+00:02:01,690 --> 00:02:08,810
+Eu explicarei agora para vocês a forma muito precisa e esquemática de sublinhar.
+
+17
+00:02:08,910 --> 00:02:16,760
+O sublinhado de um sintoma significa que indicamos a intensidade
+
+18
+00:02:16,860 --> 00:02:22,360
+que o sintoma apresenta a partir do interrogatório do paciente.
+
+19
+00:02:25,110 --> 00:02:33,750
+Um paciente dá qualquer sintoma, desejo "mousaka" e o que fazemos, nós perguntamos: "Isso é apenas
+
+20
+00:02:33,850 --> 00:02:40,770
+agora pela manhã ou você gosta de "mousaka" todos os dias ou é toda vez em que vem à Grécia?"
+
+21
+00:02:40,870 --> 00:02:46,100
+"Não, não apenas mousaka na Grécia, mas mousaka em Monique, mousaka em todos os lugares!"
+
+22
+00:02:47,140 --> 00:02:55,940
+E assim, vocês obtêm a intensidade do desejo por mousaka. Essa é a intensidade a partir do interrogatório.
+
+23
+00:02:58,680 --> 00:03:11,170
+Agora, a primeira coisa é a frequência do sintoma, o quão frequente é o desejo por mousaka
+
+24
+00:03:11,270 --> 00:03:16,290
+ou a dor no pulso. Qual é a frequência?
+
+25
+00:03:17,020 --> 00:03:22,170
+O segundo elemento é a intensidade.
+
+26
+00:03:22,270 --> 00:03:27,250
+O quão é intenso? Especialmente para tudo que é subjetivo,
+
+27
+00:03:27,350 --> 00:03:32,620
+o quão intensa é a dor no pulso?
+
+28
+00:03:34,100 --> 00:03:37,500
+E quando combinamos isso, vocês terão uma sugestão
+
+29
+00:03:37,600 --> 00:03:41,530
+de como sublinharem corretamente os sintomas.
+
+30
+00:03:47,030 --> 00:04:00,660
+Os sintomas são sublinhados uma vez quando está frequentemente presente ou intenso,
+
+31
+00:04:00,760 --> 00:04:04,170
+o que significa quando se eleva acima desse nível.
+
+32
+00:04:04,270 --> 00:04:08,430
+Vocês se lembram do desenho que estava aqui, que os sintomas precisam ser elevados acima de um certo nível
+
+33
+00:04:08,530 --> 00:04:10,920
+antes que seja um sintoma?
+
+34
+00:04:11,020 --> 00:04:18,330
+Portanto, o desejo por mousaka precisa estar suficientemente presente e frequente para ser um sintoma
+
+35
+00:04:18,430 --> 00:04:25,760
+ou a dor no pulso precisa ser suficientemente intensa para ser um sintoma.
+
+36
+00:04:25,860 --> 00:04:36,320
+Todo mundo sente alguma dor no pulso algum dia. Está claramente presente, é um sintoma.
+
+37
+00:04:39,530 --> 00:04:54,360
+O sublinhado 2, quando há uma frequência relevante ou intensidade relevante.
+
+38
+00:04:54,460 --> 00:04:59,270
+Não é apenas: "Sim, eu como mousaka várias vezes."
+
+39
+00:04:59,370 --> 00:05:06,440
+Agora é: "Eu como mousaka todos os dias, quando estou na Grécia, sempre que tenho uma oportunidade."
+
+40
+00:05:06,540 --> 00:05:09,690
+É mais frequente, mais proeminente.
+
+41
+00:05:09,790 --> 00:05:17,540
+Isso é suficiente para dar intensidade 2 em um sublinhado ou quando a intensidade é proeminente.
+
+42
+00:05:18,280 --> 00:05:23,930
+Não é correto que apresente apenas o sintoma, ele está presente de forma proeminente
+
+43
+00:05:24,030 --> 00:05:28,190
+por causa da intensidade. Nós damos a ele um sublinhado 2.
+
+44
+00:05:28,290 --> 00:05:30,680
+E assim, esse é apenas o sintoma que está presente.
+
+45
+00:05:30,780 --> 00:05:37,460
+Ele está realmente frequentemente presente ou realmente presente intensamente.
+
+46
+00:05:39,960 --> 00:05:55,290
+E assim, nós o sublinhamos 3 vezes quando o sintoma é muito frequente e muito intenso.
+
+47
+00:05:57,030 --> 00:06:00,030
+Ele está realmente prevalecendo.
+
+48
+00:06:04,730 --> 00:06:09,770
+E assim, vocês sabem que existem 4 graus no Repertório e por algum motivo
+
+49
+00:06:09,870 --> 00:06:14,770
+vocês têm o grau 4 na intensidade do interrogatório também.
+
+50
+00:06:14,870 --> 00:06:19,970
+O quarto grau na intensidade do interrogatório
+
+51
+00:06:20,070 --> 00:06:25,350
+é como algo que vocês não acreditariam que pudesse existir.
+
+52
+00:06:25,450 --> 00:06:35,520
+É realmente muito forte, todos os dias 3 litros de leite. Todos os dias por anos, é realmente muito forte,
+
+53
+00:06:35,620 --> 00:06:37,700
+pelo menos para algumas pessoas.
+
+54
+00:06:39,200 --> 00:06:46,750
+O quarto grau, como sabem, é raro no Repertório. Talvez 200, 250 remédios
+
+55
+00:06:46,850 --> 00:06:50,610
+que apresentam o 4o grau no Repertório.
+
+56
+00:06:52,780 --> 00:06:59,840
+Na totalidade dos seus pacientes, na totalidade de todos os sintomas dos seus pacientes,
+
+57
+00:06:59,940 --> 00:07:07,180
+o 4o grau deveria ser indicado cerca de uma vez em duas semanas.
+
+58
+00:07:10,950 --> 00:07:18,580
+Vocês veem pacientes todos os dias, uma vez a cada duas semanas vocês dão o grau 4 a um sintoma para um paciente.
+
+59
+00:07:18,680 --> 00:07:21,440
+E assim, vocês não estão exagerando.
+
+60
+00:07:21,970 --> 00:07:26,440
+Pois a questão toda é sublinhar o mais corretamente possível.
+
+61
+00:07:26,540 --> 00:07:29,930
+Portanto, o 4o grau é raro.
+
+62
+00:07:33,180 --> 00:07:39,760
+Existem também imagens sobre a presença do 1o, 2o e 3o graus
+
+63
+00:07:39,860 --> 00:07:45,250
+e a ideia é: quanto mais alto forem, menos sintomas podem ter um sublinhado de grau 2
+
+64
+00:07:45,350 --> 00:07:49,350
+ou grau 3.
+
+65
+00:07:52,100 --> 00:08:02,250
+É algo como se 80% dos sintomas tiverem o sublinhado 1 ou menos, tudo bem.
+
+66
+00:08:02,350 --> 00:08:06,020
+Se forem mais, vocês receberão uma mensagem quando usarem o sistema e lerão
+
+67
+00:08:06,120 --> 00:08:09,090
+para mudarem o sublinhado, etc.
+
+68
+00:08:09,610 --> 00:08:20,020
+Eu acho que para o grau 2 é cerca de 50% e grau 3 cerca de 20-25%.
+
+69
+00:08:21,760 --> 00:08:25,950
+É claro que um paciente não é igual ao outro.
+
+70
+00:08:26,440 --> 00:08:31,860
+Vocês não precisam pensar sobre isso. Eu já tenho 4 sintomas no grau 1,
+
+71
+00:08:31,960 --> 00:08:36,080
+eu devo ter um sintoma no grau 2... Vocês não devem pensar sobre isso.
+
+72
+00:08:36,180 --> 00:08:42,580
+O programa dirá, caso forem muito longe, fora da extensão que é normalmente aceita.
+
+73
+00:08:42,680 --> 00:08:46,370
+E ele dirá para mudarem um pouco o sublinhado um pouco ou para tentarem entender
+
+74
+00:08:46,470 --> 00:08:49,930
+o sublinhado de forma diferente.
+
+75
+00:08:50,680 --> 00:08:57,710
+Eu dou algumas dicas para tentarem e sublinharem corretamente.
+
+76
+00:08:58,690 --> 00:09:05,500
+É claro que terão ocasiões em que duvidarão entre: "Eu sublinho duas ou três vezes?
+
+77
+00:09:05,600 --> 00:09:08,930
+Eu sublinho uma vez ou duas?"
+
+78
+00:09:09,950 --> 00:09:16,760
+E vocês sabem que a frequência e a intensidade são duas formas de refletirem nisso.
+
+79
+00:09:16,860 --> 00:09:22,500
+Existe uma terceira característica, menos importante e que poderá ajudá-los a decidirem
+
+80
+00:09:22,600 --> 00:09:27,260
+entre 1, 2 ou 3 sublinhados.
+
+81
+00:09:27,360 --> 00:09:33,360
+É a peculiaridade do sintoma.
+
+82
+00:09:34,350 --> 00:09:42,890
+Se duvidam e se for mais comum, vocês o sublinharão 2. Se duvidarem entre 2 e 3
+
+83
+00:09:42,990 --> 00:09:48,650
+e for mais peculiar, vocês sublinharão 3 vezes, para dar mais ênfase,
+
+84
+00:09:48,750 --> 00:09:51,250
+porque é mais peculiar.
+
+85
+00:09:52,990 --> 00:10:01,490
+Dessa forma, além da rotina, frequência e intensidade, a segunda forma é considerar a peculiaridade.
+
+86
+00:10:02,740 --> 00:10:08,890
+A terceira coisa que devem considerar é que as pessoas diferentes
+
+87
+00:10:08,990 --> 00:10:14,230
+expressam seus sofrimentos de forma diferente.
+
+88
+00:10:14,330 --> 00:10:23,740
+Se alguém está falando o tempo todo assim, dando um sintoma, "eu tenho isso e eu tenho aquilo..."
+
+89
+00:10:24,990 --> 00:10:31,730
+E vocês dizem: "Você gosta de bananas?" "Oh sim, eu gosto de bananas." E vocês colocam isso bem alto.
+
+90
+00:10:31,830 --> 00:10:35,040
+Se alguém disser: "Eu tive todos os problemas do mundo, eu caí das escadas
+
+91
+00:10:35,140 --> 00:10:39,720
+e fui para um barco e escorreguei nele..." E vocês dizem: "Você gosta de bananas?"
+
+92
+00:10:39,820 --> 00:10:42,440
+"Oh sim, muito."
+
+93
+00:10:42,540 --> 00:10:47,500
+"E mousaka?" "Sim, mousaka é muito bom..."
+
+94
+00:10:47,980 --> 00:10:53,230
+E assim, se vocês colocarem tudo isso no grau 3, não é bom.
+
+95
+00:10:54,260 --> 00:11:02,480
+E ele está falando. "E o seu trabalho?" "No meu trabalho está tudo bem."
+
+96
+00:11:02,990 --> 00:11:11,630
+Vocês veem que no fluxo de intensidade dele, a tão chamada grau 3 de intensidade dos sintomas,
+
+97
+00:11:11,730 --> 00:11:17,630
+houve uma pequena hesitação e vocês sabem o que ele falará sobre o trabalho?
+
+98
+00:11:17,730 --> 00:11:20,900
+Todos os outros, talvez vocês nem tenham pegado os sintomas.
+
+99
+00:11:21,000 --> 00:11:25,890
+Enfim, não está no Repertório "cair próximo ao "Flying Dolphin". Não está no Repertório,
+
+100
+00:11:25,990 --> 00:11:32,590
+mas então, o que ele falará sobre o seu trabalho, que ele tem a vida toda,
+
+101
+00:11:32,690 --> 00:11:35,800
+muitos anos de frustração, enfermidades por (?)
+
+102
+00:11:35,900 --> 00:11:39,320
+que é o sintoma que anotarão.
+
+103
+00:11:39,420 --> 00:11:45,830
+A intensidade é relativa à forma pela qual o paciente se expressa
+
+104
+00:11:45,930 --> 00:11:48,410
+e isso é importante também.
+
+105
+00:11:56,000 --> 00:12:00,910
+-Esse sistema lida com a diferença entre sintoma mental e sintoma do corpo.
+
+106
+00:12:01,010 --> 00:12:06,140
+Isso não é influência especial do (?) dos sintomas?
+
+107
+00:12:06,240 --> 00:12:14,250
+-Sim. Eu gostaria de saber se existem dúvidas sobre o sublinhado.
+
+108
+00:12:16,490 --> 00:12:25,570
+-(?) para ser um sintoma, como vocês avaliariam se há um sintoma muito raro
+
+109
+00:12:25,670 --> 00:12:28,570
+que apenas aparece uma vez a cada dois meses?
+
+110
+00:12:28,670 --> 00:12:32,170
+-Em uma pessoa?
+-Sim.
+
+111
+00:12:33,920 --> 00:12:43,310
+Isso depende, mas eu diria que se for um sintoma bastante raro, muito claro,
+
+112
+00:12:44,660 --> 00:12:52,970
+com clareza eu quero dizer que ele sofre com ele e assim, mesmos se o sintoma aparecer uma vez a cada 4 noites,
+
+113
+00:12:53,070 --> 00:12:57,490
+é importante, eu diria que sim.
+
+114
+00:12:58,670 --> 00:13:04,060
+Você pode ter uma dor de cabeça que melhora ao beber café,
+
+115
+00:13:04,160 --> 00:13:09,310
+ele tem uma dor de cabeça a cada duas semanas, mas ele bebe até mesmo meia xícara de café
+
+116
+00:13:09,410 --> 00:13:14,650
+e a dor de cabeça desaparece em minutos, então é cabeça-dor-café-melh.
+
+117
+00:13:15,930 --> 00:13:21,660
+Mesmo se ocorrer a cada 2-3 semanas, é uma modalidade forte.
+
+118
+00:13:23,080 --> 00:13:29,730
+-Referente ao sublinhado. Acontece dos remédios serem selecionados pelo sublinhado?
+
+119
+00:13:29,830 --> 00:13:33,990
+Por exemplo, a Mandragora é encontrada na rubrica agitação.
+
+120
+00:13:34,090 --> 00:13:39,140
+Se eu tiver um paciente que apresenta uma agitação bastante intensa,
+
+121
+00:13:39,240 --> 00:13:46,150
+eu usaria a rubrica como 3o grau, mas a Mandragora está apenas no grau 1 nessa rubrica.
+
+122
+00:13:46,250 --> 00:13:51,140
+Esse sublinhado dá alguma preferência a determinados remédios e não a outros?
+
+123
+00:13:51,240 --> 00:13:59,640
+-Sim. Esse é um exemplo muito bom e eu explicarei a você no próximo passo,
+
+124
+00:13:59,740 --> 00:14:06,600
+o motivo do sublinhado. E ele se resume na resposta da sua pergunta.
+
+125
+00:14:07,090 --> 00:14:15,580
+Se tivermos um paciente e suspeitarmos de Stramonium, vamos dizer.
+
+126
+00:14:15,840 --> 00:14:21,730
+Vocês sabem que em um determinado estágio, faremos algumas perguntas confirmatórias para sabermos
+
+127
+00:14:21,830 --> 00:14:30,980
+se é realmente Stramonium. Uma questão poderia ser o medo do escuro.
+
+128
+00:14:31,080 --> 00:14:40,000
+Portanto, você pergunta: "O que você sente no escuro?" E qual é a resposta que você espera de um Stramonium?
+
+129
+00:14:47,990 --> 00:14:57,910
+"Oh sim, no escuro eu preciso acender sempre as luzes." Um medo muito forte do escuro.
+
+130
+00:14:58,660 --> 00:15:02,090
+E agora, se for ao Repertório e ver o medo do escuro,
+
+131
+00:15:02,190 --> 00:15:07,060
+você verá o Stramonium no grau 4. É o remédio mais forte.
+
+132
+00:15:07,160 --> 00:15:13,150
+Portanto, para o Stramonium, isso significa que nas experimentações e nos casos clínicos,
+
+133
+00:15:13,250 --> 00:15:17,150
+ele estava frequentemente presente, o medo do escuro no Stramonium.
+
+134
+00:15:17,250 --> 00:15:24,230
+Agora, nós seguimos um passo adiante. Se formos aos pacientes e suspeitarmos serem Stramonium,
+
+135
+00:15:24,330 --> 00:15:31,430
+esperamos que todos os pacientes apresentem um forte medo do escuro.
+
+136
+00:15:31,910 --> 00:15:34,570
+Isso é confirmação de Stramonium.
+
+137
+00:15:35,140 --> 00:15:46,370
+Se o paciente tem algum.... medo do escuro, isso é um argumento contra Stramonium.
+
+138
+00:15:46,470 --> 00:15:52,120
+Ou não está empurrando o Stramonium em direção ao máximo.
+
+139
+00:15:52,890 --> 00:15:59,140
+Isso é chamado de correspondência da intensidade.
+
+140
+00:16:00,880 --> 00:16:06,950
+Portanto, o Stramonium tem medo do escuro no grau 4. Os pacientes Stramonium, para o melhor,
+
+141
+00:16:07,050 --> 00:16:13,640
+tem medo do escuro no grau 4, correspondendo à intensidade.
+
+142
+00:16:13,740 --> 00:16:24,450
+E a regra é quanto melhor corresponder a intensidade, melhor caso você terá para o remédio.
+
+143
+00:16:37,290 --> 00:16:42,950
+-Logo antes de ter mencionado que o grau do Repertório não tem nada a ver com
+
+144
+00:16:43,050 --> 00:16:48,280
+a intensidade, mas apenas o quão frequente apareceu a rubrica.
+
+145
+00:16:48,380 --> 00:16:58,010
+E agora, para a análise é muito importante sublinhar de acordo com a intensidade
+
+146
+00:16:58,110 --> 00:17:03,510
+e isso faz uma diferença para o Stramonium, por exemplo.
+
+147
+00:17:03,610 --> 00:17:12,470
+Agora, você se refere à intensidade, como se o grau 4 para o Stramonium no medo do escuro
+
+148
+00:17:12,570 --> 00:17:16,720
+tivesse algo a ver com a intensidade e anteriormente você disse
+
+149
+00:17:16,820 --> 00:17:21,990
+que isso tem a ver com a frequência na qual aparece.
+
+150
+00:17:22,090 --> 00:17:25,090
+-Sim, está correto.
+
+151
+00:17:34,740 --> 00:17:40,910
+É por isso que eu estava tentando fugir todas as manhãs de continuar naquele nível.
+
+152
+00:17:41,410 --> 00:17:44,060
+Pois eu sabia que traria alguma confusão.
+
+153
+00:17:44,160 --> 00:17:51,550
+E agora eu tentarei esclarecer a confusão. Primeiro passo, o Repertório foi feito.
+
+154
+00:17:51,650 --> 00:17:55,310
+Por que o remédio foi colocado em 1o, 2o ou 3o graus?
+
+155
+00:17:55,410 --> 00:18:02,070
+Por causa da frequência na experimentação e no caso clínico. Todos concordam?
+
+156
+00:18:04,320 --> 00:18:10,480
+E então, o Repertório foi usado, mais informações foram adicionadas e de fato, uma mulher,
+
+157
+00:18:10,580 --> 00:18:19,760
+Margaret Tyler veio com essa ideia e disse: "É interessante, eu vejo
+
+158
+00:18:19,860 --> 00:18:27,470
+que para alguns dos remédios que prescrevo, os sintomas que contêm um remédio em negrito,
+
+159
+00:18:27,570 --> 00:18:31,210
+os pacientes expressam esses sintomas em negrito.
+
+160
+00:18:31,310 --> 00:18:37,230
+O medo de ficar sozinho ou o medo do escuro no Arsenicum, o paciente Arsenicum tem muito medo de ficar sozinho
+
+161
+00:18:37,330 --> 00:18:38,970
+ou medo no escuro.
+
+162
+00:18:39,070 --> 00:18:43,970
+E assim, ela trouxe a ideia de que a correspondência em graus
+
+163
+00:18:44,070 --> 00:18:49,220
+era uma forma interessante de processar a informação.
+
+164
+00:18:49,320 --> 00:19:02,800
+É por isso que eu deixo isso assim, por ser uma outra forma de olhar para os sintomas dos seus pacientes
+
+165
+00:19:05,150 --> 00:19:10,170
+é essa correspondência dos graus.
+
+166
+00:19:13,150 --> 00:19:21,210
+Você está certo, isso está de uma forma oposta, pois está usando, como uma ferramenta para pintar,
+
+167
+00:19:21,310 --> 00:19:26,110
+você a usa para fazer uma escultura. É uma aplicação diferente.
+
+168
+00:19:26,210 --> 00:19:30,430
+Mas é um fato e então, George trouxe realmente para a Homeopatia,
+
+169
+00:19:30,530 --> 00:19:35,710
+o sublinhado famoso, ele realmente o usa o tempo todo, ao ponto 
+
+170
+00:19:35,810 --> 00:19:39,780
+em que o VES recusa trabalhar se o caso não tiver sublinhado.
+
+171
+00:19:42,950 --> 00:19:49,060
+É a forma dele de pensar, que você deve saber antes de tudo a partir do paciente,
+
+172
+00:19:49,160 --> 00:19:55,870
+o quão intenso é o medo do escuro, o quão intenso é o ciúme, etc.
+
+173
+00:19:56,910 --> 00:20:03,840
+E então, você corresponde a intensidade do paciente com o grau do Repertório
+
+174
+00:20:03,940 --> 00:20:08,690
+e eu direi: "o que quer que tenha significado no passado." 
+
+175
+00:20:09,180 --> 00:20:18,320
+Eu devo admitir que esses graus no Repertório estão sendo utilizados para um outro objetivo.
+
+176
+00:20:18,420 --> 00:20:23,980
+E está correto. Mas primeiro é a história e hoje, desde Margaret Tyler,
+
+177
+00:20:24,080 --> 00:20:31,990
+eu acho que ela estava ativa nos anos 30 e 40 e existe essa ideia,
+
+178
+00:20:32,090 --> 00:20:35,990
+especialmente com George agora, sobre a correspondência dos graus.
+
+179
+00:20:36,090 --> 00:20:42,980
+Portanto, é apenas uma outra ideia com a qual George concorda, essa correspondência dos graus,
+
+180
+00:20:43,080 --> 00:20:48,990
+do paciente e do Repertório, é uma forma interessante de analisar o caso
+
+181
+00:20:49,090 --> 00:20:51,590
+e decidir pelo remédio.
+
+182
+00:20:52,590 --> 00:20:59,160
+Mas é verdade que perdeu-se um pouco da intenção original dos graus
+
+183
+00:20:59,260 --> 00:21:08,250
+e isso significa também que precisaremos reconsiderar toda a história dos graus no Repertório.
+
+184
+00:21:08,350 --> 00:21:15,250
+E estamos fazendo isso. Na próxima versão, vocês poderão esperar algumas novidades sobre isso.
+
+185
+00:21:15,350 --> 00:21:21,740
+Mas para o momento é importante entenderem que é verdade
+
+186
+00:21:21,840 --> 00:21:27,240
+que se eu olhar 10 pacientes Stramonium, a maioria deles terão um forte medo do escuro
+
+187
+00:21:27,340 --> 00:21:32,570
+e será talvez apenas 1 que apresentará o medo do escuro e que não será tão proeminente.
+
+188
+00:21:32,670 --> 00:21:36,170
+E você poderá repetir isso em vários exemplos.
+
+189
+00:21:48,410 --> 00:21:55,100
+Portanto, eu expliquei a vocês os 6 primeiros métodos de repertorização, mais ou menos clássicos.
+
+190
+00:21:55,200 --> 00:22:06,140
+Eu disse a vocês que existe a correspondência dos graus, uma outra pessoa me deu uma outra ideia
+
+191
+00:22:07,750 --> 00:22:11,990
+de que ainda existam outras formas de olhar para a informação.
+
+192
+00:22:13,990 --> 00:22:21,390
+E assim, se 2-3 sintomas vierem da mente e indicarem Pulsatilla,
+
+193
+00:22:21,490 --> 00:22:28,300
+talvez será uma coisa diferente de 2-3 sintomas das extremidades que apontam para o Lycopodium.
+
+194
+00:22:28,400 --> 00:22:33,060
+Pois ele corresponde a 3 sintomas da mente, é um argumento maior para Pulsatilla
+
+195
+00:22:33,160 --> 00:22:38,810
+do que 3 argumentos para o Lycopodium, pois eles vieram das extremidades.
+
+196
+00:22:38,910 --> 00:22:41,590
+Pois nós dizemos que os sintomas mentais são mais importantes, se estiverem presentes,
+
+197
+00:22:41,690 --> 00:22:44,810
+eles são verdadeiros, eles são mais importantes.
+
+198
+00:22:44,910 --> 00:22:48,070
+Portanto, o capítulo também exerce uma influência.
+
+199
+00:22:48,170 --> 00:22:55,470
+De fato, eu anoto 6, 7 talvez 8 regras, mas existem mais.
+
+200
+00:22:55,570 --> 00:23:00,970
+Existem várias formas de refletir sobre a informação homeopática e os sintomas.
+
+201
+00:23:02,830 --> 00:23:09,310
+O que fizemos com George foi uma lista completa e exaustiva de todas essas regras
+
+202
+00:23:09,410 --> 00:23:16,060
+e para cada regra, definir as aplicações e exceções
+
+203
+00:23:16,160 --> 00:23:19,300
+e a possível relação com as outras regras.
+
+204
+00:23:19,400 --> 00:23:26,320
+Dessa forma, nós temos um formulário enorme com muitos cálculos e vocês obtêm
+
+205
+00:23:26,420 --> 00:23:30,570
+o que é chamado de taxa de probabilidade como resultados.
+
+206
+00:23:30,670 --> 00:23:38,830
+Se um remédio é sugerido como 1 ou 2 ou 3 no Expert System, é o cálculo de probabilidade.
+
+207
+00:23:45,070 --> 00:23:47,330
+O que é interessante nisso?
+
+208
+00:23:48,830 --> 00:23:55,500
+Eu usei esse caso pela manhã para explicá-los algumas coisas. Vocês se lembram disso?
+
+209
+00:23:56,460 --> 00:24:00,470
+E eu o usei em todos os métodos de repertorização.
+
+210
+00:24:01,940 --> 00:24:09,770
+Existe uma outra forma de olharmos para isso. Se eu clico aqui, então eu vejo os 6 métodos diferentes
+
+211
+00:24:09,870 --> 00:24:15,620
+de repertorização, todos juntos em uma tela. Os primeiros remédios de cada um deles.
+
+212
+00:24:18,120 --> 00:24:23,190
+Se não lembraram, vocês veem os remédios que são a 1a, 2a, 3a e 4a possibilidades
+
+213
+00:24:23,290 --> 00:24:26,940
+para cada método de repertorização.
+
+214
+00:24:27,040 --> 00:24:34,440
+Agora, se combinarmos tudo isso, uma alquimia começa a funcionar
+
+215
+00:24:34,540 --> 00:24:44,370
+e todos os elementos são adicionados e aqueles que pegaram um sintoma que conhecem,
+
+216
+00:24:44,470 --> 00:24:49,020
+se eles usarem o VES, que está apenas batendo uma outra chave,
+
+217
+00:24:49,120 --> 00:24:57,300
+que está confirmado que Lachesis é a possibilidade principal desse caso vivo asmático.
+
+218
+00:24:57,810 --> 00:25:05,780
+Que Lachesis deu alguns resultados, mas sem continuação da melhora.
+
+219
+00:25:05,880 --> 00:25:14,860
+E que o remédio que trouxe a realização da cura foi Aralia.
+
+220
+00:25:17,530 --> 00:25:21,790
+Portanto, esse é um exemplo de como o VES...
+
+221
+00:25:23,540 --> 00:25:25,790
+Vocês tiveram esse caso, vocês o conhecem.
+
+222
+00:25:27,530 --> 00:25:31,280
+E assim, vocês podem me dizer qual é a diferença entre Lachesis e Aralia?
+
+223
+00:25:38,700 --> 00:25:44,600
+Vamos fazer isso de uma forma diferente. Uma pessoa apresenta asma, Lachesis é o remédio.
+
+224
+00:25:44,700 --> 00:25:49,620
+Quando vocês esperam que a asma agrave? Me deem algumas ideias.
+
+225
+00:25:50,120 --> 00:25:53,120
+Agravação da asma pela Lachesis?
+
+226
+00:25:54,120 --> 00:26:09,870
+-Após dormir, o calor.
+-Antes da menstruação.
+
+227
+00:26:11,880 --> 00:26:15,130
+-E uma outra, agravação geral de Lachesis?
+
+228
+00:26:19,370 --> 00:26:27,970
+-Acordar após dormir.
+-Ao ir dormir.
+
+229
+00:26:30,460 --> 00:26:39,860
+-Quando adormece. Lachesis é o remédio que quando adormece, acorda novamente.
+
+230
+00:26:44,460 --> 00:26:47,460
+Quando está adormecendo, a asma surge novamente.
+
+231
+00:26:48,470 --> 00:26:53,960
+Portanto, o processo de adormecimento é difícil para Lachesis, como se por acaso estivesse com serpentes verdadeiras.
+
+232
+00:26:54,460 --> 00:26:59,710
+E qual é o ponto aqui com Aralia? Vocês se lembram agora?
+
+233
+00:27:02,200 --> 00:27:15,220
+Não é quando adormece, mas uma hora após dormir, após o primeiro sono.
+
+234
+00:27:18,620 --> 00:27:22,120
+O ponto que quero salientar agora é que temos os mesmos sintomas,
+
+235
+00:27:22,220 --> 00:27:26,620
+como para todos os outros métodos, eles falam de Calcarea, Lachesis, Pulsatilla, Silica,
+
+236
+00:27:26,720 --> 00:27:28,120
+vocês viram isso.
+
+237
+00:27:28,220 --> 00:27:33,620
+Vocês usam os mesmos sintomas com um pouco desse calculo mais complicado
+
+238
+00:27:33,720 --> 00:27:37,860
+e assim vocês tem uma boa sugestão para Aralia.
+
+239
+00:27:37,960 --> 00:27:41,860
+É isso o que o Expert System faz.
+
+240
+00:27:41,960 --> 00:27:45,460
+Eu explicarei a vocês, como o próximo ponto, as figuras.
+
+241
+00:27:46,000 --> 00:27:50,110
+Pois quando vocês usam o Expert System, vocês precisam saber o que isso quer dizer
+
+242
+00:27:50,210 --> 00:27:55,960
+e se está projetado, vocês conseguem saber, se George quer continuar, sim ou não.
+
+243
+00:27:56,960 --> 00:27:59,860
+E assim, eu acredito que as mensagens estejam claras.
+
+244
+00:27:59,960 --> 00:28:04,930
+Vocês conseguem ler as mensagens e entenderem as mensagens, mas eu quero explicar as figuras.
+
+245
+00:28:05,400 --> 00:28:10,530
+Aquim cada remédio que é projetado como uma primeira possibilidade, apresenta uma figura
+
+246
+00:28:10,630 --> 00:28:19,030
+que chamamos de taxa de confiança absoluta que poderão ter nesse remédio.
+
+247
+00:28:19,130 --> 00:28:28,710
+E existe apenas o resultado dos cálculos e ele poderá ser uma figura de 12625 ou 6720
+
+248
+00:28:28,810 --> 00:28:29,950
+isso não importa.
+
+249
+00:28:30,050 --> 00:28:41,620
+Ele é recalculado de tal forma que vocês podem considerar que a figura 100 é a ideal para ir.
+
+250
+00:28:42,730 --> 00:28:53,440
+Portanto, quando vocês chegam perto e acima de 100, isso significa que existem argumentos muito bons para Lachesis.
+
+251
+00:28:54,800 --> 00:28:56,040
+É isso o que quer dizer.
+
+252
+00:28:56,540 --> 00:29:03,270
+Dessa forma, vocês verão no início que serão 45, 60, etc. Quando o caso continua
+
+253
+00:29:03,370 --> 00:29:12,860
+e é coerente, essas figuras aumentarão para 80 e 90000, ela poderá se tornar muito grande,
+
+254
+00:29:12,960 --> 00:29:17,610
+se alguns sintomas confirmatórios forem adicionados.
+
+255
+00:29:17,710 --> 00:29:24,280
+Mas então, ainda existe uma outra figura que é importante, uma entre os parênteses.
+
+256
+00:29:25,360 --> 00:29:30,450
+A confiança relativa que temos na prescrição.
+
+257
+00:29:30,550 --> 00:29:36,120
+Agora, o que isso quer dizer? É uma explicação técnica para a vida real.
+
+258
+00:29:36,220 --> 00:29:43,540
+Se vocês tiverem argumentos muito bons para Lachesis, vocês prescreverão Lachesis?
+
+259
+00:29:47,560 --> 00:29:54,120
+Depende. se esses argumentos muito bons para Lachesis forem apenas para Lachesis.
+
+260
+00:29:54,220 --> 00:30:00,120
+Ou talvez por causa dos mesmos sintomas, vocês têm argumentos muito bons para Pulsatilla,
+
+261
+00:30:00,220 --> 00:30:05,360
+o qual é frequentemente próximo e para outros remédios.
+
+262
+00:30:05,460 --> 00:30:09,350
+E assim, vocês têm argumentos muito bons para Lachesis, mas ainda não estão confiantes,
+
+263
+00:30:09,450 --> 00:30:15,860
+pois a confiança em Lachesis é relativa, existem bons argumentos para Pulsatilla,
+
+264
+00:30:15,960 --> 00:30:18,960
+para Natrum muriaticum ou o que quer que seja.
+
+265
+00:30:19,420 --> 00:30:25,350
+Dessa forma, a confiança relativa em um remédio torna-se próxima à 100 novamente,
+
+266
+00:30:25,600 --> 00:30:31,500
+se for proeminente, se os argumentos o diferenciam da confiança
+
+267
+00:30:31,600 --> 00:30:34,260
+ou dos argumentos de outros remédios.
+
+268
+00:30:34,360 --> 00:30:40,410
+E isso é o que vocês veem na tela, é o que George chama de colunas. "Mostre-me as colunas",
+
+269
+00:30:40,510 --> 00:30:49,150
+ele diz e é onde a confiança de cada remédio é colocada em forma de gráfico.
+
+270
+00:30:49,250 --> 00:30:55,410
+Essa é a probabilidade para cada remédio neste passo. Quanto maior a barra,
+
+271
+00:30:55,510 --> 00:31:00,660
+maior a confiança, maiores os argumentos para cada um dos remédios.
+
+272
+00:31:02,010 --> 00:31:05,900
+E vocês veem que existem duas barras grandes, Lachesis e Aralia
+
+273
+00:31:06,000 --> 00:31:10,240
+e em seguida a Calcarea (?) está um pouco menor e todo o restante ainda menor.
+
+274
+00:31:10,340 --> 00:31:21,310
+E assim, principalmente 4 remédios ainda são as possibilidades e é por isso que neste caso, a prescrição diz:
+
+275
+00:31:21,410 --> 00:31:28,820
+100 é um argumento muito bom para Lachesis, mas 57 na segunda figura,
+
+276
+00:31:28,920 --> 00:31:35,810
+não é certeza absoluta que seja Lachesis, pois ainda existem possibilidades para os outros remédios.
+
+277
+00:31:35,910 --> 00:31:39,600
+E vocês olham para Calcarea (?) e Aralia.
+
+278
+00:31:44,330 --> 00:31:51,660
+Nós olhamos quais são os sintomas aqui, eu olho o que farei.
+
+279
+00:31:51,760 --> 00:32:06,570
+Eu pegarei um outro sintoma de Lachesis, agravação pela roupa e o acrescentarei aos
+
+280
+00:32:06,670 --> 00:32:09,570
+anteriores.
+
+281
+00:32:09,670 --> 00:32:19,340
+Se eu rodar o Expert System novamente, vocês verão os argumentos para Lachesis ainda melhores, 126.
+
+282
+00:32:19,590 --> 00:32:26,080
+E ele é um pouco mais proeminente, se formos para as colunas, vocês verão que a Lachesis
+
+283
+00:32:26,180 --> 00:32:28,100
+e Aralia são os mais fortes.
+
+284
+00:32:28,200 --> 00:32:34,070
+E assim, a confiança relativa para a prescrição em Lachesis aumentará.
+
+285
+00:32:34,170 --> 00:32:38,190
+Apesar de ainda cuidar desses outros remédios.
+
+286
+00:32:50,850 --> 00:32:51,850
+Um outro.
+
+287
+00:33:02,260 --> 00:33:07,410
+Eu vou para cá, desejo por farináceos, eu o acrescento
+
+288
+00:33:07,510 --> 00:33:14,410
+e agora eu tenho um caso excepcional de Lachesis.
+
+289
+00:33:14,510 --> 00:33:21,430
+253 argumentos em destaque para Lachesis e confiança de 111.
+
+290
+00:33:21,530 --> 00:33:28,420
+Pois agora Aralia ainda está em algum lugar, mas não temos nenhum argumento poderoso para Lachesis.
+
+291
+00:33:28,520 --> 00:33:30,150
+É claro que esse não era um caso real.
+
+292
+00:33:30,250 --> 00:33:38,660
+Eu acabei de mostrá-los como sintomas típicos podem mover a taxa de confiança de um remédio para cima.
+
+293
+00:33:41,760 --> 00:33:46,410
+Essa é a forma que vocês mexem nessas figuras para entenderem se a consulta
+
+294
+00:33:46,510 --> 00:33:49,010
+chegou ao fim ou não.
+
+295
+00:33:51,260 --> 00:33:53,660
+-Mais uma pergunta sobre essas figuras.
+
+296
+00:33:53,760 --> 00:33:57,660
+No início, você disse que o primeiro número poderia subir até 100
+
+297
+00:33:57,760 --> 00:34:02,820
+quando deveria estar próximo a 100 ou em torno de 100. Mas agora, ele foi além de 100.
+
+298
+00:34:08,010 --> 00:34:18,160
+-Sim, eu disse que deveria ficar próximo ao 100, quando vai para 80. 90, 100
+
+299
+00:34:18,260 --> 00:34:23,410
+e acima dele, significa bons argumentos a respeito. Dessa forma, com certeza podemos ir mais para cima.
+
+300
+00:34:23,510 --> 00:34:28,840
+Se eu acrescentar todos os sintomas-chaves de Lachesis, ele irá para 500 e 600.
+
+301
+00:34:30,850 --> 00:34:38,750
+-Eu tenho a mesma pergunta para a segunda figura.
+
+302
+00:34:38,850 --> 00:34:40,490
+-A mesma resposta.
+
+303
+00:34:40,590 --> 00:34:43,980
+-Mas o quanto mais ou menos é certeza absoluta?
+
+304
+00:34:45,010 --> 00:34:50,900
+-Para a certeza absoluta, é próximo ao remédio 80 e acima.
+
+305
+00:34:51,000 --> 00:34:58,640
+Para a segunda figura, eu diria que começa de 60-70. Mas não confie nas figuras.
+
+306
+00:34:58,740 --> 00:35:03,820
+Se você duvidar entre Aralia e Lachesis, apenas diga ao paciente:
+
+307
+00:35:03,920 --> 00:35:08,650
+"Eu o ligarei amanhã." E você Lê o seu livrinho e descobre pela Matéria Médica
+
+308
+00:35:08,750 --> 00:35:10,890
+qual é o melhor remédio.
+
+309
+00:35:10,990 --> 00:35:17,160
+Não confie nas figuras, não confie na repertorização. São apenas ferramentas que mostram uma estrada.
+
+310
+00:35:36,000 --> 00:35:42,400
+-Você pode dizer algo sobre os números das rubricas que estão
+
+311
+00:35:42,500 --> 00:35:46,650
+(?) dizer que pelo menos 4 rubricas precisam ser escolhidas
+
+312
+00:35:46,750 --> 00:35:53,180
+mas talvez exista também um máximo, onde (?) se torna inútil.
+
+313
+00:35:54,160 --> 00:36:01,070
+-Eu acredito que exista uma figura, um número de sintomas nos quais virtualmente
+
+314
+00:36:01,170 --> 00:36:05,070
+todas as repertorizações se tornam inúteis.
+
+315
+00:36:05,170 --> 00:36:10,810
+Antes de tudo, eu concordo com você que 4 sintomas sejam o mínimo.
+
+316
+00:36:10,910 --> 00:36:23,650
+Nós devemos ter alguma base sobre a qual nos firmamos e então, eles poderão ser 6, 7, 12, 15
+
+317
+00:36:23,750 --> 00:36:30,070
+às vezes até 20, mas a maioria dos casos seguirá essa ordem.
+
+318
+00:36:30,170 --> 00:36:37,250
+Eu me refiro aos sintomas únicos. É claro, um sintoma o qual são 5 sintomas combinados, não é 1 sintoma.
+
+319
+00:36:37,350 --> 00:36:40,490
+Essa será a variação que poderá esperar.
+
+320
+00:36:40,590 --> 00:36:43,890
+Se for muito acima, você sentirá que obteve muitos sintomas, talvez seja melhor
+
+321
+00:36:43,990 --> 00:36:48,060
+limpar alguns sintomas e manter os essenciais.
+
+322
+00:36:58,910 --> 00:37:05,250
+E assim, eu gostaria de falar um pouco sobre o futuro.
+
+323
+00:37:06,990 --> 00:37:13,410
+-Uma pequena coisa. O uso do VES é muito importante,
+
+324
+00:37:13,510 --> 00:37:21,650
+como você já disse em 91 para começar imediatamente e primeiramente usá-lo com o paciente,
+
+325
+00:37:21,750 --> 00:37:22,900
+não quando ele tiver ido embora.
+
+326
+00:37:23,000 --> 00:37:28,820
+É muito melhor usá-lo quando ele está aqui e em segundo, fazer uma avaliação
+
+327
+00:37:28,920 --> 00:37:32,810
+todas as vezes em que você acrescentou um sintoma.
+
+328
+00:37:32,910 --> 00:37:39,320
+Dessa forma, você tem o desenvolvimento contínuo das possibilidades
+
+329
+00:37:39,420 --> 00:37:44,920
+e probabilidades para a prescrição.
+
+330
+00:37:45,420 --> 00:37:52,310
+É muito útil, nós devemos usá-lo dessa forma.
+
+331
+00:37:52,410 --> 00:37:57,690
+-Sim, absolutamente. Perfeito.

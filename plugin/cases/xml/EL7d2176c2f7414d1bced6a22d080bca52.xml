@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL7d2176c2f7414d1bced6a22d080bca52</ID>
+  <patient>
+    <case_date>2015-04-20 11:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Κ.Τ</patient_initials>
+    <age>36</age>
+    <circumstances>Παντρεμένη-3 παιδιά-ελεύθερη επαγγελματίας, έχει ταβέρνα.      ΛΗΨΗ ΙΣΤΟΡΙΚΟΥ ΣΤΙΣ 20/4/15</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Παρουσιάζει κρίσεις πανικού (2) εδώ και 10 χρόνια με μούδιασμα σε χέρια και σώμα,μυικούς σπασμούς στα πόδια και ταχυκαρδία.Της παρουσιάζονταν 5-6 φορές τον χρόνο αλλά εδώ και 3  μήνες το παθαίνει κάθε βδομάδα μαζί με αυπνία(2) οπότε πήγε σε ψυχίατρο και άρχισε την ανωτέρω αγωγή</origin>
+        <causative_factors>Τοποθετεί την έναρξη των πανικών πρίν 10 χρόνια όταν δοκίμασε να καπνίσει χασίς και έπαθε ταχυπαλμία και νόμισε οτι θα πέθαινε.Απο τότε ανέπτυξε φόβο αρρώστιας(3) ,φόβο θανάτου(3) . Όπως λέει &lt;&lt; με το παραμικρό : κάτι έχω &gt;&gt;.  Πριν τρεις μήνες η καταστασή της χειροτέρευσε γιατί λιποθύμησε η κόρη της (10 χρονών) και διαγνώσθηκε επιληπτική κρίση. </causative_factors>
+        <modalities>Βελτιώνεται με την παρέα και την παρηγοριά (2). Τον τελευταίο καιρό θέλει τον άνδρα της ή την στενή της φίλη να την βάζουν για ύπνο στο κρεβάτι και να της κρατούν το χέρι μέχρι να κοιμηθεί.Επίσης μεγάλη βοήθεια της προσέφεραν οι εξηγήσεις μου για την κόρη της. Το παιδί έχει πάρει πολλά αντιβιωτικά,Πριν την επιληπτική κρίση είχε σταματήσει να ανεβάζει πυρετό και παρουσίαζε αδυναμία συγκέντρωσης.</modalities>
+        <occurrence_time>Χειροτερεύει όταν μαθαίνει για ανθρώπους που αρρωσταίνουν. </occurrence_time>
+        <body_side>Σε όλο το σώμα και τα άκρα.</body_side>
+        <appearence_frequency>Κάθε εβδομάδα.</appearence_frequency>
+        <pain_desc>Δεν υπάρχει πόνος αλλά σπασμοί στα πόδια, μουδιάσματα στα χέρια και στον κορμό και ταχυπαλμία.</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Βρογχίτιδες 2-3 φορές τον χρόνο με πυρετό έως 38,5. </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>cepralex 20mgr ανα 24ωρο(αντικαταθλιπτικό)        xanax 025mgr 3φορές ανα 24ωρο      Τα έχει αρχίσει εδώ και 2 μήνες</conv_med_presc>
+        <lab_tests>
+          <desc>Φυσιολογικές</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>cepralex 20mgr - xanax 0,25 X3 </therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>-</infections>
+          <other>-</other>
+        </personal>
+        <family>
+          <diseases>Οι γονείς είναι υγιείς χωρίς ιδιαίτερο ιστορικό.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει (2) , κρύα πόδια την ημέρα και στον ύπνο (2). Της αρέσει το φθινόπωρο και η άνοιξη. Λατρεύει τον ήλιο και την θάλασσα.</reactions>
+        <sleeping_habits>Ο ύπνος την ξεκουράζει πολύ κυρίως ο μεσημεριανός. Κοιμάται μπρούμυτα. Έχει αυπνία (2)  με συνεχείς σκέψεις και ανησυχία.</sleeping_habits>
+        <food_modalities>Επιθυμεί : κρύο (απο ψυγείο) νερό χειμώνα καλοκαίρι (2), αλάτι (2), ψάρι (2), κρέας χωρίς λίπος (2), λεμόνι (2), σαλάτες (2).&#13;
+Απέχθεια : καλαμαράκια οστρακοειδή (3)</food_modalities>
+        <menstruation>Τακτική με πολύ αίμα για τρεις μέρες.</menstruation>
+      </physical>
+      <mental_emotional>Είναι πολύ κοινωνική (3), θέλει να καλεί φίλους και να τους μαγειρεύει. Συμπάσχει (2). Φοβάται τις βροντές των καταιγίδων (2), γενικά τρομάζει εύκολα (2). Φοβάται το σκοτάδι (2) έχει φωτάκι την νύχτα. Επίσης φοβάται το ύψος (2). Δεν κλαίει τόσο εύκολα, &lt;&lt;κλαίω όταν πιεστώ&gt;&gt;. Είναι ανυπόμονη (2) και γρήγορη στις κινήσεις της. Προσβάλεται εύκολα (2)και την ενοχλεί η συμπεριφορά του άνδρα της που είναι οξύθυμος. Η μνήμη της είναι γενικά καλή </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Είναι υγιής γενικά με σωματική αντοχή και μόνο τα τελευταία 2 χρόνια παθαίνει βρογχίτιδες 2-3 φορές τον χρόνο και προσπαθεί να αποφεύγει τα αντιβιοτικά αν δεν επιμένουν οι γιατροί.Ο πυρετός  φθάνει 38,5 οπότε βρίσκεται σε καλό επίπεδο υγείας group 2 επίπεδο 4-5</personal_medical_history>
+        <family_medical_history>Δεν υπάρχει παρόμοια προδιάθεση (φοβιών) στο οικογενειακό ιστορικό</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Εφόσον η ασθενής ανήκει σε υψηλό επίπεδο υγείας θα ανταποκριθεί καλά στη θεραπεία.Επίσης δίνει σχετικά καθαρή εικόνα φαρμάκου</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Επιθυμεί πολύ κρύο νερό και τον χειμώνα(3)    &#13;
+Θέλει να της κρατούν το χέρι για να κοιμηθεί(2)</peculiar>
+        <intense>Φόβος θανάτου(3)     &#13;
+Φόβος αρρώστιας(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND ANXIETY&#13;
+health,&#13;
+about 3&#13;
+MIND COMPANY&#13;
+desire&#13;
+for 2&#13;
+MIND CONSOLATION&#13;
+amel.&#13;
+2&#13;
+MIND FEAR&#13;
+dark&#13;
+2&#13;
+MIND FEAR&#13;
+death,&#13;
+of 3&#13;
+MIND FEAR&#13;
+high&#13;
+places, of 2&#13;
+MIND FEAR&#13;
+sudden&#13;
+(panic attacks) 3&#13;
+MIND FEAR&#13;
+thunderstorm,&#13;
+of 2&#13;
+MIND IMPATIENCE&#13;
+2&#13;
+MIND OFFENDED,&#13;
+easily 2&#13;
+MIND STARTING,&#13;
+startled easily&#13;
+2&#13;
+MIND SYMPATHETIC&#13;
+2&#13;
+EXTREMITIES COLDNESS&#13;
+Foot&#13;
+2&#13;
+EXTREMITIES COLDNESS&#13;
+Foot&#13;
+night&#13;
+2&#13;
+SLEEP POSITION&#13;
+abdomen,&#13;
+on 2&#13;
+SLEEP SLEEPLESSNESS&#13;
+2&#13;
+GENERALITIES COLD&#13;
+agg.&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS cold&#13;
+drinks,&#13;
+water desire&#13;
+3&#13;
+GENERALITIES FOOD&#13;
+and DRINKS fat&#13;
+aversion&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS fish&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS lemons&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS milk&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS salad&#13;
+desire&#13;
+2&#13;
+GENERALITIES FOOD&#13;
+and DRINKS salt&#13;
+desire&#13;
+3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Το φάρμακο που επικρατεί είναι ο phos. και ως προς τα m-e(φοβίες,παρηγοριά,εξωστρέφεια,συμπάσχειν) και ως προς τα σωματικά(κρύο νερό,διατροφικές επιθυμίες και απέχθειες ,&gt;με τον ύπνο) και για την ευαισθησία στο αναπνευστικό.    &#13;
+Η δ.δ γίνεται από το -Nitric ac.που όμως δεν καθησυχάζεται εύκολα ως προς το άγχος υγείας   &#13;
+                             -calc.c που έχει φόβους αλλά είναι εσωστρεφής και δεν θέλει συντροφιά  &#13;
+                             -acon. για τους πανικούς που εδώ συνοδεύονται από την εικόνα phos.</remedies_differentiation>
+      <prescription>
+        <remedy>PHOSPHORUS</remedy>
+        <potency>200CH  -  1M</potency>
+        <regimen>200CH X 1 το βράδυ      1Μ το πρωί   20min προ φαγητού</regimen>
+        <other_notes>Τα φάρμακα θα τα παίρνει όπως της έχει υποδείξει ο ψυχίατρος και μόνο εφόσον αισθάνεται καλύτερα μπορεί να αρχίσει να τα μειώνει</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-10-28 10:00:00</followup_date>
+      <conv_med_presc>Cepralex 10mgr  .Στους 2 μήνες από την έναρξη της θεραπείας η ασθενής σταμάτησε σταδιακά τα 3 Χ 0,25 xanax και μείωσε το cepralex στα 10mgr.&#13;
+1o FOLLOW UP 15/6/15 &#13;
+&#13;
+&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>2 μέρες μετά τη λήψη του φαρμάκου αναφέρει μέτριο πονοκέφαλο και πολλά νεύρα.Στη συνέχεια άρχισε να αισθάνεται πιο ήρεμη και σταμάτησε το πρωινό xanax. Οσο έβλεπε οτι &lt;&lt;στεκόταν στα πόδια της και της έφευγαν οι ιδέες απ'το μυαλό&gt;&gt; ένοιωσε τη σιγουριά να διακόψει και τα υπόλοιπα xanax ,1 μήνα μετά.Ενώ ένοιωθε όλο και καλύτερα φοβόταν να μειώσει το cepralex και το έκανε μόνο όταν τηλεφώνησε στον ψυχίατρο. Το μείωσε στα 10 mgr στα μισά του 2ου μήνα</reaction>
+      <analysis>Απο την αρχική αντίδραση επιβεβαιώνεται ότι η ασθενής ανήκει στα μέσα του 2ου group και στη συνέχεια επιβεβαιώνεται και η ορθότητα του φαρμάκου.</analysis>
+      <conclusion>Λόγω της λήψης των αλλοπαθητικών και της αντιδότησης που υπάρχει επαναλαμβάνουμε τον phos.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>PHOSPHORUS</remedy>
+        <potency>1M</potency>
+        <regimen>1M X 1 το πρωί</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-10-28 10:00:00</followup_date>
+      <conv_med_presc>Καμμία.  2o FOLLOW UP 10/9/15</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Λίγα νεύρα τις πρώτες 2 μέρες και στη συνέχεια νοιώθει πολύ καλά &lt;&lt; δεν αναγνωρίζει τον εαυτό της&gt;&gt;.Σταματά εντελώς το αντικαταθλιπτικό ,κοιμάται καλά και παρουσιάζει βρογχίτιδα ήπια για την οποία δεν παίρνει φάρμακα.Επίσης παρουσιάζει πόνους  στα χέρια ,από τους αγκώνες και κάτω που λέει ότι τους είχε κατά καιρούς και στο παρελθόν από κούραση στη ταβέρνα</reaction>
+      <analysis>Πολύ καλή αντίδραση.Τέλος στα αλλοπαθητικά, στους πανικούς,ύπνος καλός και επίσης εμφάνιση παλαιοτέρων συμπτωμάτων (πόνοι στα χέρια) και εμφάνιση οξέος (βρογχίτιδας) πολύ πιο ήπιας μορφής απ'οτι συνήθως</analysis>
+      <conclusion>Δεν επαναλαμβάνουμε το φάρμακο,ούτε δίνουμε άλλο εφόσον ο οργανισμος βρίσκεται σε ισορροπία.Μέχρι σήμερα 15-10-15 η ασθενής είναι καλά</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>--</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

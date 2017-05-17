@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL0302e4e1b9f104223a78c81f7fc6e72c</ID>
+  <patient>
+    <case_date>2014-11-11 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Δ.Π</patient_initials>
+    <age>100</age>
+    <circumstances>Ηλικιωμενη κυρια 92 χρονων &#13;
+ζει μονη της απο χρονια με μια κυρια που την βοηθαει&#13;
+εχει 2 αγορια </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>διαρροιες τα τελευταια 2-3 χρονια εντονες&#13;
+φουσκωματα ζαλαδες αδυναμια</origin>
+        <causative_factors>γεραματα &#13;
+αδυναμια πεπτικου</causative_factors>
+        <modalities>αφαιρεση χολης στα 45</modalities>
+        <occurrence_time>μετα το φαγητο &#13;
+επιδεινωση μετα το φαγητο</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>μετα απο καθε γευμα &#13;
+καθημερινα</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>αρθριτιδα &#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>τιποτα </conv_med_presc>
+        <lab_tests>
+          <desc>οχι</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εμβολια δεν θυμαται&#13;
+χειρουργια 3  χολη ,και ισχια</therapies_vaccination>
+          <traumas>μοναξια</traumas>
+          <infections>εκανε υψηλο(39) πυρετο πριν εναν χρονο απο γριπη</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>οχι</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>νιωθει αδυναμια &#13;
+ζαλιζεται οταν περπαταει&#13;
+κρυωνει &#13;
+τυμπανισμος και αερια μετα απο καθε γευμα &#13;
+διαρροιεσ μετα απο καθε γευμα</reactions>
+        <sleeping_habits>παραπονιεται οτι δεν κοιμαται το βραδυ,οι δικοι τησ λενε οτι κοιμαται ολη την ημερα απο λιγο πως να κοιμηθει κ το βραδυ</sleeping_habits>
+        <food_modalities>εχει ορεξη ,πειναει λεει αλλα δεν μπορει να φαει λογω τησ διαρροιας&#13;
+μολισ φαει κατι πιο βαρυ εχει φουσκωματα , αερια ,κδιαρροια&#13;
+τρωει κυριωσ βραστα κ ρυζακι λιγο &#13;
+θελει να φαει προβατινα,κρεαςαλμυρα ,πιτες</food_modalities>
+        <menstruation>οχι</menstruation>
+      </physical>
+      <mental_emotional>γκρινιαρα &#13;
+παραπονιεται ολη την ημερα&#13;
+απαιτητικη&#13;
+μιλαει πολυ ολο παραπονιεται με αφησατε μονη μου </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>χειρουργιο αφαιρεση χολης στα 45&#13;
+χειρουργιο στα ισχια στα 60&#13;
+αρθριτιδα&#13;
+δεν εχει προβλήματα υγειας,δεν παιρνει φαρμακα </personal_medical_history>
+        <family_medical_history>ο πατερασ πεθανε σε ατυχημα οταν ηταν μικρη &#13;
+η μητερα τησ στα 76 απο εγκεφαλικο δεν ειχε προβληματα υγειασ </family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>υψηλο επιπεδο υγειας&#13;
+καλη κληρονομικοτητα &#13;
+δεν εχει ιδιαιτερα προβληματα υγειασ &#13;
+πεσμενος οργανισμος λογω ηλικιας&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>κρυωνει 4&#13;
+διαρροιεσ 3&#13;
+ζαλαδα οταν περπαταει 2&#13;
+πονους στα κοκκαλα 1&#13;
+εξαντληση 2&#13;
+φουσκωματα 4 &#13;
+αερια 4</peculiar>
+        <intense>πονουσ στα κοκκαλα 1&#13;
+ζαλαδα 2&#13;
+εξαντληση2&#13;
+διαρροιες 3&#13;
+κρυωνει 4&#13;
+αερια 4&#13;
+φουσκωματα4</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>indigestion 2&#13;
+stomach -diarrea- disorderd 3&#13;
+generals-heat-lack of vital heat 3&#13;
+chill in general 4&#13;
+stomach flatured food agg 4&#13;
+vertigo 1&#13;
+vertigo walking on 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>-</remedies_differentiation>
+      <prescription>
+        <remedy>carbo vegetabilis</remedy>
+        <potency>30 ch</potency>
+        <regimen>ενα carbo vegetabilis 30 ch καθε μερα για 5 μερες</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-15 17:00:00</followup_date>
+      <conv_med_presc>carbo vegetabilis 30 ch για 5 μερες</conv_med_presc>
+      <lab_tests>
+        <desc>οχι</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>νιωθει πιο δυνατη &#13;
+μειωθηκε η διαρροια τα βγαζει μαλακα &#13;
+σηκωνεται πιο ευκολα&#13;
+βελτιωθηκε η ψυχολογια της αυτο αρχισε να αλλαζει τις τελεθταιες μερες αρχισαν να ξανα ερχονται τα αρχικα συμπτωματα</reaction>
+      <analysis>ειχε μια βελτιωση που ομως δεν κρατησε με επαναφορα των συμπτωματων &#13;
+ισως μικρη δυναμοποιηση η αντιδοτηση του φαρμακου κανω επαναληψη με μεγαλυτερη δυναμοποιση</analysis>
+      <conclusion>ισωσ ηταν  μικρη η  δυναμοποιηση΄΄΄΄ καθως εχουμε κ ψυχολογικη βελτιωση μαζι με τα σωματικα συμπτωματα που ομως δεν κρατησε&#13;
+</conclusion>
+      <repertorization>
+        <desc>το ιδιο </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>carbo vegetabilis</remedy>
+        <potency>200 ch </potency>
+        <regimen>εφαπαξ </regimen>
+        <other_notes>;</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-03-15 17:00:00</followup_date>
+      <conv_med_presc>carbo vagatabilis 200ch</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>βελτιωση στα σθμπτωματα της και στην ψθχολογια της ποθ ομως δεν κρατησε εχουμε πληρη επαναφορα των αρχικων συμπτωματων </reaction>
+      <analysis>η επαναφορα των σθμπτωματων δειχνει η οτι η δραση του φαρμακου επαψε να ισχθει η ειναι κοντινο φαρμακο </analysis>
+      <conclusion>το φαρμακο που βγενει ειναι το ιδιο ,κραταω το ενδεχομενο για κοντινο φαρμακο </conclusion>
+      <repertorization>
+        <desc>το ιδιο </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>carbo vegetabilis</remedy>
+        <potency>1 M</potency>
+        <regimen>ΕΦΑΠΑΞ</regimen>
+        <other_notes>ειναι πληρης η επαναφορα των αρχικων συμπτωματων καθως κ οι ψυχολογικες αλλαγες δεν κρατησαν &#13;
+&#13;
+κραταω το ενδεχομενο για κοντινο φαρμακο </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2016-02-24 17:00:00</followup_date>
+      <conv_med_presc>=</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>=</reaction>
+      <analysis>=</analysis>
+      <conclusion>=</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>=</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELa9828cede8127ab0e87ced80ea845a60</ID>
+  <patient>
+    <gender>male</gender>
+    <patient_initials>Δ.Ρ</patient_initials>
+    <age>60</age>
+    <circumstances>παντρεμενος, 3 παιδια, συνταξιουχος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>καουρες στο στομαχι, καψιμο στα ποδια</origin>
+        <causative_factors>πολλα προβληματα υγειας, ισως το κυκλοφοριακο του (στο αριστερο ποδι που τον καιει κ περισσοτερο λειπει η φλεβα που του εχουν τοποθετησει στην καρδια)</causative_factors>
+        <modalities>χειροτερευει, οταν οδηγαει &lt;το αριστερο ποδι, με οτιδηποτε τηγανητο&lt; στομαχι</modalities>
+        <occurrence_time>&lt;βραδυ, οταν μεινει καθιστος πολυ ωρα</occurrence_time>
+        <body_side>ποδι αριστερα καψιμο, αναφερει κ μουδιασματα και στα δυο χερια</body_side>
+        <appearence_frequency>καθημερινα</appearence_frequency>
+        <pain_desc>'γενικο καψιμο κ καουρες'</pain_desc>
+        <complaint_ext>αναφερει κυριως επεκταση στο αριστερο γονατο αλλα δν εντοπιζει ακριβη εντοπιση</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>διαβητικος-ινσουλινοεξαρτωμενος, αντιυπερτασικα, αντιπηκτικα</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>πριν 9 χρονια εκανε για ενα τριμηνο θεραπεια αλλα δν θυμαται φαρμακα που του ειχαν δωσει</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>καθημερινα πολλα φαρμακα</therapies_vaccination>
+          <traumas>εχει χτυπησει με την μηχανη(σπασιμο ποδι) και 3 φορες οχι σοβαρα, εχει χτυπησει με το αμαξι(χτυπησε μονο λιγο τα ποδια του) -δυσκολα μιλαει,βαρυς ανθρωπος</traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας πεθανε απο καρκινο στο συκωτι πριν 15 χρονια, μητερα 92 ετων παιρνει μονο lonarid</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυωνει πολυ, τα ποδια του δν ζεσταινονται με τιποτα</reactions>
+        <sleeping_habits>κοιμαται 4-5 ωρες το πολυ ημερησιως, ξυπναει στο πλαι κ σηκωνεται μονιμως κουρασμενος, δν τον ξεκουραζει ο υπνος, ιδρωνει στον υπνο του</sleeping_habits>
+        <food_modalities>τον ευχαριστει να πινει αλκοολ, πινει καθε μερα τσιπουρο κ βαζει σε ολα τα φαγητα εξτρα πιπερι, ακομα κ στην φετα. δν πολυδιψαει γενικα , πινει παγωμενο νερο, του αρεσε να τρωει πολυ λουκανικο-τωρα δν κανει</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>'μονος μου ειμαι καλυτερα', δεν επιθυμει παρεα, 'να μν εχω κανεναν πανω απ το κεφαλι μου να μν ακουω τιποτα', λιγομιλητος κ 'μαγκας', ψυχολογικες μεταπτωσεις-εκει που ειναι καλα 'πεφτει'</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>μετρια προς κακη προγνωση αν λαβουμε υποψιν το επιβαρυμενο ιατρικο ιστορικο</personal_medical_history>
+        <family_medical_history>καλη προδιαθεση απ την πλευρα της μητερας</family_medical_history>
+        <level_of_health>10</level_of_health>
+        <conclusion>αν δν ηταν συγγενης 1ου βαθμου δν θα τον αναλαμβανα</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>δν αναφερει, με το ζορι λεει τα κανονικα συμπτωματα</peculiar>
+        <intense>καψιμο στα ποδια(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>capsicum, calcarea carbonica</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>capsicum,calcarea carbonica</remedies_differentiation>
+      <prescription>
+        <remedy>capsicum</remedy>
+        <potency>200ch</potency>
+        <regimen>1cap 10 λεπτα προ του πρωινου</regimen>
+        <other_notes>δν περιμενω πολλα...</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>διαβητικος-ινσουλινοεξαρτωμενος, αντιυπερτασικα, αντιπηκτικα</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>κοιμαται περισσοτερο, ξυπναει κ ξανακοιμαται περισσοτερες ωρες, τα ποδια τον καινε λιγοτερο κ δν εχει εντονες καουρες</reaction>
+      <analysis>περιμενα αρχικη βελτιωση καθως τον τοποθετησα στο 4ο γκρουπ</analysis>
+      <conclusion>θεωρω οτι εχω καθαρο φαρμακο κ θα συνεχισω με μικροτερες δοσεις</conclusion>
+      <repertorization>
+        <desc>capsicum</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>capsicum</remedy>
+        <potency>12x</potency>
+        <regimen>s:1x3</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

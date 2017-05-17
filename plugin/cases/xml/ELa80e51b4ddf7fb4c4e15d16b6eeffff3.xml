@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELa80e51b4ddf7fb4c4e15d16b6eeffff3</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>Γ Α</patient_initials>
+    <age>30</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ  ΧΩΡΙΣ  ΠΑΙΔΙΑ </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΕΞΩΜΗΤΡΙΟ  ΠΡΟ  1,5  ΧΡΟΝΟ  ΚΑΙ  ΕΚ ΤΟΤΕ  ΦΟΒΗΘΗΚΕ  ΟΤΙ  ΔΕΝ  ΘΑ  ΜΠΟΡΕΣΕΙ  ΝΑ  ΞΑΝΑΚΑΝΕΙ  ΠΑΙΔΙΑ </origin>
+        <causative_factors>ΤΗΝ  ΙΔΙΑ  ΕΠΟΧΗ  Ο ΠΑΠΠΟΥΣ  ΤΗΣ  ΕΙΧΕ  ΚΑΡΚΙΝΟ  ΣΤΟΝ  ΟΙΣΟΦΑΓΓΟ  ΚΑΙ  ΑΠΕΒΙΩΣΕ </causative_factors>
+        <modalities>ΑΓΧΟΣ  ΝΑ  ΤΕΚΝΟΠΟΙΗΣΕΙ</modalities>
+        <occurrence_time>ΟΧΙ</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>ΚΑΘΕ  ΜΕΡΑ  ΜΕΡΙΚΕΣ  ΦΟΡΕΣ  ΚΑΙ  ΝΥΧΤΑ  </appearence_frequency>
+        <pain_desc>ΚΟΜΠΟΣ  ΣΤΟ  ΛΑΙΜΟ  ( ΛΑΡΥΓΓΑ }  ΟΤΑΝ  ΑΣΧΟΛΕΙΤΑΙ  ΜΕ  ΚΑΤΙ  ΤΟ  ΞΕΧΝΑΕΙ</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>ΛΕΥΚΟΡΡΟΙΑ  &#13;
+ΚΑΝΕΙ  ΠΡΟΣΠΑΘΕΙΑ  ΧΩΡΙΣ  ΑΠΟΤΕΛΕΣΜΑ  ΝΑ  ΜΕΙΝΕΙ  ΕΓΚΥΟΣ </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΑΙΣΘΗΜΑ ΠΝΙΓΜΟΥ - ΥΠΟΓΟΝΗΜΟΤΗΤΑ</conv_med_presc>
+        <lab_tests>
+          <desc>ΟΥΔΕΝ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΥΔΕΝ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΕΧΕΙ  ΚΑΝΕΙ  ΚΑΝΟΝΙΚΑ  ΤΟΥΣ  ΕΜΒΟΛΙΑΣΜΟΥΣ</therapies_vaccination>
+          <traumas>ΘΑΝΑΤΟΣ  ΤΟΥ  ΠΑΠΠΟΥ  ΤΗΣ  ΠΡΙΝ  1.5  ΧΡΟΝΟ </traumas>
+          <infections>ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ΜΗΤΕΡΑ  ΔΥΣΜΗΝΟΡΡΟΙΑ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΚΡΥΩΝΕΙ   ΠΟΛΥ  &#13;
+ΕΝΤΟΝΗ ΔΥΨΑ  ΓΙΑ  ΚΡΥΟ  ΝΕΡΟ </reactions>
+        <sleeping_habits>ΠΛΑΙ    ΑΡ&#13;
+ΞΥΠΝΑΕΙ  ΣΧΕΤΙΚΑ  ΚΑΛΑ &#13;
+ΚΑΜΙΑ  ΦΟΡΑ  ΒΛΕΠΕΙ  ΕΦΙΑΛΤΕΣ</sleeping_habits>
+        <food_modalities>ΨΑΡΙ  3  &#13;
+ΑΠΕΧΘΕΙΑ  ΣΤΟ ΛΙΠΟΣ (2)&#13;
+ΑΓΑΠΑΕΙ ΤΟ ΑΛΑΤΙ  (2)</food_modalities>
+        <menstruation>ΚΑΛΟΣ  ΚΥΚΛΟΣ  ΕΝΑΡΞΗ  ΑΡΓΑ   16  ΕΤΩΝ </menstruation>
+      </physical>
+      <mental_emotional>ΦΟΒΟΣ  ΝΑ  ΜΕΙΝΕΙ  ΜΟΝΗ  ΝΥΧΤΑ  ( ΚΛΕΦΤΕΣ  )  3&#13;
+ΑΓΟΡΟΦΟΒΙΑ  2&#13;
+ΚΛΕΙΣΤΟΦΟΒΙΑ  1&#13;
+ΦΟΒΟΣ  CA&#13;
+ΚΛΕΕΙ  ΣΥΧΝΑ  ΜΟΝΗ &#13;
+ΕΥΕΡΕΘΗΣΤΗ &#13;
+ΔΕΝ  ΣΥΓΧΩΡΕΙ  ΕΥΚΟΛΑ  ΚΡΑΤΑΕΙ  ΚΑΚΙΑ  2&#13;
+ΑΓΧΟΣ  3&#13;
+&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>ΕΞΩΜΗΤΡΙΟ  ΠΡΙΝ  1.5  ΧΡΟΝΟ&#13;
+ΚΥΣΤΗΣ  ΔΕ  ΩΟΘΙΚΗΣ  ΣΕ  ΗΛΙΚΙΑ  17  ΕΤΩΝ  ΧΕΙΡ  /ΘΕΝ</personal_medical_history>
+        <family_medical_history>ΜΗΤΕΡΑ  ΙΝΟΜΥΩΜΑ </family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>ΠΡΟΒΛΗΜΑ    ΥΠΟΓΟΝΗΜΟΤΙΤΑΣ   ΤΟ  ΟΠΟΙΟ  ΕΧΕΙ ΚΑΝΕΙ ΤΗΝ  ΑΣΘΕΝΗ  ΥΠΕΡΕΥΑΙΣΘΗΤΗ  ΜΕ  ΞΕΣΠΑΖΜΑΤΑ  ΚΑΙ ΚΡΙΣΕΙΣ  ΠΑΝΙΚΟΥ</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΓΥΝΑΙΚΑ  ΜΕ  ΕΠΙΠΕΔΟ  ΣΤΗΘΟΣ&#13;
+ΤΗΣ  ΑΡΕΣΕΙ ΠΑΡΑ ΠΟΛΥ ΝΑ ΚΑΝΕΙ ΔΙΑΦΟΡΕΣ   ΦΥΣΙΚΕΣ ΔΡΑΣΤΗΡΙΟΤΙΤΕΣ  ΚΑΙ ΓΥΜΝΑΣΤΙΚΗ&#13;
+ΔΕΝ ΦΟΡΑΕΙ  ΚΛΕΙΣΤΑ ΣΤΟ ΛΑΙΜΟ  ΤΗΝ ΠΝΙΓΟΥΝ (2) &#13;
+&#13;
+ΑΝΑΦΕΡΕΙ ΜΟΝΟ ΚΛΕΙΤΟΡΙΔΙΚΟ ΟΡΓΑΣΜΟ (2)&#13;
+ΔΕΝ ΕΧΕΙ ΕΠΙΘΥΜΙΑ ΓΙΑ ΣΕΞ  ΚΑΝΕΙ  ΓΙΑΤΙ ΘΕΛΕΙ ΠΑΙΔΙ&#13;
+</peculiar>
+        <intense>ΑΙΣΘΗΜΑ  ΠΝΙΓΜΟΥ ( ΚΟΜΒΟΣ  )  ΔΕΝ  ΑΝΤΕΧΕΙ  ΣΦΙΚΤΑ  ΣΤΟ  ΛΑΙΜΟ&#13;
+ΣΥΧΝΟ  ΚΛΑΜΑ  ΧΩΡΙΣ  ΝΑ  ΞΕΡΕΙ  ΤΗΝ  ΑΙΤΙΑ 3&#13;
+ΔΕΝ  ΣΥΓΧΩΡΕΙ  ΕΥΚΟΛΑ  ΚΡΑΤΑΕΙ  ΚΑΚΙΑ  2&#13;
+ΠΟΛΛΑ  ΝΕΥΡΑ  ( ΟΤΑΝ  ΝΕΥΡΙΑΖΕΙ  ΛΕΕΙ  ΠΡΑΓΜΑΤΑ  ΠΟΥ ΔΕΝ  ΤΑ  ΕΝΝΟΕΙ  ΓΙΑ  ΝΑ ΠΟΝΕΣΕΙ  ΤΟΝ  ΑΛΛΟΝ  )3&#13;
+ΦΟΒΟΣ  ΟΤΙ  ΔΕΝ  ΘΑ  ΚΑΝΕΙ  ΠΟΤΕ  ΠΑΙΔΙ  4&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>LACH - ΔΕΝ ΦΟΒΑΤΑΙ ΤΑ ΦΙΔΙΑ , ΚΡΥΩΝΕΙ , ΔΕΝ ΕΙΝΑΙ ΖΗΛΙΑΡΑ ΟΥΤΕ ΠΟΛΥΛΟΓΟΥ &#13;
+NUX-V - ΔΕΝ ΕΙΝΑΙ ΚΑΘΟΛΟΥ  ΦΙΛΟΔΟΞΗ  , ΔΕΝ ΕΙΝΑΙ ΣΧΟΛΑΣΤΙΚΗ , ΔΕΝ ΚΑΥΓΑΔΙΖΕΙ ΣΥΧΝΑ&#13;
+ΝΑ Μ -  ΤΗΣ ΑΡΕΣΕΙ Η ΠΑΡΕΑ , ΕΠΙΚΡΙΤΙΚΗ , ΚΑΡΦΩΝΕΙ , ΘΕΛΕΙ ΠΑΡΗΓΟΡΙΑ</remedies_differentiation>
+      <prescription>
+        <remedy>sepia και plb nr 45</remedy>
+        <potency>200 ch </potency>
+        <regimen>το πρωι προ φαγ </regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>kamia </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>η ασθενησ αναφερει εντονη  αρχικη επιδεινωση για 24 ωρες  πονοκεφαλο  σαν καρφι πανω απο το αρ ματι και  εντονη υπνηλια .</reaction>
+      <analysis>ΠΟΛΥ ΚΑΛΗ . Ο ΠΟΝΟΚΕΦΑΛΟΣ ΣΤΟ ΑΡ ΜΑΤΙ  ΕΙΝΑΙ ΧΑΡΑΚΤΗΡΙΣΤΙΚΟ   ΤΟΥ ΦΑΡΜΑΚΟΥ  ΑΡΑ ΤΟ ΦΑΡΜΑΚΟ ΕΙΝΑΙ ΤΟ ΣΩΣΤΟ .&#13;
+ΕΠΙΣΗΣ Η ΑΣΘΕΝΗΣ ΕΧΕΙ ΜΕΓΑΛΗ  ΒΕΛΤΙΩΣΗ ΣΤΟ ΑΡΧΙΚΟ ΣΥΜΠΤΩΜΑ ( ΑΙΣΘΗΜΑ ΚΟΜΒΟΥ ΣΤΟ ΛΑΙΜΟ ) ΚΑΙ ΕΙΝΑΙ ΠΟΛΥ ΠΙΟ ΕΣΙΟΔΟΞΗ .&#13;
+ΔΕΝ ΚΛΑΙΕΙ ΣΥΧΝΑ .&#13;
+ΜΟΝΟ ΠΟΥ ΠΑΡΑ ΤΙΣ ΠΡΟΣΠΑΘΕΙΕΣ ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΚΑΝΕΙ ΠΑΙΔΙ </analysis>
+      <conclusion>ΠΟΛΥ ΚΑΛΗ ΑΝΤΙΔΡΑΣΗ . Ο ΟΡΓΑΝΙΣΜΟΣ ΕΧΕΙ ΜΠΕΙ ΣΕ ΘΕΡΑΠΕΥΤΙΚΗ ΠΟΡΕΙΑ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>PLB  </remedy>
+        <potency>6X   </potency>
+        <regimen>NR 30  1  ΚΑΘΕ ΜΕΡΑ</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>ΚΑΜΙΑ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ΑΣΘΕΝΗΣ  ΗΡΘΕ  ΣΗΜΕΡΑ  ΚΑΙ ΜΟΥ  ΑΝΑΚΟΙΝΩΣΕ  ΟΤΙ  ΕΠΙΤΕΛΟΥΣ  ΕΙΝΑΙ ΕΓΚΥΟΣ . ΕΙΔΗ  ΠΡΙΝ ΚΑΙΡΟ   ΕΝΙΩΘΕ  ΠΑΡΑ ΠΟΛΥ  ΚΑΛΑ  ΚΑΙ ΔΕΝ  ΕΙΧΕ ΚΑΝΕΝΑ  ΑΠΟΛΥΤΩΣ ΣΥΜΠΤΩΜΑ  . ΗΡΘΕ  ΝΑ ΜΕ ΕΥΧΑΡΙΣΤΗΣΕΙ .</reaction>
+      <analysis>ΤΕΛΕΙΑ  ΑΝΤΙΔΡΑΣΗ </analysis>
+      <conclusion>ΠΛΗΡΗ ΙΑΣΗ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΚΑΝΕΝΑ</remedy>
+        <potency>ΚΑΜΙΑ</potency>
+        <regimen>ΚΑΜΙΑ</regimen>
+        <other_notes>ΣΩΣΤΟ  ΦΑΡΜΑΚΟ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

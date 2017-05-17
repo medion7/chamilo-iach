@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL5536f08dff0a4c7d011607c99b9325ea</ID>
+  <patient>
+    <case_date>2014-05-18 18:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Π.Χ.</patient_initials>
+    <age>35</age>
+    <circumstances>Έγγαμη,1,65 ύψος, 57kg, φυσικοθεραπεύτρια, μητέρα 3 παιδιών</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Πονοκέφαλος2 , κυρίως αριστερά 1-2 φορές την εβδομάδα.&#13;
+Ατονία2 , κόπωση3, άγχος2&#13;
+Συναισθηματικά αδιάφορη2  Έντονη κατάπτωση2  -σωματική  και πνευματική κούραση   Δεν έχει διάθεση για σεξουαλική επαφή2&#13;
+Αδιαφορία, για το τι γίνεται δίπλα της 2.   Σαν να μην την ακουμπούν τα γεγονότα.&#13;
+Ξυπνά κουρασμένη1 και κακοδιάθετη2.&#13;
+Έχει βαρύ κεφάλι, όλη μέρα. Δεν έχει διάθεση, για τίποτα.</origin>
+        <causative_factors>Ένα παιδί της, πάσχει από μυασθένεια Gravis.(διεγνώσθη πριν 5 χρόνια).&#13;
+Απόλυση από δουλειά, προ διετίας και έκτοτε ημιαπασχολείται.</causative_factors>
+        <modalities>&gt;όταν απασχολείται χειρονακτικά, στη δουλειά ή στο σπίτι1&#13;
+&lt;όταν απασχολείται, πνευματικά2&#13;
+&gt;όταν είναι μόνη,στο χώρο της2&#13;
+&gt; όταν κλαίει, μόνη 1&#13;
+</modalities>
+        <occurrence_time>&gt;από το απόγευμα και μετά1&#13;
+&lt; το πρωί, με το ξύπνημα2</occurrence_time>
+        <body_side>Κυρίως αριστερά.</body_side>
+        <appearence_frequency>Η κόπωση είναι συνεχής.&#13;
+1-2 φορές την εβδομάδα έχει και πονοκέφαλο.</appearence_frequency>
+        <pain_desc>Νοιώθει έντονο παλμικό πόνο,κυρίως αριστερά</pain_desc>
+        <complaint_ext>Ξεκινάει,  συνήθως ξεκινάει από το μέτωπο και επεκτείνεται στο αρ. μάτι</complaint_ext>
+        <other_complaints>Νεύρα2,όταν την ενοχλούν&#13;
+Λευκόροια2 ,μεταξύ των κύκλων.&#13;
+Ονυχοφαγία1&#13;
+Κλαίει2,&#13;
+av. sex2&#13;
+Βάρος στην κοιλιά της2</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Πονοκέφαλος,  1-2 φορές την εβδομάδα.  panadol extra, για τον πονοκέφαλο.&#13;
+Αυπνία2  &#13;
+seropram για &gt;της διάθεσης της.&#13;
+&#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Natrum mur. πριν 3 χρόνια .που τη βοήθησε.&#13;
+Αλλά χειροτέρεψε, μετά την απόλυση από τη δουλειά της.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Τα υποχρεωτικά εμβόλια, στην παιδική ηλικία.&#13;
+</therapies_vaccination>
+          <traumas>Αρρώστια του παιδιού .&#13;
+Απολύθηκε από τη  δουλειά προ διετίας και δε μπορεί να συμβιβασθεί με  την ιδέα της περιοδικής απασχόλησης. </traumas>
+          <infections>Περιστασιακά, με απλές ιώσεις. Έκανε πυρετό 39,3 ,προ 3μήνου, όταν είχε αμυγδαλίτιδα.</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Ο πατέρας διαβήτη και ΧΑΠ.&#13;
+Η μητέρα κατάθλιψη.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρύα2.</reactions>
+        <sleeping_habits>Στο πλάι, κυρίως δεξιά.&#13;
+Ο ύπνος δεν την ανανεώνει2&#13;
+Ξυπνάει κουρασμένη.2</sleeping_habits>
+        <food_modalities>des.γλυκά2, μακαρόνια2, ξινά-ξύδι1&#13;
+av,γάλα2, φρούτα1,av.λίπος2</food_modalities>
+        <menstruation>Στο παρελθόν αραιομηνόρροια (κάθε45 ημέρες-3μήνες).&#13;
+Τα τελευταία 2 χρόνια λευκόρροια.1</menstruation>
+      </physical>
+      <mental_emotional>Συναισθηματικά αδιάφορη2.&#13;
+Αδιαφορία, για τα δρώμενα δίπλα της2.&#13;
+Ατονία2 , κόπωση3.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δεν έχει ιδιαίτερα σωματικά προβλήματα,αλλά συναισθηματικά εμπόδια.</personal_medical_history>
+        <family_medical_history>Υπάρχουν  οικογενειακές προδιαθέσεις</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Περιμένουμε, ότι θα μπορέσει  να βοηθηθεί, με την αγωγή μας.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Συναισθηματική αδιαφορία2</peculiar>
+        <intense>Ατονία2   κόπωση2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Mind - indifference ,apathy, etc. loved ones to2&#13;
+Mind - anxiety2&#13;
+Mind - biting - nails1&#13;
+Mind - company -  aversion to - amel, when alone2&#13;
+MInd- confusion- of mind -  weeping amel.2&#13;
+Mind- menta-l exertion agg.2   &#13;
+Head - pain2&#13;
+Head -pain motion amel.1&#13;
+Head - pain - mental - exertion -agg2&#13;
+Abdomen -heaviness, as from a load, etc.2&#13;
+Genitalia -female-coition(sex) -aversion to2&#13;
+Genitalia-  female-leucorrhoea dischrage1&#13;
+Sleep - sleepiness  morning2&#13;
+Chill coldness in general2&#13;
+Generalities - weakness2&#13;
+Generalities - food and drink-fruit aversion1&#13;
+Generalities - food and drinks - pasta -desire 2&#13;
+Generalities - food and drinks - sweets -desire2&#13;
+ Generalities - food and drinks - vinegar-desire 1&#13;
+Generalities - walking- amel.1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Είναι κοντά στα φάρμακα Natrum mur. και Sepia. Σε αυτή τηνπερίοδο νομίζω πως χρειάζεται την  Sepia, λόγω της απέχθειας  για σεξ,  αλλά και της έντονης συναισθηματικής αδιαφορίας. Το Compass,   βγάζει 1o Sepia,    2o Natrum mur.   3ο Lycopodium</remedies_differentiation>
+      <prescription>
+        <remedy>Sepia</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Την πρώτη μέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-26 18:00:00</followup_date>
+      <conv_med_presc>Συνεχίζει τα ίδια χημικά φάρμακα ,που έπαιρνε</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>4 ημέρες μετά τη λήψη του φαρμάκου,είχε για 1 εβδομάδα έντονο πονοκέφαλο.  Μετά από 15 ημέρες κοιμόταν&gt;   και ξυπνούσε &gt;το πρωί.       Τις τελευταίες ημέρες, η  κόπωση &gt;1 και ψυχικά &gt;1   </reaction>
+      <analysis>Είχε αρχική επιδείνωση και μετά &gt;   Περιμένω να δράσει το φάρμακο, σε βάθος χρόνου. Δεν αλλάζω , δεν επαναλαμβάνω.</analysis>
+      <conclusion>Περιμένω ,δεν αλλάζω. Θα της δώσω placebo για ψυχολογικούς λόγους.</conclusion>
+      <repertorization>
+        <desc>Δεν έχω νέα συμπτώματα</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Sepia</remedy>
+        <potency>6x placebo</potency>
+        <regimen>1 caps κάθε πρωί </regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-09-02 08:00:00</followup_date>
+      <conv_med_presc>Depon , Ponstan όταν έχει πονοκέφαλο.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνεχίστηκε  η βελτίωση.    &gt;οι σωματικές δυνάμεις, αφυπνίστηκαν τα συναισθήματα της2,    &gt;ψυχικά1,         σταμάτησε η λευκόρροια ,    θέλει σεξουαλική επαφή,      συνεχίζεται ο πονοκέφαλος ,κυρίως, το πρωί που ξυπνά2    και &gt;    μετά το μεσημέρι,    αυπνία2.    προτιμεί αλμυρές γεύσεις3   και    την ενοχλεί η παρηγοριά2        Δε θέλει παρέα ,κυρίως το πρωί1,    ειναι συγκρατημένη2    δε θέλει παρηγοριά2   την ενοχλούσε ο ήλιος το καλοκαίρι1</reaction>
+      <analysis>Άλλαξε η εικόνα της, έφυγε η εικόνα της Sepia και πλησίασε στο Natrum mur.</analysis>
+      <conclusion>Έχει αλλάξει η εικόνα και είναι Natrum mur.</conclusion>
+      <repertorization>
+        <desc>Mind - company - aversion to - morning1      Mind - reserved2       Mind - consolation - agg2     Mind - sensitive - oversensitive2    Head - pain - morning - waking on2     Generalities  - food and drinks - salt - desire3       Generalities - sun from exposure to agg.1    Rectum - constipation - difficult stool2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum muriaticum</remedy>
+        <potency>200CH</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Nα ληφθεί το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2014-11-05 14:00:00</followup_date>
+      <conv_med_presc>Περιστασιακά κάποιο παυσίπονο</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πάει καλά, είναι πιό καλά ψυχολογικά,   κοιμάται καλά, αλλά περιστασιακά έχει κάποιον πονοκέφαλο</reaction>
+      <analysis>Το φάρμακο δρα ακόμη </analysis>
+      <conclusion>Περιμένω ,δεν αλλάζω, δεν επαναλαμβάνω. Θα της δώσω placebo για ψυχολογικούς λόγους.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Natrum muriaticum</remedy>
+        <potency>6x placebo</potency>
+        <regimen>1 caps κάθε πρωί </regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

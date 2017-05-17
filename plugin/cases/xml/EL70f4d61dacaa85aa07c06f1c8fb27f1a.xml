@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL70f4d61dacaa85aa07c06f1c8fb27f1a</ID>
+  <patient>
+    <case_date>2012-10-08 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Ο.Π</patient_initials>
+    <age>5</age>
+    <circumstances>Πρώτο και μοναδικό παιδί χωρισμένων γονιών. Το μεγαλώνει η μητέρα</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Έναρξη βρεφονηπιακού σταθμού σε ηλικία 9 μηνών και από τότε συχνές ωτίτιδες (περίπου ανά μήνα) με συχνή χορήγηση αντιβίωσης (5 φορές το χρόνο)</origin>
+        <causative_factors>επιμένουσα ρινίτιδα, συχνές ιογενείς λοιμώξεις με πυρετό</causative_factors>
+        <modalities>δεν αναφέρονται</modalities>
+        <occurrence_time>καταπιέζεται με χορήγηση αντιβίωσης και επανεμφανίζεται (συχνές υποτροπές)</occurrence_time>
+        <body_side>και οι 2 πλευρές πότε (αρ) και πότε (δε) ωτίτιδα</body_side>
+        <appearence_frequency>1 φορά το μήνα &lt; χειμερινούς μήνες λόγω των ιώσεων</appearence_frequency>
+        <pain_desc>Αιφνίδιος πόνος στο αυτί που χορηγείται αναλγητικό και κατόπιν αντιβίωση</pain_desc>
+        <complaint_ext>1 επεισόδιο βρογχίτιδας (έλαβε εισπνεόμενα βρογχοδιασταλτικά και εισπνεόμενα κορτικοειδή)</complaint_ext>
+        <other_complaints>Σε ηλικία 2 μηνών εμφάνισε εξάνθημα που αποδόθηκε σε αλλεργία στο γάλα αγελάδας και έλαβε υποαλλεργικό γάλα μέχρι τον πρώτο χρόνο ζωής.&#13;
+Σε ηλικία 12 μηνών επέμβαση απόφραξης ρινοδακρυικού πόρου&#13;
+Από την ηλικία των 9 μηνών μέχρι σήμερα συχνές ιογενείς λοιμώξεις με πυρετό, ρινίτιδα&#13;
+Ήπια δυσκοιλιότητα, είναι λιγόφαγος.&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Συχνές ωτίτιδες, έχει πάρει πολλές φορές αντιβιοτικά</conv_med_presc>
+        <lab_tests>
+          <desc>όχι</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>όχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>έχει κάνει πολλά εμβόλια και έχει πάρει πολλά αντιβιοτικά</therapies_vaccination>
+          <traumas>Φυσιολογική σύλληψη. Δύσκολη εγκυμοσύνη από ψυχολογικής πλευράς λόγω χωρισμού της μητέρας από τον πατέρα στον 3ο μήνα της κύησης. Μετά τον 5ο μήνα πολλή "μαυρίλα", αρνητικές σκέψεις, πολύ κλάμα, θυμός της μητέρας. Γεννήθηκε με προγραμματισμένη καισαρική τομή λόγω έρπητα γεννητικών οργάνων της μητέρας και μειωμένης εμβρυικής ανάπτυξης. Περιγεννητική περίοδος: ομαλή, δεν παρουσίασε ίκτερο. Δεν θήλασε, η μητέρα πήρε αντιβίωση λόγω φλεγμονής στο εγχειρητικό τραύμα.</traumas>
+          <infections>Συχνές εμπύρετες ιογενείς λοιμώξεις ανώτερου αναπνευστικού, ωτίτιδες.&#13;
+1 επεισόδιο βρογχίτιδας σε ηλικία 12 μηνών (έλαβε βρογχοδιασταλτικά και εισπνεόμενη κορτιζόνη)</infections>
+          <other>Εξάνθημα σε ηλικία 2 μηνών που αποδόθηκε σε πιθανή αλλεργία στο γάλα της αγελάδας και σιτίσθηκε με υποαλλεργικό γάλα μέχρι τον 12ο μήνα ζωής.</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα:39χρ, έρπητας γεννητικών οργάνων&#13;
+Πατέρας, 42χρ, σοβαρά ψυχολογικά προβλήματα&#13;
+Μητρικός παππούς, 67χρ, σακχ. διαβήτης τύπου ΙΙ, καρδιοπάθεια&#13;
+Πατρική γιαγιά απεβίωσε λόγω καρκίνου (λέμφωμα?)</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt;κρύο(2), υγρασία (1)&#13;
+&gt; ζέστη (2), καλοκαίρι (2), αέρας (2), Θάλασσα(2)&#13;
+Κρυουλιάρης (3)&#13;
+Ιδρώτας (2) &lt; πατούσες (2), αυχένας στον ύπνο (1)</reactions>
+        <sleeping_habits>Ήσυχος ύπνος. Τον τελευταίο μήνα κοιμάται μόνος του, θέλει τη μαμά του μέχρι να τον πάρει ο ύπνος. &gt;Πλάγια, δεν στριφογυρίζει, &gt;σκεπασμένος (2). Σπάνια σηκώνεται μετά τις 12π.μ για νερό. Ξυπνάει ξεκούραστος, χαρούμενος.&#13;
+Κοιμάται και μεσημέρι περίπου 2 ώρες και ξυπνάει καλά.</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ: γάλα (και κρύο)(2), αυγό, κυρίως μελάτο (3), μπανάνα (2), σοκολάτα (3), γλυκά (2), μακαρόνια (1), πατάτες (2), σούπες(2), ψάρι (2)&#13;
+ΔΕΝ ΕΠΙΘΥΜΕΙ: κρέας (3), ξινά (3), φρούτα (1)&#13;
+Νερό σχετικά λίγο (2-3 ποτήρια την ημέρα, λίγο-λίγο)</food_modalities>
+        <menstruation>ΟΧΙ</menstruation>
+      </physical>
+      <mental_emotional>Ήσυχος, κολλημένος στη μαμά του (2), ντροπαλός (2),εσωστρεφής (2), στην παιδική χαρά δεν ξεκολλάει από τη μαμά του, δεν πάει να παίξει με άγνωστα παιδιά (3) αλλά και στο σχολείο έχει 1 μόνο φίλο, Γκρινιάρης (1), πεισματάρης (1), έχει νεύρα άμα δεν του κάνεις το χατήρι αλλά δέχεται και το όχι, &gt;παρηγοριά(2), κουρασμένος (2), προτιμάει να παίζει ήσυχα παιχνίδια, ιστορίες, Τακτικός(1). &#13;
+Φόβοι: καραγκιόζης (2), φαντάσματα (1), μοναξιά (2)Έχει σχετικά καθυστερήσει στο λόγο, μιλαει αλλά με περιορισμένο λεξιλόγιο και όχι πολύ καθαρά (1). </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Αγόρι ηλικίας 2,5 χρόνων με συχνά κρυολογήματα και ωτίτιδες που έχει πάρει καταπιεστικές θεραπείες (αντιβιοτικά, εμβόλια) και είναι αδυνατισμένο, χλωμό, με μαύρους κύκλους και μειωμένη όρεξη. Επίσης υπάρχει ψυχοδιανοητική επιβάρυνση λόγω επώδυνου διαζυγίου στην εγκυμοσύνη και ψυχοπαθολογίας του πατέρα τον οποίο δεν βλέπει, μεγαλώνει μόνο με τη μητέρα του.</personal_medical_history>
+        <family_medical_history>Μητέρα, 39χρ, έρπητας γεννητικών οργάνων&#13;
+Πατέρας, 42χρ, σοβαρά ψυχολογικά προβλήματα (δεν τα περιέγραψε η μητέρα)&#13;
+Μητρικός παππούς, 67χρ, σακχ. διαβήτης τύπου ΙΙ, καρδιοπάθεια&#13;
+Πατρική γιαγιά απεβίωσε λόγω καρκίνου (λέμφωμα?)</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Αγόρι με ωτίτιδες και συχνή χορήγηση αντιβίωσης-καταπίεση, αδυνατισμένος οργανισμός </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>όχι</peculiar>
+        <intense>personal history of reccurent otitis (3)&#13;
+personal history tendency to take  cold(3)&#13;
+desire egg-soft boiled eggs (3)&#13;
+coldness in general (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>mind-timidity (3),mind- reserved (2), generalities- weakness(2), generalities- desire egg, soft boiled eggs(3), generalities-desire milk (3),generalities- desire soup (2),generalities- desire chocolate (3), generalities-desire potatoes (2), generalities-aversion fruit (1),generalities- aversion meat (3), generalities- aversion lemon(3), stomach-thirstless (1),perspiration- perspiration soles (2),perspiration- perspiration- scalp- sleep during(2), mind-fear ghosts (1),mind- fear alone, of being (2), mind-obstinate (1), sleep- position sides (2), mind-slow learning talk (1),generalities- personal history reccurent otitis (3), generalities- tendency to take cold (3), generalities- open air ameliorates(1),extremities- brittle nails (1),abdomen- constipation (1)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Calcarea carbonica (coldness in general, desire eggs-soft boiled eggs, brittle nails, constipation, fears, desire chocolate, tendency to take cold, perspiration)&#13;
+Silicea (chilly, perspires, sensitive, timid, tendency to take cold, constipation, brittle nails, otiits media)&#13;
+Baryta carbonica (lack of self confidence, timidity, aversion fruit, slow learning to talk)</remedies_differentiation>
+      <prescription>
+        <remedy>Calcarea carbonica</remedy>
+        <potency>200 CH, 1 M</potency>
+        <regimen>CALCAREA CARBONICA 200CH: την πρώτη μέρα το πρωί&#13;
+CALCAREA CARBONICA 1M: την ίδια μέρα το βράδυ</regimen>
+        <other_notes>Παιδί με συχνές ωτίτιδες αλλά καθαρό ιστορικό για calcarea carbonica που σημαίνει αρκετά υψηλό επίπεδο υγείας αλλά  έχει πάρει πολλή αντιβίωση (καταπίεση)</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-11-22 08:00:00</followup_date>
+      <conv_med_presc>όχι</conv_med_presc>
+      <lab_tests>
+        <desc>όχι</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πολύ καλή. Άλλαξε η διαθεσή του, το χρώμα του, έχει πιο πολλή διάθεση και κινητικότητα. Έχει κάνει πρόοδο με την ομιλία, λέει καινούριες λέξεις αλλά η άρθρωσή του δεν είναι ακόμη καλή. Εξακολουθεί να είναι κλειστός. Ήπια δυσκοιλιότητα, αλλά τρώει πολύ καλύτερα και πήρε βάρος (σχεδόν 1 κιλό).&#13;
+Αναφέρει από χθές ωταλγία (αρ). Έχει ωτίτιδα (αρ) ωτοσκοπικά, αλλά το παιδί έχει αντικειμενικά πολύ μεγάλη βελτίωση όψης, θρέψης, χρώματος. Φαίνεται ενεργειακά πολύ καλύτερα.</reaction>
+      <analysis>Πολύ καλή αντίδραση. Δεν αναφέρεται αρχική επιδείνωση. Δεν παρουσίασε αυτό το μήνα εμπύρετο αλλά από χθες πονάει πάλι το (αρ) αυτί του και ωτοσκοπικά έχει ωτίτιδα.</analysis>
+      <conclusion>Πολύ καλή δράση του φαρμάκου. Λόγω ωτίτιδας κρίνεται σκόπιμο να δοθεί 1 επαναληπτική δόση.</conclusion>
+      <repertorization>
+        <desc>ear pain left (2)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>calcarea carbonica </remedy>
+        <potency>1M</potency>
+        <regimen>ΕΦΑΠΑΞ</regimen>
+        <other_notes>Επανεκτίμηση αναλόγως πορείας</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2013-06-13 08:00:00</followup_date>
+      <conv_med_presc>όχι</conv_med_presc>
+      <lab_tests>
+        <desc>Γενικές αιματολογικές εξετάσεις πολύ καλές πλην σιδηροπενίας για την οποία έλαβε σίδηρο από το στόμα για 2 μήνες.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πολύ καλή αντίδραση-θεραπεία. Εδώ και 7 μήνες δεν έχει λάβει αντιβίωση. Η όρεξη και η διάθεσή του είναι πολύ καλές. Η ανάπτυξή του πολύ καλή. 3 μήνες μετά την αρχική συνταγογράφηση έλαβε 3 caps kali bichromicum 30CH λόγω επίμονης ρινίτιδας με πηχτές βλέννες και με πολύ καλή ανταπόκριση. Επίσης, εξελίχθηκε στο λόγο, έχει πιο πλούσιο λεξιλόγιο και πιο καθαρή άρθρωση. Παραμένει ένα ντροπαλό, κλειστό παιδί (χαρακτηριολογικά).</reaction>
+      <analysis>Πάρα πολύ καλή αντίδραση. Δεν χρειάζεται νέο φάρμακο.</analysis>
+      <conclusion>Πολύ καλό αποτέλεσμα σε παιδί κακοποιημένο από τα αντιβιοτικά λόγω πολλαπλών επεισοδίων ωτίτιδας. Δεν χρειάζεται άλλο φάρμακο.</conclusion>
+      <repertorization>
+        <desc>όχι</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>όχι</remedy>
+        <potency>όχι</potency>
+        <regimen>όχι</regimen>
+        <other_notes>Παιδιατρική παρακολούθηση</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

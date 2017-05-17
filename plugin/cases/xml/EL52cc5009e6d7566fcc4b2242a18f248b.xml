@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL52cc5009e6d7566fcc4b2242a18f248b</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>male</gender>
+    <patient_initials>FP</patient_initials>
+    <age>39</age>
+    <circumstances>Single since 2 years. His ex girlfriend had an abortion of his child, they both agreed on the abortion.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>2002 the pt had a gastroenteritis with vomiting after which he got chronic pericarditis with periodical severe pains on chest, left of sternum. Pains radiate to back and left shoulder, since last year also sensation tingling in left arm.&#13;
+At the same time he got a very painful stenoses of his anus with fissures and ulcers. Since this time he also has chronic complaints of his stomach.&#13;
+His compaints started after years of intensive sport&#13;
+</origin>
+        <causative_factors>physical and mental over exertion&#13;
+gastroenteritis&#13;
+</causative_factors>
+        <modalities>&lt; being on height, breathing in, lying, waxing and full moon, after exertion (on sundays), after coition, cathing cold, emotional arrousal, sports&#13;
+&lt; february&#13;
+&#13;
+&#13;
+&gt; waning moon, sitting up straight little bend forward&#13;
+&gt; spring and sun&#13;
+</modalities>
+        <occurrence_time>waxing and full moon&#13;
+&#13;
+</occurrence_time>
+        <body_side>Left:&#13;
+pericarditis&#13;
+stenoses urethra</body_side>
+        <appearence_frequency>Once every 6-8 weeks pericarditis&#13;
+Stenosis anus - Always &#13;
+</appearence_frequency>
+        <pain_desc>Constricting band, constriction, tightness, tension, sometimes wooly puffy, warm, pulsating. </pain_desc>
+        <complaint_ext>Pain pericarditis sometimes radiates to shoulder and back.&#13;
+&#13;
+Tingling left arm</complaint_ext>
+        <other_complaints>2013: stenoses urethra left -&gt; got temporary stenting&#13;
+&#13;
+sensitive eyes, stinging, burning without lacrimation, sometimes red eyes&#13;
+&#13;
+complaints epigastrum: knewing, empty feeling, shivery, feels weak and tired, on waking &lt;</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Iboprufen for pain pericarditis: 1x 600 mg, only when really necesarry&#13;
+Colchicine: no effect. &#13;
+Zantac: only when really necessary</conv_med_presc>
+        <lab_tests>
+          <desc>- ultrasounnd does not show any abnormalities&#13;
+- ECG and bloodtest has shown &#13;
+- no data available of laboratory tests</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Sulphur 200 c</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Has had all regular/conventional vaccinations as a child, had antibiotics at the beginning of his pericarditis, with no effect&#13;
+</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>gastroenteritis, frequent colds</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>No specifics&#13;
+Parents still </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions></reactions>
+        <sleeping_habits></sleeping_habits>
+        <food_modalities></food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>Please enter personal medical history</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Please enter Conclusion</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

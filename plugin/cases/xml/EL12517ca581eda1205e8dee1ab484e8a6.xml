@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL12517ca581eda1205e8dee1ab484e8a6</ID>
+  <patient>
+    <case_date>2015-11-17 14:20:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Β.Μ.</patient_initials>
+    <age>60</age>
+    <circumstances>παντρεμένη με δύο παιδιά , μη καπνίστρια </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>οστεοαρθρίτιδα -πόνος στα γόνατα και αστραγάλους και στο δε ισχίο , πόνος στη μέση </origin>
+        <causative_factors>-</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>ΑΥ </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>salospir, olartan-plus MSM(χονδροϊτίνη - γλυκοζαμίνη )</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>έκανε τα παιδικά εμβολια &#13;
+</therapies_vaccination>
+          <traumas>καταπιεσμένος γάμος, ο σύζυγος αδιάφορος προς τις ανάγκες της που έκανε πάντα ότι του άρεσε   .&#13;
+αυστηροί γονείς </traumas>
+          <infections>δεν αναφέρει</infections>
+          <other>αραίωσαν τα μαλλιά της από τότε που παντρεύτηκε </other>
+        </personal>
+        <family>
+          <diseases>πατέρας ΧΝΑ ΣΔ&#13;
+μητέρα ΑΥ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταίνεται ,ιδρώνει , &lt;υγρασία &#13;
+</reactions>
+        <sleeping_habits>δεν κοιμάται καλά ,κοιμάται αργά, ξυπνά κουρασμένη( σαν ¨"ζόμπι")</sleeping_habits>
+        <food_modalities>des γάλα , τυρί , γιαούρτι ,γλυκά, παγωτό ,ψωμί, μπιφτέκια , κοτόπουλο,αυγά μελάτα , σοκολάτα&#13;
+avrs  αρνί, λίπος</food_modalities>
+        <menstruation>Ε.Ρ σταμάτησε προ 3 ετών</menstruation>
+      </physical>
+      <mental_emotional>αγχώδης, πολύ ντροπαλή , κλειστή, "θα ήθελα να ήμουν αλλιώς αλλά δεν μπορώ", πάντα σκέφτεται το τι θα πουν οι άλλοι,&#13;
+"δεν θέλω να πω κάτι και μετά να το μετανιώσω"&#13;
+κλαίει εύκολα( και τη ώρα του ιστορικού) .ευαίσθητη ,όταν νιώθει οργή ή σιωπά ή βρίζει (αλλά μετά το μετανιώνει)&#13;
+"δεν ήταν η ζωή μου εύκολη με "αυτόν" προβλήματα προβλήματα , προβλήματα"&#13;
+πάντα ''καταπίνει" αφήνει τους άλλους να κάνουν ότι θέλουν&#13;
+δεν αισθάνεται χαρά , θέλει να γελάσει άλλα δεν μπορεί&#13;
+υπομένει&#13;
+προσβάλλεται εύκολα &#13;
+συγκρατιέται</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>πυρετό κάνει κάθε 2-3 χρόνια</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>περιμένω αντίδραση </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>GENERALITIES ­ WARM ­ agg. 2&#13;
+PERSPIRATION ­ PERSPIRATION in general 2&#13;
+SLEEP ­ UNREFRESHING 3&#13;
+MIND ­ ANXIETY 3&#13;
+MIND ­ TIMIDITY 3&#13;
+MIND ­ SENSITIVE, oversensitive 3&#13;
+MIND ­ WEEPING, tearful mood, etc. 3&#13;
+MIND ­ EMOTIONS ­ suppressed 4&#13;
+MIND ­ FEAR ­ snakes, of 3&#13;
+MIND ­ FEAR ­ high places, of 2&#13;
+MIND ­ FEAR ­ death, of 4&#13;
+MIND ­ ANXIETY ­ health, about 4&#13;
+MIND ­ OFFENDED, easily 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ agg. 2</peculiar>
+        <intense>GENERALITIES ­ WARM ­ agg. 2&#13;
+PERSPIRATION ­ PERSPIRATION in general 2&#13;
+SLEEP ­ UNREFRESHING 3&#13;
+MIND ­ ANXIETY 3&#13;
+MIND ­ TIMIDITY 3&#13;
+MIND ­ SENSITIVE, oversensitive 3&#13;
+MIND ­ WEEPING, tearful mood, etc. 3&#13;
+MIND ­ EMOTIONS ­ suppressed 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ yoghurt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ bread ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ aversion 3&#13;
+&#13;
+MIND ­ FEAR ­ high places, of 2&#13;
+MIND ­ FEAR ­ death, of 4&#13;
+MIND ­ ANXIETY ­ health, about 4&#13;
+MIND ­ OFFENDED, easily 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ agg. 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENERALITIES ­ WARM ­ agg. 2&#13;
+PERSPIRATION ­ PERSPIRATION in general 2&#13;
+SLEEP ­ UNREFRESHING 3&#13;
+MIND ­ ANXIETY 3&#13;
+MIND ­ TIMIDITY 3&#13;
+MIND ­ SENSITIVE, oversensitive 3&#13;
+MIND ­ WEEPING, tearful mood, etc. 3&#13;
+MIND ­ EMOTIONS ­ suppressed 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ yoghurt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ bread ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ aversion 3&#13;
+MIND ­ FEAR ­ snakes, of 3&#13;
+MIND ­ FEAR ­ high places, of 2&#13;
+MIND ­ FEAR ­ death, of 4&#13;
+MIND ­ ANXIETY ­ health, about 4&#13;
+MIND ­ OFFENDED, easily 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ agg. 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>staphisagria, pulsatilla</remedies_differentiation>
+      <prescription>
+        <remedy>staphisagria</remedy>
+        <potency>200CH 1M</potency>
+        <regimen>1x1 200 ch&#13;
+1x1 1M</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-28 10:20:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>καμία αντίδραση </reaction>
+      <analysis>λάθος φάρμακο</analysis>
+      <conclusion>λάθος φάρμακο οπότε δοκιμάζω την pulsatilla </conclusion>
+      <repertorization>
+        <desc>GENERALITIES ­ WARM ­ agg. 2&#13;
+PERSPIRATION ­ PERSPIRATION in general 2&#13;
+SLEEP ­ UNREFRESHING 3&#13;
+MIND ­ ANXIETY 3&#13;
+MIND ­ TIMIDITY 3&#13;
+MIND ­ SENSITIVE, oversensitive 3&#13;
+MIND ­ WEEPING, tearful mood, etc. 3&#13;
+MIND ­ EMOTIONS ­ suppressed 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ yoghurt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ bread ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ aversion 3&#13;
+MIND ­ FEAR ­ snakes, of 3&#13;
+MIND ­ FEAR ­ high places, of 2&#13;
+MIND ­ FEAR ­ death, of 4&#13;
+MIND ­ ANXIETY ­ health, about 4&#13;
+MIND ­ OFFENDED, easily 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ agg. 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>pulsatilla</remedy>
+        <potency>200ch 1M</potency>
+        <regimen>1x1 200ch&#13;
+1x1 1M</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-10 18:15:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ύπνος καλύτερα&#13;
+νιώθει πιο χαλαρή &#13;
+είναι χαρούμενη και πιο ενεργητική ( και η ίδια το λέει και οι μαρτυρίες δικών της)&#13;
+λιγότερα γλυκά &#13;
+ νευρίασε και αντέδρασε&#13;
+οι αρθρώσεις δεν πονάνε τόσο   </reaction>
+      <analysis>μαλλον το φάρμακο είναι σωστό </analysis>
+      <conclusion>περιμένω</conclusion>
+      <repertorization>
+        <desc>GENERALITIES ­ WARM ­ agg. 3&#13;
+PERSPIRATION ­ PERSPIRATION in general 3&#13;
+SLEEP ­ UNREFRESHING 2&#13;
+MIND ­ ANXIETY 3&#13;
+MIND ­ TIMIDITY 4&#13;
+MIND ­ SENSITIVE, oversensitive 4&#13;
+MIND ­ WEEPING, tearful mood, etc. 4&#13;
+MIND ­ EMOTIONS ­ suppressed 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cheese ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ yoghurt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ bread ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fat ­ aversion 4&#13;
+MIND ­ FEAR ­ snakes, of 2&#13;
+MIND ­ FEAR ­ high places, of 2&#13;
+MIND ­ FEAR ­ death, of 3&#13;
+MIND ­ ANXIETY ­ health, about 3&#13;
+MIND ­ OFFENDED, easily 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ milk ­ agg. 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

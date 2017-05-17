@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL81d522ba89530e13fc2acdc558a2cd8d</ID>
+  <patient>
+    <gender>male</gender>
+    <patient_initials>Γ.Σ.</patient_initials>
+    <age>32</age>
+    <circumstances>παντρεμενος (2η φορα) ιδιωτικός υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>κιρσοκηλη-υπογονιμοτητα&#13;
+ηταν παντρεμενος πριν 7 χρονια, πριν παρει διαζυγιο κι ενω προσπαθουσε δεν εκανε παιδια. τωρα με τη νεα του γυναικα προσπαθουν ενα χρονο,&#13;
+ειχε πιασει ενα κουβαρακι στον αριστερο ορχι πριν 3 χρονια (κιρσοκηλη???)&#13;
+στιγμιαια μπορει να τον πιασει πονος σαν μαχαιρια στην αριστερη μηρογγενητικη πτυχη&#13;
+προωρη εκσπερματιση (3)</origin>
+        <causative_factors>οικονομικες οικογενειακες απωλειες προ 5τιας..δεν ξερει αν σχετιζεται ομως</causative_factors>
+        <modalities>&lt;στρες (3)&#13;
+&lt;ζεστη (2)&#13;
+&lt;πίεση (2)</modalities>
+        <occurrence_time>δεν εχει συσχετιστει</occurrence_time>
+        <body_side>αριστερα</body_side>
+        <appearence_frequency>ο πονος μπορει να εμφανίζεται 3-5 φορες το μηνα.&#13;
+</appearence_frequency>
+        <pain_desc>οξυς, διαξιφιστικός, στιγμιαίος</pain_desc>
+        <complaint_ext>δεν σχετιζεται</complaint_ext>
+        <other_complaints>οταν στρεσαρεται χανει την ορεξη του&#13;
+κατα διαστηματα επιχείλιος ερπης μια δυο φορες το χρόνο, παλαιοτερα πιο συχνα&#13;
+παλαιοτερα αφθες..οχι πια</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ουδεμία</conv_med_presc>
+        <lab_tests>
+          <desc>σπερμοδιαγραμμα= ολιγοσπερμια, πυκνοτητα σπερματος 1εκ (κφ &gt;20 εκ), καλη κινητικοτητα. του προτειναν να κανει εγχυση αλλα φοβαται</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εμβολιασμοι παιδικης ηλικιας</therapies_vaccination>
+          <traumas>οικονιμικη απωλεια που του κοστισε πολυ προ 5ετίας, ενιωσε οτι θα μεινει στο δρομο..</traumas>
+          <infections>ηπατιτιδα Α απο μολυσμενο πηγαδι σε παιδικη ηλικία</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>ελευθερο</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>θερμοκρασια κφ&#13;
+φτερνες κφ&#13;
+παει τακτικα στο γυμναστηριο, ιδρωνει σε μασχαλες, στηθος, πλατη με την ασκηση&#13;
+λεπτα μαλακα νυχια,&#13;
+οχι μυρμηκιες&#13;
+μαλλον κρυωνει περισσοτερο παρα ζεσταινεται&#13;
+ποδια κατω απο τα σκεπασματα χειμωνα καλοκαιρι&#13;
+ο ηλιος τον ενοχλει στα ματια, τον κουραζει (2)</reactions>
+        <sleeping_habits>ξυπναει ξεκουραστος&#13;
+κοιμαται αριστερα&#13;
+ονειρα δεν θυμαται</sleeping_habits>
+        <food_modalities>νερο 1λ το χειμωνα γουλιαγουλια&#13;
+επιθυμει     γλυκα (1), πιπερι (2), σκορδο, φρουτα&#13;
+απεχθειες     φασολια, γαλα (2), αυγο (2)  μελατο ,βγαζει το λιπος γιατι προσεχει τη διατροφη του&#13;
+</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>φοβοι   υψος (2) καρκινο (2) κλεφτες (2)&#13;
+σιχαινεται τις κατσαριδες (2)&#13;
+φοβαται τα μικροβια (2)&#13;
+απο παντα ηταν της τάξης (3) το αυτοκινητο το εχει σαν καινουργιο&#13;
+προσβαλεται ευκολα (2)&#13;
+αγχος να μιλησει σε κοινο (3)&#13;
+&gt;παρηγορια&#13;
+θελει να λεει τα δικα του "δεν ειμαι τυπος που κλεινεται"&#13;
+δυσκολα κλαιει&#13;
+δεν παιρνει ευκολα αποφασεις&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ελευθερο..παρ ολ αυτα το προβλημα του ειναι σε συστημα ζωτικο για την αναπαραγωγη&#13;
+καλη ορεξη, εξωστρεφης</personal_medical_history>
+        <family_medical_history>χωρις σοβαρη κληρονομικη προδιάθεση</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>καλη προγνωση σε βαθος χρονου</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>νερο 1λ γουλια γουλια (3)&#13;
+διαξιφιστικος πονος αρ μηρογεννητικα (3)&#13;
+ο ηλιος τον κουραζει στα ματια (2)&#13;
+μικροβιοφοβια (3)&#13;
+&#13;
+</peculiar>
+        <intense>οξυς πονος αρ μηρογγενητικης πτυχης (3)&#13;
+φωτοφοβια (3)&#13;
+φοβος υψους (1) καρκινου (1), κατσαριδες σιχαινεται&#13;
+μικροβιοφοβια (3)&#13;
+τακτικος (3)&#13;
+αναποφασιστος (2)&#13;
+ευθικτος (1)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>genitalia male seminal discharge ejaculation quick too (2)&#13;
+generalities food and drink desire sweets 1&#13;
+                                      desire black pepper (2)&#13;
+                                      aversion beas (1)&#13;
+                                       aversion milk (2)&#13;
+                                       aversion egg soft boiled (2)&#13;
+stomach thirst small quantities for 1&#13;
+sleep position side on left 1&#13;
+eye photophobia morning 2&#13;
+mind fear cancer 1&#13;
+mind timitidy appearing in public 1&#13;
+face eruption herpes lips about 1&#13;
+mind disgust 2&#13;
+mind fastidius 3&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Arsenicum&#13;
+N.Muriaticum&#13;
+Sulphur&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Arsenicum</remedy>
+        <potency>200ch 30ch</potency>
+        <regimen>εφ απαξ</regimen>
+        <other_notes>καθαρη εικονα φαρμακου&#13;
+καλη προγνωση&#13;
+βαθεια παθολογια</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>ουδεμία</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>μετα 70 μερες</reaction>
+      <analysis>διαξιφιστικοι πονοι μικροτερης συχνοτητας&#13;
+αυξηση βάρους&#13;
+πηγε και αφαιρεσε ελιες απο την πλατη του&#13;
+σπερμοδιαγραμμα με πυκνοτητα 5 εκ &#13;
+επιχειλιος ερπης ...δεν πηρε ακυκλοβίρη</analysis>
+      <conclusion>καλη αντιδραση</conclusion>
+      <repertorization>
+        <desc>αναμονη</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδεν </remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>αναμονη</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <conv_med_presc>μετα 45μερες</conv_med_presc>
+      <lab_tests>
+        <desc>σπερμοδιαγραμμα  13 εκ με 10% κατηγορια 4</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ειναι εγκυος η γυναικα του!!&#13;
+μεγαλύτερη σεξουαλικη επιθυμια αναφερει ο ιδιος&#13;
+μεγαλύτερη ορεξη&#13;
+επιθυμει πιο πολυ τα γλυκα απο πριν.&#13;
+καποιες φορες ξεσκεπαζει τα παοδια του&#13;
+δεν ειναι τοσο τακτικος λεει η γυναικα του</reaction>
+      <analysis>πολυ καλη αντιδραση&#13;
+εχουν αλλαξει καποια στοιχεια του φαρμακου ομως δεν προχωρουμε σε νεα συνταγογραφηση εφοσον ο ασθενης αναφερει οτι ειναι καλυτερα απο πριν. περιμενουμε.</analysis>
+      <conclusion>επανεξεταση σε 2 μηνες</conclusion>
+      <repertorization>
+        <desc>αναμονη</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ουδεν</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

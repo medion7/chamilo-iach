@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL6dca3f1aa86f3c9ddd023eef471cf9d5</ID>
+  <patient>
+    <case_date>2014-04-10 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΘΦ</patient_initials>
+    <age>16</age>
+    <circumstances>Please enter your personal circumstances&#13;
+Μαθητης</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+Η καταθλιψη εμφανιστηκε 6 μηνες μετα τον αιφνιδιο θανατο του πατερα του 40χρονων,στον υπνο του.Παρουσιαζει εντονη σωματικη κοπωση ολη μερα ξαπλωνει στον καναπε και κοιτα tv.Τιποτα δεν τον ευχαριστει-εντονη θλιψη&#13;
+Φοβια για κλεφτες(3) φοβος θανατου(3) αναστεναζει(2) κλαiει:οχι &#13;
+Συχνα αισθημα κομπου στο λαιμο-πονοι στο στηθος,συχνα λεει καπου ποναει </origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+Αιφνιδιος θανατος του πατερα του.</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+&gt;με φαγητο2  &gt;μονος3  &gt;βλεποντας tv3 &gt;μεσα στο σπιτι(3)&#13;
+&lt;με παρεα3 &lt;στο σχολειο 2</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+&gt;την ημερα &gt;μεσα στο σπιτι&#13;
+&lt;το βραδυ(νυχτα συνεβη ο αιφνιδιος θανατος του πατερα)&#13;
+</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>Please enter frequency of appearance&#13;
+καθε μερα νιωθει θλιψη και συνηθως καπου ποναει</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+Συχνα Πονοι κυριως στο στηθος η' στον αυχενα &lt;το βραδυ Συχνες επισκεψεις σε Καρδιολογο που βεβαιωνει ολα καλα.&#13;
+Triplex καρδιας (-) HKΓ(-)</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>βουλιμια(πηρε 20 κιλα τους τελευταιους 2 μηνες.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter your conventional Medical Prescriptions&#13;
+oχι&#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>κφ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+Συνηθης παιδικοι εμβολιασμοι</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+Εmotional=ξαφνικος θανατος-απωλεια του πατερα</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+Μητερα 40χρονων;κφ&#13;
+Πατερας 41χρονων;ανακοπη καρδιας στον υπνο-μεχρι τοτε χωρις προβληματα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt;ζεστη (1) &lt;ηλιοφανεια &#13;
+ οχι ιδιαιτερες</reactions>
+        <sleeping_habits>Νυσταζει νωρις και ξυπναει 2πμ-3πμ οπου δυσκολα ξαναποκοιμιεται&#13;
+Κοιμαται η δεξια η αριστερα&#13;
+κοιμαται καλυτερα κ πιο πολλες ωρες απο τοτε που εβαλε συναγερμο στο σπιτι</sleeping_habits>
+        <food_modalities>aversion φρουτα(4)- δεν τα τρωει καθολου&#13;
+&gt;λιπαρα(2)  &gt;μακαρονια(1) &gt;πιτσες(2) &gt;σουβλακια(2)&#13;
+αλατι:οχι ιδιαιτερα Νερο:λιγο </food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+Φοβια για κλεφτες(3) &#13;
+φοβος θανατου(3) &#13;
+αναστεναζει(2)&#13;
+καταθλιψη(3)&#13;
+κλαiει:οχι </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+δεν αναφερει κατι ιδιατερο περα απο εμπυρετα που αποδραμαν εντος 3ημερου χωρις ιδιαιτερη χρηση αντιβιωτικων-γενικα γερος οργανισμος&#13;
+Πυρετος 38,6 περυσι-ιωση&#13;
+</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+Παππουδες εν ζωη-Μια γιαγια μονο ΣΔιαβητη τυπου 2-παχυσαρκη&#13;
+</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+Καλο επιπεδο υγειας-προγνωση καλη</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+GENERALITIES-FOOD and DRINKS-fruit aversion3&#13;
+MIND-FEAR-ROBBERS,of3&#13;
+MIND-SIGHING2</peculiar>
+        <intense>MIND-FRIGHT-ailments from 4&#13;
+MIND-GRIEF-ailments from 4&#13;
+MIND-FEAR-ROBBERS,of3&#13;
+MIND-FEAR-death of 3&#13;
+MIND-SIGHING2&#13;
+MIND-SADNESS-mental depression3Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND-FRIGHT-ailments from 4&#13;
+MIND-GRIEF-ailments from 4&#13;
+MIND-FEAR-ROBBERS,of3&#13;
+MIND-FEAR-death of 3&#13;
+MIND-SIGHING2&#13;
+MIND-SADNESS-mental depression3&#13;
+CHEST-pain2&#13;
+BACK-PAIN-cervical region 2&#13;
+STOMACH-APETITE-gnawing3&#13;
+GENERALITIES-FOOD and DRINKS-fruit aversion3&#13;
+GENERALITIES-FOOD and DRINKS-fat desire2&#13;
+MIND-RESERVED3&#13;
+MIND-COMPANY-aversion to-amel when alone2&#13;
+MIND-ANXIETY-house in amel 3&#13;
+SLEEP-SLEEPLESSNESS 3&#13;
+SLEEP-SLEEPLESSNESS-night from 2 to 3 (2)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+Ιgnatia - Nat-m</remedies_differentiation>
+      <prescription>
+        <remedy>Please enter remedy Ignatia</remedy>
+        <potency>Please enter potency 10M</potency>
+        <regimen>Please enter regimen Ενα χαπι</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ειχε επιδεινωση στο αισθημα κομπου στον λαιμο την 2η μερα σε βαθμο να μην μπορει να καταπιει τιποτα για 2ωρες&#13;
+Βελτιωση στη διαθεση  κατα 70% αρχισε ξανα να διαβαζει για το σχολειο να κανει φροντηστηρια κ να βγαινει εξω βολτα με τον κολλητο του φιλο - φοβος θανατου (1)  φοβος για κλεφτες(2) αναστεναζει:σπανια </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+πολυ καλη αντιδραση&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy Δεν δοθηκε</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+πολυ καλη αντιδραση στην πρωτη συνταγογραφηση</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+Συνεχιζεται η καλη πορεια του ασθενη-θλιψη-καθολου,συνεπης στο σχολειο κ στο φροντηστηριο-βγαινει εξω με φιλους καθε ΣΚ&#13;
+φοβος για κλεφτες(1)-οταν βαζουν το συναγερμο κοιμαται ησυχα κ δεν το αναφερει καθολου λεει η μαμα</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Συνεχιζεται η δραση του φαρμακου-δεν δινω φαρμακο </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions ΟΧΙ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+Συνεχιζεται η πολυ καλη πορεια</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Δεν ξαναδοθηκε φαρμακο γιατι συνεχιστηκε η καλη πορεια-η καταθλιψη εφυγε εντελως και ο φοβος θανατου.&#13;
+Εμεινε μονο ο φοβος για κλεφτες(1-2)-που οταν βαζει το συναγερμο στο σπιτι κοιμαται πολλες ωρες κ δεν φοβαται καθολου&#13;
+Ισως αργοτερα να χρειαστει nat-m</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy οχ</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

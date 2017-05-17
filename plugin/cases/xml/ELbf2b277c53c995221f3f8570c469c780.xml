@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELbf2b277c53c995221f3f8570c469c780</ID>
+  <patient>
+    <gender>female</gender>
+    <patient_initials>Α.Ζ</patient_initials>
+    <age>34</age>
+    <circumstances>αγαμος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>1)προβλημα στο εντερο, απο τοτε που γεννηθηκε προβλημα στο μητρικο γαλα κ της εδιναν καροτοζουμο, 2)αυπνιες πολλες -ταχυκαρδιες και δυσπνοια, 3)κυστικη ακμη</origin>
+        <causative_factors>δυσανεξια γλουτενης, αγχος πολυ</causative_factors>
+        <modalities>οταν δν τρωει γλουτενη αισθανεται καλυτερα, &gt;φουσκωμα, με την ομοιοπαθητικη βελτιωθηκαν κατα 50% περιπου τα συμπτωματα αλλα δν ειναι πολυ ευχαριστημενη</modalities>
+        <occurrence_time>δεν παρατηρει συγκεκριμενες ωρες της ημερας που να χειροτερευει η να καλυτερευει, γενικα &lt; το βραδυ λογω των αυπνιων με την ταχυκαρδια και τις συχνες αφυπνισεις</occurrence_time>
+        <body_side>οχι συγκεκριμενη εντοπιση</body_side>
+        <appearence_frequency>σχεδον καθημερινα</appearence_frequency>
+        <pain_desc>πιο πολυ πρηξιμο αισθανεται στο εντερο , οχι πονο κ ξυπναει τοσο τρομαγμενη που πρεπει να παει να ουρησει κατευθειαν</pain_desc>
+        <complaint_ext>απ το εντερο στο στομαχι </complaint_ext>
+        <other_complaints>αλλεργικη ρινιτιδα, &lt;ανοιξη</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Τ4, βιταμινες</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>10 χρονια ομοιοπαθητικη , παιρνει κυριως mercurius solibilis, δν εφερε αλλες συνταγες</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εχει κανει ολα τα εμβολια, εδω κ χρονια δν παιρνει χημικα φαρμακα, διαφοροι ολιστικοι γιατροι της εχουν δωσει ανα περιοδους συμπηρωματα</therapies_vaccination>
+          <traumas>δν αναφερει </traumas>
+          <infections>-</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>πατερας- διαβητης</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>'μονο κρυωνω'</reactions>
+        <sleeping_habits>κοιμαται στο πλαι και μπρουμυτα, βλεπει συνεχεια ονειρα, νομιζει οτι καποιος την κυνηγαει και ξυπναει τρομαγμενη</sleeping_habits>
+        <food_modalities>δν θελει καθολου αλκοολ(&lt;), κακοφαγη γενικα, λαδερα τρωει , αλλεργια στον βακαλαο, με το ζορι πινει νερο</food_modalities>
+        <menstruation>κφ</menstruation>
+      </physical>
+      <mental_emotional>συμπασχει πολυ με τους αλλους, νομιζει οτι ειναι δικα της τα προβληματα τους, αισθανεται οτι καταπιεζει τον εαυτο της</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>μετρια</personal_medical_history>
+        <family_medical_history>καλη</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>χρονια ομοιοπαθητικης θεραπειας χωρις να εχει δει εντυπωσιακα αποτελεσματα, παραμενει ωστοσο θετικη</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>γραφει ποιηματα και ειναι πολυ ρομαντικη(3)</peculiar>
+        <intense>αυπνιες(4)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>ant.grudum, magn carbonica, natr.muriaticum</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>ant.grudum, magn carbonica</remedies_differentiation>
+      <prescription>
+        <remedy>antimonium crudum</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1 (δεκα λεπτα προ του πρωινου)</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>τρομερη βελτιωση στον υπνο, &gt;80%, μονο 3 φορες σηκωθηκε στον υπνο της τον μηνα που περασε,καουρες πολυ βελτιωση, ακμη χειροτερεψε &gt;αν το ξυσει</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>-</reaction>
+      <analysis>πολυ καλη  αντιδραση,δεδομενου οτι κανει χρονια ομοιοπ.θεραπεια</analysis>
+      <conclusion>συνεχιση της ιδιας αγωγης</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ant.crudum</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1</regimen>
+        <other_notes>η μητερα ειπε θα επικοινωνησει παλι τον επομενο μηνα</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

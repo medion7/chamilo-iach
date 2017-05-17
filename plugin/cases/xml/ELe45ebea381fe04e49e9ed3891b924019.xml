@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELe45ebea381fe04e49e9ed3891b924019</ID>
+  <patient>
+    <case_date>2015-05-28 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΜΑ</patient_initials>
+    <age>60</age>
+    <circumstances>Please enter the personal circumstances&#13;
+170 cm&#13;
+96 kgr&#13;
+ΧΩΡΙΣΜΕΝΟΣ ΜΕ ΔΥΟ ΠΑΙΔΙΑ  &#13;
+ΑΓΡΟΤΗΣ </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Please enter the Origin of the complaint (since when it appeared)&#13;
+ ΕΚΖΕΜΑ ΚΕΦΑΛΗΣ (ΙΝΙΑΚΑ) ΜΕ  ΦΑΓΟΥΡΑ ΠΟΥ  ΕΜΦΑΝΙΣΤΗΚΕ  ΕΔΩ ΚΑΙ 6 ΜΗΝΕΣ &#13;
+ ΜΕΤΑ ΑΠΟ ΤΟ ΧΩΡΙΣΜΟ  ΜΕ ΤΗΝ ΓΥΝΑΙΚΑ ΤΟΥ &#13;
+ &#13;
+&#13;
+</origin>
+        <causative_factors>Please enter any possible causative factors&#13;
+Ο ΧΩΡΙΣΜΟΣ ΜΕ ΤΗΝ ΓΥΝΑΙΚΑ ΤΟΥ ΠΡΙΝ  6 ΜΗΝΕΣ &#13;
+&#13;
+</causative_factors>
+        <modalities>Please enter Modalities (what makes the complaint aggravate or ameliorate)&#13;
+ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΗΝ  ΖΕΣΤΗ  / ΤΟ ΑΠΟΓΕΥΜΑ /ΟΤΑΝ ΦΟΡΑΕΙ ΜΑΛΛΙΝΑ&#13;
+ ΚΑΙ ΟΤΑΝ ΚΑΝΕΙ ΜΠΑΝΙΟ  ΠΡΕΠΕΙ ΝΑ ΠΕΡΑΣΟΥΝ ΑΡΚΕΤΕΣ ΩΡΕΣ ΓΙΑ ΝΑ ΣΥΝΕΛΘΕΙ&#13;
+ΧΕΙΡΟΤΕΡΕΥΕΙ ΚΑΙ ΜΕ ΤΟ ΖΕΣΤΟ ΚΑΙ ΤΟ ΚΡΥΟ ΝΕΡΟ&#13;
+</modalities>
+        <occurrence_time>Please enter the Time of occurrence, aggravation or amelioration&#13;
+ΧΕΙΡΟΤΕΡΕΥΕΙ ΤΟ ΒΡΑΔΥ ΚΑΙ ΟΤΑΝ ΑΓΧΩΝΕΤΑΙ </occurrence_time>
+        <body_side>Please enter side of the body&#13;
+ΤΟ ΕΚΖΕΜΑ ΒΡΙΣΚΕΤΑΙ ΚΥΡΙΩΣ ΙΝΙΑΚΑ </body_side>
+        <appearence_frequency>Please enter frequency of appearan&#13;
+ΗΡΕΜΕΙ ΓΙΑ ΜΙΑ ΕΒΔΟΜΑΔΑ ΟΤΑΝ ΠΑΙΡΝΕΙ ΑΝΤΙΙΣΤΑΜΙΝΑ ΚΑΙ ΞΑΝΑΡΧΙΖΕΙ ΟΤΑΝ ΤΑ ΣΤΑΜΑΤΑΕΙ &#13;
+&#13;
+</appearence_frequency>
+        <pain_desc>Please enter a description of the pain&#13;
+ΤΟ ΕΚΖΕΜΑ ΣΥΝΟΔΕΥΕΤΑΙ ΑΠΟ   ΦΑΓΟΥΡΑ  </pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts&#13;
+ΜΠΟΡΕΙ ΝΑ ΕΠΕΚΤΑΘΕΙ ΣΤΟ ΠΡΟΣΩΠΟ ΚΑΙ ΣΤΗ ΓΕΝΝΗΤΙΚΗ ΠΕΡΙΟΧΗ </complaint_ext>
+        <other_complaints>ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΠΟΥ ΣΥΝΟΔΕΥΕΤΑΙ ΜΕ ΔΙΑΡΡΟΙΕΣ ΤΗΝ ΝΥΧΤΑ &#13;
+ΓΑΣΤΡΙΤΙΔΑ &#13;
+ΟΣΦΥΑΛΓΙΑ ΜΕ ΙΣΧΙΑΛΓΙΑ &#13;
+ΑΛΛΕΡΓΙΚΗ ΕΠΙΠΕΦΥΚΙΤΙΔΑ ΜΕ ΑΙΣΘΗΜΑ ΑΜΜΟΥ ΣΤΑ ΜΑΤΙΑ &#13;
+ΑΙΣΘΑΝΕΤΑΙ  ΕΞΑΝΤΛΗΜΕΝΟΣ ΚΑΙ ΚΟΥΡΑΖΕΤΑΙ  ΕΥΚΟΛΑ </other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Please enter the conventional Medical Prescriptions&#13;
+ΕΧΕΙ ΥΠΕΡΤΑΣΗ ΚΑΙ ΠΑΙΡΝΕΙ ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΓΩΓΗ RENITEC 5 mgr&#13;
+ΕΠΟΧΙΑΚΗ ΑΛΛΕΡΓΙΚΗ ΡΙΝΙΤΙΔΑ ΠΟΥ  ΚΑΛΥΤΕΡΕΥΕΙ ΜΕ ΤΟ ΚΡΥΟ ΝΕΡΟ ΚΑΙ ΑΝΤΙΑΛΛΕΡΓΙΚΑ &#13;
+ΑΝΑΙΜΙΑ ΛΟΓΟΥ ΣΤΙΓΜΑΤΟΣ ΧΩΡΙΣ ΘΕΡΑΠΕΥΤΙΚΗ ΑΓΩΓΗ &#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>Hb=12 Ht=36  MCV=60,3(76-96) MCH =22(27-33) MCHC=27(30-36) MBW=17(11-16)  PLQ=280.000 &#13;
+σακχ=88 (120) ουρια=50(10-50)  κρεατ=0,8 (0,6- 1,1)  ουρικό οξύ =6 ( 6,5-7)   SGOT= 25( 10-30)  SGPT= 20(8-20) &#13;
+ χοληστερ=257( &lt;200 )  HDL = 60(&gt;40) LDL = 170( &lt;130) τριγλυ= 119(&lt;150)&#13;
+ουρα  Proteines = αρν   Hb =αρν   glu= αρν </desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΔΕΝ ΠΑΡΕΙ ΠΡΟΗΓΟΥΜΕΝΗ  ΟΜΟΙΟΠΑΘΗΤΙΚΗ ΑΓΩΓΗ </pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Please enter Suppressive therapies and vaccinations&#13;
+EXEI KANEI ΤΟΥΣ ΕΜΒΟΛΙΑΣΜΟΥΣ   ΟΤΑΝ ΗΤΑΝ ΜΙΚΡΟΣ &#13;
+ΠΑΙΡΝΕΙ ΑΝΤΙΙΣΤΑΜΙΝΙΚΑ RES OS  ΠΟΥ ΗΡΕΜΟΥΝ  ΤΗΝ ΦΑΓΟΥΡΑ ΤΟΥ &#13;
+ΚΑΙ ΕΧΕΙ ΧΡΗΣΙΜΟΠΟΙΗΣΕΙ ΠΕΡΙΣΤΑΣΙΑΚΑ ΚΟΡΤΙΖΟΝΗ ΣΕ ΑΛΛΟΙΦΗ &#13;
+ΠΑΙΡΝΕΙ ΑΝΤΙΥΠΕΡΤΑΣΙΚΗ ΑΓΩΓΗ  RENITEC 5mgr ΚΑΘΕ ΜΕΡΑ &#13;
+&#13;
+</therapies_vaccination>
+          <traumas>Please enter Traumas (physical, emotional, mental)&#13;
+Ο ΧΩΡΙΣΜΟΣ ΜΕ ΤΗΝ ΓΥΝΑΙΚΑ ΤΟΥ &#13;
+</traumas>
+          <infections>Please enter Acute infectious diseases&#13;
+ΚΑΝΕΙ ΕΜΠΥΡΕΤΗ ΒΡΟΓΧΙΤΙΔΑ 5-6 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ ΜΕ 38 ΠΕΡΙΠΟΥ  ΠΥΡΕΤΟ </infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Please enter Diseases that occur in the family&#13;
+ΠΑΤΕΡΑΣ ΜΕ ΣΑΚΧΑΡΩΔΗ ΔΙΑΒΗΤΗ&#13;
+ΜΗΤΕΡΑ ΜΕ ΥΠΕΡΤΑΣΗ </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>1. ΖΕΣΤΑΙΝΕΤΑΙ 3   ΚΑΙ ΒΓΑΖΕΙ ΤΑ  ΠΟΔΙΑ  ΤΟΥ  ΕΞΩ ΑΠΟ ΤΑ ΣΚΕΠΑΣΜΑΤΑ  3 &#13;
+2. ΥΠΟΦΕΡΕΙ ΜΕ ΤΗΝ ΖΕΣΤΗ  ΠΟΥ  ΤΟΝ ΑΠΟΒΛΑΚΩΝΕΙ &#13;
+3, ΔΕΝ ΤΡΕΛΑΙΝΕΤΑΙ ΓΙΑ ΝΑ ΠΑΡΕΙ ΑΕΡΑ ΑΠΟ ΑΝΟΙΚΤΟ ΠΑΡΑΘΥΡΟ &#13;
+4. ΙΔΡΩΝΕΙ 3 &#13;
+5.  Ο ΙΔΡΩΤΑΣ ΤΟΥ ΜΥΡΙΖΕΙ 3  ΚΑΙ ΕΙΝΑΙ ΚΑΥΣΤΙΚΟΣ 2 </reactions>
+        <sleeping_habits>1 ΚΟΙΜΑΤΑΙ ΑΡΙΣΤΕΡΑ&#13;
+2. ΞΥΠΝΑΕΙ ΣΤΙΣ 4.00 ΩΡΑ ΤΟ ΠΡΩΙ    ΚΑΙ  ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΞΑΝΑΚΟΙΜΗΘΕΙ ΚΑΙ ΑΡΧΙΖΕΙ ΝΑ ΞΥΝΕΤΑΙ </sleeping_habits>
+        <food_modalities>1. ΕΠΙΘΥΜΙΑ  ΚΡΕΑΣ 1 , ΓΛΥΚΑ 3, ΛΙΠΑΡΑ 3,ΠΙΚΑΝΤΙΚΑ 2 , ΑΛΚΟΟΛ 2 /ΑΛΑΤΙ 2 /ΠΑΓΩΤΑ 2 / ΜΠΥΡΑ 2 &#13;
+2.ΑΠΕΧΘΕΙΑ  ΑΥΓΑ 2 &#13;
+3.ΔΙΨΑΕΙ ΓΙΑ ΚΡΥΟ ΝΕΡΟ 1&#13;
+4.ΟΧΙ ΞΥΔΙ -ΟΧΙ ΛΕΜΟΝΙ</food_modalities>
+        <menstruation>-----</menstruation>
+      </physical>
+      <mental_emotional>Please enter mental and emotional symptoms&#13;
+1. ΒΑΡΙΕΤΑΙ ΝΑ ΚΑΝΕΙ ΤΙΣ  ΑΓΡΟΤΙΚΕΣ ΔΟΥΛΕΙΕΣ ΤΟΥ  ΚΑΙ ΔΕΝ ΕΝΔΙΑΦΕΡΕΤΑΙ ΓΙΑ ΤΗΝ ΕΜΦΑΝΙΣΗ ΤΟΥ 3&#13;
+2. ΑΚΑΤΑΣΤΑΤΟΣ 3 &#13;
+3. ΦΙΛΙΚΟΣ 2,/ ΚΟΙΝΩΝΙΚΟΣ 2 / ΑΛΛΑ ΔΕΝ ΜΙΛΑΕΙ ΣΤΟΥΣ ΑΛΛΟΥΣ ΓΙΑ ΤΑ ΠΡΟΒΛΗΜΑΤΑ ΤΟΥ - ΕΣΩΣΤΡΕΦΗΣ 2 &#13;
+4.ΕΓΩΙΣΤΗΣ 2 &#13;
+5.ΦΙΛΟΔΟΞΟΣ 2 &#13;
+6.  ΑΓΧΟΣ ΓΙΑ ΤΗΝ ΥΓΕΙΑ  ΤΩΝ ΠΑΙΔΙΩΝ ΤΟΥ 2 / ΑΓΧΟΣ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΟΥ 1 &#13;
+7. ΦΟΒΙΕΣ ΓΙΑ ΤΟ ΥΨΟΣ 2 , ΑΡΡΩΣΤΙΕΣ 1 &#13;
+8.ΤΟΥ ΑΡΕΣΕΙ Η ΘΑΛΑΣΣΑ ΠΟΥ ΒΕΛΤΙΩΝΕΙ ΤΑ ΣΥΜΠΤΩΜΑΤΑ ΤΟΥ 2&#13;
+9. ΕΧΕΙ ΝΕΥΡΑ 2   ΑΛΛΑ ΤΑ ΞΕΣΠΑΕΙ ΣΠΑΝΙΑ ΚΑΙ ΟΤΑΝ  ΝΕΥΡΙΑΖΕΙ , ΦΩΝΑΖΕΙ ΑΛΛΑ ΤΟΥ ΠΕΡΝΑΕΙ ΕΥΚΟΛΑ ΚΑΙ ΔΕΝ ΚΡΑΤΕΙ  ΜΕΤΑ ΚΑΚΙΑ &#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Please enter personal medical history&#13;
+1. ΔΙΑΘΕΣΗ ΓΙΑ ΣΕΞ ΑΥΞΗΜΕΝΗ 2&#13;
+2. ΑΥΞΗΜΕΝΗ ΟΡΕΞΗ /ΛΑΙΜΑΡΓΟΣ &#13;
+3, ΣΥΧΝΕΣ ΓΑΣΤΡΙΤΙΔΕΣ ΜΕ ΕΡΥΓΕΣ &#13;
+4. ΔΕΝ ΕΧΕΙ ΔΥΣΚΟΙΛΙΟΤΗΤΑ /ΑΝΤΙΘΕΤΑ ΕΙΝΑΙ ΤΑΚΤΙΚΟΣ ΣΤΙΣ ΚΕΝΩΣΕΙΣ ΤΟΥ </personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition&#13;
+ΠΑΤΕΡΑΣ ΜΕ ΣΑΚΧΑΡΩΣΗ ΔΙΑΒΗΤΗ </family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>Please enter Conclusion&#13;
+Ο ΑΣΘΕΝΗΣ ΜΑΣ ΒΡΙΣΚΕΤΑΙ ΣΤΟ ΔΕΥΤΕΡΟ GROUP ΓΙΑΤΙ ΚΑΝΕΙ ΒΡΟΓΧΙΤΙΔΕΣ  5-6 ΦΟΡΕΣ ΤΟ ΧΡΟΝΟ &#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+head -eruption-eczema -occiput 2&#13;
+face -eruptions-eczema-bleeding 2 &#13;
+head -eruption -itching-warm -evening agg 2&#13;
+skin itching -wool agg 2&#13;
+generalities food and drinks eggs  aversion 2 &#13;
+mind lazines 3&#13;
+mind untidy 3 &#13;
+mind communicative 2&#13;
+mind anxiety -health about relatives of 2&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+rectum diarrhoea -night 2&#13;
+eye inflammation -conjonctiva 2&#13;
+generalities food and drinks meat desire 1&#13;
+generalities food and drinks sweets desire 3&#13;
+generalities food and drinks   fat  desire  3&#13;
+generalities food and drinks  spices  desire 2&#13;
+generalities food and drinks  alcoholic drinks desire 2&#13;
+generalities food and drinks   salt  desire 2&#13;
+generalities food and drinks ice cream  desire 2&#13;
+generalities food and drinks cold drinks water  amel 1&#13;
+generalities warm agg 3&#13;
+back pain standing agg 2 &#13;
+respiration -odor offensive 3 &#13;
+extremities -perspiration -foot -offensive 2&#13;
+sleep -sleeplessness -night -midnight -after 2&#13;
+sleep -sleeplessness-thiughts activity of mind from 3&#13;
+mind egotism 2 &#13;
+mind fear -heart-disease of 1&#13;
+mind anxiety -health about 2&#13;
+gemitalia -male-sexual desire increased 2&#13;
+stomach -appetit-ravenous canine excessive 2&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Sulfur &#13;
+Phosphorus &#13;
+lycopodium &#13;
+Argentum nitricum&#13;
+Pulsatila </desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>1.ΤΟ Sulfur  ΚΑΙ ΤΟ Phosphorus ΕΙΝΑΙ ΚΑΙ ΤΑ ΔΥΟ ΦΑΡΜΑΚΑ ΠΟΥ ΑΝΗΣΥΧΟΥΝ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΗΣ ΟΙΚΟΓΕΝΕΙΑΣ ΤΟΥΣ &#13;
+ΠΑΡΟΛΟ ΑΥΤΑ ΤΟ Sulfur ΑΝΗΣΥΧΕΙ ΠΕΡΙΣΣΟΤΕΡΟ ΓΙΑ ΤΑ ΠΑΙΔΙΑ ΤΟΥ&#13;
+Ο Phosphorus ΟΝΤΑΣ ΚΟΙΝΩΝΙΚΟ ΕΝΔΙΑΦΕΡΕΤΑΙ ΓΕΝΙΚΑ ΓΙΑ  ΤΟΥΣ ΑΛΛΟΥΣ ΚΑΙ ΓΙΑ ΤΑ ΠΡΟΒΛΗΜΑΤΑ ΤΟΥΣ . &#13;
+ΕΙΝΑΙ ΖΕΣΤΟ ΦΑΡΜΑΚΟ /ΦΟΒΑΤΑΙ ΤΙΣ ΑΡΡΩΣΤΙΕΣ /ΑΛΛΑ ΔΕΝ ΕΙΝΑΙ ΕΓΩΙΣΤΗΣ/ ΕΙΝΑΙ ΤΑΚΤΙΚΟΣ / ΔΕΝ ΕΧΕΙ ΑΥΠΝΙΑ ΚΑΙ ΔΕΝ ΕΧΕΙ ΕΚΖΕΜΑ ΣΤΗΝ ΙΝΙΑΚΗ ΧΩΡΑ &#13;
+2.ΤΟ lycopodium ΕΧΕΙ ΕΚΖΕΜΑ ΣΤΟ ΚΕΦΑΛΙ / ΥΔΡΩΤΑ ΠΟΥ ΜΥΡΙΖΕΙ /ΕΧΕΙ ΑΥΠΝΙΑ / ΕΧΕΙ ΑΓΧΟΣ ΓΙΑ ΤΗΝ  ΥΓΕΙΑ ΤΟΥ  &#13;
+ΑΛΛΑ ΔΕΝ ΕΙΝΑΙ ΤΕΜΠΕΛΗΣ /ΔΕΝ ΕΧΕΙ ΑΓΧΟΣ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΩΝ ΑΛΛΩΝ /ΔΕΝ ΕΙΝΑΙ ΑΚΑΤΑΣΤΑΤΟΣ/ΔΕΝ ΕΧΕΙ ΑΠΟΣΤΡΟΦΗ ΓΙΑ ΤΑ ΑΥΓΑ /ΔΕΝ ΕΠΙΘΥΜΕΙ ΛΙΠΑΡΑ /ΑΛΑΤΙ /ΠΙΚΑΝΤΙΚΑ/ΠΑΓΩΤΑ/ΚΡΕΑΣ&#13;
+3.ΤΟ Argentum nitricum  ΚΑΙ ΤΟ Sulfur ΕΙΝΑΙ  ΚΑΙ ΔΥΟ ΖΕΣΤΑ ΦΑΡΜΑΚΑ /ΕΠΙΘΥΜΟΥΝ ΑΛΑΤΙ ΚΑΙ  ΓΛΥΚΑ &#13;
+ ΤΟ Argentum nitricum ΕΧΕΙ ΕΠΙΘΥΜΙΑ ΓΙΑ ΤΗΝ ΣΑΚΧΑΡΗ /ΕΧΕΙ ΑΥΠΝΙΑ /ΦΟΒΟ ΓΙΑ ΤΙΣ ΑΡΡΩΣΤΙΕΣ ΑΛΛΑ &#13;
+ΔΕΝ ΕΙΝΑΙ ΑΚΑΤΑΣΤΑΤΟΣ/ ΤΕΜΠΕΛΗΣ /ΔΕΝ ΕΧΕΙ ΑΓΧΟΣ ΓΙΑ ΤΗΝ  ΥΓΕΙΑ ΤΩΝ ΣΥΓΓΕΝΩΝ ΤΟΥ /ΔΕΝ ΕΧΕΙ ΙΔΡΩΤΑ ΠΟΥ ΜΥΡΙΖΕΙ ΔΕΝ ΕΧΕΙ ΑΠΟΣΤΡΟΦΗ ΓΙΑ ΤΑ ΑΥΓΑ ΚΑΙ ΔΕΝ ΕΠΙΘΥΜΕΙ ΚΡΕΑΣ -ΠΙΚΑΝΤΙΚΑ &#13;
+4. Η Pulsatila ΕΙΝΑΙ ΖΕΣΤΟ ΦΑΡΜΑΚΟ ΚΑΙ ΧΕΙΡΟΤΕΡΕΥΕΙ ΜΕ ΤΗΝ ΖΕΣΤΗ ΕΠΙΘΥΜΕΙ ΤΑ ΠΙΚΑΝΤΙΚΑ -ΤΑ ΓΛΥΚΑ - ΤΟ ΚΡΥΑ ΡΟΦΗΜΑΤΑ/ ΕΧΕΙ ΣΕΞΟΥΑΛΙΚΗ ΔΙΑΘΕΣΗ ΑΥΞΗΜΕΝΗ /ΑΥΠΝΙΑ ΜΕΤΑ  ΤΑ ΜΕΣΑΝΥΧΤΑ&#13;
+ΑΛΛΑ ΔΕΝ ΕΙΝΑΙ ΕΓΩΙΣΤΡΙΑ /ΤΕΜΠΑΛΙΚΟ ΦΑΡΜΑΚΟ / ΔΕΝ ΕΙΝΑΙ ΑΚΑΤΑΣΤΑΤΗ ΚΑΙ ΔΕΝ ΕΧΕΙ ΕΚΖΕΜΑ ΣΤΟ ΚΕΦΑΛΙ &#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Sulfur </remedy>
+        <potency>30c ch -200 ch </potency>
+        <regimen>Please enter regimend&#13;
+ΔΙΝΟΥΜΕ 30  ch TO ΠΡΩΙ &#13;
+ΚΑΙ 200 CH  TO ΜΕΣΗΜΕΡΙ &#13;
+ΤΟΥ ΛΕΜΕ&#13;
+1. ΝΑ ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ ΑΛΛΑ ΟΥΤΕ ΚΑΙ ΤΡΟΦΕΣ ΠΟΥ ΠΕΡΙΕΧΟΥΝ ΚΑΦΕΙΝΗ ΟΠΩΣ ΚΟΚΟ-ΚΟΛΑ&#13;
+2. ΝΑ ΜΗΝ ΠΙΝΕΙ ΧΑΜΟΜΗΛΙ &#13;
+3. ΕΑΝ ΚΑΠΝΙΖΕΙ ΠΡΕΠΕΙ ΝΑ ΠΕΡΟΡΙΣΕΙ ΤΟ ΚΑΠΝΙΣΜΑ ΓΙΑΤΙ Ο ΚΑΠΝΟΣ ΕΜΠΟΔΙΖΕΙ ΤΗΝ ΔΡΑΣΗ ΤΟΥ ΟΜΟΙΟΠΑΘΗΤΙΟΥ ΦΑΡΜΑΚΟΥ  &#13;
+4. ΝΑ  ΜΑΣ ΞΑΝΑΕΡΘΕΙ ΣΕ ΕΝΑ ΜΗΝΑ </regimen>
+        <other_notes>Please enter other notes&#13;
+  Ο ΑΣΘΕΝΗΣ ΜΑΣ ΕΠΕΙΔΗ  ΒΡΙΣΚΕΤΑΙ ΣΤΟ 2 GROUP  ΚΑΙ ΥΠΟΦΕΡΕΙ ΑΠΟ  ΔΕΡΜΑΤΟΛΟΓΙΚΑ ΕΞΑΝΘΗΜΑΤΑ ΜΕ ΚΝΗΣΜΟ ΠΡΕΠΕΙ ΝΑ ΕΙΜΑΣΤΕ  ΠΡΟΣΕΚΤΙΚΟΙ ΚΑΙ ΝΑ ΞΕΚΙΝΗΣΟΥΜΕ  ΜΕ ΧΑΜΗΛΗ ΔΥΜΑΜΟΠΟΙΗΣΗ  &#13;
+ΣΤΑ 30 ch και  200CH &#13;
+</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-06-28 07:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΣΥΝΕΧΙΖΕΙ ΤΟ RENITEC  5 mgr ΓΙΑ ΤΗΝ ΥΠΕΡΤΑΣΗ &#13;
+ΤΑ ΑΝΤΙΙΣΤΑΜΙΚΑ ΤΑ ΠΑΙΡΝΕΙ ΚΑΤΑ ΕΠΙΚΛΗΣΗ </conv_med_presc>
+      <lab_tests>
+        <desc>Hb=12,5 Ht=37  MCV=65,3(76-96) MCH =22,5(27-33) MCHC=29(30-36) MBW=16(11-16)  PLQ=285.000 </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΕΙΧΕ ΜΙΑ ΑΥΞΗΜΕΝΗ ΕΦΙΔΡΩΣΗ ΤΗΝ ΠΡΩΤΗ ΗΜΕΡΑ </reaction>
+      <analysis>Please enter Analysis of the reaction &#13;
+ΜΕΤΑ ΤΟΝ ΠΡΩΤΟ ΜΗΝΑ ΜΑΣ ΛΕΕΙ ΟΤΙ &#13;
+1.ΕΧΕΙ  ΜΕΙΩΘΕΙ  Ο ΚΝΗΣΜΟΣ ΤΟΥ  ΔΕΡΜΑΤΙΚΟΥ ΕΞΑΝΘΗΜΑΤΟΣ ΚΑΤΑ 30%&#13;
+2, ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ Ο ΥΠΝΟΣ ΤΟΥ ΚΑΤΑ 30%  &#13;
+3. ΕΧΕΙ ΠΕΡΙΣΣΟΤΕΡΗ ΔΙΑΘΕΣΗ ΓΙΑ ΝΑ ΚΑΝΕΙ ΤΙΣ ΔΟΥΛΕΙΕΣ ΤΟΥ &#13;
+ΒΛΕΠΟΥΜΕ ΔΗΛΑΔΗ ΟΤΙ ΤΟ ΦΑΡΜΑΚΟ ΤΟΝ ΒΟΗΘΗΣΕ   &#13;
+ </analysis>
+      <conclusion>Please enter followup conclusion&#13;
+Η  ΕΠΙΔΕΙΝΩΣΗ ΑΥΤΗ ΕΙΝΑΙ ΘΕΡΑΠΕΥΤΙΚΗ ΕΠΙΔΕΙΝΩΣΗ ΚΑΙ ΕΙΝΑΙ ΕΝΔΕΙΞΗ ΟΤΙ ΤΟ ΦΑΡΜΑΚΟ ΜΑΣ ΕΙΝΑΙ ΣΩΣΤΟ ΠΡΑΓΜΑ ΠΟΥ ΕΠΙΒΕΒΑΙΩΝΕΤΑΙ ΚΑΙ ΜΕΤΑ ΑΦΟΥ ΥΠΑΡΧΕΙ ΜΙΑ &#13;
+1 .ΑΥΞΗΣΗ ΤΗΣ ΖΩΤΙΚΗΣ ΤΟΥ ΕΝΕΡΓΕΙΑΣ&#13;
+2. ΜΕΙΩΣΗ ΤΟΥ ΚΥΡΙΟΥ ΣΩΜΑΤΙΚΟΥ ΕΝΟΧΛΗΜΑΤΟΣ ΤΟΥ ΔΗΛΑΔΗ ΤΟΥ ΚΝΗΣΜΟΥ &#13;
+3. ΕΙΝΑΙ ΨΥΧΙΚΑ ΠΙΟ ΗΡΕΜΟΣ ΑΦΟΥ ΚΟΙΜΑΤΑΙ ΠΙΟ ΚΑΛΑ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΑΛΛΟ  ΦΑΡΜΑΚΟ </remedy>
+        <potency>---ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>Please enter regimen&#13;
+ΤΟΝ ΣΥΜΒΟΥΛΕΥΟΥΜΕ ΝΕ ΜΗΝ ΠΙΝΕΙ  ΚΑΦΕ ΟΥΤΕ  ΧΑΜΟΜΗΛΙ &#13;
+ΚΑΙ ΠΕΡΙΜΕΝΟΥΜΕ ΝΑ ΔΟΥΜΕ ΑΝ  ΘΑ ΣΥΝΕΧΙΣΤΕΙ  Η ΚΑΛΗ ΠΟΡΕΙΑ ΤΟΥ ΑΣΘΕΝΟΥΣ ΜΑΣ </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΟΥ ΔΙΝΟΥΜΕ ΡΑΝΤΕΒΟΥ ΓΙΑ ΕΠΑΝΕΞΑΤΑΣΗ  ΣΕ ΕΝΑ ΜΗΝΑ ΣΤΗΝ ΠΕΡΙΠΤΩΣΗ ΠΟΥ ΔΕΝ ΥΠΑΡΞΕΙ ΕΠΙΔΕΙΝΩΣΗ ΤΗΣ ΚΑΤΑΣΤΑΣΗΣ </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-07-28 07:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΤΩΡΑ ΠΑΙΡΝΕΙ ΤΟ RENITEC ΜΕΡΑ ΠΑΡΑ ΗΜΕΡΑ ΓΙΑΤΙ  ΠΑΘΑΙΝΕΙ  ΥΠΟΤΑΣΗ &#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>Hb=12 Ht=37  MCV=65(76-96) MCH =25,5(27-33) MCHC=29(30-36) MBW=16(11-16)  PLQ=230.000 </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΒΛΕΠΟΥΜΕ ΟΤΙ ΟΙ ΕΡΓΑΣΤΗΡΙΑΚΕΣ ΕΞΕΤΑΣΕΙΣ ΕΧΟΥΝ ΒΕΛΤΙΩΘΕΙ &#13;
+ΚΑΙ ΟΤΙ ΕΛΑΤΤΩΣΕ ΤΟ RENITEC ΑΦΟΥ Η ΚΑΘΗΜΕΡΙΝΗ  ΔΟΣΟΛΟΓΙΣ ΤΩΝ 5 mgr  ΤΟΥ ΠΡΟΚΑΛΕΙ ΥΠΟΤΑΣΗ&#13;
+</reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΕΡΧΕΤΑΙ ΜΕΤΑ ΤΟ ΜΗΝΑ ΚΑΙ ΠΑΡΑΤΗΡΟΥΜΕ &#13;
+1. ΕΧΕΙ ΗΡΕΜΗΣΕΙ ΑΠΟ ΤΗΝ ΚΟΛΙΤΙΔΑ ΠΟΥ ΕΙΧΕ ΚΑΤΑ 80%&#13;
+2, Ο ΚΝΗΣΜΟΣ ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ ΚΑΤΑ 70 % ΜΕ ΑΠΟΤΕΛΕΣΜΑ ΝΑ ΚΟΙΜΑΤΑΙ ΠΙΟ ΚΑΛΑ ΚΑΙ ΝΑ ΜΗΝ ΞΥΠΝΑΕΙ ΤΟ ΒΡΑΔΥ &#13;
+3. ΤΩΡΑ ΔΕΝ ΒΑΡΙΕΤΑΙ ΝΑ  ΚΑΝΕΙ ΤΙΣ ΑΓΡΟΤΙΚΕΣ ΔΟΥΛΕΙΕΣ ΤΟΥ ΕΧΟΝΤΑΣ ΠΙΟ ΠΟΛΛΕΣ ΔΥΝΑΜΕΙΣ ΚΑΙ ΔΕΝ ΕΙΝΑΙ ΤΟΣΟ ΤΣΑΠΑΤΣΟΥΛΗΣ  ΟΣΟ ΠΡΙΝ &#13;
+4. ΔΕΝ ΖΕΣΤΑΙΝΕΤΑΙ ΟΠΩΣ ΠΡΙΝ ΚΑΙ Ο ΙΔΡΩΤΑΣ ΤΟΥ ΔΕΝ ΕΙΝΑΙ ΔΥΣΟΣΜΟΣ ΚΑΙ ΚΑΥΣΤΙΚΟΣ&#13;
+5. ΕΧΕΙ ΜΕΙΩΘΕΙ Ο ΦΟΒΟΣ ΤΟΥ   ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΟΥ &#13;
+6 ΕΧΕΙ ΠΑΡΑΤΗΡΗΣΕΙ ΜΙΑ ΗΠΙΑ ΒΕΛΤΙΩΣΗ ΚΑΙ ΤΗΣ ΟΣΦΥΑΛΓΙΑΣ &#13;
+7. ΔΕΝ ΕΠΙΘΥΜΕΙ ΤΟΣΟ ΤΑ ΓΛΥΚΑ  /ΤΟ  ΑΛΚΟΟΛ ΚΑΙ ΤΟ ΚΡΥΟ ΝΕΡΟ ΟΠΩΣ ΠΡΙΝ &#13;
+8  ΔΕΝ ΕΧΕΙ ΤΟΣΗ ΑΠΕΧΘΕΙΑ ΓΙΑ   ΤΑ ΑΥΓΑ &#13;
+&#13;
+</analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΣΥΝΕΧΙΖΕΤΑΙ Η ΚΑΛΗ ΠΟΡΕΙΑ ΤΟΥ ΑΣΘΕΝΟΥΣ ΜΑΣ ΑΦΟΥ&#13;
+1. ΕΧΕΙ ΒΕΛΤΙΩΘΕΙ ΤΟΣΟ ΤΟ ΚΥΡΙΟ ΣΥΜΠΤΩΜΑ ΤΟΥ ΟΣΟ ΚΑΙ ΤΑ ΕΠΙΜΕΡΟΥΣ ΣΥΜΠΤΩΜΑΤΑ ΤΟΥ &#13;
+2, ΕΧΕΙ ΠΕΡΙΣΣΟΤΕΡΕΣ ΔΥΝΑΜΕΙΣ ΑΡΑ ΚΑΙ  ΖΩΤΙΚΗ ΕΝΕΡΓΕΙΑ &#13;
+3 ΣΥΧΕΧΙΖΕΤΑΙ Η ΨΥΧΙΚΗ ΒΕΛΤΙΩΣΗ ΑΦΟΥ ΚΟΙΜΑΤΑΙ ΠΟΛΥ ΚΑΛΥΤΕΡΑ  ΧΩΡΙΣ ΝΑ ΥΠΑΡΧΕΙ ΚΝΗΣΜΟΣ &#13;
+4,ΔΕΝ ΕΙΝΑΙ ΤΟΣΟ ΤΣΑΠΑΤΣΟΥΛΗΣ ΟΣΟ ΠΑΛΑΙΑ &#13;
+ΑΡΑ ΕΧΟΥΜΕ ΜΙΑ  ΟΥΣΙΑΣΤΙΚΗ ΒΕΛΤΙΩΣΗ ΤΟΥ ΑΣΘΕΝΟΥΣ ΜΑΣ &#13;
+</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΩ ΦΑΡΜΑΚΟ  </remedy>
+        <potency>---ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>Please enter regimen&#13;
+ΤΟΥ ΥΠΕΝΘΥΜΙΖΟΥΜΕ ΟΤΙ ΔΕΝ ΠΡΕΠΕΙ ΝΑ ΠΙΝΕΙ ΚΑΦΕ  ΟΥΤΕ ΚΑΙ ΧΑΜΟΜΗΛΙ </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΟΥ ΖΗΤΑΜΕ ΝΑ ΕΡΘΕΙ ΓΙΑ ΕΠΑΝΕΞΕΤΑΣΗ ΣΕ 2 ΜΗΝΕΣ </other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-09-28 07:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΣΤΑΜΑΤΗΣΕ ΤΟ RENITEC ΓΙΑ ΤΗΝ ΥΠΕΡΤΑΣΗ ΤΟΥ &#13;
+&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>Hb=12 Ht=38  MCV=66(76-96) MCH =24(27-33) MCHC=29(30-36) MBW=16(11-16)  PLQ=285.000 </desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΣΥΧΕΧΙΖΕΤΑΙ Η ΚΑΛΗ ΠΟΡΕΙΑ ΤΟΥ ΑΣΘΕΝΟΥΣ ΜΑΣ ΚΑΙ ΜΑΛΙΣΤΑ ΧΩΡΙΣ ΝΑ ΔΩΣΟΥΜΕ  &#13;
+ΚΑΝΕΝΑ  ΑΛΛΟ ΦΑΡΜΑΚΟ </reaction>
+      <analysis>Please enter Analysis of the reaction&#13;
+ΜΕΤΑ ΑΠΟ ΔΥΟ ΜΗΝΕΣ ΕΡΧΕΤΑΙ ΚΑΙ ΜΑΣ ΛΕΕΙ ΟΤΙ &#13;
+1. ΔΕΝ ΕΧΕΙ ΠΙΑ ΔΕΡΜΑΤΙΚΟ ΕΞΑΝΘΗΜΑ &#13;
+2. ΔΕΝ ΜΥΡΙΖΕΙ    Ο ΙΔΡΩΤΑΣ ΤΟΥ ΚΑΙ ΔΕΝ  ΕΙΝΑΙ ΚΑΥΣΤΙΚΟΣ &#13;
+3. ΖΕΣΤΑΙΝΕΤΑΙ   ΠΟΛΥ ΛΙΓΟΤΕΡΟ ΚΑΙ ΔΕΝ ΧΕΙΡΟΤΕΡΕΥΕΙ ΑΠΟ ΤΗΝ ΖΕΣΤΗ &#13;
+4.ΕΧΕΙ ΗΡΕΜΗΣΕΙ  ΑΠΟ ΤΗΝ  ΓΑΣΤΡΙΤΙΔΑ /ΤΗΝ  ΣΠΑΣΤΙΚΗ  ΤΟΥ ΚΟΛΙΤΙΔΑ/ ΚΑΙ ΤΗΝ ΑΛΛΕΡΓΙΚΗ ΕΠΙΠΕΦΥΚΙΤΙΔΑ&#13;
+5. ΕΧΕΙ ΗΡΕΜΗΣΕΙ ΑΠΟ ΤΟΝ ΚΝΗΣΜΟ ΚΑΙ ΚΟΙΜΑΤΑΙ ΚΑΛΑ </analysis>
+      <conclusion>Please enter followup conclusion&#13;
+ΠΟΛΥ ΚΑΛΗ ΕΞΕΛΙΞΗ ΑΦΟΥ ΕΧΟΥΜΕ &#13;
+ΒΕΛΤΙΩΣΗ ΚΑΙ ΣΤΗ ΖΩΤΙΚΗ ΕΝΕΡΓΕΙΑ &#13;
+ΣΤΑ  ΣΩΜΑΤΙΚΑ  ΚΑΙ ΨΥΧΙΚΑ ΣΥΜΠΤΩΜΑΤΑ </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΔΕΝ ΔΙΝΟΥΜΕ ΦΑΡΜΑΚΟ </remedy>
+        <potency>----ΠΕΡΙΜΕΝΟΥΜΕ </potency>
+        <regimen>Please enter regimen&#13;
+ΣΥΝΕΧΙΖΕΙ ΝΑ ΜΗΝ ΠΙΝΕΙ ΚΑΦΕ ΚΑΙ ΧΑΜΟΜΗΛΙ &#13;
+ΕΑΝ ΕΠΙΘΥΜΕΙ  ΝΑ ΠΙΕΙ ΚΑΦΕ ΜΠΟΡΕΙ ΝΑ ΠΙΕΙ DECAFEINE </regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΤΟΝ ΣΥΜΒΟΥΛΕΥΟΥΜΕ ΝΑ ΜΑΣ ΞΑΝΑΡΘΕΙ ΣΕ ΠΕΡΙΠΤΩΣΗ ΕΠΑΝΑΦΟΡΑΣ ΤΩΝ ΣΥΜΠΤΩΜΑΤΩΝ &#13;
+</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

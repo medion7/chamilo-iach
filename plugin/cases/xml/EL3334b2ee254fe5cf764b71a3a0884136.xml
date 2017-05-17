@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL3334b2ee254fe5cf764b71a3a0884136</ID>
+  <patient>
+    <case_date>2015-12-13 22:20:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Β.Π.</patient_initials>
+    <age>31</age>
+    <circumstances>Ανύπαντρος, εργάζεται ως δημοσιογράφος περιστασιακά</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αυπνία με νοητική υπερδιέγερση από 3ετίας </origin>
+        <causative_factors>έντονο αγχος&#13;
+κατανάλωση καφέ</causative_factors>
+        <modalities>Χρειαζεται απόλυτο σκοτάδι και ησυχία για να κοιμηθεί ακόμη κι όταν είναι πολύ κουρασμένος&#13;
+Η παραμικρή κατανάλωση καφέ ή αλκοόλ (σε μικροτερο βαθμό) επιδεινώνει την αυπνία&#13;
+Βελτίωση στην εξοχή.</modalities>
+        <occurrence_time>Βράδυ μετά τις 10μμ.&#13;
+Οσο περνά η ώρα και δεν κοιμάται απελπίζεται</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>σχεδόν καθημερινά</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Πόνοι στις αρθρώσεις, κυρίως στην οσφυ &lt; υγρασία, αλλαγη καιρού&#13;
+αιμορροίδες σχετικά συχνά&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμμία</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβολιασμοι :  διφθεριτις-κοκκυτης-τέτανος, πολυομυελιτιδα, Ηπατίτιδα Β&#13;
+Στο παρελθόν αρκετές φορες αντιβιοτικά.&#13;
+Κορτιζόνη για ασθμα περιστασιακά.&#13;
+</therapies_vaccination>
+          <traumas>Δεν αναφέρει συγκεκριμένα.&#13;
+Η μητέρα του ήταν υπερπροστατευτική.&#13;
+</traumas>
+          <infections> καμμία</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>καμμία</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεστένεται &#13;
+Η υγρασία επιδεινώνει την ψυχολογία του και τις αρθραλγίες</reactions>
+        <sleeping_habits>κοιμάται ανάσκελα &#13;
+χρειάζεται απαραιτήτως 8 ωρες υπνου για να ξεκουραστει</sleeping_habits>
+        <food_modalities>επιθυμει: γλυκά,λίπος, καυτερά, φρούτα ξινά-ζουμερά&#13;
+απεχθάνεται : κουνουπίδι</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>Ευαίσθητος, ευσυγκίνητος &#13;
+Νοσταλγία για παρελθόν&#13;
+Άγχος υγείας&#13;
+Μνησικακία</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Συχνες ωτίτιδες από παιδί&#13;
+Ασθμα αλλεργικό&#13;
+</personal_medical_history>
+        <family_medical_history>Ιστορικό αλλεργίας από τη μεριά της μητέρας του.&#13;
+</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>Εικόνα όχι ξεκάθαρη</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Σφίγγει δόντια(1)&#13;
+Αλλεργία σε γάτες(2)&#13;
+</peculiar>
+        <intense>&lt;καφές (2)&#13;
+Σιελόρροια (3)&#13;
+&lt;υγρασία (3)&#13;
+επιθυμεί γλυκά (3), λίπος (2)&#13;
+Δεν συγχωρεί εύκολα (2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Β.Π..pdf</file_url>
+      </repertorization>
+      <remedies_differentiation>SULPH, NITRIC ACID, MERCURIUS SOLUBILIS</remedies_differentiation>
+      <prescription>
+        <remedy>Nitric Acid</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps πρωί</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-08-19 21:20:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Βελτίωση με μικρή αλλά διακριτή αρχική επιδείνωση.&#13;
+Ομως την τελευταία εβδομάδα υποτροπή μετά από καθημερινή κατανάλωση αλκοόλ.</reaction>
+      <analysis>Σωστό φαρμακό.</analysis>
+      <conclusion>Αντιδότηση</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Β.Π. follow up 1.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Nitric acid</remedy>
+        <potency>200CH, 1M</potency>
+        <regimen>1 caps 200Ch &#13;
+1 caps 1M</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-11-03 21:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Σταδιακή ύφεση των συμπτωμάτων χωρίς επιπλέον επιδείνωση.&#13;
+</reaction>
+      <analysis>Οπως και την πρώτη φορά το φάρμακο έχει δράσει σωστά.Το βασικό πρόβλημα είναι πολύ καλύτερα&#13;
+ενώ κάποια mental-emotional στοιχεία εμφανίζονται δίχως να δίνουν κάποια καθαρή εικόνα.&#13;
+Το sulphur είναι σταθερά κοντά στην εικόνα του ασθενή εξ αρχής</analysis>
+      <conclusion>Επειδή ο ασθενής είναι πιεστικός -θεωρώντας πως εφόσον βοηθήθηκε από το φάρμακο είναι αναγκαίο να το ξαναπάρει-&#13;
+θα συνταγογράψουμε  placebo (nitric acid)</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url>https://courses.vithoulkas.edu.gr/main/upload/users/5205/Β.Π. follow up 2.pdf</file_url>
+      </repertorization>
+      <prescription>
+        <remedy>plp (nit-ac)</remedy>
+        <potency>200CH</potency>
+        <regimen>1 caps</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

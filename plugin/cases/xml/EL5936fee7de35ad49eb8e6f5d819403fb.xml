@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL5936fee7de35ad49eb8e6f5d819403fb</ID>
+  <patient>
+    <case_date>2014-02-01 00:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>ΣΣ</patient_initials>
+    <age>4</age>
+    <circumstances>Νηπιο αγορι-προσφατη γεννηση 2ου αδελφου 6μηνων</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Απο τριμηνου εντονος φοβος για σκοταδι (3)-ζηταει φως και παρεα τη μητερα να κοιμηθει.η μητερα φευγει απ το κρεββατι του οταν αποκοιμηθει&#13;
+Συχνα ξυπναει την νυχτα με εφιαλτες-λεει οτι τον κηνυγουν κακοι ανθρωποι(3) κ παει στο δωματιο μαμας&#13;
+Ζηλευει πολυ τον μικρο αδελφο του(3)-του πεταει ολα τα παιχνιδια κ τον βασανιζει αν βρει ευκαιρια&#13;
+Τρωει τα νυχια του(2)&#13;
+Σπανια τριζει δοντια τη νυχτα(1)</origin>
+        <causative_factors>1)Η γεννηση του 2ου παιδιου&#13;
+2)Εμβολιασμος-  οι γονεις αναφερουν οτι μετα το tetravac(4πλο εμβολιο-τετανος κοκκυτη κλπ) αρχισαν εφιαλτες κ τριξιμο δοντιων ελαφρυ&#13;
+</causative_factors>
+        <modalities>η ζηλια κ η ονυχοφαγια &gt;οταν ο αδελφος του λειπει απ το σπιτι &#13;
+                                   &lt;οταν η μαμα του θηλαζει τον μικρο&#13;
+φοβος σκοταδιου&gt;φως-λαμπατερ κ να κοιμαται μαζι με μαμα του&#13;
+ονυχοφαγια&lt;ζηλεια .&gt;οταν λειπει το μωρο στη γιαγια του</modalities>
+        <occurrence_time>ο φοβος για σκοταδι&lt;το βραδυ στο δωματιο του</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>καθε βραδυ φοβος σκοταδιου&#13;
+σχεδον καθε  δευτερο βραδυ ξυπναει με τον ιδιο εφιαλτη οτι τον κηνυγουν κακοι ανθρωποι&#13;
+Ονυχοφαγια συχνα</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>οχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>οχι</conv_med_presc>
+        <lab_tests>
+          <desc>κφ</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Συνηθης εμβολιασμοι&#13;
+</therapies_vaccination>
+          <traumas>Συναισθηματικο=γεννηση 2ου παιδιου</traumas>
+          <infections>οχι</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατερας 36χρ κφ&#13;
+Μητερα 30χρ κφ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>&lt;ζεστη 2</reactions>
+        <sleeping_habits>δεξια η αριστερα</sleeping_habits>
+        <food_modalities>desire:(  SWEETS 3, SALT1 , MEAT2,FISH2, EGG σφιχτα2, BREAD3, PASTA3,MILK2&#13;
+aversion:ΓΙΑΟΥΡΤΙ-ΤΥΡΙΑ</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>ΜIND ¬ FEAR ¬ dark 3&#13;
+ SLEEP ¬ DREAMS ¬ nightmare 3&#13;
+MIND ¬ JEALOUSY 3 </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Συχνες εμπυρετες ιογενεις λοιμωξεις(3-4/χρονο)&#13;
+2μεσες ωτιτιδες υπο αντιβιωτικη αγωγη</personal_medical_history>
+        <family_medical_history>Γονεις κ παππουδες χωρις καποιο σημαντικο προβλημα</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Φαρμακο καθαρο-επιπεδο υγειας καλο-προγνωση καλη</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>SLEEP ¬ DREAMS ¬ nightmare 3&#13;
+MIND ¬ BITING ¬ nails 2&#13;
+TEETH ¬ GRINDING 1</peculiar>
+        <intense>ΜIND ¬ FEAR ¬ dark 3&#13;
+ SLEEP ¬ DREAMS ¬ nightmare 3&#13;
+MIND ¬ JEALOUSY 3 </intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>ΜIND ¬ FEAR ¬ dark 3&#13;
+ SLEEP ¬ DREAMS ¬ nightmare 3&#13;
+ MIND ¬ BITING ¬ nails 2&#13;
+ MIND ¬ JEALOUSY 3 &#13;
+TEETH ¬ GRINDING 1</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>STRAM-HYOSC-MED</remedies_differentiation>
+      <prescription>
+        <remedy>STRAMONIUM</remedy>
+        <potency>1M</potency>
+        <regimen>ENA XAΠΙ</regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc>κφ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Την πρωτη νυχτα που πηρε φαρμακο ξυπνησε με πολλους εφιαλτες ολη νυχτα πηγε στο κρεββατι των γονιων του-κοιμηθηκε ελαχιστα- μετα σταδιακα μεσα σε 2μηνες ηρεμησε θεαματικα-εφυγε εντελως το τριξιμο δοντιων ενω ολα τα αλλα sym beltivuhkan &gt;50%</reaction>
+      <analysis>Πολυ καλο σημαδι-αρχικη aggr κ μετα amel</analysis>
+      <conclusion>πορεια καλη</conclusion>
+      <repertorization>
+        <desc>ΜIND ¬ FEAR ¬ dark 1&#13;
+ SLEEP ¬ DREAMS ¬ nightmare 1&#13;
+ MIND ¬ BITING ¬ nails 1&#13;
+ MIND ¬ JEALOUSY 2&#13;
+TEETH ¬ GRINDING 0</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc>κφ</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>πολυ καλη</reaction>
+      <analysis>η καλη πορεια συνεχιζεται-οι γονεις του παιδιου διεκοψαν εμβολιασμους.</analysis>
+      <conclusion>Συνεχιζεται η καλη πορεια κ η δραση του φαρμακου&#13;
+Εμεινε μονο λιγη ζηλια για μικρο αδελφο2 και μικρος φοβος για το σκοταδι1</conclusion>
+      <repertorization>
+        <desc>ΜIND ¬ FEAR ¬ dark 1 SLEEP ¬ DREAMS ¬ nightmare 0 MIND ¬ JEALOUSY 2</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

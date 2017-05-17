@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELeb045be18ac403da43ca8cb73097e332</ID>
+  <patient>
+    <case_date>2015-01-11 18:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Μ.Τ</patient_initials>
+    <age>15</age>
+    <circumstances>Please enter the personal circumstances&#13;
+ΕΙΝΑΙ ΜΑΘΗΤΗΣ,ΔΕΝ ΕΧΕΙ ΑΔΕΛΦΙΑ.ΟΙΓΟΝΕΙΣ ΤΟΥΠΗΡΑΝ ΔΙΑΖΥΓΙΟ ΟΤΑΝ ΑΥΤΟΣ ΗΤΑΝ ΕΝΟΣ ΕΤΟΥΣ.Ο ΠΑΤΕΡΑΣ ΤΟΥ ΤΟΝ ΚΑΚΟΠΟΙΟΥΣΕ.ΤΟΥ ΑΡΕΣΕΙ ΝΑ ΖΩΓΡΑΦΙΖΕΙ.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΕΝΤΟΝΟΣ ΤΡΑΥΛΙΣΜΟΣ.ΣΧΕΔΟΝ ΑΠΟ ΤΟΤΕ ΠΟΥ ΑΡΧΙΣΕ ΝΑ ΜΙΛΑΕΙ.ΚΑΝΕΙ ΕΠΙΣΗΣ ΕΝΤΟΝΟΥΣ ΣΠΑΜΟΥΣ ΣΤΟ ΠΡΟΣΩΠΟ ΟΤΑΝ ΘΕΛΕΙ ΝΑ ΜΙΛΗΣΕΙ&#13;
+</origin>
+        <causative_factors>ΠΙΘΑΝΟΝ ΟΙ ΚΑΚΕΣ ΣΥΝΘΗΚΕΣ ΖΩΗΣ ΣΤΗΝ ΟΙΚΟΓΕΝΕΙΑ,ΚΑΙ Η ΒΙΑ ΠΟΥ ΑΝΤΙΜΕΤΩΠΙΣΕ</causative_factors>
+        <modalities>ΤΡΑΥΛΙΖΕΙ ΠΙΟ ΕΝΤΟΝΑ ΟΤΑΝ ΣΤΡΕΣΑΡΕΤΑΙ ΚΑΙ ΚΑΛΥΤΕΡΕΥΕΙ ΣΤΙΣ ΔΙΑΚΟΠΕΣ ΤΟΥ.</modalities>
+        <occurrence_time>ΣΤΗΝ ΔΙΑΡΚΕΙΑ ΤΩΝ ΔΙΑΚΟΠΩΝ ΚΑΛΥΤΕΡΕΥΕΙ</occurrence_time>
+        <body_side>ΟΧΙ</body_side>
+        <appearence_frequency>ΚΑΘΕ ΦΟΡΑ ΠΟΥ ΜΙΛΑΕΙ</appearence_frequency>
+        <pain_desc>ΔΕΝ ΠΟΝΑΕΙ</pain_desc>
+        <complaint_ext>ΔΕΝ ΕΠΕΚΤΕΙΝΕΤΑΙ ΚΑΠΟΥ ΑΛΛΟΥ</complaint_ext>
+        <other_complaints>ΑΠΩΛΕΙΑ ΚΟΠΡΑΝΩΝ ΣΤΟΝ ΥΠΝΟ ΤΟΥ.ΕΛΑΦΡΑ ΚΛΙΣΗ ΤΟΥ ΑΡΙΣΤΕΡΟΥ ΠΕΛΜΑΤΟΣ ΠΡΟΣ ΤΑ ΕΣΩΚΑΙ ΤΑΣΗ ΓΙΑ ΠΑΧΥΣΑΡΚΙΑ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΔΕΝ ΠΑΙΡΝΕΙ</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΧΙ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>ΕΧΕΙ ΚΑΝΕΙ ΟΛΑ ΤΑ ΠΑΙΔΙΚΑ ΕΜΒΟΛΙΑ ΚΑΙ ΚΑΤΑ ΚΑΙΡΟΥΣ ΕΧΕΙ ΠΑΡΕΙ ΑΝΤΙΒΙΩΣΗ  ΓΙΑ ΚΡΥΟΛΟΓΗΜΑΤΑ  Κ.ΑΙ ΔΥΟ ΦΟΡΕΣ ΓΙΑ ΟΥΡΟΛΟΙΜΩΞΗ.</therapies_vaccination>
+          <traumas>ΚΑΚΟΠΟΙΗΣΗ ΑΠΟ ΤΟΝ ΜΠΑΜΠΑ ΤΟΥ,ΤΟΥ ΙΔΙΟΥ ΚΑΙ ΤΗΣ ΜΑΜΑΣ ΤΟΥ.Ο ΧΩΡΙΣΜΟΣ ΤΩΝ ΓΟΝΙΩΝ ΤΟΥ</traumas>
+          <infections>οχι</infections>
+          <other>δεν εχω να αναφερω κατι αλλο</other>
+        </personal>
+        <family>
+          <diseases>Η ΜΗΤΕΡΑ ΤΟΥ 45 ΧΡΟΝΩΝ ΠΑΡΝΕΙ Τ4 62mg ΓΙΑ ΥΠΟΘΥΡΕΟΕΙΔΙΣΜΟ.Ο ΠΑΤΕΡΑΣ ΤΟΥ  ΔΕΝ ΞΕΡΕΙ ΓΙΑΤΙ ΔΕΝ ΤΟΝ ΕΧΕΙ ΞΑΝΑΔΕΙ ΑΠΟ ΤΟΤΕ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΓΕΝΙΚΑ ΖΕΣΤΑΙΝΕΤΑΙ ΑΛΛΑ ΚΡΥΩΝΟΥΝ ΤΑ ΧΕΡΙΑΤΟΥ[ΕΙΝΑΙ ΠΑΝΤΑ ΚΡΥΑ ,ΑΠ'ΟΤΙ ΜΟΥ ΕΙΠΕ]ΓΕΝΙΚΑ ΕΙΝΑΙ ΖΕΣΤΗ ΙΔΙΟΣΥΓΚΡΑΣΙΑ</reactions>
+        <sleeping_habits>ΣΤΟ ΔΕΞΙ ΠΛΑΙ ΣΥΝΗΘΩΣ ,ΑΝ ΚΑΙ ΣΥΝΗΘΩΣ ΑΛΛΑΖΕΙ ΣΥΝΕΧΕΙΑ ΘΕΣΗ</sleeping_habits>
+        <food_modalities>ΕΠΙΘΥΜΕΙ  ΜΑΚΑΡΟΝΙΑ [2] ΓΛΥΚΑ[2]ΔΕΝ ΤΟΥ ΑΡΕΣΟΥΝ ΣΟΥΠΕΣ[2] ΨΑΡΙ[3]</food_modalities>
+        <menstruation>ΟΧΙ</menstruation>
+      </physical>
+      <mental_emotional>ΤΡΟΜΑΓΜΕΝΟΣ ΚΑΙ ΦΟΒΙΣΜΕΝΟ ΠΑΙΔΙ.ΤΑΣΕΙΣ ΦΥΓΗΣ[ΤΑΞΙΔΙΑ] ΣΤΗΝ ΜΗΤΕΡΑ ΔΕΙΧΝΕΙ ΘΥΜΟ ΚΑΙ ΤΟΝ ΕΚΦΡΑΖΕΙ ΜΕ ΔΑΓΚΩΜΑΤΙΕΣ,ΟΤΑΝ ΝΕΥΡΙΑΖΕΙ ΤΡΩΕΙ ΠΟΛΥ.&#13;
+ΔΕΙΧΝΕΙ ΜΕΓΑΛΥΤΕΡΟΣ ΑΠΟ 15 ΧΡΟΝΩΝ.ΕΧΕΙ ΧΑΜΗΛΗ ΑΥΤΟΠΕΠΟΙΘΗΣΗ,ΚΑΙΔΕΝ ΘΕΛΕΙ ΝΑ ΔΩΣΕΙ ΕΞΕΤΑΣΕΙΣ&#13;
+ΦΟΒΑΤΑΙ ΤΙΣ ΑΚΡΙΔΕΣ ,ΤΑ ΕΝΤΟΜΑ,ΣΚΟΤΑΔΙ ΚΑΙ ΤΙΣ ΕΞΕΤΑΣΕΙΣ</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>ΣΤΑ ΚΡΥΟΚΟΓΗΜΑΤΑ ΤΟΥ ΕΧΕΙ ΚΑΝΕΙ ΠΥΡΕΤΟ ΜΕΧΡΙ  38,5 ΣΤΟ ΣΩΜΑΤΙΚΟ ΕΠΙΠΕΔΟ ΔΕΝ ΕΙΝΑΙ ΕΠΙΒΑΡΥΜΕΝΟΣ ΣΑΝ ΟΡΓΑΝΙΣΜΟΣ.ΚΑΙ ΝΟΜΙΖΩ ΟΤΙ ΕΧΕΙ ΚΑΛΕΣ ΠΙΘΑΝΟΤΗΤΕΣ ΝΑ ΠΑΕΙ ΚΑΛΑ</personal_medical_history>
+        <family_medical_history>ΔΥΣΤΥΧΩΣ ΣΕ ΑΥΤΟΝ ΤΟΝ ΤΟΜΕΑ ΔΕΝ ΕΧΟΥΜΕ ΚΑΛΕΣ ΠΛΗΡΟΦΟΡΙΕΣ ΛΟΓΩ ΤΟΥ ΟΤΙ  ΔΕΝ ΓΝΩΡΙΖΟΥΜΕ ΠΟΛΛΑ ΓΙΑ ΤΟΝ ΠΑΤΕΡΑ ΠΑΡΑ ΜΟΝΟ ΟΤΙ ΕΠΙΝΕ ΣΥΧΝΑ.ΑΠΟ ΤΗΝ ΑΛΛΗ Η ΜΗΤΕΡΑ ΤΟΥ ΕΧΕΙ ΧΑΣΕΙ ΤΟΝ ΜΠΑΜΠΑ ΤΗΣ ΑΠΟ ΕΜΦΡΑΓΜΑ ΚΑΙ Η ΜΗΤΕΡΑ ΤΗΣ ΕΧΕΙ ΥΠΕΡΤΑΣΗ ΚΑΙ ΟΣΤΕΟΠΟΡΩΣΗ.</family_medical_history>
+        <level_of_health>4</level_of_health>
+        <conclusion>ΕΙΝΑΙ ΕΝΑΣ ΟΡΓΑΝΙΣΜΟΣ ΜΕ ΚΑΛΟ ΕΠΙΠΕΔΟ ΥΓΕΙΑΣ ΠΟΥ ΟΜΩΣ ΕΧΕΙ ΠΛΗΓΩΘΕΙ Ο ΣΥΝΑΙΣΘΗΜΑΤΙΚΟΣ ΤΟΥ ΚΟΣΜΟΣ.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΑΠΩΛΕΙΑ ΚΟΠΡΑΝΩΝ[2].ΖΕΣΤΑΙΝΕΤΑΙ ΑΛΛΑ ΕΧΕΙ ΚΡΥΑΧΕΡΙΑ[2]</peculiar>
+        <intense>ΤΡΟΜΑΓΜΕΝΟ[3]ΤΑΣΕΙΣ ΦΥΓΗΣ[2]ΧΑΜΗΛΗ ΑΥΤΟΠΕΠΟΙΘΗΣΗ [3]ΡΕΞΗ ΑΠΟ ΝΕΥΡΑ[3]ΣΠΑΣΜΟΙ ΣΤΟ ΠΡΟΣΩΠΟ[3]&#13;
+ΦΟΒΑΙ ΑΚΡΙΔΕΣ[2] ,ΕΝΤΟΜΑ[2] ΣΚΟΤΑΔΙ[1] ΕΞΕΤΑΣΕΙΣ[2]</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>για μενα ειναι πολυ κοντα το stramonium </remedies_differentiation>
+      <prescription>
+        <remedy>STRAMONIUM</remedy>
+        <potency>200CH,1M</potency>
+        <regimen>Icaps 200ch το πρωι&#13;
+1 caps 1M το βραδυ</regimen>
+        <other_notes>ζητηθηκε απο την μητερα του να παρατηρησει διαφορες γενικοτερες  στην συμπεριφορα του</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-27 19:00:00</followup_date>
+      <conv_med_presc>καμια</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΣΤΟΝ ΛΟΓΟ ΤΟΥ ΕΙΝΑΙ ΚΑΛΥΤΕΡΟ Σ,ΠΙΟ ΑΥΘΟΡΜΗΤΗ ΚΑΙ ΚΑΛΥΤΕΡΗ ΡΟΗ ΤΟΥ ΛΟΓΟΥ. ΔΕΝ ΔΑΓΚΩΝΕΙ ΠΛΕΟΝ ΤΗΝ ΜΗΤΕΡΑ ΤΟΥ ΚΑΙ ΟΙ ΣΥΣΠΑΣΕΙΣ ΣΤΟ ΠΡΟΣΩΠΟ ΤΟΥ ΜΕΙΩΘΗΚΑΝ</reaction>
+      <analysis>Η ΜΗΤΕΡΑ ΤΟΥ ΔΕΝ ΗΤΑΝ ΣΕ ΘΕΣΗ ΝΑ ΜΑΣ ΠΕΙ ΑΝ ΥΠΗΡΞΕ ΣΤΗΝ ΑΡΧΗ ΕΠΙΔΕΙΝΩΣΗ ΓΙΑΤΙ ΑΥΤΗ ΣΥΝΕΒΑΙΝΕ ΟΥΤΩΣ Η ΑΛΛΩΣ ΟΤΑΝ ΑΓΧΩΝΟΤΑΝ,ΟΜΩΣ Η ΑΝΤΙΔΡΑΣΗ ΤΟΥ ΔΕΙΧΝΕΙ ΒΕΛΤΙΩΣΗ ΚΑΙ ΣΤΟ ΛΟΓΟ ΚΑΙ ΣΤΗΝ ΒΙΑΙΗ ΣΥΜΠΕΡΙΦΟΡΑ</analysis>
+      <conclusion>ΤΟ ΦΑΡΜΑΚΟ ΕΧΕΙ ΔΟΥΛΕΨΕΙ ΚΑΛΑ ΚΑΙ ΠΡΟΣ ΤΟ ΠΑΡΟΝ ΔΕΝ ΘΑ ΑΛΛΑΞΩ ΤΙΠΟΤΑ ΣΤΗΝ ΣΥΝΤΑΓΟΓΡΑΦΗΣΗ ΟΥΤΕ ΘΑ ΤΟΥ ΔΩΣΩ ΤΟ ΙΔΙΟ ΠΑΛΙ</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΟΧΙ</remedy>
+        <potency>ΟΧΙ</potency>
+        <regimen>ΟΧΙ</regimen>
+        <other_notes>Please enter other followup notes&#13;
+ΑΠΛΑ ΘΑ ΠΕΡΙΜΕΝΟΥΜΕ ΜΕΧΡΙ ΤΟ ΕΠΟΜΕΝΟ ΡΑΝΤΕΒΟΥ</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-06-26 17:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions&#13;
+ΟΧΙ</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation&#13;
+ΤΟ ΔΙΑΣΤΗΜΑ ΠΟΥ ΜΕΣΟΛΑΒΗΣΕ Η ΚΑΤΑΣΤΑΣΗ ΠΑΡΕΜΕΝΕ ΣΤΑΘΕΡΑ ΒΕΛΤΙΩΜΕΝΗ ΚΑΙ ΤΩΡΑ ΜΕΤΑ ΑΠΟ ΑΥΤΟ ΤΟΝ ΚΑΙΡΟ ΜΟΥ ΑΝΑΦΕΡΕΙ ΟΤΙ ΤΟ ΤΡΑΥΛΙΣΜΑ ΠΙΑ ΕΙΝΑ ΑΝΕΠΑΙΣΘΗΤΟ,ΜΟΝΟ ΣΕ ΣΤΡΕΣ.ΔΕΝ ΕΜΦΑΝΙΖΕΙ ΒΟΥΛΙΜΙΑ ΚΑΙ ΕΔΩΣΕ ΕΞΕΤΑΣΕΙΣ ΣΤΟ ΣΧΟΛΕΙΟ ΑΝ ΚΑΙ ΠΡΙΝ ΤΙΣ ΦΟΒΟΤΑΝ ΠΟΛΥ</reaction>
+      <analysis>ΠΟΛΥ ΚΑΛΗ ΚΑΙ ΑΝΑΜΕΝΟΜΕΝΗ .ΒΑΣΕΙ ΚΑΙ ΤΗΣ ΠΡΩΤΗΣ ΕΠΑΝΕΞΕΤΑΣΗΣ ΠΕΡΙΜΕΝΑΜΕ ΟΤΙ ΘΑ ΣΥΝΕΧΙΖΟΤΑΝ Η ΚΑΛΗ ΠΟΡΕΙΑ ΤΟΥ ΑΣΘΕΝΟΥΣ</analysis>
+      <conclusion>ΤΟ ΦΑΡΜΑΚΟ ΕΙΝΑΙ ΣΩΣΤΟ ΚΑΙ ΕΔΡΑΣΕ ΣΕ ΟΛΑ ΤΑ ΕΠΙΠΕΔΑ ΑΚΟΜΑ ΚΑΙ ΑΝ ΔΕΝ ΗΜΑΣΤΑΝ ΣΕ ΘΕΣΗ ΝΑ ΔΙΑΠΙΣΤΩΣΟΥΜΕ ΚΑΠΟΙΑ ΑΡΧΙΚΗ ΕΠΙΔΕΝΩΣΗ.ΩΣ ΕΚ ΤΟΥΤΩ  ΠΑΡΑΜΕΝΟΥΜΕ ΣΕ ΑΥΤΑ ΠΟΥ ΕΧΟΥΜΕ ΔΩΣΕΙ ΚΑΙ ΠΕΡΙΜΕΝΟΥΜΕ.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>0ΧΙ</remedy>
+        <potency>ΟΧΙ</potency>
+        <regimen>ΟΧΙ</regimen>
+        <other_notes>ΟΧΙ</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL5a89bbe0c5d9aa1a6535a76d2ce1251c</ID>
+  <patient>
+    <case_date>2014-03-30 19:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>K.Π.</patient_initials>
+    <age>6</age>
+    <circumstances>Aγόρι 5 ετών, 16,5 κιλά,   1,04 ύψος, μοναχοπαίδι.&#13;
+Ζωηρός2 , κινητικός.&#13;
+Πιάνει εύκολα παρέα.&#13;
+Διεκδικητικός2.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Μετά, από απανωτά κρυολογήματα-ιώσεις ,στον παιδικό σταθμό, άρχισε να εμφανίζει μια παράταση στο βήχα, κάθε φορά μεγαλύτερης διάρκειας και 2 φορές εμφάνισε και δύσπνοια.</origin>
+        <causative_factors>Αρκετή περιβαλλοντική υγρασία, στον τόπο διαμονής,( κυρίως το χειμώνα).&#13;
+Συχνές ιώσεις, το πρώτο διάστημα. στον παιδικό σταθμό.&#13;
+</causative_factors>
+        <modalities>&gt;στη θάλασσα3&#13;
+&lt;στην υγρασία2&#13;
+&gt;όταν γέρνει το σώμα του μπροστά1</modalities>
+        <occurrence_time>Δεν έχει ιδιαίτερη &gt; η &lt;με τον χρόνο.</occurrence_time>
+        <body_side>-  -  -</body_side>
+        <appearence_frequency>3-4 φορές το χρόνο.</appearence_frequency>
+        <pain_desc>Δεν πονάει.</pain_desc>
+        <complaint_ext>-  -  -</complaint_ext>
+        <other_complaints>Ονυχοφαγία2</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Εμφάνισε άσθμα, από 3 ετών.&#13;
+Χρησιμοποιεί aerolin,  flixotide,  και κάποιες φορές και αντιβίωση.</conv_med_presc>
+        <lab_tests>
+          <desc>Σπειρομέτρηση : 82%</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχουν γίνει όλοι, οι προβλεπόμενοι εμβολιασμοί.</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>Κάποιες ιώσεις και ωτίτιδα, αμυγδαλίτιδα με  39, 5 πυρετό</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Τίποτα το αξιόλογο.&#13;
+ Μόνο, μια γαστροοισοφαγική παλινδρόμηση, του πατέρα.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions> ζεσταίνεται 2, ζεστά πόδια 2,  ιδρώνει2&#13;
+</reactions>
+        <sleeping_habits>Μπρούμυτα3, πλάι 1.</sleeping_habits>
+        <food_modalities>Αλμυρά2, πικάντικα2, ξινά2,  λεμόνι3&#13;
+av, γάλα2, av.φακές3</food_modalities>
+        <menstruation>-  -   -</menstruation>
+      </physical>
+      <mental_emotional>Φοβάται το σκοτάδι2&#13;
+Φοβάται τα φαντάσματα 2&#13;
+νευρικό1, κινητικό2, ζωηρό2&#13;
+</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Είναι ένα γενικά, γερό παιδί, χωρίς ιδιαίτερα προβλήματα υγείας.</personal_medical_history>
+        <family_medical_history>Οι γονείς του, επίσης, δεν έχουν σοβαρά προβλήματα υγείας. </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Περιμένω ότι θα πάει καλά με την θεραπεία μας, γιατί είναι ένας νέος και  δυνατός οργανισμός ,χωρίς ιδιαίτερες προδιαθέσεις.&#13;
+&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>&gt;όταν γέρνει μπροστά1&#13;
+&gt;όταν κοιμάται μπρούμυτα1</peculiar>
+        <intense>-</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>Respiration asthmatic2&#13;
+Respiration asthmatic -cold -damp weather3&#13;
+Respiration asthmatic-leaning forward -amel1&#13;
+Respiration difficult (dyspnoea) - lying - on knees and elbows -amel.1&#13;
+Mind - biting -  nails2&#13;
+Mind -  fear-  dark2&#13;
+Mind - fear - ghosts - of2&#13;
+Sleep - position - abdomen, on3&#13;
+Sleep - position - side - on1&#13;
+Generalities - food and drinks -salt desire2 &#13;
+Generalities - food and drinks - milk - aversion2&#13;
+Generalities - food and drinks -sour food, acids- desire2&#13;
+Generalities  -bathing-  sea- amel.2&#13;
+Extremities - heat - foot - night -in bed2&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Το compass έβγαλε: 1οMeddorrhinum&#13;
+                              &#13;
+                               2o Natrum muriaticum&#13;
+                               3o Stramonium &#13;
+Πιστεύω, ότι το παιδί, έχει καθαρά χαρακτηριστικά ,του Med.(ζωηρό, δραστήριο,,κοιμάται μπρούμυτα, γευστικές προτιμήσεις  και φόβους  του Med). &#13;
+Δεν έχει ψυχοδιανοητική συμπεριφορά  Stram. και βέβαια ,ούτε Natrum mur. γιατί, είναι ένα παιδί κοινωνικό, που κάνει εύκολα παρέα,  χωρίς τα νεύρα του   Stram , αλλά ούτε την εσωστρέφια και τη θλίψη του  Natrum mur.&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Medorinum</remedy>
+        <potency>30ch  /200ch</potency>
+        <regimen>Την πρώτη μέρα, μια caps 30ch &#13;
+και την επομένη, 1caps 200ch</regimen>
+        <other_notes>Nα ληφθούν το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-05-05 19:00:00</followup_date>
+      <conv_med_presc>Για ένα δεκαήμερο, χρήση Aerolin, μετά από κρυολόγημα.&#13;
+</conv_med_presc>
+      <lab_tests>
+        <desc>-  -  - </desc>
+        <file></file>
+      </lab_tests>
+      <reaction> Περισσότερος ύπνος, τις πρώτες ημέρες.&#13;
+Αυξήθηκε, η όρεξη του.&#13;
+¨Εκανε, μια ασθματική κρίση, με αρκετό βήχα.και έκτοτε δεν είχε άλλη κρίση.</reaction>
+      <analysis>Το φάρμακο ,φαίνεται να έδρασε, και ο οργανισμός προσπάθησε να αυξήσει την ενέργεια του ,με ύπνο και φαγητό.&#13;
+Ακόμη, υπήρξε μία σύντομη αρχική &lt; του βήχα, η οποία ακολουθήθηκε από&gt;.</analysis>
+      <conclusion>Το φάρμακο, έδρασε και το παιδί πάει πολύ καλά!&#13;
+Βέβαια, βοήθησε και η εποχή, που δεν είχε σημαντική υγρασία. </conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>ΤΙΠΟΤΑ  -    περιμένω....</remedy>
+        <potency>-</potency>
+        <regimen>-  -  -</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-07-10 08:00:00</followup_date>
+      <conv_med_presc>ΤΙΠΟΤΑ</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνεχίζει η καλή πορεία του ασθενούς.</reaction>
+      <analysis>Το παιδί είχε καλό επίπεδο υγείας και πήγε γρήγορα καλά. </analysis>
+      <conclusion>Προς το παρόν ,περιμένω.. Θα  ξαναδόύμε το φθινόπωρο, που θα πάει στο σχολείο , αν θα χρειαστεί φάρμακο.&#13;
+&#13;
+</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2014-09-28 12:00:00</followup_date>
+      <conv_med_presc>Aerolin μετά από ίωση.</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνέχισε η καλή πορεία του.¨Οταν πήγε σχολείο, με την πρώτη ίωση, άρχισε πάλι βήχα. Δεν έχει αλλάξει η εικόνα.</reaction>
+      <analysis>Σταμάτησε η δράση του φαρμάκου. </analysis>
+      <conclusion>Θα το επαναλάβουμε, σε 1Μ αυτή τη φορά, αφού έχουμε ένα τόσο γερό οργανισμό.</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Medorinum</remedy>
+        <potency>1M</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Nα ληφθεί το πρωί , με άδειο στομάχι , μισή ώρα προ φαγητού.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

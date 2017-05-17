@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL361b4e5ed64f47c5c80430753bc6ffcd</ID>
+  <patient>
+    <case_date>2015-01-14 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>ΝΦ</patient_initials>
+    <age>24</age>
+    <circumstances>ανύπαντρη, τραγουδίστρια.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Βουλώνουν τα αυτιά με το παραμικρό από 2ετίας. Έχει κάνει επανειλλημένα έλεγχο σε ΩΡΛ χωρίς παθολογικά ευρήματα. Της είπαν ότι είναι από το άγχος.</origin>
+        <causative_factors>έντονο άγχος</causative_factors>
+        <modalities>δεν αναφέρει κανένα</modalities>
+        <occurrence_time>δεν αναφέρει</occurrence_time>
+        <body_side>άμφω</body_side>
+        <appearence_frequency>μια φορά το μήνα περίπου</appearence_frequency>
+        <pain_desc>Βουλώνουν τα αυτιά και αυτό τη δυσκολεύει στη δουλειά της γιατί "δεν μπορώ να ακούσω τη φωνή μου"</pain_desc>
+        <complaint_ext>καμία</complaint_ext>
+        <other_complaints>έντονο άγχος, εναλλαγές βουλιμίας-ανορεξίας</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>καμία</conv_med_presc>
+        <lab_tests>
+          <desc>καμία</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>phosphorus</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>συνήθεις εμβολιασμοί. Φάρμακα αντιισταμινικά και ωτικές σταγόνες</therapies_vaccination>
+          <traumas>stress</traumas>
+          <infections>καμία</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>γονείς υγιείς (πατέρας 58 χρ, μητέρα 56 χρ)</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>κρυώνει</reactions>
+        <sleeping_habits>ύπνος κακός. Ξυπνάει πολλές φορές κατά τη διάρκεια. Ξυπνάει κουρασμένη(2). Κοιμάται μπρούμυτα. Δεν κοιμάται πριν τις 3πμ (ίσως και συνήθεια λόγω δουλειάς).</sleeping_habits>
+        <food_modalities>επιθυμεί τα γλυκά (3), λαχανικά, γιαούρτι, τυρί&#13;
+απέχθεια στο ξύδι (2), φακές</food_modalities>
+        <menstruation>έμμηνος ρύση κφ. Έντονο προεμμηνορρυσιακό σύνδρομο με νεύρα και κλάμα(2). Ιδρώτας που αυξάνεται πολύ πριν την περίοδο(1).</menstruation>
+      </physical>
+      <mental_emotional>Συμμετέχει έντονα στις παρέες και λέει ότι είναι το κέντρο (" αν και δεν το προσπαθώ"). Σχέση μία για 6 χρόνια όχι καλή αλλά δεν μπορούσε και να ξεκολλήσει. Θέλει τώρα σχέση αλλά λέει δεν έχει προκύψει. Αισθάνεται ότι συναισθηματικά δεν ανταποκρίνεται το ίδιο με τους συντρόφους ("κολλάνε μαζί μου"). Ερωτικές επαφές πολλές. Πολλές παρέες. Έντονο άγχος για τη δουλειά. Λέει ότι είναι τελειομανής με τη δουλειά της.</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Βούλωμα αυτιών από 2ετίας&#13;
+γαστροοισοφαγική παλινδρόμηση από έτους&#13;
+βουλιμικά-ανορεξικά επεισόδια από 2ετίας&#13;
+εφηβεία-ακμή με λήψη ρετινοειδών&#13;
+σμηγματορροϊκή δερματίτιδα τριχωτού</personal_medical_history>
+        <family_medical_history>ελεύθερο</family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Το επίπεδο 3 βασίζεται στα νοητικά, συναισθηματικά και σωματικά συμπτώματα της ασθενούς</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>κανένα</peculiar>
+        <intense>generalities-food and drinks-sweets-desire (3)&#13;
+sleep-unrefreshing-morning (2)&#13;
+mind-haughty(2)&#13;
+mind-frightened easily (2)&#13;
+stomach-distention (2)&#13;
+mind-menses-before-agg (2)&#13;
+mind-cold-agg (2)&#13;
+mind-restlessness, nervousness (2)&#13;
+genitalia-female-sexual desire-increased (2)&#13;
+rectum-constipation (2)&#13;
+generalities-food and drinks-vinegar-agg (2)&#13;
+mind-anxiety-health, about-relatives,of(1)&#13;
+perspiration-profuse-menses-before (1)&#13;
+mind-fear-injections, of (1)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>generalities-food and drinks-sweets-desire (3)&#13;
+sleep-unrefreshing-morning (2)&#13;
+mind-haughty(2)&#13;
+mind-frightened easily (2)&#13;
+stomach-distention (2)&#13;
+mind-menses-before-agg (2)&#13;
+mind-cold-agg (2)&#13;
+mind-restlessness, nervousness (2)&#13;
+genitalia-female-sexual desire-increased (2)&#13;
+rectum-constipation (2)&#13;
+generalities-food and drinks-vinegar-agg (2)&#13;
+mind-anxiety-health, about-relatives,of(1)&#13;
+perspiration-profuse-menses-before (1)&#13;
+mind-fear-injections, of (1)&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Η διαφοροποίηση βασίζεται στα συμπτώματα:&#13;
+generalities-food and drinks-sweets-desire (3)&#13;
+sleep-unrefreshing-morning (2)&#13;
+mind-haughty(2)&#13;
+mind-frightened easily (2)&#13;
+stomach-distention (2)&#13;
+mind-menses-before-agg (2)&#13;
+mind-cold-agg (2)&#13;
+mind-restlessness, nervousness (2)&#13;
+genitalia-female-sexual desire-increased (2)&#13;
+rectum-constipation (2)</remedies_differentiation>
+      <prescription>
+        <remedy>Lycopodium clavatum</remedy>
+        <potency>200CH/1M</potency>
+        <regimen>1 caps 200 CH/ 1 caps 1M και 45 caps 6x</regimen>
+        <other_notes>Η συνταγογράφηση βασίστηκε στο επίπεδο υγείας της ασθενούς καθώς και στο είδος και την ένταση των συμπτωμάτων της.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-05 07:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής αναφέρει ότι κοιμάται καλύτερα. Ξυπνάει μόνο μια φορά στον ύπνο της και το πρωί που σηκώνεται αισθάνεται πιο ξεκούραστη. Η ενέργειά της είναι καλύτερα κατά 60%. Περιορίστηκαν τα φουσκώματα και το κλάμα και τα νεύρα πριν την περίοδο. Φαίνεται πιο ισορροπημένη. Το βούλωμα των αυτιών κράτησε πολύ λίγο αυτό το μήνα.</reaction>
+      <analysis>Η ασθενής εμφανίζεται βελτιωμένη τόσο σε επίπεδο ενέργειας, όσο και σε επίπεδο νοητικών συναισθηματικών και σωματικών συμπτωμάτων.</analysis>
+      <conclusion>Βελτίωση σε όλα τα επίπεδα. Αναμονή μέχρι το επόμενο follow-up.</conclusion>
+      <repertorization>
+        <desc>generalities-food and drinks-sweets-desire (2)&#13;
+sleep-unrefreshing-morning (1)&#13;
+mind-haughty(2)&#13;
+mind-frightened easily (2)&#13;
+stomach-distention (1)&#13;
+mind-menses-before-agg (1)&#13;
+mind-cold-agg (2)&#13;
+mind-restlessness, nervousness (1)&#13;
+genitalia-female-sexual desire-increased (1)&#13;
+rectum-constipation (1)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Lycopodium</remedy>
+        <potency>6x</potency>
+        <regimen>60 caps</regimen>
+        <other_notes>Αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-05-08 07:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>H ασθενής αναφέρει βελτίωση της ενέργειας κατά 80%. Αισθάνεται πολύ καλύτερα. Δεν ξυπνάει πια το βράδυ και το πρωί είναι πολύ καλύτερα. Ηρέμησαν τα νεύρα και αισθάνεται πιο ήρεμη. Αυτό το διάστημα δεν είχε κανένα επεισόδιο βουλώματος αυτιών.</reaction>
+      <analysis>Βελτίωση της υγείας της ασθενούς σε όλα τα επίπεδα</analysis>
+      <conclusion>Βελτίωση σε όλα τα επίπεδα</conclusion>
+      <repertorization>
+        <desc>generalities-food and drinks-sweets-desire (2)&#13;
+sleep-unrefreshing-morning &#13;
+mind-haughty(1)&#13;
+mind-frightened easily (1)&#13;
+stomach-distention &#13;
+mind-menses-before-agg &#13;
+mind-cold-agg (1)&#13;
+mind-restlessness, nervousness &#13;
+genitalia-female-sexual desire-increased &#13;
+rectum-constipation </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Lycopodium</remedy>
+        <potency>6x</potency>
+        <regimen>60 caps</regimen>
+        <other_notes>Αναμονή μέχρι το επόμενο follow-up</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-07-10 07:00:00</followup_date>
+      <conv_med_presc>καμία</conv_med_presc>
+      <lab_tests>
+        <desc>καμία</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πολύ χαρούμενη. Αναφέρει πολύ καλό επίπεδο ενέργειας. Ξυπνάει πια ξεκούραστη το πρωί. Δεν την ενοχλεί το στομάχι της πια και έχει ισορροπήσει η διατροφή της (σταμάτησαν τα βουλιμικά). Είναι σε σχέση καλά.</reaction>
+      <analysis>Βελτίωση σε όλα τα επίπεδα.</analysis>
+      <conclusion>Σαφής βελτίωση σε όλα τα επίπεδα.</conclusion>
+      <repertorization>
+        <desc>generalities-food and drinks-sweets-desire (1)&#13;
+mind-haughty&#13;
+mind-frightened easily&#13;
+mind-menses-before-agg &#13;
+mind-cold-agg &#13;
+genitalia-female-sexual desire-increased &#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>κανένα</remedy>
+        <potency>καμία</potency>
+        <regimen>καμία</regimen>
+        <other_notes>Ασθενής πολύ χαρούμενη, βελτιωμένη σε όλα τα επίπεδα, χωρίς ανάγκη πρόσθετης συνταγογράφησης. Αναμονή.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

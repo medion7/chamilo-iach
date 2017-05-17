@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL201ca4d41249bced60a9893a7645c72e</ID>
+  <patient>
+    <case_date>2014-11-27 20:35:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ε.Μ.</patient_initials>
+    <age>30</age>
+    <circumstances>Πρώτη επίσκεψη 27 Νοεμβρίου 2014&#13;
+Ελεύθερη&#13;
+Ιδιωτική υπάλληλος&#13;
+Φοιτήτρια Βιολογίας</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Από 5ετίας κρίσεις πανικού ,σε διάφορες συνθήκες, όπως σε αμφιθέατρο του πανεπιστημίου,σε αεροπλάνο, καράβι, στο μετρό.&#13;
+Πρώτη κρίση στο τελεφερίκ στο χιονοδρομικό-έκτοτε  όπου αισθάνεται ότι είναι κλειστά (2) και δεν μπορεί να φύγει. Αγχώνεται από φόβο πως θα πεθάνει (3) ,ζαλίζεται (3), την πιάνει δύσπνοια (3) , τρέμει (3), κρύος ιδρώτας (2) ,αίσθημα παλμών (2)</origin>
+        <causative_factors>Καταπιεστικές θεραπείες+stress</causative_factors>
+        <modalities>χειροτερεύει σε κλειστούς χώρους (2) , στο κρύο (2) &#13;
+βελτιώνεται όταν βγαίνει και περπατάει στον καθαρό αέρα(3)</modalities>
+        <occurrence_time>Δεν έχει συγκεκριμένο χρόνο </occurrence_time>
+        <body_side>Δεξιά (πονοκέφαλος αν εκτεθεί σε κρύο αέρα -&gt;μέτωπο-δεξιά) (2)</body_side>
+        <appearence_frequency>2-3 κρίσεις ανά 5μηνο.&#13;
+</appearence_frequency>
+        <pain_desc>Δεν πονάει.</pain_desc>
+        <complaint_ext>Δεν υπάρχουν.</complaint_ext>
+        <other_complaints>Δεν έχει άλλα προβλήματα υγείας τώρα.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Κρίσεις πανικού. &#13;
+Δεν λαμβάνει συστηματικά φαρμακευτική αγωγή.Έχει πάρει περιστασιακά επί των κρίσεων Lexotanil και άλλα χωρίς αποτέλεσμα.&#13;
+</conv_med_presc>
+        <lab_tests>
+          <desc>Δεν προσκομίζονται.</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν έχει κάνει ομοιοπαθητική προηγουμένως.</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Στο Γυμνάσιο συχνές βρογχίτιδες-πολλές αντιβιώσεις.&#13;
+16 ετών : ακμή -έκανε 6μηνη αντιβιοτική αγωγή.&#13;
+19 ετών :αναιμία με συχνές λιποθυμίες , αποδόθηκε σε απώλεια αίματος λόγω παρατεταμένης περιόδου και πήρε σίδηρο.&#13;
+21 ετών : πολυκυστικές ωοθήκες, ανωμαλίες στην περίοδο και επανεμφάνιση της ακμής. Πήρε αντισυλληπτικά για 3 χρόνια και ξανά αντιβίωση για την ακμή για 4-5 μήνες.Τότε και κολπίτιδες,τραχηλίτιδες (μυκόπλασμα). Τελικά ταυτοποιήθηκε και ως φορέας του έρπητα των γεννητικών οργάνων (HPV-ασυμπτωματική) οπότε της πρότειναν και έκανε  και Gardasil.</therapies_vaccination>
+          <traumas>Ήταν πολύ δεμένη με το σκύλο της , όταν πέθανε στα χέρια της τρόμαξε πάρα πολύ. Για πολύ καιρό μετά είχε εφιάλτες και γενικά το βίωσε πολύ έντονα.Μετά από αυτό ξεκίνησαν και οι κρίσεις πανικού.</traumas>
+          <infections>Συχνά εμπύρετα του αναπνευστικού και αμυγδαλίτιδες στο γυμνάσιο.(θεραπείες με αντιβιώσεις)&#13;
+Μετά το σχολείο κολπίτιδες,τραχηλίτιδες (όλα με αντιβιώσεις) , συχνές κολπικές μυκητιάσεις (κολπικά υπόθετα)&#13;
+Τελευταίος πυρετός 38, προ έτους (επίσης αναπνευστικό) πέρασε χωρίς αντιβίωση.</infections>
+          <other>----</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας: στεφανιαία νόσος ( έμφραγμα στα 40 και bypass),Σ.Δ., Α.Υ.&#13;
+Παππούς (πατέρα) επίσης καρδιολογικό ιστορικό και ΣΔ&#13;
+Μητέρα : σπαστική κολίτιδα,αγχώδες σύνδρομο,αίσθημα παλμών (φλεβοκομβική ταχυκαρδία),παράλυση προσωπικού νεύρου σε νεαρή ηλικία (κορτιζόνη και αντιβίωση για μεγάλο διάστημα)&#13;
+Γιαγιά (μητέρα) ΑΥ,ΣΔ,Κολπικη μαρμαρυγή&#13;
+Παππούς( μητέρα)ΑΥ,</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει (2)&#13;
+Δεν ανέχεται τον κρύο αέρα (2)</reactions>
+        <sleeping_habits>Στο πλάι δεξιά (2). Ανήσυχος ύπνος με άσχημα όνειρα (2),συνήθως ότι κινδυνεύει η ζωή της ή των δικών της, παραμιλάει (1), προσπαθεί να φωνάξει βοήθεια(1).</sleeping_habits>
+        <food_modalities>Επιθυμίες: Γλυκά (2),Τυριά (2),Αυγά (1),Αλάτι (2).Μπύρα (2)&#13;
+Απέχθεια:λίπος (1),Πατάτες (1)&#13;
+</food_modalities>
+        <menstruation>Σταθερός κύκλος (25-28 ημέρες), παρατεταμένος (2) Αυξημένη ροή (2)</menstruation>
+      </physical>
+      <mental_emotional>Άγχος υγείας (3)   Φόβος θανάτου (κατά τη διάρκεια του πανικού μόνο, στα μεσοδιαστήματα των κρίσεων δεν υπάρχει) (3) &#13;
+Άγχος με φόβο γενικά (2) Κλειστός χαρακτήρας (2)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η ασθένεια ξεκίνησε από το αναπνευστικό -περίπου στη μέση κατά την ιεράρχηση των συστημάτων με βαθμό σπουδαιότητας-και μάλιστα σε πιο επιπόλαιο επίπεδο (αμυγδαλίτιδες) , συνέχισε στο ίδιο σύστημα αλλά πιο βαθειά (βρογχίτιδες),  προσπάθησε να εκτονωθεί στο δέρμα-αλλά καταπιέστηκε οπότε και εμφανίστηκε παθολογία στο γεννετικό σύστημα που όσο καταπιεζόταν προχωρούσε σε βαθύτερα στρώματα (κολπίτιδες-&gt;τραχηλίτιδες-&gt;πολυκυστικές ωοθήκες).Τέλος ένα έντονο συναισθηματικό stress ήταν αρκετό μετά από όλα αυτά να μεταφέρει την ασθένεια από το σωματικό στο συγκινησιακό επίπεδο.&#13;
+Τελευταίο οξύ προ έτους- αλλά γενικώς σπάνια και ελαφριά οξέα.Τελευταίος ψηλός πυρετός (41) στο γυμνάσιο.Έκτοτε σπάνια αρρωσταίνει. Ανήκει πιθανώς στα κατώτερα του group B ,ή στα ανώτερα του group C.&#13;
+Περιμένω ίσως μικρή ή καθόλου αρχική επιδείνωση.&#13;
+&#13;
+&#13;
+&#13;
+</personal_medical_history>
+        <family_medical_history>Αγχώδης μητέρα,προδιάθεση για καρδιολογικά νοσήματα από την πλευρά του πατέρα.&#13;
+Αν συνεχίσει τις καταπιεστικές θεραπείες έχει προδιάθεση να νοσήσει σοβαρά από το καρδιαγγειακό.</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Καταπιεστικές θεραπείες + emotional τραύμα--&gt; Μεταφορά του κέντρου βάρους της ασθένειας στο συναισθηματικό επίπεδο.&#13;
+Περιμένω μικρή ή καθόλου αρχική επιδείνωση,και ενδεχομένως επανεμφάνιση της ακμής αρχικά ή λοιμώξεων του αναπνευστικού.&#13;
+&#13;
+</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>generalities -cold-becoming-agg-perspiration during (2)</peculiar>
+        <intense>Please enter Intense symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)&#13;
+Mind fear sudden panic attacks (3)&#13;
+Mind anxiety health about (3)&#13;
+mind anxiety with fear(3)&#13;
+generalities cold aggravates(3)&#13;
+mind consolation ameliorates(2)&#13;
+mind fear of injections(1)&#13;
+mind shrieking during sleep(1) extremities coldness foot(3)&#13;
+extremities coldness hands(2)&#13;
+extremities coldness icy cold(2)&#13;
+extremities perspiration foot cold(2)&#13;
+extremities perspiration foot excoriating socks,destroying(2)&#13;
+extremities perspiration foot offensive(2)&#13;
+extremities spotted nails(1)mind reserved (3)&#13;
+abdomen pain menses begining of (3)&#13;
+genitalia female menses bright red 2&#13;
+                                     bright red mingled with dark clots(2)&#13;
+                                     copious (2)&#13;
+                                     exertion brings on the flow(2)&#13;
+                                     protracted(2)&#13;
+head pain sun from exposure to (2)&#13;
+generalities cold air aggravates (3)&#13;
+generalities food and drinks sweet desire (3)&#13;
+                                          sweet desire menses before (2)&#13;
+generalities motion ameliorates(2)&#13;
+generalities open air ameliorates (2)&#13;
+generalities cold becoming after aggravates(2)&#13;
+generalities cold tendency to take(2)&#13;
+head pain from a draft of cold air(3)&#13;
+sleep restless(2)&#13;
+sleep dreams nightmare(2)&#13;
+&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>GENERALITIES ¬ COLD ¬ agg. 3 &#13;
+MIND ¬ ANXIETY ¬ health, about 3&#13;
+ MIND ¬ FEAR ¬ sudden (panic attacks) 3 MIND ¬ ANXIETY ¬ fear, with 2 MIND ¬ CONSOLATION - amel. 2 MIND ¬ FEAR ¬ injections, of 1 MIND ¬ SHRIEKING ¬ sleep ¬ during 1 EXTREMITIES - COLDNESS ¬ Foot 3 EXTREMITIES ¬ COLDNESS ¬ Hands 2 EXTREMITIES ¬ COLDNESS ¬ Foot ¬ icy cold 2 EXTREMITIES ¬ PERSPIRATION ¬ Foot ¬ cold 2 EXTREMITIES ¬ PERSPIRATION ¬ Foot ¬ excoriating - socks, destroying 2 EXTREMITIES ¬ PERSPIRATION ¬ Foot ¬ offensive 2 EXTREMITIES - SPOTTED nails 1 MIND ¬ RESERVED 3 ABDOMEN ¬ PAIN ¬ menses ¬ beginning of 3 GENITALIA-FEMALE ¬ MENSES ¬ bright¬red 2 GENITALIA¬FEMALE ¬ MENSES ¬ bright¬red - mingled with dark clots 2 GENITALIA¬FEMALE ¬ MENSES ¬ copious 2 GENITALIA¬FEMALE - MENSES ¬ exertion brings on the flow 2 GENITALIA¬FEMALE ¬ MENSES ¬ protracted 2 HEAD - PAIN (headache) ¬ sun ¬ from exposure to 2 GENERALITIES ¬ COLD ¬ air ¬ agg. 3 Case Title: emy markou Sex: Female, First Visit: Thursday, November 27, 2014, Main Complaint: panic attacks Vithoulkas Compass is a consulting aid for homeopathic practice and should be used accordingly. The full responsibility for prescriptions lies with the practicing homeopath. All suggestions must be cross-checked with other sources of knowledge according to the practitioner's training. Page 1 Of 2 GENERALITIES ¬ COLD ¬ becoming ¬ agg. ¬ perspiration, during 2 GENERALITIES - FOOD and DRINKS ¬ sweets ¬ desire 3 GENERALITIES ¬ FOOD and DRINKS ¬ sweets ¬ desire - menses, before 2 GENERALITIES ¬ MOTION ¬ amel. 2 GENERALITIES ¬ AIR ¬ open ¬ amel. 2 GENERALITIES ¬ COLD ¬ becoming ¬ after ¬ agg. 2 GENERALITIES ¬ COLD ¬ tendency ¬ to take 2 HEAD ¬ PAIN (headache) ¬ air ¬ cold, from ¬ draft of, from 3 SLEEP ¬ RESTLESS 2 SLEEP ¬ DREAMS - nightmare 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies&#13;
+Aconitum   Arsenicum  Phosphorus Calcarea carbonica&#13;
+Arsenicum : Έχει κρίσεις πανικού , κρυώνει αλλά-Δεν είναι fastidious,δεν είναι υποχόνδρια ούτε έχει άγχος με τα χρήματα.&#13;
+Phosphorus: Έχει επίσης φοβίες , άγχος με την υγεία,αλλά -Δεν πίνει καθόλου παγωμένα, αντιθέτως πίνει πάντα ζεστά,δεν έχει αιμορραγίες,δεν συμπάσχει τόσο.&#13;
+Calcarea carbonica: δεν ιδρώνει τυπικά στον αυχένα ή το στήθος,δεν έχει μεγάλη επιθυμία για αυγά .&#13;
+Επιπλέον φαίνεται ότι οι κρίσεις πανικού ξεκίνησαν με το στρες από το θάνατο του σκύλου της , γεγονός που βίωσε πολύ έντονα </remedies_differentiation>
+      <prescription>
+        <remedy>aconitum</remedy>
+        <potency>200 ch /1caps και 1Μ/1caps</potency>
+        <regimen>200ch x 1 απογευμα&#13;
+1Μ  x 1 επόμενο πρωι</regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-12-29 19:35:00</followup_date>
+      <conv_med_presc>δεν λαμβάνει καμία αγωγή.</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν είχε καμία αρχική επιδείνωση. Ταξίδεψε με αεροπλάνο (3,5 ώρες ταξίδι ως την Πράγα και επιστροφή)  χωρίς καμία ενόχληση . Πήγε εκεί και ημερήσια εκδρομή με πούλμαν, και σε λούνα παρκ.Δεν την έπιασε καμία κρίση,αντιθέτως λέει ότι για πρώτη φορά μετά από χρόνια το διασκέδασε.&#13;
+Γενικά καλύτερα και από ενέργεια και διάθεση. Βελτιώθηκε και ο ύπνος της, δεν παραμιλάει πια και δεν έχει εφιάλτες.</reaction>
+      <analysis>Πιθανώς τελικά ανήκει στο επίπεδο 7.</analysis>
+      <conclusion>Σωστό φάρμακο,εξάλλειψη του κύριου συμπτώματος χωρίς αρχική επιδείνωση,επίπεδο υγείας 7. Συνολικά πιθανώς να χρειαστεί περισσότερα από 5 φάρμακα. Θα  εμφανίσει οξύ που αν καταφέρουμε να αντιμετωπιστεί  με ομοιοπαθητική αγωγή θα ανέβει επίπεδο υγείας.&#13;
+Η επανεμφάνιση της ακμής αναμένεται.&#13;
+Περιμένω.&#13;
+Πιθανά επόμενα φάρμακα: Calcarea, Silica,Baryta carbonica</conclusion>
+      <repertorization>
+        <desc>GENERALITIES ­ COLD ­ agg. 3&#13;
+MIND ­ ANXIETY ­ health, about 2&#13;
+MIND ­ CONSOLATION ­ amel. 2&#13;
+MIND ­ ANXIETY ­ fear, with 1&#13;
+MIND ­ FEAR ­ injections, of 1&#13;
+MIND ­ FEAR ­ sudden (panic attacks) 0&#13;
+MIND ­ SHRIEKING ­ sleep ­ during 0&#13;
+EXTREMITIES ­ COLDNESS ­ Foot 3&#13;
+EXTREMITIES ­ COLDNESS ­ Hands 2&#13;
+EXTREMITIES ­ COLDNESS ­ Foot ­ icy cold 2&#13;
+EXTREMITIES ­ PERSPIRATION ­ Foot ­ cold 2&#13;
+EXTREMITIES ­ PERSPIRATION ­ Foot ­ excoriating ­ socks, destroying 2&#13;
+EXTREMITIES ­ PERSPIRATION ­ Foot ­ offensive 2&#13;
+EXTREMITIES ­ SPOTTED nails 1&#13;
+MIND ­ RESERVED 3&#13;
+ABDOMEN ­ PAIN ­ menses ­ beginning of 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ bright­red 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ bright­red ­ mingled with dark clots 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ exertion brings on the flow 2&#13;
+Case Title: emy markou&#13;
+Gender: Female, First Visit: Thursday, November 27, 2014, Main Complaint: panic attacks Vithoulkas Compass is a consulting aid for homeopathic practice and should be used accordingly. The full responsibility for prescriptions lies with the practicing&#13;
+homeopath. All suggestions must be cross­checked with other sources of knowledge according to the practitioner's training. Page 2 Of 3&#13;
+GENITALIA­FEMALE ­ MENSES ­ protracted 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ copious 1&#13;
+HEAD ­ PAIN (headache) ­ sun ­ from exposure to 2&#13;
+GENERALITIES ­ COLD ­ air ­ agg. 2&#13;
+GENERALITIES ­ COLD ­ becoming ­ agg. ­ perspiration, during 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire ­ menses, before 2&#13;
+GENERALITIES ­ MOTION ­ amel. 2&#13;
+GENERALITIES ­ AIR ­ open ­ amel. 1&#13;
+GENERALITIES ­ COLD ­ becoming ­ after ­ agg. 2&#13;
+GENERALITIES ­ COLD ­ tendency ­ to take 2&#13;
+HEAD ­ PAIN (headache) ­ air ­ cold, from ­ draft of, from 2&#13;
+SLEEP ­ RESTLESS 0&#13;
+SLEEP ­ DREAMS ­ nightmare 0&#13;
+Dec 16, 2015 ­ Analysis :&#13;
+Symptom Degree&#13;
+GENERALITIES ­ COLD ­ agg. 3&#13;
+MIND ­ ANXIETY ­ health, about 2&#13;
+MIND ­ CONSOLATION ­ amel. 2&#13;
+MIND ­ ANXIETY ­ fear, with 1&#13;
+MIND ­ FEAR ­ injections, of 1&#13;
+EXTREMITIES ­ COLDNESS ­ Foot 3&#13;
+EXTREMITIES ­ COLDNESS ­ Hands 2&#13;
+EXTREMITIES ­ COLDNESS ­ Foot ­ icy cold 2&#13;
+EXTREMITIES ­ PERSPIRATION ­ Foot ­ cold 2&#13;
+EXTREMITIES ­ PERSPIRATION ­ Foot ­ excoriating ­ socks, destroying 2&#13;
+EXTREMITIES ­ PERSPIRATION ­ Foot ­ offensive 2&#13;
+EXTREMITIES ­ SPOTTED nails 1&#13;
+MIND ­ RESERVED 3&#13;
+ABDOMEN ­ PAIN ­ menses ­ beginning of 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ bright­red 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ bright­red ­ mingled with dark clots 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ exertion brings on the flow 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ protracted 2&#13;
+GENITALIA­FEMALE ­ MENSES ­ copious 1&#13;
+HEAD ­ PAIN (headache) ­ sun ­ from exposure to 2&#13;
+GENERALITIES ­ COLD ­ air ­ agg. 2&#13;
+GENERALITIES ­ COLD ­ becoming ­ agg. ­ perspiration, during 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire ­ menses, before 2&#13;
+GENERALITIES ­ MOTION ­ amel. 2&#13;
+GENERALITIES ­ AIR ­ open ­ amel. 1&#13;
+GENERALITIES ­ COLD ­ becoming ­ after ­ agg. 2&#13;
+GENERALITIES ­ COLD ­ tendency ­ to take 2&#13;
+HEAD ­ PAIN (headache) ­ air ­ cold, from ­ draft of, from 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα φάρμακο</remedy>
+        <potency>---</potency>
+        <regimen>----</regimen>
+        <other_notes>-----</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-02-30 21:00:00</followup_date>
+      <conv_med_presc>Δεν παίρνει φάρμακο.</conv_med_presc>
+      <lab_tests>
+        <desc>----</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Πολύ καλή.&#13;
+Τώρα εμφανίζει οξύ. Λοίμωξη αναπνευστικού με ψηλό πυρετό (39) και βήχα.</reaction>
+      <analysis>Πολύ καλή αντίδραση. Οξύ 3 μήνες μετά το φάρμακο στο επίπεδο 7 σημαίνει σωστό φάρμακο αλλά βραδεία μεταπήδηση επιπέδου.</analysis>
+      <conclusion>Επανεμφάνιση οξέων στο group C -καλή πρόγνωση</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization&#13;
+----</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Gelsemium</remedy>
+        <potency>200 ch</potency>
+        <regimen>άπαξ αρχικά (και επί επανεμφάνισης των συμπτωμάτων επανάληψη).</regimen>
+        <other_notes>Χρειάστηκε τελικά και Bryonia γιατί ενώ ο πυρετός υποχώρησε ο βήχας παρέμεινε για αρκετές ημέρες. Με την Bryonia 200 έφυγε τελείως.&#13;
+&#13;
+Μέχρι τώρα  (ένα χρόνο μετά ) δεν έχει ξαναπάθει κρίση πανικού. Δεν έχω δώσει άλλο φάρμακο. Ξαναξεκίνησε να πηγαίνει και στο πανεπιστήμιο,που το είχε παρατήσει.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

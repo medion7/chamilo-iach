@@ -1,0 +1,164 @@
+﻿1
+00:00:01,316 --> 00:00:07,619
+In this video we will see how to access the forums, create a new topic, reply to a post
+
+2
+00:00:07,661 --> 00:00:10,890
+and getting email notfications for new posts.
+
+3
+00:00:16,533 --> 00:00:22,363
+We click the forum icon on the main page of the e-learning platform, to access the forum.
+
+4
+00:00:26,603 --> 00:00:32,510
+Here we can see the available forums divided in categories, based on the content.
+
+5
+00:00:51,316 --> 00:00:55,897
+In this column we see the title and a brief description of a specific forum,
+
+6
+00:00:56,888 --> 00:01:03,360
+in the next column there is the total number of the forum's topics, and next to it the total posts.
+
+7
+00:01:04,229 --> 00:01:09,109
+In the last column on the right, there are information about the last post of the forum,
+
+8
+00:01:09,729 --> 00:01:12,662
+it's title, creator's name and creation date.
+
+9
+00:01:17,769 --> 00:01:20,777
+This is how the topics of the forum are presented.
+
+10
+00:01:29,479 --> 00:01:35,855
+On top of the list there are the sticky posts, that only the administrators of the platform can create.
+
+11
+00:01:36,995 --> 00:01:43,475
+In the first column there is the title of the topic, the name of it's creator and the creation date.
+
+12
+00:01:43,755 --> 00:01:47,763
+In the second column we can see the number of replies of the topic
+
+13
+00:01:43,631 --> 00:01:53,442
+and again in the last column there are information about the last post and it's creator.
+
+14
+00:01:54,302 --> 00:01:56,946
+Now let's create a new topic.
+
+15
+00:01:57,786 --> 00:01:59,930
+We click the new topic button.
+
+16
+00:02:06,454 --> 00:02:12,982
+A new page opens, in this field we enter the subject of the new topic.
+
+17
+00:02:13,140 --> 00:02:18,612
+Try to create short and comprehensive subjects, so it's easy for someone to understand.
+
+18
+00:02:19,760 --> 00:02:24,644
+Avoid using subjects like "Help" or "I have a question", instead
+
+19
+00:02:24,954 --> 00:02:29,712
+use the subject of the new topic to describe the contents of the post.
+
+20
+00:02:30,606 --> 00:02:33,939
+For example, help with video on children remedies.
+
+21
+00:02:40,161 --> 00:02:44,624
+In the text area you can be more specific and describe your question.
+
+22
+00:02:50,868 --> 00:02:53,476
+Now we click the save button.
+
+23
+00:03:02,215 --> 00:03:06,279
+As you can see our new topic is presented in the list.
+
+24
+00:03:06,876 --> 00:03:11,045
+Now we are going to see how to reply on an existing topic.
+
+25
+00:03:12,184 --> 00:03:14,584
+We select the topic and click on it.
+
+26
+00:03:15,192 --> 00:03:19,759
+Again you do not have to reply something to everything.
+
+27
+00:03:31,247 --> 00:03:36,567
+We have two options, we can either reply to a specific post of the topic,
+
+28
+00:03:36,766 --> 00:03:39,037
+or reply to the initial topic post.
+
+29
+00:03:40,262 --> 00:03:46,118
+For the first option we should click this button, and for the second we just fill out this form .
+
+30
+00:03:46,954 --> 00:03:50,186
+In this example we are going to reply to a post.
+
+31
+00:04:00,113 --> 00:04:06,409
+Entering a subject is optional, we add our answer and click the save button.
+
+32
+00:04:15,455 --> 00:04:19,211
+Again you do not have to reply something to everything.
+
+33
+00:04:21,177 --> 00:04:25,993
+Getting email notifications for new posts on topics your are interested in
+
+34
+00:04:26,271 --> 00:04:29,847
+is one the best features provided to keep us up-to-date.
+
+35
+00:04:30,768 --> 00:04:36,908
+Inside each topic we see this block where we can select to be notified for new posts for this topic,
+
+36
+00:04:37,101 --> 00:04:39,660
+or for this forum in general.
+
+37
+00:04:39,987 --> 00:04:46,883
+Another way to select the forums we want to be notified for new posts, is to go to the user account page.
+
+38
+00:04:51,379 --> 00:04:54,147
+Select the forum notifications tab.
+
+39
+00:04:57,734 --> 00:04:59,574
+Select the forums tab.
+
+40
+00:05:09,645 --> 00:05:13,653
+Select the forums that you are intersted the most and click save.
+
+41
+00:05:19,369 --> 00:05:22,502
+This was the video about the e-learning forums.
+

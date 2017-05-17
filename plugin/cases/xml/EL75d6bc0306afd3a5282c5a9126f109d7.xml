@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL75d6bc0306afd3a5282c5a9126f109d7</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>Ν Μ</patient_initials>
+    <age>57</age>
+    <circumstances>ΠΑΝΤΡΕΜΕΝΗ ΜΕ 2 ΠΑΙΔΙΑ ( 30 - 26  ΕΤΩΝ ).&#13;
+ΙΑΤΡΟΣ </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>ΑΣΘΕΝΕΙΑ ΜΕΤΑ ΑΠΟ ΤΟΝ ΘΑΝΑΤΟ ΤΗΣ ΜΗΤΕΡΑΣ ΤΗΣ.</origin>
+        <causative_factors>ΑΠΩΛΕΙΑ ΑΓΑΠΗΜΕΝΟΥ ΠΡΟΣΩΠΟΥ.</causative_factors>
+        <modalities>ΑΓΧΟΣ ,ΔΙΑΦΟΡΕΣ ΤΡΟΦΕΣ ( ΝΤΟΜΑΤΑ ), ΘΛΙΨΗ. </modalities>
+        <occurrence_time>ΤΟ ΚΑΛΟΚΑΙΡΙ, ΕΠΙΔΕΙΝΩΣΗ ΑΠΟ ΤΑ ΦΡΟΥΤΑ.</occurrence_time>
+        <body_side>ΣΥΝΗΘΩΣ ΔΕ ΥΠΟΧΟΝΔΡΙΟ.</body_side>
+        <appearence_frequency>ΣΧΕΔΟΝ   ΚΑΘΕ ΜΕΡΑ.  </appearence_frequency>
+        <pain_desc>ΠΟΝΟΣ, ΟΠΩΣ ΚΛΩΤΣΙΑ ΠΑΙΔΙΟΥ.   ΝΙΩΘΕΙ ΤΟ ΕΝΤΕΡΟ   ΣΑΝ ΚΟΡΔΟΝΙ  ΣΚΛΗΡΟ. </pain_desc>
+        <complaint_ext>ΕΠΕΚΤΑΣΗ ΣΕ ΟΛΗ ΤΗΝ ΚΟΙΛΙΑΚΗ ΧΩΡΑ.</complaint_ext>
+        <other_complaints>ΑΡΥΘΜΙΕΣ ,ΥΠΟΘΥΡΕΟΕΙΔΙΣΜΟΣ.&#13;
+</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΣΠΑΣΤΙΚΗ ΚΟΛΙΤΙΔΑ ΑΠΟ 3 ΕΤΙΑ.</conv_med_presc>
+        <lab_tests>
+          <desc>ΚΩΛΟΝΟΣΚΟΠΗΣΗ - ΟΥΔΕΝ </desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>ΟΧΙ</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>BUSCOPAN  ΣΥΧΝΑ. </therapies_vaccination>
+          <traumas>Ο ΘΑΝΑΤΟΣ ΤΗΣ ΜΗΤΕΡΑΣ ΤΗΣ. ΕΠΙ ΧΡΟΝΙΑ ΠΡΟΒΛΗΜΑΤΑ ΜΕ ΚΛΗΡΟΝΟΜΙΚΑ ΜΕ ΤΟΝ ΑΔΕΛΦΟ ΤΗΣ ( ΔΕΝ ΜΙΛΑΝΕ ) </traumas>
+          <infections>ΟΧΙ</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Η ΜΗΤΕΡΑ ΤΗΣ   ΠΕΘΑΝΕ  ΑΠΟ ΓΕΡΟΝΤΙΚΉ  ΑΝΟΙΑ. </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ΕΥΑΙΣΘΗΣΙΑ  ΣΤΟΝ ΗΛΙΟ ( ΦΩΤΟΑΝΤΙΔΡΑΣΗ ) &#13;
+ΖΕΣΤΑΙΝΕΤΑΙ, ΔΕΝ ΜΠΟΡΕΙ ΤΗΝ ΗΛΙΟΘΕΡΑΠΕΙΑ.</reactions>
+        <sleeping_habits>ΥΠΝΟΣ ΟΧΙ ΚΑΛΟΣ ( ΤΡΙΓΥΡΝΑΕΙ ΣΤΟ ΚΡΕΒΑΤΙ ΑΝΑΠΟΛΩΝΤΑΣ ΤΗΝ ΠΑΙΔΙΚΗ ΗΛΙΚΙΑ ).&#13;
+ΚΟΙΜΑΤΑΙ ΣΤΟ ΠΛΑΙ  ΜΕ ΤΟ ΧΕΡΙ ΚΑΤΩ ΑΠΟ ΤΟ ΜΑΞΙΛΑΡΙ. </sleeping_habits>
+        <food_modalities>DES: ΑΛΑΤΙ (3) ΤΥΡΙ (3) ΛΕΜΟΝΙ (3) ΓΛΥΚΑ (1).&#13;
+AVERS: ΛΙΠΟΣ (2).&#13;
+AGG: ΦΡΟΥΤΑ.</food_modalities>
+        <menstruation>ΣΕ ΕΜΜΗΝΟΠΑΥΣΗ ΜΕ ΕΦΙΔΡΩΣΕΙΣ ΚΑΙ ΕΞΑΨΕΙΣ.</menstruation>
+      </physical>
+      <mental_emotional>ΘΛΙΨΗ  ΔΕΝ ΘΕΛΕΙ ΝΑ ΒΓΑΙΝΕΙ ΕΞΩ (ΔΕΝ  ΘΕΛΕΙ ΠΑΡΗΓΟΡΙΑ ). &#13;
+ΑΓΧΟΣ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΤΗΣ (2),&#13;
+ΦΟΒΟΣ ΜΟΛΥΝΣΕΩΝ (2), &#13;
+ΕΥΑΙΣΘΗΤΗ ΜΕ ΤΗΝ ΜΟΥΣΙΚΗ ( ΚΛΑΙΕΙ).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>ΣΥΧΝΕΣ ΟΥΡΟΛΟΙΜΩΞΕΙΣ  ΚΑΙ ΚΕΦΑΛΑΛΓΙΕΣ. </personal_medical_history>
+        <family_medical_history>ΣΔ  ΠΑΤΕΡΑΣ ΤΗΣ. </family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>ΑΣΘΕΝΕΙΑ ΜΕΤΑ ΑΠΟ ΑΠΩΛΕΙΑ ΣΥΓΓΕΝΙΚΟΥ ΠΡΟΣΩΠΟΥ.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>ΚΑΘΑΡΙΖΕΙ ΣΥΝΕΧΩΣ  ΤΑ  ΑΝΤΙΚΕΙΜΕΝΑ  ΣΤΟΝ ΧΩΡΟ ΕΡΓΑΣΙΑΣ  ΤΗΣ  ΓΙΑΤΙ  ΦΟΒΑΤΑΙ ΤΙΣ  ΜΟΛΥΝΣΕΙΣ,&#13;
+ΑΝΑΠΩΛΕΙ ΣΥΧΝΑ  ΤΟ ΠΑΡΕΛΘΟΝ  ΚΑΙ ΕΥΤΥΧΙΣΜΕΝΕΣ ΜΕΡΕΣ  ΣΕ ΠΑΙΔΙΚΗ  ΗΛΙΚΙΑ.</peculiar>
+        <intense>ΠΟΝΟΣ  ΑΡ  ΥΠΟΓΑΣΤΡΙΟ  &lt;  ΑΓΧΟΣ  (4),&#13;
+ΘΛΙΨΗ  ΜΕ ΑΠΕΧΘΕΙΑ ΣΤΗΝ ΠΑΡΕΑ  ΚΑΙ ΕΞΟΔΟ (3),&#13;
+ΤΑΧΥΠΑΛΜΙΕΣ (1),&#13;
+ΦΟΒΟΣ ΓΙΑ ΤΗΝ ΥΓΕΙΑ  ΤΗΣ ΚΑΙ ΕΙΔΙΚΑ  ΓΙΑ ΚΑΡΚΙΝΟ (2).&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>IGN =  Η ΘΛΙΨΗ  ΕΙΝΑΙ  ΠΑΛΑΙΑ ( ΘΑΝΑΤΟΣ  ΤΗΣ  ΜΗΤΕΡΑΣ  ΤΗΣ ), ΑΓΑΠΑΕΙ  ΤΑ ΦΡΟΥΤΑ   ΑΠΛΑ   ΔΕΝ   ΜΠΟΡΕΙ ΛΟΓΩ ΚΟΛΙΤΙΔΑΣ. Η ΑΞΙΟΠΡΕΠΕΙΑ  ΠΟΥ  ΕΚΠΕΜΠΕΙ  Η ΑΣΘΕΝΗΣ  ΣΥΝΗΓΟΡΕΙ, ΥΠΕΡ  ΤΟΥ  ΝΑΤΡΙΟΥ.&#13;
+ARSENICUM  =   ΕΙΝΑΙ  FASTIDIUS ΑΓΧΟΣ  ΓΙΑ  ΤΗΝ ΥΓΕΙΑ  ΤΗΣ  ΑΛΛΑ ΕΧΕΙ  ΚΑΛΟ  ΥΠΝΟ . ΥΠΕΡΤΕΡΕΙ  Η  ΘΛΙΨΗ  ΚΑΙ  ΑΣΘΕΝΕΙ  ΜΕΤΑ  ΑΠΟ  ΑΠΩΛΕΙΑ. Η  ΑΣΘΕΝΗΣ  ΖΕΣΤΑΙΝΕΤΑΙ  ΔΕΝ  ΚΡΥΩΝΕΙ.&#13;
+&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>ΝΑ Μ  </remedy>
+        <potency>200CH</potency>
+        <regimen>NR 1 </regimen>
+        <other_notes>Please enter other notes</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>NA  MURIATICUM  200 CH  NR  1</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>ΜΕ  ΑΡΧΙΚΗ  ΕΠΙΔΕΙΝΩΣΗ  ( ΤΟΠΙΚΑ  ΑΥΞΗΘΗΚΕ  Ο ΠΟΝΟΣ  ΣΤΟ  ΕΝΤΕΡΟ  ΤΗΝ  ΠΡΩΤΗ  ΜΕΡΑ  )  ΜΕΤΑ  ΠΡΟΟΔΕΥΤΙΚΉ  ΒΕΛΤΙΩΣΗ ΣΕ  ΟΛΑ  ΤΑ  ΕΠΙΠΕΔΑ  ( ΝΙΩΘΕΙ  ΚΑΛΑ  ΨΥΧΙΚΑ  ΒΓΑΙΝΕΙ  ΕΞΩ  ΚΑΙ ΔΙΑΣΚΕΔΑΖΕΙ  Ο  ΠΟΝΟΣ  ΕΧΕΙ  ΕΛΑΤΤΩΘΕΙ  ΚΑΤΑ  60  %). &#13;
+</reaction>
+      <analysis>ΠΟΛΥ  ΚΑΛΗ  ΑΝΤΙΔΡΑΣΗ. </analysis>
+      <conclusion>ΕΙΜΑΣΤΕ  ΣΤΟ  ΣΩΣΤΟ  ΦΑΡΜΑΚΟ  ¨= ΠΕΡΙΜΕΝΟΥΜΕ  </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>NA  MUR  PLB  NR  30</remedy>
+        <potency>6X</potency>
+        <regimen>1 ΚΑΘΕ  ΜΕΡΑ </regimen>
+        <other_notes></other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

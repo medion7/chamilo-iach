@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL1156019f76c150bfe2ae7a5b09018e99</ID>
+  <patient>
+    <case_date>2015-12-29 22:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Γ.Μ.</patient_initials>
+    <age>37</age>
+    <circumstances>Έγγαμη με 2 παιδιά, Γυμνάστρια, προπονεί μία ομάδα </circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Οι κεφαλαλγίες ξεκίνησαν ξαφνικά πριν 4-5 χρόνια - δεν έχουν τροποποιηθεί από τότε που ξεκίνησαν</origin>
+        <causative_factors>Δεν διαφαίνεται από το ιστορικό ένας ξεκάθαρος αιτιολογικός παράγοντας.</causative_factors>
+        <modalities>&lt; με έλλειψη ύπνου, με αλκοόλ, στον ήλιο(2), σε δωμάτιο με κλειστά παράθυρα&#13;
+&gt; στον ανοιχτό αέρα (3), με πίεση (3)</modalities>
+        <occurrence_time>   </occurrence_time>
+        <body_side>Ξεκινά αριστερά και επεκτείνεται δεξιά</body_side>
+        <appearence_frequency>Κάθε 5 ημέρες περίπου (2). Ξυπνά με ίλιγγο που καταλήγει σε κεφαλαλγία ή την πιάνει κατ'ευθείαν κεφαλαλγία προς το βράδυ, κατά τις 8. </appearence_frequency>
+        <pain_desc>Ξεκινά ξαφνικά από τον αριστερό κρόταφο. Είναι παλμικός. Δεν είναι πάντα πάρα πολύ έντονος, αλλά όταν είναι δεν μπορεί να κοιμηθεί από τον πόνο.</pain_desc>
+        <complaint_ext>     </complaint_ext>
+        <other_complaints>Κάνει εμέτους στη διάρκεια του πονοκεφάλου. Κάνει έμετο και από τα φάρμακα που παίρνει για τον πόνο.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Κεφαλαλγίες τα τελευταία 4-5 χρόνια - πρώτη επίσκεψη 18 Ιουνίου 2015</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Έχουν γίνει όλα τα εμβόλια.&#13;
+Λαμβάνει maxalt εδώ και ένα χρόνο το οποίο δεν την ανακουφίζει ιδιαίτερα, την ενοχλεί.</therapies_vaccination>
+          <traumas>Είχε χτυπήσει στο κεφάλι όταν ήταν 8 ετών. Δεν θυμάται τι είχε πάθει.&#13;
+</traumas>
+          <infections>Κρυολογεί 2-3 φορές το χρόνο όχι πάντα με υψηλό πυρετό. Σε κρυολόγημα με ρινική συμφόρηση την πιάνει πάντα ο πονοκέφαλος.</infections>
+          <other>Φλεβίτιδα κάτω άκρων&#13;
+Δυσπεψία-την ενοχλεί εύκολα το στομάχι εάν π.χ. παραγγείλει και φάει κάτι απ'έξω. Κάνει εμετό όταν η δυσφορία από το στομάχι είναι μεγάλη (σπάνια)</other>
+        </personal>
+        <family>
+          <diseases>Δεν γνωρίζω</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει (2)</reactions>
+        <sleeping_habits>Κοιμάται μπρούμυτα. Ο ύπνος δεν την ξεκουράζει (2)&#13;
+Κάποιες φορές ξαπλώνει και δεν την πιάνει ύπνος. Στριφογυρίζει και σκέφτεται διάφορα. Έχει μία άσχημη αίσθηση που δεν την προσδιορίζει- κάτι σαν άγχος (3).</sleeping_habits>
+        <food_modalities>Des: κρέας (3), Κοτόπουλο, κρέμες (2), ψάρι, φρούτα (2), κίτρινα τυριά (2), βούτυρο (2)&#13;
+Avers: Οστρακοειδή (2), λεμόνι, μπρόκολο, κουνουπίδι, γάλα (3)&#13;
+Γενικά πίνει πολύ νερό και νιώθει έντονη δίψα κατά τον πονοκέφαλο(3).&#13;
+</food_modalities>
+        <menstruation>Πριν μείνει έγκυος είχε πολλούς πόνους - τώρα είναι φυσιολογική</menstruation>
+      </physical>
+      <mental_emotional>Κλειστή (2). Εσωστρεφής- τα κρατά μέσα της. Δεν της αρέσει η αντιπαράθεση (2), ούτε να τσακώνεται με τον άντρα της. Νιώθει πολύ άσχημα όταν την προσβάλλουν (2). Δεν κλαίει. Στεναχωριέται εύκολα. </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Η συνολική κατάσταση της υγείας της ασθενούς φαίνεται να είναι καλή και υποστηρίζεται από το γεγονός ότι η ασθενής παρουσιάζει οξέα κάθε χρόνο. Είναι θετικό το ότι δεν υπάρχουν σοβαρά συμπτώματα από το ψυχικό και νοητικό επίπεδο.</personal_medical_history>
+        <family_medical_history>      </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Η πρόγνωση είναι καλή. Η παθολογία εντοπίζεται στο φυσικό επίπεδο και επίσης δεν ανταποκρίνεται σε φάρμακα που έχει λάβει  η ασθενής γι'αυτό και δεν έχουν τροποποιηθεί τα συμπτώματα από τότε που πρωτοεμφανίστηκε η κεφαλαλγία. Το φάρμακο φαίνεται καθαρά παρά του ότι υπάρχουν κι άλλα φάρμακα που καλύπτουν αρκετά συμπτώματα από το ιστορικό.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Κεφαλαλγίες και δυσπεψία (2)</peculiar>
+        <intense>Εμετός κατά τον πονοκέφαλο (2)&#13;
+Δίψα κατά τον πονοκέφαλο (3)&#13;
+Άγχος όταν ξαπλώνει (3)&#13;
+Απέχθεια στο γάλα (3)&#13;
+Κλειστή(3)&#13;
+</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Magnesia muritica: κεφαλαλγία με εμετό και δίψα, ξυπνά με ίλιγγο, δυσπεψία, &gt; στον ανοιχτό αέρα και με πίεση,  &lt; με ήλιο, άγχος όταν ξαπλώνει, κλειστή, δεν αντέχει τους τσακωμούς, ο ύπνος δεν ξεκουράζει, απέχθεια στο γάλα&#13;
+Natrum muriaticum: Πονοκέφαλοι που ξεκινούν ΑΡ, &lt;με ήλιο και αλκοόλ, &gt; στον ανοιχτό αέρα, κλειστή, τα κρατά μέσα της, απέχθεια στο γάλα,   &#13;
+Pulsatilla: ίλιγγος το πρωί, &gt; στον ανοιχτό αέρα και με πίεση, &lt;σε κλειστό χώρο, επιθυμία για το βούτυρο και κρέμες</remedies_differentiation>
+      <prescription>
+        <remedy>Magnesia Muriatica</remedy>
+        <potency>30 ch+200ch</potency>
+        <regimen>1 caps 30 ch την πρώτη μέρα&#13;
+1 caps 200ch την επόμενη</regimen>
+        <other_notes>Στην ασθενή συστήνεται να μην λάβει παυσίπονα.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-29 21:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής προσήλθε για την πρώτη αξιολόγηση 2 μήνες μετά την πρώτη συνεδρία(10/8/2015). Κρυωμένη όταν πήρε το φάρμακο. Την έπιασε πονοκέφαλος τη δεύτερη μέρα που πήρε το 200ch. Είχε τάση για έμετο και έκανε 3 φορές. Ο πόνος κράτησε σχεδόν 1,5 μέρα και ήταν όπως συνήθως. Κεφαλαλγία ξανά μετά από 2 εβδομάδες που κράτησε 1 ημέρα. Ξύπνησε από τον πόνο στις 5 το πρωί.  Η ασθενής πήρε depon το οποίο δεν την έπιασε. Γενικά νιώθει κουρασμένη και αδύναμη αλλά πιο ήρεμη και το τονίζει αρκετές φορές κατά τη συνεδρία.</reaction>
+      <analysis>Η αντίδραση είναι καλή. Θα πρέπει να περιμένουμε.</analysis>
+      <conclusion>θα πρέπει να περιμένουμε.</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Magnesia muriatica</remedy>
+        <potency>6x</potency>
+        <regimen>30 caps</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-29 21:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής προσήλθε για την δεύτερη αξιολόγηση μετά από 2 μήνες (12/10/2015). Έκανε πονοκέφαλο και μετά από επικοινωνία πήρε Magnesia muriatica 1Μ. Την άφησε ο πονοκέφαλος και μετά από μία εβδομάδα έκανε εξωτερική ωτίτιδα. Πήρε depon και την έπιασε το άλλο αυτί. Ξαναπήρε depon και την έπιασε πονοκέφαλος που κράτησε 4 ημέρες. Έκανε και μικρή ωτίτιδες. Νιώθει ακόμα αδύναμη και κουρασμένη αλλά λιγότερο.</reaction>
+      <analysis>Η πορεία της ασθενούς είναι καλή. Θα πρέπει να αυξηθεί η δυναμοποίηση.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Magnesia muriatica </remedy>
+        <potency>10M+6x</potency>
+        <regimen>10M/ 1 caps&#13;
+6x/30caps</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-12-29 21:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Η ασθενής προσήλθε για τρίτη αξιολόγηση στα μέσα Δεκεμβρίου. Δεν παρουσίασε κάποιο πρόβλημα στο διάστημα αυτό. Γενικά νιώθει καλά. Ήπιε ένα ποτήρι κρασί και δεν την ενόχλησε. Χρειάστηκε να πάρει Rhus-tox 200ch για ένα μυϊκό πρόβλημα που εμφανίστηκε πριν 15 μέρες.   </reaction>
+      <analysis>Θα πρέπει να παρακολουθήσουμε την ασθενή και τους επόμενους μήνες καθώς ήταν ένα χρόνιο πρόβλημα με μεγάλη ένταση. Το ότι ήπιε αλκοόλ και δεν την πείραξε και φυσικά το ότι δεν έκανε πονοκέφαλο τους 2 τελευταίους μήνες είναι θετικά στοιχεία στην πορεία της.</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

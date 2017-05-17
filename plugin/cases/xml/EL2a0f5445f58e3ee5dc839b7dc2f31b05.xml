@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL2a0f5445f58e3ee5dc839b7dc2f31b05</ID>
+  <patient>
+    <case_date>2014-01-14 16:30:00</case_date>
+    <gender>female</gender>
+    <patient_initials>M.Π.</patient_initials>
+    <age>41</age>
+    <circumstances>ελευθερη,ανεργη, δουλευει περιστασιακα σε οικολογικου ενδιαφεροντος δουλειες, ασχολειται με ζωδια, ρεικι και αλλες ενεργειακες εναλλακτικες θεραπειες. εχει παει στην Ινδια για να γνωρισει την αληθεια, αναζητα τετοιες εμπειριες στη ζωη, πνευματικες, οχι υλικες.</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>απο 20 χρονων</origin>
+        <causative_factors>μπορει να εχει σχεση με την εναρξη της σεξουαλικης της ζωης, η ιδια δεν αναφερει να θυμαται κατι να εχει συμβει</causative_factors>
+        <modalities>&gt;κινηση(4) γενικως και στον πυρετο&#13;
+&lt;θαλασσινα(τελευταια φορα τα συμπτωματα ξεκινησαν αφου εφαγε ψαρι )&#13;
+&lt;στο τελος της ουρησης</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>μια φορα το χρονο σχεδον</appearence_frequency>
+        <pain_desc>-διαχυτος, &#13;
+-τα συμπτωματα εμφανιζονται και εγκαθιστανται μεσα σε μιση ωρα, &#13;
+-αισθηση οτι θελει να παει τουαλεττα αλλα δεν βγαινουν τα ουρα(2) ,&#13;
+-επειγουσα επειξη για ουρηση(3) "δεν μπορω να περιμενω ουτε 5 λεπτα" &#13;
+-τσουξιμο(2) &lt;στο τελος της ουρησης. &#13;
+-αισθημα οτι η κυστη ειναι βαρια, σα να εχει πετρες(3)</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>-ευαισθησια στη μυτη, ευκολα συχνες ρινιτιδες,ιγμοριτιδες &lt;κρυο, &lt;ηλιο(2)&#13;
+-υποπλασια αδαμαντινης (ολα τα δοντια φερουν προσθετικες εργασιες εκτος απο 6 κατω προσθια τα οποια δεν εμφανιζουν υποπλασια)&#13;
+-κονδυλωματα γεννητικων οργανων, εμοιαζαν με ελιες(γενικως εχει ελιες, η ιδια αναφερει οτι βγαζει ευκολα ελιες) εγινε καυτηριασμος αλλα ειχε δυσκολη επουλωση</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>ΟΥΡΟΛΟΙΜΩΞΕΙΣ  norocin(οταν απαιτειται)</conv_med_presc>
+        <lab_tests>
+          <desc>-</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>-</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εμβολιασμοι οι συνηθεις για την εποχη&#13;
+θεραπειες αντιμικροβιακες για τις ουρολοιμωξεις.</therapies_vaccination>
+          <traumas>αναφερει μια ερωτικη απογοητευση περυσι(2003) που εκλαψε πολυ αλλα οχι κατι αλλο</traumas>
+          <infections>παιδικες: ανεμευλογια, ερυθρα</infections>
+          <other>-στιγμα, εχει αιματοκριτη 30, νιωθει καλα&#13;
+-μικροτερη συχνες αμυγδαλιτιδες πυωδεις(μια φορα το χρονο) σταματησαν μετα την εφηβεια</other>
+        </personal>
+        <family>
+          <diseases>πατερας: στιγμα, πεθανε 93 ετων απο αιματωμα στο κεφαλι λογω τραυματισμου&#13;
+  -οικογενεια του:2 αδερφια του πεθαναν νωρις(δεν γνωριζει αιτια), μαλλον καποιος ειχε ψυχικη νοσο&#13;
+μητερα: αρθριτικα, αιμορροιδες, ινομυωματα&#13;
+   -μητερα της: Σ.Δ., καρδιοπαθειες&#13;
+   -πατερας της: ΦΥΜΑΤΙΩΣΗ (εκανε ταξιδια, ηταν γυναικάς)&#13;
+αδερφη: οζοι στον θυρεοειδη</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>γενικως μαλλον κρυωνει(2) ,&lt;κρυο υγρο καιρο(2) &gt;στη φυση(4) &gt; με ζεστο ντουζ(4)</reactions>
+        <sleeping_habits>7-8 ωρες, ανασκελα(3) με τα χερια στο στηθος ή πανω απο το κεφαλι&#13;
+ροχαλιζει (3)&#13;
+ονειρα τα θυμαται, εχουν πολλη φαντασια</sleeping_habits>
+        <food_modalities>επιθυμιες:γαλα(3) γιαουρτι(2), σοκολατα(2)&#13;
+απεχθειες: ουισκι(3) ψαρια(2)&#13;
+επιδεινωση: φλουδες φρουτων (3), γαριδες(3), αβοκαντο(2)&#13;
+</food_modalities>
+        <menstruation>11ετων, σταθερος κυκλος 26 ημερων, διαρκει 5-6μερες οχι πολυ μεγαλη ροη, συχνα λευκορροια στο μεσο του κυκλου(2)</menstruation>
+      </physical>
+      <mental_emotional>'ψαχνω τις γυναικιες μου ορμονες", σχεδον καθολου σεξουαλικη επιθυμια(3), οχι ικανοποιηση απο σεξ,&#13;
+ντροπαλη, ενοχικη, τα δικα της δεν τα λεει. η μουσικη την εξιταρει(3), παρηγορια δεν βελτιωνει, ισως και να εκνευριζει.&#13;
+φοβιες: τον μπαμπουλα(3), να μεινει τη νυχτα καπου μονη, απωλεια αγαπημενων(2)&#13;
+"απο μικρη ξερω οτι δεν θελω να κανω παιδι"(3)</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>η ασθενης εμφανιζει ακομα καποια οξεα περιστατικα, ομως με χαμηλο πυρετο(αναφερει μεχρι και 38,5) ενω πιο μικρη εκανε και υψηλοτερο. υποθετουμε λοιπον οτι βρισκεται στο δευτερο γκρουπ.οι  λοιμωξεις φαινεται πως προχωρουν πιο εσωτερικα του οργανισμου(απο ανωτερο αναπνευστικο,ρινιτιδες κλπ σε ουροποιητικο και γεννητικο). σαφως υπαρχει ορμονικο θεμα, η ιδια η ασθενης αναφερει οτι ψαχνει τις γυναικιες της ορμονες θελοντας να πει οτι αναζητα τη θηλυκοτητα της. Σωματικα ειναι πολυ αδυνατη χωρις γυναικεια χαρακτηριστικα(στηθος,περιφερεια) ενω εχει ενα καπως αποκοσμο παρουσιαστικο</personal_medical_history>
+        <family_medical_history>απο την πλευρα του πατερα ισως εχουμε καποια ψυχικη νοσο ενω απο τη μητερα εχουμε εναν παππου με φυματιωση, γυναικά, που εκανε πολλα ταξιδια. σιγουρα απο εκει εχουμε την επιρροη του φυματινικού μιασματος και θα μπορουσε και του γονορροιακου, που ισως ετσι να εξηγουνται και τα κονδυλωματα και οι πολλες ελιες. </family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>δεν ειναι ενα ευκολο περιστατικο, βλεπουμε την επιρροη μιασματων και μια ψυχικη και πνευματικη εικονα περιεργη, θυμιζει λιγο αναζητητες της αληθειας. μαλλον θα χρειαστουμε περισσοτερα φαρμακα για να θεραπευσουμε.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>bladder-stone in sensation(3)&#13;
+</peculiar>
+        <intense>generalities-motion ameliorates(4)&#13;
+generalities-open air-amel and desire(4)&#13;
+generalities-hot bath-amel(4)&#13;
+generalities-food and drinks-milk desire(3)&#13;
+perspiration-snoring(3)&#13;
+bladder-urging to urinate(3)&#13;
+bladder-urging to urinate-inefficient(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>sepia: η αισθηση στην ουρολοιμωξη, η απαθεια προς το sex, η βελτιωση με την κινηση, οι λευκορροιες, αλλα και γενικως αυτη η στροφη προς την αναζητηση της αληθειας θυμιζει εικονα sepia&#13;
+tuberc: η φυματιωση του παππου, η βελτιωση στη φυση, η εντονη επιθυμια για γαλα </remedies_differentiation>
+      <prescription>
+        <remedy>sepia</remedy>
+        <potency>200cH και 1Μ</potency>
+        <regimen>πρωι και βραδυ</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-03-02 15:30:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>αρχικα δεν ειχε καμια μεταβολη, λιγες μερες πριν το follow up ειχε ενα επεισοδιο ουρολοιμωξης με εντονη την αισθηση του βαρους στην κυστη, πυρετο 38.5 που δεν επεφτε με τα συνηθη αντιπυρετικα. πηρε αντιβιωση. θεωρησε την ουρολοιμωξη αυτη πιο εντονη απο τις τελευταιες φορες.  τα υπολοιπα παραμενουν ιδια</reaction>
+      <analysis>θεωρω πως αυτο το επεισοδιο ηταν καθυστερημενη αρχικη επιδεινωση και το φαρμακο σωστο. περιμενουμε χωρις καινουριο φαρμακο</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2014-04-10 15:30:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>η ασθενης δεν αναφερει αλλο κρουσμα ουρολοιμωξης. νιωθει καλυτερα ψυχικα, αισθανεται οτι εχει περισσοτερη ενεργεια απο πριν, μαλλον κρυωνει λιγοτερο, ενω η επιθυμια για γαλα ισως εχει αυξηθει λιγο ακομα. νιωθει λιγοτερο ντροπαλη, βγαινει εξω πιο συχνα.</reaction>
+      <analysis>θετικη αντιδραση. το οτι νιωθει αυξημενη ενεργεια ειναι επιβεβαιωση του φαρμακου.  δεν εχουν αλλαξει ιδιατερα τα χαρακτηριστικα οποτε δεν εχουμε εικονα νεου φαρμακου. ισως διαφαινεται το tub για αργοτερα.</analysis>
+      <conclusion>no remedy!</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>no remedy</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2014-05-16 15:30:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc>-</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>κανενα κρουσμα ουρολοιμωξης. η ασθενης συνεχιζει να νιωθει καλα, πιο ισορροπημενη, εχει μπει σε μια σχεση και εχει αποκτησει ενεργη σεξουαλικη ζωη, η επιθυμια ειναι καλυτερα. εμφανισε προσφατα ενα συναχι χωρις αλλα συμπτωματα που ομως επιμενει. επιθυμια για γαλα(4) κρυο.</reaction>
+      <analysis>εξακολουθει η αντιδραση να ειναι θετικη, δεν εχει φανει αναγκη για νεο φαρμακο ή εικονα νεου φαρμακου οποτε συνεχιζουμε χωρις φαρμακο και περιμενουμε</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>-</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>-</remedy>
+        <potency>-</potency>
+        <regimen>-</regimen>
+        <other_notes>--</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

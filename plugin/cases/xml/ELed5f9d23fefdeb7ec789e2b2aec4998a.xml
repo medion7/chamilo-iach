@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELed5f9d23fefdeb7ec789e2b2aec4998a</ID>
+  <patient>
+    <case_date>2015-12-17 01:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>K.Z.</patient_initials>
+    <age>46</age>
+    <circumstances>Πρώτη επίσκεψη 4 Απριλίου 2015&#13;
+Χωρισμένη (πριν ένα χρόνο)&#13;
+¨Ένα παιδί&#13;
+Λογίστρια-ιδιωτική υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Εμφανίστηκε πριν από 25 χρόνια,χωρίς να το συνδέει με κάποιο ιδιαίτερο γεγονός. &#13;
+¨Έχει πάει σε πολλούς δερματολόγους και τελικά κατέληξαν ότι είναι από άγχος και μόνο για λίγο βελτιωνόταν με τα χημικά φάρμακα,οπότε δεν κάνει πια καμιά αγωγή. </origin>
+        <causative_factors>Συναισθηματική καταπίεση.&#13;
+Ως παιδί ήταν ζωηρή,έπινε πολύ κρύο νερό, έτρωγε τα λεμόνια ωμά, κοιμόταν μπρούμυτα,έπαιζε και με τα αγόρια της γειτονιάς και χτυπούσε. Οι γονείς της ήταν πολύ αυστηροί και την περιόριζαν.Ακόμα κι όταν ως πρόεδρος του 15μελούς στο λύκειο οργάνωσε η ίδια τον σχολικό χορό, δεν της επέτρεψαν ούτε να πάει.</causative_factors>
+        <modalities>Τα πρώτα χρόνια βελτιωνόταν πολύ, ακόμη και εξαφανιζόταν το καλοκαίρι με τα μπάνια στη θάλασσα. Τα τελευταία 10-15 χρόνια είναι σταθερή κατάσταση,δεν βελτιώνεται,χειροτερεύει όταν νευριάζει.</modalities>
+        <occurrence_time>Δεν επηρρεάζεται σταθερά από το χρόνο. Μπορεί να επιδεινωθεί οποτεδήποτε νευριάσει ή αγχωθεί. Ακόμα και τα βράδια που δεν κοιμάται και ξαπλωμένη ξύνεται.</occurrence_time>
+        <body_side>Δεν έχει συγκεκριμένο μέρος.</body_side>
+        <appearence_frequency>Έντονη φαγούρα κάθε μέρα.</appearence_frequency>
+        <pain_desc>Δεν πονάει.</pain_desc>
+        <complaint_ext>Μόνο στο κεφάλι έχει.</complaint_ext>
+        <other_complaints>Δεν έχει.</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Νευροδερματίτιδα με έντονο κνησμό και εφελκίδες στο τριχωτό της κεφαλής, κυρίως στους κροτάφους όπου περνά και προς τα έξω στο πρόσωπο.&#13;
+Κατά καιρούς χρησιμοποιούσε λοσιόν , τα τελευταία χρόνια τίποτε.</conv_med_presc>
+        <lab_tests>
+          <desc>----</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>Δεν υπάρχουν</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλοι οι υποχρεωτικοί εμβολιασμοί.&#13;
+Πριν χρόνια κορτιζονούχα σκευάσματα.</therapies_vaccination>
+          <traumas>Διαζύγιο (εξωσυζυγική σχέση του συντρόφου) πριν ένα χρόνο.</traumas>
+          <infections>Δεν αναφέρει.</infections>
+          <other>Δεν της αρέσουν τα ζώα</other>
+        </personal>
+        <family>
+          <diseases>Πατέρας πέθανε από μεταστατικό Ca ήπατος&#13;
+Μητέρα (ζει) Ca μήτρας με ολική υστερεκτομή,Parkinson, θυρεοειδοπάθεια, Α.Υ.</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Κρυώνει</reactions>
+        <sleeping_habits>Μέχρι την εγκυμοσύνη της κοιμόταν μπρούμυτα. Έκτοτε ανάσκελα και κυρίως αριστερά.&#13;
+Αϋπνία ,κοιμάται για 2-3 ώρες και ξυπνάει γύρω στις 3 με 4 το πρωϊ με έννοιες.</sleeping_habits>
+        <food_modalities>Επιθυμεί: γλυκά, αλάτι, πικάντικα,λεμόνι,αλκοόλ&#13;
+Απέχθειες δεν έχει ιδιαίτερες&#13;
+Δίψα κ.φ.</food_modalities>
+        <menstruation>κ.φ.</menstruation>
+      </physical>
+      <mental_emotional>Εκνευρίζεται εύκολα,θυμώνει </mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Δεν αναφέρει σοβαρά προβλήματα υγείας.&#13;
+Κάνει οξύ περίπου μία φορά το χρόνο, με ψηλό πυρετό. Πιθανώς group A.&#13;
+Το συναισθηματικό στρες υπάρχει έντονο και τώρα, λόγω κακών σχέσεων με τον πρώην σύζυγο και κακών συνθηκών διαζυγίου, όπως και λόγω προστριβών  με το παιδί που περνάει μια δύσκολη εφηβεία . Καθημερινοί καυγάδες στο σπίτι και πολλές ευθύνες να τη βαραίνουν.</personal_medical_history>
+        <family_medical_history>Και οι δύο γονείς με καρκίνο.Ανεπάρκεια του αμυντικού μηχανισμού και στους δύο γονείς που πιθανόν να έχει κληροδοτηθεί και στην ίδια.&#13;
+Μεγάλη συναισθηματική καταπίεση.</family_medical_history>
+        <level_of_health>2</level_of_health>
+        <conclusion>Καλή πρόγνωση για το κύριο πρόβλημα. Εντοπίζεται στο δέρμα και δεν είναι σοβαρή παθολογία. Παρόλα αυτά επειδή υπάρχει emotional stress από την παιδική ηλικία η πρόγνωση είναι λιγότερο ευνοική . Αν ο αμυντικός της μηχανισμός δεν είναι αρκετά δυνατός η θεραπεία θα γίνει σε στάδια.(καλός δείκτης είναι ότι έχει καταφέρει να κρατήσει την παθολογία στο δέρμα,προστατεύοντας έτσι τα βαθύτερα επίπεδα). Θα εμφανίσει αρχική επιδείνωση στον κνησμό αλλά καλυτέρευση στα νεύρα.&#13;
+Η τωρινή ιδιοσυγκρασία φαίνεται να είναι επίκτητη λόγω συναισθηματικής καταπίεσης , πιθανώς σε παλιότερο Medorrhinum .&#13;
+Δεδομένου ότι ανήκει στο group A θα μπορούσαμε να ξεκινήσουμε με ψηλή δυναμοποίηση. Επειδή όμως τα δερματικά μπορεί να κάνουν σοβαρές επιδεινώσεις,προτιμώ να τις δώσω 30/200.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Όταν σκέφτεται το σύμπτωμα χειροτερεύει 3&#13;
+Ενοχλείται από τις ερωτήσεις 2&#13;
+</peculiar>
+        <intense>Φαγούρα στο κεφάλι 3&#13;
+νεύρα 3&#13;
+εριστική 3&#13;
+βιαστική 2 &#13;
+Πονοκέφαλος στο μέτωπο που βελτιώνεται με την πίεση 2&#13;
+Fastidious 3&#13;
+Industrious  3&#13;
+Impatient 3&#13;
+Irritability 4&#13;
+Δεν δέχεται την παρηγοριά 2&#13;
+Εσωστρεφής 2&#13;
+Θυμός 3&#13;
+Θυμός και όταν αναγκάζεται να απαντήσει σε ερωτήσεις απαντάει έντονα 3&#13;
+Επιθυμεί αλκοόλ 2&#13;
+Αυπνία 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>HEAD ­ ITCHING of scalp 3&#13;
+GENERALITIES ­ BATHING ­ sea ­ amel. 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ cold ­ drinks, water ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fruit ­ desire ­ unripe 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ salt ­ desire 2&#13;
+HEAD ­ PAIN (headache) ­ Forehead, in 2&#13;
+HEAD ­ PAIN (headache) ­ Forehead, in ­ pressure ­ amel. 2&#13;
+MIND ­ FASTIDIOUS 3&#13;
+MIND ­ CENSORIOUS, critical 3&#13;
+SLEEP ­ SLEEPLESSNESS 3&#13;
+SLEEP ­ SLEEPLESSNESS ­ thoughts activity of mind, from 2&#13;
+MIND ­ IRRITABILITY 4&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fruit ­ desire ­ acid (sour) 2&#13;
+MIND ­ THOUGHTS ­ rapid, quick, etc. 2&#13;
+MIND ­ HURRY 2&#13;
+MIND ­ CONSOLATION ­ agg. 2&#13;
+MIND ­ RESERVED 2&#13;
+MIND ­ IMPATIENCE 2&#13;
+MIND ­ QUARRELSOME 2&#13;
+MIND ­ INDUSTRIOUS 3&#13;
+MIND ­ ANGER, irascibility 3&#13;
+MIND ­ IRRITABILITY ­ consolation ­ agg. 2&#13;
+MIND ­ IRRITABILITY ­ questioned, when 2&#13;
+MIND ­ ANGER, irascibility ­ ailments after anger, vexation, etc. ­ anxiety, with 3&#13;
+GENERALITIES ­ FOOD and DRINKS ­ alcoholic drinks ­ desire 2&#13;
+MIND ­ ANGER, irascibility ­ answer, when obliged to 2&#13;
+HEAD ­ PAIN (headache) ­ Forehead, in ­ eyes, above ­ morning 2&#13;
+MIND ­ THINKING ­ complaints of ­ agg. 3&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Nux vomica : πολλά νεύρα, ευερέθιστη,ανυπόμονη, αϋπνία από σκέψεις ,Θυμός (ειδικά μετά την απιστία του συζύγου και το διαζύγιο),θέλει το βράδυ ένα ποτηράκι κρασί για να ηρεμήσει, είναι πολύ τακτική και συνεπής στη δουλειά της&#13;
+Medorrhinum : δεν κοιμάται πια μπρούμυτα, δεν έχει την αίσθηση ότι την ακολουθεί κάποιος, της αρέσει πάρα πολύ η θάλασσα αλλά τώρα πια δεν την βελτιώνει,&#13;
+Natrum muriaticum: δεν θέλει τόσο πολύ το αλάτι, δεν την ενοχλεί ο ήλιος,δεν χειροτερεύει στη θάλασσα&#13;
+</remedies_differentiation>
+      <prescription>
+        <remedy>Nux vomica</remedy>
+        <potency>30/200ch</potency>
+        <regimen>30 ch πρωί /200ch απόγευμα</regimen>
+        <other_notes>Η ίδια περιγράφει τον εαυτό της ως εσωστρεφή,άνθρωπο της πράξης και του πρέπει, αυστηρή,φίλη μέχρι το τέλος.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-12-17 00:00:00</followup_date>
+      <conv_med_presc>5 Μαϊου 2015&#13;
+Πήρε μόνο 2 caps Nux vomica (30/200) πριν ένα μήνα</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Τις πρώτες δύο μέρες πολύ έντονη φαγούρα ("ήθελα να βγάλω το scalp μου!").&#13;
+Από την επόμενη μέρα μεγάλη βελτίωση-80% , οι εφελκίδες εξαφανίστηκαν και η φαγούρα σταμάτησε εντελώς.&#13;
+Ο ύπνος παραμένει κακός, εξακολουθεί να ξυπνάει τα ξημερώματα με σκέψεις.Τα νεύρα έχουν μειωθεί σημαντικά.&#13;
+Τα προβλήματα με το παιδί εξακολουθούν να υπάρχουν αλλά εκείνη δεν νευριάζει πια εύκολα και δεν είναι τόσο αυστηρή μαζί του.&#13;
+Αυτό όμως διήρκεσε περίπου 2 εβδομάδες και μετά επανεμφανίστηκαν τα ίδια συμπτώματα. (πλήρης υποτροπή)</reaction>
+      <analysis> Σωστό φάρμακο. Έκανε αρχική επιδείνωση και άμεση βελτίωση άρα είναι πράγματι στο Group A-level 2 ή 3.&#13;
+</analysis>
+      <conclusion>Σωστό φάρμακο. Δεν αντιδοτήθηκε ,άρα ήταν χαμηλή δυναμοποίηση.</conclusion>
+      <repertorization>
+        <desc>---</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Nux vomica</remedy>
+        <potency>1M</potency>
+        <regimen>Άπαξ</regimen>
+        <other_notes>Εδώ υπάρχουν εμπόδια  στη θεραπεία. Συνεχείς διαμάχες με  τον σύζυγο μέσω δικαστικής οδού . Ένα δύσκολο παιδί που την απαξιώνει συνεχώς μεταφέροντας τα λόγια του πατέρα , και τέλος μια οικονομική ανασφάλεια.Πιθανώς να αντιδότησε το φάρμακο κάποιο έντονο stress.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-12-17 00:00:00</followup_date>
+      <conv_med_presc>Nux vomica1M</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν εμφάνισε ξανά επιδείνωση. Τα συμπτώματα υφέθηκαν αλλά δεν μειώθηκαν ποτέ τόσο όσο  τις πρώτες δύο εβδομάδες που έιχε πάρει για πρώτη φορά το φάρμακο.Είναι σαφώς καλύτερα αλλά όχι εντελώς καλά.&#13;
+</reaction>
+      <analysis>Βελτίωση μετά από αρχική επιδείνωση -όχι πλήρης υποτροπή- Σωστό φάρμακο &#13;
+Περιμένω</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>-----</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Κανένα φάρμακο</remedy>
+        <potency>------</potency>
+        <regimen>-------</regimen>
+        <other_notes>-------</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

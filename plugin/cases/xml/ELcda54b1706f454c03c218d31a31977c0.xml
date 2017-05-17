@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELcda54b1706f454c03c218d31a31977c0</ID>
+  <patient>
+    <gender>female</gender>
+    <patient_initials>Σ.Λ</patient_initials>
+    <age>33</age>
+    <circumstances>παντρεμενη, 2 παιδια (1 κ 3 ετων), γεωπονος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>αλλεργικη ρινιτιδα απο τα 17 της, ποικολοχρους πυτιριαση(κυριως εκδηλωση στα δαχτυλα και στο στηθος περιστασιακα χωρις να παιρνει αγωγη)τα τελευταια 2,5 χρονια, αλλεργια σε αυγο και ανιθο</origin>
+        <causative_factors>στα 6 επαθε ηλεκτροπληξια και μετα εμφανισε αλλεργικη βρογχιτιδα, 17 ετων μαλωσε ασχημα με την μητερα της κ απο τοτε εχει συνεχεια μπουκωμενη μυτη, η βρογχιτιδα σταματησε οπως αναφερει</causative_factors>
+        <modalities>&lt;υγρασια, παρατηρησε οτι χειροτερεψε οταν μετακομισε απο την αθηνα στον νομο ηλειας, παραθαλασσια</modalities>
+        <occurrence_time>&lt;ανοιξη</occurrence_time>
+        <body_side>ανα περιοδους αισθανεται κ τους δυο ρωθωνες βουλωμενους, με το αριστερο εχει ν αναπνευσει πανω απο 2 χρονια, την εμποδιζει στον υπνο, γενικα αριστερα παθαινει κ ψυξεις κ ακομα κ στην αποτριχωση της ποναει μονο το αριστερο ποδι</body_side>
+        <appearence_frequency>καθημερινη</appearence_frequency>
+        <pain_desc>δν αναφερει πονο, μονο μια μονιμη ενοχληση </pain_desc>
+        <complaint_ext>λογω της στοματικης αναπνοης, πολλα προβληματα στην στοματικη κοιλοτητα, αναφερει μικρη οτι ειχε κ ατελη αναπτυξη της αδαμαντινης(εχει κ ο γιος της της μετα απο κλινικη εξεταση που εκανα) κ το 2007 εκανε επεμβαση πολυποδα, διαφραγμα κ πλαστικη στην μυτη χωρις να βελτιωθει η κατασταση.</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>aerolin περιστασιακα, dexarina spray</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>4 ολικες αναισθησιες(2 αμβλωσεις), αντισυλληπτικα, μικρη της εδιναν συχνα αντιβιωσεις κ σπρευ λογω της βρογχιτιδας κ 2 φορες κορτιζονη</therapies_vaccination>
+          <traumas>ηλεκτροπληξια στα 6, συνεχης κοντρα με την μητερα της, δν δεχεται τον αντρα της, τις σπουδες της, τα παιδια της, μεγαλος καβγας που εφυγε απ το σπιτι στα 17</traumas>
+          <infections>δν αναφερει</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>αρτ.πιεση μητερα</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>μονο κρυωνει, ποδια κρυωνουν πολυ κ μεση</reactions>
+        <sleeping_habits>κυριως μπρουμυτα, ευκολα κοιμαται αλλα την ταλαιπωρει η αναπνοη, βλεπει ονειρα καθε μερα ,οχι εφιαλτεσ</sleeping_habits>
+        <food_modalities>θελει να φαει αυγα αλλα την πειραζουν, δν αντεχει καθολου αρνι κ οτι εχει λιπος, κοκκαλα κλπ. θελει μακαρονια και τυρι.</food_modalities>
+        <menstruation>κφ</menstruation>
+      </physical>
+      <mental_emotional>συναισθηματικη ανασφαλεια, θελει να κοιμαται με τον συντροφο της για να νιωθει ασφαλης, αισθανεται θλιψη χωρις να ξερει γιατι περιπου 1 φορα την εβδομαδα, φοβαται τον θανατο των δικων της</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>χρονια υπο αγωγες με αντιβιωσεις , 3 φορες τον χρονο ανεβαζει πυρετο(μεχρι 38,5), μετρια προγνωση</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>7</level_of_health>
+        <conclusion>μετρια προγνωση, επιβαρυμενος οργανισμος αλλα ανεβαζει ακομα συχνα πυρετους</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>επιρρεπης σε τσιμπηματα ψυλλων (2)</peculiar>
+        <intense>ρινιτιδα πανω απο 15 χρονια (3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>natrum muriaticum, lachesis, bacillinum(για ψυλλους)</remedies_differentiation>
+      <prescription>
+        <remedy>natrum muriaticum</remedy>
+        <potency>200ch</potency>
+        <regimen>s:1x1&#13;
+1cap 10 λεπτα προ του πρωινου</regimen>
+        <other_notes>επανεξεταση σε 1 μηνα</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <conv_med_presc>aerolin περιστασιακα, dexarina spray</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>την πρωτη εβδομαδα χειροτερα η ρινιτιδα, συνεχεια πονοκεφαλοι, κυριως πανω απ το δεξι ματι, εξαρση η πυτιριαση(το αποδιδει στο οτι ιδρωνει περισσοτερο), εχει καλυτερη σεξουαλικη διαθεση κ μετα τις 10 μερες αρχισε να ξεβουλωνει ο ενας ρωθωνας, κοιμαται καλυτερα κ θελει να τρωει συνεχεια.</reaction>
+      <analysis>εχουμε επιδεινωση και στην συνεχεια βελτιωση του κυριου συμπτωματος που ειναι καλο σημαδι</analysis>
+      <conclusion>η θεραπεια παει καλα και συνεχιζω το ιδιο φαρμακο</conclusion>
+      <repertorization>
+        <desc>natrum muriaticum, sepia</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>natrum muriaticum</remedy>
+        <potency>200ch</potency>
+        <regimen>1 cap δεκα λεπτα προ του πρωινου</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

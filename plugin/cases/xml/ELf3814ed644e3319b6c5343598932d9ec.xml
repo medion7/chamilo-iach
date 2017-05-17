@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELf3814ed644e3319b6c5343598932d9ec</ID>
+  <patient>
+    <case_date>2014-10-25 08:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>Ο.Ρ.</patient_initials>
+    <age>0</age>
+    <circumstances>19 χρονων</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αλλεργική ρινίτιδα και ιγμορίτιδα από μικρη, αλλεργια σε εξοχή , σκονη, ζώα, είναι πάντα μπουκωμενη</origin>
+        <causative_factors>-</causative_factors>
+        <modalities>-</modalities>
+        <occurrence_time>-</occurrence_time>
+        <body_side>-</body_side>
+        <appearence_frequency>-</appearence_frequency>
+        <pain_desc>-</pain_desc>
+        <complaint_ext>-</complaint_ext>
+        <other_complaints>Ακράτεια ούρων( όταν γυρνάει σπίτι δεν προλαβαίνει να πάει τουαλέτα), πειστικός πονοκέφαλος μία φορά τον μήνα που καλυτέρευει με πιεση, βραχνιαζει εύκολα, υπερβολική έκκριση κεριού, ακμη σε πλάτη πρόσωπο μηρούς, σπάνε τα νύχια στις άκρες, πέφτουν τα μαλλιά πολύ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Αντιισταμινικά, αποσυμφορητικα, αντιβιωσεις, αντικαταθλιπτικά</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Αντιισταμινικά, αντιβιωσεις</therapies_vaccination>
+          <traumas>-</traumas>
+          <infections>Πυρετό προ διετιας</infections>
+          <other></other>
+        </personal>
+        <family>
+          <diseases>Πατέρας ΣΔ ΙΙ</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ιδρωνει πολύ, χέρια πάντα νωπα, δεν αντέχει την ζέστη, ο ήλιος την ενοχλεί πολύ κυρίως ματια</reactions>
+        <sleeping_habits>Δεν κοιμάται εύκολα(5πμ- 12 μεσημέρι), μπρουμυτα και δεξια</sleeping_habits>
+        <food_modalities>Δεν μπορεί να πιει κρύο νερό της πονανε τα δοντια&#13;
+Επιθυμεί σουβλάκια, φρουτα, γλυκά(3), αλάτι(2), πατατακια(4), ψάρι(2)&#13;
+Απεχθεια σε λιπος</food_modalities>
+        <menstruation>Σταθερός κύκλος, πριν έχει νεύρα κλαίει λιγουρες πόνος στη μεση</menstruation>
+      </physical>
+      <mental_emotional>Δεν έχει σεξουαλική επιθυμία, δεν έχει ολοκληρώσει σεξουαλικα γιατί φοβαται, κοινωνική, δεν θέλει παρηγορια, δυναμικη, υπάκουη, λίγο ντροπαλή, νευριαζει εύκολα αλλά δεν τσακωνεται, φοβάται το σκοτάδι, πέρασε χωρισμό δύσκολα και ξεκίνησε αντικαταθλιπτικά εδώ και δύο χρόνια, σκέφτηκε και την αυτοκτονια</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>-</personal_medical_history>
+        <family_medical_history>-</family_medical_history>
+        <level_of_health>5</level_of_health>
+        <conclusion>-</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Απώλεια ούρων όταν γελάει εδώ και 4 χρονια(2)</peculiar>
+        <intense>Μπούκωμα(3), ακράτεια ούρων (2), απεχθεια σε ηλιο(2)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc></desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>-</remedies_differentiation>
+      <prescription>
+        <remedy>Νat-m</remedy>
+        <potency>1Μ(*1), 10Μ(*1)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2014-10-25 06:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μικρη</reaction>
+      <analysis>Σκέφτεται πολύ την αυτοκτονία, δεν ξέρει τι φταίει, όλα φταίνε, αναζητάει πολύ την παρέα, δεν μπορεί να μείνει μονη στο σπιτι</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Aurum metallicum</remedy>
+        <potency>1M (1), 10M(1)</potency>
+        <regimen>-</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-10-25 07:00:00</followup_date>
+      <conv_med_presc>-</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Μεγαλη</reaction>
+      <analysis>Καλύτερα το μπούκωμα, καλυτερα οι πονοκέφαλοι, καλύτερη διατροφή, καλός ύπνος, διψαει λιγότερο,  καλύτερα ή ακμη, πέρασε στεναχώρια και πήρε xanax</analysis>
+      <conclusion>-</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Aur-m</remedy>
+        <potency>6x</potency>
+        <regimen>x30</regimen>
+        <other_notes>-</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

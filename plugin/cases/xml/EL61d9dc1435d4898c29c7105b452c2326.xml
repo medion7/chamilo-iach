@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL61d9dc1435d4898c29c7105b452c2326</ID>
+  <patient>
+    <case_date></case_date>
+    <gender>female</gender>
+    <patient_initials>Ρ.Ε.</patient_initials>
+    <age>3</age>
+    <circumstances>Πρώτη επίσκεψη 15 Ιουνίου 2015&#13;
+Παιδί 3 ετών μεγαλώνει στο σπίτι με τη ,μητέρα της. Καθυστερημένη οδοντοφυία,καθυστέρηση στη σωματική ανάπτυξη (ύψος,βάρος),πολύ ντροπαλή και πολύ δεμένη με τη μητέρα της</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Σεπτέμβρη  2014 πρώτη αμυγδαλίτιδα με Strep test +,έκτοτε υποτροπή κάθε μήνα</origin>
+        <causative_factors>--</causative_factors>
+        <modalities>--</modalities>
+        <occurrence_time>Καλύτερα το πρωί</occurrence_time>
+        <body_side>--</body_side>
+        <appearence_frequency>Μία φορά το μήνα</appearence_frequency>
+        <pain_desc>--</pain_desc>
+        <complaint_ext>--</complaint_ext>
+        <other_complaints>Έντονη κακοσμία στόματος το πρωί</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Υποτροπιάζουσες αμυγδαλίτιδες , 10 μέρες κάθε μήνα επί 8 μήνες.&#13;
+Κάθε φορά έπαιρνε αντιβίωση.</conv_med_presc>
+        <lab_tests>
+          <desc>---</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>---</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Όλοι οι υποχρεωτικοί εμβολιασμοί.Εκτός από τις αντιβιώσεις για τις αμυγδαλίτιδες δεν έχει πάρει άλλα φάρμακα.&#13;
+Γεννήθηκε  με καισαρική τομή.</therapies_vaccination>
+          <traumas>Γεννήθηκε πρόωρο,εμφάνισε βουβωνοκήλη άμφω και χειρουργήθηκε λίγε;ς ημέρες  μετά τη γέννα.</traumas>
+          <infections>--</infections>
+          <other>--</other>
+        </personal>
+        <family>
+          <diseases>Μαμά :Υγιής τώρα,δεν παίρνει φάρμακα.Τοξιναιμία κύησης. Αμυγδαλεκτομή σε ηλικία 27 ετών.Η αδελφή της επίσης έκανε υποτροπιάζουσες αμυγδαλίτιδες σε νεαρή ηλικία.&#13;
+Μπαμπάς: ελεύθερο ιστορικό&#13;
+Παππούς (πατέρα) καρδιοπαθής, με Bypass&#13;
+Λοιποί,χωρίς ιδιαίτερο ιστορικό</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ούτε κρυώνει, ούτε ζεσταίνεται.&#13;
+Ιδρώτας κφ</reactions>
+        <sleeping_habits>κοιμάται μπρούμυτα ή πλάι,ύπνος κφ&#13;
+Δεν ροχαλίζει</sleeping_habits>
+        <food_modalities>Επιθυμεί: κοτόπουλο 1,μοσχάρι 1,μακαρόνια 3,γλυκά 2&#13;
+Απεχθάνεται: αυγό 2,γάλα 2,φρούτα 2&#13;
+</food_modalities>
+        <menstruation>--</menstruation>
+      </physical>
+      <mental_emotional>σοβαρή 3,εκδηλωτική 2 μόνο στους οικείους της, ντροπαλή 3,έχει ανάγκη από στήριξη,νευριάζει αν δεν γίνει αυτό που θέλει 2,συμπάσχει (με τη μητέρα κυρίως ) 2,χαδιάρα 2</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <anatomopathological></anatomopathological>
+        <personal_medical_history>Η σωματική παθολογία αφορά το αναπνευστικό σύστημα (περίπου στη μέση της ιεραρχίας των συστημάτων) και μάλιστα πιο επιφανειακό του επίπεδο (αμυγδαλές). Άρα δεν πρόκειται για βαθιά παθολογία στο σωματικό επίπεδο. Στο νοητικό και το συναισθηματικό δεν εμφανίζει διαταραχή.Κάνει ακόμη υψηλούς πυρετούς , άρα ανήκει πιθανώς στο group 1. Πρόγνωση-καλή.</personal_medical_history>
+        <family_medical_history>Ενδεχόμενη προδιάθεση για καρδιαγγειακά (παππούς) &#13;
+Από μητέρα και θεία - προδιάθεση για αμυγδαλίτιδες</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>Καλό επίπεδο υγείας-καθαρό φάρμακο-σχετικά επιφανειακή παθολογία,άρα περιμένω άμεση βελτίωση (χωρίς αρχική επιδείνωση)</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>καθυστερημένη σωματική ανάπτυξη 2&#13;
+δεν θέλει τα φρούτα 2</peculiar>
+        <intense> υποτροπιάζουσες αμυγδαλίτιδες 3&#13;
+σοβαρή 2&#13;
+προσκολλημένη στη μητέρα 2</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>THROAT ­ INFLAMMATION ­ Tonsils (Tonsillitis) ­ recurrent 3&#13;
+SLEEP ­ POSITION ­ abdomen, on 1&#13;
+MIND ­ AFFECTIONATE 2&#13;
+MIND ­ SERIOUS 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ chicken ­ desire 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ sweets ­ desire 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ eggs ­ aversion 2&#13;
+GENERALITIES ­ FOOD and DRINKS ­ pasta ­ desire 2&#13;
+MOUTH ­ ODOR (breath) ­ offensive ­ morning 2&#13;
+MOUTH ­ ODOR (breath) ­ offensive 1&#13;
+GENERALITIES ­ FOOD and DRINKS ­ fruit ­ aversion 2&#13;
+GENERALITIES ­ DWARFISHNESS 2&#13;
+MIND ­ CLINGING ­ children, in ­ mother, child cling to the 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Sulphur: έχει καθυστερημένη ανάπτυξη,απέχθεια στα αυγά,κακοσμία στο στόμα,κοιμάται μπρούμυτα,αλλά στη συγκεκριμένη ασθενή βασικό πρόβλημα είναι οι υποτροπιάζουσες αμυγδαλίτιδες -πρώτο φάρμακο η Baryta που επιβεβαιώνεται και από την προσκόλληση στη μητέρα.Ενδεχομένως το Sulphur να είναι επόμενο φάρμακο.</remedies_differentiation>
+      <prescription>
+        <remedy>Baryta carbonica</remedy>
+        <potency>200/1M</potency>
+        <regimen>1 caps 200 και 1Μ την πρώτη μέρα και μετά Baryta carbonica 6x/ημέρα για 2 μήνες</regimen>
+        <other_notes>---</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>--</conv_med_presc>
+      <lab_tests>
+        <desc>--</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Δεν έχει κάνει αμυγδαλίτιδα για 2 μήνες. Έκανε μόνο ένα ελαφρώς κόκκινο λαιμό και δεκατική πυρετική κίνηση (37,5) για ένα 24ωρο που απέδραμε μόνο του </reaction>
+      <analysis>Άμεση βελτίωση χωρίς αρχική επιδείνωση-έχω εκτιμήσει σωστά το επίπεδο υγείας-σωστό φάρμακο-καλή αντίδραση</analysis>
+      <conclusion>Σωστό φάρμακο καλό επίπεδο υγείας καλή πρόγνωση</conclusion>
+      <repertorization>
+        <desc>--</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Δεν δίνω καινούργιο φάρμακο-περιμένω</remedy>
+        <potency>--</potency>
+        <regimen>Περιμένω</regimen>
+        <other_notes>--</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>---</conv_med_presc>
+      <lab_tests>
+        <desc>---</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Αντίδραση μετά το τριπλό εμβόλιο το Νοέμβριο,με 38 πυρετό για μιά μέρα.&#13;
+Η οδοντοφυία και γενικώς η ανάπτυξη  έχουν βελτιωθεί κατά πολύ. Δεν δίνω άλλο φάρμακο-περιμένω</reaction>
+      <analysis>Εξαιρετική αντίδραση.</analysis>
+      <conclusion>Σωστή συνταγογράφηση</conclusion>
+      <repertorization>
+        <desc>--</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>--</remedy>
+        <potency>---</potency>
+        <regimen>--</regimen>
+        <other_notes>00</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL48d968219cfc097a92eb16dd1655ebea</ID>
+  <patient>
+    <case_date>2015-01-07 08:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>Μ.Η</patient_initials>
+    <age>9</age>
+    <circumstances>παιδακι 9 ετων &#13;
+&#13;
+&#13;
+</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>νυχτερινη ενουρηση 2-3 φορες περιπου τον μηνα</origin>
+        <causative_factors>οι γονεις λενε οτι ειναι απο το αγχος οταν εχει δυσκολη μερα η καποια ενταση τοτε το κανει </causative_factors>
+        <modalities>αγχος και παρατηρησεις επιδεινωνουν</modalities>
+        <occurrence_time>συνηθως ειναι στην αρχη του υπνου</occurrence_time>
+        <body_side>Please enter side of the body</body_side>
+        <appearence_frequency>2-3 φορες τον μηνα </appearence_frequency>
+        <pain_desc>Please enter a description of the pain</pain_desc>
+        <complaint_ext>Please enter any extension of the complaint to other parts</complaint_ext>
+        <other_complaints>οχι</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>οχι</conv_med_presc>
+        <lab_tests>
+          <desc>οχι</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>εχει κανει ολα τα εμβολια</therapies_vaccination>
+          <traumas>οχι</traumas>
+          <infections>πυρετο υψηλο οταν αρχισαν τα σχολεια πηρε αντιβιωση για το αυτι του </infections>
+          <other>οχι</other>
+        </personal>
+        <family>
+          <diseases>πατερας τιποτα &#13;
+μητερα τιποτα </diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεστενεται του αρεσει το νερο πολυ &#13;
+νιωθει καλλίτερα στην θαλασσα</reactions>
+        <sleeping_habits>κοιμαται πολυ ατσαλα δεν εχει σταθερη θεση κοιμαται καλα εκτοσ απο τα βραδυα με την ενουρηση </sleeping_habits>
+        <food_modalities>του αρεσοθν πολυ γλυκα /παγωτα ,μακαρονια με κιμα &#13;
+δεν τρωει πολυ </food_modalities>
+        <menstruation>-</menstruation>
+      </physical>
+      <mental_emotional>καλο παιδι &#13;
+κλειστος χαρακτηρας ,δεν μιλαει ευκολα,δεν καανει παραπονα, οι γονεις καταλαβαινουν απο την ενουρηση οτι κατι τον αγχωσε &#13;
+οταν του κανουν παρατηρησειςτον πειραζει πολυ και κλεινεται περισσοτερο κ τις περισσοτερες φορες το βραδυ κατουριεται&#13;
+κανει παρεα με πιο μεγαλα παιδια ,υ&#13;
+συνεργασιμο παιδι πολυ ευαισθητο δεν δημιουργει προβληματα&#13;
+συμπασχει νοιαζεται για τα αλλα παιδακια &#13;
+δεν δημιουργει φασαριες</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>πιο μικρος ειχε προβλημα με αμυγδαλες κ ωτιτιδες μεχρι 4 περιπου τα τελευταια χρονια οχι τοσο [πολυ αρρωσταινει 1-2 φορες το χρονο ιωσεις απο το σχολειο το σεπτεμβριο πηρε αντιβιωση για το αυτακι του</personal_medical_history>
+        <family_medical_history>Please enter family medical history and hereditary predisposition</family_medical_history>
+        <level_of_health>1</level_of_health>
+        <conclusion>υψηλο επιπεδο υγειας </conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Please enter Peculiar symptoms, Rank the intensity of each symptom in scale from 1 (lowest) to 4 (highest)</peculiar>
+        <intense>κλειστος χαρακτηρας  3&#13;
+νοιαζεται για παιδακια 3&#13;
+δεν κανει φασαριες2&#13;
+δεν θα μιλησει αν τον αδικησουν 3&#13;
+νυχτερινη ενουριση μετα απο αγχος 4</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>MIND AILMENTS FROM RUDENESS OF OTHERS 3&#13;
+MIND-AILMENTS FROM ANGER 2&#13;
+MIND-AILMENTS FROM SUPRESSED ANGER 3&#13;
+BLADDER -URINATION-INVOLUNTARY NIGHT 4 &#13;
+MIND CARES FULL OF -OTHERW ABOUT 2&#13;
+GENERAL-FOOD AND DRINKS-SWEET DESIRE 2&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Please enter Differentiation of the remedies</remedies_differentiation>
+      <prescription>
+        <remedy>STAPHYSAGRIA </remedy>
+        <potency>1M</potency>
+        <regimen>εφαπαξ</regimen>
+        <other_notes>καλο επιπεδο υγειας,καθαρο φαρμακο </other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2015-03-11 08:00:00</followup_date>
+      <conv_med_presc>staphysagria 1m</conv_med_presc>
+      <lab_tests>
+        <desc>oxi</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>δεν εκανε αρχικη επιδεινωση&#13;
+η νυχτερινη ενουριση συνεχιζεται με την ιδια συχνοτητα περιπου σε διαστημα 2 μηνων 3 φορες &#13;
+οι γονεισ λενε οτι ειναι λιγο πιο ανοιχτοσ στην συμπεριφορα &#13;
+διαχειριζεται καλλιτερα τισ καταστασεις&#13;
+σε αγωνα ποδοσφαιρου δεν τον εβαλε να παιξει κα το βραδυ δεν ειχαν επεισοδιο και ηταν πιο χαλαρος το ξεχασε πιο γρηγορα </reaction>
+      <analysis>περιμενουμε εδειξε μια μικρη βελτιωση στην ψυχολογια οπως λενε οι γονεισ</analysis>
+      <conclusion>περιμενουμε </conclusion>
+      <repertorization>
+        <desc>το ιδιο </desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2015-07-08 08:00:00</followup_date>
+      <conv_med_presc>Please enter conventional medical prescriptions</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>σε διαστημα 2 μηνων περιπου μια φορα κατουρηθηκε &#13;
+ακολουθουν το προγραμμα για την νυχτερινη ενουρηση τους εγινε ρουτινα &#13;
+το παιδι ειναι πιο χαλαρο </reaction>
+      <analysis>ειναι σε καλο δρομο καλη αντιοδραση περιμενουμε </analysis>
+      <conclusion>περιμενουμε </conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>3</number>
+      <followup_date>2015-09-14 08:00:00</followup_date>
+      <conv_med_presc>δεν εγινε follow up 3 </conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Please enter Reaction to the prescription of the former consultation</reaction>
+      <analysis>Please enter Analysis of the reaction</analysis>
+      <conclusion>Please enter followup conclusion</conclusion>
+      <repertorization>
+        <desc>Please enter repertorization</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Please enter follow up remedy</remedy>
+        <potency>Please enter potency</potency>
+        <regimen>Please enter regimen</regimen>
+        <other_notes>Please enter other followup notes</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>EL4da0b3fcf9e5b611d530ec7e1f858739</ID>
+  <patient>
+    <case_date>2014-05-25 00:00:00</case_date>
+    <gender>female</gender>
+    <patient_initials>BO</patient_initials>
+    <age>21</age>
+    <circumstances>84 κιλά, 156 εκ, φοιτήτρια, από οικογένεια τριών παιδιών</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>από την αρχή εφηβείας</origin>
+        <causative_factors>όχι κάτι ιδιαίτερο</causative_factors>
+        <modalities>&gt;&gt; δροσερό αέρα 3, &lt;&lt; ζέστη 3</modalities>
+        <occurrence_time> &gt;&gt; με τη ροή 2</occurrence_time>
+        <body_side>χωρίς εντόπιση</body_side>
+        <appearence_frequency>σε κάθε έμμηνο ρύση,</appearence_frequency>
+        <pain_desc>σα μαχαριά 3, την αναγκάζει να διπλώνεται 2</pain_desc>
+        <complaint_ext>νεύρα 4 με την έμμηνο ρύση, βρίζει 3</complaint_ext>
+        <other_complaints></other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc> παυσίπονα για προεμηνορρυσιακό σύνδρομο</conv_med_presc>
+        <lab_tests>
+          <desc></desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc></pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>παυσίπονα στην εμμηνορυσία, εμβόλια σύμφωνα με το Εθνικό Πρόγραμμα εμβολιασμών</therapies_vaccination>
+          <traumas>δεν πέρασε στις Πανελλήνιες, φοιτά σε ιδιωτικό κολλέγιο που δεν είναι σίγουρη ότι της αρέσει</traumas>
+          <infections>ιώσεις</infections>
+          <other>παχύσαρκη 2</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα: αμυγδαλίτιδες, μέχρι πρόσφατα, εκζέματα, υπέρταση&#13;
+Πατέρας: βρογχίτιδες, αμυγδαλεκτομή</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>ζεσταίνεται 3</reactions>
+        <sleeping_habits>ήσυχος ύπνος, δε ή αρ ή μπρούμυτα, σε όλες τις πιθανές θέσεις</sleeping_habits>
+        <food_modalities>Επιθυμίες: όρεξη πολύ αυξημένη 4, ζυμαρικά 3, αυγά σφιχτά βρασμένα 3, ξύδι 3, γλυκά 3, κρέας 2, τυρί 3&#13;
+Απέχθειες: μπάμιες 2, λίπος 3</food_modalities>
+        <menstruation>κρατά αρκετές μέρες, αρχικά καφέ χρώμα μετά κόκκινο αίμα, σταματά για μία μέρα και ξαναέρχεται κόκκινο αίμα- μεταβάλλεται με τις μέρες 3, πονά σα μαχαιριά 3, έχει ναυτία 3, νεύρα 4, βρίζει 3&#13;
+&#13;
+Υπερσεξουαλική 3 </menstruation>
+      </physical>
+      <mental_emotional>άγχος για την υγεία της 2, φοβάται το σκοτάδι 3, τα φαντάσματα 3, τους δαίμονες 4, μην τρελαθεί 3, την μοναξιά 3, το θάνατο 3, σιχαίνεται 3, θέλει παρέα 3, ζηλεύει 4, κλαίει συχνά 2, τεμπέλα 2, συμπάσχει 2, αρέσει παρηγοριά 3</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>συχνές αμυγδαλίτιδες, τελευταία με υψηλό πυρετό πριν από 3 μήνες</personal_medical_history>
+        <family_medical_history>δεν υπάρχει στην οικογένεια ιστορικό δυσμηνόρροιας ή προεμμηνορυσιακού συνδρόμου, ούτε ιστορικό συναισθηματικο- διανοητικών ασθενειών</family_medical_history>
+        <level_of_health>6</level_of_health>
+        <conclusion>Η παθολογία είναι σε σωματικό αλλά και συναισθηματικό επίπεδο. Επειδή όμως κάνει υψηλούς πυρετούς και δεν υπάρχει κληρονομική προδιάθεση στα συμπτώματα, η πρόγνωση είναι καλή.</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>η ποιότητα της εμμήνου ρύσεως μεταβάλλεται 3</peculiar>
+        <intense>Επιθυμίες: όρεξη πολύ αυξημένη 4, ζυμαρικά 3, αυγά σφιχτά βρασμένα 3, ξύδι 3, γλυκά 3, κρέας 2, τυρί 3&#13;
+Απέχθειες: μπάμιες 2, λίπος 3&#13;
+&gt;&gt; δροσερό αέρα 3, &lt;&lt; ζέστη 3&#13;
+άγχος για την υγεία της 2, φοβάται το σκοτάδι 3, τα φαντάσματα 3, τους δαίμονες 4, μην τρελαθεί 3, την μοναξιά 3, το θάνατο 3, σιχαίνεται 3, θέλει παρέα 3, ζηλεύει 4, κλαίει συχνά 2, τεμπέλα 2, συμπάσχει 2, αρέσει παρηγοριά 3&#13;
+κρατά αρκετές μέρες, αρχικά καφέ χρώμα μετά κόκκινο αίμα, σταματά για μία μέρα και ξαναέρχεται κόκκινο αίμα- μεταβάλλεται με τις μέρες 3, πονά σα μαχαιριά 3, έχει ναυτία 3, νεύρα 4, βρίζει 3&#13;
+σα μαχαριά 3, την αναγκάζει να διπλώνεται 2&#13;
+&#13;
+Υπερσεξουαλική 3</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>1. 		MIND - MENSES - before - agg. 	4&#13;
+2. 		GENITALIA-FEMALE - MENSES - changeable in appearance 	4&#13;
+3. 		GENITALIA-FEMALE - MENSES - painful (Dysmenorrhoea) 	4&#13;
+4. 		GENITALIA-FEMALE - MENSES - copious 	3&#13;
+5. 		GENERALITIES - MENSES - during - amel. 	2&#13;
+6. 		MIND - IRRITABILITY - menses - before 	4&#13;
+7. 		MIND - RESTLESSNESS, nervousness - menses - before 	3&#13;
+8. 		MIND - QUARRELSOME - menses - during 	2&#13;
+9.		STOMACH - NAUSEA - menses - during 	3&#13;
+10.           ABDOMEN - PAIN - menses - during 	4&#13;
+11. 		ABDOMEN - PAIN - cutting - menses, during 	3&#13;
+12. 		MIND - CURSING 	3&#13;
+13. 		GENERALITIES - WARM - agg. 	3&#13;
+14. 		GENERALITIES - COLD - amel. 	3&#13;
+18. 		MIND - FEAR - death, of 	3&#13;
+15. 		MIND - FEAR - evil, of 	4&#13;
+16. 		MIND - FEAR - ghosts, of 	3&#13;
+17. 		MIND - FEAR - solitude, of 	2&#13;
+19. 		GENERALITIES - FOOD and DRINKS - pasta - desire 	4&#13;
+20. 		GENERALITIES - FOOD and DRINKS - eggs - desire - boiled - hard&#13;
+boiled 	2&#13;
+21. 		GENERALITIES - FOOD and DRINKS - lemons - desire 	3&#13;
+22. 		GENERALITIES - FOOD and DRINKS - cheese - desire 	3&#13;
+23. 		MIND - IRRITABILITY 	3&#13;
+24. 		MIND - JEALOUSY 	4&#13;
+25. 		MIND - LAZINESS 	3&#13;
+26. 		MIND - CONSOLATION - amel. 	3&#13;
+27. 		GENITALIA-MALE - SEXUAL desire - increased 	3&#13;
+28.           GENERALITIES - AIR - open - amel      3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>Pulsatilla: γιατί ζεσταίνεται, της αρέσει ο φρέσκος αέρας, θέλει παρηγοριά, έχει μεταβλητότητα στην έμμηνο ρύση, είναι υπερσεξουαλική, δε θέλει λίπος, φοβάται ότι θα τρελαθεί. Το φάρμακο ταιριάζει και στα σωματικά και στα ψυχοδιανοητικά συμπτώματα.&#13;
+Lachesis: γιατί βελτιώνεται με τη ροή ο πόνος, ζηλεύει, είναι ευερέθιστη, υπερσεξουαλική, ζεσταίνεται.&#13;
+Nux vomica: γιατί έχει νεύρα, βρίζει, είναι υπερσεξουαλική, ζηλεύει- ωστόσο ζεσταίνεται- ενώ η Nux Vomica κρυώνει και δεν είναι τεμπέλα.</remedies_differentiation>
+      <prescription>
+        <remedy>Pulsatilla</remedy>
+        <potency>1Μ, 10Μ</potency>
+        <regimen>1η μέρα 1Μ&#13;
+2η μέρα 10Μ&#13;
+από την 3η μέρα 6x για 2 μήνες</regimen>
+        <other_notes>Επιλέγχθηκε υψηλή δυναμοποίηση γιατί συμμετέχει το ψυχοδιανοητικό επίπεδο.</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up : 17/8/2015&#13;
+&#13;
+ουδέν</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Είναι πιο ήρεμη και έχει καλύτερη ενέργεια. Οι περίοδοί της είναι πιο εύκολες - πήρε 2 φορές μόνο παυσίπονο. Ίσως να μη σκέφτεται φαντάσματα ή το "κακό" όπως πριν.&#13;
+Ωστόσο τώρα έχει αμυγδαλίτιδα με πόνο και πυρετό μέχρι 39ο C.</reaction>
+      <analysis>Πολύ καλή αντίδραση στο φάρμακο αφού έχει καλύτερη ενέργεια και εμφανίσθηκε και οξύ νόσημα. </analysis>
+      <conclusion>Η νέα ρούμπρικα δεν αλλάζει την εικόνα του φαρμάκου.</conclusion>
+      <repertorization>
+        <desc>THROAT - INFLAMMATION - Tonsils (Tonsillitis) 3</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Pulsatilla</remedy>
+        <potency>1 M</potency>
+        <regimen>1M ανά 12 ωρο, για 1 μέρα, μέχρι ύφεσης των συμπτωμάτων</regimen>
+        <other_notes>Η αμυγδαλίτιδα υποχώρησε και η ασθενής συνέχισε το Pulsatilla 6x.</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date></followup_date>
+      <conv_med_presc>Follow up: 20/10/2014&#13;
+&#13;
+Pulsatilla 6x</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Είναι πολύ καλύτερα και με την περίοδό της και με τη διαθεσή της. Έχει καλή ενέργεια, διεκπεραιώνει τις υποθέσεις της και προσπαθεί να χάσει βάρος. Δεν ξαναέκανε αμυγδαλίτιδα.&#13;
+&#13;
+Ωστόσο ενεργοποιήθηκε η κύστη κόκκυγος που είχε εμφανισθεί πριν 4 χρόνια και είχε πάρει αντιβίωση για να υποχωρήσει. Τώρα έχει ανοιχτή πληγή με εκροή πύου 3, σαν απόστημα και πόνο 3.</reaction>
+      <analysis>Η επαναφορά παλιού συμπτώματος δείχνει καλή πορεία της θεραπείας.</analysis>
+      <conclusion>Οι νέες ρούμπρικες δεν αλλάζουν την εικόνα του φαρμάκου.</conclusion>
+      <repertorization>
+        <desc>BACK - PAIN - Coccyx    3&#13;
+GENERALITIES - ABSCESSES   3&#13;
+&#13;
+και όλες οι προηγούμενες ρούμπρικες- αφού είναι ίδια τα συμπτώματα, σε μικρότερη ένταση</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>Pulsatilla </remedy>
+        <potency>1M</potency>
+        <regimen>1η μέρα 1Μ</regimen>
+        <other_notes>Η ασθενής δε χρειάσθηκε άλλη δόση γιατί είχε γρήγορη ανταπόκριση στην πρώτη δόση.&#13;
+Μέχρι σήμερα τηλεφωνικά αναφέρει ότι σταθερά καλά.</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

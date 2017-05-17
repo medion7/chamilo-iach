@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <ID>ELb2e6ca5b26684ff9ac4ae58c4991119e</ID>
+  <patient>
+    <case_date>2016-02-29 22:00:00</case_date>
+    <gender>male</gender>
+    <patient_initials>A.K.</patient_initials>
+    <age>54</age>
+    <circumstances>Παντρεμένος , 1 τέκνο,καπνιστής,δημόσιος υπάλληλος</circumstances>
+  </patient>
+  <new_patient>
+    <description>
+      <main_complaint>
+        <origin>Αλλαγή τμήματος εργασίας η οποία δεν ήταν επιθυμητή</origin>
+        <causative_factors>Διαφωνίες με την προιστάμενη αρχή στον τρόπο εργασίας,έντονο .άγχος για τη διαικπεραίωση της εργασίας του στο νέο τμήμα.</causative_factors>
+        <modalities>Επιδείνωση κυρίως στο χώρο εργασίας , και με τα κρυά φαγητά</modalities>
+        <occurrence_time>Δεν υπάρχει διαφοροποίηση, εργάζεται πρωινές, μεσημβρινές ή νυχτερινές βάρδιες.</occurrence_time>
+        <body_side>Επιγάστριο</body_side>
+        <appearence_frequency>3-4 φορές την εβδομάδα</appearence_frequency>
+        <pain_desc>Πόνος και αίσθηση ότι το στομάχι διατείνεται</pain_desc>
+        <complaint_ext>Οχι</complaint_ext>
+        <other_complaints>Ισχιαλγία (σποραδικά) ΑΡ</other_complaints>
+      </main_complaint>
+      <diagnosis>
+        <conv_med_presc>Επιγαστραλγία με ερυγές από τριμήνου που άλλοτε τον ανακουφίζουν κι άλλοτε όχι &#13;
+Penrazol , maalox, depon</conv_med_presc>
+        <lab_tests>
+          <desc>Οχι</desc>
+          <file></file>
+        </lab_tests>
+        <pre_homeo_presc>οχι</pre_homeo_presc>
+      </diagnosis>
+      <medical_history>
+        <personal>
+          <therapies_vaccination>Εμβόλια όλα &#13;
+Η παρούσα αγωγή &#13;
+και αντιβιοτικά ενίοτε </therapies_vaccination>
+          <traumas>Κάταγμα δε κερκίδας στη παιδική ηλικία ,&#13;
+Στεναχώρια μετά από χωρισμό μετά από σοβαρή σχέση προ 15 ετών</traumas>
+          <infections>Οχι</infections>
+          <other>Οχι</other>
+        </personal>
+        <family>
+          <diseases>Μητέρα ευέρεθιστο έντερο&#13;
+Πατέρας ΑΥ , ΣΝ &#13;
+</diseases>
+        </family>
+      </medical_history>
+      <physical>
+        <reactions>Ζεσταίνεται (3)</reactions>
+        <sleeping_habits>Στο πλάι</sleeping_habits>
+        <food_modalities>Επιθυμεί ψάρι(2) ,γλυκά περισσότερο από παλιά(3),παγωτό(2),αλμυρά τυριά(3),κρέας (2), λίπος(2),ψωμί(1)&#13;
+Απέχθεια γάλα(2) .Τελευταία τα γλυκά και το παγωτό του προκαλούν δυσανεξία ή και πόνο στο στομάχι(2)&#13;
+Δίψα κ.φ..Επιδείνωση από κρύο φαγητό(2)</food_modalities>
+        <menstruation></menstruation>
+      </physical>
+      <mental_emotional>'Αγχος πάρα πολύ σε όλες τις δραστηριότητες κυρίως στη δουλειά του(3),άγχος όταν πρόκειται να διεκπεραιώσει μια υποχρέωση(3), τάση  να βιαιοπραγήσει  ή και να πετάξει αντικείμενα εναντίον της προϊσταμένης κατά τη διάρκεια των "διενέξεων" τους(3)&#13;
+ Φοβάται για την υγεία του ότι με αυτές τις φασαρίες θα πάθει κάτι(2).  Φόβος ύψους(2), ατυχήματος(2).</mental_emotional>
+    </description>
+    <analysis>
+      <prognosis>
+        <personal_medical_history>Εμφανίζει οξέα εκ του αναπνευστικού με πυρετό κάθε 2-3 χρόνια που φτάνει 39 </personal_medical_history>
+        <family_medical_history>Η οικογενειακή επιβάρυνση αφορά κυρίως την ΣΝ του πάτερα του </family_medical_history>
+        <level_of_health>3</level_of_health>
+        <conclusion>Περιμένουμε επιδείνωση κατά τις πρώτες μερες,υψηλό επίπεδο υγείας</conclusion>
+      </prognosis>
+      <symptoms_selection>
+        <peculiar>Η παρόρμηση να "επιτεθεί" στην προϊσταμένη(3), , άγχος προσμονής επικείμενου γεγονότος(3) επιδείνωση από τα γλυκά ενώ τα επιθυμεί(2),απέχθεια στο γάλα(2),φόβος για ατύχημα(2)</peculiar>
+        <intense>Παρόρμηση (3), άγχος (3) ,άγχος προσμονής(3),επιθυμία για γλυκά(3),αλμυρό ,τυρί(3),ζεσταίνεται(3)</intense>
+      </symptoms_selection>
+      <repertorization>
+        <desc>impulsive ­ ( 3),anxiety(3), anxiety from anticipation(3),anxiety about health(2),fear about high places(2), fear about accidents(2)&#13;
+warm aggr.(3), desires:fish(2),sweets(3), sweets aggr.(2),ice;cream( 2),salty cheese(3),meat(2),fat(2,bread(1),avers.milk(2),cold food aggr.(2),eructations(2),stomach distention(2)&#13;
+&#13;
+&#13;
+&#13;
+</desc>
+        <file_url></file_url>
+      </repertorization>
+      <remedies_differentiation>οχι,η παρόρμηση που έχει ,το μεγάλο άγχος προσμονής, η επιθυμία για γλυκά που το επιδεινώνουν,για αλμυρά οι φόβοι του,ζεσταίνεται,οι ερυγές οδηγούν στο arg.nitricum.(Δ.Δ lycopodium,phosphorus,sulphur)</remedies_differentiation>
+      <prescription>
+        <remedy>argentum nitricum</remedy>
+        <potency>1M</potency>
+        <regimen>1 cap 1 φορά</regimen>
+        <other_notes>Οχι</other_notes>
+      </prescription>
+    </analysis>
+  </new_patient>
+  <followups>
+    <followup>
+      <number>1</number>
+      <followup_date>2016-02-29 21:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc>Δεν έχει κάνει γαστροσκόπηση.</desc>
+        <file></file>
+      </lab_tests>
+      <reaction>Συνεχής πόνος στο στομάχι τις δύο πρώτες μέρες με φούσκωμα ,κατόπιν βελτίωση.&#13;
+</reaction>
+      <analysis>Επιθυμητή επιδείνωση</analysis>
+      <conclusion>Το φάρμακο είναι σωστό</conclusion>
+      <repertorization>
+        <desc>anxiety (2) ,impulsive (1),fear of accidents(2),des.sweets(2),cheese(2) fear of high places (1),</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>αναμονή</other_notes>
+      </prescription>
+    </followup>
+    <followup>
+      <number>2</number>
+      <followup_date>2016-02-29 21:00:00</followup_date>
+      <conv_med_presc>οχι</conv_med_presc>
+      <lab_tests>
+        <desc></desc>
+        <file></file>
+      </lab_tests>
+      <reaction>μετά την αρχική επιδείνωση ακολουθεί σταδιακή βελτίωση</reaction>
+      <analysis>4 μήνες μετά αναφέρει ότι είναι πολύ καλά ,με καλή διαχείριση των ζητημάτων στην εργασία του</analysis>
+      <conclusion>πολύ καλή πορεία</conclusion>
+      <repertorization>
+        <desc>anxiety(1), impulsive(0),fears about health,accidents high places(1), des,sweets(2) no aggravation by them,stomach distention,eructations(0) warm aggr.(3)</desc>
+        <file_url></file_url>
+      </repertorization>
+      <prescription>
+        <remedy>οχι</remedy>
+        <potency>οχι</potency>
+        <regimen>οχι</regimen>
+        <other_notes>οχι</other_notes>
+      </prescription>
+    </followup>
+  </followups>
+</case>

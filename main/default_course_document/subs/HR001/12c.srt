@@ -1,0 +1,1853 @@
+1
+00:00:19,375 --> 00:00:34,000
+Želim nastaviti sa strategijam koje moramo slijediti pod različitim okolnostima.
+
+2
+00:00:39,469 --> 00:00:51,667
+Ponekad propisujemo na temelju jednog simptoma, ponekad na temelju psihičkog ustroja,
+
+3
+00:00:51,771 --> 00:01:03,042
+a ponekad na temelju drugih stvari. 
+ Postoje različite strategije koje imaju logiku iza sebe.  
+
+4
+00:01:04,354 --> 00:01:12,917
+Koja je prva strategija koju morate slijediti u svakom slučaju? 
+ 
+
+5
+00:01:14,750 --> 00:01:28,417
+Prva je ona koju Hahnemann spominje. A on kaže, totalitet simptoma,  
+
+6
+00:01:29,708 --> 00:01:34,646
+Nađite totalitet i dajte
+ lijek koji će pokriti totalitet.  
+
+7
+00:01:34,750 --> 00:01:45,958
+To je kao strategija - prva 
+strategija koju uvijek slijedimo. 
+
+8
+00:01:47,927 --> 00:01:59,104
+Slijedili ste tu strategiju, uzeli ste sve simptome i repertorizirali 
+
+9
+00:01:59,208 --> 00:02:12,531
+i shvatili ste da vam nije dala odgovor. Što ćete učiniti?
+
+10
+00:02:13,802 --> 00:02:25,250
+Uzeli ste totalitet, imate 20 simptoma i ako uzmete njih 16 i dat ćete Sepiju.
+
+11
+00:02:27,594 --> 00:02:36,906
+Ali ako uzmete ostatat 4 plus 11 
+dat ćete NAT-M.  
+
+12
+00:02:37,687 --> 00:02:53,219
+Ako uzmete od 20 - 8 dat ćete PHOS., A ako uzmete 5 dat ćete MED.  
+
+13
+00:02:54,979 --> 00:03:00,760
+Možete reći SEP. je lijek 
+zato što pokriva većinu simptoma.  
+
+14
+00:03:00,865 --> 00:03:09,896
+Ali ćete često reći da to nije SEP.
+ Zašto? Zato što imate informacije 
+
+15
+00:03:10,000 --> 00:03:19,083
+iz Materije Medice koja će pokazati da slučaj ne izgleda kao SEP.  
+
+16
+00:03:20,417 --> 00:03:30,208
+Na što mislimo kad kažemo da ne izgleda kao SEP? To znači da u sliku uvodimo drugi faktor, 
+
+17
+00:03:30,313 --> 00:03:42,958
+novi faktor za analizu slučaja. Imamo totalitet da, ali taj totalitet je ravan, 
+
+18
+00:03:43,063 --> 00:03:54,333
+jednodimenzionalna simptomatologija koja će nas često
+ krivo navesti na lijek koji nije točan lijek. 
+
+19
+00:03:55,354 --> 00:04:10,781
+Stoga odustaite od strategije. U redu, Hahnemann je rekao, zabilježite totalitet simptoma, 
+
+20
+00:04:10,885 --> 00:04:21,073
+ali mi totalitet nije dao riješenje za slučaj, 
+što ću učiniti? 
+
+21
+00:04:21,177 --> 00:04:29,406
+Uvrstit ću još jedan element, informaciju koji imam u slici i vidjet ću da li 
+
+22
+00:04:29,510 --> 00:04:41,896
+kombinacija te strategije s drugom strategijom koju nazivamo esencijom ili suštinom, da li će ta kombinacija 
+
+23
+00:04:42,000 --> 00:04:59,813
+tih dviju dati odgovor na problem. I mnogo puta sam otkrio da suština 
+
+24
+00:04:59,917 --> 00:05:12,542
+odgovara PHOS. a ne SEP. , ne NAT-M. Usprkos činjenici da 
+
+25
+00:05:12,646 --> 00:05:22,052
+imamo ravnu simptomatologiju, više za SEP. ili NAT-M, ali ja propišem PHOS. 
+
+26
+00:05:22,156 --> 00:05:34,625
+zato što pacijent ima sliku PHOS. Ovo ste učinili svjesno ili nesvjesno, 
+
+27
+00:05:34,729 --> 00:05:41,646
+ ali to je ono što radite dok analizirate slučaj.  
+
+28
+00:05:41,750 --> 00:06:01,854
+Ako uzmemo kao primjer, 
+dijete od jučer,
+
+29
+00:06:05,531 --> 00:06:18,802
+ ako smo uzeli simptome djeteta,  došli smo do CHAM., CINE, različitih lijekova. 
+
+30
+00:06:21,240 --> 00:06:33,469
+Ono što smo učinili je da zapravo nemamo simptome CALC. PHOSPHORICE.Rekli smo,  
+
+31
+00:06:33,573 --> 00:06:50,354
+sliku koja nam se prikazuje, suština te slike, mentalno-emocionalna slika tog dječaka je CALC.-P. 
+
+32
+00:06:50,458 --> 00:07:07,417
+Ignoriramo večinu totaliteta i propisujemo samo na temelju suštine. U ovom slučaju propisujemo samo na temelju suštine.
+
+33
+00:07:08,771 --> 00:07:22,531
+Vratimo se opet na slučaj od jučer gdje smo uzeli slučaj lijepe djevojke i rekli da je slika PHOSPHORUSA.  
+
+34
+00:07:24,333 --> 00:07:33,188
+Ako ćete uzeti totalitet simptoma, vidjet ćete da je to opet PHOS.  
+
+35
+00:07:33,292 --> 00:07:43,333
+Suština opet ukazuje na PHOS. i stoga ćete reći s velikom sigurnošću da je lijek 
+
+36
+00:07:43,438 --> 00:07:52,094
+koji će izliječiti tu osobu, koji pokriva i totalitet i esenciju, je PHOS.  
+
+37
+00:07:52,198 --> 00:08:06,406
+I tada imate veliko povjerenje u taj lijek jer on  pokriva suštinu, esenciju i ukupnost, totalitet za 
+
+38
+00:08:06,510 --> 00:08:17,365
+PHOS. Pije puno vode, prazan osjećaj u želucu, spava na desnoj strani itd.
+
+39
+00:08:17,469 --> 00:08:25,698
+Svi ti ravni simptomi koje repertorizirate, doći će na PHOS. ali isto tako 
+
+40
+00:08:25,802 --> 00:08:35,792
+ona opisuje svoju empatiju, element patnje zbog patnje drugih toliko jako. 
+
+41
+00:08:35,896 --> 00:08:47,333
+Također iznenadan kolaps je PHOS. Ovo je prekrasan slučaj PHOS. 
+
+42
+00:08:53,313 --> 00:08:59,802
+- Zašto onda trebamo totalitet simptoma?
+
+43
+00:09:09,771 --> 00:09:20,625
+- Možda nisam bio jasan. Rekao sam
+ da će vam totalitet dati lijek. 
+
+44
+00:09:20,729 --> 00:09:28,292
+ Imate totalitet koji vam ukazuje 
+na lijek, jasno, savršeno i vi ga date.  
+
+45
+00:09:29,313 --> 00:09:37,740
+Ima slučajeva u kojima ova strategija neće ukazati na lijek. Uzet ćete simptome 
+
+46
+00:09:37,844 --> 00:09:46,208
+ali nijedan lijek neće biti jasan. U tim
+ slučajevima upotrijebit ćete drugi faktor a to je esencija.
+
+47
+00:09:47,000 --> 00:09:58,958
+I tada ćete gledati iz te točke. Iako ćete imati slučajeve koji neće biti riješeni niti kroz totalitet niti suštinu. 
+
+48
+00:09:59,063 --> 00:10:10,417
+To znači da nemate jasnu esenciju a totalitet odgovara 10 različitih lijekova. Što ćete onda učiniti?
+
+49
+00:10:11,979 --> 00:10:28,177
+ To je vrijeme kad ćete slijediti  osnovne, ono što zovemo ključnim značajkama.  
+
+50
+00:10:36,802 --> 00:10:51,854
+Što to znači? To znači da u slučaju dječaka kojeg smo vidjeli, naposlijetku je ključna značajka, 
+
+51
+00:10:51,958 --> 00:10:58,042
+ta koja je jaka za MED. će nas odvesti da propišemo MED. u tom slučaju.  
+
+52
+00:10:58,573 --> 00:11:05,313
+Zato što totalitet simptoma nam neće dati jasnu sliku, esencija nije prisutna,
+
+53
+00:11:05,417 --> 00:11:11,573
+ imamo snažnu osnovnu značajku i propisat ćemo lijek na temelju te jake značajke.  
+
+54
+00:11:19,000 --> 00:11:30,823
+Ono što želim pojasniti je da morate slijediti jednu strategiju za drugom, a ne: 
+
+55
+00:11:30,927 --> 00:11:39,135
+“Ja propisujem na temelju osnovne značajke”, “George propisuje samo na temelju esencije”, samo na temelju ovog ili onog.
+
+56
+00:11:39,240 --> 00:11:49,854
+Ne.  To je stvar sistematskog razmišljanja analize slučaja. Sistematsko razmišljanje, napravite svoju zadaću, 
+
+57
+00:11:49,958 --> 00:11:56,313
+napravite repertorizaciju, razmišljate o tome, 
+ da li je to ovaj ili onaj lijek? 
+
+58
+00:11:56,417 --> 00:12:05,375
+Nije jasno ali taj slučaj 
+ meni liči na NUX VOMICU.  
+
+59
+00:12:06,260 --> 00:12:23,521
+Imam 5 simptoma NUX VOMICE, ok uzmete ga. To je ideja. Ali ponekad totalitet dolazi  kroz sve to i
+
+60
+00:12:25,354 --> 00:12:34,729
+li ključne simptome lijeka, ok date ga. Zaboravite na esenciju, zaboravite na sve drugo. 
+
+61
+00:12:36,000 --> 00:12:50,719
+Spuštate se dolje kroz strategije i onda dosegnete točku kod nekih slučajeva gdje ne možete 
+
+62
+00:12:50,823 --> 00:12:59,417
+pronaći rješenje kroz totalitet, esenciju i ključne značajke.  To su slučajevi gdje ste propisali nekoliko lijekova. 
+
+63
+00:13:01,917 --> 00:13:12,427
+Postoji paragraf kod Hahnemanna, 
+on kaže, u p. 153 u kojem, ok za totalitet i esenciju. 
+
+64
+00:13:12,531 --> 00:13:27,917
+O ključnim značajkama piše u p. 153. Kaže, ti simptomi trebaju biti uzeti  
+
+65
+00:13:28,021 --> 00:13:38,667
+u obzir ako su čudni, rijetki i posebni (ČRP). To su ključne značajke.
+
+66
+00:13:39,292 --> 00:13:50,208
+Ro je ono što nazivamo ključnim značajkama. SRP ili ČRP za taj lijek. Koje su to? 
+
+67
+00:13:50,313 --> 00:14:00,365
+To su stvari koje navodimo u Materiji Medici. U Materiji Medici  nastojimo kombinirati 
+
+68
+00:14:00,469 --> 00:14:11,365
+esenciju s ključnim značajkama, in a taj način dajemo informaciju koja je kompaktna za svaki lijek i kad
+
+69
+00:14:11,469 --> 00:14:21,719
+ je vidite kod osobe, podsjetit će vaše sjećanje. Ovdje Hahnemann naglašava ideju  
+
+70
+00:14:21,823 --> 00:14:43,510
+o uzimanju u obzir ključnih značajki. 
+ Kod djeteta s bronhitisom,  
+
+71
+00:14:44,802 --> 00:14:59,208
+ključna značajka koja je čudna, rijetka i posebna je za MEDORRHINUM. Ali imate utisak 
+
+72
+00:14:59,313 --> 00:15:03,448
+o tom djetetu i dat ćete taj lijek. 
+
+73
+00:15:03,552 --> 00:15:13,760
+ Što se tiče esencije, nezadovoljstvo, ujutro pokazuje nezadovoljstvo. 
+
+74
+00:15:13,865 --> 00:15:31,031
+Vidjet ćete, ako napredujete više i više, dobivate više iskustva, vidjet ćete razliku između 
+
+75
+00:15:31,135 --> 00:15:41,427
+nezadovoljstva CHAMOMILLE, 
+nezadovoljstva ANTIMONIUMA CRUDUMA,  
+
+76
+00:15:41,531 --> 00:15:49,250
+nezadovoljstvo CALCAREE PHOSPHORICE i nezadovoljstvo CINE. Vidjet ćete razliku koju je 
+
+77
+00:15:49,354 --> 00:16:07,667
+čak i meni teško definirati. Kod CHAMOMILLE će biti element malicioznosti,  zlonamjernosti. 
+
+78
+00:16:13,021 --> 00:16:35,563
+Dijete ima pakost i agresivnije je. Probat ćete staviti stetoskop, 
+
+79
+00:16:39,927 --> 00:16:46,292
+CHAM. dijete će reagirati na taj način. 
+
+80
+00:16:46,396 --> 00:16:49,385
+Reći ćete joj da je dobra, ….to je ono što zovemo esencijom. 
+
+81
+00:16:58,906 --> 00:17:08,083
+Reći ćete da to niste vidjeli. Nezadovoljstvo i jadikovanje. 
+
+82
+00:17:11,219 --> 00:17:33,781
+Hajdemo van, CALC.PHOS. Idemo hodati, 
+hoćeš van? Ne. To je drugačije.  
+
+83
+00:17:33,885 --> 00:17:47,240
+I jedan i drugi lijek imaju nezadovoljstvo, ali postoje razlike.  
+
+84
+00:17:50,333 --> 00:18:07,490
+CINA nema jadikovanje. Ona ima agresiju i ne zna što hoće.  
+
+85
+00:18:07,594 --> 00:18:21,552
+Kapricioznost. Daj mi ovo, 
+uzme pa baci.  
+
+86
+00:18:29,729 --> 00:18:41,250
+Vrlo je zanimljivo da imamo žive slučajeve 
+gdje dobijete osjećaj za svaki lijek.  
+
+87
+00:18:50,198 --> 00:18:57,646
+Element agresivnosti raste i onda idete prema drugom lijeku. Vidite element
+
+88
+00:18:57,750 --> 00:19:07,979
+ jadikovanja i odete na drugi lijek, vidite zatim element kapricioznosti, što vas odvede na drugi lijek.  
+
+89
+00:19:08,083 --> 00:19:17,313
+Svi su ti lijekovi blizu jedan drugome i teško ih je procijeniti. 
+
+90
+00:19:30,865 --> 00:19:48,406
+Što se tiče praktičnog kuta gledanja. što morate učiniti? Postoje neki slučajevi 
+
+91
+00:19:48,510 --> 00:19:53,604
+gdje ste propisali na temelju totaliteta SEP, propisali ste NAT-M, otišli ste na PHOS,   
+
+92
+00:19:53,708 --> 00:20:10,521
+propisali ste MED. zbog položaja, ništa. i onda otkrijete da je taj slučaj imao nezgodu 
+
+93
+00:20:10,625 --> 00:20:28,333
+prije 15 godina i da je imao potres mozga, imao je par simptoma ARNICE, ne biste nikad pomislili na ARN. 
+
+94
+00:20:28,437 --> 00:20:43,896
+jer su samo 2 od 20 simptoma ARNICE ali je uzročni faktor jasan i idete prema uzroku koji može 
+
+95
+00:20:44,000 --> 00:20:52,115
+zahtjevati samo jednu informaciju koja ne pokriva totalitet niti pokriva esenciju. 
+
+96
+00:20:52,219 --> 00:21:02,521
+Nema ključnih značajki ali postoji jasan uzrok nakon te nezgode, tada im je krenula glavobolja.  
+
+97
+00:21:02,625 --> 00:21:12,208
+Glavobolje nemaju sliku ARNICE. Glavobolje mogu imati sliku SEPIJE, 
+
+98
+00:21:12,313 --> 00:21:23,375
+ili sliku NAT-M, ili sliku PHOS. Ipak ARNICA će djelovati.  
+
+99
+00:21:24,958 --> 00:21:43,292
+Znate priču s pijetlom? Ozljeda mozga? Pijetao koji je vraćen u život. Uzrok.  
+
+100
+00:21:51,875 --> 00:22:03,604
+Žena koja je postala histerična i dobila je histeričan napadaj i jezik joj se okrenuo pa je ostala bez svijesti.  
+
+101
+00:22:03,708 --> 00:22:09,531
+Date IGN. i vrati se u život. Znate to.
+
+102
+00:22:16,313 --> 00:22:29,417
+Kad pričamo o esenciji uglavnom govorimo o mentalno-emocionalnoj slici, o sklopu.  
+
+103
+00:22:30,469 --> 00:22:38,854
+Ponekad idete po redu i ne možete naći lijek bez obzira na to što ste prošli 
+
+104
+00:22:38,958 --> 00:22:45,104
+sve strategije. Još uvijek ne možete naći lijek. 
+
+105
+00:22:46,333 --> 00:23:07,000
+Peta je strategija ići na  bitno. Bitno je vrlo važna strategija. 
+
+106
+00:23:12,219 --> 00:23:16,688
+Što je bitno? 
+
+107
+00:23:27,042 --> 00:23:37,563
+-Želim pitati o četvrtoj točki, Rekli ste, glavobolje mogu biti uzrokovane nezgodom, 
+
+108
+00:23:37,667 --> 00:23:51,469
+ali glavobolje često imaju veze sa zubima. Da li ikad pomišljate na zube? 
+
+109
+00:23:52,438 --> 00:24:02,448
+- Ovo je ono što nazivamo uzročnim faktorom. 
+Uzrok su zubi.  
+
+110
+00:24:02,552 --> 00:24:09,313
+-Ne, pitam jeste li ikad pomislilil da 
+ bi mogao biti problem sa zubima?
+
+111
+00:24:09,417 --> 00:24:20,563
+-  Ne, ali sam čuo druge koji su to vidjeli, 
+izvade zube i nastupi poboljšanje. 
+
+112
+00:24:20,667 --> 00:24:27,708
+Također sam čuo da su mnogi izvadili zube bez poboljšanja.  
+
+113
+00:24:29,260 --> 00:24:35,229
+- Ako izvadite sve zube…
+ -Ne sve, samo one koji nisu dobri. 
+
+114
+00:24:35,333 --> 00:24:43,927
+ Ja sam to učinila jer sam zubar, 
+i primjetila sam promjenu.  
+
+115
+00:24:44,375 --> 00:24:55,031
+- vidio sam slučajeve s trigeminalnom neuralgijom npr. gdje su svi zubi izvađeni van.  
+
+116
+00:24:55,135 --> 00:25:04,490
+Bez ikakvog efekta. Dođu i ispričaju priču. Čujemo priče koje su neuspješne. 
+
+117
+00:25:04,594 --> 00:25:12,854
+ Jer ako su uspješne, ne čujemo ih, ne dođu k nama.  
+
+118
+00:25:12,958 --> 00:25:22,448
+Izvadili su mi zub, mislili su da je zub, izvadili su 1,2,3 bez efekta. Izvadili su sve zube. 
+
+119
+00:25:22,552 --> 00:25:36,563
+Sjećam se bar dva slučaja gdje su izvadili sve zube, bez efekta. Stoga će reći, na primjer,
+
+120
+00:25:36,667 --> 00:25:47,188
+ako imate amalgamske plombe, živu, to može imati efekta. Zamijenite zube zlatom, 
+
+121
+00:25:47,292 --> 00:26:01,292
+vidio sam neke slučajeve. Ali nisam ovo vidio, 
+promijenio sam zube, bez efekta. Ali kao što rekoh vidimo neuspjehe. 
+
+122
+00:26:01,396 --> 00:26:13,292
+Čujem iz stručnih časopisa, pisali su o tome, da kad to naprave, da ima poboljšanja i vjerujem u to.  
+
+123
+00:26:13,396 --> 00:26:21,719
+Ali ne zaboravite da je moje iskustvo da vidim neuspjehe. One koji su doživjeli neuspjeh, oni dolaze na tretman.  
+
+124
+00:26:21,823 --> 00:26:31,750
+"Kažu, napravio sam ovo, ono. Možete li vi nešto učiniti? " To su slučajevi koje 
+sam ja vidio. 
+
+125
+00:26:33,594 --> 00:26:56,542
+ S ovom strategijom mi tražimo bitna, osnovna obilježja lijeka.
+
+126
+00:26:56,646 --> 00:27:04,490
+Kad pišem Materiju Medicu, postoji dio gdje pišem o bitnim obilježjima.  
+
+127
+00:27:04,594 --> 00:27:13,625
+Kod bitnih obilježja ne opisujem samo esenciju nego opisujem, posebno za male lijekove,
+
+128
+00:27:13,729 --> 00:27:18,240
+ kombinaciju patologija. 
+
+129
+00:27:26,313 --> 00:27:54,438
+To znači  - netko tko je patio puno od upale uha a u isto vrijeme vidite probleme sa zubnim mesom, 
+
+130
+00:27:57,000 --> 00:28:12,958
+krvarenje, povlačenje mesa itd.  Činjenica da imamo lijek koji koncentrira svoje djelovanje 
+
+131
+00:28:13,063 --> 00:28:24,406
+na uho i na zubno meso, možemo propisati lijek prema osnovnim obilježjima tog lijeka.  
+
+132
+00:28:24,510 --> 00:28:36,094
+Koji je to lijek? MERCURIUS SOLUBILIS je glavni lijek na koji ćete pomisliti, usprkos činjenici 
+
+133
+00:28:36,198 --> 00:28:47,469
+da ako uzmete detalje o simptomima, MERCURIUS neće ispasti u repertorizaciji, ali s obzirom da je kombinacija 
+
+134
+00:28:47,573 --> 00:28:57,219
+patologije za MERC., naposlijetku ćete ga propisati i vidjeti rezultate. 
+
+135
+00:28:58,510 --> 00:29:28,729
+Dat ću Vam drugi primjer. promuklost grla zajedno s efektom na hrskavicu zgloba,  
+
+136
+00:29:42,354 --> 00:29:47,625
+ARGENTUM METALLICUM.  
+
+137
+00:29:57,438 --> 00:30:09,042
+Kako učite Materiju Medicu,  Na taj ćete način riješiti mnogo slučajeva u kojima ćete tražiti mentalnu patologiju.
+
+138
+00:30:09,844 --> 00:30:17,354
+Nema mentalne patologije. Zašto tražiti totalitet? Nema totaliteta. Totalitet 
+ daje različite mogućnosti. 
+
+139
+00:30:18,667 --> 00:30:34,219
+ Nema posebnih ključnih karakteristika. Ali činjenica da imate bitna obilježja, ako imate kožnu erupciju i čir na želucu,
+
+140
+00:30:35,531 --> 00:30:41,510
+ na koje ćete lijekove prvo pomisliti?  
+
+141
+00:30:43,802 --> 00:30:52,177
+ANTIMONIUM CRUDUM, GRAPHITES, 
+KALI BICHROMICUM, DULCAMARA, 
+
+142
+00:30:52,906 --> 00:31:04,854
+odmah će doći lijekovi. Imat ćete slučaj koji će reći, “krvarim iz želuca. 
+
+143
+00:31:04,958 --> 00:31:34,833
+Bio sam 5 puta u bolnici zbog krvarenja svog čira”, a u isto vrijeme će vam dati informaciju da
+
+144
+00:31:49,417 --> 00:31:59,771
+ ima masnu degeneraciju jetre, masnu infiltraciju. 
+
+145
+00:32:09,625 --> 00:32:25,906
+ Lijek koji pokriva jetru i u isto vrijeme ima lako krvarenje je PHOSPHORUS.  
+
+146
+00:32:33,417 --> 00:32:44,729
+Činjenica da imate patologiju, 
+ koncentrirajte se na glavnu patologiju.  
+
+147
+00:32:45,750 --> 00:33:04,938
+Imate nekoga tko ima nateknute žljezde, vratne žljezde, submaksilarne, ingvinalne natečene žljezde, 
+
+148
+00:33:05,042 --> 00:33:27,313
+i ako vam kažu da imaju i hipotireozu, štitna žljezda je usporena i osoba postaje pretila,
+
+149
+00:33:27,417 --> 00:33:32,104
+ na koji ćete lijek pomisliti? 
+
+150
+00:33:40,135 --> 00:33:56,073
+Ne. CALC. CARB. Deblja se, hipotireoza, natečene žljezde.  
+
+151
+00:33:56,177 --> 00:34:18,865
+Ako su žljezde natečene, tvrde i natečene i druga patologija je vrtoglavica, omaglica, to je CONIUM. To je ideja. 
+
+152
+00:34:20,687 --> 00:34:33,604
+Onda je vrlo važno da vaši umovi razmišljaju tako i zanemare ponekad totalitet.  
+
+153
+00:34:33,708 --> 00:34:50,542
+koji će vam ponekad dati SEP. zato što su bitna obilježja za CONIUM. A vi trebate informacije o bitnim obilježjima, 
+
+154
+00:34:51,354 --> 00:34:59,552
+zato što ne postoji za sve lijekove informacija o mentalnom-emocionalnom, što mogu uzrokovati. 
+
+155
+00:34:59,750 --> 00:35:07,854
+Nemamo toga. Kod svih lijekova bi bilo lijepo imati, bilo bi lijepo znati, 
+
+156
+00:35:07,958 --> 00:35:17,333
+posebnosti na mentalno-emocionalnom 
+nivo CAJUPUTUMA. Ali ne znamo.  
+
+157
+00:35:21,792 --> 00:35:30,625
+Postoji li taj lijek? Cajuputum? 
+Ne! Izmislio sam ga.  
+
+158
+00:35:58,125 --> 00:36:09,437
+Imaju vrlo poseban simptom gdje osjećaju jezik toliko velikim da ispunjava cijela usta. 
+
+159
+00:36:19,583 --> 00:36:35,469
+Kad to čujete, to je CAJUPUTUM.  Ne šalim se, to je takav lijek, takav je simptom,  postoji velika zabrinutost za zdravlje.  
+
+160
+00:37:02,198 --> 00:37:08,823
+Vidjet ćete da li želite ili ne, da li to činite svjesno ili podsvjesno, 
+
+161
+00:37:08,927 --> 00:37:17,958
+da u svojoj evaluaciji u klasičnoj homeopatiji slijedite ovu liniju razmišljanja.  
+
+162
+00:37:19,000 --> 00:37:26,688
+Prvu stvar koju gledate je totalitet simptoma. Onda idete u repertorij, idete na kompjuter,
+
+163
+00:37:26,792 --> 00:37:32,698
+ i tražite da pronađete koji je lijek i 
+onda vidite stvari o esenciji, suštini.
+
+164
+00:37:32,802 --> 00:37:47,729
+i onda ključne karakteristike budu ispravne. Stoga mnogo puta će vaša odluka biti bazirana na kombinaciji strategija. 
+
+165
+00:37:48,875 --> 00:38:04,333
+Nešto totaliteta, više esencije ali ima jednu ili dvije ključne karakteristike, uzrok također odgovara, odlično.  
+
+166
+00:38:14,469 --> 00:38:40,313
+Reći ću Vam par stvari. Kako biste ustanovili esenciju, morate promatrati. To vam neće biti dano 
+
+167
+00:38:40,417 --> 00:38:50,750
+od strane pacijenta. Trebate promatrati kako bi došli do esencije. 
+
+168
+00:38:51,688 --> 00:39:01,469
+Ključne karakteristike će reći sam pacijent. Uzročni faktor je lagano ustanoviti ako uzimate anamnezu.  
+
+169
+00:39:01,573 --> 00:39:11,854
+Bitna obilježa  vi morate razjasniti ako sve provjeravate, i kažete - ovo je bitno.
+
+170
+00:39:11,958 --> 00:39:23,448
+Bitna obilježja ovdje su ova. Ono što se događa s ovim organizmom je njegov želudac i koža, 
+
+171
+00:39:23,552 --> 00:39:27,177
+želudac i koža su pogođeni.
+
+172
+00:39:33,240 --> 00:39:40,177
+Dat ću vam primjer s PHOS. budući da imamo PHOS. slučaj. 
+
+173
+00:39:40,281 --> 00:39:59,271
+Dat ću vam primjer PHOS. djeteta. 
+To je bilo dijete medicinskog para koji su studirali  
+
+174
+00:39:59,375 --> 00:40:16,698
+kod mene prije 20 godina. Imali su malu djevojčicu, razbolila se i dali su joj nekoliko lijekova, bez rezultata.  
+
+175
+00:40:18,906 --> 00:40:29,917
+Zvali su pedijatra. On je dijagnosticirao encefalomielitis , dijete je imalo visoku temperaturu, 
+
+176
+00:40:30,021 --> 00:40:40,604
+imala je ukočenost vrata i odveli su je u bolnicu. Dok je bila u bolnici  
+
+177
+00:40:40,708 --> 00:40:49,583
+oni su mi telefonirali, rekli su što se događa, dijete je s encefalomielitisom, 
+
+178
+00:40:52,260 --> 00:41:03,563
+bih li ja došao vidjeti dijete. Došao sam je pogledati, imala je tipične simptome encefalomielitisa,
+
+179
+00:41:25,333 --> 00:41:48,938
+ u polu stuporu iako svijesna. 
+ Onda mi je majka koja je opisala slučaj, 
+
+180
+00:41:49,042 --> 00:42:03,781
+dala simptome, temperature, patološke simptome, nisam mogao ništa s njima. 
+
+181
+00:42:03,885 --> 00:42:14,271
+Opisala mi je kako je dijete bilo hrabro jer je punktirano više puta, 
+
+182
+00:42:14,375 --> 00:42:25,156
+doktori su uzeli krv, a ona uopće nije reagirala, vrlo hrabra. 
+
+183
+00:42:31,135 --> 00:42:41,156
+A ja sam rekao, hrabra? U mojoj glavi, a radi se o vrlo napetom vremenu, morate misliti brzo jer je dijete 
+
+184
+00:42:41,260 --> 00:42:50,646
+s temperaturom, što će učiniti kortizon ili neće? Morate donositi brze odluke.  
+
+185
+00:42:51,104 --> 00:43:05,667
+Majka mi nije, kao što sam rekao, dala neke simptome osim da je dijete hrabro. U mojoj glavi to nije odgovaralo.  
+
+186
+00:43:06,417 --> 00:43:17,094
+Kad ubodete dijete ono place. A oni su mnogo puta izvadili krv na pregled, 
+
+187
+00:43:17,198 --> 00:43:39,240
+punktirali su joj leđnu moždinu da izvade likvor 
+a ona nije reagirala. Vrlo čudno. 
+
+188
+00:43:39,979 --> 00:43:58,854
+U međuvremenu, majka je sjedila na krevetu, držala je dijete za ruku. Rekao sam majci, m. 
+
+189
+00:43:58,958 --> 00:44:10,844
+da makne svoju ruku od djeteta. 
+A dijete je bilo poluošamućeno.  Makla je ruku.
+
+190
+00:44:17,135 --> 00:44:31,073
+i dijete je jaukalo, onda sam rekao ponovno je primite
+. Držala ju je, prestala ju je držati. Opet je maknite, rekao sam.  
+
+191
+00:44:31,177 --> 00:44:42,698
+Vrlo dobro. Pitao sam je kad želite da bude dobro, večeras ili sutra? Ona je plakala i pitala da li se šalim.  
+
+192
+00:44:42,802 --> 00:44:59,292
+Rekao sam da sam ozbiljan. Večeras ili sutra? Rekla je da nije važno. Dajte joj PHOS. 10M rekao sam.
+
+193
+00:45:00,771 --> 00:45:18,448
+Zašto? Zato što je dijete bilo toliko u tjeskobi i u strahu, strah ju je paralizirao i ona nije mogla reagirati na ubode.  
+
+194
+00:45:18,552 --> 00:45:30,188
+Strah i zabrinutost su bili toliko veliki da ubode više nije osjećala a želja za društvom 
+
+195
+00:45:30,292 --> 00:45:41,313
+je bila toliko jaka da je držala majku 
+za ruku da se osjeća sigurnije.  
+
+196
+00:45:41,417 --> 00:45:53,375
+Ta dva simptoma, zabrinutost i želja da je se drži za ruku je bila toliko jaka da je upućivala na PHOS.  
+
+197
+00:45:54,771 --> 00:46:04,438
+To je opservacija oko esencije slučaja. 
+Dali su joj PHOS. 10M oko 11 sati ujutro.
+
+198
+00:46:04,542 --> 00:46:13,448
+Rekao sam da me nazovu navečer i kažu mi kako joj je. Navečer je otac nazvao.
+
+199
+00:46:13,552 --> 00:46:29,802
+On je isto homeopat. Rekao je, znate što? Znate li što je tražila za jesti? 
+
+200
+00:46:29,906 --> 00:46:43,292
+ Dijete nije jelo 2 dana. Što je tražila za jesti? Sladoled. Rekao sam, otiđite kupiti joj sladoled. 
+
+201
+00:46:44,292 --> 00:47:01,073
+Sljedeći dan oko 11 sati temperatura se popela na 39,5. Zvali su me, dogodio se relaps
+, rekao sam 50M. 
+
+202
+00:47:01,177 --> 00:47:17,229
+Dajte 50M. Do navečer je dijete bilo dobro. Dijete je uzelo puno drugih lijekova, ne zaboravite, bez rezultata, zašto?  
+
+203
+00:47:17,333 --> 00:47:26,896
+Totalitet, itd. Što je falilo? Majka je propustila vidjeti cijelu sliku djeteta, 
+
+204
+00:47:27,000 --> 00:47:41,083
+da je dijete bilo jako zabrinuto za zdravlje. 
+Čula je sve vrste aktivnosti, doktora. Umirem.  
+
+205
+00:47:42,104 --> 00:47:51,438
+Oni imaju veliku tjeskobu, zabrinutost za svoje zdravlje, PHOS. slučajevi su paralizirani od straha,  
+
+206
+00:47:52,198 --> 00:47:59,250
+a dijete je bilo u tom stanju. Tako učite. 
+
+207
+00:48:00,708 --> 00:48:13,031
+-Nisam shvatila razliku između esencije i ključnih karakteristika. .
+ Simptomi u PHOS. slučaju 
+
+208
+00:48:13,135 --> 00:48:19,469
+da li su bili esencija ili ključni simptomi?
+
+209
+00:48:35,750 --> 00:48:46,313
+- Simptomi PHOS. koje sam spomenuo  su ključne karakteristike ili esencija?
+Esencija se odnosi više na mentalno-emocionalnu sliku općenito. Mentalno-emocionalna postava  
+
+210
+00:48:46,417 --> 00:48:58,698
+osobe u svojoj patologiji  je što? Biti zabrinut s ovakvom ili onakvom vrstom zabrinutosti, 
+
+211
+00:48:58,802 --> 00:49:04,563
+iritabilan, agresivan, biti ovakav ili onakav. To je esencija.  
+
+212
+00:49:04,667 --> 00:49:15,292
+Ključne karakteristike su simptomi, mogu biti mentalni, emocionalni ali i fizički.
+
+213
+00:49:15,396 --> 00:49:26,896
+Simptomi koje neki lijek osobito ima. To znači da kad idete u repertorij i pogledate, 
+
+214
+00:49:27,000 --> 00:49:40,542
+uriniranje kao jogurta, izlaze komadi bijele tvari to ima samo ACIDUM PHOSPHORICUM.  
+
+215
+00:49:41,292 --> 00:49:50,333
+To je ključna karakteristika za ACIDUM PHOS.  Osoba vam kaže da urinira taj jogurt, uzmete repertorij i 
+
+216
+00:49:50,438 --> 00:50:03,333
+vidite samo ACIDUM PHOS. bolje ga uzmite. Ključna karakteristika je 
+ kad dijete kaže, spava u položaju na koljenima i s laktovima ispod sebe (genupektoralni položaj). 
+
+217
+00:50:03,438 --> 00:50:11,104
+ Imali smo samo jedan lijek MEDORRHINUM, ali sad  znamo više lijekova 
+
+218
+00:50:11,208 --> 00:50:18,823
+koji spavaju u tom položaju.  I vjerujem da ih ima i više jer 
+
+219
+00:50:18,927 --> 00:50:28,906
+puno djece spava u tom položaju. Nisu svi MED. ali je to ključna karakteristika za MED.  
+
+220
+00:50:30,219 --> 00:50:59,135
+Ako osoba ne može jesti kamenice, to je onda PHOS. To je ključna karakteristika za PHOS.  
+
+221
+00:51:10,354 --> 00:51:39,208
+Hajdemo više definirati ključne karakteristike. Ključna karakteristika je čudno, 
+rijetko i posebno, neobično, trebamo li još definicija?  
+
+222
+00:51:44,177 --> 00:51:58,031
+Dat ću Vam čudno, rijetko i posebno. Svaki put kad netko ide niz stepenice izlaze mu kapi mokraće, 
+
+223
+00:51:58,135 --> 00:52:07,490
+nevoljko ispuštanje urina, dok se spuštaju. Probajte to naći. 
+
+224
+00:52:09,802 --> 00:52:24,979
+ To je ključna karakteristika uglavnom za PULS.  PULS. ne želi izaći vrlo je sramežljiva.  
+
+225
+00:52:27,042 --> 00:52:38,938
+Vidite nekoliko lijekova ovdje. Imamo 2,3,4,6 lijekova i jedan je lijek jak za taj simptom, 
+
+226
+00:52:39,042 --> 00:52:58,552
+poseban simptom, i onda kažemo da PULS. ima ključnu karakteristiku da nevoljko ispušta mokraću dok sjedi.   
+
+227
+00:53:02,375 --> 00:53:11,208
+Nije CAUSTICUM za kojeg bi očekivali zbog paralize mjehura. To je PULS.  
+
+228
+00:53:12,250 --> 00:53:26,083
+Ali nevoljko mokrenje dok se spušta stepenicama, tražit ćete u Materiji Medici ali nećete naći.  
+
+229
+00:53:27,573 --> 00:53:36,813
+Zato, da biste imali definiciju ključne karakteristike morate imati čudno, rijetko i posebno 
+
+230
+00:53:36,917 --> 00:53:49,469
+plus da je taj simptom zabilježen u provingu (dokazivanju).  Inače ćete imati prekrasne 
+
+231
+00:53:49,958 --> 00:53:58,271
+čudne, rijetk i posebne simptome ali ih nećete moći iskoristiti.  Zato što nisu registrirani u Materiji Medici, 
+
+232
+00:53:58,375 --> 00:54:04,625
+u repertoriju i ne možete 
+ih naći i neuporabljivi su. 
+
+233
+00:54:05,927 --> 00:54:16,938
+Ključne karakteristike s kojima mi radimo, moraju imati taj element: čudno, rijetko i posebno i također 
+
+234
+00:54:17,042 --> 00:54:28,333
+da su zabilježeni u Materiji Medici i u Repertoriju kao posebni simptomi kod malog broja ili kod jednog lijeka.  
+
+235
+00:54:28,750 --> 00:54:45,583
+To je definicija ključne karakteristike.  Trebaju biti zabilježeni kod nekih lijekova; malo lijekova će ih imati  
+
+236
+00:54:45,688 --> 00:54:54,333
+jer možda ono što vidite kao čudno, rijetko ili posebno, potražite u repertoriju i to rijetko, čudno i posebno 
+
+237
+00:54:54,438 --> 00:55:12,313
+je zabilježeno kod 100 lijekova i tada to nije ključna karakteristika, 
+
+238
+00:55:12,417 --> 00:55:18,417
+iako vama izgleda vrlo čudno.  
+
+239
+00:55:19,469 --> 00:55:27,625
+U MM je zabilježeno kod previše lijekova, to nije ključna karakteristika.  
+
+240
+00:55:28,542 --> 00:55:54,052
+Probajte pronaći zlonamjeran. Vidite, ima 150 lijekova. 
+ Vi mislite da ako je osoba zlonamjerna da je to vrlo čudno, rijetko i posebno.   
+
+241
+00:55:54,156 --> 00:56:22,604
+Ali nije. Razočaravajuće je vidjeti sliku čovječanstva u toj rubrici. Bože pomozi nam. Zlonamjerno.
+
+242
+00:56:22,708 --> 00:56:32,469
+Tko nije zlonamjeran? To nije čudno, rijetko i posebno. To je uobičajan simptom.  
+
+243
+00:56:36,552 --> 00:56:54,573
+ANAC., ARS,. NAT-M, NUX-V, STRAM.,  gdje je SEP, nije tu? Zaboravite.  
+
+244
+00:56:57,198 --> 00:57:01,885
+Sepia je malim slovima.
+
+245
+00:57:16,198 --> 00:57:59,813
+STAPH., PHOS., TUB., LACH. bi trebao  biti na trećem stupnju. SEP. bi trebala ići na drugi stupanj.  
+
+246
+00:58:00,333 --> 00:58:10,875
+Svejedno, zlonamjernost u svakom od ovih lijekova ima svoju boju. Drugačija je od lijeka do lijeka.  
+
+247
+00:58:10,979 --> 00:58:26,177
+Zlonamjernost ARS. je drugačija od STRAM. I zlonamjernost TUB. nije ista kao kod SEP. 
+
+248
+00:58:27,375 --> 00:58:32,917
+Svaki lijek ima svoju boju. 
+
+249
+00:58:53,844 --> 00:59:17,531
+Bilo bi vrlo čudno, rijetko i posebno da vam pacijent kaže da je zlonamjeran. Nisam to još čuo ni od jednog pacijenta.  
+
+250
+00:59:20,573 --> 00:59:31,823
+- Ključna karakteristika za PULS. ovdje je za prijašnji slučaj al ii za 5 ostalih. 
+
+251
+00:59:31,927 --> 00:59:45,521
+- Ali PULSATILLA je jedina velikim slovima. PULS. se ističe a ima ih još par. Ako je simptom vrlo jak 
+
+252
+00:59:45,625 --> 00:59:53,906
+prvo pomislite na PULS. 
+U vašoj analizi imate taj simptom.  
+
+253
+00:59:54,417 --> 01:00:09,646
+Recimo, imate ovdje slučaj, gdje imate između ostalog nevoljko mokrenje dok sjedi.  
+
+254
+01:00:09,750 --> 01:00:26,510
+I PULS. ovdje u analizi dolazi sa 6 simptoma. S jakom ključnom karakteristikom kao ovdje, bolje propišite PULS. 
+
+255
+01:00:35,885 --> 01:00:46,063
+- Ako imate ključne karakteristike koje su vrlo specifične za određeni lijek, da li su oni odmah automatski 
+ u 3. stupnju u repertoriju?
+
+256
+01:00:59,552 --> 01:01:11,667
+- ne,  moram ponoviti. Imate ključnu karakteristiku u repertoriju u
+ 1. stupnju. Što znači 3. stupanj?  
+
+257
+01:01:11,771 --> 01:01:22,240
+Treći stupanj u repertoriju ima veze
+ s frekvencijom i intenzitetom kod dokazivača.  
+
+258
+01:01:23,198 --> 01:01:35,667
+Frekvencija i intenzitet kod pacijenta u kliničkom promatranju. To znači da su mnogi dokazivači jasno rekli 
+
+259
+01:01:36,490 --> 01:01:49,229
+da su imali taj simptom. Taj je simptom ušao i zabilježen je velikim slovima, ako ni jedan drugi lijek nema taj simptom, 
+
+260
+01:01:49,333 --> 01:02:01,229
+onda on postaje vrlo važan simptom. 
+ Ako su drugi lijekovi bili zabilježeni ali ne tako jako, 
+
+261
+01:02:01,333 --> 01:02:08,188
+onda će pokazati druge lijekove tamo 
+ali u prvom ili drugom stupnju, ne velikim slovima.  
+
+262
+01:02:08,292 --> 01:02:21,292
+Ali kod dokazivanja lijeka gdje su mnogi dokazivači rekli da dok sjede gube urin, 
+
+263
+01:02:21,396 --> 01:02:27,802
+ onda to postaje snažan simptom i zabilježen je u trećem stupnju u repertoriju.  
+
+264
+01:02:27,906 --> 01:02:39,438
+Zapravo bilježenje u Repertoriju je stvar evaluacije informacije od dokazivača 
+
+265
+01:02:39,542 --> 01:02:45,875
+ali i naposlijetku evaluacija od pacijenata.  
+
+266
+01:02:45,979 --> 01:03:01,031
+Koliko PULS. pacijenata pati od vrućine? Dosta. To postaje jako, velikim slovima.  
+
+267
+01:03:01,135 --> 01:03:08,427
+PULS. gore od vrućine. Koliko PULS. pacijenata se osjeća bolje na otvorenom zraku?  
+
+268
+01:03:08,531 --> 01:03:23,917
+Puno. 80% njih. Velika slova. Koliko PULS. pacijenata gubi urin dok sjedi?  
+
+269
+01:03:24,906 --> 01:03:37,427
+Ne puno, ali zato što je to čudan, rijedak i poseban simptom i zabilježen je od 100 Pulsatilla, 
+
+270
+01:03:37,531 --> 01:03:45,594
+u 10-12 slučajeva, 
+ PULS. postaje važna ključna karakteristika. 
+
+271
+01:03:53,021 --> 01:04:08,979
+- George malo sam zbunjen, ranije ste rekli da su esencije zabilježene kroz promatranje 
+
+272
+01:04:09,083 --> 01:04:15,760
+a ključne karakteristike kroz pacijente. A nakon toga ste rekli da čudno, rijetko i posebno s primjerom 
+
+273
+01:04:15,865 --> 01:04:25,750
+zlonamjernog neće biti rečeno 
+od strane pacijenta, znači postoji razlika. 
+
+274
+01:04:26,750 --> 01:04:37,073
+- Ne, ja sam rekao, čudno, rijetko i posebno se čini da je zlonamjerno. Ipak to nije čudno, rijetko i posebno. 
+
+275
+01:04:37,177 --> 01:04:52,823
+To je uobičajno za mnoge lijekove. To je jedno.  
+ U ovom slučaju ne govorimo o ključnim karakteristikama.  
+
+276
+01:04:57,771 --> 01:05:06,979
+ Obično su ključne karakteristike zabilježene od strane pacijenta ali kao što sam rekao, imamo tri izvora informacija: 
+
+277
+01:05:07,219 --> 01:05:22,719
+pacijent, rodbina, liječnik. Tako da je esencija obično zabilježena od strane liječnika,
+
+278
+01:05:22,823 --> 01:05:39,906
+ili opservacija rodbine, ili ostalih. Osoba npr. NUX VOMICA je vrlo iritabilna.  
+
+279
+01:05:42,510 --> 01:05:51,854
+Dat ću Vam primjer. Ispitivao sam profesora kirurgije s vrlo ozbiljnim, kroničnim glavoboljama,  
+
+280
+01:05:51,958 --> 01:05:59,583
+pored mene je bio George Papaphilippou koji je kirurg ali i homeopat sada.  
+
+281
+01:05:59,688 --> 01:06:10,719
+On je studirao kod njega, bio s njim za operacijskim stolom. On mi je doveo tog profesora da ga pogledam.  
+
+282
+01:06:10,823 --> 01:06:22,688
+Vidio sam vrlo dragog profesora koji je sjedio vrlo miran. Vrlo debeo, vrlo drag i vrlo miran.  
+
+283
+01:06:22,729 --> 01:06:37,417
+Dao mi je simptome glavobolje i ne mogu ništa s tim, probao sam ovo i ono, ne, normalno, normalno. 
+
+284
+01:06:40,823 --> 01:06:50,729
+Naposlijetku sam došao na ideju NUX VOMICE. 
+Ali izgledao je jako miran. 
+
+285
+01:06:50,813 --> 01:06:58,104
+Postavio sam mu pitanje je li iritabilan? 
+Rekao je ne. 
+
+286
+01:06:58,208 --> 01:07:16,563
+U tom trenutku me George lupi ispod stola. Shvatili ste. Rekao sam, mislim vi ne vičete, 
+
+287
+01:07:16,667 --> 01:07:25,250
+on nije nikada vikao, ali iznutra 
+kad bi mu netko dao krivi alat, odmah  
+
+288
+01:07:26,000 --> 01:07:35,104
+bi drugi primjetili. Tako da je George dok je radio s njim primjetio da je vrlo ljut i vrlo iritabilan.  
+
+289
+01:07:35,208 --> 01:07:42,646
+On sam ne, jer on nije izražavao svoju ljutnju, on nije izražavao svoju iritabilnost.  
+
+290
+01:07:45,708 --> 01:07:56,396
+Prema toj informaciji sam propisao NUX VOMICU i glavobolje smo prekrasno izlječili. 
+
+291
+01:07:59,958 --> 01:08:08,542
+- Ovo je pitanje o teoriji. Recimo da imate slučaj gdje vas totalitet simptoma vodi 
+
+292
+01:08:08,646 --> 01:08:21,750
+vrlo jasnom lijeku ali je esencija u kontradikciji, da li je to mogući slučaj i što radite? 
+
+293
+01:08:22,531 --> 01:08:33,437
+- Prvo dajete totalitet. Ako ne uspije, 
+onda idete, kao sljedeća ideja, na esenciju.  
+
+294
+01:08:34,490 --> 01:08:44,854
+Esencija je nešto što dolazi iz iskustva i vrlo je teško prenijeti.  
+
+295
+01:08:44,958 --> 01:08:53,260
+Ja vam prenosim utisak. Nisam siguran da vam uvijek prenosim jasnu impresiju, točno? 
+
+296
+01:08:53,750 --> 01:09:02,406
+Kad vidite pravu stvar, kažem Ambra grisea vi kažete “ja sam pomislio na to”.  Zato kažem 
+
+297
+01:09:02,510 --> 01:09:09,156
+prvo totalitet, ako imate jasan totalitet dajte lijek. 
+Zatim idete na esenciju. 
+
+298
+01:09:10,625 --> 01:09:25,958
+ Bitna obilježja su puno lakša. Činjenice. Esencija, opisujem dušu, nešto nedodirljivo. 
+
+299
+01:09:28,437 --> 01:09:36,333
+Moje iskustvo, ne još vaše iskustvo, sve dok ne vidite pravi slučaj, propišete lijek. 
+
+300
+01:09:36,437 --> 01:09:46,740
+Primam pisma studenata koji kažu, bilo je odlično, dao sam dozu AGAR. i radilo je prekrasno na temelju esencije.  
+
+301
+01:09:48,260 --> 01:10:02,042
+Ta osoba misli da je shvatila esenciju. Ali nisam siguran da će svi shvatiti esenciju od onog što ja kažem. 
+
+302
+01:10:02,917 --> 01:10:08,208
+-  Bi li vi uzeli esenciju?
+
+303
+01:10:09,260 --> 01:10:23,333
+- Ostavite moj slučaj po strani jer ću uzeti ono što mi je iskustvo pokazalo da trebam uzeti u ovom trenutku.  
+
+304
+01:10:27,219 --> 01:10:42,875
+Ne uvijek. Pročitat ću Vam slučaj iz Londona. Bio sam u Londonu i prikazao sam slučaj 
+
+305
+01:10:42,979 --> 01:10:49,490
+bez esencije, bez općenitih simptoma, samo nešto patologije.  
+
+306
+01:10:50,802 --> 01:11:00,688
+Propisao sam prema patologiji, prema bitnim obilježjima, ono što sam osjetio kao bitna obilježja tog lijeka. 
+
+307
+01:11:03,573 --> 01:11:10,031
+U rujnu smo pričali da kad pacijent primi lijek koji nije ispravan, tad on 
+
+308
+01:11:10,135 --> 01:11:19,229
+razvije simptome dokazivanja plus svoje vlastite simptome. 
+
+309
+01:11:19,333 --> 01:11:25,271
+Vi ste tad rekli da ako opet repertoriziramo, ne smijemo uzeti u obzir nove simptome koje je pacijent razvio. 
+
+310
+01:11:25,375 --> 01:11:32,250
+U Organonu Hahnemann je rekao, da treba uključiti nove simptome  
+
+311
+01:11:32,354 --> 01:11:37,396
+u repetrorizaciji kad tražimo novi lijek.
+
+312
+01:11:40,708 --> 01:11:50,698
+- prvo, nećete svaki put kad date krivi lijek imati dokazivanje lijeka.  
+
+313
+01:11:50,802 --> 01:11:58,000
+Dobili ste utisak da sam rekao svaki put kad dam krivi lijek postoji dokazivanje.  
+
+314
+01:11:58,104 --> 01:12:17,938
+U nekim slučajevima ćete imati simptome dokazivanja lijeka kojeg ste dali plus simptome pacijenta. 
+
+315
+01:12:18,042 --> 01:12:27,073
+ I ja kažem u takvim slučajevima vratite se originalnom slučaju, ponovo proučite i dajte drugi lijek.   
+
+316
+01:12:27,177 --> 01:12:38,604
+To je drugačije nego kad date lijek i lijek nije točan ili još ne znamo da li je točan ili ne,
+
+317
+01:12:38,708 --> 01:12:52,135
+ i on promijeni simptome a da ne izliječi slučaj. To je različiti slučaj u 
+
+318
+01:12:52,240 --> 01:13:03,885
+kojem sada morate uzeti nove simptome u obzir koji su se razvili. Samo njih.  
+
+319
+01:13:05,104 --> 01:13:08,573
+Vidite razliku? Ne. 
+
+320
+01:13:24,708 --> 01:13:40,229
+- Imate slučaj koji ima ove simptome. Date krivi lijek ali on proizvede neke simptome 
+
+321
+01:13:40,333 --> 01:13:55,052
+lijeka kojeg ste dali. To su novi simptomi koji su se pojavili bez mijenjanja ovih.   
+
+322
+01:13:55,156 --> 01:14:08,125
+Ono što morate učiniti u toj situaciji je da se morate vratiti originalnom slučaju i pronaći drugi lijek koji odgovara ovoj slici. 
+
+323
+01:14:10,958 --> 01:14:23,802
+Sad idemo na drugi slučaj, broj 2. Ovdje imate istu sliku i dali ste lijek 
+
+324
+01:14:23,906 --> 01:14:36,396
+koji nije izlječio slučaj već je 
+ promijenio slučaj, kako? Ovako.  
+
+325
+01:14:51,667 --> 01:15:04,073
+Promijenio je slučaj u ovo. Sad ima simptom koji još više zabrinjava, jači je,  
+
+326
+01:15:04,177 --> 01:15:09,417
+ali su neki simptomi nestali, neki su se promjenili.  
+
+327
+01:15:10,531 --> 01:15:45,802
+U tim slučajevima morate proučiti tu sliku, dati drugi, sljedeći  lijek.  
+
+328
+01:15:49,417 --> 01:15:54,375
+Ovdje je  neki drugi lijek.  
+
+329
+01:15:58,000 --> 01:16:09,240
+Ako date taj lijek ignorirate ovaj dio i vraćate se originalnom slučaju, proučite i date sljedeći lijek.  
+
+330
+01:16:17,583 --> 01:16:27,312
+- Imam drugo pitanje vezano uz ovo. Neki ljudi daju 7C svaki dan i onda 
+
+331
+01:16:27,417 --> 01:16:37,802
+ako ste i dali dobar lijek nakon nekog vremena pacijent počne pokazivati nove simptome tog lijeka 
+
+332
+01:16:37,906 --> 01:16:47,896
+kojeg ste mu dali. Ponekad ste zbunjeni jer ne znate da li je to ok, 
+
+333
+01:16:48,000 --> 01:16:53,063
+ili je došlo do dokazivanja, želim biti sigurna u to. 
+
+334
+01:16:53,083 --> 01:17:06,781
+-Ja sam također zbunjen pitanjem. 
+Zaboravite paragraf. Primjer.
+
+335
+01:17:06,885 --> 01:17:15,250
+-Osoba dođe homeopatu, on mu oduči dati svaki dan 9C određenog lijeka.
+
+336
+01:17:15,354 --> 01:17:16,625
+- Krivog lijeka?
+
+337
+01:17:16,729 --> 01:17:23,479
+-Ne, ispravnog lijeka.  To je način na koji ga želi liječiti. Prvi mjesec je u redu. -
+
+338
+01:17:23,583 --> 01:17:35,646
+Drugi mjesec je ok, i onda odjednom dobiva simptome tog lijeka kao u dokazivanju.
+
+339
+01:17:35,750 --> 01:17:46,781
+- To je točno. To će se dogoditi. Ako nastavite usprkos što je pacijentu dobro, 
+
+340
+01:17:46,885 --> 01:17:52,354
+a vi nastavljate s davanjem istog lijeka, uzrokovat ćete nešto dokazivanja.  
+
+341
+01:17:52,458 --> 01:18:00,417
+Naposlijetku će osoba razviti simptome lijeka koji ponavljate. 
+Ne uvijek.  
+
+342
+01:18:03,750 --> 01:18:10,896
+Kod mnogo slučajeva gdje ponavljate neće biti efekta. Ali kod nekih slučajeva koji su osjetljivi, 
+
+343
+01:18:11,000 --> 01:18:17,271
+definitivno ćete vidjeti simptome lijeka kako se pojavljuju.
+
+344
+01:18:22,281 --> 01:18:29,719
+-Ako sam Vas dobro shvatila, drugi primjer koji ste nacrtali na ploči, je u slučajevima 
+
+345
+01:18:29,823 --> 01:18:38,531
+kad dajem sličan lijek ali ne i najsličniji, sličan ali ne i similimum, zar ne?
+
+346
+01:18:39,573 --> 01:19:01,531
+- Ne samo to, Ako ona ide tom logikom, bit će krivo. Dozvolite da pojasnim ovu situaciju, što se događa.  
+
+347
+01:19:03,375 --> 01:19:17,438
+Lijek je promjenio sliku. Originalna slika se je promjenila zbog lijeka. To ne znači da je lijek neispravan.  
+
+348
+01:19:18,198 --> 01:19:31,229
+To znači da ovaj slučaj treba seriju lijekova. Jedan, dva, tri, četiri lijeka.  
+
+349
+01:19:31,333 --> 01:19:41,792
+U takvom slučaju imate promjene 
+cijelim putem kako osoba ide prema izlječenju.  
+
+350
+01:20:07,135 --> 01:20:19,188
+-Pitanje o prvom slučaju. Ako postoji simptom dokazivanja, to znači da je pacijent osjetljiv? 
+
+351
+01:20:19,292 --> 01:20:30,760
+-To znači da je blizu. To je nesretna okolnost. Ovo što se ovdje događa je nesretna okolnost, to nije dobro.
+
+352
+01:20:30,865 --> 01:20:38,333
+ Ovo što se ovdje događa, doljnji primjer,  je ispravno.  
+Nema drugog puta. 
+
+353
+01:20:39,354 --> 01:20:51,490
+- Ja mislim ako je osjetljiv, da će biti promjena. Ako postoje drugi simptomi, ako su se simptomi 
+
+354
+01:20:51,594 --> 01:21:03,646
+promijenili, bolest se promijenila ili se odgovor također promijenio.  Bilo bi bolje 
+
+355
+01:21:03,750 --> 01:21:08,604
+pričekati dok simptomi dokazivanja ne nestanu. 
+
+356
+01:21:08,708 --> 01:21:23,094
+- To je i bolje, ako možete čekati, ovisi o slučaju, ako je hitan slučaj, morate nešto dati.  
+
+357
+01:21:23,198 --> 01:21:30,125
+Ako nije hitno onda je najbolje čekati 
+dok simptomi  dokazivanja ne oslabe.  
+
+358
+01:21:30,906 --> 01:21:55,354
+Također je dobro u tim slučajevima dozvoliti da piju kavu ili ako je nešto hitno da riješe alopatski.  
+
+359
+01:21:57,500 --> 01:22:10,104
+Onda će alopatski lijek vratiti originalni slučaj. Sve dok to nije teško. 
+
+360
+01:22:16,021 --> 01:22:25,385
+Alopatski možete učiniti veliku štetu ali u ovakvim slučajevima gdje mi pogriješimo.  
+
+361
+01:22:25,490 --> 01:22:37,688
+To se događa prirodno. Liječnik će reći “vi ne odgovarate na homeopatski tretman”. 
+
+362
+01:22:37,792 --> 01:22:48,521
+ To je lijep način za reći “pogriješio sam”. Vaš organizam ne odgovara na homeopatski tretman. 
+
+363
+01:22:48,625 --> 01:22:58,823
+To je dobar izgovor, ako želite taj izgovor možete ga koristiti. Ali vi morate znati činjenice. 
+
+364
+01:22:58,927 --> 01:23:11,604
+Stoga uzmite analgetike ili nešto. Izbjegnite kortizone ukoliko možete. 
+
+365
+01:23:11,708 --> 01:23:21,198
+Kortizon je toliko dubok lijek da može promijeniti cijelu sliku i ostaviti vas bez simptoma. 
+
+366
+01:23:23,042 --> 01:23:30,719
+ Onda ćemo vidjeti što možemo učiniti. Onda se vrati originalna slika a vi ponovo prostudirate slučaj 
+
+367
+01:23:30,823 --> 01:23:34,375
+a vi vidite original i date lijek.  
+
+368
+01:23:35,177 --> 01:23:44,313
+Hahnemann nije vidio takve probleme kao što ih mi vidimo. Ono što su oni znali raditi je stavljati  pijavice 
+
+369
+01:23:44,417 --> 01:23:55,427
+koje izvlače krv  ili  su stavljali flastere i površne stvari koje nisu mijenjale 
+
+370
+01:23:55,531 --> 01:24:01,531
+organizam na dubok način 
+kao što to čine današnji lijekovi.  
+
+371
+01:24:02,313 --> 01:24:10,406
+Njegova su opažanja u skladu s njegovim iskustvom. Ove su opservacije iz našeg iskustva.  
+
+372
+01:24:10,510 --> 01:24:21,135
+U Hahnemannovo vrijeme nisu imali oslabljenu konstituciju kakvu mi imamo danas, 
+
+373
+01:24:21,240 --> 01:24:29,292
+koja treba seriju lijekova kako bi samo preživjeli. 
+
+374
+01:24:33,625 --> 01:24:50,094
+ -Želim vas pitati nešto praktično. 
+Imam pacijenta koji mi je došao s hipotireozom 
+
+375
+01:24:53,490 --> 01:25:02,865
+i dao sam joj MEDORRHINUM i ona se osjetila bolje. Ali se ništa nije dogodilo s hipotireozom, 
+
+376
+01:25:03,469 --> 01:25:23,490
+trebala je sve više i više eutiroksa, tiroksina do 150. Onda sam pomislio da je možda CAUSTICUM.  
+
+377
+01:25:23,594 --> 01:25:36,229
+Dao sam joj CAUST. i ona je razvila simptome CAUST. a internist joj je rekao 
+
+378
+01:25:36,333 --> 01:25:52,104
+da je doza tiroksina previsoka. Onda ga je smanjio a ja Vas želim pitati što se ovdje dogodilo.  
+
+379
+01:25:52,208 --> 01:26:06,885
+Vjerovao sam da je CAUST. ispravan lijek, štitnjača je započela raditi i doze tiroksina su bile previsoke. 
+
+380
+01:26:09,469 --> 01:26:18,062
+-Dozvolite da shvatim. Tiroksin kojeg je internist dao bio je previsok nakon CAUSTICUMA
+
+381
+01:26:18,167 --> 01:26:29,490
+ i onda je trebao smanjiti dozu. To je točno. To znači da je CAUST. pomogao pacijentu da proizvede 
+
+382
+01:26:29,594 --> 01:26:42,052
+sam više tiroksina i trebala je manje izvana. To znači da je CAUSTICUM djelovao kurativno u ovom slučaju.  
+
+383
+01:26:42,156 --> 01:26:56,979
+-To su bili pravi simptomi CAUST. 
+Kao dokazivanje CAUST. 
+
+384
+01:26:58,708 --> 01:27:14,406
+-Rekli smo na početku predavanja, kad damo lijek  i lijek djeluje kurativno to znači 
+
+385
+01:27:14,510 --> 01:27:25,000
+da poboljšava opće stanje pacijenta a u isto vrijeme proizvodi i neke svoje simptome, 
+
+386
+01:27:25,104 --> 01:27:31,021
+to je dokaz da je lijek ispravan.  
+
+387
+01:27:31,125 --> 01:27:44,531
+Ako lijek ništa ne promjeni ovdje a proizvede svoje simptome, onda imamo dokazivanje.
+
+388
+01:27:46,438 --> 01:27:59,490
+Kada lijek promijeni 1 ili 2 simptoma a da pritom ne donese bitne promjene u stanju,  
+
+389
+01:27:59,594 --> 01:28:08,573
+imamo ponovno dokazivanje lijeka
+ koji je bilo vrlo blizu slučaju.  
+
+390
+01:28:08,833 --> 01:28:18,115
+U ovim slučajevima, ovom i ovom dali smo bliski lijek, moramo čekati 
+
+391
+01:28:18,219 --> 01:28:24,219
+dok simptomi dokazivanja ne odu. 
+
+392
+01:28:28,135 --> 01:28:33,292
+-Još jedno pitanje vezano za dokazivanje
+, vaš prvi primjer na ploči.  
+
+393
+01:28:34,292 --> 01:28:39,958
+Kad pacijent iznenada razvije dijareju, 
+da li je to isto simptom dokazivanja.  
+
+394
+01:29:02,938 --> 01:29:09,729
+-Vi mu date lijek i on dobije proljev. 
+
+395
+01:29:10,490 --> 01:29:16,396
+-Najvjerojatnije je dobio proljev jer je nešto loše pojeo. 
+
+396
+01:29:23,125 --> 01:29:33,771
+-Što je s iscjedcima i takvim reakcijama kad damo lijek? Da li su oni dio dokazivanja ili ne?
+
+397
+01:29:34,542 --> 01:29:40,521
+-Iscjedci iz vagine, lekoreja. Date lijek i pojavi se iscjedak iz vagine 
+
+398
+01:29:40,625 --> 01:29:50,219
+ili iscjedak iz nosa. To je dobar znak, to je kurativni simptom. Nije dokazivanje. 
+
+399
+01:29:52,313 --> 01:29:59,240
+- Da li to znači da su svi iscjedci dobri simptomi i dokaz kurativnog efekta?
+
+400
+01:30:01,375 --> 01:30:17,083
+- Reakcija organizma se uzima cjelovito. Ono što procjenjujete je ukupna reakcija na pacijenta.  
+
+401
+01:30:17,698 --> 01:30:26,156
+Ako ukupna reakcija kaže da ta osoba ide prema izlječenju zato što je bolje, bolje, bolje,  
+
+402
+01:30:26,260 --> 01:30:37,854
+i onda dobije proljev. Proljev je dobar.
+ Iscjedak iz nosa je dobar. Iscjedak iz kože je dobar. 
+
+403
+01:30:37,958 --> 01:30:50,313
+Ali ako kažete da je osoba gore,
+ ima proljev, krv u stolici,  
+
+404
+01:30:50,417 --> 01:31:00,646
+date lijek i onda krv ide van i 
+nastupa pogoršanje i vjerojatno se radi o krivom lijeku.
+
+405
+01:31:00,750 --> 01:31:14,042
+Ne možete reći da su iscjedci dobri 
+generalno gledano. Ovisi što se događa u cijelom slučaju. 
+
+406
+01:31:16,469 --> 01:31:23,823
+ Dijete je dobro, lijek je ispravan
+ jer pokazuje napredak.  
+
+407
+01:31:23,927 --> 01:31:35,115
+Da li je dijete postalo dobro zahvaljujući tom lijeku? Ne. Pokazuje poboljšanje, mentalno-emocionalno, u temperaturi, 
+
+408
+01:31:35,219 --> 01:31:40,146
+apetitu al ii dalje treba sljedeći lijek.  
+
+409
+01:31:40,250 --> 01:31:49,438
+Koji je sljedeći lijek? Proučimo nove simptome i tada propišemo novi lijek. 
+
+410
+01:31:55,510 --> 01:32:01,135
+-Imala sam sličan problem. Imala sam Managera na visokoj poziciji koji je bio izmoren, 
+
+411
+01:32:01,240 --> 01:32:15,052
+blizu srčanom infarktu. Bio je totalno ispran. Došao mi je i uzela sam mu slučaj i dala PULSATILLU.  
+
+412
+01:32:15,156 --> 01:32:25,313
+Nakon 4-5 mjeseci kad se osjećao puno bolje i izgledao je prekrasno i opušteno,  
+
+413
+01:32:25,417 --> 01:32:38,521
+Došao je natrag. Imao je manji problem s ritmom, to je riješeno alopatskim lijekovima vrlo jednostavno.  
+
+414
+01:32:42,000 --> 01:32:47,854
+Kad se vratio rekao mi je da ima ozbiljne probleme s ljudima za koje je radio, zato
+
+415
+01:32:47,958 --> 01:32:54,646
+što više nije bio zainteresiran za raditi taj posao.
+ Imao je 57 i trebao je raditi još 3 godine.  
+
+416
+01:32:54,750 --> 01:33:03,771
+Što sam trebala reći? Pij kavu ili prestani raditi? 
+ Rekla sam mu prestani raditi. 
+
+417
+01:33:05,375 --> 01:33:14,854
+-Niti jedno niti drugo. Hrabrite tu osobu. 
+S 57 je vjerojatno već radio 40 godina.
+
+418
+01:33:14,958 --> 01:33:23,396
+Ako radi još 3 godine nije to tako strašno. Ja bih ga ohrabrio da radi. 
+
+419
+01:33:23,500 --> 01:33:37,917
+Zakleo sam se da ću prestati podučavati, raditi, davno. Bilo mi je previše, bio sam iscrpljen. 
+
+420
+01:33:38,021 --> 01:33:50,427
+Kad sam se vraćao kući, moja bi žena rekla, "zašto ubijaš sam sebe". Onda sam rekao još 3 godine, kad budem 65. 
+
+421
+01:33:50,531 --> 01:33:56,469
+-To je zato što volite svoj posao. 
+-Nisam siguran. 
+
+422
+01:34:08,865 --> 01:34:15,271
+-Još uvijek nisam sigurna to se tiče slučaja s Marion, CAUST. je poboljšao stanje 
+
+423
+01:34:15,375 --> 01:34:22,760
+i štitnjača radi bolje. Što ako žena razvije simptome CAUST.?
+
+424
+01:34:22,865 --> 01:34:33,427
+Rekao je da je ona razvila CAUST. simptome i sad pati od nevoljkog mokrenja na primjer.  
+
+425
+01:34:33,531 --> 01:34:41,000
+Ako CAUST. radi ali proizvede vrlo ružne simptome? 
+
+426
+01:34:46,708 --> 01:34:54,667
+-Ovo je pitanje zato što nismo završili teoriju u homeopatiji i mi ćemo to kompletirati, završiti.  
+
+427
+01:34:54,771 --> 01:35:05,271
+Želim vam dati drugu ideju. Govoriti o hipotetskim slučajevima mi je vrlo teško odgovarati, 
+
+428
+01:35:05,375 --> 01:35:12,104
+zato što moram imati sve parameter prije nego Vam odgovorim o specifičnim slučajevima.  
+
+429
+01:35:12,208 --> 01:35:25,646
+Kao opće pravilo želim vam ovo reći. Kad započnete s tretmanom dijeteta koje je jako mentalno pogođeno 
+
+430
+01:35:25,750 --> 01:35:37,875
+i roditelji dođu. Ono je nemirno, ima taj i taj simptom itd. Žale se na nedefinirane probleme,  
+
+431
+01:35:37,979 --> 01:35:47,781
+ne možee reći da je dijete zaista mentalno bolesno.
+Ali nije balansirano na mentalno-emocionalnom nivou. 
+
+432
+01:35:47,885 --> 01:35:54,365
+ Započnete tretman s takvim djetetom. 
+Imat ćete puno problema 
+
+433
+01:35:54,469 --> 01:36:07,854
+ dok mu se poboljšava zdravlje. S čim?  Uglavnom s akutnim stanjima i kroničnim situacijama na fizičkom nivou. 
+
+434
+01:36:08,219 --> 01:36:18,094
+Ako poboljšate mentalno-emocionalno onda dijete lako razvije prehlade, dobije ovo ili ono,  
+
+435
+01:36:20,208 --> 01:36:33,771
+bolove u  želucu, crijevima, onda zbilja imate probleme.  Ne možete reći da su ti problemi 
+
+436
+01:36:33,875 --> 01:36:43,906
+zbog dokazivanja lijeka. To je stoga jer se organizam oporavlja i dolazi na drugi nivo zdravlja.  
+
+437
+01:36:44,625 --> 01:36:50,604
+Odlazi neravnoteža s mentalno-emocionalnog i dolazi na fizičku razinu.  
+
+438
+01:36:50,708 --> 01:37:01,271
+Organizam nema snagu donijeti je direktno na kožu i tada se bori u svom fizičkom tijelu. 
+
+439
+01:37:01,375 --> 01:37:11,385
+Imat ćete puno problema s takvom djecom. Ali kad ih dovedete do kraja, kad odrastu 
+
+440
+01:37:11,490 --> 01:37:29,438
+i postanu jaki konačno znate da ste nešto učinili. Ali na tom putu imate puno problema.  
+
+441
+01:37:29,542 --> 01:37:37,854
+Ako imate određeni slučaj, donesite mi cijeli slučaj, dajte mi sve detalje 
+
+442
+01:37:37,958 --> 01:37:42,698
+i onda ću vam dati odgovor da li je ovo ili ono. 
